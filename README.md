@@ -1,4 +1,4 @@
-webhook-authors
+Static builds using Webhook open source software
 ===============
 Includes Bourbon, Neat, and Bitters, plus normalize-scss, and a minimal print stylesheet.
 
