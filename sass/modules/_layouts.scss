@@ -1,0 +1,411 @@
+.row {
+  @include row();
+}
+
+.interior {
+  @include outer-container;
+}
+
+.content {
+  padding-bottom: 10em;
+}
+
+.entry-content {
+  text-align: left;
+}
+
+.row-bottom {
+  display: block;
+  width: 100%;
+  clear:both;
+  background-color:darken($base-body-color-background, 5%);
+
+  margin-top:10em;
+  color: #191919;
+  padding: 6em 1em 8em 1em;
+  .interior {
+
+  }
+
+  &:hover {
+    background-color:darken($base-body-color-background, 10%);
+    text-shadow: none;
+  }
+}
+.next-splash_image {
+  color: white;
+  text-shadow: 1px 1px 0 #000;
+}
+
+//GENERAL
+
+article {
+
+  overflow: hidden;
+  background-color: $article-color-background;
+}
+
+article.hentry {
+  border-radius:0;
+
+  header {
+    margin-bottom: .5em;
+  }
+    @include media($medium-screen-up) {
+
+    border-radius:2px;
+  }
+}
+
+body.splash article.hentry {
+  background-color: $article-color-background;
+  background-color: $article-color-background-splash;
+}
+article img:first-child {
+  float: none;
+  margin: 0 0 1.5em 0;
+  @include media($small-screen-up) {
+    float: left;
+    margin: .5em 1.4em 1.5em 0;
+  }
+}
+
+
+
+//======= Layouts =======//
+
+body.post .content {
+  // remove the padding so we can display our next post at the bottom of the page
+  padding-bottom: 0;
+}
+
+
+
+.layout-page { //pages
+  @include outer-container;
+  article {
+    @include span-columns(12);
+    @include pad();
+  }
+  aside {
+    @include span-columns(12);
+    @include pad();
+  }
+
+  @include media($medium-screen-up) {
+    article {
+      @include span-columns(9 of 12);
+        margin-top: -3.75em;
+        @include shift(1.5);
+    }
+    aside {
+      @include span-columns(3 of 12);
+      //@include reset-display;???
+    }
+  }
+}
+
+.layout-page-2-column {
+  @include outer-container;
+    margin-top: 2em;
+  aside {
+    //min-height: 100px;
+    height: auto;
+    width: 100%;
+    position: relative;
+    @include pad(2em);
+    margin: 0 auto 2em auto;
+    border-radius: 2px;
+  }
+  .content-primary {
+    @include span-columns(12);
+  }
+  .content-secondary {
+    @include span-columns(12);
+  }
+
+  @include media($medium-screen-up) {
+    .content-primary {
+      @include span-columns(8 of 12);
+      @include shift(.5);
+
+    }
+    .content-secondary {
+      @include span-columns(3 of 12);
+      //@include reset-display;???
+    }
+  }
+}
+
+
+.layout-page-2-column-wide-secondary {
+// using this layout on the events page,two widish, but not quite even columns
+  @include outer-container;
+  margin-top: 2em;
+  aside {
+    //min-height: 100px;
+    height: auto;
+    //width: 100%;
+    @include pad(2em);
+    margin: 0 auto 2em auto;
+    border-radius: 2px;
+  }
+  .content-primary {
+    @include span-columns(12);
+  }
+  .content-secondary {
+    @include span-columns(12);
+  }
+  @include media($medium-screen-up) {
+    .content-secondary {
+      @include span-columns(4 of 12);
+      //@include reset-display;???
+      @include omega();   
+    }
+    .content-primary {
+      @include span-columns(7 of 12);
+      @include shift(.5);
+    }
+  }
+}
+
+
+
+
+
+
+.layout-author {
+  // special layout that divides top row into three columns, and then shifts them so the bio on the right shows
+  // up on top (effectively left) on smaller viewports
+  @include outer-container;
+  article.hentry, aside.photo, aside.metadata {
+    @include span-columns(12);
+    @include pad(2em);
+  }
+  aside.metadata h6 {
+    clear:both;
+    margin-top:.5em;
+    //border-bottom:1px solid #ddd;
+  }
+  blockquote {
+    padding: 2em;
+  }
+  @include media($medium-screen-up) {
+    blockquote {
+      padding: 2em 10em;
+    }
+    article.hentry {
+      @include span-columns(4 of 12);
+      @include pad(1em 2em);
+      margin-top:-65px;
+      @include shift(8);
+    }
+    aside.metadata {
+      @include span-columns(5 of 12);
+      @include pad(3.5em 0);
+       @include shift(-9);
+    }
+    aside.photo {
+      @include span-columns(3 of 12);
+      @include pad(1em 0);
+      @include omega();
+       @include shift(-12);
+    }
+
+  }
+
+}
+
+.layout-book {
+  @include outer-container;
+  article.hentry {
+    @include span-columns(12);
+    @include pad(2em);
+    position: relative;
+  }
+  // h1.entry-title {
+  //   font-size: 90vw;
+  // }
+  section,
+  section.book-splash .book-cover,
+  section.book-splash .copy {
+    @include span-columns(12);
+    @include pad(2em);
+  }
+  @include media($medium-screen-up) {
+  // h1.entry-title {
+  //     font-size: $h1-font-size;
+  //   }
+
+    section.book-splash .book-cover,
+    section.book-splash .copy {
+      @include span-columns(6 of 12);
+      text-align: center;
+    }
+    section.book-splash .book-cover img {
+      text-align: center;
+      max-height: 90vh;
+      width: 100%;
+    }
+    article.hentry {
+      @include span-columns(8 of 12);
+      @include pad(1em 2em);
+      @include shift(2);
+      margin-top:-65px;
+    }
+    section.author-about {
+      @include span-columns(5 of 12);
+      @include pad(0);
+    }
+    section.author-metadata {
+      @include span-columns(5 of 12);
+    }
+  }
+}
+
+a:hover aside {
+  opacity: 0.9;
+
+}
+
+// blog
+.layout-single-column {
+
+
+    @include outer-container;
+
+
+  article.hentry, aside.photo, aside.metadata {
+    @include span-columns(12);
+    @include pad(2em);
+  }
+
+  aside.metadata h6 {
+    clear:both;
+    margin-top:.5em;
+    //border-bottom:1px solid #ddd;
+  }
+
+  @include media($medium-screen-up) {
+
+    blockquote {
+      padding: 2em 10em;
+    }
+
+    article.hentry {
+      @include span-columns(4 of 12);
+      @include pad(1em 2em);
+      margin-top:-65px;
+      @include shift(8);
+    }
+
+    aside.metadata {
+      @include span-columns(5 of 12);
+      @include pad(3.5em 0);
+       @include shift(-9);
+    }
+
+    aside.photo {
+      @include span-columns(3 of 12);
+      @include pad(1em 0);
+      @include omega();
+       @include shift(-12);
+
+    }
+
+  }
+
+}
+//=== end one column
+
+// for pages
+
+
+
+
+body.post .hero {
+  min-height: 350px;
+
+  h1 {
+    margn: auto;
+  }
+}
+.has-layout-post { //pages
+  @include outer-container;
+
+
+  .entry-content blockquote {
+    font-size: 1.4em;
+    border-top:1px solid #ddd;
+    border-bottom:1px solid #ddd;
+    padding: 2em;
+@include media($medium-screen-up) {
+    margin-left: -25.58941%;
+  }
+  }
+
+
+.lede {
+  font-family: $header-font-family;
+  font-size: 1.3125em;
+  max-width: 80%;
+}
+
+  article {
+      overflow: visible;
+    @include span-columns(12);
+    @include pad();
+
+        background:none !important; //overriding for the blog
+        font-family: $serif;
+
+    h2, h3 {
+      margin-bottom: 2em;
+    }
+  }
+
+  aside {
+    @include span-columns(12);
+    @include pad();
+    img {
+      margin: 3em auto;
+      max-width: 100%;
+      box-shadow: 0 30px 50px rgba(0,0,0,0.3);
+    }
+  }
+
+
+
+
+  @include media($medium-screen-up) {
+
+    article {
+      @include span-columns(8 of 12);
+
+      p {
+        font-size: 1.3125em;
+      }
+
+        h1.entry-title {
+          font-size: 4em;
+        }
+    }
+    article.top {
+      @include span-columns(9 of 12);
+        margin-top: -7.75em;
+        background-color:$base-body-color-background !important; //overriding for the blog
+        color: #191919;
+       // text-shadow: 1px 1px 0 #888;
+      }
+    aside {
+      @include span-columns(3 of 12);
+      //@include reset-display;???
+      margin-top: 6px;
+      min-height: 500px;
+    }
+  }
+
+
+
+
+}

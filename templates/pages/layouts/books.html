@@ -1,0 +1,46 @@
+{% extends "templates/partials/base.html" %}
+{% block title %}{% parent %} - {{ item.name }}{% endblock %}
+{% block content %}
+  <div class="has-layout layout-page-2-column-wide-secondary">
+    
+      <div class="entry-content prose">
+        {{ item.copy|safe }}
+
+
+{% set books = cms.book %}
+{% set books = books|sort('_sort_publication_date', true) %}
+
+
+  {# This is how you set pagination. It's always important to do this after your sort. #}
+  {% set books = paginate(books, 5000) %}
+
+
+{% for book in books|slice(0,20) %}
+
+
+
+<div class="" style="float:left;margin-right:27px;width:200px;"> {# {% cycle 'one', 'two', 'three' %} #}
+  <h1 class="book-title">
+          <a href="{{ url(book) }}">
+            {{ book.name }} <i class="icon-right-circled"></i>
+          </a>
+        </h1>
+
+          <img data-aload="{{ global.cdn_link_books }}/{{ book.cover_image_file }}" alt="cover image for {{ book.name }}">
+          <noscript>
+            <img src="{{ global.cdn_link_books }}/{{ book.cover_image_file }}" alt="cover image for {{ book.name }}">
+          </noscript>
+
+  </div>
+
+
+
+{% endfor %}
+
+
+
+
+      </div>
+    
+  </div>
+{% endblock %}

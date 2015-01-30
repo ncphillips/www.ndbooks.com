@@ -1,0 +1,35 @@
+
+{% set review = item.quote %}
+{% set reviews_of_this_author = item.reviews_about %}
+{% set page_name = item.name %}
+
+  
+  {% if review %}
+
+    <div class="hero-inner">
+      <div class="hero-copy">
+        <blockquote id="container-review-single" class="review">        
+          {% include "templates/partials/format-quotes.html" %}         
+        </blockquote>
+      </div>
+    </div>
+  
+  {% elseif reviews_of_this_author %}
+
+    {% for review in reviews_of_this_author|slice(0,1) %}
+      <div class="hero-inner">
+        <div class="hero-copy">
+          <blockquote id="container-review-single" class="review">        
+            {% include "templates/partials/format-quotes.html" %}         
+          </blockquote>
+         </div> 
+      </div>
+    {% endfor %}
+
+    {% else %}
+  
+      <h1 class="page-heading">{{ page_name }}</h1>
+
+    {% endif %}
+
+

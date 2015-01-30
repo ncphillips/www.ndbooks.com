@@ -1,0 +1,57 @@
+ul.button-group {
+  margin: 0;
+  display:inline-block;
+}
+ul.button-group li {
+  display: inline-block;
+  padding: .3em .47em;
+  margin-right: 1em;
+  color: #ccc;
+  border-radius: 3px;
+  background-color: lighten(#808080, 3%);
+
+  &.active {
+  background-color: lighten(#808080, 4%);
+  }
+}
+
+ul.button-group li:hover {
+  background-color: darken(#808080, 3%);
+  cursor: pointer;
+}
+
+
+button, input[type="submit"] {
+  background-color: $base-body-color-background;
+  padding: 0.5em .625em;
+  color: $dark-gray;
+  font-weight: 300;
+  border: 1px solid darken($base-body-color-background, 5%);
+  border-radius: 3px;
+}
+
+button.buy {
+  //background-color: darken($light-gray, 10%);
+  color: $red;
+}
+
+button:hover, input[type="submit"]:hover {
+
+  background-color: darken($light-gray,15%);
+color: white;
+
+}
+
+
+.has-layout-book button.buy {
+  position: absolute;
+  top: 1em;
+  right: 1em;
+  font-size: .875em;
+  padding-top:0.625em;
+  background-color: $red;
+  color: $lightest-gray;
+  font-weight: 600;
+  text-transform: uppercase;
+
+}

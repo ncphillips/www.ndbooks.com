@@ -1,0 +1,35 @@
+{{ review.copy|safe }}
+— 
+{% if review.author %}{#  if the reviewer is internal (item.author) #}
+  
+    
+  <a href="{{ url(review.author) }}">{{ review.author.name }}</a>
+
+
+{% else %}{#  else just use the name field #}
+  {% filter replace('<(?=p)|<(?=/p)/(?=p)|p>', '', 'g') %}
+    {{ review.name|markdown }}
+  {% endfilter %} 
+{% endif %}
+{% if review.related_author || review.related_book %}{#  if the review is related to an author or book, show 'on' #}
+  on 
+{% endif %}
+{% if review.related_author %}{#  if the review is related to an author, link to them #}
+  yoo
+    <a href="{{ url(review.related_author) }}">
+      {{ review.related_author.name }}{% if review.related_author && review.related_book %}'s{% endif %}{#  if the review is related to both an author and book, indicate that it is the author's book #}                
+    </a>
+  
+{% endif %}
+{% if review.related_book %}{#  if the review is related to a book, link to it #}
+  {% for relation in review.related_book %}<a href="{{ url(relation) }}">{{ relation.name }}</a>{% if not loop.last %}, {% endif %}{% endfor %}
+{% endif %}
+{% if review.link_to_original %} <a href="{{ review.link_to_original }}"><i class="icon-ion-link"></i></a>{% endif %}
+
+{# 
+todo: if there are more than one, show comma, 
+except on the last or penultimate. 
+john on book 1
+john on book1, book2, and book3
+john on book1 and book2
+#}

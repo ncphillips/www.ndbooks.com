@@ -1,0 +1,37 @@
+@mixin site-theme($base-color, $text-color) {
+  background-color: $base-color;
+  color: $text-color;
+  a {
+    color: $text-color;
+  }
+  a:hover {
+    color: darken($base-color, 8%);
+  }
+}
+@mixin site-theme-hero($base-color, $text-color) {
+  .hero {
+    color: $text-color;
+    background-color: $base-color;
+    a {
+      color: lighten($text-color, 4%);
+    }
+    li a {
+      color: lighten($text-color, 14%);
+    }
+    a:hover {
+      color: darken($text-color, 24%);
+    }
+    blockquote {
+      color: lighten($text-color, 15%);
+    }
+    .hero-inner h1 {
+      color: lighten($text-color, 32%);
+    }
+  }
+  ul.links li {
+    border: 1px solid lighten($base-color, 35%);
+  }
+  header.navigation {
+    border-bottom: 1px solid darken($base-color, 1%);
+  }
+}

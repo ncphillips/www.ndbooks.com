@@ -1,0 +1,24 @@
+<div class="page-item case-{{ loop.index }}"  id="{{ object.slug|replace('/', '') }}"> {# {% cycle 'one', 'two', 'three' %} #}
+    <section>
+      <div class="book-cover">
+
+
+          {% include "templates/partials/format-image-500px-wide.html" %}
+
+        
+
+        <br />
+      </div>
+      <div class="book-info">
+        <h1 class="book-title">
+          <a href="{{ url(book) }}">
+            {{ object.name }} <i class="icon-right-circled"></i>
+          </a>
+        </h1>
+        <div class="facing-item">
+          {{ object.copy|safe }}
+        </div>
+          <button name="button"> <a href="{{ url(object) }}">more information</a> </button> <button name="button" class="buy">buy</button>
+      </div>
+    </section>
+  </div>

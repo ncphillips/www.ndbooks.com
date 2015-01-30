@@ -1,0 +1,43 @@
+.small-print {
+	font-size:12px;
+}
+
+ul.inline {
+	padding:0;
+	margin:0;
+}
+ul.inline li{
+	line-height:1;
+	display: inline;
+	margin:0 2.2em 0 0;
+	padding:0;
+}
+
+ul.subfooter {
+	margin-top:5em;
+}
+
+ul.margin-none {
+	margin: 0;
+}
+
+ul.block-list {
+		clear:both;
+		margin-top:.375em;
+		li {
+			margin-bottom:.5em;
+		}
+		@include media($medium-screen-up) {
+			font-size: .9em;
+		}
+}
+
+
+ul.columns {
+		
+		@include media($medium-screen-up) {
+			@include columns(2 2em);
+			@include column-rule(1px solid $light-gray);
+
+		}
+}

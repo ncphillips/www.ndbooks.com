@@ -1,0 +1,66 @@
+{% extends "templates/partials/base.html" %}
+{% set page_name = 'Blog' %}
+  {% set now = Date() %}
+  {% set current_date = now |date('U') %}
+  {% set articles = cms.article %}
+  {% set articles = articles|sort('publish_date', true) %}
+  {% set events = cms.event %}
+  {% set events = events|sort('start_date', true) %}
+{% block title %}{% parent %} - {{ page_name }}{% endblock %}
+{% block content %}
+  <div id="section0" class="layout-page-2-column">
+    <section class="content-primary">
+      {% for article in articles|slice('0','5') %}
+        <a href="{{ url(article) }}" class="article" style="background-color: white;">
+          <div class="heading article-background"{% if article.featured_image %} style="background-position:center center;background-image:url({{ article.featured_image|imageCrop(340) }});background-size:cover;"{% endif %}>
+            <h3>
+              {{ article.name }} <i class="icon-right-circled"></i>
+            </h3>
+          </div>
+          <div class="lede">
+            {% if article.lede %}
+              <div class="excerpt">
+                {% filter replace('<(?=p)|<(?=/p)/(?=p)|p>', '', 'g') %}{{ article.lede|markdown }}{% endfilter %}
+              </div>
+            {% else %}
+              <blockquote class="quote_excerpt">              
+                {{ article.excerpt }}
+              </blockquote>
+            {% endif %}
+          </div>
+        </a>
+      {% endfor %}
+    </section>
+    <section class="content-secondary">
+      <aside class="theme-social">
+        <ul class="icons large">
+         {% include 'templates/partials/social-icons.html' %}
+        </ul>
+      </aside>
+      {% for event in events %}
+        {% set event_date = event.start_date|date('U') %}
+        {% if event.start_date && event_date > current_date %}
+          <a  href="{{ url(event) }}">
+            <aside class="theme-purple">
+              {% if event.start_date %}<h4>{{ event.start_date|date('F jS') }}</h4>{% endif %}
+              {{ event.name}}
+            </aside>
+          </a>
+        {% endif %}
+      {% endfor %}
+      <aside class="theme-dark-gray script-only hidden">
+        {% include 'templates/partials/social-twitter-stream.html' %}
+      </aside>
+    </section>
+    <div style="width:100%;clear:both;margin:4em auto;height:1px;">{# divider #}</div>
+    {% for article in articles|slice('5','25') %}
+      <a href="{{ url(article) }}" class="article-block">
+        <div class="heading">
+          <h4>
+            {{ article.name }} <i class="icon-right-circled"></i>
+          </h4>
+        </div>
+      </a>
+    {% endfor %}
+  </div>  
+{% endblock %}

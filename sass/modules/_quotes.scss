@@ -1,0 +1,85 @@
+blockquote {
+  border: none;
+}
+
+blockquote.review p {
+    margin: 0 auto 1em auto;
+}
+
+//font sizes
+
+#container-review-single{
+  font-size: .875em;
+  p {
+   font-size: 1.4375rem;
+   line-height: 1.4em;
+  }
+}
+
+
+blockquote.presentational {
+  font-size: .875em;
+  p {
+    font-size: 1.5625rem;
+    line-height: 1.6em;
+  }
+}
+
+// FONT & LAYOUT
+#container-review-single p, blockquote.review p, .quote_excerpt {
+  //width: 86.440678%; /* 510px / 590px = 86.440678% */ 
+  
+  //font-family: "SabonNextW04-DisplayIta", Georgia, "Times New Roman";
+  font-family: $brand-font-family;
+  font-style: normal;
+  font-weight: 500;
+  position: relative;
+}
+
+// CONTENT BEFORE AND AFTER
+
+#container-review-single p:before, blockquote.review p:before,  .quote_excerpt:before {
+  content: "\201C";
+  font-size: $base-font-size * 1.6;
+  //color: #9f9f9f;
+  position: relative;
+  top: 0.125em;
+  left: -0.125em;
+  //margin-right:.125em;
+  font-family: "SabonNextW04-DisplayIta", Georgia, "Times New Roman";
+
+}
+
+ .quote_excerpt:before {
+//margin-right:-.125em;
+left: 0.125em;
+ }
+
+#container-review-single p:after, blockquote.review p:after,  .quote_excerpt:after {
+  content: "\201D";
+  font-size: $base-font-size * 1.6;
+  //color: #9f9f9f;
+  position: relative;
+  bottom: -0.2em;
+  right: 0;
+  display: inline;
+    line-height: .2em;
+    font-family: "SabonNextW04-DisplayIta", Georgia, "Times New Roman";
+}
+
+
+.content blockquote.review {
+  //width:60%;
+  text-align: center;
+  margin: 5em auto;
+}
+
+
+
+////  QUOTES
+
+.quote, .quotes p {
+  font-size: $base-font-size * 1.6;
+  line-height: 1.5;
+  font-family: $serif;
+}

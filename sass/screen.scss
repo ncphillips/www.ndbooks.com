@@ -1,0 +1,99 @@
+//Base
+@import 
+  "bower_components/normalize-scss/normalize",
+  "bower_components/normalize-opentype.css/normalize-opentype",
+  "bower_components/bourbon/dist/bourbon",
+  "bower_components/neat/app/assets/stylesheets/neat-helpers",
+  "modules/grid-settings",//overrides bitters grid-settings
+  "bower_components/neat/app/assets/stylesheets/neat",
+  "base/base";
+
+// Mixins
+@import 
+  "mixins/themes", //color schemes for hero unit
+  "modules/mixins"; //where are we using this? 
+
+// Modules
+@import
+  "vendor/fonts", //typography.com
+  "modules/accessibility",
+  "modules/layouts",
+  
+  "modules/nav-top",
+  "modules/_refills/nav-sliding-menu",
+  "modules/_refills/hero-unit",
+  "modules/_refills/footer",
+
+  // GLOBAL
+  "modules/lists",
+  "vendor/fontello",
+  "modules/font-icons",
+  "modules/quotes",
+  "modules/social",
+
+  // PAGES
+  "modules/_refills/layout-comments", //BLOG PAGE
+
+  "modules/_refills/grid", //AUTHOR LISTING
+  "modules/_refills/tables", //AUTHOR LISTING
+  "modules/article-authors",
+  "modules/book-list-full-width", // FOR AUTHOR PAGES
+  "modules/book-page-styles", // FOR AUTHOR PAGES
+
+  "modules/paging-icons", //need Transition
+
+  "modules/themes", //color for hero unit
+  "modules/images", // manipulates images
+  "modules/buttons", // manipulates images
+  "modules/utilities", // manipulates images
+  "modules/nav-side", // blog nav
+  
+  "modules/content-blocks"; // blog nav
+
+
+body {
+  background-color: $base-body-color-background;
+}
+
+
+h4 a > .icon-right-circled {
+  font-size: $base-font-size * .5; // 16 * 1.5 = 24px
+  visibility: hidden;
+}
+h4 a:hover > .icon-right-circled {
+  visibility: visible;
+  @include animation(scale 1.0s ease-in, slide 2.0s ease);
+}
+
+
+// place when fleshed out
+
+.local-nav {
+  height: 3em;
+  width: 100%;
+  background-color: #ededed;
+  padding: 1.9em 2em 3.1em 2em;
+}
+// .outlined {
+//   @include span-columns(3);
+//   padding: 1em;
+//   background-color:#191919;
+//   background-color:rgba(0,0,0,0.78);
+//   color: #ddd;
+//   z-index: 1000;
+// }
+.entry-content img {
+  position: relative;
+  margin-bottom: 0;
+}
+
+.bud {
+  font-size: $base-font-size;
+}
+
+.bud-2 {
+  font-size: 1rem;
+}
+.bud-3 {
+  font-size: 2rem;
+}

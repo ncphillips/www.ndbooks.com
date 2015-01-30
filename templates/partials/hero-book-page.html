@@ -1,0 +1,24 @@
+<div class="hero-inner">
+      <header class="books">
+        {% if item.name %}
+          <h1 class="entry-title">{{ item.name }}{% if item.subtitle %} <small>{{ item.subtitle }}</small>{% endif %}</h1>
+        {% endif %}
+          {% set the_author = item.authors %}
+        {% if the_author %}
+          {% for author in the_author %}
+            <h2><small>by</small> <a href="{{ url(author) }}">{{ author.name }}</a></h2>
+          {% endfor %}
+        {% endif %}
+        <ul class="links">
+          <li>
+            <a href="">buying options</a>
+          </li>
+          <li>
+            <a href="">reviews</a>
+          </li>
+          <li>
+            <a href="">more</a>
+          </li>
+        </ul>
+      </header>
+    </div>

@@ -1,0 +1,16 @@
+{% extends "templates/partials/base.html" %}
+{% block title %}{% parent %} - {{ item.name }}{% endblock %}
+{% block content %}
+  <div class="has-layout layout-page">
+    <article class="hentry">
+      <header>
+        {% if item.name %}
+          <h1 class="entry-title">{{ item.name }}</h1>
+        {% endif %}
+      </header>
+      <div class="entry-content prose">
+        {{ item.copy|safe }}
+      </div>
+    </article>
+  </div>
+{% endblock %}

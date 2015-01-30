@@ -1,0 +1,27 @@
+{% if object.image %}
+  <img data-aload="{{ object.image|imageCrop(180) }}">
+    <noscript>
+      <img src="{{ object.image|imageCrop(180) }}">
+    </noscript>
+{% elseif object.image_file %}
+  <img data-aload="{{ global.cdn_link }}{{ object.image_file }}">
+    <noscript>
+      <img src="{{ global.cdn_link }}{{ object.image_file }}">
+    </noscript>
+{% elseif item.image %}
+  <img data-aload="{{ item.image|imageCrop(180) }}">
+    <noscript>
+      <img src="{{ item.image|imageCrop(180) }}">
+    </noscript>
+{% elseif item.image_file %}
+  <img data-aload="{{ global.cdn_link }}{{ item.image_file }}">
+    <noscript>
+      <img src="{{ global.cdn_link }}{{ item.image_file }}">
+    </noscript>
+{% else %}  <!-- TODO: Replace with nicer looking placeholder -->
+  <img data-aload="/static/images/logo-ndbooks-180x180-opacity-13.png">  
+    <noscript>
+      <img src="/static/images/logo-ndbooks-180x180-opacity-13.png">  
+    </noscript>
+{% endif %}
+

@@ -1,0 +1,222 @@
+{# ------------------------------------------------------- #}
+{# INDIVIDUAL VIEW FOR EACH book #}
+{# This page can use any data from http:localhost:2000/cms/#/form/book/ #}
+{# Webhook uses the SWIG.js (like Djagno/Twig) templating system. Their documentation is here: #}
+{# http://paularmstrong.github.io/swig/docs/tags/ #}
+{# Learn about calling data into Webhook pages here: #}
+{# http://www.webhook.com/docs/template-rules-and-filters/ #}
+{# ------------------------------------------------------- #}
+{# Confused what extends and blocks do? Watch a primer: #}
+{# http://www.webhook.com/docs/template-inheritance-blocks/ #}
+{% extends "templates/partials/base.html" %}
+{# This sets our page <title>. It will append this book's name to the site title defined in base.html #}
+{% block title %}{% parent %} - {{ item.name }}{% endblock %}
+{% block content %}
+  <p><a href="{{ url('book') }}">View a list of all book</a></p>
+  <h1>{{ item.name }}</h1>
+  <ul>
+      <li>
+        <strong>Name: </strong>
+        {{ item.name }}
+      </li>
+      <li>
+        <strong>Subtitle: </strong>
+        {{ item.subtitle }}
+      </li>
+      <li>
+        <strong>Publication Date: </strong>
+        {# Format the date. You can use PHP's date function to format as needed. http://php.net/manual/en/function.date.php #}
+        {{ item.publication_date|date('F d Y') }}
+      </li>
+      <li>
+        <strong>Cover Image: </strong>
+        {# You can pull out a lot more information from the image property. Info here: #}
+        {# http://www.webhook.com/docs/widget-template-reference/#image #}
+        <img src="{{ item.cover_image|imageSize(200) }}" />
+      </li>
+      <li>
+        <strong>cover image filename: </strong>
+        {{ item.cover_image_filename }}
+      </li>
+      <li>
+        <strong>Categorization: </strong>
+        {{ item.categorization }}
+      </li>
+      <li>
+        <strong>Genre: </strong>
+        {{ item.genre }}
+      </li>
+      <li>
+        <strong>Series: </strong>
+        {# Relationship. Note that use the label you set for the relation, not the content-type name. #}
+        {% for relation in item.series %}
+          {# You can ouput more than just the name. Feel free to output more fields from the CMS. #}
+          <a href="{{ url(relation) }}">{{ relation.name }}</a>{% if not loop.last %},{% endif %}
+        {% endfor %}
+      </li>
+      <li>
+        <strong>Type: </strong>
+        {# List the checkboxes available. Output their values. #}
+        <ul>
+          {% for option in item.type %}
+            {# Output the values for every option. Alternatively, wrap this in an if statement to only show True values. #}
+            <li>
+              {{ option.label }}: {{ option.value }}
+            </li>
+          {% endfor%}
+        </ul>
+      </li>
+      <li>
+        <strong>Original Language: </strong>
+        {# Relationship. Note that use the label you set for the relation, not the content-type name. #}
+        {# You can ouput more than just the name. Feel free to output more fields from the CMS. #}
+        <a href="{{ url(item.original_language) }}">{{ item.original_language.name }}</a>
+      </li>
+      <li>
+        <strong>Authors and Contributors: </strong>
+        {{ item.authors_and_contributors }}
+      </li>
+      <li>
+        <strong>Authors: </strong>
+        {# Relationship. Note that use the label you set for the relation, not the content-type name. #}
+        {% for relation in item.authors %}
+          {# You can ouput more than just the name. Feel free to output more fields from the CMS. #}
+          <a href="{{ url(relation) }}">{{ relation.name }}</a>{% if not loop.last %},{% endif %}
+        {% endfor %}
+      </li>
+      <li>
+        <strong>Create Date: </strong>
+        {# Format the date. You can use PHP's date function to format as needed. http://php.net/manual/en/function.date.php #}
+        {{ item.create_date|date('F d Y') }}
+      </li>
+      <li>
+        <strong>Last Updated: </strong>
+        {# Format the date. You can use PHP's date function to format as needed. http://php.net/manual/en/function.date.php #}
+        {{ item.last_updated|date('F d Y') }}
+      </li>
+      <li>
+        <strong>Publish Date: </strong>
+        {# Format the date. You can use PHP's date function to format as needed. http://php.net/manual/en/function.date.php #}
+        {{ item.publish_date|date('F d Y') }}
+      </li>
+      <li>
+        <strong>Translators: </strong>
+        {# Relationship. Note that use the label you set for the relation, not the content-type name. #}
+        {% for relation in item.translators %}
+          {# You can ouput more than just the name. Feel free to output more fields from the CMS. #}
+          <a href="{{ url(relation) }}">{{ relation.name }}</a>{% if not loop.last %},{% endif %}
+        {% endfor %}
+      </li>
+      <li>
+        <strong>Contributors: </strong>
+        {# Relationship. Note that use the label you set for the relation, not the content-type name. #}
+        {% for relation in item.contributors %}
+          {# You can ouput more than just the name. Feel free to output more fields from the CMS. #}
+          <a href="{{ url(relation) }}">{{ relation.name }}</a>{% if not loop.last %},{% endif %}
+        {% endfor %}
+      </li>
+      <li>
+        <strong>Copy and Excerpt: </strong>
+        {{ item.copy_and_excerpt }}
+      </li>
+      <li>
+        <strong>Copy: </strong>
+        {{ item.copy|safe }}
+      </li>
+      <li>
+        <strong>Excerpt: </strong>
+        {{ item.excerpt|safe }}
+      </li>
+      <li>
+        <strong>Editions: </strong>
+        {# Loop of your Repeatable Form items. Remember, you can sort the order in your CMS if you need. #}
+        <ul>
+        {% for row in item.editions %}
+            <li>
+              <strong>Type: </strong>
+              {{ row.type }}
+            </li>
+            <li>
+              <strong>Pulication Date: </strong>
+              {# Format the date. You can use PHP's date function to format as needed. http://php.net/manual/en/function.date.php #}
+                {{ row.pulication_date|date('F d Y') }}
+            </li>
+            <li>
+              <strong>Tagline: </strong>
+              {{ row.tagline }}
+            </li>
+            <li>
+              <strong>ISBN: </strong>
+              {{ row.isbn }}
+            </li>
+            <li>
+              <strong>Price US: </strong>
+              {{ row.price_us }}
+            </li>
+            <li>
+              <strong>Price CN: </strong>
+              {{ row.price_cn }}
+            </li>
+            <li>
+              <strong>Trim Size: </strong>
+              {{ row.trim_size }}
+            </li>
+            <li>
+              <strong>Page Count: </strong>
+              {{ row.page_count }}
+            </li>
+        {% endfor %}
+        </ul>
+      </li>
+      <li>
+        <strong>Page Design: </strong>
+        {{ item.page_design }}
+      </li>
+      <li>
+        <strong>Featured Image: </strong>
+        {# You can pull out a lot more information from the image property. Info here: #}
+        {# http://www.webhook.com/docs/widget-template-reference/#image #}
+        <img src="{{ item.featured_image|imageSize(200) }}" />
+      </li>
+      <li>
+        <strong>Related Items: </strong>
+        {{ item.related_items }}
+      </li>
+      <li>
+        <strong>Preview URL: </strong>
+        {{ item.preview_url }}
+      </li>
+      <li>
+        <strong>Slug: </strong>
+        {{ item.slug }}
+      </li>
+      <li>
+        <strong>Reviews (Related Book): </strong>
+        {# Relationship. Note that use the label you set for the relation, not the content-type name. #}
+        {% for relation in item.reviews_related_book %}
+          {# You can ouput more than just the name. Feel free to output more fields from the CMS. #}
+          <a href="{{ url(relation) }}">{{ relation.name }}</a>{% if not loop.last %},{% endif %}
+        {% endfor %}
+      </li>
+      <li>
+        <strong>Article (Related Book): </strong>
+        {# Relationship. Note that use the label you set for the relation, not the content-type name. #}
+        {% for relation in item.article_related_book %}
+          {# You can ouput more than just the name. Feel free to output more fields from the CMS. #}
+          <a href="{{ url(relation) }}">{{ relation.name }}</a>{% if not loop.last %},{% endif %}
+        {% endfor %}
+      </li>
+      <li>
+        <strong>Event (Related Book): </strong>
+        {# Relationship. Note that use the label you set for the relation, not the content-type name. #}
+        {% for relation in item.event_related_book %}
+          {# You can ouput more than just the name. Feel free to output more fields from the CMS. #}
+          <a href="{{ url(relation) }}">{{ relation.name }}</a>{% if not loop.last %},{% endif %}
+        {% endfor %}
+      </li>
+      <li>
+        <strong>Entry ID: </strong>
+        {{ item.entry_id }}
+      </li>
+  </ul>
+{% endblock %}

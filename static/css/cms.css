@@ -1,0 +1,12 @@
+
+.wh-updates {
+  display: none;
+}
+
+.wh-logo {
+  background-image:url(/static/images/logo-ndbooks-777-64-6x81.png);
+  background-size: contain;
+  height: 78px;
+  background-color: transparent;
+  width: auto;
+}

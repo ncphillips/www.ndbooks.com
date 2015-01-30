@@ -1,0 +1,130 @@
+$page-item-background-color: #f0f3f5; //<- has a bluish tint
+//dbe2e7
+
+// give the books section some space
+.page-items {
+  margin: 5em 0;
+}
+
+// make each book a row
+.page-item {
+  clear: both;
+  background:$page-item-background-color;
+  //margin:8em 0;
+  border-top: 1px solid darken(#f1eff0, 5%);
+  //border-bottom: 1px solid darken(#f1eff0, 5%)
+  @include pad(2em);
+  h1 a {
+    color: $black;
+
+    &:hover {
+      color: $base-accent-color;
+    }
+  }
+  @include media($medium-screen-up) {
+    @include pad(7em 12em);
+
+  }
+
+}
+
+// set up alternating background colors (unused this far in metalsmtih)
+
+.one, .case-1, .case-5, .case-9, .case-13 {
+  background-color: $page-item-background-color;
+}
+
+.two, .case-2, .case-6, .case-10, .case-4 {
+  background-color: darken($page-item-background-color, 1%);
+}
+
+.three, .case-3, .case-7, .case-11, .case-15 {
+  background-color: lighten($page-item-background-color, 3%);
+}
+
+.four, .case-4, .case-8, .case-12, .case-16 {
+  background-color: darken($page-item-background-color, 5%);
+}
+
+// == Hide reviews - not using this
+.hidden-item {
+	position: absolute;
+	text-align: center;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	opacity: 0;
+	transition: opacity .25s ease;
+
+	background: radial-gradient(ellipse at center,#fff 10%,rgba(255,255,255,.6) 100%);
+	pointer-events:none;
+}
+
+.facing-item :hover {
+	//opacity: 0;
+	transition: opacity .25s ease;
+
+}
+
+
+// ==GRID put the cover and description in their own grid
+
+
+.page-item section {
+  @include outer-container;
+  //padding: 5em 12em;
+}
+
+.book-cover {
+  @include span-columns(6 of 6);
+  margin-bottom: 2em;
+  @include media($medium-screen-up) {
+    @include span-columns(2 of 6);
+    margin-bottom: 1em;
+    margin-top: 1.0625em;
+  }
+}
+
+.book-info {
+  @include span-columns(6 of 6);
+  @include media($medium-screen-up) {
+    @include span-columns(4 of 6);
+  }
+}
+
+
+//== PRETTY
+
+.book-cover img {
+    max-width: 100%;
+	 box-shadow: 0 30px 50px rgba(0,0,0,0.3);
+}
+
+@include media($medium-screen-up) {
+.book-cover img:hover   {
+	-webkit-transform: scale(1.8);
+  -moz-transform: scale(1.8);
+  -o-transform: scale(1.8);
+  transform: scale(1.8);
+  transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  z-index: 500;
+  overflow: visible;
+}
+body.book .book-cover img:hover   {
+  -webkit-transform: scale(1.3);
+  -moz-transform: scale(1.3);
+  -o-transform: scale(1.3);
+  transform: scale(1.3);
+  transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  z-index: 500;
+  overflow: visible;
+}
+
+.book-cover img:hover body {
+	opacity: 0.3;
+	background-color:#111;
+}
+}

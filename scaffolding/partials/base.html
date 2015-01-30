@@ -1,0 +1,18 @@
+{% set now = Date() %}{% set current_unix_date = now|date('U') %}{% set global = cms.global %}
+{% include "templates/partials/head.html" %}
+{# body classes: if splash_image, category, theme, page class #}
+<body id="container" class="{{ item.theme.name }} {% if item.splash_image %} splash{% endif %}">
+<a href="#start-of-content" tabindex="1" class="accessibility-aid">Skip to content</a>
+  {% block hero %}
+    {% include "templates/partials/hero.html" %}
+  {% endblock %}
+  <div class="{% if splash_image %}content_splash{% endif %}">
+    <section class="content">
+      <div id="start-of-content" class="accessibility-aid"></div>
+      {% block content %}{% endblock %}
+    </section>
+  </div>
+  {% include "templates/partials/footer.html" %}
+  {% include "templates/partials/scripts.html" %}
+</body>
+</html>

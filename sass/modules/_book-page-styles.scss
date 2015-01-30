@@ -1,0 +1,82 @@
+// .author-photo {
+//   width:240px;
+//   float:left;
+// }
+
+.author-photo img {
+  max-width:300px;
+  margin:1em 1em 1em 0;
+  border:1px solid #ddd;
+}
+
+
+// .author-photo {
+//   width:240px;
+//   float:left;
+// }
+
+
+// //bump up the size of the copy in the book presentation
+// .book-splash {
+//   blockquote {
+//     font-size: 1.6em;
+//   }
+//   p {
+//     font-size: 1.3em;
+//   }
+// }
+
+
+.outlined { //styles only
+  padding: 1em;
+  background-color:#191919;
+  background-color:rgba(0,0,0,0.78);
+  color: #ddd;
+}
+
+.author-block {
+  position: relative;
+}
+
+img.author-photo {
+  //@include span-columns(8);
+  //margin:1em 1em 1em 0;
+  //border:1px solid #ddd;
+
+  width: 65%;
+  max-width: 300px;
+  position: absolute;
+  top: 15px;
+  left: 0px;
+  z-index: -1;
+}
+
+
+.outlined {
+  width:57%;
+  position: absolute;
+  z-index: 1000;
+  right: 0px;
+  top: 0px;
+}
+
+
+
+
+ul.links {
+  margin-top: 1em;
+  @include media($small-screen-up) {
+      float: right
+  }
+}
+ul.links li {
+  border: 1px solid darken($medium-gray, 20%);
+  border-radius: 3px;
+  padding: .25em .425em;
+  margin-right: .5em;
+  display: inline-block;
+}
+
+ul.links li {
+  display: inline-block;
+}

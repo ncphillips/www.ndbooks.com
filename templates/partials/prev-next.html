@@ -1,0 +1,21 @@
+<div class="pagination" style="margin: 2em auto">
+  <ul>
+    {% if prev %}
+      <li class="page-prev"><a href="{{ url(prev) }}">Previous {{ prev.name }}</a></li>
+    {% endif %}
+    {% if next %}
+      <li class="page-next"><a href="{{ url(next) }}">Next {{ next.name }}</a></li>
+    {% endif %}
+  </ul>
+</div>
+
+<script>
+  document.body.onkeyup = function(e){
+    {% if prev %}
+      if (e.keyCode == '37') { window.location = '{{ url(prev) }}'; }
+    {% endif %}
+    {% if next %}
+      if (e.keyCode == '39') { window.location = '{{ url(next) }}'; }
+    {% endif %}
+  };
+</script>
