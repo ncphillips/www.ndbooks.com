@@ -32,6 +32,9 @@
   background-color:#191919;
   background-color:rgba(0,0,0,0.78);
   color: #ddd;
+  h4 a {
+    color: $base-accent-color;
+  }
 }
 
 .author-block {

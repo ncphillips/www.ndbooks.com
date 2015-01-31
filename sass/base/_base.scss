@@ -4,7 +4,7 @@
  * MIT License */
 
 // Variables
-@import "../modules/variables";
+@import "variables";
 
 // Neat Settings -- uncomment if using Neat -- must be imported before Neat
 // @import "grid-settings";
@@ -17,7 +17,7 @@
 @import "extends/hide-text";
 
 // Typography and Elements
-@import "../modules/typography";
+@import "typography";
 @import "forms";
 @import "tables";
 @import "lists";

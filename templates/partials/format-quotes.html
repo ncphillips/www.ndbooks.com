@@ -1,4 +1,4 @@
-{{ review.copy|safe }}
+{{ review.copy|safe|replace(' ([^ ]+)$', '&nbsp;$1') }}
 — 
 {% if review.author %}{#  if the reviewer is internal (item.author) #}
   <a href="{{ url(review.author) }}">{{ review.author.name }}</a>

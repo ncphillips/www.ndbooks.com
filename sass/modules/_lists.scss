@@ -26,9 +26,14 @@ ul.block-list {
 		margin-top:.375em;
 		li {
 			margin-bottom:.5em;
+			font-family: $header-font-family;
+			
 		}
-		@include media($medium-screen-up) {
-			font-size: .9em;
+		// @include media($medium-screen-up) {
+		// 	font-size: .9em;
+		// }
+		a:hover {
+			background-color: darken($base-body-color-background, 5%);
 		}
 }
 

@@ -6,3 +6,8 @@ img.grayscale, .grayscale img {
   filter: url('/assets/images/gray.svg#grayscale');
   filter: gray;
 }
+
+
+aside.photo img {
+  box-shadow: 0 13px 50px rgba(0,0,0,0.3);
+}

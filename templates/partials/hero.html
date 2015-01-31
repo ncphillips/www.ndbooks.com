@@ -16,6 +16,8 @@
   
   {% elseif reviews_of_this_author %}
 
+    {% if not item.featured_image %}
+
     {% for review in reviews_of_this_author|slice(0,1) %}
       <div class="hero-inner">
         <div class="hero-copy">
@@ -24,8 +26,10 @@
           </blockquote>
          </div> 
       </div>
-    {% endfor %}
+      
 
+    {% endfor %}
+{% endif %}
     {% else %}
   
       <h1 class="page-heading">{{ page_name }}</h1>

@@ -4,6 +4,11 @@
   {% include "templates/partials/hero-book-page.html" %}
 {% endblock %}
 {% block content %}
+{% set authors = item.authors %}
+{% set translators = item.translators %}
+{% set original_language = item.original_language %}
+
+
   <div class="has-layout layout-book">
 
 {# //Top row = book cover on left, quote and tagline on right #}
@@ -48,9 +53,11 @@
           <h1 class="entry-title">{{ item.name }}</h1>
         {% endif %}
         {% if authors %}
+        <h2><small>by</small> 
           {% for author in authors %}
-            <h2><small>by</small> <a href="{{ url(author) }}">{{ author.name }}</a></h2>
+            <a href="{{ url(author) }}">{{ author.name }}</a>{% if loop.revindex != 2 %}{% if not loop.last %}, {% endif %}{% endif %}{% if loop.revindex == 2 %} and {% endif %}
           {% endfor %}
+          </h2>
         {% endif %}
       </header>
       {% if item.copy %}
@@ -69,11 +76,41 @@
 
 {# ROW with Author and metadata information #}
   <div class="row light-gray">
-    {% set authors = item.authors %}
-    {% if authors %}
+    <div class="has-layout layout-book">
+
+    
+
+
+      <div class="row"  id="{{object.slug}}">
+        <section class="author-metadata">
+        {% if translators %}
+          <h6>
+            <small>translated{% if original_language %} from {{ original_language.name }}{% endif %} by</small> {% for translator in translators %}<a href="{{ url(translator) }}">{{ translator.name }}</a>{% endfor %}
+          </h6>          
+        {% endif %}
+
+      {% if isbn %}
+      <small>ISBN: {{ isbn }}</small>
+      {% endif %}
+      </section>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+{% if authors %}
       {% for object in authors %}
-        <div class="row"  id="{{object.slug}}">
-          <div class="has-layout layout-book">
 
             <section class="author-about" style="min-height:500px;">
               <div class="author-block">
@@ -89,34 +126,23 @@
                   </div>
                   {% endif %}
                 </div>
-                  <div class="author-photo">
-                        {% include "templates/partials/format-image-500px-high.html" %}
-                  </div>
-                
+                  <a href="{{ url(object) }}" class="author-photo">
+                    {% include "templates/partials/format-image-300px-cropped.html" %}
+                  </a>                
               </div>
             </section>
+{% endfor %}
+    {% endif %}
 
-            <section class="author-metadata">
-            {% if the_translator.length %}
-              {% for translator in the_translator %}
-                <h6><small>translated{% if original_language %} from {{ original_language }}{% endif %} by</small> <a href="/{{ translator.path }}">{{ translator.title }}</a></h6>
-              {% endfor %}
-            {% endif %}
 
-              {% if isbn %}
-                <small>ISBN: {{ isbn }}</small>
-              {% endif %}
-            </section>
+            
 
 
     </div>
 
   <hr class="section-divider" style="margin-bottom:8em;" />
   </div>{#  //row #}
-      {% endfor %}
-    {% endif %}
-  </div>
-
+      
 
 
 
