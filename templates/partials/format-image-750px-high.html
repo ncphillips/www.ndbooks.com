@@ -9,9 +9,9 @@
       <img src="{{ global.cdn_link }}{{ object.image_file }}" alt="cover image for {{ object.name }}" class="width-500">
     </noscript>
 {% elseif item.image %}
-  <img data-aload="{{ item.image|imageSize(500) }}" alt="cover image for {{ item.name }}" class="width-500">
+  <img src="{{ item.image|imageSize(750) }}" alt="cover image for {{ item.name }}" class="width-500">
     <noscript>
-      <img src="{{ item.image|imageSize(500) }}" alt="cover image for {{ item.name }}" class="width-500">
+      <img src="{{ item.image|imageSize(750) }}" alt="cover image for {{ item.name }}" class="width-500">
     </noscript>
 {% elseif item.image_file %}
   <img data-aload="{{ global.cdn_link }}{{ item.image_file }}" alt="cover image for {{ item.name }}" class="width-500">

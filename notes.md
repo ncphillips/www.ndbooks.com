@@ -5,6 +5,8 @@ books
  - series
  - 
 
+ some books have more than one language, that's not accounted for in the drop down. these are edge cases, but how to handle?
+
 AUTHOR
 
 TODO: give books listing more/even space

@@ -1,3 +1,39 @@
 ul.icons, ul.icons li {
   display: inline-block;
 }
+
+
+
+  
+  ul.icon-circle {
+    list-style: none;
+    width:50px;
+    margin:2em auto;
+
+  li {
+    display: inline-block;
+    background-color: $black;
+    border-radius: 50%;
+    // height: 40px;
+    // width: 40px;      
+    &:hover, &:active {
+        background-color: lighten($black, 30%);
+        color: $black;
+      }
+
+    a {
+      display: table-cell;
+      vertical-align: middle; 
+      text-align: center;               
+      color:$light-gray;
+      i {
+        font-size: 1.75em;   
+        color:$light-gray;     
+      } 
+      &:hover, &:active {
+        text-decoration: none;
+        
+      }
+    }
+  }
+}

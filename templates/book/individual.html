@@ -4,9 +4,9 @@
   {% include "templates/partials/hero-book-page.html" %}
 {% endblock %}
 {% block content %}
-{% set authors = item.authors %}
-{% set translators = item.translators %}
-{% set original_language = item.original_language %}
+  {% set authors = item.authors %}
+  {% set translators = item.translators %}
+  {% set original_language = item.original_language %}
 
 
   <div class="has-layout layout-book">
@@ -30,7 +30,7 @@
           <strong>{{ item.editions[0].tagline|markdown }}</strong>
           {% endif %}
  #}
-{% set editions = item.editions %}
+    {% set editions = item.editions %}
 
 
 {% if item.editions %}
@@ -44,6 +44,9 @@
 {#  // END TOP ROW #}
 
   <hr />
+
+
+
 
 {# Row with book synopsis   #}
   <section class="row">
@@ -59,6 +62,12 @@
           {% endfor %}
           </h2>
         {% endif %}
+        
+        {% if translators %}
+          <h5>
+            <small>translated{% if item.language_translated_from %} from {{ item.language_translated_from }}{% endif %} by</small> {% for translator in translators %}<a href="{{ url(translator) }}">{{ translator.name }}</a>{% if loop.revindex != 2 %}{% if not loop.last %}, {% endif %}{% endif %}{% if loop.revindex == 2 %} and {% endif %}{% endfor %}
+          </h5>          
+        {% endif %}
       </header>
       {% if item.copy %}
         <div class="entry-content lead prose">
@@ -72,6 +81,9 @@
 
 </div>{#  //has-layout-book #}
 
+
+
+
 <hr class="section-divider" style="margin-bottom:8em;" />
 
 {# ROW with Author and metadata information #}
@@ -83,12 +95,7 @@
 
       <div class="row"  id="{{object.slug}}">
         <section class="author-metadata">
-        {% if translators %}
-          <h6>
-            <small>translated{% if original_language %} from {{ original_language.name }}{% endif %} by</small> {% for translator in translators %}<a href="{{ url(translator) }}">{{ translator.name }}</a>{% endfor %}
-          </h6>          
-        {% endif %}
-
+        
       {% if isbn %}
       <small>ISBN: {{ isbn }}</small>
       {% endif %}

@@ -65,6 +65,12 @@
   }
 }
 
+.featured_image {
+  @include media($large-screen) {
+  background-attachment: fixed;
+  }
+}
+
 @include media($medium-screen-down){
   h1 small:before {
     content:"";

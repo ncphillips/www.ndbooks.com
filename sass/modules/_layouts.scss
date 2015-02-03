@@ -245,7 +245,7 @@ body.post .content {
     section.book-splash .book-cover img {
       text-align: center;
       max-height: 90vh;
-      width: 100%;
+      //width: 100%;
     }
     article.hentry {
       @include span-columns(8 of 12);

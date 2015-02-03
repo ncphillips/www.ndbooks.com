@@ -48,7 +48,7 @@
         <div class="copy">
           <h1 class="entry-title name" id="author-{{ loop.index }}">{{ item.name }}</h1>
             {% if item.tagline %}
-              <small class="tagline">{% filter replace('<(?=p)|<(?=/p)/(?=p)|p>', '', 'g') %}{{ item.tagline|safe}}{% endfilter %}</small>
+              <small>{% filter replace('<(?=p)|<(?=/p)/(?=p)|p>', '', 'g') %}{{ item.tagline|safe}}{% endfilter %}</small>
             {% endif %}
             <span class="slug hidden">{{ item.slug }}</span>
             {% if item.full_name.last %}<span class="last_name_sort hidden">{{ item.full_name.last }}</span>{% endif %}

@@ -40,13 +40,14 @@ blockquote.presentational {
 
 #container-review p:before, #container-review-single p:before, blockquote.review p:before,  .quote_excerpt:before {
   content: "\201C";
-  font-size: $base-font-size * 1.6;
+  //font-size: $base-font-size * 1.6;
+  font-size: $base-font-size * 1.2;
   //color: #9f9f9f;
   position: relative;
   top: 0.125em;
   left: -0.125em;
   //margin-right:.125em;
-  font-family: "SabonNextW04-DisplayIta", Georgia, "Times New Roman";
+  //font-family: "SabonNextW04-DisplayIta", Georgia, "Times New Roman";
 
 }
 
@@ -57,21 +58,22 @@ left: 0.125em;
 
 #container-review p:after, #container-review-single p:after, blockquote.review p:after,  .quote_excerpt:after {
   content: "\201D";
-  font-size: $base-font-size * 1.6;
+  //font-size: $base-font-size * 1.6;
+  font-size: $base-font-size * 1.2;
   //color: #9f9f9f;
   position: relative;
   bottom: -0.2em;
   right: 0;
   display: inline;
     line-height: .2em;
-    font-family: "SabonNextW04-DisplayIta", Georgia, "Times New Roman";
+    //font-family: "SabonNextW04-DisplayIta", Georgia, "Times New Roman";
 }
 
 
 .content blockquote.review {
   //width:60%;
   text-align: center;
-  margin: 5em auto;
+  margin: 3em auto;
 }
 
 

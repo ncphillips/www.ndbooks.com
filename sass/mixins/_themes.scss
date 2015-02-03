@@ -7,6 +7,10 @@
   a:hover {
     color: darken($base-color, 8%);
   }
+  button, input[type="submit"] {
+    background-color:$base-color;
+    color: $text-color;
+  }
 }
 @mixin site-theme-hero($base-color, $text-color) {
   .hero {
