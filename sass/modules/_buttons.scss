@@ -30,6 +30,10 @@ button, input[type="submit"] {
   border-radius: 3px;
 }
 
+button a {
+  color: $lightest-gray;
+}
+
 // button.buy {
 //   //background-color: darken($light-gray, 10%);
 //   color: $red;

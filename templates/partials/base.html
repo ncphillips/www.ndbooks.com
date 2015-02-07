@@ -15,14 +15,14 @@
 </head>
 {# body classes: if splash_image, category, theme, page class #}
 <body id="container" class="{{ item.theme.name }} {{ item._type }}{% if item.page_layout %}-{{ item.page_layout|replace('.html','') }}{% endif %}{% if item.splash_image %} splash{% endif %}" {% block body_attributes %}{% endblock %}>
-
+<div class="wrap">
   <a href="#start-of-content" tabindex="1" class="accessibility-aid">Skip to content</a>
 
   {% if item.featured_image %}
     <div class="hero featured_image"  style="
       background: linear-gradient(to bottom, rgba(0,0,0,1) 0%,rgba(0,0,0,0.63) 25%,rgba(0,0,0,0.07) 87%,rgba(0,0,0,0.07) 100%),url({{ item.featured_image|imageSize(1600) }}) no-repeat center {% if item.featured_image_position %}{{ item.featured_image_position }}{% else %}center{% endif %};
       filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e6000000', endColorstr='#8c000000',GradientType=0 );
-      background-size:cover;{% if item.banner_height %}height:{{ item.banner_height }}px;{% endif %}" data-velocity=".4" data-fit="0">
+      background-size:cover;{% if item.banner_height %}height:{{ item.banner_height }}px;{% endif %}background-position:fixed;" data-velocity=".4" data-fit="0">
   {% else %}
     <div class="hero">
   {% endif %}
@@ -45,6 +45,10 @@
   {% include "templates/partials/scripts.html" %}
 
   {% block scripts_extra %}{% endblock %}
-
+</div>
   </body>
 </html>
+
+{# 
+TODO:
+fill out linear gradients for cros-browser #}

@@ -85,7 +85,7 @@ body.post .content {
   @include outer-container;
   article {
     @include span-columns(12);
-    @include pad();
+    @include pad(5em);
   }
   aside {
     @include span-columns(12);

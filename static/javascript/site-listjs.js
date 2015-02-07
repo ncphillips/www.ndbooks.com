@@ -2,7 +2,7 @@
     var options = {
         valueNames: [ 'name', 'author','slug' , 'date', 'category', 'category1', 'category2', 'category3', 'category4', 'category5', 'tagline', 'last_name_sort', 'genre'],
         listClass: 'list-filter',
-        page: 2500 // how many items should first show up on the page - affects performance
+        page: 20000 // how many items should first show up on the page - affects performance
         // add tagline, or option for it?
     };
 
@@ -159,46 +159,46 @@ if (document.getElementById("filter-designers")) {
 //         };
 //       }
 
-var booksList  = new List('container-filter-books', options);
+// var booksList  = new List('container-filter-books', options);
 
-var filterBtns = $('input[name="filter"]');
+// var filterBtns = $('input[name="filter"]');
 
-filterBtns.change(function() {
-  var validValues = [];
+// filterBtns.change(function() {
+//   var validValues = [];
 
-  filterBtns.each(function() {
+//   filterBtns.each(function() {
 
-    if ($(this).is(':checked')) {
-      validValues.push($(this).val());
-    }
+//     if ($(this).is(':checked')) {
+//       validValues.push($(this).val());
+//     }
 
-  });
-
-
-
-  booksList.filter(function(item) {
-
-
-     if (
-
-       (     (validValues.indexOf(item.values().date) > -1) && (validValues.indexOf(item.values().category) > -1)) || (validValues.indexOf(item.values().date) > -1) || (validValues.indexOf(item.values().category) > -1)
-
-
-      )
-     {
-      return true;
-
-    }
+//   });
 
 
 
+//   booksList.filter(function(item) {
 
 
-    else {
-      return false;
-    }
+//      if (
+
+//        (     (validValues.indexOf(item.values().date) > -1) && (validValues.indexOf(item.values().category) > -1)) || (validValues.indexOf(item.values().date) > -1) || (validValues.indexOf(item.values().category) > -1)
+
+
+//       )
+//      {
+//       return true;
+
+//     }
 
 
 
-  });
-});
+
+
+//     else {
+//       return false;
+//     }
+
+
+
+//   });
+// });

@@ -32,7 +32,7 @@
 
 
 
-<div id="container" class="grid-container"><!--  //Creates a grid-box for the authors -->
+<div id="container" class="grid-container" data-href="auto-awesome" style="max-width:98%;margin:auto;"><!--  //Creates a grid-box for the authors -->
   <ul class="grid-items-lines list-filter">
 
     {% for item in authors %}
@@ -92,4 +92,101 @@
   {# The actual pagination template, feel free to edit or replace the default one. #}
   {% include "templates/partials/paginator.html" %}
 
+
+
+
+<style type="text/css">
+  
+  .nav {
+    border-radius: 12px;
+    background-color: white;
+    position: fixed;
+    padding: 10px 6px;
+    right:35px;
+    width: 24px;
+    z-index: 40;
+  }
+
+  .nav .nav-wrap {
+    overflow: hidden;
+    position: relative;
+    transition: .5s;
+  }
+</style>
+
+
+
+
+<div class="nav dark" style="margin-top: -64px; top: 286px;">
+        <div class="nav-wrap home" style="margin-bottom: 12px; max-height: 12px;">
+          <a class="nav-button" data-page="cover" data-section="home" href="./">Home<div class="circle-container circle-container-left"><div class="smart-object circle-half" style="position: absolute; -webkit-transform-style: flat; -webkit-backface-visibility: hidden; -webkit-transform: translate3d(0px, 0px, 0px) rotate(360deg); -webkit-transform-origin: 0% 50% 0px; opacity: 0;"></div></div><div class="circle-container circle-container-right"><div class="smart-object circle-half" style="position: absolute; -webkit-transform-style: flat; -webkit-backface-visibility: hidden; -webkit-transform: translate3d(0px, 0px, 0px) rotate(180deg); -webkit-transform-origin: 0% 50% 0px; opacity: 0;"></div></div></a>
+        </div>
+        <div class="nav-wrap auto-awesome" style="margin-bottom: 12px; max-height: 12px;">
+          <a class="nav-button" data-page="cover" data-section="auto-awesome" href="./?page=auto-awesome">Auto Awesome<div class="circle-container circle-container-left"><div class="smart-object circle-half" style="position: absolute; -webkit-transform-style: flat; -webkit-backface-visibility: hidden; -webkit-transform: translate3d(0px, 0px, 0px) rotate(360deg); -webkit-transform-origin: 0% 50% 0px; opacity: 0;"></div></div><div class="circle-container circle-container-right"><div class="smart-object circle-half" style="position: absolute; -webkit-transform-style: flat; -webkit-backface-visibility: hidden; -webkit-transform: translate3d(0px, 0px, 0px) rotate(180deg); -webkit-transform-origin: 0% 50% 0px; opacity: 0;"></div></div></a>
+          <div class="subnav-container">
+            <a class="sub-dot" data-page="sub" data-section="movie" href="./?page=movie">Movie</a>
+            <a class="sub-dot" data-page="sub" data-section="stories" href="./?page=stories">Stories</a> <a class="sub-dot active" data-page="sub" data-section="panorama" href="./?page=panorama">Panorama</a>
+          </div>
+        </div>
+        <div class="nav-wrap auto-enhance" style="margin-bottom: 12px; max-height: 12px;">
+          <a class="nav-button" data-page="cover" data-section="auto-enhance" href="./?page=auto-enhance">Auto Enhance<div class="circle-container circle-container-left"><div class="smart-object circle-half" style="position: absolute; -webkit-transform-style: flat; -webkit-backface-visibility: hidden; -webkit-transform: translate3d(0px, 0px, 0px) rotate(360deg); -webkit-transform-origin: 0% 50% 0px; opacity: 0;"></div></div><div class="circle-container circle-container-right"><div class="smart-object circle-half" style="position: absolute; -webkit-transform-style: flat; -webkit-backface-visibility: hidden; -webkit-transform: translate3d(0px, 0px, 0px) rotate(180deg); -webkit-transform-origin: 0% 50% 0px; opacity: 0;"></div></div></a>
+        </div>
+        <div class="nav-wrap auto-backup" style="margin-bottom: 12px; max-height: 12px;">
+          <a class="nav-button" data-page="cover" data-section="auto-backup" href="./?page=auto-backup">Auto Backup<div class="circle-container circle-container-left"><div class="smart-object circle-half" style="position: absolute; -webkit-transform-style: flat; -webkit-backface-visibility: hidden; -webkit-transform: translate3d(0px, 0px, 0px) rotate(360deg); -webkit-transform-origin: 0% 50% 0px; opacity: 0;"></div></div><div class="circle-container circle-container-right"><div class="smart-object circle-half" style="position: absolute; -webkit-transform-style: flat; -webkit-backface-visibility: hidden; -webkit-transform: translate3d(0px, 0px, 0px) rotate(180deg); -webkit-transform-origin: 0% 50% 0px; opacity: 0;"></div></div></a>
+          <div class="subnav-container">
+            <a class="sub-dot" data-page="sub" data-section="search" href="./?page=search">Search</a>
+          </div>
+        </div>
+        <div class="nav-wrap footer" style="margin-bottom: 0px; max-height: 12px;">
+          <a class="nav-button" data-page="cover" data-section="footer" href="./?page=footer">Footer<div class="circle-container circle-container-left"><div class="smart-object circle-half" style="position: absolute; -webkit-transform-style: flat; -webkit-backface-visibility: hidden; -webkit-transform: translate3d(0px, 0px, 0px) rotate(180deg); -webkit-transform-origin: 0% 50% 0px;"></div></div><div class="circle-container circle-container-right"><div class="smart-object circle-half" style="position: absolute; -webkit-transform-style: flat; -webkit-backface-visibility: hidden; -webkit-transform: translate3d(0px, 0px, 0px); -webkit-transform-origin: 0% 50% 0px;"></div></div></a>
+        </div>
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 {% endblock %}
+
+
+
+

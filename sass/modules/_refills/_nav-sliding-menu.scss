@@ -45,9 +45,9 @@ $sliding-menu-color-hover: #fff;
     }
   }
 
-  &.is-visible {
-    @include transform(translateX(0));
-  }
+  // &.is-visible {
+  //   @include transform(translateX(0));
+  // }
 }
 
 .menu-screen {

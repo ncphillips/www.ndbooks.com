@@ -4,6 +4,11 @@ body { // our base theme
 
 body.blue-lighter  {
   @include site-theme-hero($blue-lighter, $light-gray);
+  header.navigation .nav-topbar-logo {
+    background: url(/static/images/nd-logo-d9d9d9.svg);
+    background-repeat: no-repeat;
+    background-position: center 1em;
+  }
 }
 
 .theme-blue-lighter {
@@ -34,6 +39,11 @@ body.green-dark {
 
 body.purple {
   @include site-theme-hero($avenger-purple, $light-gray);
+  header.navigation .nav-topbar-logo {
+    background: url(/static/images/nd-logo-d9d9d9.svg);
+    background-repeat: no-repeat;
+    background-position: center 1em;
+  }
 }
 
 .theme-purple {
@@ -70,4 +80,9 @@ body.black-white {
 
 .theme-black-white  {
   @include site-theme($blackest, white);
+  header.navigation .nav-topbar-logo {
+    background: url(/static/images/nd-logo-d9d9d9.svg);
+    background-repeat: no-repeat;
+    background-position: center 1em;
+  }
 }

@@ -1,10 +1,10 @@
 {% if object.image %}
-  <img data-aload="{{ object.image|imageCrop(180) }}">
+  <img src="{{ object.image|imageCrop(180) }}">
     <noscript>
       <img src="{{ object.image|imageCrop(180) }}">
     </noscript>
 {% elseif object.image_file %}
-  <img data-aload="{{ global.cdn_link }}{{ object.image_file }}">
+  <img src="{{ global.cdn_link }}{{ object.image_file }}">
     <noscript>
       <img src="{{ global.cdn_link }}{{ object.image_file }}">
     </noscript>

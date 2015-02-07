@@ -1,52 +1,83 @@
-// display image caption on top of image
-$(".entry-content img").each(function() {
-var imageCaption = $(this).attr("alt");
-
-if (imageCaption != '') {
-var imgWidth = $(this).width();
-var imgHeight = $(this).height();
-var position = $(this).position();
-var positionTop = (position.top + imgHeight - 26)
-$("<span class='img-caption'><em>"+imageCaption+"</em></span>")
-.css({"position":"static", "top":positionTop+"px", "left":"0", "width":100 +"%", "clear":"both", "display": "block"})
-.insertAfter(this);
-}
-});
-// END image caption
-
-// underline under the active nav item
-  $(".nav .nav-link").click(function() {
-    $(".nav .nav-link").each(function() {
-      $(this).removeClass("active-nav-item");
-    });
-    $(this).addClass("active-nav-item");
-    $(".nav .more").removeClass("active-nav-item");
-  });
-// show-hide the side menu
-  $('.js-menu-trigger').on('click touchstart', function(e){
-    $('.js-menu').toggleClass('is-visible');
-    $('.js-menu-screen').toggleClass('is-visible');
-    e.preventDefault();
-  });
-
-  $('.js-menu-screen').on('click touchstart', function(e){
-    $('.js-menu').toggleClass('is-visible');
-    $('.js-menu-screen').toggleClass('is-visible');
-    e.preventDefault();
-  });
-// Smooth Scroll
-$(function() {
-  $('a[href*=#]:not([href=#])').click(function() {
-    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
-      var target = $(this.hash);
-      target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
-      if (target.length) {
-        $('html,body').animate({scrollTop: target.offset().top}, 600);
-        return false;
-      }
+if (document.getElementById('js-menu')) {
+var button = document.getElementById('js-menu-trigger');
+var div = document.getElementById('js-menu');
+    if (div.style.transform !== 'translateX(-220px)') {
+        div.style.transform = 'translateX(-220px)';
     }
-  });
-});
+button.onclick = function() {
+    
+    if (div.style.transform !== 'translateX(-220px)') {
+        div.style.transform = 'translateX(-220px)';
+    }
+    else {
+        div.style.transform = 'translateX(0)';
+    }
+    return false; 
+};
+
+window.onresize = function() {
+  mainnav.style.transform = 'block';
+  navicon.style.transform = 'none';
+}};
+
+
+
+
+
+
+// transform(translateX(0))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// // underline under the active nav item
+//   $(".nav .nav-link").click(function() {
+//     $(".nav .nav-link").each(function() {
+//       $(this).removeClass("active-nav-item");
+//     });
+//     $(this).addClass("active-nav-item");
+//     $(".nav .more").removeClass("active-nav-item");
+//   });
+// // show-hide the side menu
+//   $('.js-menu-trigger').on('click touchstart', function(e){
+//     $('.js-menu').toggleClass('is-visible');
+//     $('.js-menu-screen').toggleClass('is-visible');
+//     e.preventDefault();
+//   });
+
+//   $('.js-menu-screen').on('click touchstart', function(e){
+//     $('.js-menu').toggleClass('is-visible');
+//     $('.js-menu-screen').toggleClass('is-visible');
+//     e.preventDefault();
+//   });
+// // Smooth Scroll
+// $(function() {
+//   $('a[href*=#]:not([href=#])').click(function() {
+//     if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+//       var target = $(this.hash);
+//       target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+//       if (target.length) {
+//         $('html,body').animate({scrollTop: target.offset().top}, 600);
+//         return false;
+//       }
+//     }
+//   });
+// });
+
+
+
 
 
 // jQuery(document).ready(function($){

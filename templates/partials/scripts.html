@@ -12,6 +12,10 @@ window.onload = function () {
     var element = document.createElement("script");
     element.src = "/static/javascript/dist/scripts.min.js";
     document.body.appendChild(element);
+    var element_addthis = document.createElement("script");
+    element_addthis.src = "//s7.addthis.com/js/300/addthis_widget.js{% if site.addthis_id %}#pubid={{site.addthis_id}}{% endif %}";
+    document.body.appendChild(element_addthis);
+    
     // var element_addthis = document.createElement("script");
     // element_addthis.src = "//s7.addthis.com/js/300/addthis_widget.js{% if site.addthis_id %}#pubid={{site.addthis_id}}{% endif %}";
     // document.body.appendChild(element_addthis);
@@ -23,26 +27,18 @@ window.onload = function () {
   else window.onload = downloadJSAtOnload;
 </script>
 {% endraw %}
-{#
 
 
-//== twitter ==
-!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
-//== twitter ==
-
-
-  <script type="text/javascript">
-}
-//   WebFontConfig = {
-//     google: { families: [ 'Open+Sans:400italic,700italic,400,700:latin' ] }
-//   };
-//   (function() {
-//     var wf = document.createElement('script');
-//     wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
-//       '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
-//     wf.type = 'text/javascript';
-//     wf.async = 'true';
-//     var s = document.getElementsByTagName('script')[0];
-//     s.parentNode.insertBefore(wf, s);
-//   })(); </script>
-#}
+<script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Raleway:400,500:latin' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })(); </script>

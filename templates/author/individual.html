@@ -182,11 +182,8 @@
 
 {% include "templates/partials/format-page-link.html" %}
 
-{% set prev = prevItem(item, 'last') %}
-{% set next = nextItem(item, 'last') %}
-
-
-
+  {% set prev = prevItem(item, 'last') %}
+  {% set next = nextItem(item, 'last') %}
 {% include "templates/partials/prev-next.html" %}
 {% endblock %}
 

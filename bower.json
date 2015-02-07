@@ -21,6 +21,9 @@
     "modernizr": "latest",
     "underscore": "latest",
     "headroom.js": "latest",
-    "aload": "~1.2.0"
+    "aload": "~1.2.0",
+    "jquery.smooth-scroll": "~1.5.4",
+    "velocity": "~1.2.1",
+    "gsap": "~1.15.1"
   }
 }

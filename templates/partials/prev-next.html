@@ -1,9 +1,13 @@
+{% if item._type == 'book' %}
+  {% set variable = '#start-of-content' %}
+{% endif %}
+
 <div class="page-icons">
   {% if prev %}    
-    <a class="previous" href="{{ url(prev) }}"><i class="icon-ion-chevron-left"></i> <span class="prev-title">{{ prev.name }}</span></a>
+    <a class="previous" href="{{ url(prev) }}{{ variable }}"><i class="icon-ion-chevron-left icon-ion-ios-arrow-back"></i> <span class="prev-title">{{ prev.name }}</span></a>
   {% endif %}
   {% if next %}
-    <a class="next" href="{{ url(next) }}"><span class="prev-title">{{ next.name }}</span> <i class="icon-ion-chevron-right"></i></a>
+    <a class="next" href="{{ url(next) }}{{ variable }}"><span class="prev-title">{{ next.name }}</span> <i class="icon-ion-chevron-right icon-ion-ios-arrow-forward"></i></a>
   {% endif %}
 </div>
 <script>

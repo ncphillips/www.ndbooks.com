@@ -1,105 +1,141 @@
 {% extends "templates/partials/base.html" %}
-{% block title %}{% parent %} - {{ item.name }}{% endblock %}
-{% block hero %}
-  {% include "templates/partials/hero-book-page.html" %}
-{% endblock %}
-{% block content %}
-  {% set authors = item.authors %}
-  {% set translators = item.translators %}
-  {% set original_language = item.original_language %}
-
-
-  <div class="has-layout layout-book">
-
-{# //Top row = book cover on left, quote and tagline on right #}
-    <section class="row book-splash" style="margin-top:0;padding-top:0;">
-      <div class="book-cover">
-            {% include "templates/partials/format-image-750px-high.html" %}
-      </div>
-      <div class="copy">
-        {% set reviews_of_this_book = item.reviews_related_book|slice(0,1) %}
-        {% if reviews_of_this_book %}{# != '' #}
-          <blockquote class="review presentational" >
-            {% for review in reviews_of_this_book %}
-              {% include "templates/partials/format-quotes.html" %}
-            {% endfor %}
-          </blockquote>
-        {% endif %}
-
-{#           {% if item.editions[0].tagline %}
-          <strong>{{ item.editions[0].tagline|markdown }}</strong>
-          {% endif %}
- #}
+  {% block title %}{% parent %} - {{ item.name }}{% endblock %}
+  {% block hero %}
+    {% include "templates/partials/hero-book-page.html" %}
+  {% endblock %}
+  {% block content %}
+    {% set authors = item.authors %}
+    {% set translators = item.translators %}
+    {% set original_language = item.original_language %}
+    {% set reviews_of_this_book = item.reviews_related_book|slice(0,1) %}
     {% set editions = item.editions %}
 
-
-{% if item.editions %}
-  {% if item.editions[0].tagline %}
-    <div class="tagline">{{ item.editions[0].tagline|markdown }}</strong>
-  {% endif %}
-{% endif %}
-
+    <div class="has-layout layout-book">
+ 
+      <section class="row book-splash" style="margin-top:0;padding-top:0;">{# Top row = book cover on left, quote and tagline on right #}
+        <div class="book-cover">
+          {% include "templates/partials/format-image-750px-high.html" %}
         </div>
-    </section>
-{#  // END TOP ROW #}
-
-  <hr />
-
-
-
-
-{# Row with book synopsis   #}
-  <section class="row">
-    <article class="hentry {% if page_class %}{{ page_class }}{% endif %}">
-      <header>
-        {% if item.name %}
-          <h1 class="entry-title">{{ item.name }}</h1>
-        {% endif %}
-        {% if authors %}
-        <h2><small>by</small> 
-          {% for author in authors %}
-            <a href="{{ url(author) }}">{{ author.name }}</a>{% if loop.revindex != 2 %}{% if not loop.last %}, {% endif %}{% endif %}{% if loop.revindex == 2 %} and {% endif %}
-          {% endfor %}
-          </h2>
-        {% endif %}
+        <div class="copy">      
+          {% if reviews_of_this_book %}
+            <blockquote class="review presentational" >
+              {% for review in reviews_of_this_book %}
+                {% include "templates/partials/format-quotes.html" %}
+              {% endfor %}
+            </blockquote>
+          {% endif %}
         
-        {% if translators %}
-          <h5>
-            <small>translated{% if item.language_translated_from %} from {{ item.language_translated_from }}{% endif %} by</small> {% for translator in translators %}<a href="{{ url(translator) }}">{{ translator.name }}</a>{% if loop.revindex != 2 %}{% if not loop.last %}, {% endif %}{% endif %}{% if loop.revindex == 2 %} and {% endif %}{% endfor %}
-          </h5>          
-        {% endif %}
-      </header>
-      {% if item.copy %}
-        <div class="entry-content lead prose">
-          {{ item.copy|safe }}
-          <hr />
-          <button class="buy">buy</button>
+          {% if item.editions %}
+            {% if item.editions[0].tagline %}
+              <div class="tagline">{{ item.editions[0].tagline|markdown }}</strong>
+              {% set copy = item.copy %}
+            {% elseif item.copy %}
+              {{ item.copy|safe }}
+            {% endif %}
+          {% endif %}
+
         </div>
-      {% endif %}
-    </article>
-  </section>{# //END row #}
+      </section>{#  // END TOP ROW #}
 
-</div>{#  //has-layout-book #}
+      <hr />
+
+      <section class="row">{# Row with book synopsis   #}
+        <article class="hentry {% if page_class %}{{ page_class }}{% endif %}">
+          <header>
+            {% if item.name %}
+              <h1 class="entry-title">{{ item.name }}</h1>
+            {% endif %}
+              {% if authors %}
+              <h2><small>by</small> 
+              {% for author in authors %}
+                <a href="{{ url(author) }}">{{ author.name }}</a>{% if loop.revindex != 2 %}{% if not loop.last %}, {% endif %}{% endif %}{% if loop.revindex == 2 %} and {% endif %}
+              {% endfor %}
+              </h2>
+            {% endif %}
+            {% if translators %}
+              <h5>
+                <small>translated{% if item.language_translated_from %} from {{ item.language_translated_from }}{% endif %} by</small> {% for translator in translators %}<a href="{{ url(translator) }}">{{ translator.name }}</a>{% if loop.revindex != 2 %}{% if not loop.last %}, {% endif %}{% endif %}{% if loop.revindex == 2 %} and {% endif %}{% endfor %}
+              </h5>          
+            {% endif %}
+          </header>
+          {% if item.copy %}
+            <div class="entry-content lead prose">
+              
+          
+              {{ copy|safe }}
+
+              {% block below_copy %}          
+              {% endblock %}
 
 
+              <hr />
+              <button class="buy">buy</button>
+            </div>
+          {% endif %}
+        </article>
+      </section>{# //END row #}
 
+    </div>{#  //has-layout-book #}
 
-<hr class="section-divider" style="margin-bottom:8em;" />
+    <hr class="section-divider" style="margin-bottom:8em;" />
 
-{# ROW with Author and metadata information #}
+    {# ROW with Author and metadata information #}
   <div class="row light-gray">
     <div class="has-layout layout-book">
-
-    
-
 
       <div class="row"  id="{{object.slug}}">
         <section class="author-metadata">
         
-      {% if isbn %}
-      <small>ISBN: {{ isbn }}</small>
-      {% endif %}
-      </section>
+      
+      
+
+
+
+        <strong>Editions: </strong>
+        {# Loop of your Repeatable Form items. Remember, you can sort the order in your CMS if you need. #}
+        <ul class="inline">
+        {% for row in item.editions %}
+            <li>
+              <strong>Type: </strong>
+              {{ row.type }}
+            </li>
+            <li>
+              <strong>For Sale?: </strong>
+              {{ row.for_sale }}
+            </li>
+            <li>
+              <strong>Tagline: </strong>
+              {{ row.tagline }}
+            </li>
+            <li>
+              <strong>ISBN: </strong>
+              {{ row.isbn }}
+            </li>
+            <li>
+              <strong>Price US: </strong>
+              {{ row.price_us }}
+            </li>
+            <li>
+              <strong>Price CN: </strong>
+              {{ row.price_cn }}
+            </li>
+            <li>
+              <strong>Trim Size: </strong>
+              {{ row.trim_size }}
+            </li>
+            <li>
+              <strong>Page Count: </strong>
+              {{ row.page_count }}
+            </li>
+        {% endfor %}
+        </ul>
+      
+
+
+
+</section>
+
+
 
 
 
@@ -154,7 +190,10 @@
 
 
 
-
-
+  {% set prev = prevItem(item, 'publication_date') %}
+  {% set next = nextItem(item, 'publication_date') %}
 {% include "templates/partials/prev-next.html" %}
 {% endblock %}
+
+{# TODO:
+- Alt layout for phamplets #}
