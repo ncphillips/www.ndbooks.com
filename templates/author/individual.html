@@ -1,0 +1,198 @@
+{% extends "templates/partials/base.html" %}
+{% block title %}{% parent %} - {{ item.name }}{% endblock %}
+
+{% set related_articles      = item.article_related_person %}
+{% set related_articles      = related_articles|sort('publish_date', true) %}
+{% set related_events        = item.event_related_author %}
+{% set related_events        = related_events|sort('start_date') %}
+
+{% set books_by_this_author  = item.books_authors %}
+{% set books_translated      = item.books_translators %}
+{% set books_edited          = item.book_editors %}
+{% set books_introduced      = item.book_contributors %}
+{% set contributor_type      = item.contributor_type %}
+
+{% set books = merge(books_by_this_author, books_translated , books_edited, books_introduced) %}
+
+{% set reviews_of_this_author = item.reviews_related_author %}
+
+
+{% set now = Date() %}
+{% set current_date = now |date('U') %}
+
+{% block content %}
+
+  <div class="has-layout layout-author">
+      
+      {# Author Bio: top on mobile, pushes to right side on large screens #}
+    <article class="authors hentry">
+      <header>
+        {% if item.name %}
+          <h1 class="entry-title">{{ item.name }}</h1>
+        {% endif %}
+        {% if item.tagline %}  
+          <strong>{{ item.tagline|safe }}</strong>
+      {% endif %}
+      </header>
+      <div class="entry-content prose">
+        {{ item.bio|safe }}
+        {% if item.website %}
+        <a href="{{ item.website }}">website</a>
+      {% endif %}
+      </div>
+    </article>
+
+
+
+
+          {# Metada Block: Center #}
+
+    <aside class="metadata">
+
+      {% if related_events %}      
+        <ul class="block-list{% if related_events.length > 8 %} columns{% endif %}">
+          {% for event in related_events %}
+          {% set event_date = event.start_date|date('U') %}
+            {% if event.start_date && event_date > current_date %}
+              <h5>upcoming event</h5>
+            <li>
+              <a href="{{ url(event)}}">{% if event.start_date %}{{ event.start_date|date('M jS') }}: {% endif %}{{event.name}}</a>
+            </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+        <hr />
+      {% endif %}
+
+
+
+        {# Related Books #}
+      <h5><small>by</small> {{ item.name }}</h5>
+      <ul class="block-list{% if books_by_this_author.length > 8 %} columns{% endif %}">
+        {% for book in books_by_this_author %}
+          <li>
+            <a href="#{{ book.slug|replace('/', '') }}">{{ book.name }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+
+
+
+      {% if books_translated %}
+        <h6><small><small>as</small> translator</small>  </h6>
+        <ul class="block-list{% if books_translated.length > 8 %} columns{% endif %}">
+          {% for book in books_translated %}
+            <li>
+              <a href="#{{ book.slug|replace('/', '') }}">{{book.name }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+
+
+
+       {% if books_edited %}
+        <h6><small><small>as</small> translator</small>  </h6>
+        <ul class="block-list{% if books_translated.length > 8 %} columns{% endif %}">
+          {% for book in books_edited %}
+            <li>
+              <a href="#{{ book.slug|replace('/', '') }}">{{book.name }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+
+
+
+       {% if books_introduced %}
+        <h6><small>books introduced</small>  </h6>
+        <ul class="block-list{% if books_translated.length > 8 %} columns{% endif %}">
+          {% for book in books_introduced %}
+            <li>
+              <a href="#{{ book.slug|replace('/', '') }}">{{book.name }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+
+
+
+      {% if related_articles %}
+      <hr />
+        <h5>related articles</h5>
+        <ul class="block-list{% if related_articles.length > 8 %} columns{% endif %}">
+          {% for article in related_articles|slice(0,10) %}
+            <li>
+              <a href="{{ url(article)}}">{{article.name}}</a>
+            </li>
+          {% endfor %}
+          
+          <div style="display:none;">
+            {% for article in related_articles|slice(10,100) %}
+            <li>
+              <a href="{{ url(article)}}">{{article.name}}</a>
+            </li>
+          {% endfor %}
+          </div>
+        </ul>
+        <hr />
+      {% endif %}
+
+    </aside>
+
+    {# AUTHOR IMAGE - pull this over to the left #}
+      <aside class="photo">
+        {% include "templates/partials/format-image-750px-high.html" %}
+      </aside>
+
+
+    {# //AUTHORS BOOKS divide the group#}
+
+    <hr class="section-divider" />
+
+      
+      {% if reviews_of_this_author %}
+        {% if item.featured_image %}
+          {% for review in reviews_of_this_author|slice(0,3) %}
+            <blockquote id="container-review" class="review">
+              {% include "templates/partials/format-quotes.html" %}
+            </blockquote>
+          {% endfor %}
+        {% else %}
+          {% for review in reviews_of_this_author|slice(1,3) %}
+            <blockquote id="container-review" class="review">
+              {% include "templates/partials/format-quotes.html" %}
+            </blockquote>
+          {% endfor %}
+        {% endif %}
+      {% endif %}
+    </div>
+
+
+    <div class="page-items">
+      {% if books %}
+        {% for object in books %} {# reversed #}
+          {% include "templates/partials/format-books-list.html" %}
+        {% endfor %}
+      {% endif %}
+      
+      {# //END AUTHORS BOOKS #}
+</div>
+
+
+{% include "templates/partials/format-page-link.html" %}
+
+  {% set prev = prevItem(item, 'last') %}
+  {% set next = nextItem(item, 'last') %}
+{% include "templates/partials/prev-next.html" %}
+{% endblock %}
+
+{# 
+TODO: 
+- improve styling of book buttons
+- add buy links
+- show link to additional related articles
+- make link to top of page a perfect circle
+ 
+
+ #}

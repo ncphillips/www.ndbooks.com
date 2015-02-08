@@ -39,7 +39,7 @@
 
       <hr />
 
-      <section class="row">{# Row with book synopsis   #}
+      <section class="row spaced-top-bottom-2em">{# Row with book synopsis   #}
         <article class="hentry {% if page_class %}{{ page_class }}{% endif %}">
           <header>
             {% if item.name %}
@@ -108,8 +108,14 @@
 
       <div class="row"  id="{{object.slug}}">
         <section class="author-metadataTK">
-          {% if item.editions.for_sale %}
-            {% set editions = item.editions|exclude('for_sale', false) %}
+          
+            {% set editions = item.editions %}
+
+
+            {% if item.editions.for_sale %}
+              {% set editions = editions|exclude('for_sale', false) %}
+              {% endif %}            
+
             {% for row in editions %}
               <ul class="inline" style="border-top:1px solid #ccc;border-bottom: 2px solid #ccc;width:60%;margin:auto;">
                 {% if row.type %}
@@ -117,7 +123,7 @@
                     <strong>{{ row.type }}</strong>
                   </li>
                 {% endif %}
-                {% if row_isbn %}
+                {% if row.isbn %}
                   <li>
                     <strong>ISBN: </strong>{{ row.isbn }}
                   </li>
@@ -144,20 +150,20 @@
                 {% endif %}
               </ul>
             {% endfor %}
-          {% endif %}
+          
         </section>
       </div>
-    </div>
-  <hr class="section-divider" style="margin-bottom:8em;" />
+    
+  {# <hr class="section-divider" style="margin-bottom:8em;" /> #}
 
 
 
-<div class="row">
+<div class="row quotes">
   
   {% if reviews_of_this_book %}
             
               {% for review in reviews_of_this_book|slice(1,20) %}
-              <blockquote class="review">
+              <blockquote id="container-review" class="review">
                 {% include "templates/partials/format-quotes.html" %}
               </blockquote>
               {% endfor %}
@@ -168,7 +174,7 @@
 
 
 
-
+</div>
 
 
 

@@ -1,5 +1,10 @@
-.row {
+.row, .row-with-space {
   @include row();
+}
+
+.spaced-top-bottom-2em {
+margin-top: 2em;
+margin-bottom: 2em;
 }
 
 .interior {
@@ -237,6 +242,9 @@ body.post .content {
 
 .layout-book {
   @include outer-container;
+  .quotes blockquote {
+      padding: 2em 10em;
+    }
   article.hentry {
     @include span-columns(12);
     @include pad(2em);
