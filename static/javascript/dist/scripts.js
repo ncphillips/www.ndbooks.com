@@ -206,13 +206,12 @@ if (document.getElementById("filter-designers")) {
 // });
 
 if (document.getElementById('js-menu')) {
-var button = document.getElementById('js-menu-trigger');
-var div = document.getElementById('js-menu');
+  var button = document.getElementById('js-menu-trigger');
+  var div = document.getElementById('js-menu');
     if (div.style.transform !== 'translateX(-220px)') {
         div.style.transform = 'translateX(-220px)';
     }
-button.onclick = function() {
-    
+  button.onclick = function() {  
     if (div.style.transform !== 'translateX(-220px)') {
         div.style.transform = 'translateX(-220px)';
     }
@@ -220,12 +219,12 @@ button.onclick = function() {
         div.style.transform = 'translateX(0)';
     }
     return false; 
-};
+};};
 
-window.onresize = function() {
-  mainnav.style.transform = 'block';
-  navicon.style.transform = 'none';
-}};
+// window.onresize = function() {
+//   mainnav.style.transform = 'block';
+//   navicon.style.transform = 'none';
+// }};
 
 
 
@@ -336,8 +335,4 @@ window.onresize = function() {
 //         );
 //   }
 // });
-
-
-$(function () {
-     $('.script-only').removeClass('hidden');
- });
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");

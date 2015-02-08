@@ -7,7 +7,7 @@
     {% set authors = item.authors %}
     {% set translators = item.translators %}
     {% set original_language = item.original_language %}
-    {% set reviews_of_this_book = item.reviews_related_book|slice(0,1) %}
+    {% set reviews_of_this_book = item.reviews_related_book %}
     {% set editions = item.editions %}
 
     <div class="has-layout layout-book">
@@ -19,7 +19,7 @@
         <div class="copy">      
           {% if reviews_of_this_book %}
             <blockquote class="review presentational" >
-              {% for review in reviews_of_this_book %}
+              {% for review in reviews_of_this_book|slice(0,1) %}
                 {% include "templates/partials/format-quotes.html" %}
               {% endfor %}
             </blockquote>
@@ -77,68 +77,92 @@
 
     </div>{#  //has-layout-book #}
 
-    <hr class="section-divider" style="margin-bottom:8em;" />
+{#     <hr class="section-divider" style="margin-bottom:8em;" /> #}
 
     {# ROW with Author and metadata information #}
   <div class="row light-gray">
     <div class="has-layout layout-book">
+      {% if authors %}
+        {% for object in authors %}
+          <section class="author-about" style="min-height:500px;">
+            <div class="author-block">
+              <div class="outlined">
+                <h4>
+                  <a href="{{ url(object) }}">
+                    {{ object.name }} <i class="icon-right-circled icon-ion-ios7-arrow-right"></i>
+                  </a>
+                </h4>
+                {% if object.tagline %}
+                <div class="lead">
+                  {{ object.tagline|safe }}
+                </div>
+                {% endif %}
+              </div>
+                <a href="{{ url(object) }}" class="author-photo">
+                  {% include "templates/partials/format-image-300px-cropped.html" %}
+                </a>                
+            </div>
+          </section>
+        {% endfor %}
+      {% endif %}
 
       <div class="row"  id="{{object.slug}}">
-        <section class="author-metadata">
-        
-      
-      
+        <section class="author-metadataTK">
+          {% if item.editions.for_sale %}
+            {% set editions = item.editions|exclude('for_sale', false) %}
+            {% for row in editions %}
+              <ul class="inline" style="border-top:1px solid #ccc;border-bottom: 2px solid #ccc;width:60%;margin:auto;">
+                {% if row.type %}
+                  <li>
+                    <strong>{{ row.type }}</strong>
+                  </li>
+                {% endif %}
+                {% if row_isbn %}
+                  <li>
+                    <strong>ISBN: </strong>{{ row.isbn }}
+                  </li>
+                {% endif %}
+                {% if row.price_us %}
+                  <li>
+                    <strong>Price US: </strong>{{ row.price_us }}
+                  </li>
+                {% endif %}
+                {% if row.price_cn %}
+                  <li>
+                    <strong>Price CN: </strong>{{ row.price_cn }}
+                  </li>
+                {% endif %}
+                {% if row.trim_size %}
+                  <li>
+                    <strong>Trim Size: </strong>{{ row.trim_size }}
+                  </li>
+                {% endif %}
+                {% if row.page_count %}
+                  <li>
+                    <strong>Page Count: </strong>{{ row.page_count }}
+                  </li>
+                {% endif %}
+              </ul>
+            {% endfor %}
+          {% endif %}
+        </section>
+      </div>
+    </div>
+  <hr class="section-divider" style="margin-bottom:8em;" />
 
 
 
-        <strong>Editions: </strong>
-        {# Loop of your Repeatable Form items. Remember, you can sort the order in your CMS if you need. #}
-        <ul class="inline">
-        {% for row in item.editions %}
-            <li>
-              <strong>Type: </strong>
-              {{ row.type }}
-            </li>
-            <li>
-              <strong>For Sale?: </strong>
-              {{ row.for_sale }}
-            </li>
-            <li>
-              <strong>Tagline: </strong>
-              {{ row.tagline }}
-            </li>
-            <li>
-              <strong>ISBN: </strong>
-              {{ row.isbn }}
-            </li>
-            <li>
-              <strong>Price US: </strong>
-              {{ row.price_us }}
-            </li>
-            <li>
-              <strong>Price CN: </strong>
-              {{ row.price_cn }}
-            </li>
-            <li>
-              <strong>Trim Size: </strong>
-              {{ row.trim_size }}
-            </li>
-            <li>
-              <strong>Page Count: </strong>
-              {{ row.page_count }}
-            </li>
-        {% endfor %}
-        </ul>
-      
-
-
-
-</section>
-
-
-
-
-
+<div class="row">
+  
+  {% if reviews_of_this_book %}
+            
+              {% for review in reviews_of_this_book|slice(1,20) %}
+              <blockquote class="review">
+                {% include "templates/partials/format-quotes.html" %}
+              </blockquote>
+              {% endfor %}
+            
+          {% endif %}
 
 </div>
 
@@ -152,46 +176,13 @@
 
 
 
-{% if authors %}
-      {% for object in authors %}
-
-            <section class="author-about" style="min-height:500px;">
-              <div class="author-block">
-                <div class="outlined">
-                  <h4>
-                    <a href="{{ url(object) }}">
-                      {{ object.name }} <i class="icon-right-circled icon-ion-ios7-arrow-right"></i>
-                    </a>
-                  </h4>
-                  {% if object.tagline %}
-                  <div class="lead">
-                    {{ object.tagline|safe }}
-                  </div>
-                  {% endif %}
-                </div>
-                  <a href="{{ url(object) }}" class="author-photo">
-                    {% include "templates/partials/format-image-300px-cropped.html" %}
-                  </a>                
-              </div>
-            </section>
-{% endfor %}
-    {% endif %}
-
-
-            
-
-
-    </div>
-
-  <hr class="section-divider" style="margin-bottom:8em;" />
-  </div>{#  //row #}
-      
 
 
 
+</div>{#  //row #}
 
-  {% set prev = prevItem(item, 'publication_date') %}
-  {% set next = nextItem(item, 'publication_date') %}
+{% set prev = prevItem(item, 'publication_date') %}
+{% set next = nextItem(item, 'publication_date') %}
 {% include "templates/partials/prev-next.html" %}
 {% endblock %}
 

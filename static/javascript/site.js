@@ -1,11 +1,10 @@
 if (document.getElementById('js-menu')) {
-var button = document.getElementById('js-menu-trigger');
-var div = document.getElementById('js-menu');
+  var button = document.getElementById('js-menu-trigger');
+  var div = document.getElementById('js-menu');
     if (div.style.transform !== 'translateX(-220px)') {
         div.style.transform = 'translateX(-220px)';
     }
-button.onclick = function() {
-    
+  button.onclick = function() {  
     if (div.style.transform !== 'translateX(-220px)') {
         div.style.transform = 'translateX(-220px)';
     }
@@ -13,12 +12,12 @@ button.onclick = function() {
         div.style.transform = 'translateX(0)';
     }
     return false; 
-};
+};};
 
-window.onresize = function() {
-  mainnav.style.transform = 'block';
-  navicon.style.transform = 'none';
-}};
+// window.onresize = function() {
+//   mainnav.style.transform = 'block';
+//   navicon.style.transform = 'none';
+// }};
 
 
 
@@ -129,8 +128,3 @@ window.onresize = function() {
 //         );
 //   }
 // });
-
-
-$(function () {
-     $('.script-only').removeClass('hidden');
- });

@@ -195,6 +195,26 @@ body.post .content {
       padding: 2em 10em;
     }
     article.hentry {
+      @include span-columns(5 of 12);
+      @include pad(1em 2em);
+      margin-top:-65px;
+      @include shift(8);
+    }
+    aside.metadata {
+      @include span-columns(4 of 12);
+      @include pad(3.5em 0);
+       @include shift(-9);
+    }
+    aside.photo {
+      @include span-columns(3 of 12);
+      @include pad(1em 0);
+      @include omega();
+       @include shift(-12);
+    }
+
+  }
+  @include media($large-screen-up) {
+    article.hentry {
       @include span-columns(4 of 12);
       @include pad(1em 2em);
       margin-top:-65px;
@@ -211,7 +231,6 @@ body.post .content {
       @include omega();
        @include shift(-12);
     }
-
   }
 
 }
