@@ -9,27 +9,20 @@ a.previous, a.next {
 	i {
 		font-size:22px;
 		opacity: .6;
-
-
 	}
 	z-index: 101;
 	@include transition(color 0.2s linear);
-
   .next-title, .prev-title {
-    font-family: $brand-font-family;
-      visibility: hidden;
-      opacity: 0;
-      @include transition(opacity 0.2s linear);
+    font-family: $base-font-family;//$brand-font-family;
+    visibility: hidden;
+    opacity: 0;
+    @include transition(opacity 0.2s linear);
   }
-
 	@include media($medium-screen-up) {
   	position: fixed;
   	//top: 25%;
 		//top: 263px;
-
   	height: 3.5em;
-
-
   }
 }
 body.book a.previous, body.book a.next {
@@ -37,38 +30,27 @@ body.book a.previous, body.book a.next {
 		top: 400px;
 	}
 }
-
 a.previous:hover, a.next:hover {
-
 	@include animation(scale 1.0s ease-in, slide 2.0s ease);
 	i {
 		display: none;
-
 	}
-
-
-background-color: rgba(0,0,0,.8);
+  background-color: rgba(0,0,0,0.9);
   @include media($medium-screen-up) {
-background-color: rgba(0,0,0,.5);
-}
-
-
-color: rgba(255,255,255,.7);
+    background-color: rgba(0,0,0,0.9);
+  }
+  color: rgba(255,255,255,.8);
 	.next-title, .prev-title {
-			visibility: visible;
-			opacity: 1;
+		visibility: visible;
+		opacity: 1;
  	}
-
 }
 
 a.previous {
-border-radius: 0 4px 4px 0;
+  border-radius: 0 4px 4px 0;
 	left: 0;
-
 }
-
 a.next {
-border-radius: 4px 0 0 4px;
-right: 0;
-
+  border-radius: 4px 0 0 4px;
+  right: 0;
 }

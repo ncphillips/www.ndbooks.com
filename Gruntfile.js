@@ -21,7 +21,7 @@ module.exports = function(grunt) {
     },
  concat: {
     dist: {
-      src: ['bower_components/aload/dist/aload.min.js','bower_components/listjs/dist/list.min.js','static/javascript/site-listjs.js' , 'static/javascript/site.js', 'static/javascript/twitter.js'],
+      src: ['bower_components/jquery/dist/jquery.min.js', 'bower_components/jquery.smooth-scroll/jquery.smooth-scroll.min.js' ,'bower_components/aload/dist/aload.min.js','bower_components/listjs/dist/list.min.js','static/javascript/site-listjs.js' , 'static/javascript/site.js', 'static/javascript/twitter.js'],
       dest: 'static/javascript/dist/scripts.js',
     },
     velocity: {

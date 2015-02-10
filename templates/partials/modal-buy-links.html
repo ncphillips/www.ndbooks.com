@@ -1,0 +1,56 @@
+{% set now = Date() %}
+{% set current_unix_date = now |date('U') %}
+
+<div class="modal">
+  <label for="modal-1">
+    <div class="btn js-btn">
+    {% for edition in item.editions %}
+      {% set pubdate = edition.publication_date|date('U') %}
+      {% if pubdate < current_unix_date %}buy{% else %}preorder{% endif %} {{ edition.type }}
+     {% endfor %} 
+    </div>
+  </label>
+  
+  <input class="modal-state" id="modal-1" type="checkbox" />
+  
+  <div class="modal-window">
+    <div class="modal-inner">
+      <label class="modal-close" for="modal-1"></label>        
+      <h5>Order <em>{{ item.name }}</em> from these retailers</h5>
+      <div id="buy-buttons" class="list-block">
+        {% for edition in item.editions %}
+          {% if edition.isbn %}
+            {% set isbn = edition.isbn %}
+          {% endif %}
+          <ul class="buy-retailers modal">
+            {% if edition.type == 'Ebook' %}
+              <li>
+                <a href="http://itunes.apple.com/us/book/isbn{{ isbn }}" target="_blank" >
+                  <img src="/static/images/booksellers/Download_on_iBooks_Badge_US-UK_110x40_090513.png" alt="" style="height: 37px;" />
+                </a>
+              </li>
+            {% else %}          
+              <li>
+                <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN={{ isbn }}" target="_blank" >
+                  <img src="/static/images/booksellers/bookselling_bn_139x22.png" alt="" style="height: 26px;" />
+                </a>
+              </li>
+              <li>
+                <a href="http://www.indiebound.org/product/info.jsp?isbn={{ isbn }}" target="_blank" >
+                  <img src="/static/images/booksellers/indiebound.png" alt="" style="height: 50px;" />
+                </a>
+              </li>
+              <li>
+                <a href="http://www.powells.com/biblio?isbn={{ isbn }}" target="_blank" >
+                  <img src="/static/images/booksellers/logo-powells.jpg" alt="" style="height: 44px;" />
+                </a>
+              </li>
+              <li id='isbn10_{{ isbn }}'></li><!--  pulls in 10 digit ASIN for -->
+            {% endif %}
+          </ul>
+          {% include "templates/partials/buy-links-isbn10to13.js" %}
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>

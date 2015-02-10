@@ -243,7 +243,7 @@ body.post .content {
 .layout-book {
   @include outer-container;
   .quotes blockquote {
-      padding: 2em 10em;
+      padding: 1em 2.5em;
     }
   article.hentry {
     @include span-columns(12);
@@ -263,6 +263,11 @@ body.post .content {
   // h1.entry-title {
   //     font-size: $h1-font-size;
   //   }
+  .quotes blockquote {
+  
+    padding: 2em 10em;
+
+  }
 
     section.book-splash .book-cover,
     section.book-splash .copy {

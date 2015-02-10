@@ -15,12 +15,16 @@
           <li>
             <a href="">buying options</a>
           </li>
+          {% if item.reviews_related_book.length => 3  %}   
           <li>
-            <a href="">reviews</a>
+            <a href="#reviews">reviews</a>
           </li>
+          {% endif %}
+          {% if item.excerpt %}
           <li>
-            <a href="">more</a>
+            <a href="#excerpt">read an excerpt</a>
           </li>
+          {% endif %}
         </ul>
       </header>
     </div>

@@ -11,7 +11,6 @@
     {% set editions = item.editions %}
 
     <div class="has-layout layout-book">
- 
       <section class="row book-splash" style="margin-top:0;padding-top:0;">{# Top row = book cover on left, quote and tagline on right #}
         <div class="book-cover">
           {% include "templates/partials/format-image-750px-high.html" %}
@@ -43,7 +42,7 @@
         <article class="hentry {% if page_class %}{{ page_class }}{% endif %}">
           <header>
             {% if item.name %}
-              <h1 class="entry-title">{{ item.name }}</h1>
+              <h1 class="entry-title">{{ item.name }}{% if item.subtitle %} <br /><small>{{ item.subtitle }}</small>{% endif %}</h1>
             {% endif %}
               {% if authors %}
               <h2><small>by</small> 
@@ -60,16 +59,24 @@
           </header>
           {% if item.copy %}
             <div class="entry-content lead prose">
-              
-          
               {{ copy|safe }}
-
               {% block below_copy %}          
               {% endblock %}
-
-
               <hr />
               <button class="buy">buy</button>
+
+
+
+
+{% for edition in item.editions|slice(0,10) %}
+      {% if edition.isbn %}
+      {% set isbn = edition.isbn %}
+        {% include "templates/partials/modal-buy-links.html" %}
+        {% endif %}
+      {% endfor %}
+
+
+
             </div>
           {% endif %}
         </article>
@@ -80,44 +87,53 @@
 {#     <hr class="section-divider" style="margin-bottom:8em;" /> #}
 
     {# ROW with Author and metadata information #}
-  <div class="row light-gray">
-    <div class="has-layout layout-book">
-      {% if authors %}
-        {% for object in authors %}
-          <section class="author-about" style="min-height:500px;">
-            <div class="author-block">
-              <div class="outlined">
-                <h4>
-                  <a href="{{ url(object) }}">
-                    {{ object.name }} <i class="icon-right-circled icon-ion-ios7-arrow-right"></i>
-                  </a>
-                </h4>
-                {% if object.tagline %}
-                <div class="lead">
-                  {{ object.tagline|safe }}
+  
+    
+<div class="shape">
+      <div class="page-item shape case-2" style="background-image:url(/static/images/logo-ndbooks-aaa.svg);background-repeat:no-repeat;background-position:center center;">
+         
+         
+    
+        {% if authors %}
+          {% for object in authors %}
+            
+              <div class="author-block">
+                <div class="outlined">
+                  <h4>
+                    <a href="{{ url(object) }}">
+                      {{ object.name }} <i class="icon-right-circled icon-ion-ios7-arrow-right"></i>
+                    </a>
+                  </h4>
+                  {% if object.tagline %}
+                  <div class="lead">
+                    {{ object.tagline|safe }}
+                  </div>
+                  {% endif %}
                 </div>
-                {% endif %}
+                  <a href="{{ url(object) }}" class="author-photo">
+                    {% include "templates/partials/format-image-300px-cropped.html" %}
+                  </a>                
               </div>
-                <a href="{{ url(object) }}" class="author-photo">
-                  {% include "templates/partials/format-image-300px-cropped.html" %}
-                </a>                
-            </div>
-          </section>
-        {% endfor %}
-      {% endif %}
+            
+          {% endfor %}
+        {% endif %}
+        
+        </div>
+      </div>
 
+
+<div class="has-layout layout-book">
+      
       <div class="row"  id="{{object.slug}}">
-        <section class="author-metadataTK">
+        <section class="spaced-top-bottom-2em">
           
             {% set editions = item.editions %}
-
-
             {% if item.editions.for_sale %}
               {% set editions = editions|exclude('for_sale', false) %}
               {% endif %}            
 
             {% for row in editions %}
-              <ul class="inline" style="border-top:1px solid #ccc;border-bottom: 2px solid #ccc;width:60%;margin:auto;">
+              <ul class="inline table-minimal">
                 {% if row.type %}
                   <li>
                     <strong>{{ row.type }}</strong>
@@ -150,42 +166,73 @@
                 {% endif %}
               </ul>
             {% endfor %}
-          
         </section>
       </div>
     
   {# <hr class="section-divider" style="margin-bottom:8em;" /> #}
 
+    <div id="reviews" class="row quotes" data-ref="quotes">
+      {% if reviews_of_this_book %}            
+        {% for review in reviews_of_this_book|slice(1,20) %}
+          <blockquote id="container-review" class="review">
+            {% include "templates/partials/format-quotes.html" %}
+          </blockquote>
+        {% endfor %}
+      {% endif %}
+    </div>
 
+    {% if item.excerpt %}
+      <div id="excerpt" class="row spaced-top-bottom-2em" style="margin-top:8em;">
+        <article class="hentry">
+          <div class="entry-content lead prose">
+          <h5 class="h2">Excerpt from <em>{{ item.name }}</em>{% if item.subtitle %} <small>{{ item.subtitle }}</small>{% endif %}</h5>
 
-<div class="row quotes">
-  
-  {% if reviews_of_this_book %}
-            
-              {% for review in reviews_of_this_book|slice(1,20) %}
-              <blockquote id="container-review" class="review">
-                {% include "templates/partials/format-quotes.html" %}
-              </blockquote>
-              {% endfor %}
-            
-          {% endif %}
-
-</div>
-
-
-
-</div>
-
-
-
-
-
-
+             {{ item.excerpt|safe }}
+              <hr />
+              <button class="buy">buy</button>
+           </div>
+          </article> 
+      </div>
+    {% endif %}
 
 
 
 
-</div>{#  //row #}
+</div>{#  //has-layout #}
+
+
+
+{% include "templates/partials/modal-buy-links.html" %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 {% set prev = prevItem(item, 'publication_date') %}
 {% set next = nextItem(item, 'publication_date') %}

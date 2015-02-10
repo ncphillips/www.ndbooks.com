@@ -1,9 +1,9 @@
-$page-item-background-color: #f0f3f5; //<- has a bluish tint
+$page-item-background-color: darken($base-body-color-background, 2%);//#f0f3f5; //<- has a bluish tint
 //dbe2e7
 
 // give the books section some space
 .page-items {
-  margin: 5em 0;
+  margin: 4em 0;
 }
 
 // make each book a row
@@ -11,7 +11,7 @@ $page-item-background-color: #f0f3f5; //<- has a bluish tint
   clear: both;
   background:$page-item-background-color;
   //margin:8em 0;
-  border-top: 1px solid darken(#f1eff0, 5%);
+  //border-top: 1px solid darken(#f1eff0, 5%);
   //border-bottom: 1px solid darken(#f1eff0, 5%)
   @include pad(2em);
   h1 a {
@@ -22,7 +22,7 @@ $page-item-background-color: #f0f3f5; //<- has a bluish tint
     }
   }
   @include media($medium-screen-up) {
-    @include pad(7em 12em);
+    @include pad(6em 12em);
 
   }
 
@@ -31,15 +31,15 @@ $page-item-background-color: #f0f3f5; //<- has a bluish tint
 // set up alternating background colors (unused this far in metalsmtih)
 
 .one, .case-1, .case-5, .case-9, .case-13 {
-  background-color: $page-item-background-color;
+  background-color: darken($page-item-background-color, 3%);
 }
 
 .two, .case-2, .case-6, .case-10, .case-4 {
-  background-color: darken($page-item-background-color, 1%);
+  background-color: darken($page-item-background-color, 5%);
 }
 
 .three, .case-3, .case-7, .case-11, .case-15 {
-  background-color: lighten($page-item-background-color, 3%);
+  background-color: darken($page-item-background-color, 3%);
 }
 
 .four, .case-4, .case-8, .case-12, .case-16 {

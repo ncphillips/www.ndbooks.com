@@ -23,3 +23,25 @@ collections
 catalog is apart from books now
 
 
+
+Content Type  Item Count
+article 461
+author  652
+book  1217
+books 6
+catalog 1
+collection  1
+event 15
+global  1
+pages 9
+review  1814
+series  4
+shopitem  1
+themes  8
+
+461+652+1217+1814 = 4,147
+
+
+
+
+
