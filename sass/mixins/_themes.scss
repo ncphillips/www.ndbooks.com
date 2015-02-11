@@ -32,7 +32,7 @@
       color: lighten($text-color, 32%);
     }
   }
-  ul.links li {
+  ul.links li a{
     border: 1px solid lighten($base-color, 35%);
   }
   // header.navigation {

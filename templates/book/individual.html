@@ -9,13 +9,26 @@
     {% set original_language = item.original_language %}
     {% set reviews_of_this_book = item.reviews_related_book %}
     {% set editions = item.editions %}
+    {% set publication_date = item.publication_date %}
+    {% set series = item.series %}
 
     <div class="has-layout layout-book">
       <section class="row book-splash" style="margin-top:0;padding-top:0;">{# Top row = book cover on left, quote and tagline on right #}
+
+
+
+
         <div class="book-cover">
           {% include "templates/partials/format-image-750px-high.html" %}
         </div>
-        <div class="copy">      
+        <div class="copy" >   
+
+
+            {% for series in series %}
+              <h2 class="center" style="margin-top:2em;"><a href="{{ url(series) }}">{{ series.name}}</a></h2>
+            {% endfor %}
+
+
           {% if reviews_of_this_book %}
             <blockquote class="review presentational" >
               {% for review in reviews_of_this_book|slice(0,1) %}
@@ -45,7 +58,7 @@
               <h1 class="entry-title">{{ item.name }}{% if item.subtitle %} <br /><small>{{ item.subtitle }}</small>{% endif %}</h1>
             {% endif %}
               {% if authors %}
-              <h2><small>by</small> 
+              <h2><small>{% if item.genre %}{{ item.genre }} {% endif %}by</small> 
               {% for author in authors %}
                 <a href="{{ url(author) }}">{{ author.name }}</a>{% if loop.revindex != 2 %}{% if not loop.last %}, {% endif %}{% endif %}{% if loop.revindex == 2 %} and {% endif %}
               {% endfor %}
@@ -63,20 +76,9 @@
               {% block below_copy %}          
               {% endblock %}
               <hr />
-              <button class="buy">buy</button>
-
-
-
-
-{% for edition in item.editions|slice(0,10) %}
-      {% if edition.isbn %}
-      {% set isbn = edition.isbn %}
-        {% include "templates/partials/modal-buy-links.html" %}
-        {% endif %}
-      {% endfor %}
-
-
-
+              {% if editions %}
+                {% include "templates/partials/buy-links.html" %}        
+              {% endif %}
             </div>
           {% endif %}
         </article>
@@ -89,9 +91,9 @@
     {# ROW with Author and metadata information #}
   
     
-<div class="shape">
-      <div class="page-item shape case-2" style="background-image:url(/static/images/logo-ndbooks-aaa.svg);background-repeat:no-repeat;background-position:center center;">
-         
+
+      <div class="page-item shape case-2">
+         {# style="background-image:url(/static/images/logo-ndbooks-aaa.svg);background-repeat:no-repeat;background-position:center center;" #}
          
     
         {% if authors %}
@@ -119,55 +121,10 @@
         {% endif %}
         
         </div>
-      </div>
+
 
 
 <div class="has-layout layout-book">
-      
-      <div class="row"  id="{{object.slug}}">
-        <section class="spaced-top-bottom-2em">
-          
-            {% set editions = item.editions %}
-            {% if item.editions.for_sale %}
-              {% set editions = editions|exclude('for_sale', false) %}
-              {% endif %}            
-
-            {% for row in editions %}
-              <ul class="inline table-minimal">
-                {% if row.type %}
-                  <li>
-                    <strong>{{ row.type }}</strong>
-                  </li>
-                {% endif %}
-                {% if row.isbn %}
-                  <li>
-                    <strong>ISBN: </strong>{{ row.isbn }}
-                  </li>
-                {% endif %}
-                {% if row.price_us %}
-                  <li>
-                    <strong>Price US: </strong>{{ row.price_us }}
-                  </li>
-                {% endif %}
-                {% if row.price_cn %}
-                  <li>
-                    <strong>Price CN: </strong>{{ row.price_cn }}
-                  </li>
-                {% endif %}
-                {% if row.trim_size %}
-                  <li>
-                    <strong>Trim Size: </strong>{{ row.trim_size }}
-                  </li>
-                {% endif %}
-                {% if row.page_count %}
-                  <li>
-                    <strong>Page Count: </strong>{{ row.page_count }}
-                  </li>
-                {% endif %}
-              </ul>
-            {% endfor %}
-        </section>
-      </div>
     
   {# <hr class="section-divider" style="margin-bottom:8em;" /> #}
 
@@ -186,10 +143,11 @@
         <article class="hentry">
           <div class="entry-content lead prose">
           <h5 class="h2">Excerpt from <em>{{ item.name }}</em>{% if item.subtitle %} <small>{{ item.subtitle }}</small>{% endif %}</h5>
-
              {{ item.excerpt|safe }}
               <hr />
-              <button class="buy">buy</button>
+              {% if editions %}
+                {% include "templates/partials/buy-links.html" %}
+              {% endif %}
            </div>
           </article> 
       </div>
@@ -200,9 +158,6 @@
 
 </div>{#  //has-layout #}
 
-
-
-{% include "templates/partials/modal-buy-links.html" %}
 
 
 

@@ -78,22 +78,3 @@ img.author-photo {
 // }
 
 
-
-
-ul.links {
-  margin-top: 1em;
-  @include media($small-screen-up) {
-      float: right
-  }
-}
-ul.links li {
-  border: 1px solid darken($medium-gray, 20%);
-  border-radius: 3px;
-  padding: .25em .425em;
-  margin-right: .5em;
-  display: inline-block;
-}
-
-ul.links li {
-  display: inline-block;
-}

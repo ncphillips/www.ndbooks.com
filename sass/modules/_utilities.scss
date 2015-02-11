@@ -20,6 +20,10 @@ hr.section-divider {
 }
 
 
+hr.transparent {
+  border-top:1px solid transparent;
+}
+
 
 sup, sub {
 //@include adjust-font-size-to($kappa);
@@ -44,6 +48,12 @@ margin-top: 4em;
 .invisible{
   visibility: hidden;
 }
+
+
+.hide {
+  display: none;
+}
+
 
 
 h1, h2, h3, h4, h5, h6 {

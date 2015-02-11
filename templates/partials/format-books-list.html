@@ -11,9 +11,96 @@
         </a>
       </h1>
       <div class="facing-item">
+      {% if object.genre %}<h2><small>{{ object.genre }}</small></h2>{% endif %} 
+      {% if object.copy %}
         {{ object.copy|safe }}
+      {% endif %}
       </div>
-        <button name="button"> <a href="{{ url(object) }}">more information</a> </button> <button name="button" class="buy">buy</button>
+        <button name="button"> <a href="{{ url(object) }}">more information</a> </button> 
+
+      
+{% set editions = object.editions %}
+{% if editions %}
+  {% set editions = editions|exclude('for_sale', false) %}
+{% endif %}
+{% set publication_date = object.publication_date %}
+
+{% if editions %}
+<hr class="transparent" />
+  {% include "templates/partials/buy-links.html" %}
+{% endif %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     </div>
   </section>
 </div>

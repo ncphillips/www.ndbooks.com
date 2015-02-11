@@ -15,43 +15,32 @@
 
 // Modules
 @import
-  "vendor/fonts", //typography.com
   "modules/accessibility",
-  "modules/layouts",
-  
-  "modules/nav-top",
-  "modules/_refills/nav-sliding-menu",
-  "modules/_refills/hero-unit",
-  "modules/_refills/footer",
-
-  // GLOBAL
-  "modules/lists",
-  "vendor/fontello-ion",
-  "modules/font-icons",
-  "modules/quotes",
-  "modules/social",
-  "modules/rows-alternating", 
-  "modules/prev-next", //need Transition
-  
-  // PAGES
-  "modules/_refills/layout-comments", //BLOG PAGE
-  "modules/modal-buy",
-  "modules/_refills/grid", //AUTHOR LISTING
-  "modules/_refills/tables", //AUTHOR LISTING
   "modules/article-authors",
   "modules/book-page-styles", // FOR AUTHOR PAGES
-
-  
-
-  "modules/themes", //color for hero unit
-  "modules/images", // manipulates images
   "modules/buttons", // manipulates images
-  "modules/utilities", // manipulates images
+  "modules/content-blocks", // blog nav
+  "modules/font-icons",
+  "vendor/fontello-ion",
+  "vendor/fonts", //typography.com
+  "modules/footer",
+  "modules/grid", //AUTHOR LISTING
+  "modules/hero-unit",
+  "modules/images", // manipulates images
+  "modules/layout-comments", //BLOG PAGE
+  "modules/layouts",
+  "modules/lists",
+  "modules/nav-top",
   "modules/nav-side", // blog nav
+  "modules/nav-sliding-menu",
+  "modules/prev-next", //need Transition
+  "modules/quotes",
+  "modules/rows-alternating", 
+  "modules/social",
+  "modules/tables", //AUTHOR LISTING
+  "modules/themes", //color for hero unit
+  "modules/utilities"; // manipulates images
   
-  "modules/content-blocks"; // blog nav
-
-
 body {
   background-color: $base-body-color-background;
 }
@@ -75,34 +64,8 @@ h4 a:hover > .icon-right-circled {
   background-color: #ededed;
   padding: 1.9em 2em 3.1em 2em;
 }
-// .outlined {
-//   @include span-columns(3);
-//   padding: 1em;
-//   background-color:#191919;
-//   background-color:rgba(0,0,0,0.78);
-//   color: #ddd;
-//   z-index: 1000;
-// }
+
 .entry-content img {
   position: relative;
   margin-bottom: 0;
-}
-
-.bud {
-  font-size: $base-font-size;
-}
-
-.bud-2 {
-  font-size: 1rem;
-}
-.bud-3 {
-  font-size: 2rem;
-}
-
-.hide {
-  display: none;
-}
-
-g#New-Directions_777  {
-  fill: white;
 }
