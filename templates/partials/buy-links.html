@@ -1,0 +1,82 @@
+{% set now = Date() %}
+{% set current_unix_date = now |date('U') %}
+{% set editions = editions|exclude('for_sale', 'false') %}
+{% set pubdate = publication_date|date('U') %}
+
+
+
+<div id="buy-links">
+{# <h5>{% if pubdate < current_unix_date %}buy{% else %}preorder{% endif %} <em>{{ item.name }}</em> from these retailers</h5> #}
+
+  <p>
+    <strong>
+      {% for edition in editions %}
+        {% if edition.isbn %}
+          {% set isbn = edition.isbn %}
+          {% if loop.first %}Available editions: {% endif %}{{ edition.type }}{% if loop.revindex != 2 %}{% if not loop.last %}, {% endif %}{% endif %}{% if loop.revindex == 2 %} and {% endif %}
+        {% endif %}
+      {% endfor %}
+    </strong>
+  </p>
+
+  {% for edition in editions %}
+    {% if edition.isbn %}
+      {% set isbn = edition.isbn %}
+    {% endif %}
+
+    <ul class="links">
+      {% if edition.type == 'Ebook' %}
+        <li>
+          <a href="http://itunes.apple.com/us/book/isbn{{ isbn }}" target="_blank" class="{{ edition.type }}">
+            Apple iBooks
+          </a>
+        </li>
+      {% elseif edition.type == 'Paperback' || edition.type == 'Clothbound'  %} 
+
+        {% if edition.type == 'Paperback' %}
+
+        
+        <li>
+          <a href="http://www.indiebound.org/product/info.jsp?isbn={{ isbn }}" target="_blank" class="{{ edition.type }}">
+            Your Indpendent Bookstore
+          </a>
+        </li>              
+
+        <li>
+          <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN={{ isbn }}" target="_blank" class="{{ edition.type }}">
+            Barnes & Noble
+          </a>
+        </li>
+        
+        <li id='isbn10_{{ isbn }}'></li><!--  pulls in 10 digit ASIN for -->
+
+
+
+         {% endif %} 
+
+
+
+
+        {% else %}
+
+
+        <li>
+          <a href="http://www.indiebound.org/product/info.jsp?isbn={{ isbn }}" target="_blank" class="{{ edition.type }}">
+            Your Indpendent Bookstore
+          </a>
+        </li>              
+
+        <li>
+          <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN={{ isbn }}" target="_blank" class="{{ edition.type }}">
+            Barnes & Noble
+          </a>
+        </li>
+        
+        <li id='isbn10_{{ isbn }}'></li><!--  pulls in 10 digit ASIN for -->
+
+
+      {% endif %}
+    </ul>
+    {% include "templates/partials/buy-links-isbn10to13.js" %}
+  {% endfor %}
+</div>

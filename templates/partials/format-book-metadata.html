@@ -1,0 +1,44 @@
+<div class="row"  id="{{object.slug}}">
+        <section class="spaced-top-bottom-2em">
+          
+            {% set editions = item.editions %}
+            {% if item.editions.for_sale %}
+              {% set editions = editions|exclude('for_sale', false) %}
+              {% endif %}            
+
+            {% for row in editions %}
+              <ul class="inline table-minimal">
+                {% if row.type %}
+                  <li>
+                    <strong>{{ row.type }}</strong>
+                  </li>
+                {% endif %}
+                {% if row.isbn %}
+                  <li>
+                    <strong>ISBN: </strong>{{ row.isbn }}
+                  </li>
+                {% endif %}
+                {% if row.price_us %}
+                  <li>
+                    <strong>Price US: </strong>{{ row.price_us }}
+                  </li>
+                {% endif %}
+                {% if row.price_cn %}
+                  <li>
+                    <strong>Price CN: </strong>{{ row.price_cn }}
+                  </li>
+                {% endif %}
+                {% if row.trim_size %}
+                  <li>
+                    <strong>Trim Size: </strong>{{ row.trim_size }}
+                  </li>
+                {% endif %}
+                {% if row.page_count %}
+                  <li>
+                    <strong>Page Count: </strong>{{ row.page_count }}
+                  </li>
+                {% endif %}
+              </ul>
+            {% endfor %}
+        </section>
+      </div>
