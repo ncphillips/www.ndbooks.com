@@ -1,7 +1,9 @@
+{% set editions = object.editions %}
+{% set publication_date = object.publication_date %}
 <div class="page-item case-{{ loop.index }}"  id="{{ object.slug|replace('/', '') }}"> {# {% cycle 'one', 'two', 'three' %} #}
   <section>
     <div class="book-cover">
-        {% include "templates/partials/format-image-750px-high.html" %}
+      {% include "templates/partials/format-image-750px-high.html" %}
       <br />
     </div>
     <div class="book-info" style="margin-top:-.5rem;">
@@ -11,96 +13,22 @@
         </a>
       </h1>
       <div class="facing-item">
-      {% if object.genre %}<h2><small>{{ object.genre }}</small></h2>{% endif %} 
-      {% if object.copy %}
-        {{ object.copy|safe }}
-      {% endif %}
+        {% if object.genre %}
+          <h2><small>{{ object.genre }}</small></h2>
+        {% endif %} 
+        {% if object.copy %}
+          {{ object.copy|safe }}
+        {% endif %}
       </div>
-        <button name="button"> <a href="{{ url(object) }}">more information</a> </button> 
-
-      
-{% set editions = object.editions %}
-{% if editions %}
-  {% set editions = editions|exclude('for_sale', false) %}
-{% endif %}
-{% set publication_date = object.publication_date %}
-
-{% if editions %}
-<hr class="transparent" />
-  {% include "templates/partials/buy-links.html" %}
-{% endif %}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+      <hr class="transparent" />
+      <button name="button"> <a href="{{ url(object) }}">more information</a> </button> 
+      {% if editions %}
+        {% set editions = editions|exclude('for_sale', false) %}
+      {% endif %}
+      {% if editions %}
+        <hr class="transparent" />
+        {% include "templates/partials/buy-links.html" %}
+      {% endif %}
     </div>
   </section>
 </div>

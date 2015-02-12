@@ -8,12 +8,12 @@
   "bower_components/neat/app/assets/stylesheets/neat",
   "base/base";
 
-// Mixins
+// Mixins & other Ordered bits
 @import 
   "mixins/themes", //color schemes for hero unit
   "modules/mixins"; //where are we using this? 
 
-// Modules
+// Modules, unordered
 @import
   "modules/accessibility",
   "modules/article-authors",

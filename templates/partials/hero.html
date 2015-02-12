@@ -3,7 +3,33 @@
 {% set reviews_of_this_author = item.reviews_about %}
 {% set page_name = item.name %}
 
+ 
+{% if item._type == 'author' %}
+
+
   
+
+    {% if not item.featured_image %}
+      
+        <div class="hero-inner">
+          <div class="hero-copy">
+            {% if reviews_of_this_author %}
+              {% for review in reviews_of_this_author|slice(0,1) %}
+              <blockquote id="container-review-single" class="review">        
+                {% include "templates/partials/format-quotes.html" %}         
+              </blockquote>
+              {% endfor %}
+            {% endif %}
+         </div> 
+        </div>
+      
+    {% endif %}
+
+
+
+
+{% else %}
+
   {% if review %}
 
     <div class="hero-inner">
@@ -14,26 +40,13 @@
       </div>
     </div>
   
-  {% elseif reviews_of_this_author %}
-
-    {% if not item.featured_image %}
-
-    {% for review in reviews_of_this_author|slice(0,1) %}
-      <div class="hero-inner">
-        <div class="hero-copy">
-          <blockquote id="container-review-single" class="review">        
-            {% include "templates/partials/format-quotes.html" %}         
-          </blockquote>
-         </div> 
-      </div>
-      
-
-    {% endfor %}
-{% endif %}
-    {% else %}
   
+    
+  {% else %}
+    
       <h1 class="page-heading">{{ page_name }}</h1>
-
-    {% endif %}
+    
+  
+  {% endif %}
 
 

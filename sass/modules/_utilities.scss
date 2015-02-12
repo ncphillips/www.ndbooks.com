@@ -24,6 +24,11 @@ hr.transparent {
   border-top:1px solid transparent;
 }
 
+hr.fancy {
+  border-top: 5px solid $lightest-gray;
+    @include border-radius(90%);
+}
+
 
 sup, sub {
 //@include adjust-font-size-to($kappa);

@@ -4,6 +4,13 @@
     {% include "templates/partials/hero-book-page.html" %}
   {% endblock %}
   {% block content %}
+  {% set related_articles      = item.article_related_book %}
+  {% set related_articles      = related_articles|sort('publish_date', true) %}
+  {% set related_events        = item.event_related_book %}
+  {% set related_events        = related_events|sort('start_date') %}
+  {% set now = Date() %}
+  {% set current_date = now |date('U') %}
+
     {% set authors = item.authors %}
     {% set translators = item.translators %}
     {% set original_language = item.original_language %}
@@ -13,30 +20,43 @@
     {% set series = item.series %}
 
     <div class="has-layout layout-book">
+    {# TOP ROW = EVENTS IF WE GOT'EM #}
+      {% if related_events %}      
+        {% for event in related_events %}
+          {% set event_date = event.start_date|date('U') %}
+          {% if event.start_date && event_date > current_date %}
+            {% if loop.first %}
+              <section class="row">      
+                <ul>
+                  <h5>upcoming event{% if loop.revindex > 1 %}s{% endif %}</h5>
+            {% endif %}
+                  <li>
+                    <a href="{{ url(event)}}">{% if event.start_date %}{{ event.start_date|date('M jS') }}: {% endif %}{{event.name}}</a>{% if !loop.last %} {% endif %}
+                  </li>
+            {% if loop.last %}
+                </ul>
+                <hr />      
+              </section>
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+      {# 2ND ROW = BOOK COVER AND SERIES, 1 REVIEW QUOTE, TAGLINE OR SYNOPSIS (IF THERE'S NO SYNOPSIS) #}
       <section class="row book-splash" style="margin-top:0;padding-top:0;">{# Top row = book cover on left, quote and tagline on right #}
-
-
-
-
         <div class="book-cover">
           {% include "templates/partials/format-image-750px-high.html" %}
         </div>
-        <div class="copy" >   
-
-
-            {% for series in series %}
-              <h2 class="center" style="margin-top:2em;"><a href="{{ url(series) }}">{{ series.name}}</a></h2>
-            {% endfor %}
-
-
+        <div class="copy">   
+          {% if series %}
+            <h2 class="center" style="margin-top:2em;"><a href="{{ url(series) }}" class="inverse-link">{{ series.name}}</a> <small>series</small></h2>            
+          {% endif %}
           {% if reviews_of_this_book %}
             <blockquote class="review presentational" >
               {% for review in reviews_of_this_book|slice(0,1) %}
                 {% include "templates/partials/format-quotes.html" %}
               {% endfor %}
             </blockquote>
-          {% endif %}
-        
+          {% endif %}        
           {% if item.editions %}
             {% if item.editions[0].tagline %}
               <div class="tagline">{{ item.editions[0].tagline|markdown }}</strong>
@@ -45,17 +65,16 @@
               {{ item.copy|safe }}
             {% endif %}
           {% endif %}
-
         </div>
       </section>{#  // END TOP ROW #}
 
       <hr />
-
+      {# 3RD ROW PRIMARY BOOK DATA, INCLUDING TITLE, AUTHOR, TRANSLATOR, SYNOPSIS, NEWS LINKS, AND BUY LINKS #}
       <section class="row spaced-top-bottom-2em">{# Row with book synopsis   #}
         <article class="hentry {% if page_class %}{{ page_class }}{% endif %}">
           <header>
             {% if item.name %}
-              <h1 class="entry-title">{{ item.name }}{% if item.subtitle %} <br /><small>{{ item.subtitle }}</small>{% endif %}</h1>
+              <h1 class="entry-title">{{ item.name }}{% if item.subtitle %} <small>{{ item.subtitle }}</small>{% endif %}</h1>
             {% endif %}
               {% if authors %}
               <h2><small>{% if item.genre %}{{ item.genre }} {% endif %}by</small> 
@@ -75,7 +94,16 @@
               {{ copy|safe }}
               {% block below_copy %}          
               {% endblock %}
-              <hr />
+              {% if related_articles %}
+                <hr class="transparent" />
+                <h5>related articles</h5>
+                <ul class="inline">
+                  {% for article in related_articles%}
+                    <li><a href="{{ url(article)}}">{{article.name}}</a>{% if !loop.last %}, {% endif %}</li>
+                  {% endfor %}          
+                </ul>        
+              {% endif %}
+              <hr class="fancy" />
               {% if editions %}
                 {% include "templates/partials/buy-links.html" %}        
               {% endif %}
@@ -88,17 +116,11 @@
 
 {#     <hr class="section-divider" style="margin-bottom:8em;" /> #}
 
-    {# ROW with Author and metadata information #}
-  
-    
-
+    {# 4TH ROW AUTHOR PHOTO #}
       <div class="page-item shape case-2">
          {# style="background-image:url(/static/images/logo-ndbooks-aaa.svg);background-repeat:no-repeat;background-position:center center;" #}
-         
-    
         {% if authors %}
-          {% for object in authors %}
-            
+          {% for object in authors %}            
               <div class="author-block">
                 <div class="outlined">
                   <h4>
@@ -122,77 +144,38 @@
         
         </div>
 
+      {# 5TH ROW MORE REVIEWS #}
+      <div class="has-layout layout-book">
+        {# <hr class="section-divider" style="margin-bottom:8em;" /> #}
 
+          <div id="reviews" class="row quotes" data-ref="quotes">
+            {% if reviews_of_this_book %}            
+              {% for review in reviews_of_this_book|slice(1,20) %}
+                <blockquote id="container-review" class="review">
+                  {% include "templates/partials/format-quotes.html" %}
+                </blockquote>
+              {% endfor %}
+            {% endif %}
+          </div>
 
-<div class="has-layout layout-book">
-    
-  {# <hr class="section-divider" style="margin-bottom:8em;" /> #}
+          {% if item.excerpt %}
+            <div id="excerpt" class="row spaced-top-bottom-2em" style="margin-top:8em;">
+              <article class="hentry">
+                <div class="entry-content lead prose">
+                <h5 class="h2">Excerpt from <em>{{ item.name }}</em>{% if item.subtitle %} <small>{{ item.subtitle }}</small>{% endif %}</h5>
+                   {{ item.excerpt|safe }}
+                    <hr />
+                    {% if editions %}
+                      {% include "templates/partials/buy-links.html" %}
+                    {% endif %}
+                 </div>
+                </article> 
+            </div>
+          {% endif %}
+      </div>{#  //has-layout #}
 
-    <div id="reviews" class="row quotes" data-ref="quotes">
-      {% if reviews_of_this_book %}            
-        {% for review in reviews_of_this_book|slice(1,20) %}
-          <blockquote id="container-review" class="review">
-            {% include "templates/partials/format-quotes.html" %}
-          </blockquote>
-        {% endfor %}
-      {% endif %}
-    </div>
-
-    {% if item.excerpt %}
-      <div id="excerpt" class="row spaced-top-bottom-2em" style="margin-top:8em;">
-        <article class="hentry">
-          <div class="entry-content lead prose">
-          <h5 class="h2">Excerpt from <em>{{ item.name }}</em>{% if item.subtitle %} <small>{{ item.subtitle }}</small>{% endif %}</h5>
-             {{ item.excerpt|safe }}
-              <hr />
-              {% if editions %}
-                {% include "templates/partials/buy-links.html" %}
-              {% endif %}
-           </div>
-          </article> 
-      </div>
-    {% endif %}
-
-
-
-
-</div>{#  //has-layout #}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-{% set prev = prevItem(item, 'publication_date') %}
-{% set next = nextItem(item, 'publication_date') %}
-{% include "templates/partials/prev-next.html" %}
+      {# LINKS TO PREV NEXT BOOKS #}
+      {% set prev = prevItem(item, 'publication_date') %}
+      {% set next = nextItem(item, 'publication_date') %}
+      {% include "templates/partials/prev-next.html" %}
 {% endblock %}
-
-{# TODO:
-- Alt layout for phamplets #}

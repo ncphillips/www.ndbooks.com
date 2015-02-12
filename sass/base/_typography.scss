@@ -37,18 +37,16 @@ h1 small {
 h2, .h2 {
   font-size: $h2-font-size;
   font-weight: 300;
-   a:link, a:active, a:visited {
-    color: $heading-color;
-   }
-   a:hover {
-    color: $base-accent-color;
-   }
+   
 }
 
-h2, .h2 {
-  font-size: $h2-font-size;
 
-}
+// a:link, a:active, a:visited {
+//     color: $heading-color;
+//    }
+//    a:hover {
+//     color: $base-accent-color;
+//    }
 
 h3, .h3-font-size {
   font-size: $h3-font-size;
@@ -93,6 +91,15 @@ a {
     outline: none;
   }
 }
+
+h2 a.inverse-link, a.inverse-link {
+    color: $base-accent-color;    
+     &:hover {
+       color: $base-link-color;
+    }
+  }
+
+
 
 hr {
   border-bottom: $base-border;
