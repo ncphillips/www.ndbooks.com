@@ -48,7 +48,7 @@
         </div>
         <div class="copy">   
           {% if series %}
-            <h2 class="center" style="margin-top:2em;"><a href="{{ url(series) }}" class="inverse-link">{{ series.name}}</a> <small>series</small></h2>            
+            <h2 class="center" style="margin-top:2em;"><a href="{{ url(series) }}" class="inverse-link-color">{{ series.name}}</a> <small>series</small></h2>            
           {% endif %}
           {% if reviews_of_this_book %}
             <blockquote class="review presentational" >
@@ -59,10 +59,11 @@
           {% endif %}        
           {% if item.editions %}
             {% if item.editions[0].tagline %}
-              <div class="tagline">{{ item.editions[0].tagline|markdown }}</strong>
-              {% set copy = item.copy %}
+              <div class="tagline">
+                <strong>{{ item.editions[0].tagline|markdown }}</strong>
+              {% set copy = item.copy %}{#  <- a clever(?) way of only showing copy if there's a tagline, we assign the variable here and use it below. No tagline, no variable. #}
             {% elseif item.copy %}
-              {{ item.copy|safe }}
+              <div class="align-left">{{ item.copy|safe }}</div>
             {% endif %}
           {% endif %}
         </div>
@@ -90,16 +91,16 @@
             {% endif %}
           </header>
           {% if item.copy %}
-            <div class="entry-content lead prose">
+            <div class="entry-content lead">
               {{ copy|safe }}
               {% block below_copy %}          
               {% endblock %}
               {% if related_articles %}
                 <hr class="transparent" />
                 <h5>related articles</h5>
-                <ul class="inline">
-                  {% for article in related_articles%}
-                    <li><a href="{{ url(article)}}">{{article.name}}</a>{% if !loop.last %}, {% endif %}</li>
+                <ul class="inverse-link-color">
+                  {% for article in related_articles %}
+                    <li><a href="{{ url(article) }}">{{ article.name }}</a>{# {% if !loop.last %}, {% endif %} #}</li>
                   {% endfor %}          
                 </ul>        
               {% endif %}
@@ -161,7 +162,7 @@
           {% if item.excerpt %}
             <div id="excerpt" class="row spaced-top-bottom-2em" style="margin-top:8em;">
               <article class="hentry">
-                <div class="entry-content lead prose">
+                <div class="entry-content prose">
                 <h5 class="h2">Excerpt from <em>{{ item.name }}</em>{% if item.subtitle %} <small>{{ item.subtitle }}</small>{% endif %}</h5>
                    {{ item.excerpt|safe }}
                     <hr />

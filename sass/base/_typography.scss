@@ -77,6 +77,13 @@ p {
   }
 }
 
+.prose p {
+  font-size: $paragraph-font-size;
+  font-family: $paragraph-font-family;
+  line-height: $base-line-height * 1.0625;
+
+}
+
 a {
   @include transition(color 0.1s linear);
   color: $base-link-color;
@@ -92,7 +99,7 @@ a {
   }
 }
 
-h2 a.inverse-link, a.inverse-link {
+h2 a.inverse-link-color, a.inverse-link-color ul.inverse-link-color li a {
     color: $base-accent-color;    
      &:hover {
        color: $base-link-color;
@@ -155,4 +162,8 @@ cite {
 
 .centered {
   text-align: center;
+}
+
+.align-left, .align-left p {
+  text-align: left;
 }
