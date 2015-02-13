@@ -1,0 +1,30 @@
+{% extends "templates/partials/base.html" %}
+{% block title %}{% parent %} - {{ item.name }}{% endblock %}
+{% block content %}
+  <div class="has-layout layout-page">
+    <article class="hentry">
+      <header>
+        {% if item.name %}
+          <h1 class="entry-title">{{ item.name }}</h1>
+        {% endif %}
+      </header>
+
+      <div class="two-column-first">
+        
+{% set featuredBook = cms.global.featured_books_bestsellers %}
+
+
+{% for object in featuredBook %}
+<a href="{{ url(object) }}">
+  {% include "templates/partials/format-image-sidebar.html" %}
+  </a>
+{% endfor %}
+      </div>
+
+
+      <div class="entry-content prose two-column-last">
+        {{ item.copy|safe }}
+      </div>
+    </article>
+  </div>
+{% endblock %}

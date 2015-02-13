@@ -22,11 +22,11 @@ ul.button-group li:hover {
 
 
 button, input[type="submit"] {
-  background-color: $black;// darken($base-body-color-background, 15%);
+  background-color: $black;// darken($base-background-color, 15%);
   padding: 0.5em .625em;
   color: $lightest-gray;
   font-weight: 400;
-  border: 1px solid darken($base-body-color-background, 35%);
+  border: 1px solid darken($base-background-color, 35%);
   border-radius: 3px;
 }
 

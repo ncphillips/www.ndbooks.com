@@ -11,41 +11,20 @@
 
           {# books where book.type.study = true #}
 
-          {% set books = books|sort('_sort_publication_date', true) %}
+          {% set books = books|sort('publication_date', true) %}
 
 
   {# This is how you set pagination. It's always important to do this after your sort. #}
-  {% set books = paginate(books, 5000) %}
+  {% set books = paginate(books, 30) %}
 
 
-{% for book in books %}
-{% if book.type.value == 'Study' %}
+{% for object in books %}
+
+{{ object.name }}
+{% include "templates/partials/format-image-300px-wide.html" %}
 
 
-<div class="" style="float:left;margin-right:27px;width:200px;"> {# {% cycle 'one', 'two', 'three' %} #}
-  <h1 class="book-title">
-          <a href="{{ url(book) }}">
-            {{ book.name }} <i class="icon-right-circled"></i>
-          </a>
-        </h1>
 
-        <ul>
-  {% for option in book.type %}
-    <li>
-      {{ option.label }}: {{ option.value }}
-    </li>
-  {% endfor%}
-</ul>
-
-          <img data-aload="{{ global.cdn_link_books }}/{{ book.cover_image_file }}" alt="cover image for {{ book.name }}">
-          <noscript>
-            <img src="{{ global.cdn_link_books }}/{{ book.cover_image_file }}" alt="cover image for {{ book.name }}">
-          </noscript>
-
-  </div>
-
-
-{% endif %}
 {% endfor %}
 
 

@@ -1,0 +1,9 @@
+
+
+
+ 
+
+
+ @mixin image-big-shadow($first, $second, $third) {
+    box-shadow: 0 13px 50px rgba(0,0,0,0.3);
+  }

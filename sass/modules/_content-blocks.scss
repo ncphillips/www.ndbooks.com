@@ -54,7 +54,7 @@ a.article {
 }
 
 a.article:hover, a .lede:hover {
-  background-color: lighten($base-body-color-background, 1%);
+  background-color: lighten($base-background-color, 1%);
   @include transition (all 0.2s ease-in-out);
   //box-shadow: none;
 }

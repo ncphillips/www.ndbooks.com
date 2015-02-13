@@ -25,7 +25,7 @@ $h3-font-size: $base-font-size * 1.75;
 $h4-font-size: $base-font-size * 1.5;
 $h5-font-size: $base-font-size * 1.25;
 $h6-font-size: $base-font-size;
-$paragraph-font-size: $base-font-size * 1.0625;
+$paragraph-font-size: $base-font-size * 1.125;
 
 // Line height
 $base-line-height: 1.6;
@@ -85,15 +85,15 @@ $navigation-color-active: red;
 $hero-background-color: $blackest;
 
 
-// Body Color
-$base-body-color: white;
-$base-body-color-background: $lightest-gray;
+// Body Color WTF ARE THESE?
+//$base-body-color: $lightest-gray;//white;
+//$base-body-color-background: $lightest-gray;
 
 $article-color-background: #FFF;
 $article-color-background-splash: rgba(255,255,255,0.72);
 
 // Background Color
-$base-background-color: white;
+$base-background-color: $lightest-gray;
 
 //  Font Colors
 $base-font-color: $dark-gray;
