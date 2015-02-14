@@ -1,0 +1,64 @@
+{% if item.name %}
+          <h1 class="entry-title">{{ item.name }}</h1>
+        {% endif %}
+
+
+    <div class="hero">
+    
+    {% include "templates/partials/navigation.html" %}
+  
+{% set review = item.quote %}
+{% set reviews_of_this_author = item.reviews_about %}
+{% set page_name = item.name %}
+
+ 
+{% if item._type == 'author' %}
+
+
+  
+
+    {% if item.featured_image %}
+      
+        <div class="hero-inner" style="
+      background: linear-gradient(to bottom, rgba(0,0,0,1) 0%,rgba(0,0,0,0.63) 25%,rgba(0,0,0,0.07) 87%,rgba(0,0,0,0.07) 100%),url({{ item.featured_image|imageSize(1600) }}) no-repeat center {% if item.featured_image_position %}{{ item.featured_image_position }}{% else %}center{% endif %};
+      filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e6000000', endColorstr='#8c000000',GradientType=0 );
+      background-size:cover;{% if item.banner_height %}height:{{ item.banner_height }}px;{% endif %}background-attachment: fixed;">
+          <div class="hero-copy">
+            {% if reviews_of_this_author %}
+              {% for review in reviews_of_this_author|slice(0,1) %}
+              <blockquote id="container-review-single" class="review">        
+                {% include "templates/partials/format-quotes.html" %}         
+              </blockquote>
+              {% endfor %}
+            {% endif %}
+         </div> 
+        </div>
+      
+    {% endif %}
+
+
+
+
+{% else %}
+
+  {% if review %}
+
+    <div class="hero-inner">
+      <div class="hero-copy">
+        <blockquote id="container-review-single" class="review">        
+          {% include "templates/partials/format-quotes.html" %}         
+        </blockquote>
+      </div>
+    </div>
+  
+  
+    
+  {% else %}
+    {# 
+      <h1 class="page-heading">{{ page_name }}</h1>
+     #}
+  
+  {% endif %}
+
+
+</div> 
