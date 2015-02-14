@@ -45,9 +45,25 @@
         {{ cms.global.slug }}
       </li>
       <li>
+        <strong>Featured Books: Home: </strong>
+        {# Relationship. Note that use the label you set for the relation, not the content-type name. #}
+        {% for relation in cms.global.featured_books_home %}
+          {# You can ouput more than just the name. Feel free to output more fields from the CMS. #}
+          <a href="{{ url(relation) }}">{{ relation.name }}</a>{% if not loop.last %},{% endif %}
+        {% endfor %}
+      </li>
+      <li>
         <strong>Featured Books: Bestsellers: </strong>
         {# Relationship. Note that use the label you set for the relation, not the content-type name. #}
         {% for relation in cms.global.featured_books_bestsellers %}
+          {# You can ouput more than just the name. Feel free to output more fields from the CMS. #}
+          <a href="{{ url(relation) }}">{{ relation.name }}</a>{% if not loop.last %},{% endif %}
+        {% endfor %}
+      </li>
+      <li>
+        <strong>Featured Books: History: </strong>
+        {# Relationship. Note that use the label you set for the relation, not the content-type name. #}
+        {% for relation in cms.global.featured_books_history %}
           {# You can ouput more than just the name. Feel free to output more fields from the CMS. #}
           <a href="{{ url(relation) }}">{{ relation.name }}</a>{% if not loop.last %},{% endif %}
         {% endfor %}

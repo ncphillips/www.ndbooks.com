@@ -80,7 +80,7 @@ p {
 .prose p {
   font-size: $paragraph-font-size;
   font-family: $paragraph-font-family;
-  line-height: $base-line-height * 1.0625;
+  line-height: 1.7;//$base-line-height * 1.0625;
 
 }
 

@@ -47,7 +47,10 @@ margin-bottom: 2em;
 article {
   overflow: hidden;
   background-color: $article-color-background;
-  @include pad(4em);
+  @include pad(2em);
+  @include media($medium-screen-up) { 
+    @include pad(4em);
+  }
 }
 
 article.hentry {
@@ -101,12 +104,46 @@ aside {
 }
 
 
+
+
+
+
 //======= Layouts =======//
 
 body.post .content {
   // remove the padding so we can display our next post at the bottom of the page
   padding-bottom: 0;
 }
+
+
+.layout-article { //pages
+  @include outer-container;
+  article {
+    @include span-columns(12);
+  }
+  aside {
+    @include span-columns(12);
+  }
+
+  @include media($medium-screen-up) {
+    article {
+      @include span-columns(8 of 12);
+        ////////////margin-top: -3.75em;
+        @include omega();   
+        //@include shift(1);
+    }
+    aside {
+      @include span-columns(2.5 of 12);
+
+    
+    }
+  }
+}
+
+
+
+
+
 
 .layout-page { //pages
   @include outer-container;

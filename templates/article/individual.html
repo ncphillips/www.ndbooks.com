@@ -1,12 +1,30 @@
+
 {% extends "templates/partials/base.html" %}
 {% block title %}{% parent %} - {{ item.name }}{% endblock %}
+{% block hero %}{# //let page types overide the hero inner element, even though much of it is conditionally determined #}
+    {% include "templates/partials/hero-article-page.html" %}
+  {% endblock %}
 {% block content %}
-  <div class="has-layout layout-page">
+  <div class="has-layout layout-article">
+
+  <aside>
+    
+        
+          -------
+          {% set relatedBook = item.related_book %}
+          {% for object in relatedBook %}
+          {{ object.name }}
+
+          {% endfor %}
+
+      
+  </aside>
+
     <article class="hentry">
       <header>
-        {% if item.name %}
+        {# {% if item.name %}
           <h1 class="entry-title">{{ item.name }}</h1>
-        {% endif %}
+        {% endif %} #}
       </header>
       <div class="entry-content prose">
         {{ item.copy|safe }}
