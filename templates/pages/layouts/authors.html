@@ -1,18 +1,20 @@
 {% extends "templates/partials/base.html" %}
 {% block title %}{% parent %} - authors{% endblock %}
-
+{% block hero %}{# //let page types overide the hero inner element, even though much of it is conditionally determined #}
+    {% include "templates/partials/hero-search.html" %}
+  {% endblock %}
 {% block content %}
   
   {% set authors = cms.author|sort('last')  %}
   {% set authors = paginate(authors, 10000) %}
 
   
-<div id="container-filter">
+
 
   <div class="local-nav"><!--  //Filter for the content below -->
     <i class="icon-filter"></i>
     <ul class="button-group">
-      <li id="filter-authors">Authors NEW</li>
+      <li id="filter-authors">Authors</li>
       <li id="filter-editors">Editors</li>
       <li id="filter-translators">Translators</li>
       <li id="filter-contributors">Contributors</li>
@@ -20,7 +22,7 @@
       <li id="filter-none-authors" class="button">clear</li>
       <li><a href="#" class="button">Keywords</a></li>
     </ul>
-    <input class="search" placeholder="Search" style="display:inline-block;" />
+    
     <button class="sort" data-sort="last_name">Sort by Last Name</button>
     <span style="text-align:right;">
       <i class="icon-th"></i>
@@ -32,7 +34,7 @@
 
 
 
-<div id="container" class="grid-container" data-href="auto-awesome" style="max-width:98%;margin:auto;"><!--  //Creates a grid-box for the authors -->
+<div id="container" class="grid-container" data-href="auto-awesome"><!--  //Creates a grid-box for the authors -->
   <ul class="grid-items-lines list-filter">
 
     {% for item in authors %}

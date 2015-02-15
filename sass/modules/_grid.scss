@@ -5,6 +5,7 @@
 .grid-container {
 //  width: 90%;
   margin: auto;
+  @include outer-container;
 }
 
 .author-nav {

@@ -31,6 +31,9 @@
     .hero-inner h1 {
       color: lighten($text-color, 32%);
     }
+    .hero-copy input {
+      background-color: lighten($base-color, 3%);
+    }
   }
   ul.links li a{
     border: 1px solid lighten($base-color, 35%);

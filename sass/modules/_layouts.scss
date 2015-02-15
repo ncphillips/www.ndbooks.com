@@ -128,7 +128,7 @@ body.post .content {
       .entry-content {
         @include span-columns(7 of 12);
         @include omega();   
-        @include shift(.5);
+        //@include shift(.5);
       }
       aside {
           @include span-columns(2.5 of 12);

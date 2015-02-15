@@ -1,0 +1,42 @@
+<div id="container-filter">
+{% if item.featured_image %}
+    <div class="hero featured_image"  style="
+      background: linear-gradient(to bottom, rgba(0,0,0,1) 0%,rgba(0,0,0,0.63) 25%,rgba(0,0,0,0.07) 87%,rgba(0,0,0,0.07) 100%),url({{ item.featured_image|imageSize(1600) }}) no-repeat center {% if item.featured_image_position %}{{ item.featured_image_position }}{% else %}center{% endif %};
+      filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e6000000', endColorstr='#8c000000',GradientType=0 );
+      background-size:cover;{% if item.banner_height %}height:{{ item.banner_height }}px;{% endif %}background-attachment: fixed;" data-velocity=".4" data-fit="0">
+  {% else %}
+    <div class="hero">
+  {% endif %}
+    {% include "templates/partials/navigation.html" %}
+  
+
+{# //============================= #}
+
+{% set page_name = item.name %}
+
+<div class="hero-inner">
+      <div class="hero-copy">
+    
+  {% if review %}
+
+        <blockquote id="container-review-single" class="review">        
+          {% include "templates/partials/format-quotes.html" %}         
+        </blockquote>
+    
+  
+    
+  {% else %}
+
+  
+    
+      {# <h1 class="page-heading">{{ page_name }}</h1> #}
+    <input class="search" placeholder="Search" style="display:inline-block;" />
+  
+  {% endif %}
+
+  </div>
+    </div>
+  
+
+{# //============================= #}
+  </div> 
