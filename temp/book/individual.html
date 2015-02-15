@@ -9,15 +9,14 @@
   {% set related_events        = item.event_related_book %}
   {% set related_events        = related_events|sort('start_date') %}
   {% set now = Date() %}
-  {% set current_date = now |date('U') %}
-
-    {% set authors = item.authors %}
-    {% set translators = item.translators %}
-    {% set original_language = item.original_language %}
-    {% set reviews_of_this_book = item.reviews_related_book %}
-    {% set editions = item.editions %}
-    {% set publication_date = item.publication_date %}
-    {% set series = item.series %}
+  {% set current_date = now|date('U') %}
+  {% set authors = item.authors %}
+  {% set translators = item.translators %}
+  {% set original_language = item.original_language %}
+  {% set reviews_of_this_book = item.reviews_related_book %}
+  {% set editions = item.editions %}
+  {% set publication_date = item.publication_date %}
+  {% set series = item.series %}
 
     <div class="has-layout layout-book">
     {# TOP ROW = EVENTS IF WE GOT'EM #}
@@ -44,7 +43,13 @@
       {# 2ND ROW = BOOK COVER AND SERIES, 1 REVIEW QUOTE, TAGLINE OR SYNOPSIS (IF THERE'S NO SYNOPSIS) #}
       <section class="row book-splash" style="margin-top:0;padding-top:0;">{# Top row = book cover on left, quote and tagline on right #}
         <div class="book-cover">
-          {% include "templates/partials/format-image-750px-high.html" %}
+          {% if item.editions %}
+            {% if item.editions[0].image %}
+              <img src="{{ item.editions[0].image|imageSize(750) }}" alt="cover image for {{ item.name }}">
+            {% else %}
+              {% include "templates/partials/format-image-750px-high.html" %}
+            {% endif %}
+          {% endif %}
         </div>
         <div class="copy">   
           {% if series %}
@@ -65,6 +70,11 @@
             {% elseif item.copy %}
               <div class="align-left">{{ item.copy|safe }}</div>
             {% endif %}
+            {% set publication_date_unix = publication_date|date('U') %}
+              {% if publication_date_unix > current_date %}
+                <hr class="transparent" />
+                <h5 class="red">Available {{ publication_date|date('F d Y') }}</h5>
+              {% endif %}
           {% endif %}
         </div>
       </section>{#  // END TOP ROW #}
@@ -173,6 +183,7 @@
                 </article> 
             </div>
           {% endif %}
+          <a href="/cms/#/wh/content/book/{{ item._id }}">.</a>
       </div>{#  //has-layout #}
 
       {# LINKS TO PREV NEXT BOOKS #}

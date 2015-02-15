@@ -21,11 +21,16 @@
     text-align: center;
     //color: $hero-color;
 
+
     .books {
       text-align: left;
       line-height: 1.1;
     }
     @include media($large-screen) {
+
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+
 
     blockquote {
       max-width: 60%;
@@ -128,11 +133,18 @@ h1.page-heading {
   //bottom: -19px;
   //bottom: 0;//-35px;
   text-align: left;
-  font-weight: 300;
+  font-weight: 400;
   padding: 20px;
 
 }
 body.book .hero {
   min-height: 14.6785em; //235px
   //min-height: 320px;
+}
+
+body.article .hero-inner {
+   height:200px;
+  @include media($large-screen) {
+   height:500px;
+  }
 }

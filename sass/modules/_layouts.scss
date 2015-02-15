@@ -63,14 +63,14 @@ article.hentry {
   }
 }
 
-article img:first-child {
-  float: none;
-  margin: 0 0 1.5em 0;
-  @include media($small-screen-up) {
-    float: left;
-    margin: .5em 1.4em 1.5em 0;
-  }
-}
+// .prose img:first-child {
+//   float: none;
+//   margin: 0 0 1.5em 0;
+//   @include media($small-screen-up) {
+//     float: left;
+//     margin: .5em 1.4em 1.5em 0;
+//   }
+// }
 // body.splash article.hentry {
 //   background-color: $article-color-background;
 //   background-color: $article-color-background-splash;
@@ -103,11 +103,6 @@ aside {
   }
 }
 
-
-
-
-
-
 //======= Layouts =======//
 
 body.post .content {
@@ -116,26 +111,28 @@ body.post .content {
 }
 
 
-.layout-article { //pages
-  @include outer-container;
+.layout-article { 
   article {
-    @include span-columns(12);
-  }
-  aside {
-    @include span-columns(12);
-  }
-
-  @include media($medium-screen-up) {
-    article {
-      @include span-columns(8 of 12);
-        ////////////margin-top: -3.75em;
-        @include omega();   
-        //@include shift(1);
-    }
+    @include outer-container;
+    .entry-content {
+        @include span-columns(12);
+      }
     aside {
-      @include span-columns(2.5 of 12);
-
-    
+      @include span-columns(12);
+      @include pad(1em 1em 0 0);
+      img {
+        box-shadow: 0 13px 50px rgba(0,0,0,0.3);
+      }
+    }
+    @include media($medium-screen-up) {
+      .entry-content {
+        @include span-columns(7 of 12);
+        @include omega();   
+        @include shift(.5);
+      }
+      aside {
+          @include span-columns(2.5 of 12);
+      }
     }
   }
 }
@@ -423,7 +420,7 @@ body.post .hero {
   }
 
 
-.lede {
+.lede, .lede p {
   font-family: $header-font-family;
   font-size: 1.3125em;
   max-width: 80%;

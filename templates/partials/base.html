@@ -1,42 +1,67 @@
 {% set now = Date() %}{% set current_unix_date = now|date('U') %}{% set global = cms.global %}
   {% include "templates/partials/head.html" %}
   {% block head_extra %}{% endblock %}
-
-
-
-{% set prev = prevItem(item, 'publish_date', true) %}
-{% set next = nextItem(item, 'publish_date', true) %}
+  {% set prev = prevItem(item, 'publish_date', true) %}
+  {% set next = nextItem(item, 'publish_date', true) %}
     {% if prev %}
       <link rel="prefetch" href="{{ url(prev) }}" />
     {% endif %}
     {% if next %}
       <link rel="prefetch" href="{{ url(next) }}" />
     {% endif %}
-</head>
-{# body classes: if splash_image, category, theme, page class #}
-<body id="container" class="{{ item.theme.name }} {{ item._type }}{% if item.page_layout %}-{{ item.page_layout|replace('.html','') }}{% endif %}{% if item.splash_image %} splash{% endif %}" {% block body_attributes %}{% endblock %}>
-<div class="wrap">
-  <a href="#start-of-content" tabindex="1" class="accessibility-aid">Skip to content</a>
+  </head>
+  {# body classes: if splash_image, category, theme, page class #}
+  <body id="container" class="{{ item.theme.name }} {{ item._type }}{% if item.page_layout %}-{{ item.page_layout|replace('.html','') }}{% endif %}{% if item.splash_image %} splash{% endif %}" {% block body_attributes %}{% endblock %}>
+  <div class="wrap">
+    <a href="#start-of-content" tabindex="1" class="accessibility-aid">Skip to content</a>
+  
+
+
+
 
   {% block hero %}{# //let page types overide the hero inner element, even though much of it is conditionally determined #}
     {% include "templates/partials/hero.html" %}
   {% endblock %}
-    
+  
+
+
+
 
 
   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     <section class="content">
       <div id="start-of-content" class="accessibility-aid"></div>
-      {% block content %}{% endblock %}
-    </section>
-  
-
-
-  {% include "templates/partials/footer.html" %}
-  {% include "templates/partials/scripts.html" %}
-
-  {% block scripts_extra %}{% endblock %}
-</div>
+        {% block content %}{% endblock %}
+      </section>
+      {% include "templates/partials/footer.html" %}
+      {% include "templates/partials/scripts.html" %}
+      {% block scripts_extra %}{% endblock %}
+    </div>
   </body>
 </html>
 

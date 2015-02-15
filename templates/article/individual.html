@@ -1,34 +1,55 @@
-
 {% extends "templates/partials/base.html" %}
 {% block title %}{% parent %} - {{ item.name }}{% endblock %}
 {% block hero %}{# //let page types overide the hero inner element, even though much of it is conditionally determined #}
     {% include "templates/partials/hero-article-page.html" %}
   {% endblock %}
 {% block content %}
-  <div class="has-layout layout-article">
-
-  <aside>
-    
-        
-          -------
-          {% set relatedBook = item.related_book %}
-          {% for object in relatedBook %}
-          {{ object.name }}
-
-          {% endfor %}
-
-      
-  </aside>
-
-    <article class="hentry">
+<div class="has-layout layout-article">
+  <article class="hentry">
+    {% if item.name %}
       <header>
-        {# {% if item.name %}
-          <h1 class="entry-title">{{ item.name }}</h1>
-        {% endif %} #}
+        <h1 class="entry-title">{{ item.name }}</h1>
       </header>
-      <div class="entry-content prose">
-        {{ item.copy|safe }}
-      </div>
-    </article>
-  </div>
+    {% endif %}
+    <aside>
+
+    {% if item.publish_date %}
+        <ul style="margin-bottom:3em;">
+          <li class="heading">Published</li>
+          <li>{{ item.publish_date|date('F jS, Y') }}</li>
+        </ul>
+      {% endif %}
+
+        {% set relatedAuthor = item.related_author %}
+        {% for object in relatedAuthor %}
+        <h5><a href="{{ url(object) }}">
+          {{ object.name }}
+        </a></h5>
+        {% endfor %}
+          <hr class="transparent" />
+      {% set relatedBook = item.related_book %}
+        {% for object in relatedBook %}
+        <a href="{{ url(object) }}">
+          {% include "templates/partials/format-image-sidebar.html" %}
+        </a>  
+        <hr class="transparent" />
+        {% endfor %}
+
+    </aside>
+    <div class="entry-content prose">
+        {% if item.lede %}
+        <div class="lede">{{ item.lede|markdown }}</div>
+        {% endif %}
+
+      {{ item.copy|safe }}
+    </div>
+  </article>
+</div>
+      {# LINKS TO PREV NEXT BOOKS #}
+      {% set prev = prevItem(item, 'publish_date') %}
+      {% set next = nextItem(item, 'publish_date') %}
+      {% include "templates/partials/prev-next.html" %}
 {% endblock %}
+
+
+{# TODO: Add visual prev/next #}

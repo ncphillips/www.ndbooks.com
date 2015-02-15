@@ -8,17 +8,17 @@
   {% endif %}
     {% include "templates/partials/navigation.html" %}
   
+
+{# //============================= #}
+
 {% set review = item.quote %}
 {% set reviews_of_this_author = item.reviews_about %}
 {% set page_name = item.name %}
 
  
-{% if item._type == 'author' %}
+  {% if item._type == 'author' %}
 
-
-  
-
-    {% if not item.featured_image %}
+          {% if not item.featured_image %}
       
         <div class="hero-inner">
           <div class="hero-copy">
@@ -32,8 +32,11 @@
          </div> 
         </div>
       
-    {% endif %}
+        {% endif %}
 
+  
+
+  
 
 
 
@@ -57,6 +60,8 @@
     
   
   {% endif %}
+{% endif %}
 
 
-</div> 
+{# //============================= #}
+  </div> 

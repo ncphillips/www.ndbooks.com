@@ -31,12 +31,12 @@ h1, .h1 {
 // }
 h1 small {
     font-size: 1.5rem;
-    font-weight: 300;
+    font-weight: 400;
   }
 
 h2, .h2 {
   font-size: $h2-font-size;
-  font-weight: 300;
+  font-weight: 400;
    
 }
 
@@ -143,7 +143,7 @@ cite {
 }
 
 .lead, .lead p {
-      font-size: 1.0625rem;
+      font-size: 1.0625em;
       line-height: 1.7;
       font-weight:400;
     }
@@ -157,7 +157,7 @@ cite {
 }
 
 .grid-container .tagline, .grid-container .tagline p {
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .centered {
@@ -166,4 +166,8 @@ cite {
 
 .align-left, .align-left p {
   text-align: left;
+}
+
+.red {
+  color: $red;
 }

@@ -1,12 +1,13 @@
+{% set editions = object.editions %}
 
-{% if object.image %}
-  <img src="{{ object.image|imageSize(180) }}">
-    <noscript>
-      <img src="{{ object.image|imageSize(180) }}">
-    </noscript>
-{% elseif object.image_file %}
-  <img src="{{ global.cdn_link }}{{ object.image_file }}">
-    <noscript>
-      <img src="{{ global.cdn_link }}{{ object.image_file }}">
-    </noscript>
-{% endif %}
+  {% if editions %}
+    {% if editions[0].image %}
+      <img src="{{ editions[0].image|imageSize(750) }}" alt="cover image for {{ item.name }}">
+    {% else %} {# //EVENTUALLY, ALL IMAGES WILL COME FROM THEIR EDITIONS, BUT FOR NOW, WE NEED TO GIVE OTHER OPTIONS #}
+      {% if object.image %}
+        <img src="{{ object.image|imageSize(300) }}">
+      {% elseif object.image_file %}
+        <img src="{{ global.cdn_link }}{{ object.image_file }}" style="width:100%;">
+      {% endif %}
+    {% endif %}
+  {% endif %}

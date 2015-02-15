@@ -62,7 +62,7 @@ body.dark-gray, .dark-on-light  {
   @include site-theme($dark-gray, $light-gray);
 }
 
-body.light-gray {
+body.light-gray, body.article {
   @include site-theme-hero($lightest-gray, $dark-gray);
 }
 
