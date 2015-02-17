@@ -8,23 +8,19 @@
   @include outer-container;
 }
 
-.author-nav {
-  background-color: #191919;
-  //background-color: rgba(0,0,0,0.7);
-
-  width: 3%;
-  position: fixed;
-  right: 0;
-  top: 0;
-  padding: 145px 2% 15% .72em;
-  text-align: justify;
-
-  a {
-   color: #808080;
-
-  }
-
-}
+// .author-nav {
+//   background-color: #191919;
+//   //background-color: rgba(0,0,0,0.7);
+//   width: 3%;
+//   position: fixed;
+//   right: 0;
+//   top: 0;
+//   padding: 400px 2% 15% .72em;
+//   text-align: justify;
+//   a {
+//    color: #808080;
+//   }
+// }
 
 .grid-items-lines {
   $grid-items-background: $base-background-color;
@@ -51,8 +47,6 @@
     border-bottom: $grid-item-border;
     cursor: pointer;
 
-
-
     @include media($large-screen) {
       @include grid-item-columns($grid-item-columns);
     }
@@ -75,11 +69,16 @@
 
     }
     .image-crop {
-  height: $grid-item-height - ($grid-item-padding * 2);
-  width: 10em;
-  overflow: hidden;
-  float: left;
-  margin-right: 1em;
+    height: $grid-item-height - ($grid-item-padding * 2);
+    width: 10em;
+    overflow: hidden;
+    float: left;
+    margin-right: 1em;
+    img[class] { width: 160px }
+    img {
+      height: 160px;
+      border-radius: 50%;
+    }
 }
 
 

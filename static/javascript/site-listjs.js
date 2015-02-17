@@ -1,6 +1,6 @@
     
     var options = {
-        valueNames: [ 'name', 'author','slug' , 'date', 'category', 'category1', 'category2', 'category3', 'category4', 'category5', 'tagline', 'last_name_sort', 'genre'],
+        valueNames: [ 'name', 'author','slug' , 'description', 'date', 'category', 'category1', 'category2', 'category3', 'category4', 'category5', 'tagline', 'last_name_sort', 'genre'],
         listClass: 'list-filter',
         page: 20000 // how many items should first show up on the page - affects performance
         // add tagline, or option for it?
@@ -76,8 +76,8 @@ if (document.getElementById("filter-designers")) {
         };
       }
   //and clear the filters
-  if (document.getElementById("filter-none-authors")) {
-     document.getElementById("filter-none-authors").onclick=function(){
+  if (document.getElementById("filter-none")) {
+     document.getElementById("filter-none").onclick=function(){
          authorList.filter();
         };
       }

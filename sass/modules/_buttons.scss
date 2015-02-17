@@ -8,10 +8,11 @@ ul.button-group li {
   margin-right: 1em;
   color: #ccc;
   border-radius: 3px;
-  background-color: lighten(#808080, 3%);
+  //background-color: lighten(#808080, 3%);
+    border: 1px solid darken($base-background-color, 20%);
 
   &.active {
-  background-color: lighten(#808080, 4%);
+  background-color: lighten($black, 2%);
   }
 }
 

@@ -11,3 +11,10 @@ img.grayscale, .grayscale img {
 aside.photo img {
   box-shadow: 0 13px 50px rgba(0,0,0,0.3);
 }
+
+
+.object-fit_fill { object-fit: fill }
+.object-fit_contain { object-fit: contain }
+.object-fit_cover { object-fit: cover }
+.object-fit_none { object-fit: none }
+.object-fit_scale-down { object-fit: scale-down }
