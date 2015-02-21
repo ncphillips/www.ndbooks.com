@@ -6,10 +6,10 @@
 {% set related_events        = item.event_related_author %}
 {% set related_events        = related_events|sort('start_date') %}
 
-{% set books_by_this_author  = item.books_authors %}
-{% set books_translated      = item.books_translators %}
-{% set books_edited          = item.book_editors %}
-{% set books_introduced      = item.book_contributors %}
+{% set books_by_this_author  = item.books_authors|sort('publication_date', true) %}
+{% set books_translated      = item.books_translators|sort('publication_date', true) %}
+{% set books_edited          = item.book_editors|sort('publication_date', true) %}
+{% set books_introduced      = item.book_contributors|sort('publication_date', true) %}
 {% set contributor_type      = item.contributor_type %}
 {% set books = merge(books_by_this_author, books_translated , books_edited, books_introduced) %}
 {% set reviews_of_this_author = item.reviews_related_author %}

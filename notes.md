@@ -1,3 +1,15 @@
+{
+  "secretKey"   : "50d0dbb9-6dcc-41a5-a306-3536215c97a6",
+  "siteName"   : "www,1ndbooks,1com",
+  "firebase"   : "sonnetmedia-org",
+  "embedly"    : "158d5ac0a96b49dcaf329421d41ffbb8",
+  "server"     : "130.211.131.138",
+  "custom"     : true
+}
+
+
+<meta name="siteName" content="www,1ndbooks,1com">
+
 All pages are templated in pages folder
 
 books
@@ -40,6 +52,8 @@ shopitem  1
 themes  8
 
 461+652+1217+1814 = 4,147
+
+
 
 
 

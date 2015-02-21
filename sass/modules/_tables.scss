@@ -10,8 +10,9 @@
 
   border-collapse: separate;
   border-spacing: 0;
-
+@include outer-container;
   tbody {
+    
     tr:hover > td, tr:hover > th {
       background-color: $table-hover-color;
     }

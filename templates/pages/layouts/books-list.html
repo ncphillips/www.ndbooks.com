@@ -3,7 +3,11 @@
   {% set now = Date() %}
   {% set current_date = now |date('U') %}
 
+
 {% block title %}{% parent %} - {{ page_name }}{% endblock %}
+{% block hero %}{# //let page types overide the hero inner element, even though much of it is conditionally determined #}
+    {% include "templates/partials/hero-search.html" %}
+  {% endblock %}
 
 
 {% set books = cms.book %}
@@ -11,57 +15,28 @@
 
 {% block content %}
 
-<div id="container-filter-books">
-  <div class="local-nav"><!--  //Filter for the content below -->
+
+
+
+<div class="local-nav"><!--  //Filter for the content below -->
+    <div class="interior">
     <i class="icon-filter"></i>
-    <ul class="button-group" style="display:none;">
-      <li id="filter-fiction">Fiction</li>
-      <li id="filter-nonfictionTK">Nonfiction</li>
-      <li id="filter-poetryTK">Poetry</li>
-      <li id="filter-theater">Theater</li>
-      <li id="filter-forthcoming">Forthcoming</li>
-      <li id="filter-none" class="button">clear</li>
-      <li><a href="#" class="button">Keywords</a></li>
+    <ul class="button-group">
+      <li id="filter-fiction"><a href="javascript:void(0)" class="button">Fiction</a></li>
+      <li id="filter-nonfiction"><a href="javascript:void(0)" class="button">Nonfiction</a></li>
+      <li id="filter-poetry"><a href="javascript:void(0)" class="button">Poetry</a></li>
+      <li id="filter-theater"><a href="javascript:void(0)" class="button">Theater</a></li>
+      {# <li id="filter-forthcoming"><a href="javascript:void(0)" class="button">Forthcoming</a></li> #}
+      <li id="filter-none" class="button"><a href="javascript:void(0)" class="button">clear</a></li>
+     {#  <li><a href="javascript:void(0)" class="button">Keywords</a></li> #}
     </ul>
-
-
-
-<form action="/search-results/" class="search-form" method="get" data-search-index="false">
-  <input type="text" placeholder="search" id="tipue_search_input" name="q" class="search">
-</form>
-
-
-
-    <input class="search" placeholder="Search" style="display:inline-block;" />
-    <button class="sort" data-sort="last_name">Sort by Last Name</button>
+    {# <button class="sort" data-sort="last_name">Sort by Last Name</button> #}
     <span style="text-align:right;">
       <i class="icon-th"></i>
       <i class="icon-th-list"></i>
-    </span>
-
-<div style="float:right;">
-  <form action="">
-<input type="checkbox"  name="filter" value="Fiction" />Fiction
-<input type="checkbox"  name="filter" value="Nonfiction" /> Nonfiction
-<input type="checkbox"  name="filter" value="Poetry" />Poetry
-<input type="checkbox"  name="filter" value="Theater" /> Theater
-
-</form>
-
-
-<form action="">
-<input type="checkbox"  name="filter" value="2014" >2014
-<input type="checkbox"  name="filter" value="2013" > 2013
-<input type="checkbox"  name="filter" value="2012" >2012
-<input type="checkbox"  name="filter" value="2011" > 2011
-
-</form>
-
-</div>
-<hr />
-
-
-</div>
+    </span>    
+    </div>
+  </div>
 
 
 
@@ -81,25 +56,37 @@
 
         <tbody class="list-filter">
         {% for book in books %}
+          {% set pub_date = book.publication_date|date('U') %}
+        
+
+
+
+
+
+
           <tr>
-            <td class="name" width="12%">              
-              <a href="{{ url(book) }}">{{ book.name }}</a>
+            <td class="name" width="33%">              
+              <a href="{{ url(book) }}">{{ book.name }}</a><span class="subtitle">{% if book.subtitle %} <a href="{{ url(book) }}">{{ book.subtitle }}</a>{% endif %}</span>
             </td>    
-              <td class="authorTK" width="12%">              
+              <td class="authors" width="33%">              
               
                 
                 {% for author in book.authors %}
           {# You can ouput more than just the name. Feel free to output more fields from the CMS. #}
           <a href="{{ url(author) }}" class="author">{{ author.name }}</a>{% if not loop.last %},{% endif %}
+
+            <span class="slug hidden">{{ author.slug|replace('author/', '') }}</span>
+
         {% endfor %}
 
               
             </td>    
 
 
-            <td class="date" width="12%">{% if book.publication_date %}{{ book.publication_date|date('F d, Y') }}{% endif %}</td>
+            <td class="date" width="12%">{% if book.publication_date %}{{ book.publication_date|date('F, Y') }}{% endif %}</td>
             
-            <td class="genre" width="12%">{% if book.genre %}{{ book.genre  }}{% endif %}</td>
+            <td class="genre" width="5%">{% if book.genre %}{{ book.genre }}{% endif %}</td>
+      
           </tr>
         {% endfor %}
         </tbody>
@@ -111,8 +98,6 @@
 
 
 
-
-</div>{#  //container-filter-books #}
 
 
 

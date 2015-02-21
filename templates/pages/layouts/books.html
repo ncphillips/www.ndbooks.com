@@ -20,9 +20,14 @@
 
 {% for object in books %}
 
-{{ object.name }}
-{% include "templates/partials/format-image-300px-wide.html" %}
 
+<a href="{{ url(object) }}">
+  {% if object.image %}
+  <img src="{{ object.image.url }}" alt="cover image for {{ object.name }}" style="width:300px;">
+{% elseif object.image_file %}
+  <img src="{{ global.cdn_link }}{{ object.image_file }}" alt="cover image for {{ object.name }}" class="width-300TK" style="width:300px;" />
+{% endif %}
+</a>
 
 
 {% endfor %}
