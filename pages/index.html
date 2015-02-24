@@ -12,10 +12,10 @@
 {% set books = global.featured_books_home %}
   
 
-    <div class="page-items">
+    <div class="flex-boxes">
       {% if books %}
         {% for object in books %} {# reversed #}
-          {% include "templates/partials/format-books-list.html" %}
+          {% include "templates/partials/format-books-blocks.html" %}
         {% endfor %}
       {% endif %}
       

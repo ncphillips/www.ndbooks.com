@@ -2,7 +2,7 @@
     <div class="hero featured_image"  style="
       background: linear-gradient(to bottom, rgba(0,0,0,1) 0%,rgba(0,0,0,0.63) 25%,rgba(0,0,0,0.07) 87%,rgba(0,0,0,0.07) 100%),url({{ global.featured_image|imageSize(1600) }}) no-repeat center {% if global.featured_image_position %}{{ global.featured_image_position }}{% else %}center{% endif %};
       filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e6000000', endColorstr='#8c000000',GradientType=0 );
-      background-size:cover;{% if global.banner_height %}height:100vh;{% endif %}background-attachment: fixed;" data-velocity=".4" data-fit="0">
+      background-size:cover;{% if global.banner_height %}height:95vh;{% endif %}background-attachment: fixed;" data-velocity=".4" data-fit="0">
   {% else %}
     <div class="hero">
   {% endif %}
@@ -24,6 +24,14 @@
           {% include "templates/partials/format-quotes.html" %}         
         </blockquote>
       </div>
+
+{# 
+
+      <img src="https://lh6.ggpht.com/80MmLfKZ-lvLKwZzans2CuuWTjX3GFhPbIg6cjxZHpIrLGgmBjrFrkkm1lOKhiBKuqM3Hi4UonkZeO32DaBfphIHghyinxpM=s750" style="width:200px;float:none;transform: scale(1) rotate(-10deg);margin-right:300px;display:inline-block;">
+      <p style="display:inline-block;">A delirious collection of short stories from the Latin American master of microfiction.<br />
+      <a href="">read more</a>
+ #}
+      </p>
     </div>
   {% endfor %}
 {% endfor %}
