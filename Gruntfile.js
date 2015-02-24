@@ -25,10 +25,10 @@ module.exports = function(grunt) {
         'bower_components/jquery/dist/jquery.min.js', 
         'bower_components/jquery.smooth-scroll/jquery.smooth-scroll.min.js' ,
         'bower_components/aload/dist/aload.min.js',
-        'bower_components/listjs/dist/list.min.js',
-        'static/javascript/site-listjs.js' , 
+        'static/javascript/tipue.js',
         'static/javascript/site.js', 
         'static/javascript/twitter.js'
+        
       ],
       dest: 'static/javascript/dist/scripts.js',
     },
@@ -36,6 +36,11 @@ module.exports = function(grunt) {
       src: ['bower_components/velocity/velocity.min.js','bower_components/velocity/velocity.ui.min.js'],
       dest: 'static/javascript/dist/scripts-velocity.js',
     },
+    listjs: {
+      src: ['bower_components/listjs/dist/list.min.js','static/javascript/site-listjs.js'],
+      dest: 'static/javascript/dist/scripts-listjs.js',
+    },
+
     modernize: {
       src: ['bower_components/html5shiv/dist/html5shiv.min.js','bower_components/respond/dest/respond.min.js'],
       dest: 'static/javascript/modernize/modernize.min.js',
@@ -50,7 +55,8 @@ module.exports = function(grunt) {
     },
     my_target: {
       files: {
-        'static/javascript/dist/scripts.min.js': ['static/javascript/dist/scripts.js']
+        'static/javascript/dist/scripts.min.js': ['static/javascript/dist/scripts.js'],
+        'static/javascript/dist/scripts-listjs.min.js': ['static/javascript/dist/scripts-listjs.js']
       }
     }
   },

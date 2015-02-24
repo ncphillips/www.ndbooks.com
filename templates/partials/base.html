@@ -14,46 +14,9 @@
   <body id="container" class="{{ item.theme.name }} {{ item._type }}{% if item.page_layout %}-{{ item.page_layout|replace('.html','') }}{% endif %}{% if item.splash_image %} splash{% endif %}" {% block body_attributes %}{% endblock %}>
   <div class="wrap">
     <a href="#start-of-content" tabindex="1" class="accessibility-aid">Skip to content</a>
-  
-
-
-
-
   {% block hero %}{# //let page types overide the hero inner element, even though much of it is conditionally determined #}
     {% include "templates/partials/hero.html" %}
   {% endblock %}
-  
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     <section class="content">
       <div id="start-of-content" class="accessibility-aid"></div>
         {% block content %}{% endblock %}

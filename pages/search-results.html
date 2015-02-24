@@ -56,23 +56,7 @@
     </article>
   </div>
 {% endblock %}
-
-
 {% block scripts_extra %}
     {# DO NOT MINIFY THIS FILE #}
-    <script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
-    <script src="/.wh/searchjson.js"></script>
-    <script src="http://cms.webhook.com/cdn/js/webhook-tipue.min.js"></script>
-
-    <script>
-    $(document).ready(function() {
-         $('#tipue_search_input').tipuesearch({
-            highlightEveryTerm: true,
-            descriptiveWords: 100
-         });
-    });
-    </script>
-{% endblock %}
-
-
-
+  <script src="/.wh/searchjson.js"></script>
+{% endblock %}    

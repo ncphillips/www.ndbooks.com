@@ -54,6 +54,11 @@ var wrap = function()
          'var window = null;' +
          'var process = null;' +
          'var eval = null;' +
+         'var require = null;' +
+         'var __filename = null;' +
+         'var __dirname = null;' +
+         'var modules = null;' +
+         'var exports = null;' +
          last;
 
   args.push(last);
@@ -66,6 +71,8 @@ Function = wrap;
 // Disable console log in various things
 //console.log = function () {};
 
+var cmsSocketPort = 6557;
+
 /**
  * Generator that handles various commands
  * @param  {Object}   config     Configuration options from .firebase.conf
@@ -75,6 +82,11 @@ module.exports.generator = function (config, options, logger, fileParser) {
   var self = this;
   var firebaseUrl = config.get('webhook').firebase || 'webhook';
   var liveReloadPort = config.get('connect')['wh-server'].options.livereload;
+
+  if(liveReloadPort !== 35730) {
+    cmsSocketPort = liveReloadPort + 1; 
+  }
+
   var websocket = null;
   var strictMode = false;
   var productionFlag = false;
@@ -131,6 +143,7 @@ module.exports.generator = function (config, options, logger, fileParser) {
       swigFunctions.setSettings(self.cachedData.settings);
       swigFilters.setSiteDns(self.cachedData.siteDns);
       swigFilters.setFirebaseConf(config.get('webhook'));
+      swigFilters.setTypeInfo(self.cachedData.typeInfo);
 
       callback(self.cachedData.data, self.cachedData.typeInfo);
       return;
@@ -176,6 +189,7 @@ module.exports.generator = function (config, options, logger, fileParser) {
       swigFunctions.setData(data);
       swigFunctions.setTypeInfo(typeInfo);
       swigFunctions.setSettings(settings);
+      swigFilters.setTypeInfo(typeInfo);
 
       getDnsChild().once('value', function(snap) {
         var siteDns = snap.val() || config.get('webhook').siteName + '.webhook.org';
@@ -303,6 +317,8 @@ module.exports.generator = function (config, options, logger, fileParser) {
 
     // Merge functions in
     params = utils.extend(params, swigFunctions.getFunctions());
+
+    params.cmsSocketPort = cmsSocketPort;
 
     swigFunctions.init();
 
@@ -937,12 +953,24 @@ module.exports.generator = function (config, options, logger, fileParser) {
       });
   };
 
+  var buildQueue = async.queue(function (task, callback) {
+      self.realBuildBoth(function() {
+        callback();
+      }, self.reloadFiles);
+  }, 1);
+
+  this.buildBoth = function(done) {
+    buildQueue.push({}, function(err) {
+      done();
+    });
+  };
+
   /**
    * Builds templates from both /pages and /templates to the build directory
    * @param  {Function}   done     Callback passed either a true value to indicate its done, or an error
    * @param  {Function}   cb       Callback called after finished, passed list of files changed and done function
    */
-  this.buildBoth = function(done, cb) {
+  this.realBuildBoth = function(done, cb) {
     // clean files
     self.cachedData = null;
     self.cleanFiles(null, function() {
@@ -1187,14 +1215,6 @@ module.exports.generator = function (config, options, logger, fileParser) {
 
       websocket = sock;
 
-      var buildQueue = async.queue(function (task, callback) {
-          self.buildBoth(function() {
-            sock.sendText('done', function() {
-              callback();
-            });
-          }, self.reloadFiles);
-      }, 1);
-
       sock.on('close', function() {
         websocket = null;
       });
@@ -1260,7 +1280,9 @@ module.exports.generator = function (config, options, logger, fileParser) {
             sock.sendText('done:' + JSON.stringify(tmpSlug));
           });
         } else if (message === 'build') {
-          buildQueue.push({}, function(err) {});
+          buildQueue.push({}, function(err) { 
+            sock.sendText('done');
+          });
         } else if (message.indexOf('preset_local:') === 0) {
           var fileData = message.replace('preset_local:', '');
 
@@ -1289,7 +1311,7 @@ module.exports.generator = function (config, options, logger, fileParser) {
           sock.sendText('done');
         }
       });
-    }).listen(6557, '0.0.0.0');
+    }).listen(cmsSocketPort, '0.0.0.0');
   };
 
   /**

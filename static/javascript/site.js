@@ -13,19 +13,19 @@ if (document.getElementById('js-menu')) {
     }
     return false; 
 };};
+$('a').smoothScroll({offset: -150,
+  afterScroll: function() {
+    this.addClass("flash-success")
+  },
+  easing: 'swing',
+});
 
-
-  $('a').smoothScroll({offset: -150,
-    afterScroll: function() {
-
-      this.addClass("flash-success")
-    },
-    easing: 'swing',
-
-  });
-
-
-
+$(document).ready(function() {
+         $('#tipue_search_input').tipuesearch({
+            highlightEveryTerm: true,
+            descriptiveWords: 100
+         });
+    });
 
 // // underline under the active nav item
 //   $(".nav .nav-link").click(function() {

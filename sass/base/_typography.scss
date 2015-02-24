@@ -17,7 +17,7 @@ h6 {
   line-height: $header-line-height;
   margin: 0;
   text-rendering: optimizeLegibility; // Fix the character spacing for headings
-  font-weight: 800;
+  font-weight: $header-font-weight;
   margin-bottom: .25em;
 }
 

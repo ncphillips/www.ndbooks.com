@@ -1,20 +1,35 @@
-{# ------------------------------------------------------- #}
-
-{# 404 PAGE #}
-
-{# This is the 404 page that will display on the live site for users. #}
-{# It does not appear when you run your site locally. #}
-
-{# ------------------------------------------------------- #}
-
-{# Confused what extends and blocks do? Watch a primer: #}
-{# http://www.webhook.com/docs/template-inheritance-blocks/ #}
 {% extends "templates/partials/base.html" %}
+{% block title %}{% parent %} - {{ item.name }}{% endblock %}
+{% set now = Date() %}
+{% set current_date = now |date('U') %}
 
 {% block content %}
 
-  <h1>404 - Nothing to see here</h1>
 
-  <p><a href="/">Take me home!</a></p>
+<h1>Probably not what you were looking for</h1>
+
+{% set books = global.featured_books_home %}
+  
+
+    <div class="page-items">
+      {% if books %}
+        {% for object in books %} {# reversed #}
+          {% include "templates/partials/format-books-list.html" %}
+        {% endfor %}
+      {% endif %}
+      
+      {# //END AUTHORS BOOKS #}
+</div>
+
 
 {% endblock %}
+
+{# 
+TODO: 
+- improve styling of book buttons
+- add buy links
+- show link to additional related articles
+- make link to top of page a perfect circle
+ 
+
+ #}
