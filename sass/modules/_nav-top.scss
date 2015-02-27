@@ -2,6 +2,8 @@ $navigation-background: $blackest;//;
 
 header.navigation {
 // Set up local variables for the navigation
+  $nav-topbar-logo-fallback:'/static/images/ndlogo-test_2.png';
+  $nav-topbar-logo: '/static/images/nd-logo-777.svg';
   $navigation-color: transparentize(white, 0.3);
   $navigation-color-hover: white;
   $navigation-height: 60px !default;
@@ -33,7 +35,7 @@ header.navigation {
   }
 
    .navigation-menu-button {
-    color: $navigation-color;
+    //color: $navigation-color; //remove the color because it inherits and works better with themes
     cursor: pointer;
     display: block;
     position: absolute;
@@ -76,7 +78,13 @@ header.navigation {
     overflow: hidden;
     text-align: center;
     font-size: 1.2em;
-    background: url(/static/images/nd-logo-777.svg);
+    //background: url();
+
+
+    background: url($nav-topbar-logo-fallback);
+    background: linear-gradient(transparent, transparent), url($nav-topbar-logo);
+
+
     background-repeat: no-repeat;
     background-position: center 1em;
     font-weight: 500;

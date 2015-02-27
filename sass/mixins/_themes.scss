@@ -7,7 +7,7 @@
   a:hover {
     color: darken($base-color, 8%);
   }
-  button, input[type="submit"] {
+  button, input[type="submit"], .navigation-menu-button {
     background-color:$base-color;
     color: $text-color;
   }

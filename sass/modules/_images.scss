@@ -12,9 +12,16 @@ aside.photo img {
   box-shadow: 0 13px 50px rgba(0,0,0,0.3);
 }
 
+.img-180px {
+  height: 180px;
+}
 
-.object-fit_fill { object-fit: fill }
-.object-fit_contain { object-fit: contain }
-.object-fit_cover { object-fit: cover }
-.object-fit_none { object-fit: none }
-.object-fit_scale-down { object-fit: scale-down }
+.object-fit_fill { object-fit: fill; }
+.object-fit_contain { object-fit: contain; }
+.object-fit_cover { 
+  width: 100%;
+  object-fit: cover;
+  overflow: hidden;
+}
+.object-fit_none { object-fit: none; }
+.object-fit_scale-down { object-fit: scale-down; }

@@ -53,7 +53,7 @@
       </aside>
     </section>
     <div style="width:100%;clear:both;margin:4em auto;height:1px;">{# divider #}</div>
-    {% for article in articles|slice('5','25') %}
+  {#   {% for article in articles|slice('5','25') %}
       <a href="{{ url(article) }}" class="article-block">
         <div class="heading">
           <h4>
@@ -61,6 +61,12 @@
           </h4>
         </div>
       </a>
+
+
     {% endfor %}
+
+   #}
+  {% set articles = articles|sort('publish_date', true)|slice('5','25') %}
+{% include "templates/partials/format-cards-articles.html" %}
   </div>  
 {% endblock %}

@@ -29,6 +29,9 @@ $page-item-background-color: #f1f1f1;//#f0f3f5; //<- has a bluish tint   //darke
 }
 
 // set up alternating background colors (unused this far in metalsmtih)
+.case-0 {
+  background-color: $base-background-color;
+}
 
 .one, .case-1, .case-5, .case-9, .case-13 {
   background-color: darken($page-item-background-color, 3%);

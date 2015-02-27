@@ -9,6 +9,7 @@
     {% if next %}
       <link rel="prefetch" href="{{ url(next) }}" />
     {% endif %}
+    {% block head_extra %}{% endblock %}
   </head>
   {# body classes: if splash_image, category, theme, page class #}
   <body id="container" class="{{ item.theme.name }} {{ item._type }}{% if item.page_layout %}-{{ item.page_layout|replace('.html','') }}{% endif %}{% if item.splash_image %} splash{% endif %}" {% block body_attributes %}{% endblock %}>
