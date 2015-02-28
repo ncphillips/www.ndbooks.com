@@ -1,7 +1,7 @@
 
 <div class="cards">
 {% for article in articles %}
-  <div class="card">
+  <a href="{{ url(article) }}" class="card">
   {% if article.featured_image %}
     <div class="card-image">
       <img src="{{ article.featured_image|imageCrop(340) }}" alt="">
@@ -13,7 +13,7 @@
        {{ article.name }} <i class="icon-right-circled"></i>
       </h5>
     </div>
-    <div class="card-copy absolute-center" style="display:none;">
+    {# <div class="card-copy absolute-center">
       {% if article.lede %}
         <div class="excerpt">
           {% filter replace('<(?=p)|<(?=/p)/(?=p)|p>', '', 'g') %}{{ article.lede|markdown }}{% endfilter %}
@@ -23,7 +23,7 @@
           {{ article.excerpt }}
         </blockquote>
       {% endif %}
-    </div>
-  </div>
+    </div> #}
+  </a>
 {% endfor %}  
 </div>

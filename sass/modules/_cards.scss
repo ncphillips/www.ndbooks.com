@@ -20,7 +20,7 @@
   $card-border: 1px solid $card-border-color;
   $card-background: white;//lighten($card-border-color, 10%);
   $card-header-background: $card-background;
-  $card-hover-background: lighten($card-background, 5%);
+  $card-hover-background: darken($card-background, 2%);
   $card-image-background: #DBD199;
   $card-image-hover-background: lighten($card-image-background, 5%);
   $card-margin: 1em;
@@ -73,6 +73,7 @@
   &:focus,
   &:hover {
     background-color: $card-hover-background;
+     box-shadow: $form-box-shadow;
     
     .card-image img {
       background: $card-image-hover-background;
