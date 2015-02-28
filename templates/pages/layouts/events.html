@@ -7,7 +7,8 @@
   {% set events = cms.event %}
   {% set events = events|sort('start_date') %}
   {% set events_past = events|sort('start_date', true) %}
-  {% set event_date = event.start_date|date('U') %}
+  {% set event_date = events.start_date|date('U') %}
+  
   {% set start_time = event.start_date|date('g:ia') %}
 
 {% block title %}{% parent %} - {{ page_name }}{% endblock %}
@@ -19,8 +20,11 @@
     <section class="content-primary">
       {% for event in events %}
         {% set event_date = event.start_date|date('U') %}
-
-        {% if event_date > current_unix_date %}
+          {% if event.end_date %}
+            {% set event_date_end = event.end_date|date('U') %}
+          {% endif %}
+        
+        {% if event_date_end > current_unix_date || event_date > current_unix_date %}
 
         {% if event.featured_image %}
 
@@ -63,17 +67,7 @@
        {% include 'templates/partials/social-icons.html' %}
       </ul>
     </aside>
-    {% for event in events %}
-      {% set event_date = event.start_date|date('U') %}
-      {% if event.start_date && event_date > current_date %}
-        <a  href="{{ url(event) }}">
-          <aside class="theme-purple">
-            {% if event.start_date %}<h4>{{ event.start_date|date('F jS') }}</h4>{% endif %}
-            {{ event.name}}
-          </aside>
-        </a>
-      {% endif %}
-    {% endfor %}
+    
     <aside class="theme-dark-gray script-only hidden">
       {% include 'templates/partials/social-twitter-stream.html' %}
     </aside>
@@ -88,7 +82,11 @@
     <h2>Past Events</h2>
       {% for event in events_past %}
         {% set event_date = event.start_date|date('U') %}
-        {% if event_date < current_unix_date %}
+        {% if event.end_date %}
+            {% set event_date_end = event.end_date|date('U') %}
+          {% endif %}
+        {% if event_date < current_unix_date || event_date_end && event_date < current_unix_date %}
+        
           <a href="{{ url(event) }}">
             <aside class="theme-dark-gray article-block-rectangular">
              {% if event_date %}

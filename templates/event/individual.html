@@ -1,4 +1,10 @@
 {% extends "templates/partials/base.html" %}
+{% set event_date = item.start_date|date('U') %}
+{% set start_time = item.start_date|date('g:ia') %}
+
+{% set prev = prevItem(item, 'start_date') %}
+{% set next = nextItem(item, 'start_date') %}
+
 {% block title %}{% parent %} - {{ item.name }}{% endblock %}
 {% block hero %}{# //let page types overide the hero inner element, even though much of it is conditionally determined #}
     {% include "templates/partials/hero-article-page.html" %}
@@ -13,18 +19,17 @@
     {% endif %}
     <aside>
 
-    {% if item.publish_date %}
-        <ul style="margin-bottom:3em;">
-          <li class="heading">Published</li>
-          <li>{{ item.publish_date|date('F jS, Y') }}</li>
-        </ul>
-      {% endif %}
+     <h5>
+         {% include "templates/partials/format-event-dates.html" %}
+        </h5>
+
+        <hr />
 
         {% set relatedAuthor = item.related_author %}
         {% for object in relatedAuthor %}
-        <h5><a href="{{ url(object) }}">
+        <h4><a href="{{ url(object) }}">
           {{ object.name }}
-        </a></h5>
+        </a></h4>
         {% endfor %}
           <hr class="transparent" />
       {% set relatedBook = item.related_book %}
@@ -42,12 +47,18 @@
         {% endif %}
 
       {{ item.copy|safe }}
+
+{% include "templates/partials/format-event-detail.html" %}
+
+
+
+
+
     </div>
   </article>
 </div>
       {# LINKS TO PREV NEXT BOOKS #}
-      {% set prev = prevItem(item, 'publish_date') %}
-      {% set next = nextItem(item, 'publish_date') %}
+     
       {% include "templates/partials/prev-next.html" %}
 {% endblock %}
 

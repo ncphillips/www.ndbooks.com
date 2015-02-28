@@ -16,11 +16,11 @@ body.blue-lighter  {
 }
 
 body.red {
-  @include site-theme-hero($red, $light-gray);
+  @include site-theme-hero($red-dark, $light-gray);
 }
 
 .theme-red {
-  @include site-theme($red, $light-gray);
+  @include site-theme($red-dark, $light-gray);
 }
 
 body.rust  {
@@ -62,7 +62,7 @@ body.dark-gray, .dark-on-light  {
   @include site-theme($dark-gray, $light-gray);
 }
 
-body.light-gray, body.article {
+body.light-gray, body.article, body.event {
   @include site-theme-hero($lightest-gray, $dark-gray);
 }
 

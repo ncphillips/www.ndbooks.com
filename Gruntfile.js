@@ -24,7 +24,7 @@ module.exports = function(grunt) {
       src: [
         'bower_components/jquery/dist/jquery.min.js', 
         'bower_components/jquery.smooth-scroll/jquery.smooth-scroll.min.js' ,
-        'bower_components/aload/dist/aload.min.js',
+        'bower_components/backgroundCheck/background-check.min.js',
         'static/javascript/tipue.js',
         'static/javascript/site.js', 
         'static/javascript/twitter.js'

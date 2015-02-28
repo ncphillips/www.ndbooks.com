@@ -27,6 +27,12 @@ $(document).ready(function() {
          });
     });
 
+
+BackgroundCheck.init({
+  targets: '.overlay',
+  images: '.featured_image'
+});
+
 // // underline under the active nav item
 //   $(".nav .nav-link").click(function() {
 //     $(".nav .nav-link").each(function() {
