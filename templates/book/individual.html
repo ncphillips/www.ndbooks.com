@@ -15,6 +15,7 @@
   {% set original_language = item.original_language %}
   {% set reviews_of_this_book = item.reviews_related_book %}
   {% set editions = item.editions %}
+  {% set editions_first = item.editions|first %}
   {% set publication_date = item.publication_date %}
   {% set series = item.series %}
 
@@ -43,13 +44,11 @@
       {# 2ND ROW = BOOK COVER AND SERIES, 1 REVIEW QUOTE, TAGLINE OR SYNOPSIS (IF THERE'S NO SYNOPSIS) #}
       <section class="row book-splash" style="margin-top:0;padding-top:0;">{# Top row = book cover on left, quote and tagline on right #}
         <div class="book-cover">
-          {% if item.editions %}
-            {% if item.editions[0].image %}
-              <img src="{{ item.editions[0].image|imageSize(750) }}" alt="cover image for {{ item.name }}">
+          {% if editions_first.image %}
+              <img src="{{ editions_first.image|imageSize(750) }}" alt="cover image for {{ item.name }}">
             {% else %}
               {% include "templates/partials/format-image-750px-high.html" %}
             {% endif %}
-          {% endif %}
         </div>
         <div class="copy">   
           {% if series %}
@@ -62,10 +61,10 @@
               {% endfor %}
             </blockquote>
           {% endif %}        
-          {% if item.editions %}
-            {% if item.editions[0].tagline %}
+          
+            {% if editions_first.tagline %}
               <div class="tagline">
-                {{ item.editions[0].tagline|markdown }}
+                {{ editions_first.tagline|markdown }}
               {% set copy = item.copy %}{#  <- a clever(?) way of only showing copy if there's a tagline, we assign the variable here and use it below. No tagline, no variable. #}
             {% elseif item.copy %}
               <div class="align-left">{{ item.copy|safe }}</div>
@@ -75,7 +74,6 @@
                 <hr class="transparent" />
                 <h5 class="red">Available {{ publication_date|date('F jS, Y') }}</h5>
               {% endif %}
-          {% endif %}
         </div>
       </section>{#  // END TOP ROW #}
 
