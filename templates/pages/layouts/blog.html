@@ -33,10 +33,11 @@
     </section>
     <section class="content-secondary">
       <aside class="theme-social">
-        <ul class="icons large">
+        <ul class="icons large" style="margin-bottom:.375em;">
          {% include 'templates/partials/social-icons.html' %}
         </ul>
-        {% include "templates/partials/mailchimp.html" %}
+
+        <div class="small">{% include "templates/partials/mailchimp.html" %}</div>
       </aside>
       {% for event in events %}
         {% set event_date = event.start_date|date('U') %}
