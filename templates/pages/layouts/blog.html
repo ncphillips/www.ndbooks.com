@@ -5,7 +5,7 @@
   {% set articles = cms.article %}
   {% set articles = articles|sort('publish_date', true) %}
   {% set events = cms.event %}
-  {% set events = events|sort('start_date', true) %}
+  {% set events = events|sort('start_date') %}
 {% block title %}{% parent %} - {{ page_name }}{% endblock %}
 {% block content %}
   <div id="section0" class="layout-page-2-column">
@@ -36,6 +36,7 @@
         <ul class="icons large">
          {% include 'templates/partials/social-icons.html' %}
         </ul>
+        {% include "templates/partials/mailchimp.html" %}
       </aside>
       {% for event in events %}
         {% set event_date = event.start_date|date('U') %}
@@ -53,20 +54,7 @@
       </aside>
     </section>
     <div style="width:100%;clear:both;margin:4em auto;height:1px;">{# divider #}</div>
-  {#   {% for article in articles|slice('5','25') %}
-      <a href="{{ url(article) }}" class="article-block">
-        <div class="heading">
-          <h4>
-            {{ article.name }} <i class="icon-right-circled"></i>
-          </h4>
-        </div>
-      </a>
-
-
-    {% endfor %}
-
-   #}
-  {% set articles = articles|sort('publish_date', true)|slice('5','25') %}
-{% include "templates/partials/format-cards-articles.html" %}
+    {% set articles = articles|sort('publish_date', true)|slice('5','25') %}
+    {% include "templates/partials/format-cards-articles.html" %}
   </div>  
 {% endblock %}

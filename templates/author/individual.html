@@ -52,7 +52,7 @@
           {% for event in related_events %}
           {% set event_date = event.start_date|date('U') %}
             {% if event.start_date && event_date > current_date %}
-              <h5>upcoming event</h5>
+              {% if loop.first %}<h5>upcoming event{% if loop.revindex > 1 %}s{% endif %}</h5>{% endif %}
             <li>
               <a href="{{ url(event)}}">{% if event.start_date %}{{ event.start_date|date('M jS') }}: {% endif %}{{event.name}}</a>
             </li>

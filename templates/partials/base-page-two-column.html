@@ -8,20 +8,11 @@
           <h1 class="entry-title">{{ item.name }}</h1>
         {% endif %}
       </header>
-
-      <div class="two-column-first">
-        
-{% set featuredBook = cms.global.featured_books_bestsellers %}
-
-
-{% for object in featuredBook %}
-<a href="{{ url(object) }}">
-  {% include "templates/partials/format-image-sidebar.html" %}
-  </a>
-{% endfor %}
+      <div class="two-column-first"> 
+      {% block columnLeft %}       
+        {% include "templates/partials/list-books.html" %}
+       {% endblock %} 
       </div>
-
-
       <div class="entry-content prose two-column-last">
         {{ item.copy|safe }}
       </div>

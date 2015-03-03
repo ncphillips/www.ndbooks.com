@@ -1,0 +1,13 @@
+{% if getCurrentUrl() == '/about/'  %}
+  {% set featuredBook = cms.global.featured_books_history %}
+  {% for object in featuredBook %}
+    <a href="{{ url(object) }}">
+      {% include "templates/partials/format-image-sidebar.html" %}
+    </a>
+  {% endfor %}
+
+{% elseif getCurrentUrl() == '/about/resources/'  %}
+  {% set catalogLimit = 3 %}
+    {% include "templates/partials/catalogs.html" with catalogLimit %}
+    <p><a href="/catalogs/">see all catalogs</p>
+{% endif %}  

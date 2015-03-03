@@ -1,0 +1,14 @@
+{% extends "templates/partials/base-page-one-column.html" %}
+{% block content %}
+  <div id="section0" class="layout-page">
+    <section class="content-primary">
+      <h1>Catalogs</h1>
+      <h5><em>Click on any catalog to download pdf</em></h5>
+      {% set catalogLimit = 12 %}
+      {% set objectClass = 'flex-box-small naked' %}
+      <div class="flex-boxes">
+        {% include "templates/partials/catalogs.html" with  objectClass %}
+      </div>
+    </section>
+  </div>
+{% endblock %}

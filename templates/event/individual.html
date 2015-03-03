@@ -1,7 +1,6 @@
 {% extends "templates/partials/base.html" %}
 {% set event_date = item.start_date|date('U') %}
 {% set start_time = item.start_date|date('g:ia') %}
-
 {% set prev = prevItem(item, 'start_date') %}
 {% set next = nextItem(item, 'start_date') %}
 
@@ -9,6 +8,7 @@
 {% block hero %}{# //let page types overide the hero inner element, even though much of it is conditionally determined #}
     {% include "templates/partials/hero-article-page.html" %}
   {% endblock %}
+
 {% block content %}
 <div class="has-layout layout-article">
   <article class="hentry">

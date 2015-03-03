@@ -9,7 +9,7 @@
   {% set events_past = events|sort('start_date', true) %}
   {% set event_date = events.start_date|date('U') %}
   
-  {% set start_time = event.start_date|date('g:ia') %}
+  
 
 {% block title %}{% parent %} - {{ page_name }}{% endblock %}
 
@@ -20,6 +20,7 @@
     <section class="content-primary">
       {% for event in events %}
         {% set event_date = event.start_date|date('U') %}
+        {% set start_time = event.start_date|date('g:ia') %}
           {% if event.end_date %}
             {% set event_date_end = event.end_date|date('U') %}
           {% endif %}
@@ -45,7 +46,7 @@
 
         {% else %}
           <a href="{{ url(event) }}">
-            <aside class="theme-dark-gray article-block-rectangular">
+            <aside class="theme-dark-grayTK blue-lighter article-block-rectangular" style="background-color:white;">
               {% if event_date %}
                 {% include "templates/partials/format-event-dates.html" %}
               {% endif %}
@@ -58,14 +59,12 @@
     {% endfor %}
   </section>
 
-
-
-
   <section class="content-secondary">
     <aside class="theme-social">
       <ul class="icons large">
        {% include 'templates/partials/social-icons.html' %}
       </ul>
+      {% include "templates/partials/mailchimp.html" %}
     </aside>
     
     <aside class="theme-dark-gray script-only hidden">
@@ -77,8 +76,7 @@
 
 
 <div class="row">
-  
-  <section class="content-primary">
+  <section class="row has-layout">
     <h2>Past Events</h2>
       {% for event in events_past %}
         {% set event_date = event.start_date|date('U') %}
@@ -98,9 +96,5 @@
       {% endif %}
     {% endfor %}
   </section>
-
-
 </div>
-
-
 {% endblock %}
