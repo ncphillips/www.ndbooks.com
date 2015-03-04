@@ -1,7 +1,9 @@
     var options = {
         valueNames: [ 'name', 'author','slug' , 'description', 'date', 'category', 'category1', 'category2', 'category3', 'category4', 'category5', 'tagline', 'last_name_sort', 'genre'],
         listClass: 'list-filter',
-        page: 20000 // how many items should first show up on the page - affects performance
+        
+        //plugins: [ ListPagination({ paginationClass: "pagination-list" }) ], 
+        page: 2000 // how many items should first show up on the page - affects performance
         // add tagline, or option for it?
     };
     var options_books = {

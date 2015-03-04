@@ -38,6 +38,7 @@
   "modules/nav-side", // blog nav
   "modules/nav-sliding-menu",
   "modules/prev-next", //need Transition
+  "modules/pagination", //need Transition
   "modules/quotes",
   "modules/rows-alternating", 
   "modules/social",
@@ -74,3 +75,16 @@ h4 a:hover > .icon-right-circled {
   position: relative;
   margin-bottom: 0;
 }
+
+ul.pagination-list {
+  display: inline-block;
+  li {
+    display: inline-block;
+    list-style-type: none;
+    border: 1px solid #ddd;
+  }
+}
+img {
+  opacity: 0;
+  transition: opacity .3s ease-in;
+} 

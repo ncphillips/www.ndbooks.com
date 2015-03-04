@@ -1,3 +1,12 @@
+$(document).ready(function() {
+  $("img").unveil(200, function() {
+    $(this).load(function() {
+      this.style.opacity = 1;
+    });
+  });
+});
+
+
 if (document.getElementById('js-menu')) {
   var button = document.getElementById('js-menu-trigger');
   var div = document.getElementById('js-menu');

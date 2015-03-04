@@ -26,6 +26,7 @@ module.exports = function(grunt) {
         'bower_components/jquery.smooth-scroll/jquery.smooth-scroll.min.js' ,
         'bower_components/backgroundCheck/background-check.min.js',
         'static/javascript/tipue.js',
+        'static/javascript/jquery.unveil.js',
         'static/javascript/site.js', 
         'static/javascript/twitter.js'
         
@@ -37,7 +38,10 @@ module.exports = function(grunt) {
       dest: 'static/javascript/dist/scripts-velocity.js',
     },
     listjs: {
-      src: ['bower_components/listjs/dist/list.min.js','static/javascript/site-listjs.js'],
+      src: [
+      'bower_components/listjs/dist/list.min.js',
+      'bower_components/list.pagination.js/dist/list.pagination.min.js',
+      'static/javascript/site-listjs.js'],
       dest: 'static/javascript/dist/scripts-listjs.js',
     },
 

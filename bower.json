@@ -25,6 +25,7 @@
     "jquery.smooth-scroll": "~1.5.4",
     "velocity": "~1.2.1",
     "gsap": "~1.15.1",
-    "backgroundCheck": "~1.2.2"
+    "backgroundCheck": "~1.2.2",
+    "list.pagination.js": "~0.1.1"
   }
 }
