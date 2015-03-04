@@ -74,6 +74,8 @@ header.navigation {
     background: $navigation-background;
     @include span-columns(12);
     max-height: $navigation-height;
+    height: 81px;
+    width: 65px;
 
     overflow: hidden;
     text-align: center;

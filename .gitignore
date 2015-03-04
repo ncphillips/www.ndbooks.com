@@ -17,4 +17,5 @@ node_modules
 
 /.build
 /.firebase.conf
+/.firebase-self-hosted.conf
 _build
