@@ -16,7 +16,14 @@ npm-debug.log
 node_modules
 _bower_components
 
-/.build
+
+#webhook
+libs
+options
+tasks
+test
+
+# /.build lets keep the latest build
 /.firebase.conf
 /.firebase-self-hosted.conf
 _build
