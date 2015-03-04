@@ -7,6 +7,6 @@
 {% elseif item.image_file %}
   <img src="/static/images/logo-ndbooks-180x180-opacity-13.png" data-src="{{ global.cdn_link }}{{ item.image_file }}" class="object-fit_cover image-180px">
 {% else %}  <!-- TODO: Replace with nicer looking placeholder -->
-  <img src="/static/images/logo-ndbooks-180x180-opacity-13.png" class="object-fit_cover">  
+  <img src="/static/images/logo-ndbooks-180x180-opacity-13.png" data-src="/static/images/logo-ndbooks-180x180-opacity-13.png"  class="object-fit_cover">  
 {% endif %}
 

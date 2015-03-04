@@ -103,6 +103,10 @@ aside {
   }
 }
 
+.covers-list {
+ @include span-columns(2 of 12); 
+}
+
 //======= Layouts =======//
 
 body.post .content {

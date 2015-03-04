@@ -31,6 +31,7 @@
   "modules/grid", //AUTHOR LISTING
   "modules/hero-unit",
   "modules/images", // manipulates images
+  "modules/images-covers", // manipulates images
   "modules/layout-comments", //BLOG PAGE
   "modules/layouts",
   "modules/lists",
@@ -83,7 +84,3 @@ ul.pagination-list {
     border: 1px solid #ddd;
   }
 }
-img {
-  opacity: 0;
-  transition: opacity .3s ease-in;
-} 

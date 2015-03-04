@@ -29,9 +29,9 @@
         {% endif %}
         
         {% if publication_date_unix > current_date %}
-                <hr class="transparent" />
-                <h5 class="red">Available: {{ publication_date|date('F d Y') }}</h5>
-              {% endif %}
+          <hr class="transparent" />
+          <h5 class="red">Available: {{ publication_date|date('F d Y') }}</h5>
+        {% endif %}
       </div>
       <hr class="transparent" />
       <button name="button"> <a href="{{ url(object) }}">more information</a> </button> 

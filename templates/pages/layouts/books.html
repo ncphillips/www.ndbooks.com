@@ -1,41 +1,58 @@
-{% extends "templates/partials/base.html" %}
-{% block title %}{% parent %} - {{ item.name }}{% endblock %}
+{% extends "templates/partials/base-page-one-column.html" %}
 {% block content %}
-  <div class="has-layout layout-page-2-column-wide-secondary">
-    
-      <div class="entry-content prose">
-        {{ item.copy|safe }}
+{% set current_date = now|date('U') %}
+{% set days90 = '1425444994' %}
+{% set datePlus90  += days90  %}
+{% set books_new = cms.book|where('editions') %}
 
-          {% set books = cms.book %}
+{% set books_new = books_new|sort('publication_date', true) %}
 
-
-          {# books where book.type.study = true #}
-
-          {% set books = books|sort('publication_date', true) %}
-
-
-  {# This is how you set pagination. It's always important to do this after your sort. #}
-  {% set books = paginate(books, 30) %}
+{# 
+1st: show upcoming 90 days
+2nd show past 90 days (++)
+3rd show bestsellers
+4th show after 90 days
+#}
 
 
-{% for object in books %}
+  <div id="section0" class="layout-page">
+    <section class="content-primary">
+      <h1>Books</h1>{# {{datePlus90}} = {{current_date}} #}
+      
+      
+      <div class="flex-boxes">
 
 
-<a href="{{ url(object) }}">
-  {% if object.image %}
-  <img src="{{ object.image.url }}" alt="cover image for {{ object.name }}" style="width:100px;">
-{% elseif object.image_file %}
-  <img src="{{ global.cdn_link }}{{ object.image_file }}" alt="cover image for {{ object.name }}" class="width-300TK" style="width:100px;" />
-{% endif %}
-</a>
+        
+      
+        {% for object in books_new|slice(0,20) %}
+          {% set editions = object.editions %}
+          
+          {% set publication_date = object.publication_date %}
+          {% set publication_date_unix = publication_date|date('U') %}
 
 
-{% endfor %}
+            
 
+            {% if publication_date_unix > current_date && publication_date_unix < datePlus90 %}
 
-
+              <a href="{{ url(object) }}" class="flex-box-smaller naked ">
+                {# <h4 class="flex-title"><small>{{ object.name }}</small></h4> #}    
+                <h4 class="flex-title"><span class="{% if publication_date_unix > current_date %}red{% endif %}">{{ publication_date|date('F d Y') }}</span></h4>
+                {% include "templates/partials/format-image-200px-wide.html" %}
+              </a>
+            
+            {% endif %}
+        {% endfor %}
+      
 
       </div>
-    
+
+
+
+    </section>
   </div>
+
+
 {% endblock %}
+

@@ -72,14 +72,12 @@ var tipuesearch_stop_words=tipuesearch_stop_words||["and","be","by","do","for","
   };
 
 })(window.jQuery || window.Zepto);
-
-
 $(document).ready(function() {
-$("img").unveil(200, function() {
-  $(this).load(function() {
-    this.style.opacity = 1;
+  $("img").unveil(200, function() {
+    $(this).load(function() {
+      this.style.opacity = 1;
+    });
   });
-});
 });
 
 
