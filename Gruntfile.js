@@ -40,7 +40,6 @@ module.exports = function(grunt) {
     listjs: {
       src: [
       'bower_components/listjs/dist/list.min.js',
-      'bower_components/list.pagination.js/dist/list.pagination.min.js',
       'static/javascript/site-listjs.js'],
       dest: 'static/javascript/dist/scripts-listjs.js',
     },
