@@ -5,9 +5,11 @@ Includes Bourbon, Neat, and Bitters, plus normalize-scss, and a minimal print st
 
 run these commands from the site directory after installation.
 ```
+wh update (with flags if self-hosted)
+
 bower update
 
-npm install --save-dev grunt-contrib-sass
+_npm install --save-dev grunt-contrib-sass_ (new only)
 
 cd sass && gem update bitters
 
