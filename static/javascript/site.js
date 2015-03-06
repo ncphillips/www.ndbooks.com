@@ -1,10 +1,10 @@
-$(document).ready(function() {
-  $("img").unveil(200, function() {
+
+  $("img").unveil(100, function() {
     $(this).load(function() {
       this.style.opacity = 1;
     });
   });
-});
+
 
 
 if (document.getElementById('js-menu')) {

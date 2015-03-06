@@ -1,0 +1,94 @@
+{% set editions = object.editions %}
+{% set current_date = now|date('U') %}
+{% set publication_date = object.publication_date %}
+{% set publication_date_unix = publication_date|date('U') %}
+<div class="page-item case-{{ loop.index }}"  id="{{ object.slug|replace('/', '') }}"> {# {% cycle 'one', 'two', 'three' %} #}
+  <section>
+
+{% if loop.index == 1 || loop.index == 3 || loop.index == 5 %}
+
+    <div class="book-cover">
+      {% if editions %}
+        {% if editions[0].image %}
+          <img src="{{ editions[0].image|imageSize(750) }}" alt="cover image for {{ item.name }}">
+        {% else %} {# //EVENTUALLY, ALL IMAGES WILL COME FROM THEIR EDITIONS, BUT FOR NOW, WE NEED TO GIVE OTHER OPTIONS #}
+          {% include "templates/partials/format-image-750px-high.html" %}
+        {% endif %}
+      {% endif %}
+      <br />
+    </div>
+
+    <div class="book-info" style="margin-top:-.5rem;">
+      <h1 class="book-title">
+        <a href="{{ url(object) }}">
+          {{ object.name }} <i class="icon-right-circled"></i>
+        </a>
+      </h1>
+      <div class="facing-item">
+        {% if object.genre %}
+          <h2><small>{{ object.genre }}</small></h2>
+        {% endif %} 
+        {% if object.copy %}
+          {{ object.copy|safe }}
+        {% endif %}
+        
+        {% if publication_date_unix > current_date %}
+          <hr class="transparent" />
+          <h5 class="red">Available: {{ publication_date|date('F d Y') }}</h5>
+        {% endif %}
+      </div>
+      <hr class="transparent" />
+      <button name="button"> <a href="{{ url(object) }}">more information</a> </button> 
+      
+    </div>
+
+
+
+{% else %}
+
+
+    
+    <div class="book-info" style="margin-top:-.5rem;">
+      <h1 class="book-title">
+        <a href="{{ url(object) }}">
+          {{ object.name }} <i class="icon-right-circled"></i>
+        </a>
+      </h1>
+      <div class="facing-item">
+        {% if object.genre %}
+          <h2><small>{{ object.genre }}</small></h2>
+        {% endif %} 
+        {% if object.copy %}
+          {{ object.copy|safe }}
+        {% endif %}
+        
+        {% if publication_date_unix > current_date %}
+          <hr class="transparent" />
+          <h5 class="red">Available: {{ publication_date|date('F d Y') }}</h5>
+        {% endif %}
+      </div>
+      <hr class="transparent" />
+      <button name="button"> <a href="{{ url(object) }}">more information</a> </button> 
+      
+    </div>
+
+
+
+    <div class="book-cover">
+      {% if editions %}
+        {% if editions[0].image %}
+          <img src="{{ editions[0].image|imageSize(750) }}" alt="cover image for {{ item.name }}">
+        {% else %} {# //EVENTUALLY, ALL IMAGES WILL COME FROM THEIR EDITIONS, BUT FOR NOW, WE NEED TO GIVE OTHER OPTIONS #}
+          {% include "templates/partials/format-image-750px-high.html" %}
+        {% endif %}
+      {% endif %}
+      <br />
+    </div>
+
+
+
+{% endif %}
+
+
+  </section>
+</div>
