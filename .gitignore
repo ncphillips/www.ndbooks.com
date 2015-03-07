@@ -23,7 +23,7 @@ options
 tasks
 test
 
-# /.build lets keep the latest build
+/.build 
 /.firebase.conf
 /.firebase-self-hosted.conf
 _build
