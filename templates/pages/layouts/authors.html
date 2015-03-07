@@ -49,7 +49,7 @@
       {# <a href="http://localhost:2002/cms/#/wh/content/author/{{ item_id }}"> #}
       <a href="{{ url(item) }}">
         <div class="image-crop grayscale">
-          {% include "templates/partials/format-image-180px-x-180px.html" %}
+          {% include "templates/partials/format-image-small.html" %}
         </div>
         <div class="copy">
           <h1 class="entry-title name" id="author-{{ loop.index }}">{{ item.name }}</h1>

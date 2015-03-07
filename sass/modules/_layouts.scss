@@ -1,3 +1,4 @@
+//==========================GENERAL =====================================\\
 .row, .row-with-space {
   @include row();
 }
@@ -42,7 +43,7 @@ margin-bottom: 2em;
   text-shadow: 1px 1px 0 #000;
 }
 
-//GENERAL
+//========================== ARTICLE =====================================\\
 
 article {
   overflow: hidden;
@@ -80,6 +81,8 @@ aside {
    @include pad(2em);
 }
 
+//========================== TWO COLUMN PAGES, MAYBE REFACTOR? =====================================\\
+
 .two-column-first {
   display: none; 
   @include media($medium-screen-up) {
@@ -107,7 +110,7 @@ aside {
  @include span-columns(2 of 12); 
 }
 
-//======= Layouts =======//
+//========================== LAYOUTS =====================================\\
 
 body.post .content {
   // remove the padding so we can display our next post at the bottom of the page
@@ -115,6 +118,7 @@ body.post .content {
 }
 
 
+//========================== ARTICLE =====================================\\
 .layout-article { 
   article {
     @include outer-container;
@@ -143,7 +147,7 @@ body.post .content {
 
 
 
-
+//========================== PAGE =====================================\\
 
 
 .layout-page { //pages
@@ -228,6 +232,9 @@ body.post .content {
   }
 }
 
+
+//========================== AUTHOR =====================================\\
+
 .layout-author {
   // special layout that divides top row into three columns, and then shifts them so the bio on the right shows
   // up on top (effectively left) on smaller viewports
@@ -290,6 +297,8 @@ body.post .content {
 
 }
 
+//========================== BOOK =====================================\\
+
 .layout-book {
   @include outer-container;
   .quotes blockquote {
@@ -303,31 +312,22 @@ body.post .content {
   // h1.entry-title {
   //   font-size: 90vw;
   // }
+
+  //============================ book-splash for individual book pages ================================================\\
   section,
-  section.book-splash .book-cover,
+  section.book-splash .cover,
   section.book-splash .copy {
     @include span-columns(12);
     @include pad(2em);
   }
   @include media($medium-screen-up) {
-  // h1.entry-title {
-  //     font-size: $h1-font-size;
-  //   }
-  .quotes blockquote {
-  
-    padding: 2em 10em;
-
-  }
-
-    section.book-splash .book-cover,
+    .quotes blockquote {
+      padding: 2em 10em;
+    }
+    section.book-splash .cover,
     section.book-splash .copy {
       @include span-columns(6 of 12);
       text-align: center;
-    }
-    section.book-splash .book-cover img {
-      text-align: center;
-      max-height: 90vh;
-      //width: 100%;
     }
     article.hentry {
       @include span-columns(8 of 12);
@@ -344,12 +344,16 @@ body.post .content {
   }
 }
 
+
+
+
+
 a:hover aside {
   opacity: 0.9;
 
 }
 
-// blog
+//========================== BLOG =====================================\\
 .layout-single-column {
 
 

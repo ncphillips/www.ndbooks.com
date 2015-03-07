@@ -4,20 +4,18 @@
     {% include "templates/partials/hero-book-page.html" %}
   {% endblock %}
   {% block content %}
-  {% set related_articles      = item.article_related_book %}
-  {% set related_articles      = related_articles|sort('publish_date', true) %}
-  {% set related_events        = item.event_related_book %}
-  {% set related_events        = related_events|sort('start_date') %}
-  {% set now = Date() %}
-  {% set current_date = now|date('U') %}
-  {% set authors = item.authors %}
-  {% set translators = item.translators %}
-  {% set original_language = item.original_language %}
-  {% set reviews_of_this_book = item.reviews_related_book %}
-  {% set editions = item.editions %}
-  {% set editions_first = item.editions|first %}
-  {% set publication_date = item.publication_date %}
-  {% set series = item.series %}
+    {% set related_articles      = item.article_related_book %}
+    {% set related_articles      = related_articles|sort('publish_date', true) %}
+    {% set related_events        = item.event_related_book %}
+    {% set related_events        = related_events|sort('start_date') %}
+    {% set authors               = item.authors %}
+    {% set translators           = item.translators %}
+    {% set original_language     = item.original_language %}
+    {% set reviews_of_this_book  = item.reviews_related_book %}
+    {% set editions              = item.editions %}
+    {% set edition               = item.editions|first %}
+    {% set publication_date      = item.publication_date %}
+    {% set series                = item.series %}
 
     <div class="has-layout layout-book">
     {# TOP ROW = EVENTS IF WE GOT'EM #}
@@ -43,12 +41,11 @@
       {% endif %}
       {# 2ND ROW = BOOK COVER AND SERIES, 1 REVIEW QUOTE, TAGLINE OR SYNOPSIS (IF THERE'S NO SYNOPSIS) #}
       <section class="row book-splash" style="margin-top:0;padding-top:0;">{# Top row = book cover on left, quote and tagline on right #}
-        <div class="book-cover">
-          {% if editions_first.image %}
-              <img src="{{ editions_first.image|imageSize(750) }}" alt="cover image for {{ item.name }}">
-            {% else %}
-              {% include "templates/partials/format-image-750px-high.html" %}
-            {% endif %}
+        <div class="cover">
+          {% if edition %}              
+            {% set imageWidth = '500px' %}              
+            {% include "templates/partials/format-image-bookcover-large.html" with imageWidth %}
+          {% endif %}
         </div>
         <div class="copy">   
           {% if series %}
@@ -62,9 +59,9 @@
             </blockquote>
           {% endif %}        
           
-            {% if editions_first.tagline %}
+            {% if edition.tagline %}
               <div class="tagline">
-                {{ editions_first.tagline|markdown }}
+                {{ edition.tagline|markdown }}
               {% set copy = item.copy %}{#  <- a clever(?) way of only showing copy if there's a tagline, we assign the variable here and use it below. No tagline, no variable. #}
             {% elseif item.copy %}
               <div class="align-left">{{ item.copy|safe }}</div>
@@ -87,14 +84,12 @@
             {% endif %}
               {% if authors %}
               <h2><small>{% if item.genre %}{{ item.genre }} {% endif %}by</small> 
-              {% for author in authors %}
-                <a href="{{ url(author) }}">{{ author.name }}</a>{% if loop.revindex != 2 %}{% if not loop.last %}, {% endif %}{% endif %}{% if loop.revindex == 2 %} and {% endif %}
-              {% endfor %}
+              {% include "templates/partials/format-authors-list.html" %}
               </h2>
             {% endif %}
             {% if translators %}
               <h5 style="font-weight:400;">
-                <small>translated{% if item.language_translated_from %} from the {{ item.language_translated_from }}{% endif %} by</small> {% for translator in translators %}<a href="{{ url(translator) }}">{{ translator.name }}</a>{% if loop.revindex != 2 %}{% if not loop.last %}, {% endif %}{% endif %}{% if loop.revindex == 2 %} and {% endif %}{% endfor %}
+                {% include "templates/partials/format-translators-list.html" %}
               </h5>          
             {% endif %}
           </header>
@@ -144,7 +139,7 @@
                   {% endif %}
                 </div>
                   <a href="{{ url(object) }}" class="author-photo">
-                    {% include "templates/partials/format-image-300px-cropped.html" %}
+                    {% include "templates/partials/format-image-medium.html" %}
                   </a>                
               </div>
             

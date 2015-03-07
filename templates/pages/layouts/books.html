@@ -26,7 +26,7 @@
         
       
         {% for object in books_new|slice(0,20) %}
-          {% set editions = object.editions %}
+          {% set edition = object.editions|first %}
           
           {% set publication_date = object.publication_date %}
           {% set publication_date_unix = publication_date|date('U') %}
@@ -39,7 +39,7 @@
               <a href="{{ url(object) }}" class="flex-box-smaller naked ">
                 {# <h4 class="flex-title"><small>{{ object.name }}</small></h4> #}    
                 <h4 class="flex-title"><span class="{% if publication_date_unix > current_date %}red{% endif %}">{{ publication_date|date('F d Y') }}</span></h4>
-                {% include "templates/partials/format-image-200px-wide.html" %}
+                {% include "templates/partials/format-image-bookcover-small.html" %}
               </a>
             
             {% endif %}

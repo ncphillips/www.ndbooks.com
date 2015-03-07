@@ -1,0 +1,12 @@
+{% if object.image %}
+  <img src="/static/images/logo-ndbooks-180x180-opacity-13.png" data-src="{{ object.image|imageCrop(180) }}" class="object-fit_cover transition">
+{% elseif object.image_file %}
+  <img src="/static/images/logo-ndbooks-180x180-opacity-13.png" data-src="{{ global.cdn_link }}{{ object.image_file }}" class="transition object-fit_cover">
+{% elseif item.image %}
+  <img src="/static/images/logo-ndbooks-180x180-opacity-13.png" data-src="{{ item.image|imageCrop(180) }}" class="object-fit_cover transition">
+{% elseif item.image_file %}
+  <img src="/static/images/logo-ndbooks-180x180-opacity-13.png" data-src="{{ global.cdn_link }}{{ item.image_file }}" class="object-fit_cover transition">
+{% else %}  <!-- TODO: Replace with nicer looking placeholder -->
+  <img src="/static/images/logo-ndbooks-180x180-opacity-13.png" data-src="/static/images/logo-ndbooks-180x180-opacity-13.png"  class="object-fit_cover">  
+{% endif %}
+

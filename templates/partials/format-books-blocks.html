@@ -1,18 +1,13 @@
-{% set editions = object.editions %}
-{% set current_date = now|date('U') %}
-{% set publication_date = object.publication_date %}
+{% set editions              = object.editions %}
+{% set current_date          = now|date('U') %}
+{% set publication_date      = object.publication_date %}
 {% set publication_date_unix = publication_date|date('U') %}
+{% set imageWidth = '180px' %}
 {# TODO: If using smaller images, add class book-cover-show-larger #}
 
   <section class="flex-box case-{{ loop.index }}"  id="{{ object.slug|replace('/', '') }}">
     <div class="book-cover">
-      {% if editions %}
-        {% if editions[0].image %}
-          <img src="{{ editions[0].image|imageSize(750) }}" alt="cover image for {{ item.name }}">
-        {% else %} {# //EVENTUALLY, ALL IMAGES WILL COME FROM THEIR EDITIONS, BUT FOR NOW, WE NEED TO GIVE OTHER OPTIONS #}
-          {% include "templates/partials/format-image-750px-high.html" %}
-        {% endif %}
-      {% endif %}
+      {% include "templates/partials/format-image-bookcover-small.html" with imageWidth %}
       <br />
     </div>
     <div class="book-info" style="margin-top:-.5rem;">

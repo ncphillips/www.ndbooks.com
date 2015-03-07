@@ -36,7 +36,10 @@
 
       {% if books %}
         {% for object in books|slice(0,2) %} {# reversed #}
-          {% include "templates/partials/format-books-list-naked.html" %}
+        {% set imageWidth = '320px' %}
+        {% set includeBuyInfo = false %}
+        {% set includeAuthors = true %}
+          {% include "templates/partials/format-books-list.html" %}
         {% endfor %}
       {% endif %}
 
@@ -66,9 +69,11 @@
 <h1 class="brand centered">New & Forthcoming</h1>  
 </div>
     <div class="flex-boxes" style="margin-top:70px;">
-      
+        
         {% for object in cms.book|slice(3,9) %} {# reversed #}
-          {% include "templates/partials/format-books-blocks.html" %}
+        {% set imageWidth = '300px' %}
+    
+          {% include "templates/partials/format-books-blocks.html" with imageWidth %}
         {% endfor %}
       
       
@@ -91,14 +96,7 @@
 {% endblock %}
 
 
-<section class="row" style="margin-top:3em;">
-  {% set books = global.featured_books_home %}
-  {% if books %}
-    {% for object in books|slice(0,1) %} 
-      {% include "templates/partials/format-books-list-single.html" %}
-    {% endfor %}
-  {% endif %}
-</section>
+
 
 
 
