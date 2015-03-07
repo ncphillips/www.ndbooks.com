@@ -50,6 +50,22 @@ body.purple {
   @include site-theme($avenger-purple, $light-gray);
 }
 
+body.goldenrod {
+  @include site-theme-hero($goldenrod, $light-gray);
+  header.navigation .nav-topbar-logo {
+    background: url(/static/images/nd-logo-d9d9d9.svg);
+    background-repeat: no-repeat;
+    background-position: center 1em;
+  }
+}
+
+.theme-goldenrod {
+  @include site-theme($goldenrod, $light-gray);
+}
+
+
+
+
 body.green-light {
   @include site-theme-hero($green-light, $light-gray);
 }

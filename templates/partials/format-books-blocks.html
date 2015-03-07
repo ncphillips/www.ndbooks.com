@@ -2,7 +2,7 @@
 {% set current_date = now|date('U') %}
 {% set publication_date = object.publication_date %}
 {% set publication_date_unix = publication_date|date('U') %}
-
+{# TODO: If using smaller images, add class book-cover-show-larger #}
 
   <section class="flex-box case-{{ loop.index }}"  id="{{ object.slug|replace('/', '') }}">
     <div class="book-cover">
