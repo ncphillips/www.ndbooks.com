@@ -16,13 +16,15 @@
     {% set edition               = item.editions|first %}
     {% set publication_date      = item.publication_date %}
     {% set series                = item.series %}
+    {% set now = Date() %}
+    {% set current_unix_date = now|date('U') %}
 
     <div class="has-layout layout-book">
     {# TOP ROW = EVENTS IF WE GOT'EM #}
       {% if related_events %}      
         {% for event in related_events %}
           {% set event_date = event.start_date|date('U') %}
-          {% if event.start_date && event_date > current_date %}
+          {% if event.start_date && event_date > current_unix_date %}
             {% if loop.first %}
               <section class="row">      
                 <ul>
@@ -67,8 +69,9 @@
               <div class="align-left">{{ item.copy|safe }}</div>
             {% endif %}
             {% set publication_date_unix = publication_date|date('U') %}
-              {% if publication_date_unix > current_date %}
+              {% if publication_date_unix > current_unix_date %}
                 <hr class="transparent" />
+                
                 <h5 class="red">Available {{ publication_date|date('F jS, Y') }}</h5>
               {% endif %}
         </div>
@@ -96,6 +99,7 @@
           {% if item.copy %}
             <div class="entry-content lead">
               {{ copy|safe }}
+              {% if publication_date %}published {{ publication_date|date('F jS, Y') }}{% endif %}
               {% block below_copy %}          
               {% endblock %}
               {% if related_articles %}
