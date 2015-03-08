@@ -11,14 +11,12 @@ $page-item-background-color: #f1f1f1;//#f0f3f5; //<- has a bluish tint   //darke
   clear: both;
   background:$page-item-background-color;
 
-&:nth-child(even) {
-  background-color: darken($page-item-background-color, 3%);
-}
-// &:nth-child(2n+1) {
-//   background-color: darken($page-item-background-color, 15%);
-// }
+  &:nth-child(even) {
+    background-color: darken($page-item-background-color, 3%);
+  }
 
   @include pad(2em);
+
   h1 a {
     color: $black;
     &:hover {
@@ -42,21 +40,23 @@ $page-item-background-color: #f1f1f1;//#f0f3f5; //<- has a bluish tint   //darke
     }
     .copy {
       @include span-columns(4 of 6);
+      margin-top: 1.0625em;
+    }
+    &:nth-child(even) { // alternate the order so covers are on the left, then on right
+      .cover {
+        //@include span-columns(2 of 6);
+        @include shift(4);
+      }
+      .copy {
+        //@include span-columns(4 of 6);
+        @include shift(-6);
+      }
     }
   }
   section {
     clear: both;
   }
-  &:nth-child(even) { // alternate the order so covers are on the left, then on right
-    .cover {
-      @include span-columns(2 of 6);
-      @include shift(4);
-    }
-    .copy {
-      @include span-columns(4 of 6);
-      @include shift(-6);
-    }
-  }
+  
 }
 
 // set up alternating background colors (unused this far in metalsmtih)
