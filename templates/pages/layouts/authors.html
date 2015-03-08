@@ -32,21 +32,11 @@
   </div>
 
 <hr class="transparent" />
-
-
-
 <div id="container" class="grid-container clearfix" data-href="auto-awesome"><!--  //Creates a grid-box for the authors -->
-  
   <ul class="grid-items-lines list-filter">
-
-  
+  {% spaceless %}
     {% for item in authors|sort('last')|sort('featured') %}
-    
-
-    <li class="grid-item {{ last_name|first }}" alt="{{ item.slug }}" >
-      {# <a href="{{ url(author) }}"> #}
-
-      {# <a href="http://localhost:2002/cms/#/wh/content/author/{{ item_id }}"> #}
+    <li class="grid-item {{ last_name|first }}" alt="{{ item.slug }}">
       <a href="{{ url(item) }}">
         <div class="image-crop grayscale">
           {% include "templates/partials/format-image-small.html" %}
@@ -57,8 +47,7 @@
               <small class="description">{% filter replace('<(?=p)|<(?=/p)/(?=p)|p>', '', 'g') %}{{ item.tagline|safe}}{% endfilter %}</small>
             {% endif %}
             <span class="slug hidden">{{ item.slug }}</span>
-            <span class="last hidden">{{ item.last|first }}</span>
-            
+            <span class="last hidden">{{ item.last|first }}</span>            
             {% if item.full_name.last %}<span class="last_name_sort hidden">{{ item.full_name.last }}</span>{% endif %}
             {% for option in item.contributor_type %}
               {% if option.value %}
@@ -68,29 +57,17 @@
         </div>
       </a>
       </li>
-
 {% endfor %}
-
-
+{% endspaceless %}
         {# //RIGHT COVER AND BOTTOM COVER REMOVE THE OUTER LINES FROM THE GRID #}
     {# <div class="right-cover"></div>
     <div class="bottom-cover"></div>
      #}
   </ul>
-
     {# <div class="pagination" style="width:100%;margin:1em auto;"><ul class="pagination-list"></ul></div> #}
-  
 </div>
-
 </div>
-
-
-
-
-
-
-
-<style type="text/css">
+{# <style type="text/css">
   
   .nav {
     border-radius: 12px;
@@ -110,7 +87,7 @@
 </style>
 
 
-
+ #}
 
 {% endblock %}
 

@@ -38,6 +38,7 @@
       <th>Publication Date</th>
       <th>Genre</th>
     </tr>
+    {% spaceless %}
     <tbody class="list-filter">
       {% for book in books %}
         {% set pub_date = book.publication_date|date('U') %}
@@ -56,6 +57,7 @@
         </tr>
       {% endfor %}
     </tbody>
+    {% endspaceless %}
   </table>
 </div>
 {# END BOOKS LIST  #}

@@ -1,3 +1,4 @@
+{% spaceless %}
 {{ review.copy|markdown|replace(' ([^ ]+)$', '&nbsp;$1') }}
 — 
 {% if review.author %}{#  if the reviewer is internal (item.author) #}
@@ -21,7 +22,7 @@
   {% for relation in review.book_this_review_is_about %}<a href="{{ url(relation) }}">{{ relation.name }}</a>{% if not loop.last %}, {% endif %}{% endfor %}
 {% endif %}
 {% if review.link_to_original %} <a href="{{ review.link_to_original }}" target="_blank"><i class="icon-ion-link"></i></a>{% endif %}
-
+{% endspaceless %}
 {# 
 todo: if there are more than one, show comma, 
 except on the last or penultimate. 
