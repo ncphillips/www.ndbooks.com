@@ -1,7 +1,7 @@
  {# set imageWidth = 'x' anywhere along the chain #}
 
 {% if edition.image %}
-  {% set image = edition.image|imageSize(450) %}
+  {% set image = edition.image|imageSize(480) %}
 {% elseif object.image_file %}
   {% set image = global.cdn_link + object.image_file %}
 {% elseif item.image_file %}

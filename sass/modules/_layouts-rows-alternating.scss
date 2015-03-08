@@ -44,12 +44,22 @@ $page-item-background-color: #f1f1f1;//#f0f3f5; //<- has a bluish tint   //darke
     }
     &:nth-child(even) { // alternate the order so covers are on the left, then on right
       .cover {
-        //@include span-columns(2 of 6);
+        @include span-columns(2 of 6);
         @include shift(4);
       }
       .copy {
-        //@include span-columns(4 of 6);
+        @include span-columns(4 of 6);
         @include shift(-6);
+      }
+    }
+    &:nth-child(odd) { // alternate the order so covers are on the left, then on right
+      .cover {
+        @include span-columns(2 of 6);
+        @include shift(0);
+      }
+      .copy {
+        @include span-columns(4 of 6);
+        @include shift(0);
       }
     }
   }
