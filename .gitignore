@@ -23,7 +23,7 @@ options
 tasks
 test
 
-.build 
 /.firebase.conf
 /.firebase-self-hosted.conf
 _build
+.build
