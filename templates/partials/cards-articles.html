@@ -12,7 +12,7 @@
     <div class="card-header">
       <small>{{ article.publish_date|date('F d, Y') }}</small>
       <h5>
-       {{ article.name }} <i class="icon-right-circled"></i>
+       <a href="{{ url(article) }}">{{ article.name }} <i class="icon-right-circled"></i></a>
       </h5>
     </div>
     <div class="card-copy" style="display:none;">

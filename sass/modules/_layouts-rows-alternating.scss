@@ -15,6 +15,8 @@ $page-item-background-color: #f1f1f1;//#f0f3f5; //<- has a bluish tint   //darke
     background-color: darken($page-item-background-color, 3%);
   }
 
+
+
   @include pad(2em);
 
   h1 a {
@@ -139,3 +141,12 @@ $page-item-background-color: #f1f1f1;//#f0f3f5; //<- has a bluish tint   //darke
 // }
 
 
+.theme-social{
+  //TODO: This is a fix just for this theme.
+  clear: both;
+  background:$blue-social;
+
+  &:nth-child(even) {
+    background-color: $blue-social;//darken($page-item-background-color, 3%);
+  }
+}

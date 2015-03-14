@@ -7,14 +7,21 @@ background: linear-gradient(to bottom, rgba(0,0,0,1) 0%,rgba(0,0,0,0.63) 25%,rgb
   }
   </style>
 
+
+{# 
+  TODO: swap above for more full gradient in head_extra
+ {% include "templates/partials/head_extra.html" %} #}
+ 
     <div class="hero featured_image" data-velocity=".4" data-fit="0">
   {% else %}
     <div class="hero">
   {% endif %}
     {% include "templates/partials/navigation.html" %}
   {# //============================= #}
-
+{% if item.quote %}
 {% set review = item.quote %}
+{% endif %}
+
 {% set page_name = item.name %}
 
   {% if item._type == 'author' %}

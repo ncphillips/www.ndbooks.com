@@ -12,7 +12,7 @@
     {% block head_extra %}{% endblock %}
   </head>
   {# body classes: if splash_image, category, theme, page class #}
-  <body id="container" class="{{ item.theme.name }} {{ item._type }}{% if item.page_layout %}-{{ item.page_layout|replace('.html','') }}{% endif %}{% if item.splash_image %} splash{% endif %}" {% block body_attributes %}{% endblock %}>
+  <body id="container" class="{% if item.theme.name %}{{ item.theme.name }}{% else %}light-gray{% endif %}{% if item._type %} {{ item._type }}{% endif %}{% if item.page_layout %}-{{ item.page_layout|replace('.html','') }}{% endif %}{% if item.splash_image %} splash{% endif %}{% block body_class %}{% endblock %}" {% block body_attributes %}{% endblock %}>
   <div class="wrap">
     <a href="#start-of-content" tabindex="1" class="accessibility-aid">Skip to content</a>
   {% block hero %}{# //let page types overide the hero inner element, even though much of it is conditionally determined #}

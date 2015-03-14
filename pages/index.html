@@ -1,11 +1,14 @@
 {% extends "templates/partials/base.html" %}
+{% block body_class %} home{% endblock %}
 {% block title %}{% parent %} - {{ item.name }}{% endblock %}
 {% set now = Date() %}
 {% set current_date = now |date('U') %}
-{% block head_extra %}
-  {#  Adds CSS Styles to the head to show featured image in the hero unit  #}
-  {% include "templates/partials/head_extra.html" %}
-{% endblock %}
+{% if cms.global.featured_image %}
+  {% block head_extra %}
+    {#  Adds CSS Styles to the head to show featured image in the hero unit  #}
+    {% include "templates/partials/head_extra.html" %}
+  {% endblock %}
+{% endif %}
 {% block hero %}{# //let page types overide the hero inner element, even though much of it is conditionally determined #}
     {% include "templates/partials/hero-home.html" %}
   {% endblock %}
@@ -17,20 +20,46 @@
 
 {% set backgroundImage = 'https://lh4.ggpht.com/k7utI2422xnMBAv-SaZRTJYVheThvT4c_teUR5wLgBM9jV-aUWq34koJyyIDRIKa6b6XaWC74Wf0ar7OadIapD_Z-PSK=s350' %}
 
-<div class="device-background">
+
+<img src="https://lh4.ggpht.com/k7utI2422xnMBAv-SaZRTJYVheThvT4c_teUR5wLgBM9jV-aUWq34koJyyIDRIKa6b6XaWC74Wf0ar7OadIapD_Z-PSK=s350">
+  
+    {% set now = Date() %}
+  {% set current_date = now |date('U')%}
+
+{% set events = cms.event %}
+{% set events = events|sort('start_date') %}
+  {% set event_date = events.start_date|date('U') %}
+
+{% if events %}
+      <ul class="block-list{% if related_events.length > 8 %} columns{% endif %}">
+          {% for event in events %}
+          {% set event_date = event.start_date|date('U') %}
+            {% if event.start_date && event_date > current_date %}
+              {% if loop.first %}<h5>upcoming event{% if loop.revindex > 1 %}s{% endif %}</h5>{% endif %}
+            <li>
+              <a href="{{ url(event)}}">{% if event.start_date %}{{ event.start_date|date('M jS') }}: {% endif %}{{event.name}}</a>
+            </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+{% endif %}
+
+{# <div class="device-background">
   <div class="interior">
   <div class="device-text">
+
     <h4>César Aira in Conversation with Hari Kunzru</h4>
     <p><strong>March 15th</strong> Six writers--César Aira, Juan Gabriel Vásquez, Dulce María Cardoso, Javier Cercas, Alonso Cueto, and Carmen Boullosa--join translator Anne McLean to talk about their work amidst echoes from their literary predecessors.</p>
     <a href="#">Learn More</a>
   </div>
+  
   <div class="device-text">
     <h4>Live to Write: Cesar Aira & Sergio Chejfec</h4>
     <p><strong>March 23rd</strong> The Argentine author will discuss his most recent English publication, The Musical Brain and Other Stories, with Sergio Chejfec, inviting us to that peculiar universe which proves that in life there are events that cannot be explained by Western Rationalism.</p>
     <a href="#">Learn More</a>
   </div>
   </div>
-</div>
+</div> #}
 
 
 

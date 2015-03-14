@@ -15,7 +15,7 @@
   {% set featured_image_object = object.featured_image.url %}  
 {% endfor %}
 {% set base_url = getSetting('site_url') %}
-{% set featured_image = item.featured_image.url %}  
+{% set featured_image = item.featured_image|imageSize(1600,auto) %}  
 {% if featured_image %}
   {% set background_image = base_url + featured_image %}
 {% elseif featured_image_object %}

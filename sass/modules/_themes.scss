@@ -37,6 +37,8 @@ body.green-dark {
 }
 
 
+
+
 body.purple {
   @include site-theme-hero($avenger-purple, $light-gray);
   header.navigation .nav-topbar-logo {
@@ -49,6 +51,8 @@ body.purple {
 .theme-purple {
   @include site-theme($avenger-purple, $light-gray);
 }
+
+
 
 body.goldenrod {
   @include site-theme-hero($goldenrod, $light-gray);
@@ -70,29 +74,43 @@ body.green-light {
   @include site-theme-hero($green-light, $light-gray);
 }
 
+
+
 body.dark-gray, .dark-on-light  {
   @include site-theme-hero($dark-gray, $light-gray);
 }
+
+
 
 .theme-dark-gray  {
   @include site-theme($dark-gray, $light-gray);
 }
 
+
+
 body.light-gray, body.article, body.event {
   @include site-theme-hero($lightest-gray, $dark-gray);
 }
+
+
 
 .theme-light-gray  {
   @include site-theme($lightest-gray, $dark-gray);
 }
 
+
+
 .theme-social  {
   @include site-theme($blue-social, $light-gray);
 }
 
+
+
 body.black-white {
   @include site-theme-hero($blackest, white);
 }
+
+
 
 .theme-black-white  {
   @include site-theme($blackest, white);
@@ -100,5 +118,6 @@ body.black-white {
     background: url(/static/images/nd-logo-d9d9d9.svg);
     background-repeat: no-repeat;
     background-position: center 1em;
+    
   }
 }
