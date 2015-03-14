@@ -1,0 +1,57 @@
+{% extends "templates/partials/base-page-one-column.html" %}
+        {% set review = cms.about.quote %}
+
+        {% block head_extra %}
+        <style type="text/css">
+        .hero {
+          height: 350px;
+        }
+        </style>
+        {% endblock %}
+{% block content %}
+  <div id="section0" class="layout-page">
+    <section class="content-primary">
+
+      <div class="has-layout layout-article">
+        <div class="grid-items">
+          <div class="grid-item grid-item-big">
+            {{ cms.about.copy|safe }}  
+          </div>
+            {% set featuredBook = cms.about.featured_books %}
+              
+              {% for object in featuredBook|slice(0,2) %}
+                {% set editions = object.editions %}
+                  {% include "templates/partials/format-grid-item-book-background.html" %}
+              {% endfor %}
+
+              {% for row in cms.about.staff %}
+                <div class="grid-item{% if loop.index == 1 %} grid-item-big{% endif %}">
+                  <h2>{{ row.name }}</h2>
+                  {{ row.bio|safe }}
+                </div>
+              {% endfor %}
+
+              {% for object in featuredBook|slice(2,3) %}
+                {% set editions = object.editions %}
+                  {% include "templates/partials/format-grid-item-book-background.html" %}
+              {% endfor %}
+
+
+
+      </div> {# //END GRID ITEMS #}
+
+
+
+
+
+
+
+
+
+        </div>
+        <hr />
+      </div>
+    </section>
+  </div>
+{% endblock %}
+

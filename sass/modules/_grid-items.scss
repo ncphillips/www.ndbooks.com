@@ -1,0 +1,167 @@
+@mixin grid-item-columns($columns) {
+  width: (100% / 12) * $columns;
+}
+
+.grid-items {
+  ///////////////////////////////////////////////////////////////////////////////////
+  //$base-accent-color: #477DCA !default;
+  //$base-background-color: white !default;
+  $medium-screen: em(640) !default;
+  $large-screen: em(860) !default;
+  
+  p {
+    line-height: 1.5em;
+  }
+
+  a {
+    text-decoration: none;
+  }
+  //////////////////////////////////////////////////////////////////////////////////
+
+  $grid-items-background: $base-background-color;
+  $grid-item-background: darken($base-background-color, 3%);//desaturate($base-accent-color, 30%);
+  $grid-item-colors: 
+    darken($base-background-color, 3%), //desaturate($base-accent-color, 30%), 
+    darken($base-background-color, 5%), //#3581A5, 
+    darken($base-background-color, 3%), //#5FBEBE,
+    darken($base-background-color, 12%), //#98C79A,
+    darken($base-background-color, 3%), //#A7A891, 
+    darken($base-background-color, 3%), //#BDCC97,
+    darken($base-background-color, 3%); //#979EA0;
+  $grid-item-border-size: 9px;
+  $grid-item-columns: 4;
+  $grid-item-big-columns: 8;
+  $grid-item-color: #000;//$base-font-color;// white;
+  $grid-item-height: 13.75em;
+  @include clearfix;
+    
+  .grid-item {
+    @include transition (all 0.2s ease-in-out);
+    background: $grid-item-background;
+    border-bottom: $grid-item-border-size solid $grid-items-background;
+    border-left: ($grid-item-border-size / 2) solid $grid-items-background;
+    border-right: ($grid-item-border-size / 2) solid $grid-items-background;
+    border-top: 0;
+    cursor: pointer;
+    float: left;
+    height: $grid-item-height;
+    overflow: hidden;
+    outline: none;
+    padding: 2em;
+    //text-align: left;
+    width: 100%;
+
+  //   &:nth-child(even) {
+  //   background-color: darken($grid-item-background, 23%);
+  // }
+background-size:cover;
+ background-repeat: no-repeat;
+        &:focus,
+        &:hover {
+          background-color: darken($grid-item-background, 10%);          
+          background-position: center;
+          background-size: 100%;
+          @include transition (all 0.3s ease-in-out);
+        }
+
+
+    @include media($large-screen) {
+      @include grid-item-columns($grid-item-columns);
+    }
+
+    @for $i from 1 through length($grid-item-colors) { // assign colors from $grid-item-colors list
+      &:nth-child(#{$i}) {
+        $background-from-list: nth($grid-item-colors, $i);
+        background-color: $background-from-list;
+        //box-shadow: inset 0px 0px 1px 2px darken($background-from-list, 10%);
+
+        &:focus,
+        &:hover {
+          background-color: darken($background-from-list, 10%);
+          // background-repeat: no-repeat;
+          // //background-position: top;
+          // background-size: cover;
+        }
+      }
+    }
+  }
+
+  // .grid-item img {
+  //     display: block;
+  //     height: 3em;
+  //     margin-bottom: 1em;
+  //     margin: auto;
+  //   }
+
+  .grid-item h1 {
+      color: $grid-item-color;
+      font-size: 1.3em;
+      margin-bottom: 0.4em;
+    }
+
+  .grid-item p {
+      margin: auto;
+      color: $grid-item-color;
+      //color: transparentize($grid-item-color, 0.3);
+      
+      // @include media($medium-screen) {
+      //   max-width: 90%;
+      // }
+    }
+
+  .grid-item-big {
+    @include media($large-screen) {
+      @include grid-item-columns($grid-item-big-columns);
+    }
+    // p {
+    //   @include media($medium-screen) {
+    //     max-width: 90%;
+    //   }  
+    // }
+  }
+
+  .grid-item-image {
+    // background: url("https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/mountains.png");
+    background-color: $grid-item-background;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+}
+
+
+
+
+.ribbon-box {
+  @include size(100px);
+  border: 1px solid #bbb;
+  position: relative;
+}
+
+.ribbon-wrapper {
+  $base-accent-color: #477dca !default;
+  $ribbon-background: $base-accent-color;
+  $ribbon-size: 85px;
+
+  @include size($ribbon-size);
+  overflow: hidden;
+  position: absolute;
+  right: -1px;
+  top: -1px;
+
+  .ribbon {
+    @include transform(rotate(45deg));
+    background-color: $ribbon-background;
+    box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.3);
+    color: #fff;
+    font-size: 0.8em;
+    font-weight: 800;
+    left: -5px;
+    line-height: 1.5em;
+    padding: 2px 7px;
+    position: relative;
+    text-align: center;
+    top: 15px;
+    width: 120px;
+  }
+}
