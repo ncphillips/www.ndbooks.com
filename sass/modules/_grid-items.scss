@@ -21,12 +21,29 @@
   $grid-items-background: $base-background-color;
   $grid-item-background: darken($base-background-color, 3%);//desaturate($base-accent-color, 30%);
   $grid-item-colors: 
-    darken($base-background-color, 3%), //desaturate($base-accent-color, 30%), 
-    darken($base-background-color, 5%), //#3581A5, 
+    darken($base-background-color, 8%), //desaturate($base-accent-color, 30%), 
+    darken($base-background-color, 1%), //#3581A5, 
     darken($base-background-color, 3%), //#5FBEBE,
-    darken($base-background-color, 12%), //#98C79A,
-    darken($base-background-color, 3%), //#A7A891, 
+    darken($base-background-color, 2%), //#98C79A,
+    darken($base-background-color, 5%), //#A7A891, 
     darken($base-background-color, 3%), //#BDCC97,
+    darken($base-background-color, 3%), //#979EA0;
+    darken($base-background-color, 9%), //#979EA0;
+    darken($base-background-color, 3%), //#979EA0;
+    darken($base-background-color, 13%), //#979EA0;
+    darken($base-background-color, 7%), //#979EA0;
+    darken($base-background-color, 1%), //#979EA0;
+    darken($base-background-color, 3%), //#979EA0;
+    darken($base-background-color, 13%), //#979EA0;
+    darken($base-background-color, 3%), //#979EA0;
+    darken($base-background-color, 5%), //#979EA0;
+    darken($base-background-color, 2%), //#979EA0;
+    darken($base-background-color, 3%), //#979EA0;
+    darken($base-background-color, 7%), //#979EA0;
+    darken($base-background-color, 2%), //#979EA0;
+    darken($base-background-color, 13%), //#979EA0;
+    darken($base-background-color, 3%), //#979EA0;
+    darken($base-background-color, 3%), //#979EA0;
     darken($base-background-color, 3%); //#979EA0;
   $grid-item-border-size: 9px;
   $grid-item-columns: 4;
@@ -54,16 +71,10 @@
   //   &:nth-child(even) {
   //   background-color: darken($grid-item-background, 23%);
   // }
-background-size:cover;
- background-repeat: no-repeat;
-        &:focus,
-        &:hover {
-          background-color: darken($grid-item-background, 10%);          
-          background-position: center;
-          background-size: 100%;
-          @include transition (all 0.3s ease-in-out);
-        }
-
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+        
 
     @include media($large-screen) {
       @include grid-item-columns($grid-item-columns);
@@ -81,10 +92,23 @@ background-size:cover;
           // background-repeat: no-repeat;
           // //background-position: top;
           // background-size: cover;
+          background-size: auto 100% ;//110%;
+          background-position: center center;
+          background-repeat: repeat-x;
+          @include transition (all .9s ease-in-out);
         }
       }
     }
   }
+
+
+  // &:focus,
+  //       &:hover {
+  //         background-color: darken($grid-item-background, 30%);          
+          
+          
+  //       }
+
 
   // .grid-item img {
   //     display: block;

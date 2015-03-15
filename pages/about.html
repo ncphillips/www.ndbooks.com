@@ -24,14 +24,65 @@
                   {% include "templates/partials/format-grid-item-book-background.html" %}
               {% endfor %}
 
-              {% for row in cms.about.staff %}
+              {% for row in cms.about.staff|slice(0,2) %}
                 <div class="grid-item{% if loop.index == 1 %} grid-item-big{% endif %}">
                   <h2>{{ row.name }}</h2>
                   {{ row.bio|safe }}
                 </div>
               {% endfor %}
 
-              {% for object in featuredBook|slice(2,3) %}
+              {% for object in featuredBook|slice(2,2) %}
+                {% set editions = object.editions %}
+                  {% include "templates/partials/format-grid-item-book-background.html" %}
+              {% endfor %}
+
+               {% for row in cms.about.staff|slice(2,2) %}
+                <div class="grid-item{% if loop.index == 1 %} grid-item-big{% endif %}">
+                  <h2>{{ row.name }}</h2>
+                  {{ row.bio|safe }}
+                </div>
+              {% endfor %}
+
+               {% for object in featuredBook|slice(4,1) %}
+                {% set editions = object.editions %}
+                  {% include "templates/partials/format-grid-item-book-background.html" %}
+              {% endfor %}
+
+
+               {% for row in cms.about.staff|slice(4,2) %}
+                <div class="grid-item{% if loop.index == 1 %} grid-item-big{% endif %}">
+                  <h2>{{ row.name }}</h2>
+                  {{ row.bio|safe }}
+                </div>
+              {% endfor %}
+
+                 {% for object in featuredBook|slice(6,1) %}
+                {% set editions = object.editions %}
+                  {% include "templates/partials/format-grid-item-book-background.html" %}
+              {% endfor %}
+
+              {% for row in cms.about.staff|slice(6,3) %}
+                <div class="grid-item">
+                  <h2>{{ row.name }}</h2>
+                  {{ row.bio|safe }}
+                </div>
+              {% endfor %}
+
+
+                {% for object in featuredBook|slice(7,2) %}
+                {% set editions = object.editions %}
+                  {% include "templates/partials/format-grid-item-book-background.html" %}
+              {% endfor %}
+
+
+              {% for row in cms.about.staff|slice(9,30) %}
+                <div class="grid-item">
+                  <h2>{{ row.name }}</h2>
+                  {{ row.bio|safe }}
+                </div>
+              {% endfor %}
+
+              {% for object in featuredBook|slice(9,10) %}
                 {% set editions = object.editions %}
                   {% include "templates/partials/format-grid-item-book-background.html" %}
               {% endfor %}
