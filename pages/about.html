@@ -4,7 +4,7 @@
         {% block head_extra %}
         <style type="text/css">
         .hero {
-          height: 350px;
+          height: 380px;
         }
         </style>
         {% endblock %}
@@ -14,7 +14,7 @@
 
       <div class="has-layout layout-article">
         <div class="grid-items">
-          <div class="grid-item grid-item-big">
+          <div class="grid-item grid-item-big grid-item-expand">
             {{ cms.about.copy|safe }}  
           </div>
             {% set featuredBook = cms.about.featured_books %}

@@ -144,6 +144,17 @@
     // }
   }
 
+  .grid-item-expand {
+    height: 21em;
+    @include media($medium-screen-up) {
+      
+      height: $grid-item-height;
+
+    }
+
+
+  }
+
   .grid-item-image {
     // background: url("https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/mountains.png");
     background-color: $grid-item-background;
@@ -154,7 +165,7 @@
 }
 
 
-
+//////////////////////////////
 
 .ribbon-box {
   @include size(100px);
