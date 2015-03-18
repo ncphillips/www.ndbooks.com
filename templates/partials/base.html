@@ -76,18 +76,19 @@
   {# body classes: if splash_image, category, theme, page class #}
   <body id="container" class="{% if item.theme.name %}{{ item.theme.name }}{% endif %}{% if item._type %} {{ item._type }}{% endif %}{% if item.page_layout %}-{{ item.page_layout|replace('.html','') }}{% endif %}{% if item.splash_image %} splash{% endif %}{% block body_class %}{% endblock %}" {% block body_attributes %}{% endblock %}>
   <div class="wrap">
-    <a href="#start-of-content" tabindex="1" class="accessibility-aid">Skip to content</a>
+    <span data-search-index="false"><a href="#start-of-content" tabindex="1" class="accessibility-aid">Skip to content</a></span>
   {% block hero %}{# //let page types overide the hero inner element, even though much of it is conditionally determined #}
-    {% include "templates/partials/hero.html" %}
+    <span data-search-index="false">{% include "templates/partials/hero.html" %}</span>
   {% endblock %}
     <section class="content">
       <div id="start-of-content" class="accessibility-aid"></div>
         {% block content %}{% endblock %}
       </section>
       {% include "templates/partials/footer.html" %}
-      {% block scripts_extra %}{% endblock %}
-      {% include "templates/partials/scripts.html" %}
-      
+      <span data-search-index="false"> 
+        {% block scripts_extra %}{% endblock %}
+        {% include "templates/partials/scripts.html" %}
+      </span>      
     </div>
   </body>
 </html>

@@ -9,6 +9,10 @@
   $large-screen: em(860) !default;
   $base-font-color: $dark-gray !default;
   
+  @include media($medium-screen-up) {
+    margin-bottom: 5em;
+  }
+  
   ul {
     margin: 0;
     padding: 0;

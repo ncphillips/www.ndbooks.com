@@ -1,11 +1,29 @@
-{% extends "templates/partials/base-page-one-column.html" %}
+{% extends "templates/partials/base.html" %}
+{% set page_name = 'Books' %}
+{% block hero %}{# //let page types overide the hero inner element, even though much of it is conditionally determined #}
+  {% include "templates/partials/hero-search.html" %}
+{% endblock %}
+{% block title %}{% parent %} - {{ page_name }}{% endblock %}
 {% block content %}
-{% set current_date = now|date('U') %}
-{% set days90 = '1425444994' %}
-{% set datePlus90  += days90  %}
-{% set books_new = cms.book|where('editions') %}
+<div class="local-nav"><!--  //Filter for the content below -->
+  <div class="interior">
+    {# <i class="icon-filter"></i> #}
+    <ul class="button-group">
+      {# <li id="filter-authors"><a href="javascript:void(0)" class="button">Authors</a></li>
+      <li id="filter-editors"><a href="javascript:void(0)" class="button">Editors</a></li>
+      <li id="filter-translators"><a href="javascript:void(0)" class="button">Translators</a></li>
+      <li id="filter-contributors"><a href="javascript:void(0)" class="button">Contributors</a></li>
+       #}{# <li id="filter-designers"><a href="javascript:void(0)" class="button">Designers</a></li> #}
+      <li id="filter-none" class="button"><a href="/books/" class="button">clear</a></li>     
+    </ul>
+    <ul class="button-group" style="float:right;">
+     <li class="button" ><a href="/books/list/" class="button">Complete List</a></li> 
 
-{% set books_new = books_new|sort('publication_date', true) %}
+    </ul>
+    </div>
+  </div>
+
+
 
 {# 
 1st: show upcoming 90 days
@@ -17,36 +35,104 @@
 
   <div id="section0" class="layout-page">
     <section class="content-primary">
-      <h1>Books</h1>{# {{datePlus90}} = {{current_date}} #}
-      
-      
-      <div class="flex-boxes">
+<div id="tipue_search_content"></div>
 
 
-        
+
+
+{% set current_date = 7776000 + now|date('U') %}
+
+{% set books_new = cms.book|where('editions') %}
+{% set books_new = books_new|sort('publication_date', true) %}
+
+{% set index = 7776000 %}
+{% set cd = current_date %}
+
+{# // index = 2; #}
+{% set bar = cd %}
+{% set bar += index|date('U') %}
+{# // => 3 #}
+
+bar = {{ bar}}<br />
+
+datePlus90 = {{ datePlus90 }}<br />
+current_date = {{ current_date }}<br />
       
-        {% for object in books_new|slice(0,20) %}
-          {% set edition = object.editions|first %}
-          
+      <h1>New Books</h1>    
+
+      <div class="grid-items">
+        {% for object in books_new|slice(0,12) %}
+          {% set edition = object.editions|first %}          
           {% set publication_date = object.publication_date %}
           {% set publication_date_unix = publication_date|date('U') %}
 
+          {% if publication_date_unix < current_date  %}
+            {% include "templates/partials/format-books-grid.html" %}
+          {% endif %}
 
-            
-
-            {% if publication_date_unix > current_date && publication_date_unix < datePlus90 %}
-
-              <a href="{{ url(object) }}" class="flex-box-smaller naked ">
-                {# <h4 class="flex-title"><small>{{ object.name }}</small></h4> #}    
-                <h4 class="flex-title"><span class="{% if publication_date_unix > current_date %}red{% endif %}">{{ publication_date|date('F d Y') }}</span></h4>
-                {% include "templates/partials/format-image-bookcover-small.html" %}
-              </a>
-            
-            {% endif %}
         {% endfor %}
-      
-
       </div>
+
+
+        <h1>Forhcoming Books</h1>    
+
+      <div class="grid-items">
+        {% for object in books_new|slice(0,12) %}
+          {% set edition = object.editions|first %}          
+          {% set publication_date = object.publication_date %}
+          {% set publication_date_unix = publication_date|date('U') %}
+
+          {% if publication_date_unix > current_date  %}
+            {% include "templates/partials/format-books-grid.html" %}
+          {% endif %}
+
+        {% endfor %}
+      </div>
+
+
+        <h1>Bestsellers Books</h1>    
+
+      <div class="grid-items">
+        {% for books in cms.global|slice(0,12) %}
+          {% for object in books.featured_books_bestsellers %}
+          
+          {% set edition = object.editions|first %}          
+          {% set publication_date = object.publication_date %}
+          {% set publication_date_unix = publication_date|date('U') %}
+
+          {% if publication_date_unix > current_date  %}
+            {% include "templates/partials/format-books-grid.html" %}
+          {% endif %}
+
+        {% endfor %}{% endfor %}
+      </div>
+
+
+
+
+{# 
+{% elseif publication_date_unix < current_date  %}
+
+  
+  {% include "templates/partials/format-books-grid.html" %}
+ #}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -56,3 +142,7 @@
 
 {% endblock %}
 
+{% block scripts_extra %}
+    {# DO NOT MINIFY THIS FILE #}
+  <script src="/.wh/searchjson.js"></script>
+{% endblock %}    

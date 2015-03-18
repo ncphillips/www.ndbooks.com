@@ -8,35 +8,20 @@
     <div class="hero">
   {% endif %}
     {% include "templates/partials/navigation.html" %}
-  
+      {% set page_name = item.name %}
 
-{# //============================= #}
-
-{% set page_name = item.name %}
-
-<div class="hero-inner">
-      <div class="hero-copy">
-    
-  {% if review %}
-
-        <blockquote id="container-review-single" class="review">        
-          {% include "templates/partials/format-quotes.html" %}         
-        </blockquote>
-    
-  
-    
-  {% else %}
-
-  
-    
-      {# <h1 class="page-heading">{{ page_name }}</h1> #}
-    <input class="search" placeholder="Search" style="display:inline-block;" onclick="trigger()" />
-  
-  {% endif %}
-
-  </div>
+  <div class="hero-inner">
+    <div class="hero-copy">
+      {% if getCurrentUrl() == '/books/' %}
+        <form action="/books/" class="search-form" method="get" data-search-index="false" style="padding-bottom:0;">
+          <input class="search" type="search" placeholder="search" id="tipue_search_input" name="q" style="display:inline-block;">
+        </form>
+      {% else %}
+        <input class="search" type="search" placeholder="Filter" style="display:inline-block;" onclick="trigger()" />
+      {% endif %}
     </div>
-  
+  </div>
+</div> 
 
-{# //============================= #}
-  </div> 
+    {# <form action="/search-results/" class="search-form" method="get" data-search-index="false">
+  <input class="search" type="text" placeholder="search" id="tipue_search_input" name="q" style="display:inline-block;"> #}

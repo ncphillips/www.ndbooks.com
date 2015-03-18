@@ -1,5 +1,6 @@
 {% extends "templates/partials/base.html" %}
-{% set page_name = 'Books' %}
+{% block body_attributes %}data-search-index="false"{% endblock %}
+{% set page_name = 'All Books' %}
 {% set now = Date() %}
 {% set current_date = now |date('U') %}
 {% block title %}{% parent %} - {{ page_name }}{% endblock %}
@@ -21,11 +22,14 @@
       <li id="filter-none" class="button"><a href="javascript:void(0)" class="button">clear</a></li>
      {#  <li><a href="javascript:void(0)" class="button">Keywords</a></li> #}
     </ul>
+    <ul class="button-group" style="float:right;">
+     <li class="button" ><a href="/books/" class="button">Books Overview</a></li> 
+    </ul>
     {# <button class="sort" data-sort="last_name">Sort by Last Name</button> #}
-    <span style="text-align:right;">
+    {# <span style="text-align:right;">
       <i class="icon-th"></i>
       <i class="icon-th-list"></i>
-    </span>    
+    </span>     #}
     </div>
   </div>
 
