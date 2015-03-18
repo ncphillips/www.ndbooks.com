@@ -13,12 +13,13 @@
     <link rel='dns-prefetch' href='https://lh3.ggpht.com'>
 
 
-
+{% block index_setting %}
   {% if  getSetting('analytics_id')  %}
     <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
   {% else %}
     <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
   {% endif %}
+{% endblock %}
 
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">

@@ -13,6 +13,12 @@
   "mixins/themes", //color schemes for hero unit
   "modules/mixins"; //where are we using this? 
 
+
+// VENDRO
+@import
+"vendor/fontello-ion",
+"vendor/fonts"; //typography.com  
+
 // Modules, unordered
 @import
   "modules/utilities-accessibility",
@@ -23,10 +29,8 @@
   "modules/colors",
   "modules/content-blocks", // blog nav
   "modules/flex-boxes",
-  "modules/flex-boxes-home",
-  "modules/font-icons",
-  "vendor/fontello-ion",
-  "vendor/fonts", //typography.com
+  /////////////////////"modules/flex-boxes-home",
+  "modules/font-icons", //modify font icons
   "modules/footer",
   "modules/grid-items",
   "modules/grid-authors-page", //AUTHOR LISTING
@@ -38,13 +42,15 @@
   "modules/layouts-rows-alternating", 
   "modules/lists",
   "modules/nav-top",
-  "modules/nav-side", // blog nav
+  ////////////////////////////////// delete this"modules/nav-side", // blog nav
   "modules/nav-sliding-menu",
+  "modules/pagination", //need Transition
   "modules/prev-next", //need Transition
   "modules/quotes",
+  "modules/search",
   "modules/social",
   "modules/tables", //AUTHOR LISTING
-  "modules/tests", //usually empty
+  /////////////////////////////////////"modules/tests", //usually empty
   "modules/themes", //color for hero unit
   "modules/utilities-text",
   "modules/utilities"; // manipulates images

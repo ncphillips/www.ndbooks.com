@@ -1,0 +1,35 @@
+.wh-search-results dt {
+      /*font-size: 125%;*/
+      font-weight: bold;
+      border-bottom: solid 1px #ccc;
+      padding: 1.5em 0px;
+    }
+    .wh-search-results dd {
+      margin-left: 0;
+      h2 {
+        font-size: 1.625em;
+      }
+    }
+    .wh-search-results a {
+      text-decoration: none;
+      color: #000;
+      border-bottom: solid 1px #ccc;
+      padding: 10px 0px;
+      display: block;
+    }
+    .wh-search-term {
+      background: #ddd;
+      display: inline-block;
+      font-weight: bold;
+    }
+    .wh-search-url {
+      font-size: 80%;
+      color: #666;
+    }
+    .wh-search-term-in-page {
+      font-weight: bold;
+    }
+//tipue search for search-results page
+.wh-search-url {
+  display: none;
+}

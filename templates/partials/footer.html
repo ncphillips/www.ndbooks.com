@@ -1,14 +1,14 @@
 <div class="push bg"></div>
-<footer class="footer" id="content-info">
+<footer class="footer" id="content-info" data-search-index="false">
   <div class="footer-logo">
     <a href="" class="hero-logo"><img src="/static/images/nd-logo-777.svg" alt="" style="height:81px;width:65px;"></a>
   </div>
   <div class="footer-links">
     <ul>
       <li><h3>About Us</h3></li>
-      <li><a href="/about/">History</a></li>
-      <li><a href="/staff/">Staff</a></li>
+      <li><a href="/about/">About</a></li>      
       <li><a href="/about/contact/">Contact</a></li>
+      <li><a href="/events/">Events</a></li>
     </ul>
     <ul>
       <li><h3>Follow Us</h3></li>
@@ -17,14 +17,24 @@
       <li><a href="http://newdirectionspublishing.tumblr.com/">Tumblr</a></li>
     </ul>
     <ul>
-      <li><h3>Resources for</h3></li>
-      <li><a href="/about/resources/">Series</a></li>
-      <li><a href="/">Professors</a></li>
-      <li><a href="/">Media</a></li>
+      <li><h3>Find</h3></li>
+      <li><a href="/about/resources/">Resources</a></li>
+      <li><a href="/catalogs/">Catalogs</a></li>
+      <li><a href="/books/list/">All Books</a></li>
     </ul>
   </div>
 
   <hr class="fancy" />
+
+  <div class="search-box" style="width:40%;margin:1em auto;">
+    <form action="/search-results/" class="search-form" method="get" data-search-index="false">
+  <input type="text" placeholder="search" id="tipue_search_input" name="q">
+</form>
+
+    
+  </div>
+
+
 
 <div class="copy">{{ global.site_description|safe }}</div>
 

@@ -1,49 +1,12 @@
 {% extends "templates/partials/base.html" %}
 {% block title %}{% parent %} - {{ item.name }}{% endblock %}
 {% block body_attributes %}data-search-index="false"{% endblock %}
-
-{% block head_extra %}
-
-  {# STYLES FOR THE SEARCH RESULTS. #}
-  {# Feel free to replace and put in a css file. #}
-
-  {% parent %}
-  <style>
-    .wh-search-results dt {
-      font-size: 125%;
-      font-weight: bold;
-      border-bottom: solid 1px #ccc;
-      padding: 10px 0px;
-    }
-    .wh-search-results dd {
-      margin-left: 0;
-    }
-    .wh-search-results a {
-      text-decoration: none;
-      color: #000;
-      border-bottom: solid 1px #ccc;
-      padding: 10px 0px;
-      display: block;
-    }
-    .wh-search-term {
-      background: #ddd;
-      display: inline-block;
-      font-weight: bold;
-    }
-    .wh-search-url {
-      font-size: 80%;
-      color: #666;
-    }
-    .wh-search-term-in-page {
-      font-weight: bold;
-    }
-  </style>
-
-{% endblock %}
-
 {% block content %}
   <div class="has-layout layout-page">
     <article class="hentry">
+
+
+
       <header>
         
           <h1 class="entry-title">Search Results</h1>
@@ -52,6 +15,8 @@
       <div class="entry-content prose">
         
           <div id="tipue_search_content"></div>
+
+
       </div>
     </article>
   </div>

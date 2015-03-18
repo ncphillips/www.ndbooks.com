@@ -23,25 +23,26 @@ module.exports = function(grunt) {
     dist: {
       src: [
         'bower_components/jquery/dist/jquery.min.js', 
-        'bower_components/jquery.smooth-scroll/jquery.smooth-scroll.min.js' ,
-        'bower_components/backgroundCheck/background-check.min.js',
-        'static/javascript/tipue.js',
+        'bower_components/jquery.smooth-scroll/jquery.smooth-scroll.min.js',
         'static/javascript/jquery.unveil.js',
-        'static/javascript/site.js', 
-        'static/javascript/twitter.js'
-        
+        'static/javascript/site-unveil.js',
+        'static/javascript/site-smooth-scroll.js',                 
+        'static/javascript/site-js-menu.js',
+        'static/javascript/tipue.js',
+        'static/javascript/site-tipue.js',                          
+        'static/javascript/site.js'         
       ],
-      dest: 'static/javascript/dist/scripts.js',
+      dest: 'static/javascript/dist/scripts.js'
     },
     velocity: {
       src: ['bower_components/velocity/velocity.min.js','bower_components/velocity/velocity.ui.min.js'],
-      dest: 'static/javascript/dist/scripts-velocity.js',
+      dest: 'static/javascript/dist/scripts-velocity.js'
     },
     listjs: {
       src: [
       'bower_components/listjs/dist/list.min.js',
       'static/javascript/site-listjs.js'],
-      dest: 'static/javascript/dist/scripts-listjs.js',
+      dest: 'static/javascript/dist/scripts-listjs.js'
     },
     masonry: {
       src: [
@@ -49,11 +50,11 @@ module.exports = function(grunt) {
       'bower_components/masonry/dist/masonry.pkgd.min.js',
       'static/javascript/site-masonry.js'
       ],
-      dest: 'static/javascript/dist/scripts-masonry.js',
+      dest: 'static/javascript/dist/scripts-masonry.js'
     },
     modernize: {
       src: ['bower_components/html5shiv/dist/html5shiv.min.js','bower_components/respond/dest/respond.min.js'],
-      dest: 'static/javascript/modernize/modernize.min.js',
+      dest: 'static/javascript/modernize/modernize.min.js'
     }
   },
 

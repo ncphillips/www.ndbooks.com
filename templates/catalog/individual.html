@@ -1,0 +1,12 @@
+{% extends "templates/partials/base-page-one-column.html" %}
+{% block content %}
+  <div id="section0" class="layout-page">
+    <section class="content-primary">
+      <h1>Catalog {{ item.name }}</h1>
+      <h5><em>Click on image to download pdf</em></h5>      
+      <a href="{{ item.file.url }}">  
+        <img src="{{ item.image|imageSize(500, 'auto') }}">
+      </a>      
+    </section>
+  </div>
+{% endblock %}

@@ -1,7 +1,9 @@
 {% set catalogs = cms.catalog|sort('publish_date', true) %}
   {% for object in catalogs|slice(0,catalogLimit) %}
-  <a href="{{ object.file.url }}" class="catalogs {{ objectClass }}">
-    <h4><small>{{ object.name }}</small></h4>
-    <img src="{{ object.image|imageSize(300) }}">
-  </a>
+    <div class="catalogs {{ objectClass }}">
+      <h4><a href="{{ url(object) }}"><small>{{ object.name }}</small></a></h4>
+      <a href="{{ object.file.url }}">  
+        <img src="{{ object.image|imageSize(300) }}">
+      </a>
+    </div>
   {% endfor %}
