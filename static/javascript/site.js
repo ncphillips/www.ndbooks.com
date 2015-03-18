@@ -22,7 +22,7 @@ if (document.getElementById('js-menu')) {
     }
     return false; 
 };};
-$('a').smoothScroll({offset: -150,
+$('a').smoothScroll({offset: -120,
   afterScroll: function() {
     this.addClass("flash-success")
   },

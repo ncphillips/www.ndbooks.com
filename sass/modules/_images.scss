@@ -26,3 +26,8 @@ aside.photo img {
 }
 .object-fit_none { object-fit: none; }
 .object-fit_scale-down { object-fit: scale-down; }
+
+figcaption {
+  font-size: .85em;
+  padding:0;
+}

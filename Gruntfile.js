@@ -43,7 +43,14 @@ module.exports = function(grunt) {
       'static/javascript/site-listjs.js'],
       dest: 'static/javascript/dist/scripts-listjs.js',
     },
-
+    masonry: {
+      src: [
+      'bower_components/imagesloaded/imagesloaded.pkgd.min.js',
+      'bower_components/masonry/dist/masonry.pkgd.min.js',
+      'static/javascript/site-masonry.js'
+      ],
+      dest: 'static/javascript/dist/scripts-masonry.js',
+    },
     modernize: {
       src: ['bower_components/html5shiv/dist/html5shiv.min.js','bower_components/respond/dest/respond.min.js'],
       dest: 'static/javascript/modernize/modernize.min.js',
@@ -59,7 +66,8 @@ module.exports = function(grunt) {
     my_target: {
       files: {
         'static/javascript/dist/scripts.min.js': ['static/javascript/dist/scripts.js'],
-        'static/javascript/dist/scripts-listjs.min.js': ['static/javascript/dist/scripts-listjs.js']
+        'static/javascript/dist/scripts-listjs.min.js': ['static/javascript/dist/scripts-listjs.js'],
+        'static/javascript/dist/scripts-masonry.min.js': ['static/javascript/dist/scripts-masonry.js']
       }
     }
   },

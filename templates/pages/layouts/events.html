@@ -9,13 +9,9 @@
   {% set events_past = events|sort('start_date', true) %}
   {% set event_date = events.start_date|date('U') %}
   
-  
-
 {% block title %}{% parent %} - {{ page_name }}{% endblock %}
 
 {% block content %}
-
-
   <div id="section0" class="layout-page-2-column-wide-secondary">
     <section class="content-primary">
       {% for event in events %}
@@ -24,8 +20,8 @@
           {% if event.end_date %}
             {% set event_date_end = event.end_date|date('U') %}
           {% endif %}
-        
-        {% if event_date_end > current_unix_date || event_date > current_unix_date %}
+        {% if event.start_date && event_date > current_unix_date %}
+        {# {% if event_date_end > current_unix_date || event_date > current_unix_date %} #}
 
         {% if event.featured_image %}
 

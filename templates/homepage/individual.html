@@ -1,0 +1,210 @@
+{% extends "templates/partials/base.html" %}
+{% block body_class %} home{% endblock %}
+{% block title %}{% parent %} - {{ item.name }}{% endblock %}
+{% set now = Date() %}
+{% set current_date = now |date('U') %}
+{% if cms.global.featured_image %}
+  {% block head_extra %}
+    {#  Adds CSS Styles to the head to show featured image in the hero unit  #}
+    {% include "templates/partials/head_extra.html" %}
+  {% endblock %}
+{% endif %}
+{% block hero %}{# //let page types overide the hero inner element, even though much of it is conditionally determined #}
+    {% include "templates/partials/hero-home.html" %}
+  {% endblock %}
+{% block content %}
+
+
+{% set backgroundImage = 'https://lh4.ggpht.com/k7utI2422xnMBAv-SaZRTJYVheThvT4c_teUR5wLgBM9jV-aUWq34koJyyIDRIKa6b6XaWC74Wf0ar7OadIapD_Z-PSK=s350' %}
+
+{% set books = global.featured_books_home %}
+
+  {% set now = Date() %}
+  {% set current_date = now|date('U')%}
+  {% set one_week_out = current_date + 86400 %}
+
+  {% set events = cms.event %}
+  {% set events = events|sort('start_date') %}
+  {% set event_date = events.start_date|date('U') %}
+
+  {% if events %}
+    <ul class="large" style="margin:4em auto;">
+        
+        {% for event in events %}        
+          {% set event_date = event.start_date|date('U') %}
+          {% if event.start_date && event_date > current_date %}                
+          <li class="centered">
+            <a href="{{ url(event)}}">{% if event.start_date %}{{ event.start_date|date('M jS') }}: {% endif %}{{event.name}}</a>
+          </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+  {% endif %}
+
+{# <div class="device-background">
+  <div class="interior">
+  <div class="device-text">
+
+    <h4>César Aira in Conversation with Hari Kunzru</h4>
+    <p><strong>March 15th</strong> Six writers--César Aira, Juan Gabriel Vásquez, Dulce María Cardoso, Javier Cercas, Alonso Cueto, and Carmen Boullosa--join translator Anne McLean to talk about their work amidst echoes from their literary predecessors.</p>
+    <a href="#">Learn More</a>
+  </div>
+  
+  <div class="device-text">
+    <h4>Live to Write: Cesar Aira & Sergio Chejfec</h4>
+    <p><strong>March 23rd</strong> The Argentine author will discuss his most recent English publication, The Musical Brain and Other Stories, with Sergio Chejfec, inviting us to that peculiar universe which proves that in life there are events that cannot be explained by Western Rationalism.</p>
+    <a href="#">Learn More</a>
+  </div>
+  </div>
+</div> #}
+
+
+{% set home = cms.homepage %}
+
+  <div id="grid-container" class="flex-boxes-homeTK grid-items">
+    {% for object in home %}
+      {% for row in object.grid %}
+        <a href="{{ url(row.relationship) }}" class="grid-item grid-item-image item TKflex-box-home{% if loop.index == 1 %} grid-item-bigTK{% endif %}" style="height:auto;">
+          {# <img src="{{ row.image|imageSize(600, 'auto') }}"> #}
+
+          
+          {% if row.copy %}
+          {{ row.copy|safe|replace('<a href', '<span src', 'g')|replace('</a', '</span', 'g') }}
+
+          {% elseif row.relationship._type == 'book' %}
+
+          {% set edition = row.relationship.editions|first %}
+            {% set image = edition.image|imageSize(750) %}
+           <figure data-type="image">
+            {# {% include "templates/partials/format-image-bookcover-large.html" %} #}
+        <img src="/static/images/placeholder-300x450_wr.png" data-src="{{ image }}" alt="cover image for {{ row.relationship.name }}" class="transition book-cover">
+
+        <noscript>
+          <img src="{{ image }}" alt="cover image for {{ object.name }}" class="book-cover">
+        </noscript> 
+
+          </figure>
+
+          {% endif %}
+        
+
+
+        </a>
+      {% endfor %}
+    {% endfor %}
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      {% if books %}
+        {% for object in books|slice(0,2) %} {# reversed #}
+        {% set imageWidth = '320px' %}
+        {% set includeBuyInfo = false %}
+        {% set includeAuthors = true %}
+          {% include "templates/partials/format-books-list.html" %}
+        {% endfor %}
+      {% endif %}
+
+
+
+<div class="page-item"> {# {% cycle 'one', 'two', 'three' %} #}
+  <section>
+{% set reviews = cms.review %}
+{% set reviews = reviews|where('_id', '-JatT2ZToBjJ2946Uobw') %}
+
+
+{% for review in reviews %}
+
+<blockquote class="review presentational" >
+  {% include "templates/partials/format-quotes.html" %}
+</blockquote>
+
+{% endfor %}
+
+</section>
+</div>
+
+
+
+
+<div class="row spaced-top-bottom-2em">
+<h1 class="brand centered">New & Forthcoming</h1>  
+</div>
+    <div class="flex-boxes" style="margin-top:70px;">
+        
+        {% for object in cms.book|slice(3,9) %} {# reversed #}
+        {% set imageWidth = '300px' %}
+    
+          {% include "templates/partials/format-books-blocks.html" with imageWidth %}
+        {% endfor %}
+      
+      
+      {# //END AUTHORS BOOKS #}
+</div>
+
+<hr />
+
+{% include "templates/partials/layout-mailing-list.html" %}
+
+<section class="row" style="margin:3em .375em;">
+  {% include "templates/partials/cards-articles.html" %}
+
+</section>
+
+
+
+
+
+{% endblock %}
+
+
+
+
+{% block scripts_extra %}
+
+<script type="text/javascript" src="/static/javascript/dist/scripts-masonry.min.js"></script>
+<style type="text/css">
+  
+  .item {float:left; width: 25%; min-height: 300px; height: auto;}
+/*.item.w2 { width: 50%; }*/
+</style>
+
+{# <script type="text/javascript">
+  
+  var container = document.querySelector('#grid-container');
+var msnry = new Masonry( container, {
+  // options
+  columnWidth: 400,
+  itemSelector: '.grid-item'
+});
+</script> #}
+
+{% endblock %}
+
+{# 
+TODO: 
+- improve styling of book buttons
+- add buy links
+- show link to additional related articles
+- make link to top of page a perfect circle
+ 
+
+ #}
+

@@ -22,24 +22,18 @@
     <div class="has-layout layout-book">
     {# TOP ROW = EVENTS IF WE GOT'EM #}
       {% if related_events %}      
-        {% for event in related_events %}
-          {% set event_date = event.start_date|date('U') %}
-          {% if event.start_date && event_date > current_unix_date %}
-            {% if loop.first %}
-              <section class="row">      
-                <ul>
-                  <h5>upcoming event{% if loop.revindex > 1 %}s{% endif %}</h5>
-            {% endif %}
-                  <li>
-                    <a href="{{ url(event)}}">{% if event.start_date %}{{ event.start_date|date('M jS') }}: {% endif %}{{event.name}}</a>{% if !loop.last %} {% endif %}
-                  </li>
-            {% if loop.last %}
-                </ul>
-                <hr />      
-              </section>
-            {% endif %}
-          {% endif %}
-        {% endfor %}
+        <section class="row">      
+          <ul class="inline">
+            {% for event in related_events %}
+              {% set event_date = event.start_date|date('U') %}
+              {% if event.start_date && event_date > current_unix_date %}
+                <li>
+                  <a href="{{ url(event)}}">{% if event.start_date %}{{ event.start_date|date('M jS') }}: {% endif %}{{event.name}}</a>{% if !loop.last %} {% endif %}
+                </li>
+              {% endif %}
+            {% endfor %}
+          </ul>
+        </section>
       {% endif %}
       {# 2ND ROW = BOOK COVER AND SERIES, 1 REVIEW QUOTE, TAGLINE OR SYNOPSIS (IF THERE'S NO SYNOPSIS) #}
       <section class="row book-splash" style="margin-top:0;padding-top:0;">{# Top row = book cover on left, quote and tagline on right #}
