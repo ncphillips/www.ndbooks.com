@@ -9,7 +9,8 @@
 {% endif %}
 
 
-<img src="/static/images/placeholder-300x450_wr.png" data-src="{{ image }}" alt="cover image for {{ object.name }}" class="transition book-cover" style="max-width:{{ imageWidth }};">
+<img src="/static/images/placeholder-300x450_wr.png" data-src="{{ image }}" alt="cover image for {{ object.name }}" class="transitionTK book-cover" style="max-width:{{ imageWidth }};">
 <noscript>
   <img src="{{ image }}" alt="cover image for {{ object.name }}" class="book-cover">
 </noscript> 
+{# the transition class makes the cover not appear until there's a scrolling action to activate, which seems wrong on a page with one book #}

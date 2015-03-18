@@ -13,10 +13,8 @@
 {% endif %}
 {% if review.review_subject_author %}{#  if the review is related to an author, link to them #}
     <a href="{{ url(review.related_author) }}">
-      {{ review.review_subject_author.name }}{% if review.review_subject_author && review.book_this_review_is_about %}'s{% endif %}{#  if the review is related to both an author and book, indicate that it is the author's book #}                
-    </a>
-  
-{% endif %}
+      {{ review.review_subject_author.name }}{% if review.review_subject_author && review.book_this_review_is_about %}'s&nbsp;{% endif %}{#  if the review is related to both an author and book, indicate that it is the author's book #}                
+    </a>{% endif %}
 {% if review.book_this_review_is_about %}{#  if the review is related to a book, link to it #}
   {% for relation in review.book_this_review_is_about %}<a href="{{ url(relation) }}">{{ relation.name }}</a>{% if not loop.last %}, {% endif %}{% endfor %}
 {% endif %}

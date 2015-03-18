@@ -1,4 +1,5 @@
 {% extends "templates/partials/base-page-one-column.html" %}
+{% block body_class %}{{ cms.about.theme.name }}{% endblock %}
         {% set review = cms.about.quote %}
 
         {% block head_extra %}

@@ -152,6 +152,7 @@ body.post .content {
 
 .layout-page { //pages
   @include outer-container;
+  padding-top:3em;
   article {
     @include span-columns(12);
   }
@@ -162,7 +163,7 @@ body.post .content {
   @include media($medium-screen-up) {
     article {
       @include span-columns(9 of 12);
-        margin-top: -3.75em;
+        margin-top: -6.75em;
         @include shift(1.5);
     }
     aside {

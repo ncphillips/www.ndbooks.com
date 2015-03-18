@@ -1,4 +1,5 @@
 {% extends "templates/partials/base.html" %}
+{% block body_attributes %}data-search-index="false"{% endblock %}
 {% block title %}{% parent %} - authors{% endblock %}
 {% block hero %}{# //let page types overide the hero inner element, even though much of it is conditionally determined #}
     {% include "templates/partials/hero-search.html" %}
@@ -35,10 +36,6 @@
 <div id="container" class="grid-container clearfix" data-href="auto-awesome"><!--  //Creates a grid-box for the authors -->
   <ul class="grid-items-lines list-filter">{% for item in authors|sort('last')|sort('featured') %}<li class="grid-item {{ last_name|first }}" alt="{{ item.slug }}"><a href="{{ url(item) }}"><div class="image-crop grayscale">{% include "templates/partials/format-image-small.html" %}</div><div class="copy"><h1 class="entry-title name" id="author-{{ loop.index }}">{{ item.name }}</h1>{% if item.tagline %}<small class="description">{% filter replace('<(?=p)|<(?=/p)/(?=p)|p>', '', 'g') %}{{ item.tagline|safe}}{% endfilter %}</small>{% endif %}<span class="slug hidden">{{ item.slug }}</span><span class="last hidden">{{ item.last|first }}</span>{% if item.full_name.last %}<span class="last_name_sort hidden">{{ item.full_name.last }}</span>{% endif %}{% for option in item.contributor_type %}{% if option.value %}<span class="category{{ loop.index }} hidden">{{ option.label }}</span>{% endif %}{% endfor %}</div></a></li>{% endfor %}</ul></div></div>
 {% endblock %}
-
-
-
-
 {% block scripts_extra %}
   <script src="/static/javascript/dist/scripts-listjs.min.js" async></script>
 {% endblock %}
