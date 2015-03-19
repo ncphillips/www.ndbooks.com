@@ -5,6 +5,7 @@
 {% set current_date = now |date('U') %}
 {% block title %}{% parent %} - {{ page_name }}{% endblock %}
 {% block hero %}{# //let page types overide the hero inner element, even though much of it is conditionally determined #}
+<div id="container-filter"> {# //THIS NEEDS TO BE CLOSED IN THE CONTENT TO SURROUND FILTERED TERMS #}
   {% include "templates/partials/hero-search.html" %}
 {% endblock %}
 {% set books = cms.book %}

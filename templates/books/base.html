@@ -1,6 +1,7 @@
 {% extends "templates/partials/base.html" %}
 {% set page_name = 'Books' %}
 {% block hero %}{# //let page types overide the hero inner element, even though much of it is conditionally determined #}
+<div id="container-filter"> {# //THIS NEEDS TO BE CLOSED IN THE CONTENT TO SURROUND FILTERED TERMS #}
   {% include "templates/partials/hero-search.html" %}
 {% endblock %}
 {% block title %}{% parent %} - {{ page_name }}{% endblock %}
@@ -30,21 +31,19 @@
     </div>
   </div>
  
-
-  
-
-
-
-
   <div id="section0" class="layout-page">
     <section class="content-primary">
       <div id="tipue_search_content"></div>
       {% block books_list %}
+
       {% endblock %}
     </section>
   </div>
+  </div><!-- //#container-filter -->
 {% endblock %}
 {% block scripts_extra %}
     {# DO NOT MINIFY THIS FILE #}
-  <script src="/.wh/searchjson.js"></script>
+  {# <script src="/.wh/searchjson.js"></script> #}
+
+  <script src="/static/javascript/dist/scripts-listjs.min.js" async></script>
 {% endblock %}    

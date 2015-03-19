@@ -7,7 +7,7 @@
         // add tagline, or option for it?
     };
     var options_books = {
-        valueNames: [ 'name', 'slug' , 'genre', 'subtitle','status', 'date'],
+        valueNames: [ 'name', 'slug' , 'genre', 'subtitle','status', 'date', 'author', 'author-slug','author-1', 'author-slug-1','author-2', 'author-slug-2', 'author-3', 'author-slug-3'],
         listClass: 'list-filter',
         page: 2000 // how many items should first show up on the page - affects performance
         // add tagline, or option for it?

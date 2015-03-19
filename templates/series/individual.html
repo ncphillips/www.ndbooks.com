@@ -13,7 +13,7 @@
       {{ item.copy|safe }}
     </div>
   </div>
-  <div class="grid-items">
+  <div class="grid-items list-filter">
     {% for object in books|slice(0,1250) %}
       {% set edition = object.editions|first %}          
       {% set publication_date = object.publication_date %}
