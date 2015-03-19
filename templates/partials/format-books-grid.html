@@ -1,5 +1,7 @@
-<a href="{{ url(object) }}" class="flex-box-smallerTK naked grid-item grid-item-small" style="height:445px;background-color:transparent;">
-  <h4 class="title"><small><span class="{% if publication_date_unix > current_date %}red{% endif %}">{{ publication_date|date('F jS', 240) }}</span></small></h4>
+<a href="{{ url(object) }}" class="grid-item grid-item-small" style="height:445px;background-color:#F1F1F1;">{# F1F1F1 #}
+  {% if show_date == 'yes' %}
+    <h4 class="title"><small><span class="{% if publication_date_unix > current_date %}red{% endif %}">{{ publication_date|date('F jS, Y', 240) }}</span></small></h4>
+  {% endif %}
     {% set imageWidth = '100%' %}
   <div style="width:80%;margin:0 auto;">{% include "templates/partials/format-image-bookcover-medium.html" with imageWidth %}</div>
 </a>       

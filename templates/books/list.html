@@ -1,0 +1,40 @@
+{% extends "templates/books/base.html" %}
+  {% block books_list %}
+
+    <h1>New Books</h1>    
+
+    <div class="grid-items">
+      {% for object in books|slice(0,25) %}
+        {% set edition = object.editions|first %}          
+        {% set publication_date = object.publication_date %}
+        {% set publication_date_unix = publication_date|date('U') %}
+        {% set show_date = 'yes' %}            
+        {% if publication_date_unix < current_date  %}
+          {% include "templates/partials/format-books-grid.html"  with show_date  %}
+        {% endif %}
+      {% endfor %}
+    </div>
+    
+    <h1>Forhcoming Books</h1>    
+
+    <div class="grid-items">
+      {% for object in books|slice(0,55) %}      
+        {% set edition = object.editions|first %}          
+        {% set publication_date = object.publication_date %}
+        {% set publication_date_unix = publication_date|date('U') %}
+        {% if publication_date_unix > current_date  %}      
+          {% set show_date = 'yes' %}
+          {% include "templates/partials/format-books-grid.html" with show_date %}
+        {% endif %}
+      {% endfor %}
+    </div>
+
+    <h1>Bestsellers</h1>    
+      <div class="grid-items">
+        {% for object in cms.global.featured_books_bestsellers %}
+          {% set edition = object.editions|first %}          
+          {% set show_date = 'no' %}
+          {% include "templates/partials/format-books-grid.html"  with show_date %}
+        {% endfor %}        
+      </div>
+  {% endblock %}

@@ -1,0 +1,50 @@
+{% extends "templates/partials/base.html" %}
+{% set page_name = 'Books' %}
+{% block hero %}{# //let page types overide the hero inner element, even though much of it is conditionally determined #}
+  {% include "templates/partials/hero-search.html" %}
+{% endblock %}
+{% block title %}{% parent %} - {{ page_name }}{% endblock %}
+{% block content %}
+{% set current_date = now|date('U') %}
+{% set books = cms.book|where('editions') %}
+{% set books = books|sort('publication_date', true) %}
+{% set series = cms.series %}
+
+<div class="local-nav"><!--  //Filter for the content below -->
+  <div class="interior">
+    {# <i class="icon-filter"></i> #}
+    <ul class="button-group accordion">
+    <li id="filter-none" class="button"><a href="/books/" class="button">New & Forthcoming</a></li> 
+      <li id="filter-authors"><a href="/books/fiction/" class="button">Fiction</a></li>
+      <li id="filter-translators"><a href="/books/nonfiction/" class="button">Nonfiction</a></li>
+      <li id="filter-editors"><a href="/books/poetry/" class="button">Poetry</a></li>      
+      <li id="filter-contributors"><a href="/books/theater/" class="button">Theater</a></li>
+      {% for object in series %}
+      <li><a href="{{ url(object) }}" class="button">{{ object.name }}</a></li>
+    {% endfor %}
+    </ul>
+    <ul class="button-group" style="float:right;">
+     <li class="button" ><a href="/books/all/" class="button">Complete List</a></li> 
+
+    </ul>
+    </div>
+  </div>
+ 
+
+  
+
+
+
+
+  <div id="section0" class="layout-page">
+    <section class="content-primary">
+      <div id="tipue_search_content"></div>
+      {% block books_list %}
+      {% endblock %}
+    </section>
+  </div>
+{% endblock %}
+{% block scripts_extra %}
+    {# DO NOT MINIFY THIS FILE #}
+  <script src="/.wh/searchjson.js"></script>
+{% endblock %}    

@@ -12,12 +12,12 @@
 
   <div class="hero-inner">
     <div class="hero-copy">
-      {% if getCurrentUrl() == '/books/' %}
+      {% if getCurrentUrl() == '/books/all/' %}
+        <input class="search" type="search" placeholder="filter" style="display:inline-block;" onclick="trigger()" />
+      {% else %}
         <form action="/books/" class="search-form" method="get" data-search-index="false" style="padding-bottom:0;">
           <input class="search" type="search" placeholder="search" id="tipue_search_input" name="q" style="display:inline-block;">
         </form>
-      {% else %}
-        <input class="search" type="search" placeholder="Filter" style="display:inline-block;" onclick="trigger()" />
       {% endif %}
     </div>
   </div>

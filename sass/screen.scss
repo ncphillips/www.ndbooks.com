@@ -21,6 +21,7 @@
 
 // Modules, unordered
 @import
+  "modules/accordian",
   "modules/utilities-accessibility",
   "modules/article-authors",
   "modules/book-page-styles", // FOR AUTHOR PAGES
@@ -28,6 +29,7 @@
   "modules/cards",
   "modules/colors",
   "modules/content-blocks", // blog nav
+  "modules/expander", 
   "modules/flex-boxes",
   /////////////////////"modules/flex-boxes-home",
   "modules/font-icons", //modify font icons

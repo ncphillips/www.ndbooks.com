@@ -154,6 +154,10 @@ header.navigation {
     font-weight: 500; //BPNY
     text-transform: lowercase;
 
+    a.active {
+      color: #fff;//lighten($red, 15%);
+    }
+
     :focus {
       color: white;
     }
