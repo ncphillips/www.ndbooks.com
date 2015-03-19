@@ -1,5 +1,7 @@
 {% extends "templates/books/base.html" %}
   {% block books_list %}
+  {% set forthcoming_books = books|where('show_in_forthcoming') %}      
+  {% set forthcoming_books = forthcoming_books|sort('publication_date') %}      
 
     <h1>New & Forthcoming Books</h1>    
 
@@ -13,8 +15,8 @@
           {% include "templates/partials/format-books-grid.html"  with show_date  %}
         {% endif %}
       {% endfor %}
-      {% set forthcoming_books = books|where('show_in_forthcoming') %}      
-      {% for object in forthcoming_books|sort('publication_date') %}
+      
+      {% for object in forthcoming_books|slice(0,50) %}
         {% set edition = object.editions|first %}          
         {% set publication_date = object.publication_date %}
         {% set publication_date_unix = publication_date|date('U') %}

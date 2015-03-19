@@ -16,7 +16,7 @@
     {% set books = global.featured_books_home %}
     {% set now = Date() %}
     {% set current_date = now|date('U')%}
-    {% set events = cms.event %}
+    {% set events = cms.event|where('featured') %}
     {% set events = events|sort('start_date') %}
     {% set event_date = events.start_date|date('U') %}
     {% set home = cms.homepage %}
@@ -24,7 +24,7 @@
     {% if events %}
       <ul class="large" style="margin:4em auto;">
           
-          {% for event in events %}        
+          {% for event in events|slice(0,30) %}        
             {% set event_date = event.start_date|date('U') %}
             {% if event.start_date && event_date > current_date %}                
             <li class="centered">
