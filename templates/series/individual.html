@@ -17,11 +17,8 @@
     {% for object in books|slice(0,1250) %}
       {% set edition = object.editions|first %}          
       {% set publication_date = object.publication_date %}
-      {% set publication_date_unix = publication_date|date('U') %}
       {% set show_date = 'yes' %}
-      {% if publication_date_unix < current_date  %}
-        {% include "templates/partials/format-books-grid.html"  with show_date  %}
-      {% endif %}
+        {% include "templates/partials/format-books-grid.html"  with show_date  %}      
     {% endfor %}
   </div>
 {% endblock %}
