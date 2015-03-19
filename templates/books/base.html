@@ -10,27 +10,23 @@
 {% set books = cms.book|where('editions') %}
 {% set books = books|sort('publication_date', true) %}
 {% set series = cms.series %}
-
-<div class="local-nav"><!--  //Filter for the content below -->
-  <div class="interior">
-    {# <i class="icon-filter"></i> #}
-    <ul class="button-group accordion">
-    <li id="filter-none" class="button"><a href="/books/" class="button">New & Forthcoming</a></li> 
-      <li id="filter-authors"><a href="/books/fiction/" class="button">Fiction</a></li>
-      <li id="filter-translators"><a href="/books/nonfiction/" class="button">Nonfiction</a></li>
-      <li id="filter-editors"><a href="/books/poetry/" class="button">Poetry</a></li>      
-      <li id="filter-contributors"><a href="/books/theater/" class="button">Theater</a></li>
-      {% for object in series %}
-      <li><a href="{{ url(object) }}" class="button">{{ object.name }}</a></li>
-    {% endfor %}
-    </ul>
-    <ul class="button-group" style="float:right;">
-     <li class="button" ><a href="/books/all/" class="button">Complete List</a></li> 
-
-    </ul>
+  <div class="local-nav"><!--  //Filter for the content below -->
+    <div class="interior">
+      <ul class="button-group accordion">
+        <li class="button"><a href="/books/" class="button">New & Forthcoming</a></li> 
+        <li><a href="/books/fiction/" class="button">Fiction</a></li>
+        <li><a href="/books/nonfiction/" class="button">Nonfiction</a></li>
+        <li><a href="/books/poetry/" class="button">Poetry</a></li>      
+        <li><a href="/books/theater/" class="button">Theater</a></li>
+        {% for object in series %}
+          <li><a href="{{ url(object) }}" class="button">{{ object.name }}</a></li>
+        {% endfor %}
+      </ul>
+      <ul class="button-group" style="float:right;">
+       <li class="button" ><a href="/books/all/" class="button">Complete List</a></li> 
+      </ul>
     </div>
-  </div>
- 
+  </div> 
   <div id="section0" class="layout-page">
     <section class="content-primary">
       <div id="tipue_search_content"></div>
@@ -39,11 +35,8 @@
       {% endblock %}
     </section>
   </div>
-  </div><!-- //#container-filter -->
+</div><!-- //#container-filter -->
 {% endblock %}
 {% block scripts_extra %}
-    {# DO NOT MINIFY THIS FILE #}
-  {# <script src="/.wh/searchjson.js"></script> #}
-
-  <script src="/static/javascript/dist/scripts-listjs.min.js" async></script>
+    <script src="/static/javascript/dist/scripts-listjs.min.js" async></script>
 {% endblock %}    
