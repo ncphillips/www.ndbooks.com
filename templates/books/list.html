@@ -13,8 +13,8 @@
           {% include "templates/partials/format-books-grid.html"  with show_date  %}
         {% endif %}
       {% endfor %}
-    
-      {% for object in books|slice(0,55) %}      
+      {% set forthcoming_books = books|where('show_in_forthcoming') %}      
+      {% for object in forthcoming_books|sort('publication_date') %}
         {% set edition = object.editions|first %}          
         {% set publication_date = object.publication_date %}
         {% set publication_date_unix = publication_date|date('U') %}
@@ -24,7 +24,6 @@
         {% endif %}
       {% endfor %}
     </div>
-
     <h1>Bestsellers</h1>    
       <div class="grid-items list-filter">
         {% for object in cms.global.featured_books_bestsellers %}
