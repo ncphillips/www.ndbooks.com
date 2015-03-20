@@ -3,7 +3,7 @@ $navigation-background: $blackest;//;
 header.navigation {
 // Set up local variables for the navigation
   $nav-topbar-logo-fallback:'/static/images/ndlogo-test_2.png';
-  $nav-topbar-logo: '/static/images/nd-logo-777.svg';
+  $nav-topbar-logo: '/static/images/nd-logo-888.svg';
   $navigation-color: transparentize(white, 0.3);
   $navigation-color-hover: white;
   $navigation-height: 60px !default;
@@ -20,7 +20,7 @@ header.navigation {
   background-color: transparent;//$navigation-background;
   border-bottom: none;//1px solid darken($navigation-background, 10);
   font-family: $sans-serif;
-  font-weight: 500;
+  font-weight: $brand-font-weight;
   height: $navigation-height;
   height: auto;
   width: 100%;
@@ -44,7 +44,7 @@ header.navigation {
     top: 0;
     right: 4px;
     font-family: $header-font-family;
-    font-weight: 700;
+    font-weight: $brand-font-weight;
     line-height: $navigation-height;
     margin: 0;
     padding-right: 1em;
@@ -63,6 +63,7 @@ header.navigation {
     @include span-columns(12);
     @include row(table);
     font-family: $brand-font-family;
+    font-weight: $brand-font-weight;
   }
 
   // ul { ???
@@ -91,7 +92,7 @@ header.navigation {
 
     background-repeat: no-repeat;
     background-position: center 1em;
-    font-weight: 500;
+    font-weight: $brand-font-weight;
     color: darken($navigation-color, 5%);
     // width: 93px;
     // margin:auto;
@@ -151,7 +152,7 @@ header.navigation {
     text-align: right;
     width: 100%;
     z-index: 9999;
-    font-weight: 500; //BPNY
+    font-weight: $brand-font-weight; //BPNY
     text-transform: lowercase;
 
     a.active {
