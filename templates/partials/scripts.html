@@ -1,9 +1,12 @@
-{% if item.gallery.length => 1 %} {# //If we have a gallery with more than one image we'll be using the slideshow script #}
+<script src="/static/javascript/dist/scripts.min.js" async></script>
+ {#
+{% if item.gallery.length => 1 %}
+ //If we have a gallery with more than one image we'll be using the slideshow script 
   <script src="/static/javascript/dist/scripts-slideshow.js" async></script>
 {% else %}
   <script src="/static/javascript/dist/scripts.min.js" async></script>
 {% endif %}
-
+#}
 
 
 {# <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-539e3ee23fa64675" async="async" async></script> #}

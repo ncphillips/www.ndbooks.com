@@ -44,8 +44,17 @@
       {{ item.copy|safe }}
 
 
-      
     </div>
+
+       {% if item.gallery.length => 0 %}
+        {% for image in item.gallery %}
+        <div style="text-align:center;margin:1em auto;max-width:100%;{% if image.width %}width:{{ image.width }}px;{% endif %}">
+          <img src="{{ image|imageSize(1092, auto) }}" style="max-width:100%;"> 
+          {% if image.caption %}<br /><small>{{ image.caption }}</small>{% endif %}
+          </div>
+          
+        {% endfor %}        
+      {% endif %}
   </article>
 </div>
       {# LINKS TO PREV NEXT BOOKS #}
