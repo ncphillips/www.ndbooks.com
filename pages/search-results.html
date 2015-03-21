@@ -1,6 +1,11 @@
 {% extends "templates/partials/base.html" %}
 {% block title %}{% parent %} - {{ item.name }}{% endblock %}
 {% block body_attributes %}data-search-index="false"{% endblock %}
+
+{% block head_extra %}
+    {# DO NOT MINIFY THIS FILE #}
+  <script src="/.wh/searchjson.js"></script>
+{% endblock %}    
 {% block content %}
   <div class="has-layout layout-page">
     <article class="hentry">
@@ -21,7 +26,3 @@
     </article>
   </div>
 {% endblock %}
-{% block scripts_extra %}
-    {# DO NOT MINIFY THIS FILE #}
-  <script src="/.wh/searchjson.js"></script>
-{% endblock %}    

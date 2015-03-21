@@ -27,19 +27,26 @@ module.exports = function(grunt) {
         'static/javascript/jquery.unveil.js',
         'static/javascript/site-unveil.js',
         'static/javascript/site-smooth-scroll.js',                 
-        'static/javascript/site-js-menu.js',
-        'static/javascript/tipue.js',
-        'static/javascript/site-tipue.js',                          
+        'static/javascript/site-js-menu.js',        
         'static/javascript/site.js'         
       ],
       dest: 'static/javascript/dist/scripts.js'
     },
-    slideshow_w_jquery: {
+    slideshowJquery: {
       src: [
       'bower_components/jquery/dist/jquery.min.js',
-      '/bower_components/jquery-cycle2/build/jquery.cycle2.min.js'
+      'bower_components/jquery-cycle2/build/jquery.cycle2.min.js'
       ],
       dest: 'static/javascript/dist/scripts-slideshow.js'
+    },
+    tipueJquery:{
+      src: [
+        'bower_components/jquery/dist/jquery.min.js',
+        'static/javascript/site-js-menu.js',
+        'static/javascript/tipue.js',
+        'static/javascript/site-tipue.js'                       
+      ],
+      dest: 'static/javascript/dist/scripts-tipue.js'
     },
     velocity: {
       src: ['bower_components/velocity/velocity.min.js','bower_components/velocity/velocity.ui.min.js'],
@@ -75,7 +82,8 @@ module.exports = function(grunt) {
       files: {
         'static/javascript/dist/scripts.min.js': ['static/javascript/dist/scripts.js'],
         'static/javascript/dist/scripts-listjs.min.js': ['static/javascript/dist/scripts-listjs.js'],
-        'static/javascript/dist/scripts-masonry.min.js': ['static/javascript/dist/scripts-masonry.js']
+        'static/javascript/dist/scripts-masonry.min.js': ['static/javascript/dist/scripts-masonry.js'],
+        'static/javascript/dist/scripts-tipue.min.js': ['static/javascript/dist/scripts-tipue.js']
       }
     }
   },
