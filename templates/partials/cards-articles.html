@@ -4,9 +4,9 @@
 <div class="cards">
 {% for article in articles %}
   <div class="card">
-  {% if article.featured_image %}
+  {% if article.gallery %}
     <div class="card-image">
-      <img src="{{ article.featured_image|imageCrop(340) }}" alt="">
+      <img src="{{ article.gallery|first|imageCrop(340) }}" alt="">
     </div>
     {% endif %}
     <div class="card-header">
