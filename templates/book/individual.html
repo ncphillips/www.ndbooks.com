@@ -45,7 +45,7 @@
         </div>
         <div class="copy">   
           {% if series %}
-            <h2 class="center" style="margin-top:1em;"><a href="{{ url(series) }}" class="inverse-link-color">{{ series.name}}</a> <small>series</small></h2>            
+            <h2 class="center" style="margin-top:1em;"><a href="{{ url(series) }}" class="inverse-link-color">{{ series.name }}</a> <small>series</small></h2>            
           {% endif %}
           {% if reviews_of_this_book %}
             <blockquote class="review presentational" >
@@ -68,6 +68,7 @@
                 
                 <h5 class="red">Available {{ publication_date|date('F jS, Y') }}</h5>
               {% endif %}
+          </div>
         </div>
       </section>{#  // END TOP ROW #}
 
@@ -118,9 +119,14 @@
 
 {#     <hr class="section-divider" style="margin-bottom:8em;" /> #}
 
+        {% if editions %}
+          {% include "templates/partials/format-book-metadata.html" %}
+        {% endif %}
+
+
     {# 4TH ROW AUTHOR PHOTO #}
-      <div class="page-item shape case-2">
-         {# style="background-image:url(/static/images/logo-ndbooks-aaa.svg);background-repeat:no-repeat;background-position:center center;" #}
+      <div class="page-item shape case-2" style="background-image:url(/static/images/logos-archive/logo-ndbooks-aaa.svg);background-repeat:no-repeat;background-position:center center;">
+         
         {% if authors %}
           {% for object in authors %}            
               <div class="author-block">
@@ -139,12 +145,12 @@
                   <a href="{{ url(object) }}" class="author-photo">
                     {% include "templates/partials/format-image-medium.html" %}
                   </a>                
-              </div>
-            
+              </div>            
           {% endfor %}
         {% endif %}
-        
         </div>
+
+
 
       {# 5TH ROW MORE REVIEWS #}
       <div class="has-layout layout-book">
