@@ -22,24 +22,33 @@ module.exports = function(grunt) {
  concat: {
     dist: {
       src: [
-        'bower_components/jquery/dist/jquery.min.js', 
+        'bower_components/jquery/dist/jquery.min.js', //using only with needed scripts
         'bower_components/jquery.smooth-scroll/jquery.smooth-scroll.min.js',
-        'static/javascript/jquery.unveil.js',
-        'static/javascript/site-unveil.js',
+        'static/javascript/jquery.unveil.js',//relace with lazy load
+        'static/javascript/site-unveil.js', //relace with lazy load
         'static/javascript/site-smooth-scroll.js',                 
         'static/javascript/site-js-menu.js',        
         'static/javascript/site.js'         
       ],
       dest: 'static/javascript/dist/scripts.js'
     },
-    slideshowJquery: {
+    scripts_requiring_jquery: { //combine all the jquery dependent scripts here instead of using them seperately
+      src: [      
+      'bower_components/jquery/dist/jquery.min.js',
+      'bower_components/jquery-cycle2/build/jquery.cycle2.min.js',
+      'static/javascript/tipue.js',
+      'static/javascript/site-tipue.js'                       
+      ],
+      dest: 'static/javascript/dist/scripts-jquery.js'
+    },
+    slideshowJquery: { //use on article page only. may use with above instead
       src: [
       'bower_components/jquery/dist/jquery.min.js',
       'bower_components/jquery-cycle2/build/jquery.cycle2.min.js'
       ],
       dest: 'static/javascript/dist/scripts-slideshow.js'
     },
-    tipueJquery:{
+    tipueJquery:{ // using on search page ONLY
       src: [
         'bower_components/jquery/dist/jquery.min.js',
         'static/javascript/site-js-menu.js',
@@ -47,10 +56,6 @@ module.exports = function(grunt) {
         'static/javascript/site-tipue.js'                       
       ],
       dest: 'static/javascript/dist/scripts-tipue.js'
-    },
-    velocity: {
-      src: ['bower_components/velocity/velocity.min.js','bower_components/velocity/velocity.ui.min.js'],
-      dest: 'static/javascript/dist/scripts-velocity.js'
     },
     listjs: {
       src: [
@@ -81,9 +86,11 @@ module.exports = function(grunt) {
     my_target: {
       files: {
         'static/javascript/dist/scripts.min.js': ['static/javascript/dist/scripts.js'],
+        'static/javascript/dist/scripts-base.min.js': ['static/javascript/dist/scripts-base.js'],
         'static/javascript/dist/scripts-listjs.min.js': ['static/javascript/dist/scripts-listjs.js'],
         'static/javascript/dist/scripts-masonry.min.js': ['static/javascript/dist/scripts-masonry.js'],
-        'static/javascript/dist/scripts-tipue.min.js': ['static/javascript/dist/scripts-tipue.js']
+        'static/javascript/dist/scripts-tipue.min.js': ['static/javascript/dist/scripts-tipue.js'], 
+        'static/javascript/dist/scripts-jquery.min.js': ['static/javascript/dist/scripts-jquery.js']
       }
     }
   },

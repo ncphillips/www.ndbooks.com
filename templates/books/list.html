@@ -1,10 +1,13 @@
 {% extends "templates/books/base.html" %}
+{% block head_extra %}
+  {% parent %}
+  <link rel="prefetch" href="/books/poetry/" />
+  <link rel="prefetch" href="/books/fiction/" />
+{% endblock %}
   {% block books_list %}
   {% set forthcoming_books = books|where('show_in_forthcoming') %}      
   {% set forthcoming_books = forthcoming_books|sort('publication_date') %}      
-
     <h1>New & Forthcoming Books</h1>    
-
     <div class="grid-items list-filter">
       {% for object in books|slice(0,25) %}
         {% set edition = object.editions|first %}          
@@ -15,7 +18,6 @@
           {% include "templates/partials/format-books-grid.html"  with show_date  %}
         {% endif %}
       {% endfor %}
-      
       {% for object in forthcoming_books|slice(0,50) %}
         {% set edition = object.editions|first %}          
         {% set publication_date = object.publication_date %}

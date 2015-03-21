@@ -62,7 +62,8 @@
 
 
   {# //END head #}
-  {% block head_extra %}{% endblock %}
+  {% block head_extra %}
+  {# // TODO: DOES THIS PREV NEXT GO HERE IN HEAD EXTRA? #}
   {% set prev = prevItem(item, 'publish_date', true) %}
   {% set next = nextItem(item, 'publish_date', true) %}
     {% if prev %}
@@ -71,7 +72,7 @@
     {% if next %}
       <link rel="prefetch" href="{{ url(next) }}" />
     {% endif %}
-    {% block head_extra %}{% endblock %}
+    {% endblock %}
   </head>
   {# body classes: if splash_image, category, theme, page class #}
   <body id="container" class="{% if item.theme.name %}{{ item.theme.name }}{% endif %}{% if item._type %} {{ item._type }}{% endif %}{% if item.page_layout %}-{{ item.page_layout|replace('.html','') }}{% endif %}{% if item.splash_image %} splash{% endif %}{% block body_class %}{% endblock %}" {% block body_attributes %}{% endblock %}>
