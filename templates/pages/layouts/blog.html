@@ -44,13 +44,16 @@
       <aside class="theme-blue-lighter">
           <h2>Mentioned</h2>
           {% for article in articles %}
-            {% for object in article.related_book %}
-              <li><a href="{{ url(article) }}">{{ object.name}}</a></li>
-            {% endfor %}
-            {% for object in article.related_author %}
-              <li><a href="{{ url(article) }}">{{ object.name}}</a></li>
-            {% endfor %}
-            <hr />
+            {% for object in article.related_book %}              
+              {% spaceless %}
+                <li><a href="{{ url(article) }}">{{ object.name}}</a></li>
+              {% endspaceless %}
+              {% endfor %}
+              {% for object in article.related_author %}
+                {% spaceless %}
+                  <li><a href="{{ url(article) }}">{{ object.name}}</a></li>
+                {% endspaceless %}
+              {% endfor %}
           {% endfor %}          
         </aside>
     </section>
