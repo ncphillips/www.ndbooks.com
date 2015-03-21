@@ -103,36 +103,7 @@
 // }
 
 
-/// Experimental mods
-//$splash-height: 500px !default;
-$splash-height: 500px !default;
-body.splash .hero {
-  height:$splash-height;
-}
 
-body.splash.height-200 .hero{
-      height: 200px;
-    }
-    body.splash.height-400 .hero{
-      height: 400px;
-    }
-    body.splash.height-500 .hero{
-      height: 500px;
-    }
-
-body.splash.height-200 .content_splash{
-      margin-top: 200px;
-    }
-    body.splash.height-400 .content_splash{
-      margin-top: 400px;
-    }
-    body.splash.height-500 .content_splash{
-      margin-top: 500px;
-    }
-body.blog .hero {
-  //overflow: hidden;
-  position:relative;
-}
 h1.page-heading {
   //position: absolute;
   font-size:6em !important;
