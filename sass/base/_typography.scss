@@ -180,6 +180,9 @@ cite {
 .brand {
   font-family: $brand-font-family;
 }
-.small {
+.small, ul.small {
   font-size: .875em;
+}
+.text-right {
+  text-align: right;
 }

@@ -3,9 +3,45 @@
   @include row();
 }
 
+.shifted-to-center {
+  display:block;
+  @include media($medium-screen-up) { 
+  margin-left:60%;  
+  }
+
+}
+
+ul.inline-table li {
+  margin:0 0 1em 0;
+  display: inline-block;
+}
+.col-05 {
+  @include span-columns(1 of 6);
+}
+.col-1 {
+  @include span-columns(1 of 6);
+  
+    @include omega();   
+}
+.col-15 {
+  @include span-columns(1.25 of 6);
+  
+    @include omega();   
+}
+
+.col-2 {
+
+  @include span-columns(2 of 6);
+  
+    @include omega();   
+}
+
 .spaced-top-bottom-2em {
-margin-top: 2em;
-margin-bottom: 2em;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+.spaced-bottom-2em {
+  margin-bottom: 2em;
 }
 
 .interior {
@@ -315,9 +351,7 @@ body.post .content {
   // }
 
   //============================ book-splash for individual book pages ================================================\\
-  section,
-  section.book-splash .cover,
-  section.book-splash .copy {
+  section, .cover, .copy {
     @include span-columns(12);
     @include pad(2em);
   }
@@ -325,8 +359,7 @@ body.post .content {
     .quotes blockquote {
       padding: 2em 10em;
     }
-    section.book-splash .cover,
-    section.book-splash .copy {
+    .cover, .copy {
       @include span-columns(6 of 12);
       text-align: center;
     }

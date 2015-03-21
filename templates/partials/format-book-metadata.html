@@ -1,39 +1,43 @@
-<div class="row"  id="{{object.slug}}">
-  <section class="spaced-top-bottom-2em">
-      {% set editions = item.editions %}
+
+<div id="buy-links">
+
+<div class="row row-center"  id="{{object.slug}}">
+  <section class="interior spaced-bottom-2em">
+      {% set editions = editions %}
       {% if item.editions.for_sale %}
         {% set editions = editions|exclude('for_sale', false) %}
         {% endif %}            
 
       {% for row in editions %}
-        <ul class="inline table-minimal">
+
+        <ul class="table-minimal inline-table small" style="margin-left:20%;">
           {% if row.type %}
-            <li>
+            <li class="col-05 text-right">
               <strong>{{ row.type }}</strong>
             </li>
           {% endif %}
           {% if row.isbn %}
-            <li>
-              <strong>ISBN: </strong>{{ row.isbn }}
+            <li class="col-15">
+              <strong>&nbsp;ISBN: </strong>{{ row.isbn }}
             </li>
           {% endif %}
           {% if row.price_us %}
-            <li>
+            <li class="col-1">
               <strong>Price US: </strong>{{ row.price_us }}
             </li>
           {% endif %}
           {% if row.price_cn %}
-            <li>
+            <li class="col-1">
               <strong>Price CN: </strong>{{ row.price_cn }}
             </li>
           {% endif %}
           {% if row.trim_size %}
-            <li>
+            <li class="col-1">
               <strong>Trim Size: </strong>{{ row.trim_size }}
             </li>
           {% endif %}
           {% if row.page_count %}
-            <li>
+            <li class="col-05">
               <strong>Page Count: </strong>{{ row.page_count }}
             </li>
           {% endif %}
