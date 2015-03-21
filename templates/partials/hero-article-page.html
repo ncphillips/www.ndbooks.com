@@ -1,9 +1,9 @@
  <div class="hero">    
     {% include "templates/partials/navigation.html" %}
-      {% if item.featured_image %}
+      {% if item.gallery %}
       
         <div class="hero-inner" style="
-  background-image: url({{ item.featured_image|imageSize(1600) }});background-position:center {% if item.featured_image_position %}{{ item.featured_image_position }}{% else %}center{% endif %};background-size:100%;{% if item.banner_height %}height:{{ item.banner_height }}px;{% endif %}min-height:400px;background-repeat: no-repeat;">
+  background-image: url({{ item.gallery|first|imageSize(1220,auto) }});background-position:center {% if item.featured_image_position %}{{ item.featured_image_position }}{% else %}center{% endif %};background-size:100%;{% if item.banner_height %}height:{{ item.banner_height }}px;{% endif %}min-height:400px;background-repeat: no-repeat;">
 
 
   
@@ -33,3 +33,15 @@
 
 
 </div> 
+
+
+{# 
+  {% if item.gallery.length => 0 %}
+    <div class="hero-inner">
+      <div class="cycle-slideshow">        
+        {% for image in item.gallery %}
+          <img src="{{ image|imageSize(1220, auto) }}">      
+        {% endfor %}        
+      </div>
+    </div>
+  {% endif %} #}

@@ -29,6 +29,7 @@
     "masonry": "~3.2.2",
     "bower": "*",
     "install": "~1.0.4",
-    "imagesloaded": "~3.1.8"
+    "imagesloaded": "~3.1.8",
+    "jquery-cycle2": "~2.1.6"
   }
 }

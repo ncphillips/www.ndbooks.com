@@ -30,6 +30,7 @@
   width: 1em;
   margin-right: .2em;
   text-align: center;
+
   /* opacity: .8; */
  
   /* For safety - reset parent styles, that can break glyph codes*/
@@ -48,6 +49,8 @@
  
   /* Uncomment for 3D effect */
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+
+  vertical-align: middle; ///////////////////////////////////////////////////////////////////////////don't forget to replace
 }
  
 .icon-ion-link:before { content: '\e800'; } /* '' */

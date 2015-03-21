@@ -34,6 +34,13 @@ module.exports = function(grunt) {
       ],
       dest: 'static/javascript/dist/scripts.js'
     },
+    slideshow_w_jquery: {
+      src: [
+      'bower_components/jquery/dist/jquery.min.js',
+      '/bower_components/jquery-cycle2/build/jquery.cycle2.min.js'
+      ],
+      dest: 'static/javascript/dist/scripts-slideshow.js'
+    },
     velocity: {
       src: ['bower_components/velocity/velocity.min.js','bower_components/velocity/velocity.ui.min.js'],
       dest: 'static/javascript/dist/scripts-velocity.js'

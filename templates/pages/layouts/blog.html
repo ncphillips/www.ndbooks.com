@@ -5,32 +5,19 @@
   {% set current_date = now |date('U') %}
   {% set articles = cms.article %}
   {% set articles = articles|sort('publish_date', true) %}
+  {% set articles = paginate(articles, 10) %}
   {% set events = cms.event %}
   {% set events = events|sort('start_date') %}
 {% block title %}{% parent %} - {{ page_name }}{% endblock %}
 {% block content %}
-  <div id="section0" class="layout-page-2-column">
+  <div id="section0" class="layout-page-2-columnTK layout-page-2-column-wide-secondary">
     <section class="content-primary">
-      {% for article in articles|slice('0','5') %}
-        <a href="{{ url(article) }}" class="article" style="background-color: white;">
-          <div class="heading article-background"{% if article.featured_image %} style="background-position:center center;background-image:url({{ article.featured_image|imageCrop(340) }});background-size:cover;"{% endif %}>
-            <h3>
-              {{ article.name }} <i class="icon-right-circled"></i>
-            </h3>
-          </div>
-          <div class="lede">
-            {% if article.lede %}
-              <div class="excerpt">
-                {% filter replace('<(?=p)|<(?=/p)/(?=p)|p>', '', 'g') %}{{ article.lede|markdown }}{% endfilter %}
-              </div>
-            {% else %}
-              <blockquote class="quote_excerpt">              
-                {{ article.excerpt }}
-              </blockquote>
-            {% endif %}
-          </div>
-        </a>
-      {% endfor %}
+      <div class="cards">
+        {% for article in articles %}
+          {% include "templates/partials/format-cards-articles.html" %}
+        {% endfor %}
+      </div>
+      <div class="pagination">{% include "templates/partials/paginator.html" %}</div>
     </section>
     <section class="content-secondary">
       <aside class="theme-social">
@@ -54,9 +41,18 @@
       <aside class="theme-dark-gray script-only">
         {% include 'templates/partials/social-twitter-stream.html' %}
       </aside>
+      <aside class="theme-blue-lighter">
+          <h2>Mentioned</h2>
+          {% for article in articles %}
+            {% for object in article.related_book %}
+              <li><a href="{{ url(article) }}">{{ object.name}}</a></li>
+            {% endfor %}
+            {% for object in article.related_author %}
+              <li><a href="{{ url(article) }}">{{ object.name}}</a></li>
+            {% endfor %}
+            <hr />
+          {% endfor %}          
+        </aside>
     </section>
-    <div style="width:100%;clear:both;margin:4em auto;height:1px;">{# divider #}</div>
-    {% set articles = articles|sort('publish_date', true)|slice('5','25') %}
-    {% include "templates/partials/format-cards-articles.html" %}
   </div>  
 {% endblock %}
