@@ -22,6 +22,10 @@ ul.button-group li:hover {
   color: $white;
   cursor: pointer;
 }
+ul.button-group li a:hover {
+  color: $white;
+  cursor: pointer;
+}
 
 
 button, input[type="submit"] {

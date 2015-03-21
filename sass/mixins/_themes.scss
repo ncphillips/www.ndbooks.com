@@ -23,7 +23,7 @@
       color: lighten($text-color, 14%);
     }
     a:hover {
-      color: darken($text-color, 24%);
+      color: lighten($text-color, 25%);
     }
     blockquote {
       color: lighten($text-color, 15%);
