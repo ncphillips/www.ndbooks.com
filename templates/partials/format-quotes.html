@@ -1,11 +1,11 @@
 {% spaceless %}
 {{ review.copy|markdown|replace(' ([^ ]+)$', '&nbsp;$1') }}
 — 
-{% if review.author %}{#  if the reviewer is internal (item.author) #}
-  <a href="{{ url(review.author) }}">{{ review.author.name }}</a>
+{% if review.internal_author %}{#  if the reviewer is internal (item.author) #}
+  <a href="{{ url(review.author) }}">{{ review.internal_author.name }}</a>
 {% else %}{#  else just use the name field #}
   {% filter replace('<(?=p)|<(?=/p)/(?=p)|p>', '', 'g') %}
-    {{ review.name|markdown }}
+    {{ review.attribution|markdown }}
   {% endfilter %} 
 {% endif %}
 {% if review.review_subject_author || review.book_this_review_is_about %}{#  if the review is related to an author or book, show 'on' #}
