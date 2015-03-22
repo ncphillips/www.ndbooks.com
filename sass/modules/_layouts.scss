@@ -306,10 +306,6 @@ body.post .content {
     /////////////////////////////////@include pad(2em);
     position: relative;
   }
-  // h1.entry-title {
-  //   font-size: 90vw;
-  // }
-
   //============================ book-splash for individual book pages ================================================\\
   .cover, .copy {
     @include span-columns(12);
