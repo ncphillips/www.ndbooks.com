@@ -13,17 +13,25 @@
   "mixins/themes", //color schemes for hero unit
   "modules/mixins"; //where are we using this? 
 
-
-// VENDRO
+// VENDOR
 @import
-"vendor/fontello-ion",
-"vendor/fonts"; //typography.com  
+  "vendor/fontello-ion",
+  "vendor/fonts"; //typography.com  
 //"vendor/cloud-typography-archer600";
+
+
+// CORE MODULES, also see base/typography, and base/variables
+@import 
+  "modules/footer",
+  "modules/hero-unit",
+  "modules/layouts",
+  "modules/nav-sliding-menu",
+  "modules/nav-top",
+  "modules/themes"; //based on themes mixins
 
 // Modules, unordered
 @import
   "modules/accordian",
-  "modules/utilities-accessibility",
   "modules/article-authors",
   "modules/book-page-styles", // FOR AUTHOR PAGES
   "modules/buttons", // manipulates images
@@ -32,67 +40,23 @@
   "modules/content-blocks", // blog nav
   "modules/expander", 
   "modules/flex-boxes",
-  /////////////////////"modules/flex-boxes-home",
-  "modules/font-icons", //modify font icons
-  "modules/footer",
+  "modules/font-icons-mods", //modify font icons
   "modules/forms",
   "modules/grid-items",
   "modules/grid-authors-page", //AUTHOR LISTING
-  "modules/hero-unit",
   "modules/images", // manipulates images
   "modules/images-covers", // manipulates images
   "modules/layout-comments", //BLOG PAGE
-  "modules/layouts",
-  "modules/layouts-rows-alternating", 
+  "modules/layouts-rows-alternating", //books display with synopsis
   "modules/lists",
-  "modules/nav-top",
-  ////////////////////////////////// delete this"modules/nav-side", // blog nav
-  "modules/nav-sliding-menu",
+  "modules/nav-below-hero",
   "modules/pagination", //need Transition
   "modules/prev-next", //need Transition
   "modules/quotes",
   "modules/search",
   "modules/social",
+  "modules/stats-metadata",
   "modules/tables", //AUTHOR LISTING
-  /////////////////////////////////////"modules/tests", //usually empty
-  "modules/themes", //color for hero unit
-  "modules/utilities-text",
-  "modules/utilities"; // manipulates images
-  
-// body {
-//   background-color: $base-body-color-background;
-// }
-
-
-h4 a > .icon-right-circled {
-  font-size: $base-font-size * .5; // 16 * 1.5 = 24px
-  visibility: hidden;
-}
-h4 a:hover > .icon-right-circled {
-  visibility: visible;
-  @include animation(scale 1.0s ease-in, slide 2.0s ease);
-}
-
-
-// place when fleshed out
-
-.local-nav {
-  height: 3em;
-  width: 100%;
-  background-color: #ededed;
-  padding: 1.5em 2em 3.1em 2em;
-}
-
-.entry-content img {
-  position: relative;
-  margin-bottom: 0;
-}
-
-ul.pagination-list {
-  display: inline-block;
-  li {
-    display: inline-block;
-    list-style-type: none;
-    border: 1px solid #ddd;
-  }
-}
+  "modules/utilities",
+  "modules/utilities-accessibility",
+  "modules/utilities-text"; // manipulates images
