@@ -10,38 +10,37 @@
 
       {% for row in editions %}
 
-        <ul class="table-minimal inline-table small" style="margin-left:20%;">
+        <ul class="stats">
           {% if row.type %}
-            <li class="col-05 text-right">
-              <strong>{{ row.type }}</strong>
-            </li>
+            <h6 style="text-align:left;">{{ row.type }}</h6>
           {% endif %}
           {% if row.isbn %}
-            <li class="col-15">
-              <strong>&nbsp;ISBN: </strong>{{ row.isbn }}
+            <li>
+              {{ row.isbn }}<span>&nbsp;ISBN </span>
             </li>
           {% endif %}
           {% if row.price_us %}
-            <li class="col-1">
-              <strong>Price US: </strong>{{ row.price_us }}
+            <li>
+              {{ row.price_us }}<span>Price US</span>
             </li>
           {% endif %}
           {% if row.price_cn %}
-            <li class="col-1">
-              <strong>Price CN: </strong>{{ row.price_cn }}
+            <li>
+              {{ row.price_cn }}<span>Price CN</span>
             </li>
           {% endif %}
           {% if row.trim_size %}
-            <li class="col-1">
-              <strong>Trim Size: </strong>{{ row.trim_size }}
+            <li>
+              {{ row.trim_size }}<span>Trim Size</span>
             </li>
           {% endif %}
           {% if row.page_count %}
-            <li class="col-05">
-              <strong>Page Count: </strong>{{ row.page_count }}
+            <li>
+              {{ row.page_count }}<span>Page Count</span>
             </li>
           {% endif %}
         </ul>
+        <hr />
       {% endfor %}
   </section>
 </div>
