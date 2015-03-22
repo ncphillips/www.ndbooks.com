@@ -1,14 +1,18 @@
 {% extends "templates/books/base.html" %}
 {% block books_list %}
-{% if item.name == 'Fiction' %}
-  {% set books = cms.book|where('genre', 'Fiction') %}
-{% elseif item.name == 'Nonfiction' %}
-  {% set books = cms.book|where('genre', 'Nonfiction') %}
-{% elseif item.name == 'Poetry' %}
-  {% set books = cms.book|where('genre', 'Poetry') %}
-{% elseif item.name == 'Theater' %}
-  {% set books = cms.book|where('genre', 'Theater') %}
-{% endif %}
+  {% if item.name == 'Fiction' %}
+    {% set books = cms.book|where('genre', 'Fiction') %}
+    {% set page_name = 'Fiction' %}
+  {% elseif item.name == 'Nonfiction' %}
+    {% set books = cms.book|where('genre', 'Nonfiction') %}
+    {% set page_name = 'Nonfiction' %}
+  {% elseif item.name == 'Poetry' %}
+    {% set books = cms.book|where('genre', 'Poetry') %}
+    {% set page_name = 'Poetry' %}
+  {% elseif item.name == 'Theater' %}
+    {% set books = cms.book|where('genre', 'Theater') %}
+    {% set page_name = 'Theater' %}
+  {% endif %}
 {% set books = books|sort('publication_date', true) %}
 
   <h1>{{ item.name}} <small>{{ books.length }} books</small></h1>

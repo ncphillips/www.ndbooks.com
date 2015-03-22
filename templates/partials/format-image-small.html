@@ -1,5 +1,3 @@
-{% set image_backup = "/static/images/logo-ndbooks-180x180-opacity-13.png" %}
-
 {% if object.image %}
   {% set image =  object.image|imageCrop(180)  %}
 {% elseif object.image_file %}
@@ -9,9 +7,9 @@
 {% elseif item.image_file %}
   {% set image =  global.cdn_link + item.image_file  %}
 {% else %}  <!-- TODO: Replace with nicer looking placeholder -->
-  {% set image = image_backup %}
+  {% set image = '/static/images/logo-ndbooks-180x180-opacity-13.png' %}
 {% endif %}
 <noscript>
   <img src="{{ image }}" class="object-fit_cover" />
 </noscript> 
-<img src="{{ image_backup }}" data-src="{{ image }}" class="object-fit_cover transition" />
+<img src="/static/images/logo-ndbooks-180x180-opacity-13.png" data-src="{{ image }}" class="object-fit_cover transition" />
