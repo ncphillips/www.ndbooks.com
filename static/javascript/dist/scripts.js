@@ -106,8 +106,7 @@ $('a').smoothScroll({offset: -120,
     e.preventDefault();
   });
 
-  
-
+document.documentElement.className = document.documentElement.className.replace("no-js","js");
 // BackgroundCheck.init({
 //   targets: '.overlay',
 //   images: '.featured_image'

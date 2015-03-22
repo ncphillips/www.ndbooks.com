@@ -28,18 +28,18 @@ hr.fancy {
   border-top: 5px solid $lightest-gray;
     @include border-radius(90%);
 }
-
-
-
 .sharing {
-margin-top: 4em;
+  margin-top: 4em;
 }
-
-
-.hidden-js, .hidden, .no-js {
+.hidden {
   display: none;
 }
-
+html.no-js .hidden-js {
+  visibility: hidden;
+}
+html.js .hidden-js {
+  visibility: visible;
+}
 #instantclick-bar {
   background: $red;
 }
