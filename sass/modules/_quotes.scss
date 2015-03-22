@@ -9,19 +9,26 @@ blockquote.review p {
 //font sizes
 
 #container-review-single, #container-review{
+  //using rem here to overcome the sizes imposed upon it by being within the hero unit
   font-size: .875em;
   p {
-   font-size: 1.4375rem;
+   font-size: 1.2rem;
    line-height: 1.4em;
+   @include media($medium-screen-up) {
+    font-size: 1.4375rem; 
+   }
   }
 }
 
 
 blockquote.presentational {
-  font-size: .875em;
-  p {
-    font-size: 1.5625rem;
-    line-height: 1.6em;
+  //font-size: .875em;
+    p {
+      font-size: 1.375;
+      @include media($medium-screen-up) {
+      font-size: 1.5625rem;
+      line-height: 1.6em;
+    }
   }
 }
 

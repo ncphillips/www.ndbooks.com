@@ -30,13 +30,6 @@ hr.fancy {
 }
 
 
-sup, sub {
-//@include adjust-font-size-to($kappa);
- vertical-align: baseline;
- position: relative;
- top: -0.4em;
-}
-sub { top: 0.4em; }
 
 .sharing {
 margin-top: 4em;
@@ -60,11 +53,6 @@ margin-top: 4em;
 }
 
 
-
-h1, h2, h3, h4, h5, h6 {
-  -ms-word-wrap: break-word;
-word-wrap: break-word;
-}
 .clear {
   clear: both;
 }

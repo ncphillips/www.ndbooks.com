@@ -22,7 +22,9 @@ h6 {
 }
 
 h1, .h1 {
+  @include media($medium-screen-up) {
   font-size: $h1-font-size;
+  }
 
 }
 
@@ -35,9 +37,11 @@ h1 small {
   }
 
 h2, .h2 {
-  font-size: $h2-font-size;
-  font-weight: 400;
-   
+  font-size: $h3-font-size;
+  @include media($small-screen-up) {
+    font-size: $h2-font-size;
+  }
+  font-weight: 400;   
 }
 
 
@@ -138,14 +142,20 @@ cite {
 
 //== BPNY
 //TODO: BE Less specific
-.hero h1 {
-  //color: darken($hero-background-color, 2%);
-  color: $light-gray;
-  //font-weight: 800;
-  font-size: $base-font-size * 3; // 16 * 2.25 = 36px
-  //position: relative;
-  //margin-bottom: -150px;
-}
+// .hero h1 {
+//   //color: darken($hero-background-color, 2%);
+//   color: $light-gray;
+//   //font-weight: 800;
+//     color: $light-gray;
+//   //font-weight: 800;
+//   @include media($medium-screen-up) {
+//   font-size: $base-font-size * 3; // 16 * 2.25 = 36px
+// }
+
+//   font-size: $base-font-size * 3; // 16 * 2.25 = 36px
+//   //position: relative;
+//   //margin-bottom: -150px;
+// }
 
 .lead, .lead p {
       font-size: 1.0625em;
@@ -186,3 +196,27 @@ cite {
 .text-right {
   text-align: right;
 }
+h4 a > .icon-right-circled {
+  font-size: $base-font-size * .5; // 16 * 1.5 = 24px
+  visibility: hidden;
+}
+h4 a:hover > .icon-right-circled {
+  visibility: visible;
+  @include animation(scale 1.0s ease-in, slide 2.0s ease);
+}
+
+
+
+h1, h2, h3, h4, h5, h6 {
+  -ms-word-wrap: break-word;
+word-wrap: break-word;
+}
+
+
+sup, sub {
+//@include adjust-font-size-to($kappa);
+ vertical-align: baseline;
+ position: relative;
+ top: -0.4em;
+}
+sub { top: 0.4em; }

@@ -83,3 +83,27 @@ ul.links li a:hover{
 	color: $lightest-gray;
 }
 
+// using this for meta data on books page
+ul.inline-table li {
+  margin:0 0 1em 0;
+  display: inline-block;
+}
+.col-05 {
+  @include span-columns(1 of 6);
+}
+.col-1 {
+  @include span-columns(1 of 6);
+  
+    @include omega();   
+}
+.col-15 {
+  @include span-columns(1.25 of 6);
+  
+    @include omega();   
+}
+.col-2 {
+
+  @include span-columns(2 of 6);
+  
+    @include omega();   
+}

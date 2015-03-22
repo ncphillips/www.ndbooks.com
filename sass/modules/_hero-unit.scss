@@ -16,7 +16,7 @@
   .hero-inner {
     @include outer-container;
     @include clearfix;
-    padding: 3em;
+    
     margin: auto;
     text-align: center;
     //color: $hero-color;
@@ -25,9 +25,11 @@
     .books {
       text-align: left;
       line-height: 1.1;
+        padding: 1em;
     }
-    @include media($large-screen) {
 
+    @include media($large-screen) {
+      padding: 3em;
       background-attachment: fixed;
       background-repeat: no-repeat;
 
@@ -54,11 +56,11 @@
       }
 
       h1 {
-        font-size: 1.4em;
+        font-size: 1.4375em;
         text-align: left;
         margin-bottom: .5em;
         @include media($large-screen) {
-          font-size: 1.8em;
+          font-size: 3em;
         }
       }
 

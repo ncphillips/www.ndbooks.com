@@ -78,3 +78,12 @@
     }
   }
 }
+
+ul.pagination-list {
+  display: inline-block;
+  li {
+    display: inline-block;
+    list-style-type: none;
+    border: 1px solid #ddd;
+  }
+}

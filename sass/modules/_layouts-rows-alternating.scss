@@ -33,7 +33,7 @@ $page-item-background-color: #f1f1f1;//#f0f3f5; //<- has a bluish tint   //darke
     @include span-columns(6 of 6);
   }
   
-  @include media($medium-screen-up) {
+  @include media($large-screen-up) {
     @include pad(6em 12em);
     .cover {
       @include span-columns(2 of 6);

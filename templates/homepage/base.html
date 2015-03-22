@@ -46,7 +46,7 @@
               {% set edition = row.relationship.editions|first %}
                 {% set image = edition.image|imageSize(750, 'auto') %}
                <figure data-type="image">
-                <img src="{{ image }}" alt="cover image for {{ row.relationship.name }}" class="book-cover" />
+                <img src="{{ image }}" alt="cover image for {{ row.relationship.name }}" class="book-coverTK" />
               </figure>
             {% endif %}
           </a>
