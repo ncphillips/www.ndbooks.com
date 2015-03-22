@@ -3,7 +3,7 @@
 <div id="container-filter"> {# //THIS NEEDS TO BE CLOSED IN THE CONTENT TO SURROUND FILTERED TERMS #}
   {% include "templates/partials/hero-search.html" %}
 {% endblock %}
-{% if item.name %}{% set page_name = item.name %}{% else %}{% set page_name = 'New & Forthcoming Books' %}{% endif %}
+{% set page_name = item.name %}
 {% block title %}{% parent %} - {{ page_name }}{% endblock %}
 {% block content %}
 {% set current_date = now|date('U') %}
