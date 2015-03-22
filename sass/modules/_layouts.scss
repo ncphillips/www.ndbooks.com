@@ -246,28 +246,29 @@ body.post .content {
   blockquote {
     padding: 2em;
   }
-  @include media($medium-screen-up) {
-    blockquote {
-      padding: 2em 10em;
-    }
-    article {
-      @include span-columns(5 of 12);
-      margin-top:-65px;
-      @include shift(8);
-    }
-    aside.metadata {
-      @include span-columns(4 of 12);
-      @include pad(3.5em 0);//// overide 2em general padding
-       @include shift(-9);
-    }
-    aside.photo {
-      @include span-columns(3 of 12);
-      @include pad(1em 0);
-      @include omega();
-       @include shift(-12);
-    }
 
-  }
+  // @include media($medium-screen-up) {
+  //   blockquote {
+  //     padding: 2em 10em;
+  //   }
+  //   article {
+  //     @include span-columns(9 of 12);
+  //     margin-top:-65px;
+  //     @include shift(4);
+  //   }
+  //   aside.metadata {
+  //     @include span-columns(12 of 12);
+  //     @include pad(3.5em 0);//// overide 2em general padding
+  //      @include shift(0);
+  //   }
+  //   aside.photo {
+  //     @include span-columns(3 of 12);
+  //     @include pad(1em 0);
+  //     @include omega();
+  //      @include shift(-12);
+  //   }
+
+  // }
   @include media($large-screen-up) {
     article {
       @include span-columns(4 of 12);
