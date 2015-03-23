@@ -61,10 +61,22 @@ ul.columns {
   }
 }
 
+.featured_image ul.links a:link {
+  background-color: white;
+  color: black;
+}
+body.book .hero .links-nav {
+  position: absolute;
+  bottom: 1em;
+  right: 2em;
+  
+}
 
 ul.links li{
+  z-index: 10000;
   margin-right: .5em;
   margin-bottom: .75em;
+  padding: .25em .425em;
   display: inline-block;
 }
 
@@ -77,33 +89,8 @@ ul.links li a{
   display: inline-block;
 }
 
-ul.links li a:hover{ 
+ul.links li:hover{ 
 	@include transition (all 0.2s ease-in-out);
 	background-color: $black;
 	color: $lightest-gray;
-}
-
-// using this for meta data on books page
-ul.inline-table li {
-  margin:0 0 1em 0;
-  display: inline-block;
-}
-.col-05 {
-  @include span-columns(1 of 6);
-}
-.col-1 {
-  @include span-columns(1 of 6);
-  
-    @include omega();   
-}
-.col-15 {
-  @include span-columns(1.25 of 6);
-  
-    @include omega();   
-}
-.col-2 {
-
-  @include span-columns(2 of 6);
-  
-    @include omega();   
 }

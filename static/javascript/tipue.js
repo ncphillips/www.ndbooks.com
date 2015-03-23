@@ -1,1 +1,655 @@
-var tipuesearch_stop_words=tipuesearch_stop_words||["and","be","by","do","for","he","how","if","is","it","my","not","of","or","the","to","up","what","when"];var tipuesearch_replace=tipuesearch_replace||{words:[{word:"tipua",replace_with:"tipue"},{word:"javscript",replace_with:"javascript"}]};var tipuesearch_stem=tipuesearch_stem||{words:[{word:"e-mail",stem:"email"},{word:"javascript",stem:"script"},{word:"javascript",stem:"js"}]};(function(e){function t(e,t,n){if(!n)n=window.location.href;var r=new RegExp("([?&])"+e+"=.*?(&|#|$)(.*)","gi"),i;if(r.test(n)){if(typeof t!=="undefined"&&t!==null)return n.replace(r,"$1"+e+"="+t+"$2$3");else{i=n.split("#");n=i[0].replace(r,"$1$3").replace(/(&|\?)$/,"");if(typeof i[1]!=="undefined"&&i[1]!==null)n+="#"+i[1];return n}}else{if(typeof t!=="undefined"&&t!==null){var s=n.indexOf("?")!==-1?"&":"?";i=n.split("#");n=i[0]+s+e+"="+t;if(typeof i[1]!=="undefined"&&i[1]!==null)n+="#"+i[1];return n}else return n}}e.fn.tipuesearch=function(n){var r=e.extend({show:7,newWindow:false,showURL:true,minimumLength:3,descriptiveWords:25,highlightTerms:true,highlightEveryTerm:false,mode:"static",liveDescription:"*",liveContent:"*",contentLocation:"tipuesearch/tipuesearch_content.json"},n);return this.each(function(){function o(e){return decodeURIComponent(((new RegExp("[?|&]"+e+"="+"([^&;]+?)(&|#|;|$)")).exec(location.search)||[,""])[1].replace(/\+/g,"%20"))||null}function f(i,o,l){e(document).trigger("tipue_search_started");e("#tipue_search_content").hide();var c="";var h="";var p=false;var d=false;var v=true;var m=0;found=new Array;var g=e("#tipue_search_input").val().toLowerCase();g=e.trim(g);if(!l&&window.history.pushState){var y=t("q",g);y=t("page",u,y);if(!a){window.history.replaceState({event:"tipue",query:g,page:u},document.title,y)}else{window.history.pushState({event:"tipue",query:g,page:u},document.title,y)}}if(!a){a=true}if(g.match('^"')&&g.match('"$')||g.match("^'")&&g.match("'$")){v=false}if(v){var b=g.split(" ");g="";for(var w=0;w<b.length;w++){var E=true;for(var S=0;S<tipuesearch_stop_words.length;S++){if(b[w]==tipuesearch_stop_words[S]){E=false;d=true}}if(E){g=g+" "+b[w]}}g=e.trim(g);b=g.split(" ")}else{g=g.substring(1,g.length-1)}if(g.length>=r.minimumLength){if(v){if(o){var x=g;for(var w=0;w<b.length;w++){for(var S=0;S<tipuesearch_replace.words.length;S++){if(b[w]==tipuesearch_replace.words[S].word){g=g.replace(b[w],tipuesearch_replace.words[S].replace_with);p=true}}}b=g.split(" ")}var T=g;for(var w=0;w<b.length;w++){for(var S=0;S<tipuesearch_stem.words.length;S++){if(b[w]==tipuesearch_stem.words[S].word){T=T+" "+tipuesearch_stem.words[S].stem}}}b=T.split(" ");for(var w=0;w<n.pages.length;w++){var N=1e9;var C=n.pages[w].text;var k=n.pages[w].title;k=e("<div></div>").text(k).html();C=e("<div></div>").text(C).html();var L=null;for(var S=0;S<b.length;S++){var A=new RegExp(b[S],"i");if(n.pages[w].title.search(A)!=-1){N-=2e5-w}if(n.pages[w].text.search(A)!=-1){N-=15e4-w}if(r.highlightTerms){var O=new RegExp("("+b[S]+")","gi");if(r.highlightEveryTerm){var M=new RegExp("("+b[S]+")","gi")}else{var M=new RegExp("("+b[S]+")","i")}if(L===null){L=0}L+=(C.match(O)||[]).length;L+=(k.match(O)||[]).length;k=k.replace(O,'<span class="wh-search-term">$1</span>');C=C.replace(M,'<span class="wh-search-term">$1</span>')}if(n.pages[w].tags.search(A)!=-1){N-=1e5-w}if(b[S].match("^-")){A=new RegExp(b[S].substring(1),"i");if(n.pages[w].title.search(A)!=-1||n.pages[w].text.search(A)!=-1||n.pages[w].tags.search(A)!=-1){N=1e9}}}if(N<1e9){found[m++]=[N,k,C,n.pages[w].loc,L===null?null:L]}}}else{var k=n.pages[w].title;for(var w=0;w<n.pages.length;w++){var N=1e9;var C=n.pages[w].text;k=e("<div></div>").text(k).html();C=e("<div></div>").text(C).html();var A=new RegExp(g,"i");if(n.pages[w].title.search(A)!=-1){N-=2e5-w}if(n.pages[w].text.search(A)!=-1){N-=15e4-w}var L=null;if(r.highlightTerms){var O=new RegExp("("+g+")","gi");if(r.highlightEveryTerm){var M=new RegExp("("+g+")","gi")}else{var M=new RegExp("("+g+")","i")}if(L===null){L=0}L+=(C.match(O)||[]).length;L+=(k.match(O)||[]).length;k=k.replace(O,'<span class="wh-search-term">$1</span>');C=C.replace(M,'<span class="wh-search-term">$1</span>')}if(n.pages[w].tags.search(A)!=-1){N-=1e5-w}if(N<1e9){found[m++]=[N,k,C,n.pages[w].loc,L===null?null:L]}}}if(m!=0){c+='<dl class="wh-search-results">';c+="<dt>";if(m==1){c+='<span class="wh-search-results-total">1 result for <span class="wh-search-term">'+g+"</span>.</span>"}else{c_c=m.toString().replace(/\B(?=(\d{3})+(?!\d))/g,",");c+='<span class="wh-search-results-total">'+c_c+' results for <span class="wh-search-term">'+g+"</span>.</span>"}if(p==1){c+='<span class="wh-search-instead">Search instead for <a href="javascript:void(0)" id="tipue_search_replaced">'+x+"?</span>"}c+="</dt>";found.sort(function(e,t){if(e[0]<t[0]){return-1}else if(e[0]>t[0]){return 1}else{if(e[4]>t[4]){return-1}else if(e[4]<t[4]){return 1}else{if(e[1]>t[1]){return 1}else if(e[1]<t[1]){return-1}else{if(e[2]>t[2]){return 1}else if(e[2]<t[2]){return-1}else{if(e[3]>t[3]){return 1}else if(e[3]<t[3]){return-1}else{return 0}}}}}});var _=0;for(var w=0;w<found.length;w++){var D=found[w];var P=false;if(_>=i&&_<r.show+i){c+="<dd>";c+='<a href="'+D[3]+'"'+s+">";c+="<h2>"+D[1]+"</h2>";if(r.showURL){c+='<p class="wh-search-url">'+D[3]+' <span class="wh-search-term-in-page">('+D[4]+" "+(D[4]===1?"appearance":"appearances")+")</span></p>"}var H=D[2];var B="";var j=H.split(" ");if(j.length<r.descriptiveWords){B=H}else{var F=0;for(var I=0;I<j.length;I++){var q=j[I];if(q.indexOf('class="wh-search-term">')!==-1){F=I-1;break}}F=F-r.descriptiveWords/2;F=Math.floor(F);if(F<0){F=0}if(F!==0){B+="&hellip;"}for(var S=F;S<F+r.descriptiveWords;S++){if(S<j.length){B+=j[S]+" "}else{P=true}}}B=e.trim(B);if(B.charAt(B.length-1)!="."){if(!P)B+="&hellip;"}c+='<p class="wh-search-body">'+B+"</p>";c+="</a>";c+="</dd>"}_++}c+="</dl>\n";if(m>r.show){var R=Math.ceil(m/r.show);var U=i/r.show+1;c+='<div class="pagination"><ul class="wh-search-paginate">\n';if(U>1){c+='<li><a href="javascript:void(0)" class="tipue_search_foot_box" id="'+(i-r.show)+"_"+o+'">&laquo;</a></li>\n'}if(U!=1){c+='<li><a href="javascript:void(0)" class="tipue_search_foot_box" id="'+0+"_"+o+'">'+1+"</a></li>\n"}else{c+='<li class="active"><a href="javascript:void(0)">'+U+"</a></li>\n"}if(U>4){c+='<li class="dots"><a href="">..</a></li>\n'}if(U>3){c+='<li><a href="javascript:void(0)" class="tipue_search_foot_box" id="'+(U-3)*r.show+"_"+o+'">'+(U-2)+"</a></li>\n"}if(U>2){c+='<li><a href="javascript:void(0)" class="tipue_search_foot_box" id="'+(U-2)*r.show+"_"+o+'">'+(U-1)+"</a></li>\n"}if(U!==1&&U!==R){c+='<li class="active"><a href="javascript:void(0)">'+U+"</a></li>\n"}if(U<R-1){c+='<li><a href="javascript:void(0)" class="tipue_search_foot_box" id="'+U*r.show+"_"+o+'">'+(U+1)+"</a></li>\n"}if(U<R-2){c+='<li><a href="javascript:void(0)" class="tipue_search_foot_box" id="'+(U+1)*r.show+"_"+o+'">'+(U+2)+"</a></li>\n"}if(U<R-3){c+='<li class="dots"><a href="">..</a></li>\n'}if(U!=R){c+='<li><a href="javascript:void(0)" class="tipue_search_foot_box" id="'+(R-1)*r.show+"_"+o+'">'+R+"</a></li>\n"}else{c+='<li class="active"><a href="javascript:void(0)">'+R+"</a></li>\n"}if(U!=R){c+='<li><a href="javascript:void(0)" class="tipue_search_foot_box" id="'+(i+r.show)+"_"+o+'">&raquo;</a></li>\n'}c+="</ul>\n</div>"}}else{c+='<span class="wh-search-results-total">Nothing found</span>'}}else{if(d){c+='<span class="wh-search-error">Nothing found. Common words are largely ignored</span>'}else{c+='<span class="wh-search-error">Search too short.';if(r.minimumLength==1){c+=" Should be one character or more."}else{c+=" Should be "+r.minimumLength+" characters or more."}c+="</span>"}}e("#tipue_search_content").html(c);e("#tipue_search_content").slideDown(200);e(document).trigger("tipue_search_finished");e("#tipue_search_replaced").click(function(){u=1;f(0,false)});e(".tipue_search_foot_box").click(function(){var t=e(this).attr("id");var n=t.split("_");u=n[0]/r.show+1;f(parseInt(n[0]),n[1])})}var n={pages:[]};e.ajaxSetup({async:false});if(r.mode=="live"){for(var i=0;i<tipuesearch_pages.length;i++){e.get(tipuesearch_pages[i],"",function(t){var s=e(r.liveContent,t).text();s=s.replace(/\s+/g," ");var o=e(r.liveDescription,t).text();o=o.replace(/\s+/g," ");var u=t.toLowerCase().indexOf("<title>");var a=t.toLowerCase().indexOf("</title>",u+7);if(u!=-1&&a!=-1){var f=t.slice(u+7,a)}else{var f="No title"}n.pages.push({title:f,text:o,tags:s,loc:tipuesearch_pages[i]})})}}if(r.mode=="json"){console.log("getting json");e.getJSON(r.contentLocation,function(t){console.log(t);n=e.extend({},t)})}if(r.mode=="static"){n=e.extend({},tipuesearch)}var s="";if(r.newWindow){s=' target="_blank"'}var u=o("page")||1;var a=false;if(o("q")){e("#tipue_search_input").val(o("q"));f((u-1)*r.show,true)}e(this).keyup(function(e){if(e.keyCode=="13"){u=1;f(0,true)}});e(this).parents("form").on("submit",function(e){e.preventDefault()});if(window.history.pushState){window.onpopstate=function(t){var n=t.state;if(n.event==="tipue"){e("#tipue_search_input").val(n.query);u=n.page;f((n.page-1)*r.show,true,true);t.stopPropagation();t.preventDefault()}}}})}})(jQuery)
+// This is a fork of Tipue Search made for webhook
+
+/*
+Tipue Search 4.0
+Copyright (c) 2014 Tipue
+Tipue Search is released under the MIT License
+http://www.tipue.com/search
+*/ 
+
+var tipuesearch_stop_words = tipuesearch_stop_words || ["a", "and", "be", "by", "do", "for", "he", "how", "if", "is", "it", "my", "not", "of", "or", "the", "to", "up", "what", "when"];
+
+var tipuesearch_replace = tipuesearch_replace || {"words": [
+     {"word": "tipua", "replace_with": "tipue"},
+     {"word": "javscript", "replace_with": "javascript"}
+]};
+
+var tipuesearch_stem = tipuesearch_stem || {"words": [
+     {"word": "e-mail", "stem": "email"},
+     {"word": "javascript", "stem": "script"},
+     {"word": "javascript", "stem": "js"}
+]};
+
+(function($) {
+     function UpdateQueryString(key, value, url) {
+         if (!url) url = window.location.href;
+         var re = new RegExp("([?&])" + key + "=.*?(&|#|$)(.*)", "gi"),
+             hash;
+
+         if (re.test(url)) {
+             if (typeof value !== 'undefined' && value !== null)
+                 return url.replace(re, '$1' + key + "=" + value + '$2$3');
+             else {
+                 hash = url.split('#');
+                 url = hash[0].replace(re, '$1$3').replace(/(&|\?)$/, '');
+                 if (typeof hash[1] !== 'undefined' && hash[1] !== null) 
+                     url += '#' + hash[1];
+                 return url;
+             }
+         }
+         else {
+             if (typeof value !== 'undefined' && value !== null) {
+                 var separator = url.indexOf('?') !== -1 ? '&' : '?';
+                 hash = url.split('#');
+                 url = hash[0] + separator + key + '=' + value;
+                 if (typeof hash[1] !== 'undefined' && hash[1] !== null) 
+                     url += '#' + hash[1];
+                 return url;
+             }
+             else
+                 return url;
+         }
+     }
+
+     $.fn.tipuesearch = function(options) {
+
+          var set = $.extend( {
+          
+               'show'                   : 7,
+               'newWindow'              : false,
+               'showURL'                : true,
+               'minimumLength'          : 3,
+               'descriptiveWords'       : 25,
+               'highlightTerms'         : true,
+               'highlightEveryTerm'     : false,
+               'mode'                   : 'static',
+               'liveDescription'        : '*',
+               'liveContent'            : '*',
+               'contentLocation'        : 'tipuesearch/tipuesearch_content.json'
+          
+          }, options);
+          
+          return this.each(function() {
+
+               var tipuesearch_in = {
+                    pages: []
+               };
+               $.ajaxSetup({
+                    async: false
+               });
+
+               if (set.mode == 'live')
+               {
+                    for (var i = 0; i < tipuesearch_pages.length; i++)
+                    {
+                         $.get(tipuesearch_pages[i], '',
+                              function (html)
+                              {
+                                   var cont = $(set.liveContent, html).text();
+                                   cont = cont.replace(/\s+/g, ' ');
+                                   var desc = $(set.liveDescription, html).text();
+                                   desc = desc.replace(/\s+/g, ' ');
+                                                                      
+                                   var t_1 = html.toLowerCase().indexOf('<title>');
+                                   var t_2 = html.toLowerCase().indexOf('</title>', t_1 + 7);
+                                   if (t_1 != -1 && t_2 != -1)
+                                   {
+                                        var tit = html.slice(t_1 + 7, t_2);
+                                   }
+                                   else
+                                   {
+                                        var tit = 'No title';
+                                   }
+
+                                   tipuesearch_in.pages.push({
+                                        "title": tit,
+                                        "text": desc,
+                                        "tags": cont,
+                                        "loc": tipuesearch_pages[i] 
+                                   });    
+                              }
+                         );
+                    }
+               }
+               
+               if (set.mode == 'json')
+               {
+                    console.log('getting json');
+                    $.getJSON(set.contentLocation,
+                         function(json)
+                         {
+                              console.log(json);
+                              tipuesearch_in = $.extend({}, json);
+                         }
+                    );
+               }
+
+               if (set.mode == 'static')
+               {
+                    tipuesearch_in = $.extend({}, tipuesearch);
+               }                              
+               
+               var tipue_search_w = '';
+               if (set.newWindow)
+               {
+                    tipue_search_w = ' target="_blank"';      
+               }
+
+               function getURLP(name)
+               {
+                    return decodeURIComponent((new RegExp('[?|&]' + name + '=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20')) || null;
+               }
+
+               var curPage = getURLP('page') || 1;
+               var hadFirstSearch = false;
+
+               if (getURLP('q'))
+               {
+                    $('#tipue_search_input').val(getURLP('q'));
+                    getTipueSearch((curPage - 1) * set.show, true);
+               }               
+               
+
+               $(this).keyup(function(event)
+               {
+                    if(event.keyCode == '13')
+                    {
+                         curPage = 1;
+                         getTipueSearch(0, true);
+                    }
+               });
+
+               $(this).parents('form').on('submit', function(e) {
+                    e.preventDefault();
+               });
+
+               if(window.history.pushState) {     
+                    window.onpopstate = function(event) {
+                      var state = event.state;
+
+                      if(state.event === 'tipue') {
+                         $('#tipue_search_input').val(state.query);
+
+                         curPage = state.page;
+                         getTipueSearch((state.page - 1) * set.show, true, true);
+
+                         event.stopPropagation();
+                         event.preventDefault();
+                      }
+                    }; 
+               }
+
+               function getTipueSearch(start, replace, noPushState)
+               {
+                    $(document).trigger('tipue_search_started');
+                    $('#tipue_search_content').hide();
+                    var out = '';
+                    var results = '';
+                    var show_replace = false;
+                    var show_stop = false;
+                    var standard = true;
+                    var c = 0;
+                    found = new Array();
+                    
+                    var d = $('#tipue_search_input').val().toLowerCase();
+                    d = $.trim(d);
+
+                    if(!noPushState && window.history.pushState) {
+                         var url = UpdateQueryString('q', d);
+                         url = UpdateQueryString('page', curPage, url);
+
+                         if(!hadFirstSearch) {
+                              window.history.replaceState({ event: 'tipue', query: d, page: curPage }, document.title, url);
+                         } else {
+                              window.history.pushState({ event: 'tipue', query: d, page: curPage }, document.title, url);
+                         }
+                    }
+                    
+                    if(!hadFirstSearch) {
+                         hadFirstSearch = true;
+                    }
+
+                    if ((d.match("^\"") && d.match("\"$")) || (d.match("^'") && d.match("'$")))
+                    {
+                         standard = false;
+                    }
+                    
+                    if (standard)
+                    {
+                         var d_w = d.split(' ');
+                         d = '';
+                         for (var i = 0; i < d_w.length; i++)
+                         {
+                              var a_w = true;
+                              for (var f = 0; f < tipuesearch_stop_words.length; f++)
+                              {
+                                   if (d_w[i] == tipuesearch_stop_words[f])
+                                   {
+                                        a_w = false;
+                                        show_stop = true;          
+                                   }
+                              }
+                              if (a_w)
+                              {
+                                   d = d + ' ' + d_w[i];
+                              }
+                         }
+                         d = $.trim(d);
+                         d_w = d.split(' ');
+                    }
+                    else
+                    {
+                         d = d.substring(1, d.length - 1);
+                    }
+               
+                    if (d.length >= set.minimumLength)
+                    {
+                         if (standard)
+                         {
+                              if (replace)
+                              {
+                                   var d_r = d;
+                                   for (var i = 0; i < d_w.length; i++)
+                                   {
+                                        for (var f = 0; f < tipuesearch_replace.words.length; f++)
+                                        {
+                                             if (d_w[i] == tipuesearch_replace.words[f].word)
+                                             {
+                                                  d = d.replace(d_w[i], tipuesearch_replace.words[f].replace_with);
+                                                  show_replace = true;
+                                             }
+                                        }
+                                   }
+                                   d_w = d.split(' ');
+                              }                   
+                    
+                              var d_t = d;
+                              for (var i = 0; i < d_w.length; i++)
+                              {
+                                   for (var f = 0; f < tipuesearch_stem.words.length; f++)
+                                   {
+                                        if (d_w[i] == tipuesearch_stem.words[f].word)
+                                        {
+                                             d_t = d_t + ' ' + tipuesearch_stem.words[f].stem;
+                                        }
+                                   }
+                              }
+                              d_w = d_t.split(' ');
+
+                              for (var i = 0; i < tipuesearch_in.pages.length; i++)
+                              {
+                                   var score = 1000000000;
+                                   var s_t = tipuesearch_in.pages[i].text;
+
+                                   var title = tipuesearch_in.pages[i].title;
+
+                                   title = $('<div></div>').text(title).html();
+                                   s_t = $('<div></div>').text(s_t).html();
+
+                                   var matches = null;
+
+                                   for (var f = 0; f < d_w.length; f++)
+                                   {
+                                        var pat = new RegExp(d_w[f], 'i');
+                                        if (tipuesearch_in.pages[i].title.search(pat) != -1)
+                                        {
+                                             score -= (200000 - i);
+                                        }
+                                        if (tipuesearch_in.pages[i].text.search(pat) != -1)
+                                        {
+                                             score -= (150000 - i);
+                                        }
+                                        
+                                        if (set.highlightTerms)
+                                        {
+                                             var globalPatr =  new RegExp('(' + d_w[f] + ')', 'gi');
+
+                                             if (set.highlightEveryTerm) 
+                                             {
+                                                  var patr = new RegExp('(' + d_w[f] + ')', 'gi');
+                                             }
+                                             else
+                                             {
+                                                  var patr = new RegExp('(' + d_w[f] + ')', 'i');
+                                             }
+
+                                             if(matches === null) {
+                                                  matches = 0;
+                                             }
+
+                                             matches += (s_t.match(globalPatr) || []).length;
+                                             matches += (title.match(globalPatr) || []).length;
+
+                                             title = title.replace(globalPatr, "<span class=\"wh-search-term\">$1</span>");
+                                             s_t = s_t.replace(patr, "<span class=\"wh-search-term\">$1</span>");
+                                        }
+                                        if (tipuesearch_in.pages[i].tags.search(pat) != -1)
+                                        {
+                                             score -= (100000 - i);
+                                        }
+                                        
+                                        if (d_w[f].match("^-"))
+                                        {
+                                             pat = new RegExp(d_w[f].substring(1), 'i');
+                                             if (tipuesearch_in.pages[i].title.search(pat) != -1 || tipuesearch_in.pages[i].text.search(pat) != -1 || tipuesearch_in.pages[i].tags.search(pat) != -1)
+                                             {
+                                                  score = 1000000000;     
+                                             }    
+                                        }
+                                   }
+                                   
+                                   if (score < 1000000000)
+                                   {
+                                        found[c++] =[
+                                             score,
+                                             title,
+                                             s_t,
+                                             tipuesearch_in.pages[i].loc,
+                                             matches === null ? null : (matches)
+                                        ];  
+                                   }
+                              }
+                         }
+                         else
+                         {
+                              var title = tipuesearch_in.pages[i].title;
+
+                              for (var i = 0; i < tipuesearch_in.pages.length; i++)
+                              {
+                                   var score = 1000000000;
+                                   var s_t = tipuesearch_in.pages[i].text;
+
+                                   title = $('<div></div>').text(title).html();
+                                   s_t = $('<div></div>').text(s_t).html();
+                                   
+                                   var pat = new RegExp(d, 'i');
+                                   if (tipuesearch_in.pages[i].title.search(pat) != -1)
+                                   {
+                                        score -= (200000 - i);
+                                   }
+                                   if (tipuesearch_in.pages[i].text.search(pat) != -1)
+                                   {
+                                        score -= (150000 - i);
+                                   }
+                                   
+                                   var matches = null;
+                                   if (set.highlightTerms)
+                                   {
+                                        var globalPatr =  new RegExp('(' + d + ')', 'gi');
+                                        if (set.highlightEveryTerm) 
+                                        {
+                                             var patr = new RegExp('(' + d + ')', 'gi');
+                                        }
+                                        else
+                                        {
+                                             var patr = new RegExp('(' + d + ')', 'i');
+                                        }
+
+                                        if(matches === null) {
+                                             matches = 0;
+                                        }
+
+                                        matches += (s_t.match(globalPatr) || []).length;
+                                        matches += (title.match(globalPatr) || []).length;
+
+                                        title = title.replace(globalPatr, "<span class=\"wh-search-term\">$1</span>");
+                                        s_t = s_t.replace(patr, "<span class=\"wh-search-term\">$1</span>");
+                                   }
+                                   if (tipuesearch_in.pages[i].tags.search(pat) != -1)
+                                   {
+                                        score -= (100000 - i);
+                                   }
+                              
+                                   if (score < 1000000000)
+                                   {
+                                        found[c++] = [
+                                             score,
+                                             title,
+                                             s_t,
+                                             tipuesearch_in.pages[i].loc,
+                                             matches === null ? null : (matches)
+                                        ];                                                                
+                                   }                              
+                              }
+                         }                         
+
+                         if (c != 0)
+                         {
+                              out += '<dl class="wh-search-results">';
+
+                              out += '<dt>';
+
+                              if (c == 1)
+                              {
+                                   out += '<span class="wh-search-results-total">1 result for <span class="wh-search-term">' + d + '</span>.</span>';
+                              }
+                              else
+                              {
+                                   c_c = c.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+                                   out += '<span class="wh-search-results-total">' + c_c + ' results for <span class="wh-search-term">' + d + '</span>.</span>';
+                              }
+
+                              if (show_replace == 1)
+                              {
+                                   out += '<span class="wh-search-instead">Search instead for <a href="javascript:void(0)" id="tipue_search_replaced">' + d_r + '?</span>';
+                              }
+
+                              out += '</dt>'
+                              
+                              found.sort(function(a, b) {
+                                   if(a[0] < b[0]) {
+                                        return -1; // Lower score
+                                   } else if(a[0] > b[0]) {
+                                        return 1; // higher score
+                                   } else {
+                                        if(a[4] > b[4]) {
+                                             return -1; // Higher hits, lower in list
+                                        } else if(a[4] < b[4]) {
+                                             return 1; // Lower hits, higher in list
+                                        } else {
+                                             if(a[1] > b[1]) {
+                                                  return 1; // Alphabetical body
+                                             } else if(a[1] < b[1]) {
+                                                  return -1;
+                                             } else {
+                                                  if(a[2] > b[2]) {
+                                                       return 1; // Alphabetical url
+                                                  } else if(a[2] < b[2]) {
+                                                       return -1;
+                                                  } else {
+                                                       if(a[3] > b[3]) {
+                                                            return 1;
+                                                       } else if(a[3] < b[3]) {
+                                                            return -1;
+                                                       } else {
+                                                            return 0;
+                                                       }
+                                                  }
+                                             }
+                                        }
+                                   }
+                              });
+
+                              var l_o = 0;
+                              for (var i = 0; i < found.length; i++)
+                              {
+                                   var fo = found[i];
+                                   var dontElipse = false;
+                                   if (l_o >= start && l_o < set.show + start)
+                                   {                  
+                                        out += '<dd>'
+                                        out += '<a href="' + fo[3] + '"' + tipue_search_w + '>';
+
+                                        out += '<h2>' + fo[1] + '</h2>';
+ 
+                                        if (set.showURL)
+                                        {  
+                                             out += '<p class="wh-search-url">' + fo[3] + ' <span class="wh-search-term-in-page">(' + fo[4] + ' ' + (fo[4] === 1 ? 'appearance' : 'appearances') + ')</span></p>';
+                                        }
+                
+                                        var t = fo[2];
+                                        var t_d = '';
+                                        var t_w = t.split(' ');
+                                        if (t_w.length < set.descriptiveWords)
+                                        {
+                                             t_d = t;
+                                        }
+                                        else
+                                        {
+                                             var firstHighlightIndex = 0;
+
+                                             for (var j = 0; j < t_w.length; j++) {
+                                                  var word = t_w[j];
+                                                  if(word.indexOf('class="wh-search-term">') !== -1) {
+                                                       firstHighlightIndex = j - 1;
+                                                       break;
+                                                  }
+                                             }
+
+                                             firstHighlightIndex = firstHighlightIndex - (set.descriptiveWords/2);
+
+                                             firstHighlightIndex = Math.floor(firstHighlightIndex);
+
+                                             if(firstHighlightIndex < 0) {
+                                                  firstHighlightIndex = 0;
+                                             }
+
+                                             if(firstHighlightIndex !== 0) {
+                                                  t_d += '&hellip;';
+                                             }
+
+                                             for (var f = firstHighlightIndex; f < firstHighlightIndex + set.descriptiveWords; f++)
+                                             {
+                                                  if(f < t_w.length) {
+                                                       t_d += t_w[f] + ' '; 
+                                                  } else {
+                                                       dontElipse = true;
+                                                  }
+                                             }
+                                        }
+                                        t_d = $.trim(t_d);
+                                        if (t_d.charAt(t_d.length - 1) != '.')
+                                        {
+                                             if(!dontElipse)
+                                                  t_d += '&hellip;';
+                                        }
+                                        out += '<p class="wh-search-body">' + t_d + '</p>'
+                                        out += '</a>';
+                                        out += '</dd>';
+                                   }
+                                   l_o++;     
+                              }
+
+                              out += '</dl>\n';
+                              if (c > set.show)
+                              {
+                                   var pages = Math.ceil(c / set.show);
+                                   var page = (start / set.show) + 1;
+
+                                   out += '<div class="pagination"><ul class="wh-search-paginate">\n';
+                                   
+                                   if (page > 1)
+                                   {
+                                       out += '<li><a href="javascript:void(0)" class="tipue_search_foot_box" id="' + (start - set.show) + '_' + replace + '">&laquo;</a></li>\n'; 
+                                   }
+
+                                   if(page != 1) {
+                                        out += '<li><a href="javascript:void(0)" class="tipue_search_foot_box" id="' + 0 + '_' + replace + '">' + 1 + '</a></li>\n';
+                                   } else {
+                                        out += '<li class="active"><a href="javascript:void(0)">' + page + '</a></li>\n'; //Current page
+                                   }
+
+                                   if(page > 4) {
+                                        out += '<li class="dots"><a href="">..</a></li>\n';
+                                   }
+
+                                   if(page > 3) {
+                                        out += '<li><a href="javascript:void(0)" class="tipue_search_foot_box" id="' + ((page - 3) * set.show) + '_' + replace + '">' + (page - 2) + '</a></li>\n';
+                                   }
+
+                                   if(page > 2) {
+                                        out += '<li><a href="javascript:void(0)" class="tipue_search_foot_box" id="' + ((page - 2) * set.show) + '_' + replace + '">' + (page - 1) + '</a></li>\n';
+                                   }
+
+                                   if(page !== 1 && page !== pages) {
+                                        out += '<li class="active"><a href="javascript:void(0)">' + page + '</a></li>\n'; //Current page
+                                   }
+
+                                   if(page < pages - 1) {
+                                        out += '<li><a href="javascript:void(0)" class="tipue_search_foot_box" id="' + (page * set.show) + '_' + replace + '">' + (page + 1) + '</a></li>\n';
+                                   }
+
+                                   if(page < pages - 2) {
+                                        out += '<li><a href="javascript:void(0)" class="tipue_search_foot_box" id="' + ((page + 1) * set.show) + '_' + replace + '">' + (page + 2) + '</a></li>\n';
+                                   }
+
+                                   if(page < pages - 3) {
+                                        out += '<li class="dots"><a href="">..</a></li>\n';
+                                   }
+
+                                   if(page != pages) {
+                                        out += '<li><a href="javascript:void(0)" class="tipue_search_foot_box" id="' + ((pages - 1) * set.show) + '_' + replace + '">' + pages+ '</a></li>\n';
+                                   } else {
+                                        out += '<li class="active"><a href="javascript:void(0)">' + pages + '</a></li>\n'; //Current page
+                                   }         
+                                                    
+                                   if (page != pages)
+                                   {
+                                        out += '<li><a href="javascript:void(0)" class="tipue_search_foot_box" id="' + (start + set.show) + '_' + replace + '">&raquo;</a></li>\n'; 
+                                   }           
+                                   
+                                   out += '</ul>\n</div>';
+                              }                        
+                         }
+                         else
+                         {
+                              out += '<span class="wh-search-results-total">Nothing found</span>'; 
+                         }
+                    }
+                    else
+                    {
+                         if (show_stop)
+                         {
+                              out += '<span class="wh-search-error">Nothing found. Common words are largely ignored</span>';     
+                         }
+                         else
+                         {
+                              out += '<span class="wh-search-error">Search too short.';
+                              if (set.minimumLength == 1)
+                              {
+                                   out += ' Should be one character or more.';
+                              }
+                              else
+                              {
+                                   out += ' Should be ' + set.minimumLength + ' characters or more.';
+                              }
+
+                              out += "</span>";
+                         }
+                    }
+               
+                    $('#tipue_search_content').html(out);
+                    $('#tipue_search_content').slideDown(200);
+
+                    $(document).trigger('tipue_search_finished');
+                    
+                    $('#tipue_search_replaced').click(function()
+                    {
+                         curPage = 1;
+                         getTipueSearch(0, false);
+                    });                
+               
+                    $('.tipue_search_foot_box').click(function()
+                    {
+                         var id_v = $(this).attr('id');
+                         var id_a = id_v.split('_');
+                    
+                         curPage = (id_a[0] / set.show) + 1;
+                         getTipueSearch(parseInt(id_a[0]), id_a[1]);
+                    });                                                       
+               }          
+          
+          });
+     };
+   
+})(jQuery);

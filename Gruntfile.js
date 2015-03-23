@@ -27,7 +27,9 @@ module.exports = function(grunt) {
         'static/javascript/jquery.unveil.js',//relace with lazy load
         'static/javascript/site-unveil.js', //relace with lazy load
         'static/javascript/site-smooth-scroll.js',                 
-        'static/javascript/site-js-menu.js',        
+        'static/javascript/site-js-menu.js',  
+        'static/javascript/tipue.js',
+        'static/javascript/site-tipue.js',                             
         'static/javascript/site.js'         
       ],
       dest: 'static/javascript/dist/scripts.js'

@@ -6,6 +6,7 @@
   <link rel="prefetch" href="/books/fiction/" />
 {% endblock %}
   {% block books_list %}
+  <div id="tipue_search_content"></div>
   {% set forthcoming_books = books|where('show_in_forthcoming') %}      
   {% set forthcoming_books = forthcoming_books|sort('publication_date') %}      
     <h1>New & Forthcoming Books</h1>    

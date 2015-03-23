@@ -2,7 +2,7 @@
   {% set variable = '#start-of-content' %}
 {% endif %}
 
-<div class="page-icons">
+<div class="page-icons" data-search-index="false">
   {% if prev %}    
     <a class="previous" href="{{ url(prev) }}{{ variable }}"><i class="icon-ion-chevron-left icon-ion-ios-arrow-back"></i> <span class="prev-title">{{ prev.name }}</span></a>
   {% endif %}

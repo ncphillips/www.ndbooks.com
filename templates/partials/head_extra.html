@@ -1,15 +1,4 @@
-{% if resetHeroBackgroundTop %}
-  {% set heroBackgroundTop = resetHeroBackgroundTop %}
-{% else %}
-{% set heroBackgroundTop = 0.87 %}
-{% endif %}
-
-{% if resetHeroBackgroundBottom %}
-  {% set heroBackgroundBottom = resetHeroBackgroundBottom %}
-{% else %}
-{% set heroBackgroundBottom = 0.37 %}
-{% endif %}
-
+<div data-search-index="false">
 {% for object in objects %}
   {% set featured_image_object = object.featured_image.url %}  
 {% endfor %}
@@ -26,17 +15,23 @@
   {% set background_image = cms.global.featured_image.url %}
   {% set background_image_mobile = cms.global.featured_image.url %}
 {% endif %} 
+
 <style type="text/css">
 
-  .gradient {
+  .featured_image {
     background-color: #101010;
     background-image: url({{ background_image_mobile }});
-    background-position: center 80px;
+    background-position: center 160px;
     background-size: auto 600px;
     background-repeat: no-repeat;
+    height:{{ item.banner_height }}px;
   }
   
-  .gradient:hover {
+  .featured_image header.books {
+    background-color: rgba(0,0,0,0.75);
+  }
+
+  .featured_image:hover {
     opacity: 0.98;
     -webkit-transition:opacity 0s ease-in 0s;
     -moz-transition:opacity 0s ease-in 0s;
@@ -49,29 +44,33 @@
       height:{{ item.banner_height }}px;
     }
     {% endif %}
-     .gradient {
+
+
+    .featured_image header.books {
+         background-color: transparent;
+      }
+     .featured_image {
+      z-index: -1000;
       background-image: url({{ background_image_mobile }});
-      background: -moz-linear-gradient(top,  rgba(0,0,0,{% if heroBackgroundTop %}{{ heroBackgroundTop }}{% endif %}) 0%, rgba(0,0,0,{% if heroBackgroundBottom %}{{ heroBackgroundBottom }}{% endif %}) 100%), url({{ background_image }}) no-repeat top center;
+      background-position: center {% if item.featured_image_position %}{{ item.featured_image_position }}{% else %}center{% endif %};
       
-      background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,{% if heroBackgroundTop %}{{ heroBackgroundTop }}{% endif %})), color-stop(100%,rgba(0,0,0,{% if heroBackgroundBottom %}{{ heroBackgroundBottom }}{% endif %}))), url({{ background_image }}) no-repeat top center;
-      
-      background: -webkit-linear-gradient(top,  rgba(0,0,0,{% if heroBackgroundTop %}{{ heroBackgroundTop }}{% endif %}) 0%,rgba(0,0,0,{% if heroBackgroundBottom %}{{ heroBackgroundBottom }}{% endif %}) 100%), url({{ background_image }}) no-repeat top center;
-      
-      background: -o-linear-gradient(top,  rgba(0,0,0,{% if heroBackgroundTop %}{{ heroBackgroundTop }}{% endif %}) 0%,rgba(0,0,0,{% if heroBackgroundBottom %}{{ heroBackgroundBottom }}{% endif %}) 100%), url({{ background_image }}) no-repeat top center;
-      
-      background: -ms-linear-gradient(top,  rgba(0,0,0,{% if heroBackgroundTop %}{{ heroBackgroundTop }}{% endif %}) 0%,rgba(0,0,0,{% if heroBackgroundBottom %}{{ heroBackgroundBottom }}{% endif %}) 100%), url({{ background_image }}) no-repeat top center;
-      
-      background: linear-gradient(to bottom,  rgba(0,0,0,{% if heroBackgroundTop %}{{ heroBackgroundTop }}{% endif %}) 0%,rgba(0,0,0,{% if heroBackgroundBottom %}{{ heroBackgroundBottom }}{% endif %}) 100%), url({{ background_image }}) no-repeat top center;
-      
-      filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#99000000', endColorstr='#5e000000',GradientType=0 );
-      filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='{{ background_image }}',sizingMethod='scale');
+background: -moz-linear-gradient(top,  rgba(0,0,0,1) 0%, rgba(0,0,0,0.64) 25%, rgba(0,0,0,0.07) 87%, rgba(0,0,0,0.07) 100%),url({{ background_image }}) no-repeat center {% if item.featured_image_position %}{{ item.featured_image_position }}{% else %}center{% endif %};
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,1)), color-stop(25%,rgba(0,0,0,0.64)), color-stop(87%,rgba(0,0,0,0.07)), color-stop(100%,rgba(0,0,0,0.07))),url({{ background_image }}) no-repeat center {% if item.featured_image_position %}{{ item.featured_image_position }}{% else %}center{% endif %};
+background: -webkit-linear-gradient(top,  rgba(0,0,0,1) 0%,rgba(0,0,0,0.64) 25%,rgba(0,0,0,0.07) 87%,rgba(0,0,0,0.07) 100%),url({{ background_image }}) no-repeat center {% if item.featured_image_position %}{{ item.featured_image_position }}{% else %}center{% endif %};
+background: -o-linear-gradient(top,  rgba(0,0,0,1) 0%,rgba(0,0,0,0.64) 25%,rgba(0,0,0,0.07) 87%,rgba(0,0,0,0.07) 100%),url({{ background_image }}) no-repeat center {% if item.featured_image_position %}{{ item.featured_image_position }}{% else %}center{% endif %};
+background: -ms-linear-gradient(top,  rgba(0,0,0,1) 0%,rgba(0,0,0,0.64) 25%,rgba(0,0,0,0.07) 87%,rgba(0,0,0,0.07) 100%),url({{ background_image }}) no-repeat center {% if item.featured_image_position %}{{ item.featured_image_position }}{% else %}center{% endif %};
+background: linear-gradient(to bottom,  rgba(0,0,0,1) 0%,rgba(0,0,0,0.64) 25%,rgba(0,0,0,0.07) 87%,rgba(0,0,0,0.07) 100%),url({{ background_image }}) no-repeat center {% if item.featured_image_position %}{{ item.featured_image_position }}{% else %}center{% endif %};
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#12000000',GradientType=0 );
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='{{ background_image }}',sizingMethod='scale');
       -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='{{ background_image }}',sizingMethod='scale')";
-      background-position: top center;
-      
       background-size:cover;
+      {% if item.banner_height %}height:{{ item.banner_height }}px;{% endif %}
   } 
    .background-fixed {
       background-attachment: fixed;
     }
   }
 </style>
+<!-- end gradient -->
+{# http://www.colorzilla.com/gradient-editor/#000000+0,000000+100&1+0,0.64+25,0.07+87,0.07+100;Custom #}
+</div>

@@ -1,6 +1,11 @@
 {% extends "templates/partials/base.html" %}
-{% block body_attributes %}data-search-index="false"{% endblock %}
 {% set page_name = 'All Books' %}
+{% block head_extra %}
+  {% parent %}
+  <link rel="prefetch" href="/books/poetry/" />
+  <link rel="prefetch" href="/books/fiction/" />
+  <script src="/.wh/searchjson.js"></script>
+{% endblock %}
 {% set now = Date() %}
 {% set current_date = now |date('U') %}
 {% block title %}{% parent %} - {{ page_name }}{% endblock %}

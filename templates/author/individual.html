@@ -1,4 +1,5 @@
 {% extends "templates/partials/base.html" %}
+{% block body_attributes %}data-search-index="true"{% endblock %}
 {% block title %}{% parent %} - {{ item.name }}{% endblock %}
 
 {% block content %}
@@ -160,16 +161,15 @@
     </div>
 
 
-    <div class="page-items">
+    <div class="page-items" data-search-index="false">
       {% if books %}
         {% for object in books %} {# reversed #}
         {% set includeBuyInfo = true %}
           {% include "templates/partials/format-books-list.html" %}
         {% endfor %}
-      {% endif %}
-      
+      {% endif %}      
       {# //END AUTHORS BOOKS #}
-</div>
+    </div>
 
 
 {% include "templates/partials/format-page-link.html" %}

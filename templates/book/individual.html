@@ -1,4 +1,5 @@
 {% extends "templates/partials/base.html" %}
+{% block body_attributes %}data-search-index="true"{% endblock %}
   {% block title %}{% parent %} - {{ item.name }}{% endblock %}
   {% block hero %}
     {% include "templates/partials/hero-book-page.html" %}

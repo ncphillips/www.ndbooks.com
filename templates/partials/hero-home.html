@@ -1,5 +1,5 @@
 {% if global.featured_image %}
-  <div class="hero gradient background-fixed">
+  <div class="hero gradient background-fixed" data-search-index="false">
     {% include "templates/partials/navigation.html" %}
     {% set section = global.home_page_grid %}
     {% for row in section %} 
