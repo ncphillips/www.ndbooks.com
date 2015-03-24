@@ -1,10 +1,19 @@
 .book-cover img, img.book-cover {
-   box-shadow: 0 30px 50px rgba(0,0,0,0.3);
+   //box-shadow: 0 30px 50px rgba(0,0,0,0.3);
+   -webkit-box-shadow: 0 30px 50px 0 rgba(0,0,0,.3);
+    box-shadow: 0 30px 50px 0 rgba(0,0,0,.3);
     text-align: center;
       max-height: 90vh;
 }
 
-img.book-cover:hover {
+.book-cover-small img, img.book-cover-small {
+  -webkit-box-shadow: 0 10px 50px 0 rgba(0,0,0,.3);
+  box-shadow: 0 10px 50px 0 rgba(0,0,0,.3);
+  text-align: center;
+      max-height: 90vh;
+}
+
+img.book-cover:hover, .book-cover-small img:hover, img.book-cover-small:hover {
     box-shadow: 0 10px 30px rgba(0,0,0,0.1);
    //transition: opacity .3s ease-in-out;  
    @include transition(opacity 1.3s ease-in-out);
