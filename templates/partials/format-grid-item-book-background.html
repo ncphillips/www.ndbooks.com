@@ -1,11 +1,11 @@
 
-  <a href="{{ url(object) }}" class="grid-item ribbon-box" style="background-image:url(
+  <a href="{{ url(object) }}" class="grid-item" style="background-image:url(
   {% if editions %}
     {% if editions[0].image %}
-      {{ editions[0].image|imageSize(750) }}"
+      {{ editions[0].image|imageSize(750) }}
     {% else %}
       {% if object.image %}
-        {{ object.image|imageSize(300) }}">
+        {{ object.image|imageSize(300) }}
       {% elseif object.image_file %}
         {{ global.cdn_link }}{{ object.image_file }}
       {% endif %}
