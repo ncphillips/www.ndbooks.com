@@ -26,7 +26,7 @@
 
         <div class="small">{% include "templates/partials/mailchimp.html" %}</div>
       </aside>
-      {% for event in events %}
+{#       {% for event in events %}
         {% set event_date = event.start_date|date('U') %}
         {% if event.start_date && event_date > current_date %}
           <a  href="{{ url(event) }}">
@@ -36,11 +36,11 @@
             </aside>
           </a>
         {% endif %}
-      {% endfor %}
-      <aside class="theme-dark-gray script-only">
+      {% endfor %} #}
+      {# <aside class="theme-dark-gray script-only">
         {% include 'templates/partials/social-twitter-stream.html' %}
-      </aside>
-      <aside class="theme-blue-lighter">
+      </aside> #}
+      <aside class="theme-blue-lighterTK theme-gray">
           <h2>Mentioned</h2>
           {% for article in articles %}
             {% for object in article.related_book %}              
