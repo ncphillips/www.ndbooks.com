@@ -272,9 +272,9 @@ body.post .content {
   @include media($large-screen-up) {
     article {
       @include span-columns(4 of 12);
-
       margin-top:-65px;
       @include shift(8);
+      position: relative;
     }
     aside.metadata {
       @include span-columns(5 of 12);
@@ -290,6 +290,10 @@ body.post .content {
   }
 
 }
+
+// body.has-featured_image .layout-author article {
+//   margin-top:1em;
+// }
 
 //========================== BOOK =====================================\\
 

@@ -1,58 +1,48 @@
 .small-print {
-	font-size:12px;
+  font-size:12px;
 }
 
 ul.inline {
-	padding:0;
-	margin:0;
+  padding:0;
+  margin:0;
 }
 ul.inline li{
-	line-height:1;
-	display: inline;
-	margin:0 2.2em 0 0;
-	padding:0;
+  line-height:1;
+  display: inline;
+  margin:0 2.2em 0 0;
+  padding:0;
 }
 
 ul.subfooter {
-	margin-top:5em;
+  margin-top:5em;
 }
 
 ul.margin-none {
-	margin: 0;
-}
-
-ul.large li {
-  font-size: 1.25em;
+  margin: 0;
 }
 
 ul.block-list {
-		clear:both;
-		margin-top:.375em;
-		li {
-			margin-bottom:.5em;
-			font-family: $header-font-family;
-			
-		}
-		// @include media($medium-screen-up) {
-		// 	font-size: .9em;
-		// }
-		a:hover {
-			background-color: darken($base-background-color, 5%);
-		}
+    clear:both;
+    margin-top:.375em;
+    li {
+      margin-bottom:.5em;
+      font-family: $header-font-family;
+      
+    }
+    // @include media($medium-screen-up) {
+    //  font-size: .9em;
+    // }
+    a:hover {
+      background-color: darken($base-background-color, 5%);
+    }
 }
-
 
 ul.columns {
-		
-		@include media($medium-screen-up) {
-			@include columns(2 2em);
-			@include column-rule(1px solid $light-gray);
-
-		}
-}
-
-
-
+    @include media($medium-screen-up) {
+      @include columns(2 2em);
+      @include column-rule(1px solid $light-gray);
+    }
+  }
 
 .hero ul.links {
   margin-top: 1em;
@@ -61,26 +51,14 @@ ul.columns {
   }
 }
 
-.featured_image ul.links a:link {
-  background-color: white;
-  color: black;
-}
-body.book .hero .links-nav {
-  position: absolute;
-  bottom: 1em;
-  right: 2em;
-  
-}
 
-ul.links li{
-  z-index: 10000;
+ul.links li {
   margin-right: .5em;
   margin-bottom: .75em;
-  padding: .25em .425em;
   display: inline-block;
 }
 
-ul.links li a{
+ul.links li a {
   border: 1px solid darken($medium-gray, 20%);
   border-radius: 3px;
   padding: .25em .425em;
@@ -89,8 +67,127 @@ ul.links li a{
   display: inline-block;
 }
 
-ul.links li:hover{ 
-	@include transition (all 0.2s ease-in-out);
-	background-color: $black;
-	color: $lightest-gray;
+ul.links li a:hover { 
+  @include transition (all 0.2s ease-in-out);
+  background-color: $black;
+  color: $lightest-gray;
 }
+
+body.book .hero .links-nav {
+  position: absolute;
+  bottom: 1em;
+  right: 2em;
+  
+}
+
+.featured_image ul.links a{
+  background-color: $black;
+  
+  &:hover {
+    @include transition (all 0.2s ease-in-out);
+    background-color: $white;
+    color: $black;
+  }
+}
+
+
+
+// .small-print {
+// 	font-size:12px;
+// }
+
+// ul.inline {
+// 	padding:0;
+// 	margin:0;
+// }
+// ul.inline li{
+// 	line-height:1;
+// 	display: inline;
+// 	margin:0 2.2em 0 0;
+// 	padding:0;
+// }
+
+// ul.subfooter {
+// 	margin-top:5em;
+// }
+
+// ul.margin-none {
+// 	margin: 0;
+// }
+
+// ul.large li {
+//   font-size: 1.25em;
+// }
+
+// ul.block-list {
+// 		clear:both;
+// 		margin-top:.375em;
+// 		li {
+// 			margin-bottom:.5em;
+// 			font-family: $header-font-family;
+			
+// 		}
+// 		// @include media($medium-screen-up) {
+// 		// 	font-size: .9em;
+// 		// }
+// 		a:hover {
+// 			background-color: darken($base-background-color, 5%);
+// 		}
+// }
+
+
+// ul.columns {
+		
+// 		@include media($medium-screen-up) {
+// 			@include columns(2 2em);
+// 			@include column-rule(1px solid $light-gray);
+
+// 		}
+// }
+
+
+
+
+// .hero ul.links {
+//   margin-top: 1em;
+//   @include media($small-screen-up) {
+//       float: right
+//   }
+// }
+
+// body.book .hero .links-nav {
+//   position: absolute;
+//   bottom: 1em;
+//   right: 2em;
+  
+// }
+
+// ul.links li{
+//   margin-right: .5em;
+//   margin-bottom: .75em;
+//   display: inline-block;
+// }
+
+// ul.links li a {
+//   border: 1px solid darken($medium-gray, 20%);
+//   border-radius: 3px;
+//   padding: .25em .425em;
+//   margin-right: .5em;
+//   margin-bottom: .75em;
+//   display: inline-block;
+// }
+// ul.links li:hover { 
+// 	@include transition (all 0.2s ease-in-out);
+// 	background-color: $black;
+// 	color: $lightest-gray;
+// }
+
+// .featured_image ul.links a {
+//   background-color: white;
+//   color: black;
+//   &:hover {
+//     @include transition (all 0.2s ease-in-out);
+//     background-color: $black;
+//     color: $lightest-gray;
+//   }
+// }
