@@ -15,9 +15,7 @@
   {% set contributor_type       = item.contributor_type %}
   {% set books                  = merge(books_by_this_author, books_translated , books_edited, books_introduced) %}
   {% set reviews_of_this_author = item.reviews_related_author %}
-
   <div class="has-layout layout-author">
-      
       {# Author Bio: top on mobile, pushes to right side on large screens #}
     <article class="authors hentry">
       <header>
@@ -35,29 +33,14 @@
       {% endif %}
       </div>
     </article>
-
-
-          {# Metada Block: Center #}
-
+  {# Metada Block: Center #}
     <aside class="metadata">
-
       {% if related_events %}      
         <ul class="block-list{% if related_events.length > 8 %} columns{% endif %}">
-          {% for event in related_events %}
-          {% set event_date = event.start_date|date('U') %}
-            {% if event.start_date && event_date > current_date %}
-              {% if loop.first %}<h5>upcoming event{% if loop.revindex > 1 %}s{% endif %}</h5>{% endif %}
-            <li>
-              <a href="{{ url(event)}}">{% if event.start_date %}{{ event.start_date|date('M jS') }}: {% endif %}{{event.name}}</a>
-            </li>
-            {% endif %}
-          {% endfor %}
+          {% include "templates/partials/format-events_related-future.html" %}
         </ul>
         <hr />
       {% endif %}
-
-
-
         {# Related Books #}
       <h5><small>by</small> {{ item.name }}</h5>
       <ul class="block-list{% if books_by_this_author.length > 8 %} columns{% endif %}">
@@ -67,9 +50,6 @@
           </li>
         {% endfor %}
       </ul>
-
-
-
       {% if books_translated %}
         <h6><small><small>as</small> translator</small>  </h6>
         <ul class="block-list{% if books_translated.length > 8 %} columns{% endif %}">
@@ -80,9 +60,6 @@
           {% endfor %}
         </ul>
       {% endif %}
-
-
-
        {% if books_edited %}
         <h6><small><small>as</small> translator</small>  </h6>
         <ul class="block-list{% if books_translated.length > 8 %} columns{% endif %}">
@@ -93,9 +70,6 @@
           {% endfor %}
         </ul>
       {% endif %}
-
-
-
        {% if books_introduced %}
         <h6><small>books introduced</small>  </h6>
         <ul class="block-list{% if books_translated.length > 8 %} columns{% endif %}">
@@ -106,9 +80,6 @@
           {% endfor %}
         </ul>
       {% endif %}
-
-
-
       {% if related_articles %}
       <hr />
         <h5>related articles</h5>
@@ -117,8 +88,7 @@
             <li>
               <a href="{{ url(article)}}">{{article.name}}</a>
             </li>
-          {% endfor %}
-          
+          {% endfor %}          
           <div style="display:none;">
             {% for article in related_articles|slice(10,100) %}
             <li>
@@ -129,20 +99,13 @@
         </ul>
         <hr />
       {% endif %}
-
     </aside>
-
     {# AUTHOR IMAGE - pull this over to the left #}
       <aside class="photo">
         {% include "templates/partials/format-image-medium.html" %}
       </aside>
-
-
     {# //AUTHORS BOOKS divide the group#}
-
-    <hr class="section-divider" />
-
-      
+    <hr class="section-divider" />      
       {% if reviews_of_this_author %}
         {% if item.featured_image %}
           {% for review in reviews_of_this_author|slice(0,3) %}
@@ -159,8 +122,6 @@
         {% endif %}
       {% endif %}
     </div>
-
-
     <div class="page-items" data-search-index="false">
       {% if books %}
         {% for object in books %} {# reversed #}
@@ -170,10 +131,7 @@
       {% endif %}      
       {# //END AUTHORS BOOKS #}
     </div>
-
-
-{% include "templates/partials/format-page-link.html" %}
-
+  {% include "templates/partials/format-page-link.html" %}
   {% set prev = prevItem(item, 'last') %}
   {% set next = nextItem(item, 'last') %}
 {% include "templates/partials/prev-next.html" %}
