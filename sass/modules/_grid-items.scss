@@ -126,6 +126,9 @@
     }
   }
 
+ 
+  
+
 
   // &:focus,
   //       &:hover {
@@ -215,3 +218,26 @@ body.home .grid-item h2 {
   .naked {
           background-color:darken($base-background-color, 2%);
         }
+
+
+
+ // body.home .grid-items .author {
+ //    background-color: darken($base-background-color, 8%);
+
+ //  }
+ // body.home .grid-items .book {
+ //    background-color: darken($base-background-color, 4%);
+ //  }
+ 
+ // body.home .grid-items .article {
+ //    background-color: darken($base-background-color, 10%);
+ //  }
+ 
+ // body.home .grid-items .event {
+ //    background-color: darken($base-background-color, 12%);
+ //  }        
+
+
+body.home .grid-items .author, body.home .grid-items .book, body.home .grid-items .article, body.home .grid-items .event {
+  background-color: darken($base-background-color, 4%);
+}  
