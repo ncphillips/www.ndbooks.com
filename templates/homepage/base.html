@@ -35,18 +35,17 @@
         </ul>
     {% endif %}
 
-    
     <div id="grid-container" class="flex-boxes-homeTK grid-items">
       {% for object in home|slice(0,1) %}
         {% for row in object.grid %}
-          <a href="{{ url(row.relationship) }}" class="grid-item grid-item-image item TKflex-box-home{% if loop.index == 1 %} grid-item-bigTK{% endif %}" style="height:auto;">          
+          <a href="{{ url(row.relationship) }}" class="grid-item grid-item-image item {% if loop.index == 1 %} grid-item-bigTK{% endif %} {{ row.relationship._type }}" style="height:auto;">          
             {% if row.copy %}
               {{ row.copy|safe|replace('<a href', '<span src', 'g')|replace('</a', '</span', 'g') }}
               {% elseif row.relationship._type == 'book' %}
               {% set edition = row.relationship.editions|first %}
                 {% set image = edition.image|imageSize(750, 'auto') %}
                <figure data-type="image">
-                <img src="{{ image }}" alt="cover image for {{ row.relationship.name }}" class="book-coverTK" />
+                <img src="{{ image }}" alt="cover image for {{ row.relationship.name }}" class="book-cover" />
               </figure>
             {% endif %}
           </a>
@@ -65,26 +64,18 @@
       {% endfor %}
     </section>
   </div>
-  {% set books = cms.book %}
-  {% set books = books|sort('publication_date', true) %}
-  {% if books %}
-    {% for object in books|slice(0,25) %}
-      {% set edition = object.editions|first %}          
-      {% set publication_date = object.publication_date %}
-      {% set publication_date_unix = publication_date|date('U') %}
-      {% set show_date = 'yes' %}            
-      {% if publication_date_unix < current_date  %}
-        {% include "templates/partials/format-books-list.html" %}
-      {% endif %}
-    {% endfor %}
-      
-
-  {% endif %}
-
-
-
-
-
+  {% for object in home|slice(0,1) %}
+  {% set books = object.featured_books %}
+    {% if books %}
+      {% for object in books|slice(0,25) %}
+        {% set edition = object.editions|first %}          
+        {% set publication_date = object.publication_date %}
+        {% set publication_date_unix = publication_date|date('U') %}
+        {% set show_date = 'yes' %}                  
+          {% include "templates/partials/format-books-list.html" %}      
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
   {% include "templates/partials/layout-mailing-list.html" %}
   <section class="row" style="margin:3em .375em;">
     {% include "templates/partials/cards-articles.html" %}
