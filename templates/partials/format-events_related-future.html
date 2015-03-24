@@ -1,0 +1,9 @@
+{% set related_events = related_events|where('start_date') %}
+{% for event in related_events %}
+  {% set event_date = event.start_date|date('U') %}
+  {% if event_date > current_unix_date %}
+    <li>
+      <strong>Event: </strong><a href="{{ url(event)}}">{% if event.start_date %}{{ event.start_date|date('M jS') }}: {% endif %}{{event.name}}</a>{% if !loop.last %} {% endif %}
+    </li>
+  {% endif %}
+{% endfor %}
