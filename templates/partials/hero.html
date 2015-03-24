@@ -9,9 +9,7 @@
 {% if item.quote %}
 {% set review = item.quote %}
 {% endif %}
-
 {% set page_name = item.name %}
-
   {% if item._type == 'author' %}
     {% set reviews_of_this_author = item.reviews_about %}
       {% if not item.featured_image %}      
@@ -27,23 +25,13 @@
          </div> 
       </div>
     {% endif %}
-    
     {% elseif item._type == 'event' %}
-
     <div class="hero-inner">
-          <div class="hero-copy">
-            
-              
-               <h2> {% include "templates/partials/format-event-dates.html" %}</h2>
-              
-            
-         </div> 
-      </div>
-
-
-
-    {% else %}
-
+      <div class="hero-copy">              
+        <h2> {% include "templates/partials/format-event-dates.html" %}</h2>            
+      </div> 
+    </div>
+{% else %}
   {% if review %}
     <div class="hero-inner">
       <div class="hero-copy">
@@ -56,7 +44,5 @@
       <h1 class="page-heading">{# {{ page_name }} #}</h1>
   {% endif %}
 {% endif %}
-
-
 {# //============================= #}
   </div> 

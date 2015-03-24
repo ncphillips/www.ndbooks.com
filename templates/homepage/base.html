@@ -28,7 +28,7 @@
             {% set event_date = event.start_date|date('U') %}
             {% if event.start_date && event_date > current_date %}                
             <li class="centered">
-              <a href="{{ url(event)}}">{% if event.start_date %}{{ event.start_date|date('M jS') }}: {% endif %}{{event.name}}</a>
+              <strong>Event: </strong><a href="{{ url(event)}}">{% if event.start_date %}{{ event.start_date|date('M jS') }}: {% endif %}{{event.name}}</a>
             </li>
             {% endif %}
           {% endfor %}

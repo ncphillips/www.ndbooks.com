@@ -57,10 +57,6 @@
     </script>
   {% endif %}
   
-
-
-
-
   {# //END head #}
   {% block head_extra %}
   {# // TODO: DOES THIS PREV NEXT GO HERE IN HEAD EXTRA? #}
@@ -75,7 +71,7 @@
     {% endblock %}
   </head>
   {# body classes: if splash_image, category, theme, page class #}
-  <body id="container" class="{% if item.theme.name %}{{ item.theme.name }}{% endif %}{% if item._type %} {{ item._type }}{% endif %}{% if item.page_layout %}-{{ item.page_layout|replace('.html','') }}{% endif %}{% if item.splash_image %} splash{% endif %}{% block body_class %}{% endblock %}" {% block body_attributes %}data-search-index="false"{% endblock %}>
+  <body id="container" class="{% if item.theme.name %}{{ item.theme.name }}{% endif %}{% if item._type %} {{ item._type }}{% endif %}{% if item.page_layout %}-{{ item.page_layout|replace('.html','') }}{% endif %}{% if item.featured_image %} has-featured_image{% endif %}{% block body_class %}{% endblock %}" {% block body_attributes %}data-search-index="false"{% endblock %}>
   <div class="wrap">
     <a href="#start-of-content" tabindex="1" class="accessibility-aid" data-search-index="false">Skip to content</a>
   {% block hero %}{# //let page types overide the hero inner element, even though much of it is conditionally determined #}
@@ -93,7 +89,6 @@
     </div>
   </body>
 </html>
-
 {# 
 TODO:
 fill out linear gradients for cros-browser #}

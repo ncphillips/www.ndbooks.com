@@ -98,6 +98,10 @@ body.light-gray, body.article, body.event {
   @include site-theme($lightest-gray, $dark-gray);
 }
 
+.theme-gray  {
+  @include site-theme($white, $dark-gray);
+}
+
 
 
 .theme-social  {

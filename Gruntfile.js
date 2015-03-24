@@ -101,12 +101,12 @@ module.exports = function(grunt) {
     watch: {
       concat : {
         files:  'static/javascript/**/*.js',
-        tasks: ['concat', 'uglify', 'build'],
+        tasks: ['concat', 'uglify','build'],
          nonull: true,
       },
       sass : {
         files: 'sass/**/*.scss',
-        tasks: ['sass', 'build'],
+        tasks: ['sass','build'],//tasks: ['sass', 'build'],
          nonull: true,
       }
     }
