@@ -12,32 +12,34 @@
 {% block hero %}{# //let page types overide the hero inner element, even though much of it is conditionally determined #}
     {% include "templates/partials/hero-home.html" %}
   {% endblock %}
-{% block content %}
+{% block content %}    
+  {% set events = cms.event|where('featured') %}
+  {% set events = events|sort('start_date') %}
+  {% set event_date = events.start_date|date('U') %}
+  {% set home = cms.homepage %}
     
-    {% set now = Date() %}
-    {% set current_date = now|date('U')%}
-    {% set events = cms.event|where('featured') %}
-    {% set events = events|sort('start_date') %}
-    {% set event_date = events.start_date|date('U') %}
-    {% set home = cms.homepage %}
+  {% if events %}
+    <ul class="large" style="margin:4em auto;">
+        
+        {% for event in events|slice(0,30) %}        
+          {% set event_date = event.start_date|date('U') %}
+          {% if event.start_date && event_date > current_date %}                
+          <li class="centered">
+            <strong>Event: </strong><a href="{{ url(event)}}">{% if event.start_date %}{{ event.start_date|date('M jS') }}: {% endif %}{{event.name}}</a>
+          </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+  {% endif %}
 
-    {% if events %}
-      <ul class="large" style="margin:4em auto;">
-          
-          {% for event in events|slice(0,30) %}        
-            {% set event_date = event.start_date|date('U') %}
-            {% if event.start_date && event_date > current_date %}                
-            <li class="centered">
-              <strong>Event: </strong><a href="{{ url(event)}}">{% if event.start_date %}{{ event.start_date|date('M jS') }}: {% endif %}{{event.name}}</a>
-            </li>
-            {% endif %}
-          {% endfor %}
-        </ul>
-    {% endif %}
+  {% for object in home|slice(0,1) %}{#  //THESE ARE ALL THE HOMEPAGE OPTIONS SET IN THE CP #}
+    {% set grid    = object.grid %}
+    {% set review  = object.featured_review %}
+    {% set books   = object.featured_books %}
 
-    <div id="grid-container" class="flex-boxes-homeTK grid-items">
-      {% for object in home|slice(0,1) %}
-        {% for row in object.grid %}
+    {% if grid %}{#  // IF WE SET GRID ITEMS #}
+      <div id="grid-container" class="flex-boxes-homeTK grid-items">
+        {% for row in grid %}
           <a href="{{ url(row.relationship) }}" class="grid-item grid-item-image item {% if loop.index == 1 %} grid-item-bigTK{% endif %} {{ row.relationship._type }}" style="height:auto;">          
             {% if row.copy %}
               {{ row.copy|safe|replace('<a href', '<span src', 'g')|replace('</a', '</span', 'g') }}
@@ -50,23 +52,22 @@
             {% endif %}
           </a>
         {% endfor %}
-      {% endfor %}
-    </div>
-  <div class="clear" style="width:100%;clear:both;"></div>
-  <div class="page-item clear"> {# {% cycle 'one', 'two', 'three' %} #}
-    <section>
-      {% set reviews = cms.review %}
-      {% set reviews = reviews|where('_id', '-JatT2ZToBjJ2946Uobw') %}
-      {% for review in reviews %}
-        <blockquote class="review presentational" >
-          {% include "templates/partials/format-quotes.html" %}
-        </blockquote>
-      {% endfor %}
-    </section>
-  </div>
-  {% for object in home|slice(0,1) %}
-  {% set books = object.featured_books %}
-    {% if books %}
+      </div>
+    {% endif %}
+
+    <div class="clear" style="width:100%;clear:both;"></div>
+
+    {% if review %}{#  // IF WE SET A REVIEW #}
+      <div class="page-item clear" style="background:none;"> {# {% cycle 'one', 'two', 'three' %} #}
+        <section>
+          <blockquote class="review presentational" >
+            {% include "templates/partials/format-quotes.html" %}
+          </blockquote>
+        </section>
+      </div>
+    {% endif %}
+
+    {% if books %}{#  // IF WE FEATURE BOOKS #}
       {% for object in books|slice(0,25) %}
         {% set edition = object.editions|first %}          
         {% set publication_date = object.publication_date %}
@@ -75,7 +76,10 @@
           {% include "templates/partials/format-books-list.html" %}      
       {% endfor %}
     {% endif %}
-  {% endfor %}
+  
+  {% endfor %} {#  //END for object in home #}
+
+
   {% include "templates/partials/layout-mailing-list.html" %}
   <section class="row" style="margin:3em .375em;">
     {% include "templates/partials/cards-articles.html" %}
