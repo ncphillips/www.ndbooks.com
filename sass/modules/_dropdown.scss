@@ -1,14 +1,17 @@
 .dropdown {
   ///////////////////////////////////////////////////////////////////////////////////
-  $base-border-color: gainsboro !default;
-  $base-border-radius: 3px !default;
-  $base-line-height: 1.5em !default;
-  $base-background-color: white !default;
-  $dark-gray: #333 !default;
-  $large-screen: em(860) !default;
-  $base-font-color: $dark-gray !default;
+  // $base-border-color: gainsboro !default;
+  // $base-border-radius: 3px !default;
+  // $base-line-height: 1.5em !default;
+  // $base-background-color: white !default;
+  // $dark-gray: #333 !default;
+  // $large-screen: em(860) !default;
+  // $base-font-color: $dark-gray !default;
   
   line-height: $base-line-height;
+  @include media($medium-screen-up) { 
+    display: none;
+  }
 
   ul {
     padding: 0;
@@ -102,7 +105,7 @@
     display: none;
     overflow: show;
     position: absolute;
-    right: 0;
+    left: 0;
     top: $dropdown-distance-from-menu;
     width: 228px;
     z-index: 99999;

@@ -1,6 +1,13 @@
+.hidden-mobile {
+  display: none;
+  @include media($medium-screen-up) { 
+    display:inline-block;
+  }
+}
+
+
 ul.button-group {
   margin: 0;
-  display:inline-block;
 }
 ul.button-group li {
   display: inline-block;
@@ -13,6 +20,11 @@ ul.button-group li {
 
   &.active {
   background-color: lighten($black, 2%);
+  }
+  width: 100%;
+  margin-bottom: 1em;
+  @include media($medium-screen-up) { 
+    width: auto;
   }
   
 }

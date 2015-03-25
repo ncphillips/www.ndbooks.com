@@ -12,7 +12,8 @@
 {% set series = cms.series %}
   <div class="local-nav"><!--  //Filter for the content below -->
     <div class="interior">
-      <ul class="button-group accordion">
+
+      <ul class="button-group accordion hidden-mobile">
         <li class="button"><a href="/books/" class="button">New & Forthcoming</a></li> 
         <li><a href="/books/fiction/" class="button">Fiction</a></li>
         <li><a href="/books/nonfiction/" class="button">Nonfiction</a></li>
@@ -22,16 +23,33 @@
           <li><a href="{{ url(object) }}" class="button">{{ object.name }}</a></li>
         {% endfor %}
       </ul>
-      <ul class="button-group" style="float:right;">
+      <ul class="button-group hidden-mobile" style="float:right;">
        <li class="button" ><a href="/books/all/" class="button">Complete List</a></li> 
       </ul>
+
+      <div class="dropdown">
+        <div class="dropdown-container">
+          <p class="dropdown-description">Select</p>
+          <p class="dropdown-button">Genre</p>
+          <ul class="dropdown-menu dropdown-select">
+            <li class="button"><a href="/books/" class="button">New & Forthcoming</a></li> 
+              <li><a href="/books/fiction/" class="button">Fiction</a></li>
+              <li><a href="/books/nonfiction/" class="button">Nonfiction</a></li>
+              <li><a href="/books/poetry/" class="button">Poetry</a></li>      
+              <li><a href="/books/theater/" class="button">Theater</a></li>
+              {% for object in series %}
+                <li><a href="{{ url(object) }}" class="button">{{ object.name }}</a></li>
+              {% endfor %}
+              <li class="button" ><a href="/books/all/" class="button">Complete List</a></li> 
+          </ul>
+        </div>
+      </div>
     </div>
   </div> 
   <div id="section0" class="layout-page">
     <section class="content-primary">
       <div id="tipue_search_content"></div>
       {% block books_list %}
-
       {% endblock %}
     </section>
   </div>

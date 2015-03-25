@@ -15,7 +15,9 @@
   {% endif %}
 {% set books = books|sort('publication_date', true) %}
 
-  <h1>{{ item.name}} <small>{{ books.length }} books</small></h1>
+  <div class="row row-padded">
+    <h1>{{ item.name}} <small>{{ books.length }} books</small></h1>
+  </div>
   <div class="grid-items list-filter">
     {% for object in books|slice(0,1250) %}
       {% set edition = object.editions|first %}          

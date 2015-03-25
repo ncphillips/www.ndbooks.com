@@ -2,8 +2,12 @@
 .row {
   @nclude row();
 }
-.interior {
+.row-padded {
   @include outer-container;
+   @include pad(1em);
+  @include media($large-screen-up) { 
+    @include pad(0);
+  }
 }
 
 .shifted-to-center {

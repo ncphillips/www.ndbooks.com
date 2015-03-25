@@ -1,7 +1,10 @@
-
-.local-nav {
-  height: 3em;
+.local-nav {  
   width: 100%;
   background-color: #ededed;
-  padding: 1.5em 2em 3.1em 2em;
+  height: auto;
+  padding: 1em;
+  @include media($large-screen-up) { 
+    height: 3em;
+    padding: 1.5em 2em 3.1em 2em;
+  }
 }
