@@ -1,8 +1,6 @@
 {% extends "templates/partials/base.html" %}
 {% block body_class %} home{% endblock %}
 {% block title %}{% parent %} - {{ item.name }}{% endblock %}
-{% set now = Date() %}
-{% set current_date = now |date('U') %}
 {% if cms.global.featured_image %}
   {% block head_extra %}
     {#  Adds CSS Styles to the head to show featured image in the hero unit  #}
@@ -15,20 +13,19 @@
 {% block content %}    
   {% set articles = cms.article|where('featured') %}
   {% set articles = articles|sort('publish_date') %}
-  {% set events = cms.event|where('featured') %}
-  {% set events = events|sort('start_date') %}
-  {% set event_date = events.start_date|date('U') %}
+  {% set upcoming_events = cms.event|where('featured') %}
+  {% set upcoming_events = upcoming_events|sort('start_date') %}
   {% set home = cms.homepage %}
   
-  {% if events or articles %}
+  {% if upcoming_events or articles %}
     <ul class="large" style="margin:4em auto;">
   {% endif %}
-  {% if events %}      
-    {% for event in events|slice(0,2) %}        
+  {% if upcoming_eventsTK %}
+    {% for event in upcoming_events %}        
       {% set event_date = event.start_date|date('U') %}
-      {% if event.start_date && event_date > current_date %}                
+      {% if event_date > current_unix_date %}                
         <li class="centered">
-          <strong>Event: </strong><a href="{{ url(event)}}">{% if event.start_date %}{{ event.start_date|date('M jS') }}: {% endif %}{{event.name}}</a>
+          <strong>Event: </strong><a href="{{ url(event)}}">{% if event.start_date %}{{ event.start_date|date('M jS') }} – {% endif %}{{event.name}}</a>
         </li>
         {% endif %}
     {% endfor %}
@@ -36,7 +33,7 @@
   {% if articles %}
     {% for object in articles|slice(0,2) %}        
       <li class="centered">
-        <strong>Update: </strong><a href="{{ url(object) }}">{{object.name}}</a>
+        {# <strong>Update: </strong> #}<a href="{{ url(object) }}">{{object.name}}</a>
       </li>        
     {% endfor %}
   {% endif %}
@@ -50,7 +47,7 @@
     {% set books   = object.featured_books %}
 
     {% if grid %}{#  // IF WE SET GRID ITEMS #}
-      <div id="grid-container" class="flex-boxes-homeTK grid-items">
+      <div id="grid-container" class="grid-items">
         {% for row in grid %}
           <a href="{{ url(row.relationship) }}" class="grid-item grid-item-image item {% if loop.index == 1 %} grid-item-bigTK{% endif %} {{ row.relationship._type }}" style="height:auto;">          
             {% if row.copy %}
