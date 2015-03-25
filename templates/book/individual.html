@@ -60,19 +60,9 @@
                 <hr class="transparent" />
                 
                 <h5 class="red">Available {{ publication_date|date('F jS, Y') }}</h5>
-              {% endif %}
-          
-        
-
-
-
-
+              {% endif %}        
         </div>
       
-
-
-
-
       </section>{#  // END TOP ROW #}
 
       <hr />
@@ -124,11 +114,9 @@
           {% include "templates/partials/format-book-metadata.html" %}
         {% endif %}
 
-
+{% if authors %}
     {# 4TH ROW AUTHOR PHOTO #}
-      <div class="page-item shape case-2" style="background-image:url(/static/images/logos-archive/logo-ndbooks-aaa.svg);background-repeat:no-repeat;background-position:center center;">
-         
-        {% if authors %}
+      <div class="page-item shape case-2" style="background-image:url(/static/images/logos-archive/logo-ndbooks-aaa.svg);background-repeat:no-repeat;background-position:center center;">        
         <div class="flex-boxes">
           {% for object in authors %}            
               <div class="flex-box naked grid-item author-block">
@@ -149,10 +137,9 @@
                   </a>                
               </div>            
           {% endfor %}
-          </div>
-        {% endif %}
+          </div>        
         </div>
-
+{% endif %}
       {# 5TH ROW MORE REVIEWS #}
       <div class="has-layout layout-book">
         {# <hr class="section-divider" style="margin-bottom:8em;" /> #}
