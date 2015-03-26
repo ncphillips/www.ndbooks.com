@@ -74,10 +74,11 @@ ul.links li a:hover {
 }
 
 body.book .hero .links-nav {
-  position: absolute;
-  bottom: 1em;
-  right: 5em;
-  
+  @include media($medium-screen-up) {
+    position: absolute;
+    bottom: 1em;
+    right: 5em;
+  }
 }
 
 .featured_image ul.links a{
