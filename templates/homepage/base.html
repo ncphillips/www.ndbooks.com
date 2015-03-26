@@ -11,7 +11,7 @@
     {% include "templates/partials/hero-home.html" %}
   {% endblock %}
 {% block content %}    
-  {% set articles = cms.article|where('featured') %}
+  {% set articles = cms.article|where('featured', true) %}
   {% set articles = articles|sort('publish_date') %}
   {% set upcoming_events = cms.event|where('featured') %}
   {% set upcoming_events = upcoming_events|sort('start_date') %}
@@ -20,8 +20,8 @@
   {% if upcoming_events or articles %}
     <ul class="large" style="margin:4em auto;">
   {% endif %}
-  {% if upcoming_eventsTK %}
-    {% for event in upcoming_events %}        
+  {% if upcoming_events %}
+    {% for event in upcoming_events|slice(0,1) %}        
       {% set event_date = event.start_date|date('U') %}
       {% if event_date > current_unix_date %}                
         <li class="centered">
