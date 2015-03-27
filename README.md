@@ -9,7 +9,7 @@ wh update (with flags if self-hosted)
 
 bower update
 
-_npm install --save-dev grunt-contrib-sass_ (new only)
+npm install --save-dev grunt-contrib-sass (new only)
 
 cd sass && gem update bitters
 
