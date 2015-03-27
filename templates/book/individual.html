@@ -55,7 +55,9 @@
             {% elseif item.copy %}
               <div class="align-left">{{ item.copy|safe }}</div>
             {% endif %}
-            {% set publication_date_unix = publication_date|date('U') %}
+            {# {% set publication_date_unix = publication_date|date('U') %} #}
+            {% set publication_date_unix = item._sort_publication_date %}
+            
               {% if publication_date_unix > current_unix_date %}
                 <hr class="transparent" />
                 
