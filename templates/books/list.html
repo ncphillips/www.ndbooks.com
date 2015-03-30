@@ -4,7 +4,6 @@
   {% parent %}
   <link rel="prefetch" href="/books/poetry/" />
   <link rel="prefetch" href="/books/fiction/" />
-  <script src="/.wh/searchjson.js"></script>
 {% endblock %}
   {% block books_list %}
   <div id="tipue_search_content"></div>
@@ -40,3 +39,7 @@
         {% endfor %}        
       </div>
   {% endblock %}
+{% block scripts_extra %}
+    {# DO NOT MINIFY THIS FILE #}
+  <script src="/.wh/searchjson.js"></script>
+{% endblock %}    
