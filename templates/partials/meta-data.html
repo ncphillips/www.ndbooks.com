@@ -30,7 +30,7 @@
   
 
   {% if item.featured_image %}
-    <meta content="{{ getSetting('site_url') }}{{ item.featured_image.url }}" property="og:image" data-type="featured image">
+    <meta content="{{ item.featured_image.url }}" property="og:image" data-type="featured image">
   {% elseif books %}
     {% for book in books %}
       {% for edition in book.editions|slice(0,1) %}
