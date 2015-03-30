@@ -11,6 +11,8 @@
     {% set related_events        = related_events|sort('start_date') %}
     {% set authors               = item.authors %}
     {% set translators           = item.translators %}
+    {% set editors               = item.editors %}
+    {% set contributors          = item.contributors %}
     {% set original_language     = item.original_language %}
     {% set reviews_of_this_book  = item.reviews_related_book %}
     {% set editions              = item.editions %}
@@ -85,6 +87,17 @@
                 {% include "templates/partials/format-translators-list.html" %}
               </h5>          
             {% endif %}
+            {% if editors %}
+              <h5 style="font-weight:400;">
+                {% include "templates/partials/format-editors-list.html" %}
+              </h5>          
+            {% endif %}
+            {% if contributors %}
+              <h5 style="font-weight:400;">
+                {% include "templates/partials/format-contributors-list.html" %}
+              </h5>          
+            {% endif %}
+
           </header>
           {% if item.copy %}
             <div class="entry-content lead">
