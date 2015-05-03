@@ -16,3 +16,17 @@ cd sass && gem update bitters
 add static/cms.css to pages/cms.html
 
 ```
+
+
+### Fonts used
+
+- Cloud Typograhy (Hoefler & Co.)
+- Archer Screensmart Book
+- Archer Screensmart Book italic
+- Verlag Book
+- Verlag Book italic
+- Verlag Black
+- Verlag Black italic
+
+Google Web Fonts
+- Raleway 400, 500
