@@ -3,7 +3,7 @@ img.grayscale, .grayscale img {
   -webkit-filter: grayscale(1);
   filter: grayscale(100%);
 
-  filter: url('/assets/images/gray.svg#grayscale');
+//  filter: url('/assets/images/gray.svg#grayscale');
   filter: gray;
 }
 

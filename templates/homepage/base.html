@@ -54,8 +54,8 @@
               {{ row.copy|safe|replace('<a href', '<span src', 'g')|replace('</a', '</span', 'g') }}
               {% elseif row.relationship._type == 'book' %}
               {% set edition = row.relationship.editions|first %}
-                {% set image = edition.image|imageSize(350, 'auto') %}
-               <figure data-type="image">
+                {% set image = edition.image|imageSize(350, 500) %}
+              <figure data-type="image">
                 <img src="{{ image }}" alt="cover image for {{ row.relationship.name }}" class="book-cover" />
               </figure>
             {% endif %}
