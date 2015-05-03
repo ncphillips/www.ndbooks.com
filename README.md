@@ -20,7 +20,7 @@ add static/cms.css to pages/cms.html
 
 ### Fonts used
 
-- Cloud Typograhy (Hoefler & Co.)
+Cloud Typograhy (Hoefler & Co.)
 - Archer Screensmart Book
 - Archer Screensmart Book italic
 - Verlag Book
