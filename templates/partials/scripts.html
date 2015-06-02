@@ -1,4 +1,30 @@
-<script src="/static/javascript/dist/scripts.min.js" async></script>
+<script type="text/javascript">
+function downloadJSAtOnload() {
+  var element = document.createElement("script");
+  element.src = "/static/javascript/dist/scripts.min.js";
+  document.body.appendChild(element);
+
+  // var element_addthis = document.createElement("script");
+  // element_addthis.src = "//s7.addthis.com/js/300/addthis_widget.js{% if site.addthis_id %}#pubid={{site.addthis_id}}{% endif %}";
+  // document.body.appendChild(element_addthis);
+
+ var element_mailchimp = document.createElement("script");
+  element_mailchimp.src = "//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js";
+  document.body.appendChild(element_mailchimp);
+
+}
+if (window.addEventListener)
+window.addEventListener("load", downloadJSAtOnload, false);
+else if (window.attachEvent)
+window.attachEvent("onload", downloadJSAtOnload);
+else window.onload = downloadJSAtOnload;
+</script>
+
+{# Mailchimp #}
+<script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='MMERGE3';ftypes[3]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+
+
+
 {# {% if getCurrentUrl() == '/search-results/' %}
   <script src="/static/javascript/dist/scripts-tipue.min.js" async></script>
 {% else %}
