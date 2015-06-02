@@ -6,7 +6,7 @@
   <div class="card">
   {% if article.gallery %}
     <div class="card-image">
-      <img src="{{ article.gallery|first|imageCrop(340) }}" alt="">
+      <a href="{{ url(article) }}"><img src="{{ article.gallery|first|imageCrop(340) }}" alt=""></a>
     </div>
     {% endif %}
     <div class="card-header">
