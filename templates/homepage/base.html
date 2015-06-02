@@ -14,7 +14,7 @@
   {% set articles = cms.article|where('featured', true) %}
   {% set articles = articles|sort('publish_date') %}
   {% set upcoming_events = cms.event|where('featured') %}
-  {% set upcoming_events = upcoming_events|sort('start_date') %}
+  {% set upcoming_events = upcoming_events|sort('start_date', true) %}
   {% set home = cms.homepage %}
   
   {% if upcoming_events or articles %}
@@ -96,5 +96,22 @@
 {% endblock %}
 
 {% block scripts_extra %}
-  <script type="text/javascript" src="/static/javascript/dist/scripts-masonry.min.js" async></script>
+{#   <script type="text/javascript" src="/static/javascript/dist/scripts-masonry.min.js" async></script> #}
+
+<script type="text/javascript">
+function downloadJSAtOnload() {
+  var element_masonry = document.createElement("script");
+  element_masonry.src = "/static/javascript/dist/scripts-masonry.min.js";
+  document.body.appendChild(element_masonry);
+
+  // var element_addthis = document.createElement("script");
+  // element_addthis.src = "//s7.addthis.com/js/300/addthis_widget.js{% if site.addthis_id %}#pubid={{site.addthis_id}}{% endif %}";
+  // document.body.appendChild(element_addthis);
+}
+if (window.addEventListener)
+window.addEventListener("load", downloadJSAtOnload, false);
+else if (window.attachEvent)
+window.attachEvent("onload", downloadJSAtOnload);
+else window.onload = downloadJSAtOnload;
+</script>
 {% endblock %}
