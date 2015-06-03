@@ -1,6 +1,9 @@
 {# variables: includeBuyInfo, imageWidth #}
 {% set editions              = object.editions %}
 {% set authors               = object.authors %}
+{% set editors               = object.editors %}
+{% set translators           = object.translators %}
+{% set contributors          = object.contributors %}
 {% set edition               = object.editions|first %}
 {% set current_date          = now|date('U') %}
 {% set publication_date      = object.publication_date %}
@@ -9,10 +12,11 @@
 <div class="page-item case-{{ loop.index }}"  id="{{ object.slug|replace('/', '') }}"> {# {% cycle 'one', 'two', 'three' %} #}
   <section class="{{ loop.index0 }}">
       <div class="cover">
-        {% include "templates/partials/format-image-bookcover-medium.html" %}
+        <a href="{{ url(object) }}">{% include "templates/partials/format-image-bookcover-medium.html" %}</a>
         <br />
       </div>
       <div class="copy" style="margin-top:-.5rem;">
+        {% set includeAuthors = true %}
         {% include "templates/partials/format-book-copy.html" %}
       </div>
   </section>

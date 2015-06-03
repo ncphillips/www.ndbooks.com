@@ -5,11 +5,69 @@
   </a>
 </h1>
 <div class="facing-item">
-  {% if object.genre %}
+ {% if includeAuthors != false %} 
     <h2>
-      <small>{{ object.genre }}{% if includeAuthors != false %} by {% include "templates/partials/format-authors-list.html" %}{% endif %}</small>
+      <small>
+        {% if object.genre %}{{ object.genre }}{% endif %} 
+         by {% include "templates/partials/format-authors-list.html" %}
+      </small>
     </h2>
-  {% endif %} 
+   {% if translators %}
+      <h5 style="font-weight:400;">
+        {% include "templates/partials/format-translators-list.html" %}
+      </h5>          
+    {% endif %}
+    {% if editors %}
+      <h5 style="font-weight:400;">
+        {% include "templates/partials/format-editors-list.html" %}
+      </h5>          
+    {% endif %}
+    {% if contributors %}
+      <h5 style="font-weight:400;">
+        {% include "templates/partials/format-contributors-list.html" %}
+      </h5>          
+    {% endif %}
+<br />
+{% endif %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   {% if object.copy %}
     {{ object.copy|safe }}
   {% endif %}
