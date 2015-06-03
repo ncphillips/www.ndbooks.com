@@ -27,47 +27,8 @@
         {% include "templates/partials/format-contributors-list.html" %}
       </h5>          
     {% endif %}
-<br />
-{% endif %}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    <br />
+  {% endif %}
   {% if object.copy %}
     {{ object.copy|safe }}
   {% endif %}
@@ -76,7 +37,7 @@
     <h5 class="red">Available: {{ publication_date|date('F d Y') }}</h5>
   {% endif %}
 </div>
-<hr class="transparent" />
+  <hr class="transparent" />
 <a href="{{ url(object) }}"><button name="button"> more information </button> </a>
 {% if includeBuyInfo != false %}
   {% if editions %}
