@@ -28,43 +28,14 @@ module.exports = function(grunt) {
         'static/javascript/site-unveil.js', //relace with lazy load
         'static/javascript/site-smooth-scroll.js',                 
         'static/javascript/site-js-menu.js',  
-        'static/javascript/site.js',         
+        'static/javascript/site.js', 
+        'bower_components/listjs/dist/list.min.js',
+        'static/javascript/site-listjs.js',        
         'static/javascript/tipue.js',
         'static/javascript/site-tipue.js'                             
         
       ],
       dest: 'static/javascript/dist/scripts.js'
-    },
-    scripts_requiring_jquery: { //combine all the jquery dependent scripts here instead of using them seperately
-      src: [      
-      'bower_components/jquery/dist/jquery.min.js',
-      'bower_components/jquery-cycle2/build/jquery.cycle2.min.js',
-      'static/javascript/tipue.js',
-      'static/javascript/site-tipue.js'                       
-      ],
-      dest: 'static/javascript/dist/scripts-jquery.js'
-    },
-    slideshowJquery: { //use on article page only. may use with above instead
-      src: [
-      'bower_components/jquery/dist/jquery.min.js',
-      'bower_components/jquery-cycle2/build/jquery.cycle2.min.js'
-      ],
-      dest: 'static/javascript/dist/scripts-slideshow.js'
-    },
-    tipueJquery:{ // using on search page ONLY
-      src: [
-        'bower_components/jquery/dist/jquery.min.js',
-        'static/javascript/site-js-menu.js',
-        'static/javascript/tipue.js',
-        'static/javascript/site-tipue.js'                       
-      ],
-      dest: 'static/javascript/dist/scripts-tipue.js'
-    },
-    listjs: {
-      src: [
-      'bower_components/listjs/dist/list.min.js',
-      'static/javascript/site-listjs.js'],
-      dest: 'static/javascript/dist/scripts-listjs.js'
     },
     masonry: {
       src: [
@@ -79,7 +50,6 @@ module.exports = function(grunt) {
       dest: 'static/javascript/modernize/modernize.min.js'
     }
   },
-
   uglify: {
     options: {
       mangle: {
@@ -89,11 +59,7 @@ module.exports = function(grunt) {
     my_target: {
       files: {
         'static/javascript/dist/scripts.min.js': ['static/javascript/dist/scripts.js'],
-        'static/javascript/dist/scripts-base.min.js': ['static/javascript/dist/scripts-base.js'],
-        'static/javascript/dist/scripts-listjs.min.js': ['static/javascript/dist/scripts-listjs.js'],
         'static/javascript/dist/scripts-masonry.min.js': ['static/javascript/dist/scripts-masonry.js'],
-        'static/javascript/dist/scripts-tipue.min.js': ['static/javascript/dist/scripts-tipue.js'], 
-        'static/javascript/dist/scripts-jquery.min.js': ['static/javascript/dist/scripts-jquery.js']
       }
     }
   },
