@@ -12,31 +12,31 @@
 {% set page_name = item.name %}
   {% if item._type == 'author' %}
     {% set reviews_of_this_author = item.reviews_about %}
-      {% if not item.featured_image %}      
+      {% if not item.featured_image %}
         <div class="hero-inner">
           <div class="hero-copy">
             {% if reviews_of_this_author %}
               {% for review in reviews_of_this_author|slice(0,1) %}
-              <blockquote id="container-review-single" class="review">        
-                {% include "templates/partials/format-quotes.html" %}         
+              <blockquote id="container-review-single" class="review">
+                {% include "templates/partials/format-quotes.html" %}
               </blockquote>
               {% endfor %}
             {% endif %}
-         </div> 
+         </div>
       </div>
     {% endif %}
     {% elseif item._type == 'event' %}
     <div class="hero-inner">
-      <div class="hero-copy">              
-        <h2> {% include "templates/partials/format-event-dates.html" %}</h2>            
-      </div> 
+      <div class="hero-copy">
+        <h2> {% include "templates/partials/format-event-dates.html" %}</h2>
+      </div>
     </div>
 {% else %}
   {% if review %}
     <div class="hero-inner">
       <div class="hero-copy">
-        <blockquote id="container-review-single" class="review">        
-          {% include "templates/partials/format-quotes.html" %}         
+        <blockquote id="container-review-single" class="review">
+          {% include "templates/partials/format-quotes.html" %}
         </blockquote>
       </div>
     </div>
@@ -45,4 +45,4 @@
   {% endif %}
 {% endif %}
 {# //============================= #}
-  </div> 
+  </div>

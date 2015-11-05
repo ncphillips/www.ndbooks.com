@@ -12,7 +12,7 @@
     {% endif %}
       {% set authors = item.authors %}
     {% if authors %}
-    <h2><small>by</small> 
+    <h2><small>by</small>
       {% for author in authors %}
         <a href="{{ url(author) }}">{{ author.name }}</a>{% if loop.revindex != 2 %}{% if not loop.last %}, {% endif %}{% endif %}{% if loop.revindex == 2 %} and {% endif %}
       {% endfor %}
@@ -23,7 +23,7 @@
       <li>
         <a href="#buy-links">buying options</a>
       </li>
-      {% if item.reviews_related_book.length => 1  %}   
+      {% if item.reviews_related_book.length => 1  %}
       <li>
         <a href="#reviews">reviews</a>
       </li>
@@ -37,4 +37,4 @@
     </div>
   </header>
 </div>
-</div> 
+</div>

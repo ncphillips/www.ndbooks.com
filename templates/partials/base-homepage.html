@@ -10,20 +10,20 @@
 {% block hero %}{# //let page types overide the hero inner element, even though much of it is conditionally determined #}
     {% include "templates/partials/hero-home.html" %}
   {% endblock %}
-{% block content %}    
+{% block content %}
   {% set articles = cms.article|where('featured', true) %}
   {% set articles = articles|sort('publish_date') %}
   {% set upcoming_events = cms.event|where('featured') %}
   {% set upcoming_events = upcoming_events|sort('start_date', true) %}
   {% set home = cms.homepage %}
-  
+
   {% if upcoming_events or articles %}
     <ul class="large" style="margin:4em auto;">
   {% endif %}
   {% if upcoming_events %}
-    {% for event in upcoming_events|slice(0,1) %}        
+    {% for event in upcoming_events|slice(0,1) %}
       {% set event_date = event.start_date|date('U') %}
-      {% if event_date > current_unix_date %}                
+      {% if event_date > current_unix_date %}
         <li class="centered">
           <strong>Event: </strong><a href="{{ url(event)}}">{% if event.start_date %}{{ event.start_date|date('M jS') }} – {% endif %}{{event.name}}</a>
         </li>
@@ -31,10 +31,10 @@
     {% endfor %}
   {% endif %}
   {% if articles %}
-    {% for object in articles|slice(0,2) %}        
+    {% for object in articles|slice(0,2) %}
       <li class="centered">
         {# <strong>Update: </strong> #}<a href="{{ url(object) }}">{{object.name}}</a>
-      </li>        
+      </li>
     {% endfor %}
   {% endif %}
   {% if events or articles %}
@@ -49,7 +49,7 @@
     {% if grid %}{#  // IF WE SET GRID ITEMS #}
       <div id="grid-container" class="grid-items">
         {% for row in grid %}
-          <a href="{{ url(row.relationship) }}" class="grid-item grid-item-image item {% if loop.index == 1 %} grid-item-bigTK{% endif %} {{ row.relationship._type }}" style="height:auto;">          
+          <a href="{{ url(row.relationship) }}" class="grid-item grid-item-image item {% if loop.index == 1 %} grid-item-bigTK{% endif %} {{ row.relationship._type }}" style="height:auto;">
             {% if row.copy %}
               {{ row.copy|safe|replace('<a href', '<span src', 'g')|replace('</a', '</span', 'g') }}
               {% elseif row.relationship._type == 'book' %}
@@ -78,14 +78,14 @@
 
     {% if books %}{#  // IF WE FEATURE BOOKS #}
       {% for object in books|slice(0,25) %}
-        {% set edition = object.editions|first %}          
+        {% set edition = object.editions|first %}
         {% set publication_date = object.publication_date %}
         {% set publication_date_unix = publication_date|date('U') %}
-        {% set show_date = 'yes' %}                  
-          {% include "templates/partials/format-books-list.html" %}      
+        {% set show_date = 'yes' %}
+          {% include "templates/partials/format-books-list.html" %}
       {% endfor %}
     {% endif %}
-  
+
   {% endfor %} {#  //END for object in home #}
 
 
