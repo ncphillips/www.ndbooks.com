@@ -4,10 +4,11 @@
 <div class="row row-center"  id="{{object.slug}}">
   <section class="interior spaced-bottom-2em">
       {% set editions = editions %}
-      {% if item.editions.for_sale %}
-        {% set editions = editions|exclude('for_sale', false) %}
-        {% endif %}            
-
+        {% if item.editions %}
+          {% if item.editions.for_sale %}
+            {% set editions = editions|exclude('for_sale', false) %}
+          {% endif %}
+        {% endif %}
       {% for row in editions %}
 
         <ul class="stats">
