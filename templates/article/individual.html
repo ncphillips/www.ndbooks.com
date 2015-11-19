@@ -8,7 +8,9 @@
   <article class="hentry">
     {% if item.name %}
       <header>
-        <h1 class="entry-title">{{ item.name }}</h1>
+        <h1 class="entry-title">
+          {% filter replace('<(?=p)|<(?=/p)/(?=p)|p>', '', 'g') %}{{ item.name | markdown }}{% endfilter %}
+        </h1>
       </header>
     {% endif %}
     <aside>
@@ -31,7 +33,7 @@
         {% for object in relatedBook %}
         <a href="{{ url(object) }}">
           {% include "templates/partials/format-image-sidebar.html" %}
-        </a>  
+        </a>
         <hr class="transparent" />
         {% endfor %}
 
@@ -45,10 +47,10 @@
      {% if item.gallery.length => 0 %}
       {% for image in item.gallery|slice(1,100) %}
       <div style="text-align:center;margin:1em auto;max-width:100%;{% if image.width %}width:{{ image.width }}px;{% endif %}">
-        <img src="{{ image|imageSize(1092, auto) }}" style="max-width:100%;"> 
+        <img src="{{ image|imageSize(1092, auto) }}" style="max-width:100%;">
         {% if image.caption %}<br /><small>{{ image.caption }}</small>{% endif %}
-        </div>   
-      {% endfor %}        
+        </div>
+      {% endfor %}
       {% endif %}
   </article>
 </div>
