@@ -25,7 +25,7 @@
       {% set event_date = event.start_date|date('U') %}
       {% if event_date > current_unix_date %}
         <li class="centered">
-          <strong>Event: </strong><a href="{{ url(event)}}">{% if event.start_date %}{{ event.start_date|date('M jS') }} – {% endif %}{{event.name}}</a>
+          <strong>Event: </strong><a href="{{ url(event)}}">{% if event.start_date %}{{ event.start_date|date('M jS') }} – {% endif %}{% filter replace('<(?=p)|<(?=/p)/(?=p)|p>', '', 'g') %}{{ event.name | markdown }}{% endfilter %}</a>
         </li>
         {% endif %}
     {% endfor %}
@@ -33,7 +33,7 @@
   {% if articles %}
     {% for object in articles|slice(0,2) %}
       <li class="centered">
-        {# <strong>Update: </strong> #}<a href="{{ url(object) }}">{{object.name}}</a>
+        {# <strong>Update: </strong> #}<a href="{{ url(object) }}">{% filter replace('<(?=p)|<(?=/p)/(?=p)|p>', '', 'g') %}{{ object.name | markdown }}{% endfilter %}</a>
       </li>
     {% endfor %}
   {% endif %}
