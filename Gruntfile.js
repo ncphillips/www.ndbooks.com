@@ -26,14 +26,14 @@ module.exports = function(grunt) {
         'bower_components/jquery.smooth-scroll/jquery.smooth-scroll.min.js',
         'static/javascript/jquery.unveil.js',//relace with lazy load
         'static/javascript/site-unveil.js', //relace with lazy load
-        'static/javascript/site-smooth-scroll.js',                 
-        'static/javascript/site-js-menu.js',  
-        'static/javascript/site.js', 
+        'static/javascript/site-smooth-scroll.js',
+        'static/javascript/site-js-menu.js',
+        'static/javascript/site.js',
         'bower_components/listjs/dist/list.min.js',
-        'static/javascript/site-listjs.js',        
+        'static/javascript/site-listjs.js',
         'static/javascript/tipue.js',
-        'static/javascript/site-tipue.js'                             
-        
+        'static/javascript/site-tipue.js'
+
       ],
       dest: 'static/javascript/dist/scripts.js'
     },

@@ -1,0 +1,20 @@
+{% set editions = editions %}
+
+{% for edition in editions|where('sale_price') %}
+  <a href="#"
+    class="snipcart-add-item"
+    data-item-id="{{ object._id}}"
+    data-item-name="{{ object.name }}"
+    data-item-price="{{ edition.sale_price}}"
+    data-item-weight="20"
+    data-item-url="{{ url(object) }}"
+    data-item-description="{{ edition.type }}"
+  >
+    <button type="button" name="button" style="background-color:#73D244;margin-bottom:.75em;">
+      Buy {{ object.name}}
+    </button>
+  </a>
+<br />
+  <strong>{{ edition.type }} - ${{ edition.sale_price }}</strong>
+  <hr />
+{% endfor %}

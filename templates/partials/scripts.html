@@ -1,12 +1,9 @@
+<script type="text/javascript" src="/static/javascript/dist/scripts.min.js" async></script>
+<script type="text/javascript" src="https://cdn.snipcart.com/scripts/snipcart.js" id="snipcart"
+data-api-key="NjA5M2Q3NWItYzI2NS00YmY0LWFmZDItZDQ2NjAwNWFhNWNh" async></script>
+
 <script type="text/javascript">
 function downloadJSAtOnload() {
-  var element = document.createElement("script");
-  element.src = "/static/javascript/dist/scripts.min.js";
-  document.body.appendChild(element);
-
-  // var element_addthis = document.createElement("script");
-  // element_addthis.src = "//s7.addthis.com/js/300/addthis_widget.js{% if site.addthis_id %}#pubid={{site.addthis_id}}{% endif %}";
-  // document.body.appendChild(element_addthis);
 
  var element_mailchimp = document.createElement("script");
   element_mailchimp.src = "//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js";
@@ -20,9 +17,9 @@ window.attachEvent("onload", downloadJSAtOnload);
 else window.onload = downloadJSAtOnload;
 </script>
 
-{# Mailchimp #}
+{# Mailchimp
 <script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='MMERGE3';ftypes[3]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
-
+#}
 
 
 {# {% if getCurrentUrl() == '/search-results/' %}
@@ -33,7 +30,7 @@ else window.onload = downloadJSAtOnload;
  #}
  {#
 {% if item.gallery.length => 1 %}
- //If we have a gallery with more than one image we'll be using the slideshow script 
+ //If we have a gallery with more than one image we'll be using the slideshow script
   <script src="/static/javascript/dist/scripts-slideshow.js" async></script>
 {% else %}
   <script src="/static/javascript/dist/scripts.min.js" async></script>

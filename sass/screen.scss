@@ -1,27 +1,27 @@
 //Base
-@import 
-  "bower_components/normalize-scss/normalize",
-  "bower_components/normalize-opentype.css/normalize-opentype",
-  "bower_components/bourbon/dist/bourbon",
-  "bower_components/neat/app/assets/stylesheets/neat-helpers",
+@import
+  "../bower_components/normalize-scss/normalize",
+  "../bower_components/normalize-opentype.css/normalize-opentype",
+  "../bower_components/bourbon/app/assets/stylesheets/bourbon",
+
   "modules/grid-settings",//overrides bitters grid-settings
-  "bower_components/neat/app/assets/stylesheets/neat",
+  "../bower_components/neat/app/assets/stylesheets/neat",
   "base/base";
 
 // Mixins & other Ordered bits
-@import 
+@import
   "mixins/themes", //color schemes for hero unit
-  "modules/mixins"; //where are we using this? 
+  "modules/mixins"; //where are we using this?
 
 // VENDOR
 @import
   "vendor/fontello-ion";
-  /////"vendor/fonts"; //typography.com  
+  /////"vendor/fonts"; //typography.com
 //"vendor/cloud-typography-archer600";
 
 
 // CORE MODULES, also see base/typography, and base/variables
-@import 
+@import
   "modules/footer",
   "modules/hero-unit",
   "modules/layouts",
@@ -39,7 +39,7 @@
   "modules/colors",
   "modules/content-blocks", // blog nav
   "modules/dropdown", // blog nav
-  "modules/expander", 
+  "modules/expander",
   "modules/flex-boxes",
   "modules/font-icons-mods", //modify font icons
   "modules/forms",

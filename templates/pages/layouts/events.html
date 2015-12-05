@@ -8,7 +8,7 @@
   {% set events = events|sort('start_date') %}
   {% set events_past = events|sort('start_date', true) %}
   {% set event_date = events.start_date|date('U') %}
-  
+
 {% block title %}{% parent %} - {{ page_name }}{% endblock %}
 
 {% block content %}
@@ -31,7 +31,7 @@
                 <h4 style="text-shadow: 1px 1px 1px 0 rgba(255,255,255,0.5);">{{ event.name }}</h4>
                 {% if event.venue %}
                   {{ event.venu}}
-                {% endif %}  
+                {% endif %}
                 {% if event_date %}
                   {% include "templates/partials/format-event-dates.html" %}
                 {% endif %}
@@ -47,7 +47,7 @@
                 {% include "templates/partials/format-event-dates.html" %}
               {% endif %}
               <h4>{{ event.name }}</h4>
-            </aside>    
+            </aside>
           </a>
         {% endif %}
 
@@ -62,14 +62,14 @@
       </ul>
       {% include "templates/partials/mailchimp.html" %}
     </aside>
-    
+
     <aside class="theme-dark-gray script-only">
       {% include 'templates/partials/social-twitter-stream.html' %}
       {# lets put instagram here.  #}
     </aside>
   </section>
-  
-</div>  
+
+</div>
 
 
 {# <div class="row">
@@ -81,14 +81,14 @@
             {% set event_date_end = event.end_date|date('U') %}
           {% endif %}
         {% if event_date < current_unix_date || event_date_end && event_date < current_unix_date %}
-        
+
           <a href="{{ url(event) }}">
             <aside class="theme-dark-gray article-block-rectangular">
              {% if event_date %}
                {% include "templates/partials/format-event-dates.html" %}
             {% endif %}
             <h4>{{ event.name }}</h4>
-          </aside>    
+          </aside>
         </a>
       {% endif %}
     {% endfor %}

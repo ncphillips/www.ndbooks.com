@@ -1,102 +1,38 @@
-{% extends "templates/partials/base.html" %}
-  {% set page_name = 'Events' %}
-  {% set now = Date() %}
-  {% set current_date = now |date('U')%}
-  {% set articles = cms.article %}
-  {% set articles = articles|sort('publish_date', true) %}
-  {% set events = cms.event %}
-  {% set events = events|sort('publish_date', true) %}
+{% extends "templates/partials/base-page-one-column.html" %}
+  {% set page_name = 'Shop ND Specials' %}
 {% block title %}{% parent %} - {{ page_name }}{% endblock %}
 
 {% block content %}
   <div id="section0" class="layout-page-2-column-wide-secondary">
-    <section class="content-primary">
+    <h1>{{ page_name }}</h1>
+  </div>
+  <div id="section1" class="layout-page-2-column-wide-secondaryf">
 
-      {% for event in events|slice('0','5') %}
+    {% set shop_items = cms.shopitem %}
+    {% if shop_items %}
+      {% for shop_item in shop_items %}
 
 
-{% if event.featured_image %}
-  <a href="{{ url(event) }}">
-  <aside class="dark-on-light article-block-rectangle"  style="background-image:url({{ event.featured_image|imageCrop(700) }});background-position:center center;background-size:cover;">
 
-    
+        {% set books = shop_item.book %}
+          
 
-      <div class="article-block-copy">
-        <h4 style="text-shadow: 1px 1px 1px 0 rgba(255,255,255,0.5);">{{ event.name }}</h4>
-        {% if event.venue %}
-            {{ event.venu}}
 
-          {% endif %}  
 
-          {% if event.start_date %}
-            {{ event.start_date|date('F jS g:i a') }}
-          {% endif %}
-        
-        {# <a href="{{ url(event) }}">&raquo; more info</a> #}
-      </div>
-    </aside>
-    </a>
-
-{% else %}
-<a href="{{ url(event) }}">
-      <aside class="theme-dark-gray article-block-rectangular">
-
-    {% if event.start_date %}
-            <h5 style="color:white;">{{ event.start_date|date('F jS g:i a') }}</h5>
+          {% if books %}{#  // IF WE FEATURE BOOKS #}
+            {% for object in books|slice(0,25) %}
+              {% include "templates/partials/format-books-list-shop.html" %}
+            {% endfor %}
           {% endif %}
 
-          <h4>{{ event.name }}</h4>
-
-        </aside>    
-</a>
-  {% endif %}
 
 
 
 
 
-
-{% endfor %}
-
-
-
-
-
-
-
-
-
-    </section>
-    <section class="content-secondary">
-      <aside class="theme-social">
-        <ul class="icons large">
-         {% include 'templates/partials/social-icons.html' %}
-        </ul>
-      </aside>
-      {% for event in events %}
-        {% set event_date = event.start_date|date('U') %}
-        {% if event.start_date && event_date > current_date %}
-          <a  href="{{ url(event) }}">
-            <aside class="theme-purple">
-              {% if event.start_date %}<h4>{{ event.start_date|date('F jS') }}</h4>{% endif %}
-              {{ event.name}}
-            </aside>
-          </a>
-        {% endif %}
       {% endfor %}
-      <aside class="theme-dark-gray script-only hidden">
-        {% include 'templates/partials/social-twitter-stream.html' %}
-      </aside>
-    </section>
-    <div style="width:100%;clear:both;margin:4em auto;height:1px;">{# divider #}</div>
-    {% for article in articles|slice('5','25') %}
-      <a href="{{ url(article) }}" class="article-block">
-        <div class="heading">
-          <h4>
-            {{ article.name }} <i class="icon-right-circled"></i>
-          </h4>
-        </div>
-      </a>
-    {% endfor %}
-  </div>  
+
+    {% endif %}
+
+  </div>
 {% endblock %}

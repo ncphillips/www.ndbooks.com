@@ -1,0 +1,25 @@
+{# variables: includeBuyInfo, imageWidth #}
+{% set editions              = object.editions %}
+{% set authors               = object.authors %}
+{% set editors               = object.editors %}
+{% set translators           = object.translators %}
+{% set contributors          = object.contributors %}
+{% set edition               = object.editions|first %}
+{% set current_date          = now|date('U') %}
+{% set publication_date      = object.publication_date %}
+{% set publication_date_unix = publication_date|date('U') %}
+
+<div class="page-item case-{{ loop.index }}"  id="{{ object.slug|replace('/', '') }}"> {# {% cycle 'one', 'two', 'three' %} #}
+  <section class="{{ loop.index0 }}">
+      <div class="cover">
+        <a href="{{ url(object) }}">{% include "templates/partials/format-image-bookcover-medium.html" %}</a>
+        <br />
+      </div>
+      <div class="copy" style="margin-top:-.5rem;">
+        {% include "templates/partials/buy-button-book-object.html" %}
+        {{ shop_item.copy |safe }}
+        {% set includeAuthors = true %}
+        {% include "templates/partials/format-book-copy.html" %}
+      </div>
+  </section>
+</div>
