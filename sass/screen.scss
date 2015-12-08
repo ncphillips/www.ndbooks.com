@@ -61,3 +61,19 @@
   "modules/utilities",
   "modules/utilities-accessibility",
   "modules/utilities-text"; // manipulates images
+
+  button.special {
+    background-color:#B9065C;
+    margin-top:2em;
+    color:#fff;
+    &:hover {
+      background-color: darken(#B9065C, 5%);
+    }
+    @include media($medium-screen-up) {
+      margin-left:1.75em;
+      margin-top: 0;
+    }
+  }
+  .special-inverse {
+    color:#B9065C;
+  }

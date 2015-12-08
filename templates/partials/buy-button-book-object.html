@@ -1,7 +1,8 @@
 {% set editions = editions %}
-
 {% for edition in editions|where('sale_price') %}
-  <a href="#"
+  <a
+    style="margin-top:-2em;text-align:right;"
+    href="#"
     class="snipcart-add-item"
     data-item-id="{{ object._id}}"
     data-item-name="{{ object.name }}"
@@ -10,11 +11,17 @@
     data-item-url="{{ url(object) }}"
     data-item-description="{{ edition.type }}"
   >
-    <button type="button" name="button" style="background-color:#73D244;margin-bottom:.75em;">
+    <button type="button" name="button" class="special">
       Buy {{ object.name}}
     </button>
   </a>
-<br />
-  <strong>{{ edition.type }} - ${{ edition.sale_price }}</strong>
+  <small>
+    {{ edition.type }} - ${{ edition.sale_price }}
+    {% if edition.shipping_charge %}
+      {% if edition.shipping_charge < '0.01' %}
+        &nbsp;Free Shipping
+      {% endif %}
+    {% endif %}
+  </small>
   <hr />
 {% endfor %}

@@ -10,16 +10,18 @@
 {% set publication_date_unix = publication_date|date('U') %}
 
 <div class="page-item case-{{ loop.index }}"  id="{{ object.slug|replace('/', '') }}"> {# {% cycle 'one', 'two', 'three' %} #}
+  <section class="full-block">
+    <h3 class="special-inverse centered">{{ shop_item.copy |safe }}</h3>
+  </section>
   <section class="{{ loop.index0 }}">
       <div class="cover">
         <a href="{{ url(object) }}">{% include "templates/partials/format-image-bookcover-medium.html" %}</a>
         <br />
       </div>
       <div class="copy" style="margin-top:-.5rem;">
-        {% include "templates/partials/buy-button-book-object.html" %}
-        {{ shop_item.copy |safe }}
         {% set includeAuthors = true %}
         {% include "templates/partials/format-book-copy.html" %}
+        {% include "templates/partials/buy-button-book-object.html" %}
       </div>
   </section>
 </div>

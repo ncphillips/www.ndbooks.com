@@ -1,0 +1,193 @@
+{% extends "templates/partials/base.html" %}
+{% block body_attributes %}data-search-index="true"{% endblock %}
+  {% block title %}{% parent %} - {{ item.name }}{% endblock %}
+  {% block hero %}
+    {% include "templates/partials/hero-book-page.html" %}
+  {% endblock %}
+  {% block content %}
+    {% set related_articles      = item.article_related_book %}
+    {% set related_articles      = related_articles|sort('publish_date', true) %}
+    {% set related_events        = item.event_related_book %}
+    {% set related_events        = related_events|sort('start_date') %}
+    {% set authors               = item.authors %}
+    {% set translators           = item.translators %}
+    {% set editors               = item.editors %}
+    {% set contributors          = item.contributors %}
+    {% set original_language     = item.original_language %}
+    {% set reviews_of_this_book  = item.reviews_related_book %}
+    {% set editions              = item.editions %}
+    {% set edition               = item.editions|first %}
+    {% set publication_date      = item.publication_date %}
+    {% set series                = item.series %}
+
+{# TOP ROW = EVENTS IF WE GOT'EM #}
+    <section class="local-nav">
+      {% if related_events %}      
+        <ul class="inline">
+          {% include "templates/partials/format-events_related-future.html" %}
+        </ul>
+      {% endif %}
+
+    </section>
+
+    <div class="has-layout layout-book">
+      {# 2ND ROW = BOOK COVER AND SERIES, 1 REVIEW QUOTE, TAGLINE OR SYNOPSIS (IF THERE'S NO SYNOPSIS) #}
+      <section class="row with_space">{# Top row = book cover on left, quote and tagline on right #}
+        <div class="cover">
+          {% if edition %}              
+            {% set imageWidth = '500px' %}              
+            {% include "templates/partials/format-image-bookcover-large.html" with imageWidth %}
+          {% endif %}
+        </div>
+        <div class="copy">   
+          {% if series %}
+            <h2 class="center" style="margin-top:1em;"><a href="{{ url(series) }}" class="inverse-link-color">{{ series.name }}</a> <small>series</small></h2>            
+          {% endif %}
+          {% if reviews_of_this_book %}
+            <blockquote class="review presentational" >
+              {% for review in reviews_of_this_book|slice(0,1) %}
+                {% include "templates/partials/format-quotes.html" %}
+              {% endfor %}
+            </blockquote>
+          {% endif %}        
+          
+            {% if edition.tagline %}              
+           <div class="tagline">{{ edition.tagline|markdown }}</div>
+              {% set copy = item.copy %}{#  <- a clever(?) way of only showing copy if there's a tagline, we assign the variable here and use it below. No tagline, no variable. #}
+            {% elseif item.copy %}
+              <div class="align-left">{{ item.copy|safe }}</div>
+            {% endif %}
+            {# {% set publication_date_unix = publication_date|date('U') %} #}
+            {% set publication_date_unix = item._sort_publication_date %}
+            
+              {% if publication_date_unix > current_unix_date %}
+                <hr class="transparent" />
+                
+                <h5 class="red">Available {{ publication_date|date('F jS, Y') }}</h5>
+              {% endif %}        
+        </div>
+      
+      </section>{#  // END TOP ROW #}
+
+      <hr />
+      {# 3RD ROW PRIMARY BOOK DATA, INCLUDING TITLE, AUTHOR, TRANSLATOR, SYNOPSIS, NEWS LINKS, AND BUY LINKS #}
+      <section class="row with_space">{# Row with book synopsis   #}
+        <article class="hentry {% if page_class %}{{ page_class }}{% endif %}">
+          <header>
+            {% if item.name %}
+              <h1 class="entry-title">{{ item.name }}{% if item.subtitle %} <small>{{ item.subtitle }}</small>{% endif %}</h1>
+            {% endif %}
+              {% if authors %}
+              <h2><small>{% if item.genre %}{{ item.genre }} {% endif %}by</small> 
+              {% include "templates/partials/format-authors-list.html" %}
+              </h2>
+            {% endif %}
+            {% if translators %}
+              <h5 style="font-weight:400;">
+                {% include "templates/partials/format-translators-list.html" %}
+              </h5>          
+            {% endif %}
+            {% if editors %}
+              <h5 style="font-weight:400;">
+                {% include "templates/partials/format-editors-list.html" %}
+              </h5>          
+            {% endif %}
+            {% if contributors %}
+              <h5 style="font-weight:400;">
+                {% include "templates/partials/format-contributors-list.html" %}
+              </h5>          
+            {% endif %}
+
+          </header>
+          {% if item.copy %}
+            <div class="entry-content lead">
+              {{ copy|safe }}
+              {% if publication_date %}published {{ publication_date|date('F jS, Y') }}{% endif %}
+              {% block below_copy %}          
+              {% endblock %}
+              {% if related_articles %}
+                <hr class="transparent" />
+                <h5>related articles</h5>
+                <ul class="inverse-link-color">
+                  {% for article in related_articles %}
+                    <li><a href="{{ url(article) }}">{{ article.name }}</a>{# {% if !loop.last %}, {% endif %} #}</li>
+                  {% endfor %}          
+                </ul>        
+              {% endif %}
+              <hr class="fancy" />
+              {% if editions %}
+                {% include "templates/partials/buy-links.html" %}        
+              {% endif %}
+            </div>
+          {% endif %}
+        </article>
+      </section>{# //END row #}
+
+    </div>{#  //has-layout-book #}
+
+        {% if editions %}
+          {% include "templates/partials/format-book-metadata.html" %}
+        {% endif %}
+
+{% if authors %}
+    {# 4TH ROW AUTHOR PHOTO #}
+      <div class="page-item shape case-2" style="background-image:url(/static/images/logos-archive/logo-ndbooks-aaa.svg);background-repeat:no-repeat;background-position:center center;">        
+        <div class="flex-boxes">
+          {% for object in authors %}            
+              <div class="flex-box naked grid-item author-block">
+                <div class="outlined">
+                  <h4>
+                    <a href="{{ url(object) }}">
+                      {{ object.name }} <i class="icon-right-circled icon-ion-ios7-arrow-right"></i>
+                    </a>
+                  </h4>
+                  {% if object.tagline %}
+                  <div class="lead">
+                    {{ object.tagline|safe }}
+                  </div>
+                  {% endif %}
+                </div>
+                  <a href="{{ url(object) }}" class="author-photo">
+                    {% include "templates/partials/format-image-medium.html" %}
+                  </a>                
+              </div>            
+          {% endfor %}
+          </div>        
+        </div>
+{% endif %}
+      {# 5TH ROW MORE REVIEWS #}
+      <div class="has-layout layout-book">
+        {# <hr class="section-divider" style="margin-bottom:8em;" /> #}
+
+          <div id="reviews" class="row quotes" data-ref="quotes">
+            {% if reviews_of_this_book %}            
+              {% for review in reviews_of_this_book|slice(1,20) %}
+                <blockquote id="container-review" class="review">
+                  {% include "templates/partials/format-quotes.html" %}
+                </blockquote>
+              {% endfor %}
+            {% endif %}
+          </div>
+
+          {% if item.excerpt %}
+            <div id="excerpt" class="row spaced-top-bottom-2em" style="margin-top:8em;">
+              <article class="hentry">
+                <div class="entry-content prose">
+                <h5 class="h2">Excerpt from <em>{{ item.name }}</em>{% if item.subtitle %} <small>{{ item.subtitle }}</small>{% endif %}</h5>
+                   {{ item.excerpt|safe }}
+                    <hr />
+                    {% if editions %}
+                      {% include "templates/partials/buy-links.html" %}
+                    {% endif %}
+                 </div>
+                </article> 
+            </div>
+          {% endif %}
+          <a href="/cms/#/wh/content/book/{{ item._id }}">.</a>
+      </div>{#  //has-layout #}
+
+      {# LINKS TO PREV NEXT BOOKS #}
+      {% set prev = prevItem(item, 'publication_date') %}
+      {% set next = nextItem(item, 'publication_date') %}
+      {% include "templates/partials/prev-next.html" %}
+{% endblock %}

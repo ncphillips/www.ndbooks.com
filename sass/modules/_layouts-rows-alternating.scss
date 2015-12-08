@@ -27,12 +27,12 @@ $page-item-background-color: #f1f1f1;//#f0f3f5; //<- has a bluish tint   //darke
   }
   .cover {
     @include span-columns(6 of 6);
-    margin-bottom: 2em;  
+    margin-bottom: 2em;
   }
   .copy {
     @include span-columns(6 of 6);
   }
-  
+
   @include media($large-screen-up) {
     @include pad(6em 12em);
     .cover {
@@ -43,6 +43,9 @@ $page-item-background-color: #f1f1f1;//#f0f3f5; //<- has a bluish tint   //darke
     .copy {
       @include span-columns(4 of 6);
       margin-top: 1.0625em;
+    }
+    .full-block {
+      @include span-columns(6 of 6);
     }
     &:nth-child(even) { // alternate the order so covers are on the left, then on right
       .cover {
@@ -68,7 +71,7 @@ $page-item-background-color: #f1f1f1;//#f0f3f5; //<- has a bluish tint   //darke
   section {
     clear: both;
   }
-  
+
 }
 
 // set up alternating background colors (unused this far in metalsmtih)
@@ -122,7 +125,7 @@ $page-item-background-color: #f1f1f1;//#f0f3f5; //<- has a bluish tint   //darke
   //padding: 5em 12em;
 }
 
-// // TODO: What is this for? 
+// // TODO: What is this for?
 // //.book-cover {
 // //   @include span-columns(6 of 6);
 // //   margin-bottom: 2em;

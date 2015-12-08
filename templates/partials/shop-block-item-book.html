@@ -1,0 +1,11 @@
+{% set shop_items = cms.shopitem %}
+{% if shop_items %}
+  {% for shop_item in shop_items %}
+    {% set books = shop_item.book %}
+      {% if books %}{#  // IF WE FEATURE BOOKS #}
+        {% for object in books|slice(0,25) %}
+          {% include "templates/partials/format-books-list-shop.html" %}
+        {% endfor %}
+      {% endif %}
+  {% endfor %}
+{% endif %}
