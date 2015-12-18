@@ -53,17 +53,7 @@
     {% if grid %}{#  // IF WE SET GRID ITEMS #}
       <div id="grid-container" class="grid-items">
         {% for row in grid %}
-          <a href="{{ url(row.relationship) }}" class="grid-item grid-item-image item {% if loop.index == 1 %} grid-item-bigTK{% endif %} {{ row.relationship._type }}" style="height:auto;">
-            {% if row.copy %}
-              {{ row.copy|safe|replace('<a href', '<span src', 'g')|replace('</a', '</span', 'g') }}
-              {% elseif row.relationship._type == 'book' %}
-              {% set edition = row.relationship.editions|first %}
-                {% set image = edition.image|imageSize(350, 500) %}
-              <figure data-type="image">
-                <img src="{{ image }}" alt="cover image for {{ row.relationship.name }}" class="book-cover" />
-              </figure>
-            {% endif %}
-          </a>
+          {% include "templates/partials/format-grid-items.html" %}
         {% endfor %}
       </div>
     {% endif %}
