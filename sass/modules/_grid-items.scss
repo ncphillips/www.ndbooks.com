@@ -8,7 +8,7 @@
   //$base-background-color: white !default;
   $medium-screen: em(640) !default;
   $large-screen: em(860) !default;
-  
+
   p {
     line-height: 1.5em;
   }
@@ -20,12 +20,12 @@
 
   $grid-items-background: $base-background-color;
   $grid-item-background: darken($base-background-color, 3%);//desaturate($base-accent-color, 30%);
-  $grid-item-colors: 
-    darken($base-background-color, 8%), //desaturate($base-accent-color, 30%), 
-    darken($base-background-color, 4%), //#3581A5, 
+  $grid-item-colors:
+    darken($base-background-color, 8%), //desaturate($base-accent-color, 30%),
+    darken($base-background-color, 4%), //#3581A5,
     darken($base-background-color, 3%), //#5FBEBE,
     darken($base-background-color, 2%), //#98C79A,
-    darken($base-background-color, 5%), //#A7A891, 
+    darken($base-background-color, 5%), //#A7A891,
     darken($base-background-color, 3%), //#BDCC97,
     darken($base-background-color, 3%), //#979EA0;
     darken($base-background-color, 9%), //#979EA0;
@@ -53,7 +53,7 @@
   $grid-item-color: #000;//$base-font-color;// white;
   $grid-item-height: 13.75em;
   @include clearfix;
-    
+
   .grid-item {
     @include transition (all 0.2s ease-in-out);
     background: $grid-item-background;
@@ -61,7 +61,7 @@
     border-left: ($grid-item-border-size / 2) solid $grid-items-background;
     border-right: ($grid-item-border-size / 2) solid $grid-items-background;
     border-top: 0;
-    cursor: pointer;
+    /////cursor: pointer;
     float: left;
     height: $grid-item-height;
     overflow: hidden;
@@ -98,7 +98,7 @@
       font-family: $sans-serif;
       font-size:.9em;
     }
-        
+
 
     @include media($large-screen) {
       @include grid-item-columns($grid-item-columns);
@@ -126,15 +126,15 @@
     }
   }
 
- 
-  
+
+
 
 
   // &:focus,
   //       &:hover {
-  //         background-color: darken($grid-item-background, 30%);          
-          
-          
+  //         background-color: darken($grid-item-background, 30%);
+
+
   //       }
 
 
@@ -155,7 +155,7 @@
       margin: auto;
       color: $grid-item-color;
       //color: transparentize($grid-item-color, 0.3);
-      
+
       // @include media($medium-screen) {
       //   max-width: 90%;
       // }
@@ -165,11 +165,11 @@
     @include media($large-screen) {
       @include grid-item-columns($grid-item-big-columns);
     }
-    
+
     // p {
     //   @include media($medium-screen) {
     //     max-width: 90%;
-    //   }  
+    //   }
     // }
   }
 
@@ -194,7 +194,7 @@
 
   .grid-item-expand {
     height: 21em;
-    @include media($medium-screen-up) {      
+    @include media($medium-screen-up) {
       height: $grid-item-height;
     }
   }
@@ -228,16 +228,16 @@ body.home .grid-item h2 {
  // body.home .grid-items .book {
  //    background-color: darken($base-background-color, 4%);
  //  }
- 
+
  // body.home .grid-items .article {
  //    background-color: darken($base-background-color, 10%);
  //  }
- 
+
  // body.home .grid-items .event {
  //    background-color: darken($base-background-color, 12%);
- //  }        
+ //  }
 
 
 body.home .grid-items .author, body.home .grid-items .book, body.home .grid-items .article, body.home .grid-items .event {
   background-color: darken($base-background-color, 4%);
-}  
+}
