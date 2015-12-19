@@ -22,7 +22,7 @@
         {% if item.name %}
           <h1 class="entry-title">{{ item.name }}</h1>
         {% endif %}
-        {% if item.tagline %}  
+        {% if item.tagline %}
           <strong>{{ item.tagline|safe }}</strong>
       {% endif %}
       </header>
@@ -35,7 +35,7 @@
     </article>
   {# Metada Block: Center #}
     <aside class="metadata">
-      {% if related_events %}      
+      {% if related_events %}
         <ul class="block-list{% if related_events.length > 8 %} columns{% endif %}">
           {% include "templates/partials/format-events_related-future.html" %}
         </ul>
@@ -85,13 +85,13 @@
         <ul class="block-list{% if related_articles.length > 8 %} columns{% endif %}">
           {% for article in related_articles|slice(0,10) %}
             <li>
-              <a href="{{ url(article)}}">{{article.name}}</a>
+              <a href="{{ url(article)}}">{% filter replace('<(?=p)|<(?=/p)/(?=p)|p>', '', 'g') %}{{ article.name | markdown }}{% endfilter %}</a>
             </li>
-          {% endfor %}          
+          {% endfor %}
           <div style="display:none;">
             {% for article in related_articles|slice(10,100) %}
             <li>
-              <a href="{{ url(article)}}">{{article.name}}</a>
+              <a href="{{ url(article)}}">{% filter replace('<(?=p)|<(?=/p)/(?=p)|p>', '', 'g') %}{{ article.name | markdown }}{% endfilter %}</a>
             </li>
           {% endfor %}
           </div>
@@ -107,7 +107,7 @@
         </figure>
       </aside>
     {# //AUTHORS BOOKS divide the group#}
-    <hr class="section-divider" />      
+    <hr class="section-divider" />
       {% if reviews_of_this_author %}
         {% if item.featured_image %}
           {% for review in reviews_of_this_author|slice(0,3) %}
@@ -130,7 +130,7 @@
         {% set includeBuyInfo = true %}
           {% include "templates/partials/format-books-list.html" %}
         {% endfor %}
-      {% endif %}      
+      {% endif %}
       {# //END AUTHORS BOOKS #}
     </div>
   {% include "templates/partials/format-page-link.html" %}
@@ -139,12 +139,12 @@
 {% include "templates/partials/prev-next.html" %}
 {% endblock %}
 
-{# 
-TODO: 
+{#
+TODO:
 - improve styling of book buttons
 - add buy links
 - show link to additional related articles
 - make link to top of page a perfect circle
- 
+
 
  #}

@@ -3,11 +3,11 @@
   <div class="card-image">
     <img src="{{ article.gallery|first|imageSize(auto, 350) }}" alt="">
   </div>
- {% endif %} 
+ {% endif %}
   <div class="card-header">
   <small>{{ article.publish_date|date('F d, Y') }}</small>
     <h5>
-     {{ article.name }} <i class="icon-right-circled"></i>
+     {% filter replace('<(?=p)|<(?=/p)/(?=p)|p>', '', 'g') %}{{ article.name | markdown }}{% endfilter %} <i class="icon-right-circled"></i>
     </h5>
   </div>
   <div class="card-copy absolute-centerTK">
@@ -16,7 +16,7 @@
         {% filter replace('<(?=p)|<(?=/p)/(?=p)|p>', '', 'g') %}{{ article.lede|markdown }}{% endfilter %}
       </div>
     {% else %}
-      {{ article.copy|safe|striptags|truncate(300) }} <i class="icon-ion-ios-arrow-forward" style="font-size:.75em;"></i>        
+      {{ article.copy|safe|striptags|truncate(300) }} <i class="icon-ion-ios-arrow-forward" style="font-size:.75em;"></i>
     {% endif %}
   </div>
 </a>

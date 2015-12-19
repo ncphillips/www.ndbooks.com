@@ -110,14 +110,20 @@
                 <h5>related articles</h5>
                 <ul class="inverse-link-color">
                   {% for article in related_articles %}
-                    <li><a href="{{ url(article) }}">{{ article.name }}</a>{# {% if !loop.last %}, {% endif %} #}</li>
+                    <li>
+                      <a href="{{ url(article) }}">
+                        {% filter replace('<(?=p)|<(?=/p)/(?=p)|p>', '', 'g') %}
+                          {{ article.name | markdown }}
+                        {% endfilter %}
+                      </a>
+                    {# {% if !loop.last %}, {% endif %} #}</li>
                   {% endfor %}
                 </ul>
               {% endif %}
               <hr class="fancy" />
               {% if editions %}
                 {% include "templates/partials/buy-links.html" %}
-                  {% include "templates/partials/buy-button-book-item.html" %}      
+                  {% include "templates/partials/buy-button-book-item.html" %}
               {% endif %}
             </div>
           {% endif %}
