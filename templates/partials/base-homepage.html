@@ -41,9 +41,9 @@
   </ul>
   {% endif %}
 
-  <div id="section1" class="layout-page-2-column-wide-secondaryf">
-    {% include "templates/partials/shop-block-item-book.html" %}
-  </div>
+
+    {% include "templates/partials/shop-block-item-book-headline.html" %}
+  
 
   {% for object in home|slice(0,1) %}{#  //THESE ARE ALL THE HOMEPAGE OPTIONS SET IN THE CP #}
     {% set grid    = object.grid %}

@@ -16,10 +16,10 @@
       <div class="has-layout layout-article">
         <div class="grid-items">
           <div class="grid-item grid-item-big grid-item-expand">
-            {{ cms.about.copy|safe }}  
+            {{ cms.about.copy|safe }}
           </div>
             {% set featuredBook = cms.about.featured_books %}
-              
+
               {% for object in featuredBook|slice(0,2) %}
                 {% set editions = object.editions %}
                   {% include "templates/partials/format-grid-item-book-background.html" %}
