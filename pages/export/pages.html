@@ -1,0 +1,19 @@
+{% extends "templates/partials/export.html" %}
+
+{% set content = merge(cms.about, cms.community) %}
+{% set items = content |sort('publish_date', true) %}
+{% for object in items %}
+@@@<br />
+title: "{{ object.name | addslashes }}"<br />
+published: {% if object.isDraft == false %}true{% else %}false{% endif %}<br />
+{% if object.publish_date %}date: {{ object.publish_date | date('c') }}<br />{% endif %}
+{% if object.release_date %}release_datetime: {{ object.release_date | date('c') }}<br />{% endif %}
+{% if object.featured_image %}featured_image_path: {{ object.featured_image.url | replace('webhook-uploads', 'uploads') }}<br />{% endif %}
+{% if object.meta_description %}description: "{{ object.meta_description }}"<br />{% endif %}
+{% if object._type %}type: {{ object._type }}<br />{% endif %}
+slug: {{ object.slug | replace('about/', '') | replace('community/', '') }}<br />
+---<br />
+
+{{ object.copy | safe }}
+{% endfor %}
+<br />
