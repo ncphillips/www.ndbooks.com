@@ -11,7 +11,7 @@
   {% set forthcoming_books = forthcoming_books|sort('publication_date') %}
     <h1>New & Forthcoming Books</h1>
     <div class="grid-items list-filter">
-      {% for object in books|slice(0,25) %}
+      {% for object in books|slice(0,45) %}
         {% set edition = object.editions|first %}
         {% set publication_date = object.publication_date %}
         {% set publication_date_unix = publication_date|date('U') %}

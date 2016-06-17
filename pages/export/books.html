@@ -1,3 +1,7 @@
+<!-- TODO: 
+type: not right. Needs to be an multi-select, now it's an object.
+language: showing albania when there is none. -->
+
 {% extends "templates/partials/export.html" %}
 {% block content %}
 {% set content = cms.book %}
@@ -13,21 +17,21 @@ subtitle: {% if object.subtitle %}"{{ object.subtitle }}"{% endif %}<br />
 genre: {% if object.genre %}{{ object.genre }}{% endif %}<br />
 language: {% if object.language_translated_from %}{{ object.language_translated_from }}{% endif %}<br />
 type:<br />{% for option in object.type %}
-{% if option.value == 'true' %}$$- {{ option.label }}<br />{% endif %}{% endfor%}
+{% if option.value == true %}$$- {{ option.label }}<br />{% endif %}{% endfor%}
 
 author_contributors:{% for relation in object.authors %}<br />
 $$- {{ relation.slug | replace('author/', '')  }}{% if not loop.last %}<br />{% endif %}{% endfor %}<br />
 
 translator_contributors:{% for relation in object.translators %}<br />
-$$- {{ relation.slug | replace('translator/', '')  }}{% if not loop.last %}<br />{% endif %}{% endfor %}<br />
+$$- {{ relation.slug | replace('author/', '')  }}{% if not loop.last %}<br />{% endif %}{% endfor %}<br />
 
 
 editor_contributors:{% for relation in object.editors %}<br />
-$$- {{ relation.slug | replace('editor/', '')  }}{% if not loop.last %}<br />{% endif %}{% endfor %}<br />
+$$- {{ relation.slug | replace('author/', '')  }}{% if not loop.last %}<br />{% endif %}{% endfor %}<br />
 
 
 contributors:{% for relation in object.contributors %}<br />
-$$- {{ relation.slug | replace('contributor/', '')  }}{% if not loop.last %}<br />{% endif %}{% endfor %}<br />
+$$- {{ relation.slug | replace('author/', '')  }}{% if not loop.last %}<br />{% endif %}{% endfor %}<br />
 
 
 
@@ -39,14 +43,12 @@ featured_image_path: {% if object.featured_image %}{{ object.featured_image.url 
 cover_image_path: {% if editions %}{% if editions[0].image %}{{ editions[0].image.url }}{% elseif object.image_file %}{{ object.image_file }}{% endif %}{% endif %}<br />
 
 
-description: {% if editions %}{% if editions[0].tagline  %}"{{ editions[0].tagline | markdown | replace('<p>', '') | replace('</p>', '') }}"{% endif %}{% endif %}<br />
+description: {% if editions %}{% if editions[0].tagline  %}"{{ editions[0].tagline | replace('"', '_', 'g') | markdown | replace('<p>', '') | replace('</p>', '') }}"{% endif %}{% endif %}<br />
 
 editions:<br />{% for row in object.editions %}
-$$- type: {{ row.type }}<br />
-$$$$image: {{ row.image.url }}<br />
-$$$$forsale: {% if row.for_sale %}true{% else %}false{% endif %}<br />
-$$$$tagline: "{{ row.tagline }}"<br />
+$$- binding: {{ row.type }}<br />
 $$$$isbn: {{ row.isbn }}<br />
+$$$$forsale: {% if row.for_sale %}true{% else %}false{% endif %}<br />
 $$$$saleprice: {{ row.sale_price }}<br />
 $$$$shipping_charge: {{ row.shipping_charge }}<br />
 $$$$price_us: {{ row.price_us }}<br />
