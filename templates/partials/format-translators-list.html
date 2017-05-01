@@ -1,1 +1,0 @@
-<small>translated{% if item.language_translated_from %} from the {{ item.language_translated_from }}{% endif %} by</small> {% for translator in translators %}<a href="{{ url(translator) }}">{{ translator.name }}</a>{% if loop.revindex != 2 %}{% if not loop.last %}, {% endif %}{% endif %}{% if loop.revindex == 2 %} and {% endif %}{% endfor %}

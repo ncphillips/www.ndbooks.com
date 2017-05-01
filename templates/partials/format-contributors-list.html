@@ -1,4 +1,0 @@
-<small>with a contribution by </small>
-{% for author in contributors %}
-  <a href="{{ url(author) }}">{{ author.name }}</a>{% if loop.revindex != 2 %}{% if not loop.last %}, {% endif %}{% endif %}{% if loop.revindex == 2 %} and {% endif %}
-{% endfor %}
