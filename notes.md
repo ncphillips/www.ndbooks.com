@@ -1,3 +1,7 @@
+# DATA format
+yaml, toml, or json
+
+
 # books ordering:
 
 Have book + each edition
