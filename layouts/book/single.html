@@ -1,0 +1,21 @@
+{{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
+{{ define "main" }}
+  <div class="flex-l mt2 mw8 center">
+    <article class="center cf pv5 ph3 ph4-ns mw7">
+      <p class="f6 b helvetica tracked">
+        {{ humanize .Section | upper  }} Book TITLE
+      </p>
+      <h1 class="f1">
+        {{ .Title }}
+      </h1>
+      <section class="nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray">
+      {{ $cover_image :=  .Params.cover_image_path }}
+      {{ with $cover_image }}
+        <img src="{{ . }}" alt="g" class="h5" />
+      {{ end }}
+        {{ .Content }}
+      </section>
+    </article>
+
+  </div>
+{{ end }}
