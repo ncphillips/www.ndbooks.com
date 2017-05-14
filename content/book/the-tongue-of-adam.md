@@ -1,0 +1,48 @@
+---
+title: "The Tongue of Adam "
+draft: false
+date: 2016-03-07T20:26:00-04:00
+show_in_forthcoming: true
+subtitle:
+genre: Nonfiction
+subgenre:
+  - Essay
+language: French
+authors:
+  - contributor/abdelfattah-kilito.md
+translators:
+  - contributor/robyn-creswell.md
+editors:
+contributors:
+featured_image:
+description: "A playful and erudite look at the origins of language "
+editions:
+  - binding: Paperback
+    isbn: 9780811224932
+    publication_date: 2016-11-22T05:00:00-04:00
+    cover_image: /images/kilito_Tongue_to_size.tif
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 13.95
+    price_cn:
+    trim_size: 5 x 8
+    Page_count: 128
+  - binding: Ebook
+    isbn: 9780811224949
+    publication_date: 2016-11-22T05:00:00-04:00
+    cover_image_path:
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
+_slug: the-tongue-of-adam
+---
+
+In the beginning there was one language—one tongue that Adam used to compose the first poem, an elegy for Abel. “These days, no one bothers to ask about the tongue of Adam. It is a naive question, vaguely embarrassing and irksome, like questions posed by children, which one can only answer rather stupidly.” So begins Abdelfattah Kilito’s _The Tongue of Adam_, a delightful series of lectures. With a Borgesian flair for riddles, stories, and subtle scholarly distinctions, Kilito presents an assortment of discussions related to Adam’s tongue, including translation, comparative religion, and lexicography: for example, how, from Babel onward, can we explain the plurality of language? Or can Adam’s poetry be judged aesthetically, the same as any other poem?
+
+Drawing from the commentators of the Koran to Walter Benjamin, from the esoteric speculations of Judaism to Herodotus, _The Tongue of Adam_ is a nimble book about the mysterious rise of humankind’s multilingualism.
+
