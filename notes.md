@@ -1,3 +1,7 @@
+# Need to make the forthcoming books thing work.
+
+
+
 #images
 Need to normalize names. Covers should maybe have ISBN names. Optimize all.
 
