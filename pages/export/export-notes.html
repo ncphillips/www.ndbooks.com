@@ -1,0 +1,46 @@
+- remove $$
+- change date .000Z for -04:00
+- remove bad characters
+
+
+- should make up a regex command to remove spans.
+
+`<span.[^>]*>`
+
+<span class="redactor-invisible-space">
+<span style="line-height:1.6">
+<span>
+<figure data-type="quote">
+
+
+replace image folders, like /uploads/143898944/image-name.jpg:
+
+`\/uploads\/(\d+\/)`
+
+
+
+this script to split editions:
+```
+csplit -k -n 3 export2.txt '/^@@@/' {'999'}; for i in xx*; do sed -i '' 's/@@@/---/g' $i; done; for i in xx*; do mv $i `egrep -m1 -e 'title:.*' $i | sed -e s/[^\]\[A-Za-z0-9~.,_{}\(\)\'\-\+]/-/g -e s/title--//`.md; done
+
+```
+
+
+```
+
+csplit -k -n 3 export.txt '/^@@@/' {'999'}; for i in xx*; do sed -i '' 's/@@@/---/g' $i; done; for i in xx*; do mv $i `egrep -m1 -e 'slug:.*' $i | sed -e s/[^\]\[A-Za-z0-9~.,_{}\(\)\'\-\+]/-/g -e s/_slug--//`.md; done
+
+```
+
+
+
+# Issues
+- look at the contributor in this file: a-month-by-the-lake-other-stories.md
+
+- lines between contributors in this file: a-little-ramble.md
+
+
+- There are duplicates in editions.
+- there are probably 1912 editions, but we are missing 22.
+
+-

@@ -7,7 +7,7 @@ need tagline -->
 {% for object in items %}
 @@@<br />
 title: "{{ object.name | addslashes }}"<br />
-published: {% if object.isDraft == false %}true{% else %}false{% endif %}<br />
+draft: {% if object.isDraft == true %}true{% else %}false{% endif %}<br />
 {% if object.publish_date %}date: {{ object.publish_date | date('c') }}<br />{% endif %}
 
 
@@ -28,7 +28,7 @@ image_credit: {% if object.image_credit %}"{{ object.image_credit }}"{% endif %}
 featured_image_path: {% if object.featured_image %}{{ object.featured_image.url | replace('/webhook-uploads/', '/uploads/') }}{% endif %}<br />
 
 
-slug: {{ object.slug | replace('author/', '') }}<br />
+_slug: {{ object.slug | replace('author/', '') }}<br />
 ---<br />
 
 {{ object.bio | safe }}

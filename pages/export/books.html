@@ -1,4 +1,4 @@
-<!-- TODO: 
+<!-- TODO:
 type: not right. Needs to be an multi-select, now it's an object.
 language: showing albania when there is none. -->
 
@@ -9,30 +9,38 @@ language: showing albania when there is none. -->
 {% for object in items %}
 @@@<br />
 title: "{{ object.name | addslashes }}"<br />
-published: {% if object.isDraft == false %}true{% else %}false{% endif %}<br />
+draft: {% if object.isDraft == true %}true{% else %}false{% endif %}<br />
+
 {% if object.publish_date %}date: {{ object.publish_date | date('c') }}<br />{% endif %}
-{% if object.publication_date %}publication_date: {{ object.publication_date | date('c') }}<br />{% endif %}
+
+
+
 show_in_forthcoming: {% if object.show_in_forthcoming %}{{ object.show_in_forthcoming }}{% else %}false{% endif %}<br />
+
 subtitle: {% if object.subtitle %}"{{ object.subtitle }}"{% endif %}<br />
+
 genre: {% if object.genre %}{{ object.genre }}{% endif %}<br />
-language: {% if object.language_translated_from %}{{ object.language_translated_from }}{% endif %}<br />
-type:<br />{% for option in object.type %}
+
+subgenre:<br />{% for option in object.type %}
 {% if option.value == true %}$$- {{ option.label }}<br />{% endif %}{% endfor%}
 
-author_contributors:{% for relation in object.authors %}<br />
-$$- {{ relation.slug | replace('author/', '')  }}{% if not loop.last %}<br />{% endif %}{% endfor %}<br />
 
-translator_contributors:{% for relation in object.translators %}<br />
-$$- {{ relation.slug | replace('author/', '')  }}{% if not loop.last %}<br />{% endif %}{% endfor %}<br />
+language: {% if object.language_translated_from %}{{ object.language_translated_from }}{% endif %}<br />
 
 
-editor_contributors:{% for relation in object.editors %}<br />
-$$- {{ relation.slug | replace('author/', '')  }}{% if not loop.last %}<br />{% endif %}{% endfor %}<br />
+authors:{% for relation in object.authors %}<br />
+$$- {{ relation.slug }}.md{% if not loop.last %}<br />{% endif %}{% endfor %}<br />
+
+translators:{% for relation in object.translators %}<br />
+$$- {{ relation.slug }}.md{% if not loop.last %}<br />{% endif %}{% endfor %}<br />
+
+
+editors:{% for relation in object.editors %}<br />
+$$- {{ relation.slug }}.md{% if not loop.last %}<br />{% endif %}{% endfor %}<br />
 
 
 contributors:{% for relation in object.contributors %}<br />
-$$- {{ relation.slug | replace('author/', '')  }}{% if not loop.last %}<br />{% endif %}{% endfor %}<br />
-
+$$- {{ relation.slug }}.md{% if not loop.last %}<br />{% endif %}{% endfor %}<br />
 
 
 featured_image_path: {% if object.featured_image %}{{ object.featured_image.url | replace('/webhook-uploads/', '/uploads/') }}{% endif %}<br />
@@ -40,14 +48,15 @@ featured_image_path: {% if object.featured_image %}{{ object.featured_image.url 
 
 {% set editions = object.editions %}
 
-cover_image_path: {% if editions %}{% if editions[0].image %}{{ editions[0].image.url }}{% elseif object.image_file %}{{ object.image_file }}{% endif %}{% endif %}<br />
 
 
 description: {% if editions %}{% if editions[0].tagline  %}"{{ editions[0].tagline | replace('"', '_', 'g') | markdown | replace('<p>', '') | replace('</p>', '') }}"{% endif %}{% endif %}<br />
 
 editions:<br />{% for row in object.editions %}
 $$- binding: {{ row.type }}<br />
-$$$$isbn: {{ row.isbn }}<br />
+$$$$isbn: {{ row.isbn }}<br />{% if object.publication_date %}
+$$$$publication_date: {{ object.publication_date | date('c') }}<br />{% endif %}
+$$$$cover_image_path: {% if row.image %}{{ row.image.url }}{% elseif object.image_file %}{{ object.image_file }}{% endif %}<br />
 $$$$forsale: {% if row.for_sale %}true{% else %}false{% endif %}<br />
 $$$$saleprice: {{ row.sale_price }}<br />
 $$$$shipping_charge: {{ row.shipping_charge }}<br />
@@ -64,7 +73,7 @@ $$$$Page_count: {{ row.page_count }}<br />
 
 
 
-slug: {{ object.slug | replace('book/', '') }}<br />
+_slug: {{ object.slug | replace('book/', '') }}<br />
 ---<br />
 
 {{ object.copy | safe }}

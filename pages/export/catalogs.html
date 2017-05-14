@@ -1,7 +1,7 @@
 {% extends "templates/partials/export.html" %}
 {% block content %}
 
-{% set content = cms.pages %}
+{% set content = cms.catalog %}
 {% set items = content |sort('publish_date', true) %}
 {% for object in items %}
 @@@<br />
@@ -12,10 +12,13 @@ draft: {% if object.isDraft == true %}true{% else %}false{% endif %}<br />
 
 
 
-featured_image_path:{% if object.featured_image %} {{ object.featured_image.url | replace('webhook-uploads', 'uploads') }}{% endif %}<br />
+image:{% if object.image %} {{ object.image.url | replace('webhook-uploads', 'uploads') }}{% endif %}<br />
+
+file:{% if object.file %} "{{ object.file.url }}"{% endif %}<br />
 
 description:{% if object.meta_description %} "{{ object.meta_description }}"{% endif %}<br />
-_slug: {{ object.slug | replace('about/', '') | replace('community/', '') }}<br />
+
+_slug: {{ object.slug | replace('catalogs/', '') | replace('community/', '') }}<br />
 ---<br />
 
 {{ object.copy | safe }}
