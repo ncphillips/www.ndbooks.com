@@ -2,19 +2,31 @@
 title: "My Unwritten Books"
 draft: false
 date: 2008-01-01T06:00:13-04:00
-publication_date: 2008-01-01T06:00:13-04:00
+show_in_forthcoming: false
 subtitle:
-genre: nonfiction
+genre: Nonfiction
 subgenre:
-  - essay
+  - Essay
 language:
-author:
+authors:
   - contributor/george-steiner-g.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "By one of the world's foremost intellectuals, George Steiner's My Unwritten Books meditates upon seven books he had long had in mind to write, but never did. Massively erudite, the essays are also brave, unflinching, and wholly personal. "
 editions:
-  - 9780811217033
+  - binding: Clothbound
+    isbn: 9780811217033
+    publication_date: 2008-01-01T06:00:13-04:00
+    cover_image_path: My_Unwritten_Books.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 23.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 192
 _slug: my-unwritten-books
 ---
 

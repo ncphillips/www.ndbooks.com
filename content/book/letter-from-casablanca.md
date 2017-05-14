@@ -2,21 +2,53 @@
 title: "Letter from Casablanca"
 draft: false
 date: 1986-06-01T05:00:00-04:00
-publication_date: 1986-06-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-  - stories
-language: italian
-author:
+  - Stories
+language: Italian
+authors:
   - contributor/antonio-tabucchi.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811209861
-  - 9780811209854
-  - 9780811223485
+  - binding: Paperback
+    isbn: 9780811209861
+    publication_date: 1986-06-01T05:00:00-04:00
+    cover_image_path: Letters_From_Casablanca_.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn: 19.00
+    trim_size:
+    Page_count:
+  - binding: Clothbound
+    isbn: 9780811209854
+    publication_date: 1986-06-01T05:00:00-04:00
+    cover_image_path: Letters_From_Casablanca_.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
+  - binding: Ebook
+    isbn: 9780811223485
+    publication_date: 1986-06-01T05:00:00-04:00
+    cover_image_path: Letters_From_Casablanca_.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: letter-from-casablanca
 ---
 

@@ -2,21 +2,53 @@
 title: "The Hundred Days"
 draft: false
 date: 2014-10-07T15:03:00-04:00
-publication_date: 2016-01-12T01:00:00-04:00
+show_in_forthcoming: true
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: german
-author:
+language: German
+authors:
   - contributor/joseph-roth.md
-translator:
+translators:
   - contributor/richard-panchyk.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "Now in paperback, Napoleon's return to the throne in Paris, as imagined by the incomparable Joseph Roth "
 editions:
-  - 9780811225113
-  - 9780811222785
-  - 9780811222792
+  - binding: Paperback
+    isbn: 9780811225113
+    publication_date: 2016-01-12T01:00:00-04:00
+    cover_image_path: /uploads/HUNDRED%20DAYS.tif
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: $14.95
+    price_cn: $19.50
+    trim_size:
+    Page_count: 224
+  - binding: Clothbound
+    isbn: 9780811222785
+    publication_date: 2016-01-12T01:00:00-04:00
+    cover_image_path: hundred_days_cover.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 22.95
+    price_cn: 25.95
+    trim_size:
+    Page_count: 224
+  - binding: Ebook
+    isbn: 9780811222792
+    publication_date: 2016-01-12T01:00:00-04:00
+    cover_image_path: hundred_days_cover.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count: 224
 _slug: the-hundred-days
 ---
 

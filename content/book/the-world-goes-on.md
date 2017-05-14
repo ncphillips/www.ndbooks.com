@@ -2,23 +2,47 @@
 title: "The World Goes On"
 draft: false
 date: 2017-03-10T19:39:00-04:00
-publication_date: 2017-11-15T05:00:00-04:00
+show_in_forthcoming: true
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-  - stories
-language: hungarian
-author:
+  - Stories
+language: Hungarian
+authors:
   - contributor/laszlo-krasznahorkai.md
-translator:
+translators:
   - contributor/john-batki.md
+
   - contributor/ottilie-mulzet.md
+
   - contributor/george-szirtes.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "A magnificent new collection of stories by “the contemporary Hungarian master of apocalypse” (Susan Sontag) "
 editions:
-  - 9780811224192
-  - 9780811224208
+  - binding: Clothbound
+    isbn: 9780811224192
+    publication_date: 2017-11-15T05:00:00-04:00
+    cover_image_path: /uploads/9780811224192.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 27.95
+    price_cn: 36.95
+    trim_size: 5x8
+    Page_count: 288
+  - binding: Ebook
+    isbn: 9780811224208
+    publication_date: 2017-11-15T05:00:00-04:00
+    cover_image_path:
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: the-world-goes-on
 ---
 

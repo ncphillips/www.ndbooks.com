@@ -2,19 +2,32 @@
 title: "Memoirs"
 draft: false
 date: 2007-10-01T05:00:00-04:00
-publication_date: 2007-10-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: nonfiction
+genre: Nonfiction
 subgenre:
-  - memoir
+  - Memoir
 language:
-author:
+authors:
   - contributor/tennessee-williams.md
-translator:
-editor:
+translators:
+editors:
+contributors:
+  - contributor/john-waters.md
 featured_image_path:
+description: "For the _old crocodile,_ as Williams called himself late in life, the past was always present, and so it is with his continual shifting and intermingling of times, places, and memories as he weaves this story. "
 editions:
-  - 9780811216692
+  - binding: Paperback
+    isbn: 9780811216692
+    publication_date: 2007-10-01T05:00:00-04:00
+    cover_image_path: Memoirs.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn: 21.00
+    trim_size: 6x9
+    Page_count: 304
 _slug: memoirs
 ---
 

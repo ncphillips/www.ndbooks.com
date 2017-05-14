@@ -2,20 +2,42 @@
 title: "Beauty Is a Wound"
 draft: false
 date: 2015-03-18T17:44:00-04:00
-publication_date: 2015-09-08T04:00:00-04:00
+show_in_forthcoming: true
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/eka-kurniawan.md
-translator:
+translators:
   - contributor/annie-tucker.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "The English-language debut of Indonesia's rising star "
 editions:
-  - 9780811223638
-  - 9780811223645
+  - binding: Paperback
+    isbn: 9780811223638
+    publication_date: 2015-09-08T04:00:00-04:00
+    cover_image_path: /uploads/Beauty%20is%20a%20Wound.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 19.95
+    price_cn: 23.95
+    trim_size: 5 x 8
+    Page_count: 384
+  - binding: Ebook
+    isbn: 9780811223645
+    publication_date: 2015-09-08T04:00:00-04:00
+    cover_image_path:
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: beauty-is-a-wound
 ---
 

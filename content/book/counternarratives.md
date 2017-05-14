@@ -2,21 +2,53 @@
 title: "Counternarratives"
 draft: false
 date: 2015-01-20T04:50:00-04:00
-publication_date: 2016-05-17T13:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-  - stories
+  - Stories
 language:
-author:
+authors:
   - contributor/john-keene.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "Now in paperback, a bewitching collection of stories and novellas that are “suspenseful, thought-provoking, mystical, and haunting” (Publishers Weekly) "
 editions:
-  - 9780811225526
-  - 9780811224345
-  - 9780811224352
+  - binding: Paperback
+    isbn: 9780811225526
+    publication_date: 2016-05-17T13:00:00-04:00
+    cover_image_path: /uploads/lmjm3MAcKWHXAYSWPvivMTZ4ZuVwotbceIUhv8Rz1vo.jpeg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn: 21.95
+    trim_size: 5 x 8"
+    Page_count: 320
+  - binding: Clothbound
+    isbn: 9780811224345
+    publication_date: 2016-05-17T13:00:00-04:00
+    cover_image_path: /uploads/Counternarratives_jacket.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 24.95
+    price_cn: 27.95
+    trim_size:
+    Page_count: 320
+  - binding: Ebook
+    isbn: 9780811224352
+    publication_date: 2016-05-17T13:00:00-04:00
+    cover_image_path:
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 24.95
+    price_cn:
+    trim_size:
+    Page_count: 320
 _slug: counternarratives
 ---
 

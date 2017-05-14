@@ -2,20 +2,42 @@
 title: "On Booze"
 draft: false
 date: 2011-06-29T14:51:00-04:00
-publication_date: 2011-06-29T14:51:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: nonfiction
+genre: Nonfiction
 subgenre:
-  - essay
+  - Essay
 language:
-author:
+authors:
   - contributor/f-scott-fitzgerald.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "A collection of F. Scott Fitzgerald's best drinking stories makes this our most intoxicating Pearl yet! "
 editions:
-  - 9780811219266
-  - 9780811219334
+  - binding: Paperback
+    isbn: 9780811219266
+    publication_date: 2011-06-29T14:51:00-04:00
+    cover_image_path: onbooze.JPG
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 10.95
+    price_cn: 12.00
+    trim_size:
+    Page_count: 96
+  - binding: Ebook
+    isbn: 9780811219334
+    publication_date: 2011-06-29T14:51:00-04:00
+    cover_image_path: onbooze.JPG
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 10.95
+    price_cn:
+    trim_size:
+    Page_count: 96
 _slug: on-booze
 ---
 

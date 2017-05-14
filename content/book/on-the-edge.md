@@ -2,20 +2,43 @@
 title: "On the Edge"
 draft: false
 date: 2015-08-12T20:40:00-04:00
-publication_date: 2016-01-25T05:00:00-04:00
+show_in_forthcoming: true
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: spanish
-author:
+language: Spanish
+authors:
   - contributor/rafael-chirbes.md
-translator:
+translators:
   - contributor/margaret-jull-costa.md
-editor:
-featured_image_path: /uploads/1449089609092/MARSH%20.jpg
+editors:
+contributors:
+  - contributor/valerie-miles.md
+featured_image_path: /uploads/MARSH%20.jpg
+description: "_On the Edge_ is a monumental fresco of a brutal contemporary Spain in free fall "
 editions:
-  - 9780811222846
-  - 9780811222853
+  - binding: Paperback
+    isbn: 9780811222846
+    publication_date: 2016-01-25T05:00:00-04:00
+    cover_image_path: /uploads/ON%20THE%20EDGE.tif
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: $18.95
+    price_cn: $24.95
+    trim_size:
+    Page_count: 464
+  - binding: Ebook
+    isbn: 9780811222853
+    publication_date: 2016-01-25T05:00:00-04:00
+    cover_image_path:
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: on-the-edge
 ---
 

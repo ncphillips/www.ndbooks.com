@@ -2,18 +2,30 @@
 title: "Torn Awake"
 draft: false
 date: 2001-09-01T05:00:20-04:00
-publication_date: 2001-09-01T05:00:20-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/forrest-gander.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811214865
+  - binding: Paperback
+    isbn: 9780811214865
+    publication_date: 2001-09-01T05:00:20-04:00
+    cover_image_path: Torn_Awake.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 13.95
+    price_cn:
+    trim_size: 6x9
+    Page_count: 96
 _slug: torn-awake
 ---
 

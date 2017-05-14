@@ -2,19 +2,41 @@
 title: "The Last Samurai"
 draft: false
 date: 2015-10-21T17:23:00-04:00
-publication_date: 2016-05-31T23:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/helen-dewitt.md
-translator:
-editor:
-featured_image_path: /uploads/1454447794549/seven%20samurai.jpg
+translators:
+editors:
+contributors:
+featured_image_path: /uploads/seven%20samurai.jpg
+description: "Called “remarkable” (_The Wall Street Journal_) and “an ambitious, colossal debut novel” (_Publishers Weekly_), Helen DeWitt’s The Last Samurai is back in print at last "
 editions:
-  - 9780811225502
-  - 9780811225519
+  - binding: Paperback
+    isbn: 9780811225502
+    publication_date: 2016-05-31T23:00:00-04:00
+    cover_image_path: /uploads/dewitt_last_samurai_cover_final.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 18.95
+    price_cn: 24.95
+    trim_size: 5 x 8"
+    Page_count: 576
+  - binding: Ebook
+    isbn: 9780811225519
+    publication_date: 2016-05-31T23:00:00-04:00
+    cover_image_path:
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: the-last-samurai
 ---
 

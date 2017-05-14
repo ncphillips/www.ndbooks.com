@@ -2,20 +2,42 @@
 title: "Heartstop"
 draft: false
 date: 1984-11-01T06:00:24-04:00
-publication_date: 1984-11-01T06:00:24-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-  - stories
+  - Stories
 language:
-author:
+authors:
   - contributor/martin-grzimek.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811209229
-  - 9780811209212
+  - binding: Paperback
+    isbn: 9780811209229
+    publication_date: 1984-11-01T06:00:24-04:00
+    cover_image_path: Heartstop.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 8.95
+    price_cn:
+    trim_size:
+    Page_count:
+  - binding: Clothbound
+    isbn: 9780811209212
+    publication_date: 1984-11-01T06:00:24-04:00
+    cover_image_path: Heartstop.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 17.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: heartstop
 ---
 

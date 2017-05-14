@@ -2,19 +2,31 @@
 title: "Real Illusions"
 draft: false
 date: 1985-04-01T06:00:46-04:00
-publication_date: 1985-04-01T06:00:46-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-  - stories
+  - Stories
 language:
-author:
+authors:
   - contributor/russell-haley.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811209298
+  - binding: Paperback
+    isbn: 9780811209298
+    publication_date: 1985-04-01T06:00:46-04:00
+    cover_image_path: Real_Illusions.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 7.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: real-illusions
 ---
 

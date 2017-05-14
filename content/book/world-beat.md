@@ -2,19 +2,30 @@
 title: "World Beat"
 draft: false
 date: 2006-04-01T06:00:28-04:00
-publication_date: 2006-04-01T06:00:28-04:00
+show_in_forthcoming: false
 subtitle: "International Poetry Now"
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
-
-translator:
-editor:
+authors:
+translators:
+editors:
   - contributor/eliot-weinberger.md
+contributors:
 featured_image_path:
+description: "A celebration of contemporary poetry from around the world. "
 editions:
-  - 9780811216517
+  - binding: Paperback
+    isbn: 9780811216517
+    publication_date: 2006-04-01T06:00:28-04:00
+    cover_image_path: World_Beat.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 256
 _slug: world-beat
 ---
 

@@ -2,19 +2,41 @@
 title: "Debths"
 draft: false
 date: 2016-11-21T20:30:00-04:00
-publication_date: 2017-06-27T04:00:00-04:00
+show_in_forthcoming: true
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/susan-howe.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "**The newest collection by one of America’s most exciting poets** "
 editions:
-  - 9780811226851
-  - 9780811226868
+  - binding: Paperback
+    isbn: 9780811226851
+    publication_date: 2017-06-27T04:00:00-04:00
+    cover_image_path: /uploads/New%20Debths_rev.tif
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn: 21.95
+    trim_size: 6x9
+    Page_count: 160
+  - binding: Ebook
+    isbn: 9780811226868
+    publication_date: 2017-06-27T04:00:00-04:00
+    cover_image_path:
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: debths
 ---
 

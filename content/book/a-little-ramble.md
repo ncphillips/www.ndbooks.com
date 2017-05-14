@@ -2,20 +2,33 @@
 title: "A Little Ramble"
 draft: false
 date: 2013-04-25T17:56:00-04:00
-publication_date: 2013-04-25T17:56:00-04:00
+show_in_forthcoming: false
 subtitle: "In the Spirit of Robert Walser"
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/robert-walser.md
-translator:
+translators:
   - contributor/christopher-middleton.md
+
   - contributor/susan-bernofsky.md
-editor:
-featured_image_path: /uploads/1427481259874/Klat_Rodney_Graham_Sunday_Sun_1937.jpg
+editors:
+contributors:
+featured_image_path: /uploads/Klat_Rodney_Graham_Sunday_Sun_1937.jpg
+description: "Over 50 original full-color artworks address newly translated writings of Robert Walser "
 editions:
-  - 9780811220996
+  - binding: Clothbound
+    isbn: 9780811220996
+    publication_date: 2013-04-25T17:56:00-04:00
+    cover_image_path: Little_Ramble.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 35.00
+    price_cn: 37.00
+    trim_size:
+    Page_count: 176
 _slug: a-little-ramble
 ---
 

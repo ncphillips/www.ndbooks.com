@@ -2,19 +2,31 @@
 title: "Descartes’ Loneliness"
 draft: false
 date: 2007-12-01T06:00:00-04:00
-publication_date: 2007-12-01T06:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-  - stories
+  - Stories
 language:
-author:
+authors:
   - contributor/allen-grossman.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "A new, breakthrough collection by _one of our most disturbing and humanly gifted poets_ (Harold Bloom). "
 editions:
-  - 9780811217118
+  - binding: Paperback
+    isbn: 9780811217118
+    publication_date: 2007-12-01T06:00:00-04:00
+    cover_image_path: Descartes_Loneliness.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn: 19.00
+    trim_size: 6x9
+    Page_count: 70
 _slug: descartes-loneliness
 ---
 

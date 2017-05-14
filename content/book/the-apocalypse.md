@@ -2,19 +2,31 @@
 title: "The Apocalypse"
 draft: false
 date: 2000-10-01T05:00:28-04:00
-publication_date: 2000-10-01T05:00:28-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
-
-translator:
+authors:
+translators:
   - contributor/willis-barnstone.md
-editor:
+editors:
+contributors:
+  - contributor/willis-barnstone.md
 featured_image_path:
+description:
 editions:
-  - 9780811214469
+  - binding: Paperback
+    isbn: 9780811214469
+    publication_date: 2000-10-01T05:00:28-04:00
+    cover_image_path: The_Apocalypse.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 7.00
+    price_cn:
+    trim_size: 5x7
+    Page_count: 64
 _slug: the-apocalypse
 ---
 

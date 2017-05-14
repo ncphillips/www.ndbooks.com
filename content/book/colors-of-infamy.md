@@ -2,20 +2,42 @@
 title: "The Colors of Infamy"
 draft: false
 date: 2011-11-23T14:28:00-04:00
-publication_date: 2011-11-23T14:28:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: french
-author:
+language: French
+authors:
   - contributor/albert-cossery.md
-translator:
+translators:
   - contributor/alyson-waters.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "A charming novel about a stylish Cairo pickpocket who gets more than he bargained for "
 editions:
-  - 9780811217958
-  - 9780811221252
+  - binding: Paperback
+    isbn: 9780811217958
+    publication_date: 2011-11-23T14:28:00-04:00
+    cover_image_path: colorsofinfamy.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 12.95
+    price_cn: 15.00
+    trim_size:
+    Page_count: 128
+  - binding: Ebook
+    isbn: 9780811221252
+    publication_date: 2011-11-23T14:28:00-04:00
+    cover_image_path: colorsofinfamy.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 12.95
+    price_cn:
+    trim_size:
+    Page_count: 0
 _slug: colors-of-infamy
 ---
 

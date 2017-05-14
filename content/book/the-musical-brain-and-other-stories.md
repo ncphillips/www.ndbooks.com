@@ -2,20 +2,42 @@
 title: "The Musical Brain"
 draft: false
 date: 2015-01-03T15:42:00-04:00
-publication_date: 2015-03-03T15:42:00-04:00
+show_in_forthcoming: true
 subtitle: "and Other Stories"
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/cesar-aira.md
-translator:
+translators:
   - contributor/chris-andrews.md
-editor:
+editors:
+contributors:
 featured_image_path: /uploads/1423846966312_9780811220293.gif
+description: "A delirious collection of short stories from the Latin American master of microfiction. "
 editions:
-  - 9780811220293
-  - 9780811224185
+  - binding: Clothbound
+    isbn: 9780811220293
+    publication_date: 2015-03-03T15:42:00-04:00
+    cover_image_path: /uploads/musical%20brain.gif
+    forsale: true
+    saleprice: 20.00
+    shipping_charge: 0.00
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
+  - binding: Ebook
+    isbn: 9780811224185
+    publication_date: 2015-03-03T15:42:00-04:00
+    cover_image_path: Screen_Shot_2014-11-13_at_3.43.35_PM.png
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: the-musical-brain-and-other-stories
 ---
 

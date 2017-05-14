@@ -2,21 +2,44 @@
 title: "George Steiner at the New Yorker"
 draft: false
 date: 2009-01-01T06:00:00-04:00
-publication_date: 2009-01-01T06:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: nonfiction
+genre: Nonfiction
 subgenre:
-  - essay
+  - Essay
 language:
-author:
+authors:
   - contributor/george-steiner-g.md
-translator:
-editor:
+translators:
+editors:
+  - contributor/robert-boyers.md
+contributors:
   - contributor/robert-boyers.md
 featured_image_path:
+description: "An education in a portmanteau: _George Steiner at The New Yorker_ collects his best work from his more than 150 pieces for the magazine "
 editions:
-  - 9780811217040
-  - 9780811221658
+  - binding: Paperback
+    isbn: 9780811217040
+    publication_date: 2009-01-01T06:00:00-04:00
+    cover_image_path: George_Steiner_At_The_New_Yorker.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 17.95
+    price_cn: 20.00
+    trim_size: 5x8
+    Page_count: 304
+  - binding: Ebook
+    isbn: 9780811221658
+    publication_date: 2009-01-01T06:00:00-04:00
+    cover_image_path: George_Steiner_At_The_New_Yorker.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 17.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: george-steiner-at-the-new-yorker
 ---
 

@@ -2,19 +2,41 @@
 title: "Yellow Street"
 draft: false
 date: 1991-04-01T06:00:58-04:00
-publication_date: 1991-04-01T06:00:58-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/veza-canetti.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811211604
-  - 9780811211598
+  - binding: Paperback
+    isbn: 9780811211604
+    publication_date: 1991-04-01T06:00:58-04:00
+    cover_image_path: Yellow_Street.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn:
+    trim_size:
+    Page_count:
+  - binding: Clothbound
+    isbn: 9780811211598
+    publication_date: 1991-04-01T06:00:58-04:00
+    cover_image_path: Yellow_Street.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 18.95
+    price_cn:
+    trim_size:
+    Page_count: 160
 _slug: yellow-street
 ---
 

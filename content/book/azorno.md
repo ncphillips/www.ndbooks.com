@@ -2,19 +2,31 @@
 title: "Azorno"
 draft: false
 date: 2009-07-01T05:00:27-04:00
-publication_date: 2009-07-01T05:00:27-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/inger-christensen.md
-translator:
+translators:
   - contributor/denise-newman.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "A novel about literature, love, and their elusiveness by one of Denmark's greatest living writers. "
 editions:
-  - 9780811216579
+  - binding: Paperback
+    isbn: 9780811216579
+    publication_date: 2009-07-01T05:00:27-04:00
+    cover_image_path: Azorno.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 13.95
+    price_cn: 18.00
+    trim_size: 5x8
+    Page_count: 112
 _slug: azorno
 ---
 

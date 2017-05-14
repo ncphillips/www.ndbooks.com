@@ -2,20 +2,42 @@
 title: "A Cup of Rage"
 draft: false
 date: 2016-07-11T14:51:00-04:00
-publication_date: 2017-02-01T00:00:00-04:00
+show_in_forthcoming: true
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: portuguese
-author:
+language: Portuguese
+authors:
   - contributor/raduan-nassar.md
-translator:
+translators:
   - contributor/stefan-tobler.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "A small, furious masterpiece of dominance and submission "
 editions:
-  - 9780811226585
-  - 9780811226592
+  - binding: Paperback
+    isbn: 9780811226585
+    publication_date: 2017-02-01T00:00:00-04:00
+    cover_image_path: /uploads/9780811226585.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 11.95
+    price_cn: 15.95
+    trim_size: 5 x 7"
+    Page_count: 80
+  - binding: Ebook
+    isbn: 9780811226592
+    publication_date: 2017-02-01T00:00:00-04:00
+    cover_image_path:
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: a-cup-of-rage
 ---
 

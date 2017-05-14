@@ -2,18 +2,30 @@
 title: "In Search of Duende"
 draft: false
 date: 2010-03-01T06:00:00-04:00
-publication_date: 2010-03-01T06:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: spanish
-author:
+language: Spanish
+authors:
   - contributor/federico-garcia-lorca.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "An excellent compilation of Lorca’s poetry and prose, emphasizing Lorca’s notion of the duende, the “earth spirit of irrationality and death.” "
 editions:
-  - 9780811218559
+  - binding: Paperback
+    isbn: 9780811218559
+    publication_date: 2010-03-01T06:00:00-04:00
+    cover_image_path: duende1.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 9.95
+    price_cn: 13.00
+    trim_size: 4.5x7
+    Page_count: 96
 _slug: in-search-of-duende
 ---
 

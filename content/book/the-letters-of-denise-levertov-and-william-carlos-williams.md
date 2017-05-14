@@ -2,19 +2,31 @@
 title: "The Letters Of Denise Levertov And William Carlos Williams"
 draft: false
 date: 1998-12-01T06:00:00-04:00
-publication_date: 1998-12-01T06:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: nonfiction
+genre: Nonfiction
 subgenre:
-  - correspondence
+  - Correspondence
 language:
-author:
+authors:
   - contributor/denise-levertov.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811213929
+  - binding: Clothbound
+    isbn: 9780811213929
+    publication_date: 1998-12-01T06:00:00-04:00
+    cover_image_path: the_Letters_of_Denise_Levertov_and_WCW.JPG
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 24.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: the-letters-of-denise-levertov-and-william-carlos-williams
 ---
 

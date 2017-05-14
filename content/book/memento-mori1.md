@@ -2,19 +2,41 @@
 title: "Memento Mori"
 draft: false
 date: 2014-05-27T15:08:00-04:00
-publication_date: 2014-05-27T15:08:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/muriel-spark.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "Poignant, hilarious, and spooky, Memento Mori addresses old age "
 editions:
-  - 9780811223041
-  - 9780811219372
+  - binding: Paperback
+    isbn: 9780811223041
+    publication_date: 2014-05-27T15:08:00-04:00
+    cover_image_path: Memento_Mori_1.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn: 17.00
+    trim_size:
+    Page_count: 224
+  - binding: Ebook
+    isbn: 9780811219372
+    publication_date: 2014-05-27T15:08:00-04:00
+    cover_image_path: Memento_Mori_1.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: memento-mori1
 ---
 

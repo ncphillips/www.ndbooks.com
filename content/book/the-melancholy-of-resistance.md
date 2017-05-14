@@ -2,20 +2,42 @@
 title: "The Melancholy of Resistance"
 draft: false
 date: 2002-06-01T05:00:00-04:00
-publication_date: 2002-06-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: hungarian
-author:
+language: Hungarian
+authors:
   - contributor/laszlo-krasznahorkai.md
-translator:
+translators:
   - contributor/george-szirtes.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "The Hungarian master's first work to appear in English, and still one of the best "
 editions:
-  - 9780811215046
-  - 9780811220101
+  - binding: Paperback
+    isbn: 9780811215046
+    publication_date: 2002-06-01T05:00:00-04:00
+    cover_image_path: The_Melancholy_Of_Resistance.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 320
+  - binding: Ebook
+    isbn: 9780811220101
+    publication_date: 2002-06-01T05:00:00-04:00
+    cover_image_path: The_Melancholy_Of_Resistance.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: the-melancholy-of-resistance
 ---
 

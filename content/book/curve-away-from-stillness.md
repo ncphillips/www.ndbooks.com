@@ -2,18 +2,30 @@
 title: "Curve Away From Stillness"
 draft: false
 date: 1989-01-01T06:00:00-04:00
-publication_date: 1989-01-01T06:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/john-allman.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811210812
+  - binding: Paperback
+    isbn: 9780811210812
+    publication_date: 1989-01-01T06:00:00-04:00
+    cover_image_path: Curve_Away_From_Stillness.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 7.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: curve-away-from-stillness
 ---
 

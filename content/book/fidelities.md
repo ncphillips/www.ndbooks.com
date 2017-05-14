@@ -2,19 +2,41 @@
 title: "Fidelities"
 draft: false
 date: 1996-09-01T06:00:28-04:00
-publication_date: 1996-09-01T06:00:28-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/vernon-watkins.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811217903
-  - 9780811204040
+  - binding: Paperback
+    isbn: 9780811217903
+    publication_date: 1996-09-01T06:00:28-04:00
+    cover_image_path: Fidelities.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn:
+    trim_size:
+    Page_count:
+  - binding: Clothbound
+    isbn: 9780811204040
+    publication_date: 1996-09-01T06:00:28-04:00
+    cover_image_path: Fidelities.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 22.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: fidelities
 ---
 

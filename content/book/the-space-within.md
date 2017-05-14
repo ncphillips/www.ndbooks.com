@@ -2,19 +2,31 @@
 title: "The Selected Writings of Henri Michaux"
 draft: false
 date: 1990-09-01T05:00:00-04:00
-publication_date: 1990-09-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle: "The Space Within"
-genre: fiction
+genre: Fiction
 subgenre:
-language: portuguese
-author:
+language: Portuguese
+authors:
   - contributor/henri-michaux.md
-translator:
+translators:
   - contributor/richard-ellman.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811201056
+  - binding: Paperback
+    isbn: 9780811201056
+    publication_date: 1990-09-01T05:00:00-04:00
+    cover_image_path: Selected_Writings._Henri_Michaux_.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 13.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: the-space-within
 ---
 

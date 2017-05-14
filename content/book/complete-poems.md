@@ -2,19 +2,32 @@
 title: "Complete Poems"
 draft: false
 date: 2003-12-01T06:00:00-04:00
-publication_date: 2003-12-01T06:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/basil-bunting.md
-translator:
+translators:
   - contributor/richard-caddell.md
-editor:
+editors:
+contributors:
+  - contributor/basil-bunting.md
 featured_image_path:
+description: "At last in print, the complete poems of the great Northumbrian poet – admired by Pound, Yeats, and Zukofsky – containing his masterwork _Briggflatts._ "
 editions:
-  - 9780811215633
+  - binding: Paperback
+    isbn: 9780811215633
+    publication_date: 2003-12-01T06:00:00-04:00
+    cover_image_path: Complete_Poems_Of_Basil_Bunting_.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 18.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 240
 _slug: complete-poems
 ---
 

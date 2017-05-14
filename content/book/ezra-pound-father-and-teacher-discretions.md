@@ -2,20 +2,32 @@
 title: "Ezra Pound, Father And Teacher: Discretions"
 draft: false
 date: 2005-12-01T05:59:59-04:00
-publication_date: 2005-12-01T05:59:59-04:00
+show_in_forthcoming: false
 subtitle:
-genre: nonfiction
+genre: Nonfiction
 subgenre:
-  - memoir
+  - Memoir
 language:
-author:
+authors:
   - contributor/mary-rachewiltz.md
-translator:
-editor:
+translators:
+editors:
   - contributor/richard-sieburth.md
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811216470
+  - binding: Paperback
+    isbn: 9780811216470
+    publication_date: 2005-12-01T05:59:59-04:00
+    cover_image_path: Ezra_Pound_Father_and_Teacher.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn: 24.00
+    trim_size: 5x8
+    Page_count: 336
 _slug: ezra-pound-father-and-teacher-discretions
 ---
 

@@ -2,19 +2,41 @@
 title: "Day Of The Locust"
 draft: false
 date: 2015-05-05T16:45:00-04:00
-publication_date: 2015-05-28T04:00:00-04:00
+show_in_forthcoming: true
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/nathanael-west-n.md
-translator:
-editor:
-featured_image_path: /uploads/1430768195743/west.jpg
+translators:
+editors:
+contributors:
+featured_image_path: /uploads/west.jpg
+description: "The great Hollywood novel is now available as a stand-alone New Directions edition "
 editions:
-  - 9780811224611
-  - 9780811224628
+  - binding: Paperback
+    isbn: 9780811224611
+    publication_date: 2015-05-28T04:00:00-04:00
+    cover_image_path: /uploads/west.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 12.95
+    price_cn: 14.95
+    trim_size: 5"x 8"
+    Page_count: 160
+  - binding: Ebook
+    isbn: 9780811224628
+    publication_date: 2015-05-28T04:00:00-04:00
+    cover_image_path: /uploads/west.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: day-of-the-locust
 ---
 

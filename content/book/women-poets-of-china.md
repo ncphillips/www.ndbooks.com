@@ -2,19 +2,31 @@
 title: "Women Poets Of China"
 draft: false
 date: 1982-02-01T06:00:00-04:00
-publication_date: 1982-02-01T06:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
-  - anthology
-language: chinese
-author:
+  - Anthology
+language: Chinese
+authors:
   - contributor/kenneth-rexroth.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811208215
+  - binding: Paperback
+    isbn: 9780811208215
+    publication_date: 1982-02-01T06:00:00-04:00
+    cover_image_path: Women_Poets_Of_China.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 12.95
+    price_cn: 16.00
+    trim_size:
+    Page_count:
 _slug: women-poets-of-china
 ---
 

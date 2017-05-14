@@ -2,18 +2,30 @@
 title: "Nox"
 draft: false
 date: 2009-04-01T05:00:00-04:00
-publication_date: 2009-04-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/anne-carson.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "Anne Carson's haunting and beautiful Nox is her first book of poetry in five years – a unique, illustrated, accordion-fold-out _book in a box._ "
 editions:
-  - 9780811218702
+  - binding: Clothbound
+    isbn: 9780811218702
+    publication_date: 2009-04-01T05:00:00-04:00
+    cover_image_path: Nox.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 35.00
+    price_cn:
+    trim_size: 6x9
+    Page_count: 192
 _slug: nox
 ---
 

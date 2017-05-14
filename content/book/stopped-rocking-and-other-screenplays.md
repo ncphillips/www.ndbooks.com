@@ -2,19 +2,41 @@
 title: "Stopped Rocking And Other Screenplays"
 draft: false
 date: 1984-08-01T05:00:34-04:00
-publication_date: 1984-08-01T05:00:34-04:00
+show_in_forthcoming: false
 subtitle:
-genre: theater
+genre: Theater
 subgenre:
 language:
-author:
+authors:
   - contributor/tennessee-williams.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811209021
-  - 9780811209014
+  - binding: Paperback
+    isbn: 9780811209021
+    publication_date: 1984-08-01T05:00:34-04:00
+    cover_image_path: Stopped_Rocking.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 9.95
+    price_cn:
+    trim_size:
+    Page_count:
+  - binding: Clothbound
+    isbn: 9780811209014
+    publication_date: 1984-08-01T05:00:34-04:00
+    cover_image_path: Stopped_Rocking.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 24.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: stopped-rocking-and-other-screenplays
 ---
 

@@ -2,18 +2,31 @@
 title: "The Rose Tattoo"
 draft: false
 date: 2016-06-17T15:07:00-04:00
-publication_date: 2010-04-01T04:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: theater
+genre: Theater
 subgenre:
 language:
-author:
+authors:
   - contributor/tennessee-williams.md
-translator:
-editor:
+translators:
+editors:
+contributors:
+  - contributor/john-patrick-shanley.md
 featured_image_path:
+description: "Published as a trade paperback for the first time, with a new introduction by the acclaimed playwright John Patrick Shanley (Doubt) and the one-act on which The Rose Tattoo was based. "
 editions:
-  - 9780811218825
+  - binding: Paperback
+    isbn: 9780811218825
+    publication_date: 2010-04-01T04:00:00-04:00
+    cover_image_path: /uploads/rose_tattoo_cover_final.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 13.95
+    price_cn:
+    trim_size: 5 x 8
+    Page_count: 176
 _slug: the-rose-tattoo
 ---
 

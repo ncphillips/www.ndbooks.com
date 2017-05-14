@@ -2,20 +2,42 @@
 title: "Never Love a Gambler"
 draft: false
 date: 2014-05-27T14:08:00-04:00
-publication_date: 2014-05-27T14:08:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-  - stories
+  - Stories
 language:
-author:
+authors:
   - contributor/keith-ridgway.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "Marvelous stories by the Irish writer acclaimed by Zadie Smith as _idiosyncratic and fascinating_ "
 editions:
-  - 9780811222945
-  - 9780811222952
+  - binding: Paperback
+    isbn: 9780811222945
+    publication_date: 2014-05-27T14:08:00-04:00
+    cover_image_path: NeverLoveaGambler.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 10.95
+    price_cn: 11.99
+    trim_size:
+    Page_count: 80
+  - binding: Ebook
+    isbn: 9780811222952
+    publication_date: 2014-05-27T14:08:00-04:00
+    cover_image_path: NeverLoveaGambler.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: never-love-a-gambler
 ---
 

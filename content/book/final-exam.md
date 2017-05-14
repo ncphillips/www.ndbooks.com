@@ -2,20 +2,42 @@
 title: "Final Exam"
 draft: false
 date: 2008-07-01T04:59:00-04:00
-publication_date: 2008-07-01T04:59:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: spanish
-author:
+language: Spanish
+authors:
   - contributor/julio-cortazar.md
-translator:
+translators:
   - contributor/alfred-macadam.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "_Anyone who doesn't read Cortazar is doomed._ --Pablo Neruda "
 editions:
-  - 9780811217521
-  - 9780811214179
+  - binding: Paperback
+    isbn: 9780811217521
+    publication_date: 2008-07-01T04:59:00-04:00
+    cover_image_path: Final_Exam.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn: 17.00
+    trim_size: 5x8
+    Page_count: 256
+  - binding: Clothbound
+    isbn: 9780811214179
+    publication_date: 2008-07-01T04:59:00-04:00
+    cover_image_path: Final_Exam.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size: 5x8
+    Page_count: 256
 _slug: final-exam
 ---
 

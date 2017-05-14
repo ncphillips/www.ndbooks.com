@@ -2,17 +2,18 @@
 title: "New Directions 54"
 draft: false
 date: 2001-01-01T06:00:05-04:00
-publication_date: 2001-01-01T06:00:05-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-  - anthology
+  - Anthology
 language:
-author:
-
-translator:
-editor:
+authors:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
 _slug: new-directions-54
 ---

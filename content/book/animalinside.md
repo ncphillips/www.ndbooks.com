@@ -2,19 +2,32 @@
 title: "Animalinside"
 draft: false
 date: 2011-06-16T14:28:00-04:00
-publication_date: 2011-06-16T14:28:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: portuguese
-author:
+language: Portuguese
+authors:
   - contributor/laszlo-krasznahorkai.md
-translator:
+translators:
   - contributor/ottilie-mulzet.md
-editor:
+editors:
+contributors:
+  - contributor/colm-toibin.md
 featured_image_path:
+description: "Limited to 2,000 gorgeous copies, this richly illustrated, extraordinary novella was created in collaboration with the famed painter Max Neumann. "
 editions:
-  - 9780811219167
+  - binding: Clothbound
+    isbn: 9780811219167
+    publication_date: 2011-06-16T14:28:00-04:00
+    cover_image_path: animalinside.JPG
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count: 48
 _slug: animalinside
 ---
 

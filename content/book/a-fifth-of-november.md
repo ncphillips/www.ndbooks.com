@@ -2,19 +2,41 @@
 title: "A Fifth of November"
 draft: false
 date: 2004-11-01T05:59:58-04:00
-publication_date: 2004-11-01T05:59:58-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/paul-west-p.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "A suspenseful and uniquely literary look in Guy Fawkes and the English Gunpowder Plot of 1605, by one of America's most celebrated writers. "
 editions:
-  - 9780811216067
-  - 9780811214674
+  - binding: Paperback
+    isbn: 9780811216067
+    publication_date: 2004-11-01T05:59:58-04:00
+    cover_image_path: A_Fifth_Of_November.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 368
+  - binding: Clothbound
+    isbn: 9780811214674
+    publication_date: 2004-11-01T05:59:58-04:00
+    cover_image_path: A_Fifth_Of_November.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size: 5x8
+    Page_count: 368
 _slug: a-fifth-of-november
 ---
 

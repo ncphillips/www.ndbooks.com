@@ -2,18 +2,30 @@
 title: "Except the Lord"
 draft: false
 date: 1985-09-01T05:00:10-04:00
-publication_date: 1985-09-01T05:00:10-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/joyce-cary.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811209656
+  - binding: Paperback
+    isbn: 9780811209656
+    publication_date: 1985-09-01T05:00:10-04:00
+    cover_image_path: Except_the_Lord_.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 7.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: except-the-lord
 ---
 

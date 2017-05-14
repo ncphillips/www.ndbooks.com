@@ -2,20 +2,42 @@
 title: "The Red Notebook"
 draft: false
 date: 2002-06-01T05:00:52-04:00
-publication_date: 2002-06-01T05:00:52-04:00
+show_in_forthcoming: false
 subtitle:
-genre: nonfiction
+genre: Nonfiction
 subgenre:
-  - essay
+  - Essay
 language:
-author:
+authors:
   - contributor/paul-auster.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811214988
-  - 9780811221153
+  - binding: Paperback
+    isbn: 9780811214988
+    publication_date: 2002-06-01T05:00:52-04:00
+    cover_image_path: The_Red_Notebook.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 12.95
+    price_cn: 16.00
+    trim_size: 5x7
+    Page_count: 104
+  - binding: Ebook
+    isbn: 9780811221153
+    publication_date: 2002-06-01T05:00:52-04:00
+    cover_image_path: The_Red_Notebook.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 12.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: the-red-notebook
 ---
 

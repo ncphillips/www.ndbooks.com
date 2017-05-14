@@ -2,21 +2,44 @@
 title: "Siddhartha / The Dhammapada"
 draft: false
 date: 2009-09-01T05:00:00-04:00
-publication_date: 2009-09-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/hermann-hesse.md
+
   - contributor/buddha.md
-translator:
+translators:
   - contributor/hilda-rosner.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811218504
-  - 9780811219761
+  - binding: Paperback
+    isbn: 9780811218504
+    publication_date: 2009-09-01T05:00:00-04:00
+    cover_image_path: Siddhartha:The_Dhammapada.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 11.95
+    price_cn: 13.00
+    trim_size: 5x7
+    Page_count: 184
+  - binding: Ebook
+    isbn: 9780811219761
+    publication_date: 2009-09-01T05:00:00-04:00
+    cover_image_path: Siddhartha:The_Dhammapada.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 11.95
+    price_cn:
+    trim_size:
+    Page_count: 184
 _slug: siddhartha
 ---
 

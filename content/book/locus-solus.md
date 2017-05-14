@@ -2,20 +2,42 @@
 title: "Locus Solus"
 draft: false
 date: 2016-07-11T15:09:00-04:00
-publication_date: 2017-03-28T04:00:00-04:00
+show_in_forthcoming: true
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: french
-author:
+language: French
+authors:
   - contributor/raymond-roussel.md
-translator:
+translators:
   - contributor/rupert-copeland-cunningham.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "An intoxicating sui generis novel by _the greatest mesmerist of modern times_ (André Breton) "
 editions:
-  - 9780811226455
-  - 9780811226462
+  - binding: Paperback
+    isbn: 9780811226455
+    publication_date: 2017-03-28T04:00:00-04:00
+    cover_image_path: /uploads/9780811226455.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn: 19.95
+    trim_size: 5 x 8"
+    Page_count: 256
+  - binding: Ebook
+    isbn: 9780811226462
+    publication_date: 2017-03-28T04:00:00-04:00
+    cover_image_path:
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: locus-solus
 ---
 

@@ -2,21 +2,43 @@
 title: "A Simple Story"
 draft: false
 date: 2016-07-11T14:48:00-04:00
-publication_date: 2017-02-07T05:00:00-04:00
+show_in_forthcoming: true
 subtitle: "The Last Malambo"
-genre: nonfiction
+genre: Nonfiction
 subgenre:
-  - non fiction
-language: spanish
-author:
+  - Non fiction
+language: Spanish
+authors:
   - contributor/leila-guerriero.md
-translator:
+translators:
   - contributor/frances-riddle.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "Obsession and mastery in their purest states: the story of one dancer's attempt to win the biggest contest of his life "
 editions:
-  - 9780811226004
-  - 9780811226011
+  - binding: Paperback
+    isbn: 9780811226004
+    publication_date: 2017-02-07T05:00:00-04:00
+    cover_image_path: /uploads/guerriero_simple_story_cover.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn: 19.95
+    trim_size: 5 x 8"
+    Page_count: 128
+  - binding: Ebook
+    isbn: 9780811226011
+    publication_date: 2017-02-07T05:00:00-04:00
+    cover_image_path:
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: a-simple-story
 ---
 

@@ -2,18 +2,31 @@
 title: "Ground Work"
 draft: false
 date: 2006-04-01T06:00:07-04:00
-publication_date: 2006-04-01T06:00:07-04:00
+show_in_forthcoming: false
 subtitle: "Before The War / In The Dark"
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/robert-duncan.md
-translator:
-editor:
+translators:
+editors:
+contributors:
+  - contributor/michael-palmer.md
 featured_image_path:
+description:
 editions:
-  - 9780811216531
+  - binding: Paperback
+    isbn: 9780811216531
+    publication_date: 2006-04-01T06:00:07-04:00
+    cover_image_path: Ground_Work_Before_The_War_:_In_The_Dark_.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 24.95
+    price_cn: 26.00
+    trim_size:
+    Page_count: 288
 _slug: ground-work-before-the-war-in-the-dark
 ---
 

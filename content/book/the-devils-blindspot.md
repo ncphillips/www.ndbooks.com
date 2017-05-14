@@ -2,21 +2,43 @@
 title: "The Devil's Blindspot"
 draft: false
 date: 2007-09-01T05:00:00-04:00
-publication_date: 2007-09-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-  - stories
-language: german
-author:
+  - Stories
+language: German
+authors:
   - contributor/alexander-kluge.md
-translator:
+translators:
   - contributor/michael-hulse.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "Scathingly clever short stories. Includes _The Devil in the White House_ and _The Development of Iraq as a Case for the Files._ "
 editions:
-  - 9780811217361
-  - 9780811215954
+  - binding: Paperback
+    isbn: 9780811217361
+    publication_date: 2007-09-01T05:00:00-04:00
+    cover_image_path: The_Devils_Blind_Spot_2.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn: 19.00
+    trim_size: 5x8
+    Page_count: 224
+  - binding: Clothbound
+    isbn: 9780811215954
+    publication_date: 2007-09-01T05:00:00-04:00
+    cover_image_path: The_Devils_Blind_Spot_2.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 25.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 224
 _slug: the-devils-blindspot
 ---
 

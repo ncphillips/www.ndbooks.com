@@ -2,20 +2,32 @@
 title: "Cinema Stories"
 draft: false
 date: 2007-09-01T05:00:12-04:00
-publication_date: 2007-09-01T05:00:12-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-  - stories
+  - Stories
 language:
-author:
+authors:
   - contributor/alexander-kluge.md
-translator:
+translators:
   - contributor/martin-brady.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811217354
+  - binding: Paperback
+    isbn: 9780811217354
+    publication_date: 2007-09-01T05:00:12-04:00
+    cover_image_path: Cinema_Stories.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 11.95
+    price_cn: 15.00
+    trim_size: 5x7
+    Page_count: 96
 _slug: cinema-stories
 ---
 

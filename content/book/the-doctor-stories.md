@@ -2,20 +2,42 @@
 title: "The Doctor Stories"
 draft: false
 date: 1984-10-01T05:00:00-04:00
-publication_date: 1984-10-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-  - stories
+  - Stories
 language:
-author:
+authors:
   - contributor/william-carlos-williams.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811209267
-  - 9780811220156
+  - binding: Paperback
+    isbn: 9780811209267
+    publication_date: 1984-10-01T05:00:00-04:00
+    cover_image_path: The_Doctor_Stories.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 13.95
+    price_cn: 16.00
+    trim_size:
+    Page_count: 142
+  - binding: Ebook
+    isbn: 9780811220156
+    publication_date: 1984-10-01T05:00:00-04:00
+    cover_image_path: The_Doctor_Stories.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: the-doctor-stories
 ---
 

@@ -2,19 +2,41 @@
 title: "Martin And Meditations On The South Valley"
 draft: false
 date: 1987-10-01T05:00:00-04:00
-publication_date: 1987-10-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/jimmy-baca.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811210324
-  - 9780811223324
+  - binding: Paperback
+    isbn: 9780811210324
+    publication_date: 1987-10-01T05:00:00-04:00
+    cover_image_path: Martin_And_Meditations_On_The_South_Valley.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 13.95
+    price_cn:
+    trim_size:
+    Page_count: 104
+  - binding: Ebook
+    isbn: 9780811223324
+    publication_date: 1987-10-01T05:00:00-04:00
+    cover_image_path: Martin_And_Meditations_On_The_South_Valley.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 13.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: martin-and-meditations-on-the-south-valley
 ---
 

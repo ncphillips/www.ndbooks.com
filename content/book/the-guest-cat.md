@@ -2,20 +2,42 @@
 title: "The Guest Cat"
 draft: false
 date: 2014-01-28T21:27:00-04:00
-publication_date: 2014-01-28T21:27:00-04:00
+show_in_forthcoming: true
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: japanese
-author:
+language: Japanese
+authors:
   - contributor/takashi-hiraide.md
-translator:
+translators:
   - contributor/eric-selland.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "A wonderful novel about a visiting cat who brings joy into a Tokyo couple’s life "
 editions:
-  - 9780811221504
-  - 9780811221504
+  - binding: Paperback
+    isbn: 9780811221504
+    publication_date: 2014-01-28T21:27:00-04:00
+    cover_image_path: Guest_Cat.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn: 16.00
+    trim_size:
+    Page_count: 144
+  - binding: Ebook
+    isbn: 9780811221504
+    publication_date: 2014-01-28T21:27:00-04:00
+    cover_image_path: Guest_Cat.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: the-guest-cat
 ---
 

@@ -2,20 +2,42 @@
 title: "Durrell-Miller Letters 1935-1980"
 draft: false
 date: 2007-03-01T06:00:49-04:00
-publication_date: 2007-03-01T06:00:49-04:00
+show_in_forthcoming: false
 subtitle:
-genre: nonfiction
+genre: Nonfiction
 subgenre:
-  - correspondence
+  - Correspondence
 language:
-author:
+authors:
   - contributor/durrell-and-miller.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811217309
-  - 9780811210430
+  - binding: Paperback
+    isbn: 9780811217309
+    publication_date: 2007-03-01T06:00:49-04:00
+    cover_image_path: The_Durrel_Miller_Letters.JPG
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 24.95
+    price_cn:
+    trim_size:
+    Page_count:
+  - binding: Clothbound
+    isbn: 9780811210430
+    publication_date: 2007-03-01T06:00:49-04:00
+    cover_image_path: The_Durrel_Miller_Letters.JPG
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: durrell-miller-letters-1935-1980
 ---
 

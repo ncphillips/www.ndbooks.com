@@ -2,19 +2,44 @@
 title: "Nightwood"
 draft: false
 date: 2008-09-01T05:00:00-04:00
-publication_date: 2008-09-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/djuna-barnes.md
-translator:
-editor:
+translators:
+editors:
+contributors:
+  - contributor/t.-s.-eliot.md
+
+  - contributor/jeanette-winterson.md
 featured_image_path:
+description: "Reissue of a fiery and enigmatic masterpiece, one of the greatest novels of the Modernist era "
 editions:
-  - 9780811216715
-  - 9780811221436
+  - binding: Paperback
+    isbn: 9780811216715
+    publication_date: 2008-09-01T05:00:00-04:00
+    cover_image_path: /uploads/1423959620533_9780811216715-722x1133.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn: 16.50
+    trim_size: 5x8
+    Page_count: 208
+  - binding: Ebook
+    isbn: 9780811221436
+    publication_date: 2008-09-01T05:00:00-04:00
+    cover_image_path:
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count: 208
 _slug: nightwood
 ---
 

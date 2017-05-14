@@ -2,19 +2,41 @@
 title: "Nausea (2007 edition)"
 draft: false
 date: 2007-05-01T05:00:00-04:00
-publication_date: 2007-05-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: portuguese
-author:
+language: Portuguese
+authors:
   - contributor/jean-paul-sartre.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "The classic Existentialist novel, with a new Introduction by renowned poet, translator, and critic Richard Howard "
 editions:
-  - 9780811217002
-  - 9780811219730
+  - binding: Paperback
+    isbn: 9780811217002
+    publication_date: 2007-05-01T05:00:00-04:00
+    cover_image_path: nausea.JPG
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn: 18.00
+    trim_size: 5x8
+    Page_count: 192
+  - binding: Ebook
+    isbn: 9780811219730
+    publication_date: 2007-05-01T05:00:00-04:00
+    cover_image_path: nausea.JPG
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count: 192
 _slug: nausea2
 ---
 

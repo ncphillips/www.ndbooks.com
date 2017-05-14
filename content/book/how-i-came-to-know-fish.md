@@ -2,19 +2,31 @@
 title: "How I Came to Know Fish"
 draft: false
 date: 1991-05-01T05:00:01-04:00
-publication_date: 1991-05-01T05:00:01-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-  - stories
+  - Stories
 language:
-author:
+authors:
   - contributor/ota-pavel.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811211659
+  - binding: Paperback
+    isbn: 9780811211659
+    publication_date: 1991-05-01T05:00:01-04:00
+    cover_image_path: How_I_Came_To_Know_Fish.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: how-i-came-to-know-fish
 ---
 

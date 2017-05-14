@@ -2,21 +2,43 @@
 title: "Investigations of a Dog & Other Creatures"
 draft: false
 date: 2016-11-21T20:26:00-04:00
-publication_date: 2017-05-23T04:00:00-04:00
+show_in_forthcoming: true
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-  - stories
-language: german
-author:
+  - Stories
+language: German
+authors:
   - contributor/franz-kafka.md
-translator:
+translators:
   - contributor/michael-hofmann1.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "**A masterful new translation by Michael Hofmann of Kafka’s best short fiction** "
 editions:
-  - 9780811226899
-  - 9780811226905
+  - binding: Paperback
+    isbn: 9780811226899
+    publication_date: 2017-05-23T04:00:00-04:00
+    cover_image_path: /uploads/kafka_investigations_of_a_dog_cover.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn: 22.95
+    trim_size: 5x8
+    Page_count: 224
+  - binding: Ebook
+    isbn: 9780811226905
+    publication_date: 2017-05-23T04:00:00-04:00
+    cover_image_path:
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: investigations-of-a-dog-other-creatures
 ---
 

@@ -2,18 +2,30 @@
 title: "The Book Of Friends"
 draft: false
 date: 2001-01-01T06:00:16-04:00
-publication_date: 2001-01-01T06:00:16-04:00
+show_in_forthcoming: false
 subtitle:
-genre: nonfiction
+genre: Nonfiction
 subgenre:
-  - memoir
+  - Memoir
 language:
-author:
+authors:
   - contributor/henry-miller.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811218177
+  - binding: Paperback
+    isbn: 9780811218177
+    publication_date: 2001-01-01T06:00:16-04:00
+    cover_image_path: The_Book_Of_Friends.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: the-book-of-friends
 ---

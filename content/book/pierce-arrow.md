@@ -2,18 +2,30 @@
 title: "Pierce-Arrow"
 draft: false
 date: 1999-06-01T05:00:00-04:00
-publication_date: 1999-06-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
-language: portuguese
-author:
+language: Portuguese
+authors:
   - contributor/susan-howe.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811214100
+  - binding: Paperback
+    isbn: 9780811214100
+    publication_date: 1999-06-01T05:00:00-04:00
+    cover_image_path: Pierce-Arrow.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn:
+    trim_size:
+    Page_count: 160
 _slug: pierce-arrow
 ---
 

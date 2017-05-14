@@ -2,19 +2,31 @@
 title: "The Telegraph"
 draft: false
 date: 2001-01-01T06:00:28-04:00
-publication_date: 2001-01-01T06:00:28-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/stendhal.md
-translator:
+translators:
   - contributor/louise-varese.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811219013
+  - binding: Paperback
+    isbn: 9780811219013
+    publication_date: 2001-01-01T06:00:28-04:00
+    cover_image_path: thetelegraph.JPG
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 23.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: the-telegraph
 ---
 

@@ -2,18 +2,30 @@
 title: "Caprice"
 draft: false
 date: 1993-04-01T06:00:37-04:00
-publication_date: 1993-04-01T06:00:37-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/ronald-firbank.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811212434
+  - binding: Paperback
+    isbn: 9780811212434
+    publication_date: 1993-04-01T06:00:37-04:00
+    cover_image_path: Caprice.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 5.00
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: caprice
 ---
 

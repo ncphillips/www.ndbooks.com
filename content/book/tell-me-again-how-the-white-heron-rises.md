@@ -2,18 +2,30 @@
 title: "Tell Me Again How The White Heron Rises ....."
 draft: false
 date: 1989-09-01T05:00:00-04:00
-publication_date: 1989-09-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/hayden-carruth.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "Tell Me Again... offers a wide variety of poems written in Hayden Carruth's inimitably eloquent and precise style. "
 editions:
-  - 9780811211048
+  - binding: Paperback
+    isbn: 9780811211048
+    publication_date: 1989-09-01T05:00:00-04:00
+    cover_image_path: Tell_Me_Again_How_The_White_Heron_Rises_And_Flies_Across_The_Nacreous_River_At_Twilight_Toward_The_Distant_Islands.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 8.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: tell-me-again-how-the-white-heron-rises
 ---
 

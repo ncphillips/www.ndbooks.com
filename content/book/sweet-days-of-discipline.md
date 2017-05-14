@@ -2,19 +2,31 @@
 title: "Sweet Days of Discipline"
 draft: false
 date: 1993-05-01T05:00:00-04:00
-publication_date: 1993-05-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: portuguese
-author:
+language: Portuguese
+authors:
   - contributor/fleur-jaeggy.md
-translator:
+translators:
   - contributor/tim-parks.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "**_Dipped in the blue ink of adolescence, Fleur Jaeggy's pen is an engraver's needle depicting roots, twigs, and branches of the tree of madness, growing in the splendid isolation of the small Swiss garden of knowledge into full leaf until it obscures every perspective. Extraordinary prose. Reading time is approximately four hours. Remembering time, as for its author: the rest of one's life._—Joseph Brodsky** "
 editions:
-  - 9780811212359
+  - binding: Paperback
+    isbn: 9780811212359
+    publication_date: 1993-05-01T05:00:00-04:00
+    cover_image_path: Sweet_Days_Of_Discipline.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 10.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: sweet-days-of-discipline
 ---
 

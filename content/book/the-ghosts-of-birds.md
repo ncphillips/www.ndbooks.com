@@ -2,20 +2,42 @@
 title: "The Ghosts of Birds"
 draft: false
 date: 2016-03-07T20:18:00-04:00
-publication_date: 2016-10-11T04:00:00-04:00
+show_in_forthcoming: true
 subtitle:
-genre: nonfiction
+genre: Nonfiction
 subgenre:
-  - essay
+  - Essay
 language:
-author:
+authors:
   - contributor/eliot-weinberger.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "A new collection from “one of the world’s great essayists” (_The New York Times_) "
 editions:
-  - 9780811226189
-  - 9780811226196
+  - binding: Paperback
+    isbn: 9780811226189
+    publication_date: 2016-10-11T04:00:00-04:00
+    cover_image_path: /uploads/weinberger_ghosts_of_birds%20copy.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn:
+    trim_size: 5 x 8
+    Page_count: 240
+  - binding: Ebook
+    isbn: 9780811226196
+    publication_date: 2016-10-11T04:00:00-04:00
+    cover_image_path:
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: the-ghosts-of-birds
 ---
 

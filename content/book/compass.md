@@ -2,20 +2,42 @@
 title: "Compass"
 draft: false
 date: 2016-07-11T15:10:00-04:00
-publication_date: 2017-03-28T04:00:00-04:00
+show_in_forthcoming: true
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: french
-author:
+language: French
+authors:
   - contributor/mathias-énard.md
-translator:
+translators:
   - contributor/charlotte-mandell.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "Winner of the 2015 Prix Goncourt, an astounding novel that bridges Europe and the Islamic world "
 editions:
-  - 9780811226622
-  - 9780811226639
+  - binding: Clothbound
+    isbn: 9780811226622
+    publication_date: 2017-03-28T04:00:00-04:00
+    cover_image_path: /uploads/9780811226622.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 26.95
+    price_cn: 35.95
+    trim_size: 5 x 8"
+    Page_count: 464
+  - binding: Ebook
+    isbn: 9780811226639
+    publication_date: 2017-03-28T04:00:00-04:00
+    cover_image_path:
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: compass
 ---
 

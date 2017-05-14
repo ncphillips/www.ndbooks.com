@@ -2,19 +2,30 @@
 title: "Fifteen Iraqi Poets"
 draft: false
 date: 2013-11-29T20:44:00-04:00
-publication_date: 2013-11-29T20:44:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
-language: arabic
-author:
-
-translator:
-editor:
+language: Arabic
+authors:
+translators:
+editors:
   - contributor/dunya-mikhail.md
+contributors:
 featured_image_path:
+description: "A dazzling collection of contemporary Iraqi poetry "
 editions:
-  - 9780811221795
+  - binding: Paperback
+    isbn: 9780811221795
+    publication_date: 2013-11-29T20:44:00-04:00
+    cover_image_path: 15_Iraqi_Poets.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 10.95
+    price_cn: 11.99
+    trim_size:
+    Page_count: 48
 _slug: fifteen-iraqi-poets
 ---
 

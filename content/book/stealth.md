@@ -2,20 +2,42 @@
 title: "Stealth"
 draft: false
 date: 2014-05-27T14:06:00-04:00
-publication_date: 2014-05-27T14:06:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: arabic
-author:
+language: Arabic
+authors:
   - contributor/sonallah-ibrahim.md
-translator:
+translators:
   - contributor/Hosam-Aboul-Ela.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "A young son wanders Cairo trying to comprehend why his mother has disappeared "
 editions:
-  - 9780811223058
-  - 9780811223065
+  - binding: Paperback
+    isbn: 9780811223058
+    publication_date: 2014-05-27T14:06:00-04:00
+    cover_image_path: Stealth.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn: 17.00
+    trim_size:
+    Page_count: 224
+  - binding: Ebook
+    isbn: 9780811223065
+    publication_date: 2014-05-27T14:06:00-04:00
+    cover_image_path: Stealth.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: stealth
 ---
 

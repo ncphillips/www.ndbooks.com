@@ -2,20 +2,42 @@
 title: "Morphine"
 draft: false
 date: 2013-09-26T16:21:00-04:00
-publication_date: 2013-09-26T16:21:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: russian
-author:
+language: Russian
+authors:
   - contributor/mikhail-bulgakov.md
-translator:
+translators:
   - contributor/hugh-aplin.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "From the author of _The Master and Margarita_ comes this short and tragic masterpiece about drug addiction "
 editions:
-  - 9780811221689
-  - 9780811221696
+  - binding: Paperback
+    isbn: 9780811221689
+    publication_date: 2013-09-26T16:21:00-04:00
+    cover_image_path: Morphine.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 10.95
+    price_cn: 11.99
+    trim_size:
+    Page_count: 64
+  - binding: Ebook
+    isbn: 9780811221696
+    publication_date: 2013-09-26T16:21:00-04:00
+    cover_image_path: Morphine.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 10.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: morphine
 ---
 

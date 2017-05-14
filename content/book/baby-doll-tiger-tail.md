@@ -2,19 +2,41 @@
 title: "Baby Doll & Tiger Tail"
 draft: false
 date: 1991-05-01T05:00:20-04:00
-publication_date: 1991-05-01T05:00:20-04:00
+show_in_forthcoming: false
 subtitle:
-genre: theater
+genre: Theater
 subgenre:
 language:
-author:
+authors:
   - contributor/tennessee-williams.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811211673
-  - 9780811211666
+  - binding: Paperback
+    isbn: 9780811211673
+    publication_date: 1991-05-01T05:00:20-04:00
+    cover_image_path: Baby_Doll__Tiger_Tail.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 13.95
+    price_cn:
+    trim_size:
+    Page_count:
+  - binding: Clothbound
+    isbn: 9780811211666
+    publication_date: 1991-05-01T05:00:20-04:00
+    cover_image_path: Baby_Doll__Tiger_Tail.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 23.95
+    price_cn:
+    trim_size:
+    Page_count: 224
 _slug: baby-doll-tiger-tail
 ---
 

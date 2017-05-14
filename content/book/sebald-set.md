@@ -2,19 +2,31 @@
 title: "Sebald Set"
 draft: false
 date: 2016-03-07T21:11:00-04:00
-publication_date: 2016-11-08T05:00:00-04:00
+show_in_forthcoming: false
 subtitle: "The Emigrants, The Rings of Saturn & Vertigo"
 genre:
 subgenre:
-language: german
-author:
+language: German
+authors:
   - contributor/W._G._Sebald.md
-translator:
+translators:
   - contributor/michael-hulse.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "The masterworks of W. G. Sebald, now with gorgeous new covers by the famed designer Peter Mendelsund "
 editions:
-  - 9780811226424
+  - binding: Paperback
+    isbn: 9780811226424
+    publication_date: 2016-11-08T05:00:00-04:00
+    cover_image_path: /uploads/SebaldSet.tiff
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 45.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: sebald-set
 ---
 

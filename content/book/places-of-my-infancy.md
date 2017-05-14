@@ -2,19 +2,31 @@
 title: "Places of My Infancy"
 draft: false
 date: 2012-11-07T16:38:00-04:00
-publication_date: 2012-11-07T16:38:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: nonfiction
+genre: Nonfiction
 subgenre:
 language:
-author:
+authors:
   - contributor/giuseppe-tomasi-di-lampedusa.md
-translator:
+translators:
   - contributor/archibald-colquhoun.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "For fans of _The Leopard_, an intimate portrait of Lampedusa's childhood "
 editions:
-  - 9780811220385
+  - binding: Paperback
+    isbn: 9780811220385
+    publication_date: 2012-11-07T16:38:00-04:00
+    cover_image_path: Places_of_my_Infancy.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 10.95
+    price_cn: 11.99
+    trim_size:
+    Page_count: 76
 _slug: places-of-my-infancy
 ---
 

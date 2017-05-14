@@ -2,18 +2,30 @@
 title: "We Meet"
 draft: false
 date: 2009-07-01T05:00:19-04:00
-publication_date: 2009-07-01T05:00:19-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/kenneth-patchen.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "Meet Kenneth Patchen, a prolific, ground-breaking proletarian poet/painter whose most eclectic and wildly eccentric works are re-launched in a single startling volume--We Meet. "
 editions:
-  - 9780811217583
+  - binding: Paperback
+    isbn: 9780811217583
+    publication_date: 2009-07-01T05:00:19-04:00
+    cover_image_path: We_Meet.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 18.95
+    price_cn: 22.00
+    trim_size: 5x8
+    Page_count: 304
 _slug: we-meet
 ---
 

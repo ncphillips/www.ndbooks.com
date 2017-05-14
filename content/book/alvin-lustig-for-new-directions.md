@@ -2,18 +2,30 @@
 title: "Alvin Lustig for New Directions: 50 Postcards"
 draft: false
 date: 2013-05-20T19:30:00-04:00
-publication_date: 2013-05-20T19:30:00-04:00
+show_in_forthcoming: false
 subtitle:
 genre:
 subgenre:
 language:
-author:
-  - contributor/designer/alvin-lustig-designers-page.md
-translator:
-editor:
+authors:
+  - designer/alvin-lustig-designers-page.md
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "Design genius in a nutshell: fifty of Lustig’s greatest book jackets in one box "
 editions:
-  - 9780811221009
+  - binding: Paperback
+    isbn: 9780811221009
+    publication_date: 2013-05-20T19:30:00-04:00
+    cover_image_path: /uploads/Lustig%20box.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 9.95
+    price_cn:
+    trim_size:
+    Page_count: 50
 _slug: alvin-lustig-for-new-directions
 ---
 

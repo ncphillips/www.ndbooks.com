@@ -2,19 +2,41 @@
 title: "The Theatre Of Tennessee Williams, Vol. VI"
 draft: false
 date: 1992-09-01T05:00:20-04:00
-publication_date: 1992-09-01T05:00:20-04:00
+show_in_forthcoming: false
 subtitle:
-genre: theater
+genre: Theater
 subgenre:
 language:
-author:
+authors:
   - contributor/tennessee-williams.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811212151
-  - 9780811207942
+  - binding: Paperback
+    isbn: 9780811212151
+    publication_date: 1992-09-01T05:00:20-04:00
+    cover_image_path: The_Theatre_Of_Tennessee_Williams_Volume_6.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 21.95
+    price_cn:
+    trim_size:
+    Page_count:
+  - binding: Clothbound
+    isbn: 9780811207942
+    publication_date: 1992-09-01T05:00:20-04:00
+    cover_image_path: The_Theatre_Of_Tennessee_Williams_Volume_6.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 43.95
+    price_cn:
+    trim_size:
+    Page_count: 368
 _slug: the-theatre-of-tennessee-williams-vol.-vi
 ---
 

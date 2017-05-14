@@ -2,18 +2,30 @@
 title: "Midwinter Day"
 draft: false
 date: 1999-05-01T05:00:18-04:00
-publication_date: 1999-05-01T05:00:18-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/bernadette-mayer.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "Bernadette Mayer's famous long poem written over the span of a day. "
 editions:
-  - 9780811214063
+  - binding: Paperback
+    isbn: 9780811214063
+    publication_date: 1999-05-01T05:00:18-04:00
+    cover_image_path: Midwinter_Day.JPG
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn: 19.00
+    trim_size:
+    Page_count: 128
 _slug: midwinter-day
 ---
 

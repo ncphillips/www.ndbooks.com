@@ -2,18 +2,30 @@
 title: "Scenarios for a Mixed Landscape"
 draft: false
 date: 1986-09-17T16:36:00-04:00
-publication_date: 1986-09-17T16:36:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/john-allman.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811209892
+  - binding: Paperback
+    isbn: 9780811209892
+    publication_date: 1986-09-17T16:36:00-04:00
+    cover_image_path: Scenarios_For_A_Mixed_Landscape_.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 7.95
+    price_cn:
+    trim_size:
+    Page_count: 68
 _slug: scenarios-for-a-mixed-landscape
 ---
 

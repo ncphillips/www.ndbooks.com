@@ -2,20 +2,42 @@
 title: "Alphabet"
 draft: false
 date: 2001-05-01T04:59:00-04:00
-publication_date: 2001-05-01T04:59:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
-language: danish
-author:
+language: Danish
+authors:
   - contributor/inger-christensen.md
-translator:
+translators:
   - contributor/susanna-nied.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811214773
-  - 9780811223683
+  - binding: Paperback
+    isbn: 9780811214773
+    publication_date: 2001-05-01T04:59:00-04:00
+    cover_image_path: Alphabet.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 12.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 80
+  - binding: Ebook
+    isbn: 9780811223683
+    publication_date: 2001-05-01T04:59:00-04:00
+    cover_image_path: Alphabet.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 13.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: alphabet
 ---
 

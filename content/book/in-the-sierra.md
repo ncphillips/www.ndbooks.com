@@ -2,21 +2,44 @@
 title: "In the Sierra"
 draft: false
 date: 2012-04-10T15:42:00-04:00
-publication_date: 2012-04-10T15:42:00-04:00
+show_in_forthcoming: false
 subtitle: "Mountain Writings"
-genre: poetry
+genre: Poetry
 subgenre:
-  - anthology
-language: portuguese
-author:
+  - Anthology
+language: Portuguese
+authors:
   - contributor/kenneth-rexroth.md
-translator:
-editor:
+translators:
+editors:
+  - contributor/kim-stanley-robinson.md
+contributors:
   - contributor/kim-stanley-robinson.md
 featured_image_path:
+description:
 editions:
-  - 9780811219020
-  - 9780811219891
+  - binding: Paperback
+    isbn: 9780811219020
+    publication_date: 2012-04-10T15:42:00-04:00
+    cover_image_path: /uploads/In%20the%20Sierra.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn: 18.00
+    trim_size:
+    Page_count: 218
+  - binding: Ebook
+    isbn: 9780811219891
+    publication_date: 2012-04-10T15:42:00-04:00
+    cover_image_path:
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: in-the-sierra
 ---
 

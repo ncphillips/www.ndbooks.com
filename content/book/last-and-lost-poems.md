@@ -2,18 +2,30 @@
 title: "Last And Lost Poems"
 draft: false
 date: 1989-06-01T05:00:00-04:00
-publication_date: 1989-06-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/delmore-schwartz.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811210966
+  - binding: Paperback
+    isbn: 9780811210966
+    publication_date: 1989-06-01T05:00:00-04:00
+    cover_image_path: Last_And_Lost_Poems.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 10.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: last-and-lost-poems
 ---
 

@@ -2,20 +2,42 @@
 title: "The Little Buddhist Monk & The Proof"
 draft: false
 date: 2016-11-21T20:27:00-04:00
-publication_date: 2017-05-23T04:00:00-04:00
+show_in_forthcoming: true
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: spanish
-author:
+language: Spanish
+authors:
   - contributor/cesar-aira.md
-translator:
+translators:
   - contributor/nick-caistor.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "**Two completely different novellas by the inimitable César Aira** "
 editions:
-  - 9780811221122
-  - 9780811221139
+  - binding: Paperback
+    isbn: 9780811221122
+    publication_date: 2017-05-23T04:00:00-04:00
+    cover_image_path: /uploads/aira_little%20buddhist%20monk_cover.tif
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn: 21.95
+    trim_size: 5x7
+    Page_count: 224
+  - binding: Ebook
+    isbn: 9780811221139
+    publication_date: 2017-05-23T04:00:00-04:00
+    cover_image_path:
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: the-little-buddhist-monk-the-proof
 ---
 

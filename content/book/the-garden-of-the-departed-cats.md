@@ -2,18 +2,30 @@
 title: "The Garden of Departed Cats"
 draft: false
 date: 2003-10-01T05:00:45-04:00
-publication_date: 2003-10-01T05:00:45-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/bilge-karasu.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "A surreal, utterly unique Turkish novel. "
 editions:
-  - 9780811215510
+  - binding: Paperback
+    isbn: 9780811215510
+    publication_date: 2003-10-01T05:00:45-04:00
+    cover_image_path: The_Garden_of_the_Departed_Cats.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 18.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 240
 _slug: the-garden-of-the-departed-cats
 ---
 

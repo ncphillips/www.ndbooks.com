@@ -2,18 +2,30 @@
 title: "Herald Of The Autochthonic Spirit"
 draft: false
 date: 1981-10-01T05:00:00-04:00
-publication_date: 1981-10-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/gregory-corso.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811208086
+  - binding: Paperback
+    isbn: 9780811208086
+    publication_date: 1981-10-01T05:00:00-04:00
+    cover_image_path: Herald_Of_The_Autochthonic_Spirit.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: herald-of-the-autochthonic-spirit
 ---
 

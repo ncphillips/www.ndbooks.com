@@ -2,21 +2,53 @@
 title: "Written Lives"
 draft: false
 date: 2006-02-01T06:00:00-04:00
-publication_date: 2006-02-01T06:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: nonfiction
+genre: Nonfiction
 subgenre:
-  - essay
-language: spanish
-author:
+  - Essay
+language: Spanish
+authors:
   - contributor/javier-marias.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "An affectionate and very funny gallery of twenty great world authors from the pen of _the most subtle and gifted writer in contemporary Spanish literature_ (The Boston Globe) "
 editions:
-  - 9780811216890
-  - 9780811216111
-  - 9780811219365
+  - binding: Paperback
+    isbn: 9780811216890
+    publication_date: 2006-02-01T06:00:00-04:00
+    cover_image_path: Written_Lives.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn: 20.00
+    trim_size: 5x8
+    Page_count: 208
+  - binding: Clothbound
+    isbn: 9780811216111
+    publication_date: 2006-02-01T06:00:00-04:00
+    cover_image_path: Written_Lives.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 22.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 208
+  - binding: Ebook
+    isbn: 9780811219365
+    publication_date: 2006-02-01T06:00:00-04:00
+    cover_image_path: Written_Lives.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn:
+    trim_size:
+    Page_count: 208
 _slug: written-lives
 ---
 

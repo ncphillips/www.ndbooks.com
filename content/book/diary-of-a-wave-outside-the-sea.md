@@ -2,19 +2,31 @@
 title: "Diary Of A Wave Outside The Sea"
 draft: false
 date: 2009-04-01T05:00:35-04:00
-publication_date: 2009-04-01T05:00:35-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/dunya-mikhail.md
-translator:
+translators:
   - contributor/elizabeth-winslow.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "Iraqi poet Dunya Mikhail's poetic memoir in a bilingual English-Arabic edition, follows on the heels of her widely praised The War Works Hard. "
 editions:
-  - 9780811218313
+  - binding: Paperback
+    isbn: 9780811218313
+    publication_date: 2009-04-01T05:00:35-04:00
+    cover_image_path: Diary_Of_A_Wave_Outside_The_Sea.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn:
+    trim_size: 6x9
+    Page_count: 256
 _slug: diary-of-a-wave-outside-the-sea
 ---
 

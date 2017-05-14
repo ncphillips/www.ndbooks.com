@@ -2,19 +2,31 @@
 title: "All Souls"
 draft: false
 date: 2000-11-01T06:00:30-04:00
-publication_date: 2000-11-01T06:00:30-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/javier-marias.md
-translator:
+translators:
   - contributor/margaret-jull-costa.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811214537
+  - binding: Paperback
+    isbn: 9780811214537
+    publication_date: 2000-11-01T06:00:30-04:00
+    cover_image_path: AllSouls.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn: 20.00
+    trim_size: 5x8
+    Page_count: 224
 _slug: all-souls
 ---
 

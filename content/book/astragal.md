@@ -2,19 +2,42 @@
 title: "Astragal"
 draft: false
 date: 2013-04-26T17:31:00-04:00
-publication_date: 2013-03-26T17:31:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: french
-author:
+language: French
+authors:
   - contributor/albertine-sarrazin.md
-translator:
-editor:
+translators:
+editors:
+contributors:
+  - contributor/patti-smith.md
 featured_image_path:
+description: "As alive as a Godard movie, this lost classic of 60s French literature is back "
 editions:
-  - 9780811220736
-  - 9780811220743
+  - binding: Paperback
+    isbn: 9780811220736
+    publication_date: 2013-03-26T17:31:00-04:00
+    cover_image_path: Astragal.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn: 17.00
+    trim_size:
+    Page_count: 192
+  - binding: Ebook
+    isbn: 9780811220743
+    publication_date: 2013-03-26T17:31:00-04:00
+    cover_image_path: Astragal.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: astragal
 ---
 

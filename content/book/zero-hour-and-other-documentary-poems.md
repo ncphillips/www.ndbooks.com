@@ -2,20 +2,32 @@
 title: "Zero Hour And Other Documentary Poems"
 draft: false
 date: 1980-11-01T05:59:00-04:00
-publication_date: 1980-11-01T05:59:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
-language: spanish
-author:
+language: Spanish
+authors:
   - contributor/ernesto-cardenal.md
-translator:
+translators:
   - contributor/jonathan-cohen.md
-editor:
+editors:
   - contributor/donald-d.-walsh.md
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811207676
+  - binding: Paperback
+    isbn: 9780811207676
+    publication_date: 1980-11-01T05:59:00-04:00
+    cover_image_path: /uploads/Cardenal_%20Zero%20Hour.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 12.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: zero-hour-and-other-documentary-poems
 ---
 

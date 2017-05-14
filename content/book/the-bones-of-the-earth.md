@@ -2,18 +2,30 @@
 title: "The Bones Of The Earth"
 draft: false
 date: 1983-10-01T05:00:00-04:00
-publication_date: 1983-10-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/carol-bangs.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811208833
+  - binding: Paperback
+    isbn: 9780811208833
+    publication_date: 1983-10-01T05:00:00-04:00
+    cover_image_path: The_Bones_Of_The_Earth.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 6.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: the-bones-of-the-earth
 ---
 

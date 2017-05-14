@@ -2,18 +2,33 @@
 title: "Elegies"
 draft: false
 date: 2013-09-24T16:06:00-04:00
-publication_date: 2013-09-24T16:06:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/muriel-rukeyser.md
-translator:
-editor:
+translators:
+editors:
+contributors:
+  - contributor/christoph-keller.md
+
+  - contributor/jan-heller-levi.md
 featured_image_path:
+description: "An elegant relaunch of Muriel Rukeyser’s Elegies — previously available only in a limited edition — celebrates the centennial of her birth "
 editions:
-  - 9780811221061
+  - binding: Paperback
+    isbn: 9780811221061
+    publication_date: 2013-09-24T16:06:00-04:00
+    cover_image_path: Elegies.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn: 16.00
+    trim_size:
+    Page_count: 64
 _slug: elegies
 ---
 

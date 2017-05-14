@@ -2,20 +2,42 @@
 title: "Analyzing Freud"
 draft: false
 date: 2005-01-01T06:00:09-04:00
-publication_date: 2005-01-01T06:00:09-04:00
+show_in_forthcoming: false
 subtitle:
-genre: nonfiction
+genre: Nonfiction
 subgenre:
-  - memoir
+  - Memoir
 language:
-author:
+authors:
   - contributor/hilda-doolittle-h.-d.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "A landmark book about Sigmund Freud, H.D., modernism, gender, and sexuality. "
 editions:
-  - 9780811216036
-  - 9780811214995
+  - binding: Paperback
+    isbn: 9780811216036
+    publication_date: 2005-01-01T06:00:09-04:00
+    cover_image_path: Analyzing_Freud.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 26.95
+    price_cn:
+    trim_size: 6x9
+    Page_count: 640
+  - binding: Clothbound
+    isbn: 9780811214995
+    publication_date: 2005-01-01T06:00:09-04:00
+    cover_image_path: Analyzing_Freud.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 39.95
+    price_cn:
+    trim_size: 6x9
+    Page_count: 640
 _slug: analyzing-freud
 ---
 

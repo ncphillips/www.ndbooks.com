@@ -2,20 +2,42 @@
 title: "The Book of Happiness"
 draft: false
 date: 2002-05-01T05:00:01-04:00
-publication_date: 2002-05-01T05:00:01-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/nina-berberova.md
-translator:
+translators:
   - contributor/marian-schwartz.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811215039
-  - 9780811214018
+  - binding: Paperback
+    isbn: 9780811215039
+    publication_date: 2002-05-01T05:00:01-04:00
+    cover_image_path: The_Book_Of_Happiness.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 12.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 224
+  - binding: Clothbound
+    isbn: 9780811214018
+    publication_date: 2002-05-01T05:00:01-04:00
+    cover_image_path: The_Book_Of_Happiness.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 23.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 224
 _slug: the-book-of-happiness
 ---
 

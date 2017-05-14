@@ -2,20 +2,42 @@
 title: "Walks with Walser"
 draft: false
 date: 2016-07-11T15:20:00-04:00
-publication_date: 2017-04-25T04:00:00-04:00
+show_in_forthcoming: true
 subtitle:
-genre: nonfiction
+genre: Nonfiction
 subgenre:
-language: german
-author:
+language: German
+authors:
   - contributor/carl-seelig.md
-translator:
+translators:
   - contributor/anne-posten.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "A unique and personal portrait of the beloved, legendary Swiss writer, finally in English "
 editions:
-  - 9780811221399
-  - 9780811221405
+  - binding: Paperback
+    isbn: 9780811221399
+    publication_date: 2017-04-25T04:00:00-04:00
+    cover_image_path: /uploads/walks_with_walser_seelig.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn: 21.95
+    trim_size: 5 x 8"
+    Page_count: 200
+  - binding: Ebook
+    isbn: 9780811221405
+    publication_date: 2017-04-25T04:00:00-04:00
+    cover_image_path:
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: walks-with-walser
 ---
 

@@ -2,18 +2,30 @@
 title: "Sea Of Dreams"
 draft: false
 date: 2005-07-01T05:00:29-04:00
-publication_date: 2005-07-01T05:00:29-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/gu-cheng.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811215879
+  - binding: Paperback
+    isbn: 9780811215879
+    publication_date: 2005-07-01T05:00:29-04:00
+    cover_image_path: Sea_of_Dreams_.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn:
+    trim_size: 6x9
+    Page_count: 226
 _slug: sea-of-dreams
 ---
 

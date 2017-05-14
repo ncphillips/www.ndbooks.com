@@ -2,19 +2,42 @@
 title: "The Collected Poems Of James Laughlin 1935-1997"
 draft: false
 date: 2001-01-01T06:00:04-04:00
-publication_date: 2001-01-01T06:00:04-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/james-laughlin.md
-translator:
-editor:
+translators:
+editors:
+contributors:
+  - contributor/hayden-carruth.md
 featured_image_path:
+description:
 editions:
-  - 9780811218771
-  - 9780811218764
+  - binding: Paperback
+    isbn: 9780811218771
+    publication_date: 2001-01-01T06:00:04-04:00
+    cover_image_path: The_Collected_Poems_of_JL.JPG
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
+  - binding: Clothbound
+    isbn: 9780811218764
+    publication_date: 2001-01-01T06:00:04-04:00
+    cover_image_path: The_Collected_Poems_of_JL.JPG
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: the-collected-poems-of-james-laughlin-1935-1997
 ---
 

@@ -2,19 +2,41 @@
 title: "Love Hotel"
 draft: false
 date: 2015-02-10T15:45:00-04:00
-publication_date: 2015-02-10T15:45:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/jane-unrue.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "A novel about a mysterious love triangle and the almost mythological power of eros—and its potentially lethal danger. "
 editions:
-  - 9780811222709
-  -
+  - binding: Paperback
+    isbn: 9780811222709
+    publication_date: 2015-02-10T15:45:00-04:00
+    cover_image_path: /uploads/love_hotel.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn: 17.95
+    trim_size:
+    Page_count: 208
+  - binding: Ebook
+    isbn:
+    publication_date: 2015-02-10T15:45:00-04:00
+    cover_image_path: love_hotel.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 99999999.99
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: love-hotel
 ---
 

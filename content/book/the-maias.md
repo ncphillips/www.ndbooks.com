@@ -2,18 +2,30 @@
 title: "The Maias"
 draft: false
 date: 2007-07-01T05:00:19-04:00
-publication_date: 2007-07-01T05:00:19-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/jose-maria-de-eca-de-queiros.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811216494
+  - binding: Paperback
+    isbn: 9780811216494
+    publication_date: 2007-07-01T05:00:19-04:00
+    cover_image_path: The_Maias.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 17.95
+    price_cn: 23.00
+    trim_size: 6x9
+    Page_count: 596
 _slug: the-maias
 ---
 

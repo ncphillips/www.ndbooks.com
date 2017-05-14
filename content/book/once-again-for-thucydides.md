@@ -2,19 +2,41 @@
 title: "Once Again for Thucydides"
 draft: false
 date: 1998-09-01T05:00:21-04:00
-publication_date: 1998-09-01T05:00:21-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/peter-handke.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811217767
-  - 9780811213882
+  - binding: Paperback
+    isbn: 9780811217767
+    publication_date: 1998-09-01T05:00:21-04:00
+    cover_image_path: Once_Again_For_Thucydides.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn:
+    trim_size:
+    Page_count:
+  - binding: Clothbound
+    isbn: 9780811213882
+    publication_date: 1998-09-01T05:00:21-04:00
+    cover_image_path: Once_Again_For_Thucydides.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: once-again-for-thucydides
 ---
 

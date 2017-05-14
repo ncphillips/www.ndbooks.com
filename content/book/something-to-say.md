@@ -2,20 +2,42 @@
 title: "Something to Say"
 draft: false
 date: 1985-10-01T05:00:08-04:00
-publication_date: 1985-10-01T05:00:08-04:00
+show_in_forthcoming: false
 subtitle:
-genre: nonfiction
+genre: Nonfiction
 subgenre:
-  - criticism
+  - Criticism
 language:
-author:
+authors:
   - contributor/william-carlos-williams.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811218276
-  - 9780811209557
+  - binding: Paperback
+    isbn: 9780811218276
+    publication_date: 1985-10-01T05:00:08-04:00
+    cover_image_path: Something_To_Say.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size: 5x8
+    Page_count:
+  - binding: Clothbound
+    isbn: 9780811209557
+    publication_date: 1985-10-01T05:00:08-04:00
+    cover_image_path: Something_To_Say.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 23.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 280
 _slug: something-to-say
 ---
 

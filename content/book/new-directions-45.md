@@ -2,19 +2,30 @@
 title: "New Directions 45"
 draft: false
 date: 2001-01-01T06:00:17-04:00
-publication_date: 2001-01-01T06:00:17-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-  - anthology
+  - Anthology
 language:
-author:
-
-translator:
-editor:
+authors:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811208444
+  - binding: Clothbound
+    isbn: 9780811208444
+    publication_date: 2001-01-01T06:00:17-04:00
+    cover_image_path: New_Directions_45.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: new-directions-45
 ---
 

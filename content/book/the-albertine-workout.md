@@ -2,19 +2,41 @@
 title: "The Albertine Workout"
 draft: false
 date: 2014-06-25T14:20:00-04:00
-publication_date: 2014-06-25T14:20:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/anne-carson.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811223171
-  -
+  - binding: Paperback
+    isbn: 9780811223171
+    publication_date: 2014-06-25T14:20:00-04:00
+    cover_image_path: web_carson.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 10.95
+    price_cn: 11.99
+    trim_size:
+    Page_count:
+  - binding:
+    isbn:
+    publication_date: 2014-06-25T14:20:00-04:00
+    cover_image_path: web_carson.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: the-albertine-workout
 ---
 

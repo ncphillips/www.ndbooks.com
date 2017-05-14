@@ -2,19 +2,41 @@
 title: "Cheops"
 draft: false
 date: 2002-10-01T05:00:53-04:00
-publication_date: 2002-10-01T05:00:53-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/paul-west-p.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "West creates a glorious, powerful Sun King of Egypt, bent on a death worthy of his great pyramid at Giza. "
 editions:
-  - 9780811218191
-  - 9780811215190
+  - binding: Paperback
+    isbn: 9780811218191
+    publication_date: 2002-10-01T05:00:53-04:00
+    cover_image_path: Cheops.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 17.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 352
+  - binding: Clothbound
+    isbn: 9780811215190
+    publication_date: 2002-10-01T05:00:53-04:00
+    cover_image_path: Cheops.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 25.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 352
 _slug: cheops
 ---
 

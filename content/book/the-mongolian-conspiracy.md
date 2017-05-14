@@ -2,20 +2,43 @@
 title: "The Mongolian Conspiracy"
 draft: false
 date: 2013-11-25T16:34:00-04:00
-publication_date: 2013-11-25T16:34:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: spanish
-author:
+language: Spanish
+authors:
   - contributor/rafael-bernal.md
-translator:
+translators:
   - contributor/katherine-silver.md
-editor:
+editors:
+contributors:
+  - contributor/francisco-goldman.md
 featured_image_path:
+description: "A gripping and hilarious literary masterpiece masquerading as a Mexico City crime novel "
 editions:
-  - 9780811220668
-  - 9780811221955
+  - binding: Paperback
+    isbn: 9780811220668
+    publication_date: 2013-11-25T16:34:00-04:00
+    cover_image_path: Mongolian_Conspiracy.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn: 16.00
+    trim_size:
+    Page_count: 192
+  - binding: Ebook
+    isbn: 9780811221955
+    publication_date: 2013-11-25T16:34:00-04:00
+    cover_image_path: Mongolian_Conspiracy.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: the-mongolian-conspiracy
 ---
 

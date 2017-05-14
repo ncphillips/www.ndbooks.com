@@ -2,19 +2,30 @@
 title: "New Directions 34"
 draft: false
 date: 2001-01-01T06:00:11-04:00
-publication_date: 2001-01-01T06:00:11-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-  - anthology
+  - Anthology
 language:
-author:
-
-translator:
-editor:
+authors:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811206341
+  - binding: Clothbound
+    isbn: 9780811206341
+    publication_date: 2001-01-01T06:00:11-04:00
+    cover_image_path: New_Directions_34.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 12.00
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: new-directions-34
 ---
 

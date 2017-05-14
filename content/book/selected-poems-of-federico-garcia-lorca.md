@@ -2,18 +2,30 @@
 title: "Selected Poems of Federico García Lorca"
 draft: false
 date: 2013-06-12T14:31:00-04:00
-publication_date: 2013-06-12T14:31:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
-language: spanish
-author:
+language: Spanish
+authors:
   - contributor/federico-garcia-lorca.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "Lorca's best poetry in a beautiful new edition "
 editions:
-  - 9780811221627
+  - binding: Paperback
+    isbn: 9780811221627
+    publication_date: 2013-06-12T14:31:00-04:00
+    cover_image_path: Selected_Poems_Lorca.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn: 17.00
+    trim_size: 6x9
+    Page_count: 216
 _slug: selected-poems-of-federico-garcia-lorca
 ---
 

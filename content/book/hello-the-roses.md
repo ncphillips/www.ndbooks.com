@@ -2,18 +2,30 @@
 title: "Hello, the Roses"
 draft: false
 date: 2013-04-24T14:38:00-04:00
-publication_date: 2013-04-24T14:38:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/mei-mei-berssenbrugge.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "American poet Mei-mei Berssenbrugge makes her New Directions debut with this breathtaking new collection "
 editions:
-  - 9780811220910
+  - binding: Paperback
+    isbn: 9780811220910
+    publication_date: 2013-04-24T14:38:00-04:00
+    cover_image_path: Hello_the_Roses.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn: 18.00
+    trim_size:
+    Page_count: 112
 _slug: hello-the-roses
 ---
 

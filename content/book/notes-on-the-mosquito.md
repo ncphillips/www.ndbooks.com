@@ -2,20 +2,42 @@
 title: "Notes on the Mosquito"
 draft: false
 date: 2012-04-12T16:35:00-04:00
-publication_date: 2012-04-12T16:35:00-04:00
+show_in_forthcoming: false
 subtitle: "Selected Poems"
-genre: poetry
+genre: Poetry
 subgenre:
-language: chinese
-author:
+language: Chinese
+authors:
   - contributor/xi-chuan.md
-translator:
+translators:
   - contributor/lucas-klein1.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811219877
-  - 9780811219884
+  - binding: Paperback
+    isbn: 9780811219877
+    publication_date: 2012-04-12T16:35:00-04:00
+    cover_image_path: Notes_on_the_Mosquito.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 18.95
+    price_cn: 20.00
+    trim_size:
+    Page_count: 256
+  - binding: Ebook
+    isbn: 9780811219884
+    publication_date: 2012-04-12T16:35:00-04:00
+    cover_image_path: Notes_on_the_Mosquito.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 18.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: notes-on-the-mosquito
 ---
 

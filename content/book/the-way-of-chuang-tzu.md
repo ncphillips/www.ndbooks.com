@@ -2,20 +2,43 @@
 title: "The Way of Chuang Tzu"
 draft: false
 date: 2010-03-01T06:00:00-04:00
-publication_date: 2010-03-01T06:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: nonfiction
+genre: Nonfiction
 subgenre:
-  - study
+  - Study
 language:
-author:
+authors:
   - contributor/thomas-merton.md
-translator:
-editor:
+translators:
+editors:
+contributors:
+  - contributor/dalai-lama1.md
 featured_image_path:
+description:
 editions:
-  - 9780811218511
-  - 9780811223072
+  - binding: Paperback
+    isbn: 9780811218511
+    publication_date: 2010-03-01T06:00:00-04:00
+    cover_image_path: The_Way_Of_Chuang_Tzu.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 12.95
+    price_cn: 15.00
+    trim_size: 5x7
+    Page_count: 160
+  - binding: Ebook
+    isbn: 9780811223072
+    publication_date: 2010-03-01T06:00:00-04:00
+    cover_image_path: The_Way_Of_Chuang_Tzu.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 12.95
+    price_cn:
+    trim_size:
+    Page_count: 160
 _slug: the-way-of-chuang-tzu
 ---
 

@@ -2,18 +2,30 @@
 title: "From a Broken Bottle Traces of Perfume Still Emanate"
 draft: false
 date: 2010-07-30T14:28:09-04:00
-publication_date: 2010-07-30T14:28:09-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/nathaniel-mackey.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "The great American jazz novel of _such exquisite rhythmic lyricism_ (Bookforum) by National Book Award Winner Nathaniel Mackey. "
 editions:
-  - 9780811218443
+  - binding: Paperback
+    isbn: 9780811218443
+    publication_date: 2010-07-30T14:28:09-04:00
+    cover_image_path: From_A_Broken_Bottle.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 19.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 572
 _slug: from-a-broken-bottle
 ---
 

@@ -2,18 +2,30 @@
 title: "Time of Useful Consciousness: Limited Edition"
 draft: false
 date: 2012-11-28T15:50:54-04:00
-publication_date: 2012-11-28T15:50:54-04:00
+show_in_forthcoming: false
 subtitle:
 genre:
 subgenre:
 language:
-author:
+authors:
   - contributor/lawrence-ferlinghetti.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "A signed and numbered edition of Ferlinghetti's latest collection that includes a reproduction of a painting by the poet and comes in a handsome slipcase "
 editions:
-  - 9780811220651
+  - binding: Clothbound
+    isbn: 9780811220651
+    publication_date: 2012-11-28T15:50:54-04:00
+    cover_image_path: Time_of_Useful_Consciousness_1.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 150.00
+    price_cn:
+    trim_size:
+    Page_count: 90
 _slug: time-of-useful-consciousness1
 ---
 

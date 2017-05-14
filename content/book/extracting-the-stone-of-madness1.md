@@ -2,19 +2,31 @@
 title: "Extracting the Stone of Madness"
 draft: false
 date: 2015-01-20T16:24:00-04:00
-publication_date: 2016-05-17T04:00:00-04:00
+show_in_forthcoming: false
 subtitle: "Poems 1962–1972 "
-genre: poetry
+genre: Poetry
 subgenre:
-language: spanish
-author:
+language: Spanish
+authors:
   - contributor/alejandra-pizarnik.md
-translator:
+translators:
   - contributor/yvette-siegert.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "The first full-length collection in English by one of Latin America's most significant twentieth-century poets. "
 editions:
-  - 978081122396
+  - binding: Paperback
+    isbn: 978081122396
+    publication_date: 2016-05-17T04:00:00-04:00
+    cover_image_path: /uploads/Pizarnik.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 18.95
+    price_cn: 26.95
+    trim_size:
+    Page_count: 320
 _slug: extracting-the-stone-of-madness1
 ---
 

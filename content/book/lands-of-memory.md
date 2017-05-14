@@ -2,20 +2,32 @@
 title: "Lands of Memory"
 draft: false
 date: 2008-07-01T05:00:00-04:00
-publication_date: 2008-07-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-  - stories
-language: spanish
-author:
+  - Stories
+language: Spanish
+authors:
   - contributor/felisberto-hernandez.md
-translator:
+translators:
   - contributor/esther-allen.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "Now in paperback, a superb fiction collection by the great Uruguayan writer: _If I hadn't read the stories of Felisberto Hernández in 1950, I wouldn't be the writer I am today._ – Gabriel García Márquez "
 editions:
-  - 9780811217538
+  - binding: Paperback
+    isbn: 9780811217538
+    publication_date: 2008-07-01T05:00:00-04:00
+    cover_image_path: Lands_Of_Memory.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn: 17.00
+    trim_size: 5x8
+    Page_count: 212
 _slug: lands-of-memory
 ---
 

@@ -2,19 +2,41 @@
 title: "Kinshu"
 draft: false
 date: 2008-02-01T06:00:02-04:00
-publication_date: 2008-02-01T06:00:02-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/teru-miyamoto.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "As delicate as the shimmering wings of a dragonfly, Kinshu -- an epistolary novel by one of Japan's most popular literary authors -- is a masterpiece of simplicity and beauty. "
 editions:
-  - 9780811216753
-  - 9780811216333
+  - binding: Paperback
+    isbn: 9780811216753
+    publication_date: 2008-02-01T06:00:02-04:00
+    cover_image_path: Kinshu.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn: 19.00
+    trim_size: 5x7
+    Page_count: 224
+  - binding: Clothbound
+    isbn: 9780811216333
+    publication_date: 2008-02-01T06:00:02-04:00
+    cover_image_path: Kinshu.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 22.95
+    price_cn:
+    trim_size: 5x7
+    Page_count: 224
 _slug: kinshu
 ---
 

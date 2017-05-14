@@ -2,20 +2,42 @@
 title: "The Memoirs of Frederic Mistral"
 draft: false
 date: 1986-12-01T06:00:20-04:00
-publication_date: 1986-12-01T06:00:20-04:00
+show_in_forthcoming: false
 subtitle:
-genre: nonfiction
+genre: Nonfiction
 subgenre:
-  - memoir
+  - Memoir
 language:
-author:
+authors:
   - contributor/frederic-mistral.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811210096
-  - 9780811209922
+  - binding: Paperback
+    isbn: 9780811210096
+    publication_date: 1986-12-01T06:00:20-04:00
+    cover_image_path: The_Memoirs_Of_Federic_Mistral_.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 19.95
+    price_cn:
+    trim_size:
+    Page_count:
+  - binding: Clothbound
+    isbn: 9780811209922
+    publication_date: 1986-12-01T06:00:20-04:00
+    cover_image_path: The_Memoirs_Of_Federic_Mistral_.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: the-memoirs-of-frederic-mistral
 ---
 

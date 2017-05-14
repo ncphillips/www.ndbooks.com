@@ -2,19 +2,41 @@
 title: "The Theatre Of Tennessee Williams, Vol. I"
 draft: false
 date: 1990-09-01T05:00:21-04:00
-publication_date: 1990-09-01T05:00:21-04:00
+show_in_forthcoming: false
 subtitle:
-genre: theater
+genre: Theater
 subgenre:
 language:
-author:
+authors:
   - contributor/tennessee-williams.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811211352
-  - 9780811204170
+  - binding: Paperback
+    isbn: 9780811211352
+    publication_date: 1990-09-01T05:00:21-04:00
+    cover_image_path: The_Theatre_Of_Tennessee_Williams_Volume_1.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 21.95
+    price_cn:
+    trim_size:
+    Page_count: 419
+  - binding: Clothbound
+    isbn: 9780811204170
+    publication_date: 1990-09-01T05:00:21-04:00
+    cover_image_path: The_Theatre_Of_Tennessee_Williams_Volume_1.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 35.00
+    price_cn:
+    trim_size:
+    Page_count: 432
 _slug: the-theatre-of-tennessee-williams-vol.-i
 ---
 

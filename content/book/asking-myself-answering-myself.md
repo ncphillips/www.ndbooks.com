@@ -2,18 +2,29 @@
 title: "Asking Myself/Answering Myself"
 draft: false
 date: 1984-03-01T06:00:00-04:00
-publication_date: 1984-03-01T06:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
-language: japanese
-author:
-
-translator:
-editor:
+language: Japanese
+authors:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811208871
+  - binding: Paperback
+    isbn: 9780811208871
+    publication_date: 1984-03-01T06:00:00-04:00
+    cover_image_path: Asking_Myself_Answering_Myself_.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 13.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: asking-myself-answering-myself
 ---
 

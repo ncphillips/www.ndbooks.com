@@ -2,20 +2,42 @@
 title: "Confessions Of A Literary Archaeologist"
 draft: false
 date: 1990-06-01T05:00:13-04:00
-publication_date: 1990-06-01T05:00:13-04:00
+show_in_forthcoming: false
 subtitle:
-genre: nonfiction
+genre: Nonfiction
 subgenre:
-  - memoir
+  - Memoir
 language:
-author:
+authors:
   - contributor/carlton-lake.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811217781
-  - 9780811211307
+  - binding: Paperback
+    isbn: 9780811217781
+    publication_date: 1990-06-01T05:00:13-04:00
+    cover_image_path: Confessions_of_a_Literary_Archaelogist.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 18.95
+    price_cn:
+    trim_size: 6x9
+    Page_count:
+  - binding: Clothbound
+    isbn: 9780811211307
+    publication_date: 1990-06-01T05:00:13-04:00
+    cover_image_path: Confessions_of_a_Literary_Archaelogist.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 26.95
+    price_cn:
+    trim_size: 6x9
+    Page_count: 192
 _slug: the-confessions-of-a-literary-archaeologist
 ---
 

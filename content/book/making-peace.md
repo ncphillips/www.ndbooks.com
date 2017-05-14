@@ -2,18 +2,30 @@
 title: "Making Peace"
 draft: false
 date: 2006-02-01T06:00:43-04:00
-publication_date: 2006-02-01T06:00:43-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/denise-levertov.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "Anti-war poems by Denise Levertov, a passionate advocate of peace and justice and one of the greatest American poets of the twentieth century. "
 editions:
-  - 9780811216401
+  - binding: Paperback
+    isbn: 9780811216401
+    publication_date: 2006-02-01T06:00:43-04:00
+    cover_image_path: Making_Peace.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 9.00
+    price_cn: 13.00
+    trim_size: 5x7
+    Page_count: 96
 _slug: making-peace
 ---
 

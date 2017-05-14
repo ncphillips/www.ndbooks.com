@@ -2,20 +2,42 @@
 title: "The Emperor's Tomb"
 draft: false
 date: 2013-04-22T14:02:00-04:00
-publication_date: 2013-04-22T14:02:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: german
-author:
+language: German
+authors:
   - contributor/joseph-roth.md
-translator:
+translators:
   - contributor/michael-hofmann1.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "An intensely beautiful book about one of history’s bleakest periods "
 editions:
-  - 9780811221276
-  - 9780811221283
+  - binding: Paperback
+    isbn: 9780811221276
+    publication_date: 2013-04-22T14:02:00-04:00
+    cover_image_path: Emperors_Tomb.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn:
+    trim_size:
+    Page_count: 208
+  - binding: Ebook
+    isbn: 9780811221283
+    publication_date: 2013-04-22T14:02:00-04:00
+    cover_image_path: Emperors_Tomb.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: the-emperors-tomb
 ---
 

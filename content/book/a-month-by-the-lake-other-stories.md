@@ -2,20 +2,42 @@
 title: "A Month by the Lake & Other Stories"
 draft: false
 date: 1987-09-01T05:00:18-04:00
-publication_date: 1987-09-01T05:00:18-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-  - stories
+  - Stories
 language:
-author:
+authors:
   - contributor/h.-e.-bates.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811210362
-  - 9780811210355
+  - binding: Paperback
+    isbn: 9780811210362
+    publication_date: 1987-09-01T05:00:18-04:00
+    cover_image_path: A_Month_By_The_Lake_and_Other_Stories.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 9.95
+    price_cn:
+    trim_size:
+    Page_count:
+  - binding: Clothbound
+    isbn: 9780811210355
+    publication_date: 1987-09-01T05:00:18-04:00
+    cover_image_path: A_Month_By_The_Lake_and_Other_Stories.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 17.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: a-month-by-the-lake-other-stories
 ---
 

@@ -2,20 +2,42 @@
 title: "Conversations"
 draft: false
 date: 2014-06-26T14:09:00-04:00
-publication_date: 2014-06-26T14:09:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: spanish
-author:
+language: Spanish
+authors:
   - contributor/cesar-aira.md
-translator:
+translators:
   - contributor/katherine-silver.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "A cerebral and wildly funny story revolving around the incongruity of a gold Rolex watch spotted on a lowly goatherd’s wrist "
 editions:
-  - 9780811221108
-  - 9780811221115
+  - binding: Paperback
+    isbn: 9780811221108
+    publication_date: 2014-06-26T14:09:00-04:00
+    cover_image_path: Conversations.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 13.95
+    price_cn: 15.00
+    trim_size:
+    Page_count: 96
+  - binding: Ebook
+    isbn: 9780811221115
+    publication_date: 2014-06-26T14:09:00-04:00
+    cover_image_path: Conversations.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: conversations
 ---
 

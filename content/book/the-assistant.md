@@ -2,20 +2,42 @@
 title: "The Assistant"
 draft: false
 date: 2007-07-01T04:59:00-04:00
-publication_date: 2007-07-01T04:59:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: german
-author:
+language: German
+authors:
   - contributor/robert-walser.md
-translator:
+translators:
   - contributor/susan-bernofsky.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "The Assistant by Robert Walser -- who was admired greatly by Kafka, Musil, Walter Benjamin, and W.G. Sebald -- is now presented in English for the very first time. "
 editions:
-  - 9780811215909
-  - 9780811222693
+  - binding: Paperback
+    isbn: 9780811215909
+    publication_date: 2007-07-01T04:59:00-04:00
+    cover_image_path: The_Assistant.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn: 21.00
+    trim_size: 5x7
+    Page_count: 320
+  - binding: Ebook
+    isbn: 9780811222693
+    publication_date: 2007-07-01T04:59:00-04:00
+    cover_image_path: The_Assistant.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn:
+    trim_size:
+    Page_count: 320
 _slug: the-assistant
 ---
 

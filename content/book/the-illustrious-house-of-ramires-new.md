@@ -2,20 +2,42 @@
 title: "The Illustrious House of Ramires (New) "
 draft: false
 date: 2016-11-21T20:26:00-04:00
-publication_date: 2017-05-23T04:00:00-04:00
+show_in_forthcoming: true
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: portuguese
-author:
+language: Portuguese
+authors:
   - contributor/jose-maria-de-eca-de-queiros.md
-translator:
+translators:
   - contributor/margaret-jull-costa.md
-editor:
-featured_image_path: /uploads/1477411013630/eca_house_cover.tif
+editors:
+contributors:
+featured_image_path: /uploads/eca_house_cover.tif
+description: "In a brilliant new translation, a wonderful novel by Eça de Queirós: “Portugal’s greatest novelist” (José Saramago) "
 editions:
-  - 9780811226028
-  - 9780811226981
+  - binding: Paperback
+    isbn: 9780811226028
+    publication_date: 2017-05-23T04:00:00-04:00
+    cover_image_path: /uploads/eca_house_cover.tif
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 18.95
+    price_cn: 24.95
+    trim_size: 5 x 8
+    Page_count: 352
+  - binding: Ebook
+    isbn: 9780811226981
+    publication_date: 2017-05-23T04:00:00-04:00
+    cover_image_path:
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: the-illustrious-house-of-ramires-new
 ---
 

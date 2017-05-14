@@ -2,19 +2,41 @@
 title: "Blue Fasa"
 draft: false
 date: 2015-03-26T21:23:00-04:00
-publication_date: 2015-05-05T13:00:00-04:00
+show_in_forthcoming: true
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/nathaniel-mackey.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "A stellar new collection of poems by “the Balanchine of the architecture dance” (_The New York Times_), and winner of the National Book Award in poetry "
 editions:
-  - 9780811224451
-  - 9780811224468
+  - binding: Paperback
+    isbn: 9780811224451
+    publication_date: 2015-05-05T13:00:00-04:00
+    cover_image_path: /uploads/Blue%20Fasa.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn: 18.95
+    trim_size:
+    Page_count: 160
+  - binding: Ebook
+    isbn: 9780811224468
+    publication_date: 2015-05-05T13:00:00-04:00
+    cover_image_path:
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: blue-fasa
 ---
 

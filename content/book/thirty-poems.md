@@ -2,19 +2,32 @@
 title: "Thirty Poems"
 draft: false
 date: 2012-06-28T15:54:00-04:00
-publication_date: 2012-06-28T15:54:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
-language: german
-author:
+language: German
+authors:
   - contributor/robert-walser.md
-translator:
+translators:
   - contributor/christopher-middleton.md
-editor:
+editors:
+contributors:
+  - contributor/christopher-middleton.md
 featured_image_path:
+description: "A deluxe edition of the Swiss master's best poems "
 editions:
-  - 9780811220019
+  - binding: Clothbound
+    isbn: 9780811220019
+    publication_date: 2012-06-28T15:54:00-04:00
+    cover_image_path: Thirty_Poems_2.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 20.95
+    price_cn:
+    trim_size:
+    Page_count: 64
 _slug: thirty-poems
 ---
 

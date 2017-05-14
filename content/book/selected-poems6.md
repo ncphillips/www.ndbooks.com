@@ -2,18 +2,30 @@
 title: "Selected Poems of Saint John Perse"
 draft: false
 date: 1982-11-01T06:00:00-04:00
-publication_date: 1982-11-01T06:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
-language: portuguese
-author:
+language: Portuguese
+authors:
   - contributor/saint-john-perse.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811208550
+  - binding: Paperback
+    isbn: 9780811208550
+    publication_date: 1982-11-01T06:00:00-04:00
+    cover_image_path: /uploads/Perse_%20Selected%20Poems.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 10.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: selected-poems6
 ---
 

@@ -2,19 +2,31 @@
 title: "Captives"
 draft: false
 date: 2014-12-11T15:48:00-04:00
-publication_date: 2014-12-11T15:48:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/norman-manea.md
-translator:
+translators:
   - contributor/jean-harris.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "A stunning novel set in postwar Romania about language, identity, and loss "
 editions:
-  - 9780811220477
+  - binding: Paperback
+    isbn: 9780811220477
+    publication_date: 2014-12-11T15:48:00-04:00
+    cover_image_path: captives_cover.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn: 20.95
+    trim_size:
+    Page_count: 288
 _slug: captives
 ---
 

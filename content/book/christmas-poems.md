@@ -2,18 +2,30 @@
 title: "Christmas Poems"
 draft: false
 date: 2008-11-01T05:00:15-04:00
-publication_date: 2008-11-01T05:00:15-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/james-laughlin.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811218085
+  - binding: Paperback
+    isbn: 9780811218085
+    publication_date: 2008-11-01T05:00:15-04:00
+    cover_image_path: Christmas_Poems.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 11.95
+    price_cn: 13.00
+    trim_size: 4x6
+    Page_count: 96
 _slug: christmas-poems
 ---
 

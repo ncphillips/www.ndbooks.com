@@ -2,21 +2,44 @@
 title: "Envelope Poems"
 draft: false
 date: 2016-03-07T18:27:00-04:00
-publication_date: 2016-10-04T04:00:00-04:00
+show_in_forthcoming: true
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/emily-dickinson.md
-translator:
-editor:
+translators:
+editors:
   - contributor/jen-bervin.md
+
   - contributor/marta-werner.md
+contributors:
 featured_image_path:
+description: "Another gorgeous copublication with the Christine Burgin Gallery, _Envelope Poems_ is a compact, clothbound gift book, a full-color selection from _The Gorgeous Nothings_ "
 editions:
-  - 9780811225823
-  - 9780811225830
+  - binding: Clothbound
+    isbn: 9780811225823
+    publication_date: 2016-10-04T04:00:00-04:00
+    cover_image_path: /uploads/envelope_poems_to_size.tif
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 12.95
+    price_cn:
+    trim_size: 5 x 7
+    Page_count: 96
+  - binding: Ebook
+    isbn: 9780811225830
+    publication_date: 2016-10-04T04:00:00-04:00
+    cover_image_path:
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: envelope-poems
 ---
 

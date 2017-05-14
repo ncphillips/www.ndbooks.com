@@ -2,19 +2,41 @@
 title: "Robinson"
 draft: false
 date: 2003-02-01T06:00:00-04:00
-publication_date: 2003-02-01T06:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/muriel-spark.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "A suspense novel about three castaways marooned on an island owned by an eccentric recluse "
 editions:
-  - 9780811215183
-  - 9780811222426
+  - binding: Paperback
+    isbn: 9780811215183
+    publication_date: 2003-02-01T06:00:00-04:00
+    cover_image_path: Robinson.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 13.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 176
+  - binding: Ebook
+    isbn: 9780811222426
+    publication_date: 2003-02-01T06:00:00-04:00
+    cover_image_path: Robinson.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 13.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: robinson
 ---
 

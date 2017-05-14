@@ -2,20 +2,32 @@
 title: "The Tattered Cloak"
 draft: false
 date: 2001-06-01T05:00:00-04:00
-publication_date: 2001-06-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-  - stories
-language: russian
-author:
+  - Stories
+language: Russian
+authors:
   - contributor/nina-berberova.md
-translator:
+translators:
   - contributor/nina-berberova.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811214735
+  - binding: Paperback
+    isbn: 9780811214735
+    publication_date: 2001-06-01T05:00:00-04:00
+    cover_image_path: The_Tattered_Cloak.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 324
 _slug: the-tattered-cloak
 ---
 

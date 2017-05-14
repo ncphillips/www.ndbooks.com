@@ -2,19 +2,41 @@
 title: "Mr Norris Changes Trains"
 draft: false
 date: 2013-05-28T15:19:00-04:00
-publication_date: 2013-05-28T15:19:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/christopher-isherwood.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "Two Englishmen meeting on a train to Berlin in 1930 kick off one of Isherwood’s most enduring novels "
 editions:
-  - 9780811220262
-  - 9780811220279
+  - binding: Paperback
+    isbn: 9780811220262
+    publication_date: 2013-05-28T15:19:00-04:00
+    cover_image_path: Mr_Norris.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn:
+    trim_size:
+    Page_count: 224
+  - binding: Ebook
+    isbn: 9780811220279
+    publication_date: 2013-05-28T15:19:00-04:00
+    cover_image_path: Mr_Norris.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: mr-norris-changes-trains
 ---
 

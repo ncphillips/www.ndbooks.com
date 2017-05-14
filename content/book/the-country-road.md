@@ -2,20 +2,42 @@
 title: "The Country Road"
 draft: false
 date: 2015-01-20T15:46:00-04:00
-publication_date: 2015-01-20T15:46:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/regina-ullmann.md
-translator:
+translators:
   - contributor/kurt-beals.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "Lauded by Hesse, Rilke, Musil, and Mann, this is the first book to appear in English by the unique Swiss modernist Regina Ullmann. "
 editions:
-  - 9780811220057
-  - 9780811220064
+  - binding: Paperback
+    isbn: 9780811220057
+    publication_date: 2015-01-20T15:46:00-04:00
+    cover_image_path: /uploads/ullmann_country_road.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn: 17.95
+    trim_size:
+    Page_count: 160
+  - binding: Ebook
+    isbn: 9780811220064
+    publication_date: 2015-01-20T15:46:00-04:00
+    cover_image_path: ullmann_country_road.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: the-country-road
 ---
 

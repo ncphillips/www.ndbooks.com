@@ -2,18 +2,31 @@
 title: "The Walking Away World"
 draft: false
 date: 2008-07-01T05:00:43-04:00
-publication_date: 2008-07-01T05:00:43-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/kenneth-patchen.md
-translator:
-editor:
+translators:
+editors:
+contributors:
+  - contributor/jim-woodring.md
 featured_image_path:
+description: "The wonderful picture-poems of Kenneth Patchen, long out of print, are being brought back into one generous volume -- cryptic creatures quipping quirky quotes and all. "
 editions:
-  - 9780811217576
+  - binding: Paperback
+    isbn: 9780811217576
+    publication_date: 2008-07-01T05:00:43-04:00
+    cover_image_path: The_Walking_Away_World.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 18.95
+    price_cn: 22.00
+    trim_size: 5x8
+    Page_count: 304
 _slug: the-walking-away-world
 ---
 

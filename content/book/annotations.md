@@ -2,18 +2,30 @@
 title: "Annotations"
 draft: false
 date: 1995-10-01T05:00:40-04:00
-publication_date: 1995-10-01T05:00:40-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/john-keene.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811213042
+  - binding: Paperback
+    isbn: 9780811213042
+    publication_date: 1995-10-01T05:00:40-04:00
+    cover_image_path: Annotations.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 8.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 96
 _slug: annotations
 ---
 

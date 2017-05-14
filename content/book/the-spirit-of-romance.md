@@ -2,19 +2,31 @@
 title: "The Spirit Of Romance"
 draft: false
 date: 2005-12-01T06:00:51-04:00
-publication_date: 2005-12-01T06:00:51-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/ezra-pound.md
-translator:
-editor:
+translators:
+editors:
   - contributor/richard-sieburth.md
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811216463
+  - binding: Paperback
+    isbn: 9780811216463
+    publication_date: 2005-12-01T06:00:51-04:00
+    cover_image_path: The_Spirit_Of_Romance.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn: 23.00
+    trim_size: 5x8
+    Page_count: 256
 _slug: the-spirit-of-romance
 ---
 

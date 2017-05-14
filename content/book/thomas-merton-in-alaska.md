@@ -2,20 +2,42 @@
 title: "Thomas Merton In Alaska"
 draft: false
 date: 1989-03-01T06:00:43-04:00
-publication_date: 1989-03-01T06:00:43-04:00
+show_in_forthcoming: false
 subtitle:
-genre: nonfiction
+genre: Nonfiction
 subgenre:
-  - memoir
+  - Memoir
 language:
-author:
+authors:
   - contributor/thomas-merton.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811210386
-  - 9780811210485
+  - binding: Paperback
+    isbn: 9780811210386
+    publication_date: 1989-03-01T06:00:43-04:00
+    cover_image_path: Thomas_Merton_In_Alaska.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn:
+    trim_size:
+    Page_count:
+  - binding: Clothbound
+    isbn: 9780811210485
+    publication_date: 1989-03-01T06:00:43-04:00
+    cover_image_path: Thomas_Merton_In_Alaska.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count: 224
 _slug: thomas-merton-in-alaska
 ---
 

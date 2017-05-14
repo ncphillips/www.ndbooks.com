@@ -2,19 +2,41 @@
 title: "The Theatre Of Tennessee Williams, Vol. V"
 draft: false
 date: 1990-09-01T05:00:36-04:00
-publication_date: 1990-09-01T05:00:36-04:00
+show_in_forthcoming: false
 subtitle:
-genre: theater
+genre: Theater
 subgenre:
 language:
-author:
+authors:
   - contributor/tennessee-williams.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811211376
-  - 9780811205931
+  - binding: Paperback
+    isbn: 9780811211376
+    publication_date: 1990-09-01T05:00:36-04:00
+    cover_image_path: The_Theatre_Of_Tennessee_Williams_Volume_5.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 27.95
+    price_cn:
+    trim_size:
+    Page_count:
+  - binding: Clothbound
+    isbn: 9780811205931
+    publication_date: 1990-09-01T05:00:36-04:00
+    cover_image_path: The_Theatre_Of_Tennessee_Williams_Volume_5.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 44.95
+    price_cn:
+    trim_size:
+    Page_count: 384
 _slug: the-theatre-of-tennessee-williams-vol.-v
 ---
 

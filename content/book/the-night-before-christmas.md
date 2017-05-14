@@ -2,20 +2,42 @@
 title: "The Night Before Christmas"
 draft: false
 date: 2011-10-28T14:28:00-04:00
-publication_date: 2011-10-28T14:28:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: russian
-author:
+language: Russian
+authors:
   - contributor/nikolai-gogol.md
-translator:
+translators:
   - contributor/constance-garnett.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "A macabre tale and hilarious tale of a Christmas Eve with the devil and a romantic twist. "
 editions:
-  - 9780811219471
-  - 9780811219693
+  - binding: Paperback
+    isbn: 9780811219471
+    publication_date: 2011-10-28T14:28:00-04:00
+    cover_image_path: The_Night_Before_Christmas_978-0-8112-1947-1.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 9.95
+    price_cn:
+    trim_size:
+    Page_count: 80
+  - binding: Ebook
+    isbn: 9780811219693
+    publication_date: 2011-10-28T14:28:00-04:00
+    cover_image_path: The_Night_Before_Christmas_978-0-8112-1947-1.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 9.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: the-night-before-christmas
 ---
 

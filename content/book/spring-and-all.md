@@ -2,19 +2,41 @@
 title: "Spring and All"
 draft: false
 date: 2011-07-13T14:28:00-04:00
-publication_date: 2011-07-13T14:28:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/william-carlos-williams.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "A beacon of modernism, Spring and All makes its freestanding return in facsimile edition of the original manuscript. "
 editions:
-  - 9780811218917
-  - 9780811223218
+  - binding: Paperback
+    isbn: 9780811218917
+    publication_date: 2011-07-13T14:28:00-04:00
+    cover_image_path: Spring_and_All_2.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 12.95
+    price_cn: 15.00
+    trim_size: 4.5x7
+    Page_count: 112
+  - binding: Ebook
+    isbn: 9780811223218
+    publication_date: 2011-07-13T14:28:00-04:00
+    cover_image_path: Spring_and_All_2.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count: 112
 _slug: spring-and-all
 ---
 

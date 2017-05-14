@@ -2,19 +2,31 @@
 title: "Adventures in Immediate Irreality"
 draft: false
 date: 2015-02-17T15:44:00-04:00
-publication_date: 2015-02-17T15:44:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/max-blecher.md
-translator:
+translators:
   - contributor/michael-henry-heim.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "Proclaimed _the Kafka of Romania_ by Eugène Ionesco, Max Blecher wrote this incandescent masterpiece shortly before his untimely death. "
 editions:
-  - 9780811217606
+  - binding: Paperback
+    isbn: 9780811217606
+    publication_date: 2015-02-17T15:44:00-04:00
+    cover_image_path: /uploads/blecher_adventures.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn: 16.95
+    trim_size:
+    Page_count: 112
 _slug: adventures-in-immediate-irreality
 ---
 

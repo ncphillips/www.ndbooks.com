@@ -2,20 +2,42 @@
 title: "The Attraction of Things "
 draft: false
 date: 2016-03-07T20:23:00-04:00
-publication_date: 2016-11-01T04:00:00-04:00
+show_in_forthcoming: true
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: french
-author:
+language: French
+authors:
   - contributor/roger-lewinter.md
-translator:
+translators:
   - contributor/rachel-careau.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "Stunning fragments that offer an epiphany of grace and beauty "
 editions:
-  - 9780811225205
-  - 9780811226103
+  - binding: Paperback
+    isbn: 9780811225205
+    publication_date: 2016-11-01T04:00:00-04:00
+    cover_image_path: /uploads/LeWinter_attraction_to_size.tiff
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 13.95
+    price_cn:
+    trim_size: 4.5 x 7.25
+    Page_count: 128
+  - binding: Ebook
+    isbn: 9780811226103
+    publication_date: 2016-11-01T04:00:00-04:00
+    cover_image_path:
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: the-attraction-of-things
 ---
 

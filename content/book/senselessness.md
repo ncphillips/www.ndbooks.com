@@ -2,20 +2,42 @@
 title: "Senselessness"
 draft: false
 date: 2008-05-01T05:00:00-04:00
-publication_date: 2008-05-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: spanish
-author:
+language: Spanish
+authors:
   - contributor/horacio-castellanos-moya.md
-translator:
+translators:
   - contributor/katherine-silver.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "A Rainmaker Translation Grant Winner from the Black Mountain Institute: Senselessness, acclaimed Salvadoran author Horacio Castellanos Moya's astounding debut in English, explores horror with hilarity and electrifying panache. "
 editions:
-  - 9780811217071
-  - 9780811219846
+  - binding: Paperback
+    isbn: 9780811217071
+    publication_date: 2008-05-01T05:00:00-04:00
+    cover_image_path: Senselessness.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn: 17.00
+    trim_size: 5x8
+    Page_count: 160
+  - binding: Ebook
+    isbn: 9780811219846
+    publication_date: 2008-05-01T05:00:00-04:00
+    cover_image_path: Senselessness.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: senselessness
 ---
 

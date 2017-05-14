@@ -2,21 +2,43 @@
 title: "The Noonday Cemetery"
 draft: false
 date: 2003-05-01T05:00:00-04:00
-publication_date: 2003-05-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-  - stories
-language: polish
-author:
+  - Stories
+language: Polish
+authors:
   - contributor/gustaw-herling-grudzinski.md
-translator:
+translators:
   - contributor/bill-johnston.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "Short stories by Poland's greatest writer, and survivor of WWII Soviet labor prison camps. "
 editions:
-  - 9780811216395
-  - 9780811215299
+  - binding: Paperback
+    isbn: 9780811216395
+    publication_date: 2003-05-01T05:00:00-04:00
+    cover_image_path: The_Noonday_Cemetery.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn: 21.00
+    trim_size: 5x8
+    Page_count: 256
+  - binding: Clothbound
+    isbn: 9780811215299
+    publication_date: 2003-05-01T05:00:00-04:00
+    cover_image_path: The_Noonday_Cemetery.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 25.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 256
 _slug: the-noonday-cemetery
 ---
 

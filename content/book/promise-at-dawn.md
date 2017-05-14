@@ -2,19 +2,31 @@
 title: "Promise at Dawn"
 draft: false
 date: 1987-04-01T06:00:11-04:00
-publication_date: 1987-04-01T06:00:11-04:00
+show_in_forthcoming: false
 subtitle:
-genre: nonfiction
+genre: Nonfiction
 subgenre:
-  - memoir
+  - Memoir
 language:
-author:
+authors:
   - contributor/romain-gary.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811210164
+  - binding: Paperback
+    isbn: 9780811210164
+    publication_date: 1987-04-01T06:00:11-04:00
+    cover_image_path: Promise_At_Dawn.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 21.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: promise-at-dawn
 ---
 

@@ -2,19 +2,31 @@
 title: "The Late Poems of Wang An-Shih"
 draft: false
 date: 2015-03-17T14:43:00-04:00
-publication_date: 2015-03-17T14:43:00-04:00
+show_in_forthcoming: true
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/wang-an-shih.md
-translator:
+translators:
   - contributor/david-hinton.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "One of the great Song Dynasty poets and also the most influential and controversial statesman of his time. "
 editions:
-  - 9780811222631
+  - binding: Clothbound
+    isbn: 9780811222631
+    publication_date: 2015-03-17T14:43:00-04:00
+    cover_image_path: /uploads/Late_Poems_Wang.png
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count: 128
 _slug: the-late-poems-of-wang-an-shih
 ---
 

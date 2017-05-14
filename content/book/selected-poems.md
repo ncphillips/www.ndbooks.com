@@ -2,20 +2,32 @@
 title: "Selected Poems of Octavio Paz"
 draft: false
 date: 2001-01-01T06:00:00-04:00
-publication_date: 2001-01-01T06:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/octavio-paz.md
-translator:
+translators:
   - contributor/eliot-weinberger.md
-editor:
+editors:
   - contributor/eliot-weinberger.md
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811208994
+  - binding: Paperback
+    isbn: 9780811208994
+    publication_date: 2001-01-01T06:00:00-04:00
+    cover_image_path: Selected_Poems_of_Octavio_Paz.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 12.95
+    price_cn:
+    trim_size:
+    Page_count: 160
 _slug: selected-poems
 ---
 

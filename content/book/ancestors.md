@@ -2,18 +2,30 @@
 title: "Ancestors"
 draft: false
 date: 2001-06-01T05:00:14-04:00
-publication_date: 2001-06-01T05:00:14-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/kamau-brathwaite.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811214483
+  - binding: Paperback
+    isbn: 9780811214483
+    publication_date: 2001-06-01T05:00:14-04:00
+    cover_image_path: Ancestors.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 22.95
+    price_cn:
+    trim_size: 6x9
+    Page_count: 544
 _slug: ancestors
 ---
 

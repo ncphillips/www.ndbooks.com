@@ -2,20 +2,43 @@
 title: "Piano Stories"
 draft: false
 date: 2014-01-27T21:35:00-04:00
-publication_date: 2014-01-27T21:35:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: spanish
-author:
+language: Spanish
+authors:
   - contributor/felisberto-hernandez.md
-translator:
+translators:
   - contributor/luis-harss.md
-editor:
+editors:
+contributors:
+  - contributor/francine-prose.md
 featured_image_path:
+description:
 editions:
-  - 9780811221801
-  - 9780811221818
+  - binding: Paperback
+    isbn: 9780811221801
+    publication_date: 2014-01-27T21:35:00-04:00
+    cover_image_path: Piano_Stories.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn: 18.00
+    trim_size:
+    Page_count: 280
+  - binding: Ebook
+    isbn: 9780811221818
+    publication_date: 2014-01-27T21:35:00-04:00
+    cover_image_path: Piano_Stories.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: piano-stories
 ---
 

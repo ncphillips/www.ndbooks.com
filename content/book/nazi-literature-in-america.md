@@ -2,22 +2,54 @@
 title: "Nazi Literature in the Americas"
 draft: false
 date: 2009-05-01T05:00:00-04:00
-publication_date: 2009-05-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-  - stories
-language: spanish
-author:
+  - Stories
+language: Spanish
+authors:
   - contributor/roberto-bolano.md
-translator:
+translators:
   - contributor/chris-andrews.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "A tour de force of black humor, Nazi Literature in the Americas, one of Roberto Bolaño's most popular books, is now available as a paperback. "
 editions:
-  - 9780811217941
-  - 9780811217057
-  - 9780811220569
+  - binding: Paperback
+    isbn: 9780811217941
+    publication_date: 2009-05-01T05:00:00-04:00
+    cover_image_path: NaziLiterature_In_the_Americas.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 13.95
+    price_cn: 18.00
+    trim_size: 5x8
+    Page_count: 240
+  - binding: Clothbound
+    isbn: 9780811217057
+    publication_date: 2009-05-01T05:00:00-04:00
+    cover_image_path: NaziLiterature_In_the_Americas.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 23.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 240
+  - binding: Ebook
+    isbn: 9780811220569
+    publication_date: 2009-05-01T05:00:00-04:00
+    cover_image_path: NaziLiterature_In_the_Americas.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 13.95
+    price_cn:
+    trim_size:
+    Page_count: 240
 _slug: nazi-literature-in-america
 ---
 

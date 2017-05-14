@@ -2,19 +2,31 @@
 title: "Oranges & Peanuts For Sale"
 draft: false
 date: 2009-06-01T05:00:04-04:00
-publication_date: 2009-06-01T05:00:04-04:00
+show_in_forthcoming: false
 subtitle:
-genre: nonfiction
+genre: Nonfiction
 subgenre:
-  - essay
+  - Essay
 language:
-author:
+authors:
   - contributor/eliot-weinberger.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "Eliot Weinberger continues his ever-astonishing exploration of the essay form, opening up its possibilities, and reinvigorating it with a passion and intellect unmatched in contemporary letters. "
 editions:
-  - 9780811218344
+  - binding: Paperback
+    isbn: 9780811218344
+    publication_date: 2009-06-01T05:00:04-04:00
+    cover_image_path: orangesandpeanuts.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn: 19.00
+    trim_size: 5x8
+    Page_count: 272
 _slug: oranges-peanuts-for-sale
 ---
 

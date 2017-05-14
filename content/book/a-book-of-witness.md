@@ -2,18 +2,30 @@
 title: "A Book Of Witness"
 draft: false
 date: 2003-04-01T06:00:36-04:00
-publication_date: 2003-04-01T06:00:36-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/jerome-rothenberg.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "A landmark collection by one of America's leading avant-gardists. "
 editions:
-  - 9780811215374
+  - binding: Paperback
+    isbn: 9780811215374
+    publication_date: 2003-04-01T06:00:36-04:00
+    cover_image_path: A_Book_Of_Witness.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 128
 _slug: a-book-of-witness
 ---
 

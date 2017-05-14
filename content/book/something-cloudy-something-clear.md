@@ -2,19 +2,41 @@
 title: "Something Cloudy Something Clear"
 draft: false
 date: 1995-10-01T05:00:06-04:00
-publication_date: 1995-10-01T05:00:06-04:00
+show_in_forthcoming: false
 subtitle:
-genre: theater
+genre: Theater
 subgenre:
 language:
-author:
+authors:
   - contributor/tennessee-williams.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811213110
-  - 9780811213103
+  - binding: Paperback
+    isbn: 9780811213110
+    publication_date: 1995-10-01T05:00:06-04:00
+    cover_image_path: Something_Cloudy_Something_Clear.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 9.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 96
+  - binding: Clothbound
+    isbn: 9780811213103
+    publication_date: 1995-10-01T05:00:06-04:00
+    cover_image_path: Something_Cloudy_Something_Clear.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 19.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 96
 _slug: something-cloudy-something-clear
 ---
 

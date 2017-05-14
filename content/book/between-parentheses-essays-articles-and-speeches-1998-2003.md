@@ -2,21 +2,43 @@
 title: "Between Parentheses"
 draft: false
 date: 2011-05-30T14:28:00-04:00
-publication_date: 2011-05-30T14:28:00-04:00
+show_in_forthcoming: false
 subtitle: " Essays, Articles And Speeches, 1998-2003"
-genre: nonfiction
+genre: Nonfiction
 subgenre:
-  - essay
-language: spanish
-author:
+  - Essay
+language: Spanish
+authors:
   - contributor/roberto-bolano.md
-translator:
+translators:
   - contributor/natasha-wimmer.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "The essays of Roberto Bolaño in English at last. "
 editions:
-  - 9780811218146
-  - 9780811220507
+  - binding: Clothbound
+    isbn: 9780811218146
+    publication_date: 2011-05-30T14:28:00-04:00
+    cover_image_path: betweenparentheses.JPG
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 24.95
+    price_cn:
+    trim_size:
+    Page_count: 352
+  - binding: Ebook
+    isbn: 9780811220507
+    publication_date: 2011-05-30T14:28:00-04:00
+    cover_image_path: betweenparentheses.JPG
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 24.95
+    price_cn:
+    trim_size:
+    Page_count: 352
 _slug: between-parentheses-essays-articles-and-speeches-1998-2003
 ---
 

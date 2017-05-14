@@ -2,19 +2,31 @@
 title: "The Man with the Heart in the Highlands & Other Early Stories"
 draft: false
 date: 1992-05-01T05:00:13-04:00
-publication_date: 1992-05-01T05:00:13-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-  - stories
+  - Stories
 language:
-author:
+authors:
   - contributor/william-saroyan.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811212052
+  - binding: Paperback
+    isbn: 9780811212052
+    publication_date: 1992-05-01T05:00:13-04:00
+    cover_image_path: The_Man_With_The_Heart_In_The_Highlands_.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 11.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: the-man-with-the-heart-in-the-highlands
 ---
 

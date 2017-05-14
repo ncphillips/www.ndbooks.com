@@ -2,20 +2,32 @@
 title: "The Old Child & Other Stories"
 draft: false
 date: 2005-09-01T05:00:00-04:00
-publication_date: 2005-09-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-  - stories
-language: german
-author:
+  - Stories
+language: German
+authors:
   - contributor/jenny-erpenbeck.md
-translator:
+translators:
   - contributor/susan-bernofsky.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811216081
+  - binding: Paperback
+    isbn: 9780811216081
+    publication_date: 2005-09-01T05:00:00-04:00
+    cover_image_path: theoldchild.JPG
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn: 21.00
+    trim_size: 5x8
+    Page_count: 128
 _slug: the-old-child-other-tales
 ---
 

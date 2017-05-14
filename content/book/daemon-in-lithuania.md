@@ -2,20 +2,42 @@
 title: "Dæmon in Lithuania"
 draft: false
 date: 1985-04-01T06:00:25-04:00
-publication_date: 1985-04-01T06:00:25-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/henri-guigonnat.md
-translator:
+translators:
   - contributor/barbara-wright.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811209397
-  - 9780811209304
+  - binding: Paperback
+    isbn: 9780811209397
+    publication_date: 1985-04-01T06:00:25-04:00
+    cover_image_path: Daemon_In_Lithuania.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 7.95
+    price_cn:
+    trim_size:
+    Page_count:
+  - binding: Clothbound
+    isbn: 9780811209304
+    publication_date: 1985-04-01T06:00:25-04:00
+    cover_image_path: Daemon_In_Lithuania.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.00
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: daemon-in-lithuania
 ---
 

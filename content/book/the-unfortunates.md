@@ -2,18 +2,30 @@
 title: "The Unfortunates"
 draft: false
 date: 2009-05-01T05:00:00-04:00
-publication_date: 2009-05-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/b.-s.-johnson.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "A gift _book in a box_ by one of Britain's greatest modern writers. "
 editions:
-  - 9780811217439
+  - binding: Paperback
+    isbn: 9780811217439
+    publication_date: 2009-05-01T05:00:00-04:00
+    cover_image_path: theunfortunates.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 24.95
+    price_cn: 31.00
+    trim_size: 5x8
+    Page_count: 176
 _slug: the-unfortunates
 ---
 

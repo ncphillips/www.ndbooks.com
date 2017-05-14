@@ -2,18 +2,30 @@
 title: "The Hedgehog"
 draft: false
 date: 1988-09-01T05:00:57-04:00
-publication_date: 1988-09-01T05:00:57-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/hilda-doolittle-h.-d.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811210690
+  - binding: Clothbound
+    isbn: 9780811210690
+    publication_date: 1988-09-01T05:00:57-04:00
+    cover_image_path: hedgehog-hilda-doolittle-hardcover-cover-art.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 12.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: the-hedgehog
 ---
 

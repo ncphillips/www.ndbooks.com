@@ -2,18 +2,30 @@
 title: "Some Are More Human Than Others"
 draft: false
 date: 1989-09-01T05:00:00-04:00
-publication_date: 1989-09-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/stevie-smith-s.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811211109
+  - binding: Paperback
+    isbn: 9780811211109
+    publication_date: 1989-09-01T05:00:00-04:00
+    cover_image_path: Some_Are_More_Human_Than_Others.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 7.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: some-are-more-human-than-others
 ---
 

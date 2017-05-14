@@ -2,19 +2,41 @@
 title: "Not to Disturb"
 draft: false
 date: 2010-05-01T05:00:00-04:00
-publication_date: 2010-05-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/muriel-spark.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "Household servants and accidental guests must wait out the orders of the lords of the house: not to disturb. "
 editions:
-  - 9780811218672
-  - 9780811219778
+  - binding: Paperback
+    isbn: 9780811218672
+    publication_date: 2010-05-01T05:00:00-04:00
+    cover_image_path: Not_To_Disturb.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 12.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 96
+  - binding: Ebook
+    isbn: 9780811219778
+    publication_date: 2010-05-01T05:00:00-04:00
+    cover_image_path: Not_To_Disturb.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 12.95
+    price_cn:
+    trim_size:
+    Page_count: 96
 _slug: not-to-disturb
 ---
 

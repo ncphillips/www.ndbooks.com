@@ -2,20 +2,42 @@
 title: "The Father of a Murderer"
 draft: false
 date: 1994-04-01T05:59:23-04:00
-publication_date: 1994-04-01T05:59:23-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/alfred-andersch.md
-translator:
+translators:
   - contributor/leila-vennewitz.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811217620
-  - 9780811212618
+  - binding: Paperback
+    isbn: 9780811217620
+    publication_date: 1994-04-01T05:59:23-04:00
+    cover_image_path: Father_Of_A_Murderer.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn:
+    trim_size:
+    Page_count:
+  - binding: Clothbound
+    isbn: 9780811212618
+    publication_date: 1994-04-01T05:59:23-04:00
+    cover_image_path: Father_Of_A_Murderer.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 21.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: father-of-a-murderer
 ---
 

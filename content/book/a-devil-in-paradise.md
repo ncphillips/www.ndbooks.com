@@ -2,18 +2,30 @@
 title: "A Devil in Paradise"
 draft: false
 date: 1993-04-01T06:00:54-04:00
-publication_date: 1993-04-01T06:00:54-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/henry-miller.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811212441
+  - binding: Paperback
+    isbn: 9780811212441
+    publication_date: 1993-04-01T06:00:54-04:00
+    cover_image_path: A_Devil_in_Paradise.JPG
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 11.95
+    price_cn: 11.00
+    trim_size:
+    Page_count:
 _slug: a-devil-in-paradise
 ---
 

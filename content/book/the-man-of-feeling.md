@@ -2,20 +2,42 @@
 title: "The Man of Feeling"
 draft: false
 date: 2008-02-01T06:00:00-04:00
-publication_date: 2008-02-01T06:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: spanish
-author:
+language: Spanish
+authors:
   - contributor/javier-marias.md
-translator:
+translators:
   - contributor/margaret-jull-costa.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "Marías's riveting novel about an opera singer and an extramarital affair is now a paperbook. "
 editions:
-  - 9780811216777
-  - 9780811215312
+  - binding: Paperback
+    isbn: 9780811216777
+    publication_date: 2008-02-01T06:00:00-04:00
+    cover_image_path: The_Man_Of_Feeling.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 13.95
+    price_cn:
+    trim_size: 5x7
+    Page_count: 208
+  - binding: Clothbound
+    isbn: 9780811215312
+    publication_date: 2008-02-01T06:00:00-04:00
+    cover_image_path: The_Man_Of_Feeling.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 22.95
+    price_cn:
+    trim_size: 5x7
+    Page_count: 208
 _slug: the-man-of-feeling
 ---
 

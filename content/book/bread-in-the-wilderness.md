@@ -2,18 +2,30 @@
 title: "Bread In The Wilderness"
 draft: false
 date: 1997-04-01T06:00:18-04:00
-publication_date: 1997-04-01T06:00:18-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/thomas-merton.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811213486
+  - binding: Paperback
+    isbn: 9780811213486
+    publication_date: 1997-04-01T06:00:18-04:00
+    cover_image_path: Bread_In_The_Wilderness.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 17.95
+    price_cn:
+    trim_size: 6x9
+    Page_count: 160
 _slug: bread-in-the-wilderness
 ---
 

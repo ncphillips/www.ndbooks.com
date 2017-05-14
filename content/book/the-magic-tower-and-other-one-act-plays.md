@@ -2,19 +2,32 @@
 title: "The Magic Tower And Other One-Act Plays"
 draft: false
 date: 2011-04-25T14:28:23-04:00
-publication_date: 2011-04-25T14:28:23-04:00
+show_in_forthcoming: false
 subtitle:
-genre: theater
+genre: Theater
 subgenre:
 language:
-author:
+authors:
   - contributor/tennessee-williams.md
-translator:
-editor:
+translators:
+editors:
   - contributor/thomas-keith.md
+contributors:
+  - contributor/terrence-mcnally.md
 featured_image_path:
+description: "A wonderful collection of never-before-collected one-acts: _The peak of my virtuosity was in the one-act plays. Some of which are like firecrackers in a rope_ (Tennessee Williams). "
 editions:
-  - 9780811219204
+  - binding: Paperback
+    isbn: 9780811219204
+    publication_date: 2011-04-25T14:28:23-04:00
+    cover_image_path: magictower.JPG
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn: 20.00
+    trim_size:
+    Page_count: 288
 _slug: the-magic-tower-and-other-one-act-plays
 ---
 

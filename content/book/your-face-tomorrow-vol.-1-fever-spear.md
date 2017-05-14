@@ -2,21 +2,53 @@
 title: "Your Face Tomorrow Vol. 1: Fever & Spear"
 draft: false
 date: 2007-09-01T05:00:00-04:00
-publication_date: 2007-09-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: spanish
-author:
+language: Spanish
+authors:
   - contributor/javier-marias.md
-translator:
+translators:
   - contributor/margaret-jull-costa.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "A daring masterwork by Javier Marias: _Spain's most subtle and gifted writer_ (The Boston Globe) "
 editions:
-  - 9780811217279
-  - 9780811216128
-  - 9780811223898
+  - binding: Paperback
+    isbn: 9780811217279
+    publication_date: 2007-09-01T05:00:00-04:00
+    cover_image_path: Your_Face_Tomorrow_Vol_1.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 18.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 414
+  - binding: Clothbound
+    isbn: 9780811216128
+    publication_date: 2007-09-01T05:00:00-04:00
+    cover_image_path: Your_Face_Tomorrow_Vol_1.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 29.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 400
+  - binding: Ebook
+    isbn: 9780811223898
+    publication_date: 2007-09-01T05:00:00-04:00
+    cover_image_path: Your_Face_Tomorrow_Vol_1.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 18.95
+    price_cn:
+    trim_size:
+    Page_count: 400
 _slug: your-face-tomorrow-vol.-1-fever-spear
 ---
 

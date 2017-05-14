@@ -2,19 +2,31 @@
 title: "A Balance Of Quinces"
 draft: false
 date: 1996-10-01T05:00:50-04:00
-publication_date: 1996-10-01T05:00:50-04:00
+show_in_forthcoming: false
 subtitle:
-genre: nonfiction
+genre: Nonfiction
 subgenre:
-  - study
+  - Study
 language:
-author:
+authors:
   - contributor/erik-reece.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811213363
+  - binding: Paperback
+    isbn: 9780811213363
+    publication_date: 1996-10-01T05:00:50-04:00
+    cover_image_path: A_Balance_of_Quinces.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 25.00
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: balance-of-quinces
 ---
 

@@ -2,19 +2,41 @@
 title: "The Surrealist Parade"
 draft: false
 date: 1990-05-01T05:00:43-04:00
-publication_date: 1990-05-01T05:00:43-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/wayne-andrews.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811211277
-  - 9780811211260
+  - binding: Paperback
+    isbn: 9780811211277
+    publication_date: 1990-05-01T05:00:43-04:00
+    cover_image_path: The_Surrealist_Parade.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 11.95
+    price_cn:
+    trim_size:
+    Page_count:
+  - binding: Clothbound
+    isbn: 9780811211260
+    publication_date: 1990-05-01T05:00:43-04:00
+    cover_image_path: The_Surrealist_Parade.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 22.95
+    price_cn:
+    trim_size:
+    Page_count: 192
 _slug: the-surrealist-parade
 ---
 

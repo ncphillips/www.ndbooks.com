@@ -2,20 +2,43 @@
 title: "An Episode in the Life of a Landscape Painter"
 draft: false
 date: 2006-05-01T04:59:00-04:00
-publication_date: 2006-05-01T04:59:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: spanish
-author:
+language: Spanish
+authors:
   - contributor/cesar-aira.md
-translator:
+translators:
   - contributor/chris-andrews.md
-editor:
+editors:
+contributors:
+  - contributor/roberto-bolano.md
 featured_image_path:
+description: "An astounding novel from Argentina that is a meditation on the beautiful and the grotesque in nature, the art of landscape painting, and one experience in a man's life that became a lightning rod for inspiration. "
 editions:
-  - 9780811216302
-  - 9780811219808
+  - binding: Paperback
+    isbn: 9780811216302
+    publication_date: 2006-05-01T04:59:00-04:00
+    cover_image_path: An_Episode_In_The_Life_Of_A_Landscape_Painter.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 12.95
+    price_cn: 15.00
+    trim_size: 5x7
+    Page_count: 96
+  - binding: Ebook
+    isbn: 9780811219808
+    publication_date: 2006-05-01T04:59:00-04:00
+    cover_image_path: An_Episode_In_The_Life_Of_A_Landscape_Painter.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 12.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: an-episode-in-the-life-of-a-landscape-painter
 ---
 

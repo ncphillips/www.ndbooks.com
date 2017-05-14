@@ -2,20 +2,42 @@
 title: "Ghost Stories"
 draft: false
 date: 2003-10-01T05:00:00-04:00
-publication_date: 2003-10-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-  - stories
+  - Stories
 language:
-author:
+authors:
   - contributor/muriel-spark.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "Eight spooky stories from the mistress of the unexpected "
 editions:
-  - 9780811215497
-  - 9780811221528
+  - binding: Paperback
+    isbn: 9780811215497
+    publication_date: 2003-10-01T05:00:00-04:00
+    cover_image_path: The_Ghost_Stories_Of_Muriel_Spark.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 12.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 128
+  - binding: Ebook
+    isbn: 9780811221528
+    publication_date: 2003-10-01T05:00:00-04:00
+    cover_image_path: The_Ghost_Stories_Of_Muriel_Spark.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 12.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: the-ghost-stories-of-muriel-spark
 ---
 

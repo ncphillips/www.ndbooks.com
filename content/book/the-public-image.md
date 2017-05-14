@@ -2,19 +2,41 @@
 title: "The Public Image"
 draft: false
 date: 1993-04-01T06:00:00-04:00
-publication_date: 1993-04-01T06:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/muriel-spark.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811212465
-  - 9780811221351
+  - binding: Paperback
+    isbn: 9780811212465
+    publication_date: 1993-04-01T06:00:00-04:00
+    cover_image_path: The_Public_Image.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 13.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 144
+  - binding: Ebook
+    isbn: 9780811221351
+    publication_date: 1993-04-01T06:00:00-04:00
+    cover_image_path: The_Public_Image.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 13.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: the-public-image
 ---
 

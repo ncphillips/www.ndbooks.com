@@ -2,20 +2,42 @@
 title: "Shantytown"
 draft: false
 date: 2013-11-20T17:36:00-04:00
-publication_date: 2013-11-20T17:36:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: spanish
-author:
+language: Spanish
+authors:
   - contributor/cesar-aira.md
-translator:
+translators:
   - contributor/chris-andrews.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "At last, a noir novel from the Argentine master of suspense and surprises "
 editions:
-  - 9780811219112
-  - 9780811221580
+  - binding: Paperback
+    isbn: 9780811219112
+    publication_date: 2013-11-20T17:36:00-04:00
+    cover_image_path: Shantytown.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 13.95
+    price_cn: 15.00
+    trim_size:
+    Page_count: 128
+  - binding: Ebook
+    isbn: 9780811221580
+    publication_date: 2013-11-20T17:36:00-04:00
+    cover_image_path: Shantytown.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 13.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: shantytown
 ---
 

@@ -2,18 +2,30 @@
 title: "Into the Heart of Life"
 draft: false
 date: 1991-11-01T06:00:02-04:00
-publication_date: 1991-11-01T06:00:02-04:00
+show_in_forthcoming: false
 subtitle: "Henry Miller at One Hundred"
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/henry-miller.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811211857
+  - binding: Paperback
+    isbn: 9780811211857
+    publication_date: 1991-11-01T06:00:02-04:00
+    cover_image_path: Into_The_Heart_Of_Life.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: into-the-heart-of-life
 ---
 

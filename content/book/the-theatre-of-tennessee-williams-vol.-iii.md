@@ -2,19 +2,41 @@
 title: "The Theatre Of Tennessee Williams, Vol. III"
 draft: false
 date: 1991-09-01T05:00:36-04:00
-publication_date: 1991-09-01T05:00:36-04:00
+show_in_forthcoming: false
 subtitle:
-genre: theater
+genre: Theater
 subgenre:
 language:
-author:
+authors:
   - contributor/tennessee-williams.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811211963
-  - 9780811204194
+  - binding: Paperback
+    isbn: 9780811211963
+    publication_date: 1991-09-01T05:00:36-04:00
+    cover_image_path: The_Theatre_Of_Tennessee_Williams_Volume_3.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 24.95
+    price_cn:
+    trim_size:
+    Page_count:
+  - binding: Clothbound
+    isbn: 9780811204194
+    publication_date: 1991-09-01T05:00:36-04:00
+    cover_image_path: The_Theatre_Of_Tennessee_Williams_Volume_3.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 45.00
+    price_cn:
+    trim_size:
+    Page_count: 432
 _slug: the-theatre-of-tennessee-williams-vol.-iii
 ---
 

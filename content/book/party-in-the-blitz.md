@@ -2,21 +2,44 @@
 title: "Party In The Blitz"
 draft: false
 date: 2010-02-01T06:00:00-04:00
-publication_date: 2010-02-01T06:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: nonfiction
+genre: Nonfiction
 subgenre:
-  - memoir
-language: german
-author:
+  - Memoir
+language: German
+authors:
   - contributor/elias-canetti.md
-translator:
+translators:
   - contributor/michael-hofmann1.md
-editor:
+editors:
+contributors:
+  - contributor/elias-canetti.md
 featured_image_path:
+description:
 editions:
-  - 9780811218306
-  - 9780811216364
+  - binding: Paperback
+    isbn: 9780811218306
+    publication_date: 2010-02-01T06:00:00-04:00
+    cover_image_path: Party_In_The_Blitz.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 13.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 256
+  - binding: Clothbound
+    isbn: 9780811216364
+    publication_date: 2010-02-01T06:00:00-04:00
+    cover_image_path: Party_In_The_Blitz.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 22.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 256
 _slug: party-in-the-blitz
 ---
 

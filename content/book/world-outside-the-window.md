@@ -2,20 +2,42 @@
 title: "World Outside The Window"
 draft: false
 date: 1987-05-01T05:00:48-04:00
-publication_date: 1987-05-01T05:00:48-04:00
+show_in_forthcoming: false
 subtitle:
-genre: nonfiction
+genre: Nonfiction
 subgenre:
-  - essay
+  - Essay
 language:
-author:
+authors:
   - contributor/kenneth-rexroth.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811210256
-  - 9780811210249
+  - binding: Paperback
+    isbn: 9780811210256
+    publication_date: 1987-05-01T05:00:48-04:00
+    cover_image_path: World_Outside_The_Window.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 21.95
+    price_cn:
+    trim_size:
+    Page_count:
+  - binding: Clothbound
+    isbn: 9780811210249
+    publication_date: 1987-05-01T05:00:48-04:00
+    cover_image_path: World_Outside_The_Window.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 24.95
+    price_cn:
+    trim_size:
+    Page_count: 336
 _slug: world-outside-the-window
 ---
 

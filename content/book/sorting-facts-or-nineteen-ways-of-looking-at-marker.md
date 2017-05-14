@@ -2,19 +2,31 @@
 title: "Sorting Facts, or Nineteen Ways of Looking at Marker"
 draft: false
 date: 2013-03-26T20:07:00-04:00
-publication_date: 2013-03-26T20:07:00-04:00
+show_in_forthcoming: true
 subtitle:
 genre:
 subgenre:
-  - essay
+  - Essay
 language:
-author:
+authors:
   - contributor/susan-howe.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "Poetic musings of a powerful filmmaker "
 editions:
-  - 9780811220392
+  - binding: Paperback
+    isbn: 9780811220392
+    publication_date: 2013-03-26T20:07:00-04:00
+    cover_image_path: Sorting_Facts_1.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 10.95
+    price_cn: 11.99
+    trim_size:
+    Page_count: 48
 _slug: sorting-facts-or-nineteen-ways-of-looking-at-marker
 ---
 

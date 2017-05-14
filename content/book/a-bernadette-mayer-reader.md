@@ -2,18 +2,30 @@
 title: "A Bernadette Mayer Reader"
 draft: false
 date: 1992-05-01T05:00:00-04:00
-publication_date: 1992-05-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/bernadette-mayer.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811212038
+  - binding: Paperback
+    isbn: 9780811212038
+    publication_date: 1992-05-01T05:00:00-04:00
+    cover_image_path: A_Bernadette_Mayer_Reader.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn:
+    trim_size:
+    Page_count: 162
 _slug: a-bernadette-mayer-reader
 ---
 

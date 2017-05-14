@@ -2,20 +2,42 @@
 title: "All the Poems"
 draft: false
 date: 2015-10-15T18:04:00-04:00
-publication_date: 2016-02-22T05:00:00-04:00
+show_in_forthcoming: true
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/stevie-smith-s.md
-translator:
-editor:
+translators:
+editors:
   - contributor/will-may.md
-featured_image_path: /uploads/1454431391566/Screen%20Shot%202016-02-02%20at%2011.42.46%20AM.png
+contributors:
+featured_image_path: /uploads/Screen%20Shot%202016-02-02%20at%2011.42.46%20AM.png
+description: "The essential edition of one of modern poetry’s most distinctive voices. "
 editions:
-  - 9780811223805
-  - 9780811223812
+  - binding: Clothbound
+    isbn: 9780811223805
+    publication_date: 2016-02-22T05:00:00-04:00
+    cover_image_path: /uploads/all_the_poems_jacket_final.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 39.95
+    price_cn: 46.00
+    trim_size:
+    Page_count: 704
+  - binding: Ebook
+    isbn: 9780811223812
+    publication_date: 2016-02-22T05:00:00-04:00
+    cover_image_path:
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: all-the-poems
 ---
 

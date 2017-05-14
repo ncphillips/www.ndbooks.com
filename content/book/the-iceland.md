@@ -2,19 +2,31 @@
 title: "The Iceland"
 draft: false
 date: 2014-06-25T14:21:00-04:00
-publication_date: 2014-06-25T14:21:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/sakutaro-hagiwara.md
-translator:
+translators:
   - contributor/hiroaki-sato.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811221603
+  - binding: Paperback
+    isbn: 9780811221603
+    publication_date: 2014-06-25T14:21:00-04:00
+    cover_image_path: web_hagiwara.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: the-iceland
 ---
 

@@ -2,19 +2,41 @@
 title: "The Flower Show and The Toth Family"
 draft: false
 date: 1982-05-01T05:00:17-04:00
-publication_date: 1982-05-01T05:00:17-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/istvan-rkeny.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811208376
-  - 9780811208369
+  - binding: Paperback
+    isbn: 9780811208376
+    publication_date: 1982-05-01T05:00:17-04:00
+    cover_image_path: The_Flower_Show_And_The_Toth_Family.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn:
+    trim_size:
+    Page_count:
+  - binding: Clothbound
+    isbn: 9780811208369
+    publication_date: 1982-05-01T05:00:17-04:00
+    cover_image_path: The_Flower_Show_And_The_Toth_Family.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: the-flower-show-and-the-toth-family
 ---
 

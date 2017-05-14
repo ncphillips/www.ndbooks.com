@@ -2,19 +2,31 @@
 title: "Poems to Read on a Streetcar"
 draft: false
 date: 2014-01-27T20:27:00-04:00
-publication_date: 2014-01-27T20:27:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
-language: spanish
-author:
+language: Spanish
+authors:
   - contributor/oliverio-girondo.md
-translator:
+translators:
   - contributor/heather-cleary.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811221771
+  - binding: Paperback
+    isbn: 9780811221771
+    publication_date: 2014-01-27T20:27:00-04:00
+    cover_image_path: Poems_to_Read_on_a_Streetcar.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 10.95
+    price_cn: 11.99
+    trim_size:
+    Page_count: 48
 _slug: poems-to-read-on-a-streetcar
 ---
 

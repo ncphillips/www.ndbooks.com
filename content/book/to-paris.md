@@ -2,19 +2,41 @@
 title: "To Paris"
 draft: false
 date: 1981-02-01T06:00:00-04:00
-publication_date: 1981-02-01T06:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/samuel-hazo.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811207881
-  - 9780811207874
+  - binding: Paperback
+    isbn: 9780811207881
+    publication_date: 1981-02-01T06:00:00-04:00
+    cover_image_path: To_Paris.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 10.95
+    price_cn:
+    trim_size:
+    Page_count:
+  - binding: Clothbound
+    isbn: 9780811207874
+    publication_date: 1981-02-01T06:00:00-04:00
+    cover_image_path: To_Paris.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: to-paris
 ---
 

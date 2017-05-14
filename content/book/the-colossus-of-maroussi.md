@@ -2,20 +2,45 @@
 title: "The Colossus Of Maroussi"
 draft: false
 date: 2010-04-01T05:00:00-04:00
-publication_date: 2010-04-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: nonfiction
+genre: Nonfiction
 subgenre:
-  - essay
+  - Essay
 language:
-author:
+authors:
   - contributor/henry-miller.md
-translator:
-editor:
+translators:
+editors:
+contributors:
+  - contributor/will-self.md
+
+  - contributor/durrell-and-miller.md
 featured_image_path:
+description:
 editions:
-  - 9780811218573
-  - 9780811219150
+  - binding: Paperback
+    isbn: 9780811218573
+    publication_date: 2010-04-01T05:00:00-04:00
+    cover_image_path: The_Colossus_Of_Maroussi.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn: 16.00
+    trim_size: 5x7
+    Page_count: 240
+  - binding: Ebook
+    isbn: 9780811219150
+    publication_date: 2010-04-01T05:00:00-04:00
+    cover_image_path: The_Colossus_Of_Maroussi.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 12.95
+    price_cn:
+    trim_size:
+    Page_count: 240
 _slug: the-colossus-of-maroussi
 ---
 

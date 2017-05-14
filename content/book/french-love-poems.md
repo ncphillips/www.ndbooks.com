@@ -2,19 +2,40 @@
 title: "French Love Poems"
 draft: false
 date: 2015-10-21T18:38:00-04:00
-publication_date: 2016-06-28T23:00:00-04:00
+show_in_forthcoming: true
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
-language: french
-author:
-
-translator:
-editor:
+language: French
+authors:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "Inspired by the great tradition of French love poetry, New Directions presents a beautiful, small gift edition, dedicated to what makes the world go round "
 editions:
-  - 9780811225595
-  - 9780811225601
+  - binding: Paperback
+    isbn: 9780811225595
+    publication_date: 2016-06-28T23:00:00-04:00
+    cover_image_path: /uploads/french%20lvoe%20poems.tiff
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 11.95
+    price_cn: 15.95
+    trim_size: 4 x 6
+    Page_count: 64
+  - binding: Ebook
+    isbn: 9780811225601
+    publication_date: 2016-06-28T23:00:00-04:00
+    cover_image_path:
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: french-love-poems
 ---
 
@@ -50,5 +71,5 @@ _As the sea sending its waves to the warm beach._
 
 (Charles Baudelaire)
 
-With poems by Guillaume Apollinaire, Charles Baudelaire, André Breton, Claude Cahun,  René Char, Andrée Chedid, Charles Cros, Robert Desnos, Marceline Desbordes-Valmore, Paul Éluard, Francis Jammes, Jean Joubert, Louise Labé, James Laughlin, Stéphane Mallarmé, Joyce Mansour, Anna de Noailles, Catherine Pozzi, Jacques Prévert, Arthur Rimbaud, Maurice Scève, Paul Valéry, Paul Verlaine, and Renée Vivien. Edited by Tynan Kogane.
+With poems by Guillaume Apollinaire, Charles Baudelaire, André Breton, Claude Cahun, René Char, Andrée Chedid, Charles Cros, Robert Desnos, Marceline Desbordes-Valmore, Paul Éluard, Francis Jammes, Jean Joubert, Louise Labé, James Laughlin, Stéphane Mallarmé, Joyce Mansour, Anna de Noailles, Catherine Pozzi, Jacques Prévert, Arthur Rimbaud, Maurice Scève, Paul Valéry, Paul Verlaine, and Renée Vivien. Edited by Tynan Kogane.
 

@@ -2,20 +2,42 @@
 title: "Midsummer Night"
 draft: false
 date: 1998-05-01T05:00:06-04:00
-publication_date: 1998-05-01T05:00:06-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/uwe-timm.md
-translator:
+translators:
   - contributor/peter-tegel.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811214209
-  - 9780811213721
+  - binding: Paperback
+    isbn: 9780811214209
+    publication_date: 1998-05-01T05:00:06-04:00
+    cover_image_path: Midsummer_Night.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 12.95
+    price_cn:
+    trim_size: 5x7
+    Page_count: 288
+  - binding: Clothbound
+    isbn: 9780811213721
+    publication_date: 1998-05-01T05:00:06-04:00
+    cover_image_path: Midsummer_Night.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 23.95
+    price_cn:
+    trim_size: 5x7
+    Page_count: 288
 _slug: midsummer-night
 ---
 

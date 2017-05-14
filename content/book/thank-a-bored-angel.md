@@ -2,19 +2,41 @@
 title: "Thank A Bored Angel"
 draft: false
 date: 1983-06-01T05:00:00-04:00
-publication_date: 1983-06-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/samuel-hazo.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811208680
-  - 9780811208697
+  - binding: Paperback
+    isbn: 9780811208680
+    publication_date: 1983-06-01T05:00:00-04:00
+    cover_image_path: Thank_A_Bored_Angel.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 6.25
+    price_cn:
+    trim_size:
+    Page_count:
+  - binding: Clothbound
+    isbn: 9780811208697
+    publication_date: 1983-06-01T05:00:00-04:00
+    cover_image_path: Thank_A_Bored_Angel.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: thank-a-bored-angel
 ---
 

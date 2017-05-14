@@ -2,22 +2,38 @@
 title: "Poetry Pamphlets 1–4"
 draft: false
 date: 2013-03-26T20:24:00-04:00
-publication_date: 2013-03-26T20:24:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/eliot-weinberger.md
+
   - contributor/lydia-davis.md
+
   - contributor/susan-howe.md
+
   - contributor/sylvia-legris.md
+
   - contributor/bernadette-mayer.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "The first four collections in our revived Poetry Pamphlet series in one package at a bargain price "
 editions:
-  - 9780811220637
+  - binding: Paperback
+    isbn: 9780811220637
+    publication_date: 2013-03-26T20:24:00-04:00
+    cover_image_path: Pamphlets_1-4_1.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 35.00
+    price_cn: 37.00
+    trim_size:
+    Page_count: 200
 _slug: poetry-pamphlets
 ---
 

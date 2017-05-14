@@ -2,26 +2,51 @@
 title: "The New Directions Anthology Of Classical Chinese Poetry"
 draft: false
 date: 2003-04-01T06:00:31-04:00
-publication_date: 2003-04-01T06:00:31-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
-  - anthology
+  - Anthology
 language:
-author:
-
-translator:
+authors:
+translators:
   - contributor/david-hinton.md
+
   - contributor/kenneth-rexroth.md
+
   - contributor/ezra-pound.md
+
   - contributor/gary-snyder.md
+
   - contributor/william-carlos-williams.md
-editor:
+editors:
   - contributor/eliot-weinberger.md
+contributors:
 featured_image_path:
+description: "Modern American poets translate classical Chinese poetry. "
 editions:
-  - 9780811216050
-  - 9780811215404
+  - binding: Paperback
+    isbn: 9780811216050
+    publication_date: 2003-04-01T06:00:31-04:00
+    cover_image_path: ndanthologyclassicalchinese.JPG
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn:
+    trim_size: 6x9
+    Page_count: 256
+  - binding: Clothbound
+    isbn: 9780811215404
+    publication_date: 2003-04-01T06:00:31-04:00
+    cover_image_path: ndanthologyclassicalchinese.JPG
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size: 6x9
+    Page_count: 256
 _slug: the-new-directions-anthology-of-classical-chinese-poetry
 ---
 

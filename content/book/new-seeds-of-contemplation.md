@@ -2,20 +2,43 @@
 title: "New Seeds of Contemplation"
 draft: false
 date: 2007-11-01T05:00:00-04:00
-publication_date: 2007-11-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: nonfiction
+genre: Nonfiction
 subgenre:
-  - essay
+  - Essay
 language:
-author:
+authors:
   - contributor/thomas-merton.md
-translator:
-editor:
+translators:
+editors:
+contributors:
+  - contributor/sue-monk-kidd.md
 featured_image_path:
+description: "One of the best-loved books by one of the great spiritual authors of our time, with a new Introduction by best-selling author Sue Monk Kidd "
 editions:
-  - 9780811217248
-  - 9780811219655
+  - binding: Paperback
+    isbn: 9780811217248
+    publication_date: 2007-11-01T05:00:00-04:00
+    cover_image_path: New_Seeds_Of_Contemplation.jpeg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn: 19.00
+    trim_size: 5x8
+    Page_count: 296
+  - binding: Ebook
+    isbn: 9780811219655
+    publication_date: 2007-11-01T05:00:00-04:00
+    cover_image_path: New_Seeds_Of_Contemplation.jpeg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: new-seeds-of-contemplation
 ---
 

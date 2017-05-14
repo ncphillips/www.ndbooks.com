@@ -2,18 +2,30 @@
 title: "The Europe Of Trusts"
 draft: false
 date: 2002-04-01T06:00:00-04:00
-publication_date: 2002-04-01T06:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/susan-howe.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811215077
+  - binding: Paperback
+    isbn: 9780811215077
+    publication_date: 2002-04-01T06:00:00-04:00
+    cover_image_path: Europe_Of_Trusts.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 224
 _slug: europe-of-trusts
 ---
 

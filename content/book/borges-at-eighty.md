@@ -2,20 +2,42 @@
 title: "Borges at Eighty"
 draft: false
 date: 2013-06-26T16:20:00-04:00
-publication_date: 2013-06-26T16:20:00-04:00
+show_in_forthcoming: false
 subtitle: "Conversations"
-genre: nonfiction
+genre: Nonfiction
 subgenre:
-language: spanish
-author:
+language: Spanish
+authors:
   - contributor/jorge-luis-borges.md
-translator:
+translators:
   - contributor/willis-barnstone.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "A collection of interviews now available from New Directions for the first time "
 editions:
-  - 9780811221214
-  - 9780811223249
+  - binding: Paperback
+    isbn: 9780811221214
+    publication_date: 2013-06-26T16:20:00-04:00
+    cover_image_path: Borges_at_80.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 18.95
+    price_cn: 20.00
+    trim_size:
+    Page_count: 192
+  - binding: Ebook
+    isbn: 9780811223249
+    publication_date: 2013-06-26T16:20:00-04:00
+    cover_image_path: Borges_at_80.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: borges-at-eighty
 ---
 

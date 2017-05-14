@@ -7,7 +7,6 @@ description: "“A poetic comet streaked across American skies in the winter of 
 related_contributor:
   - contributor/dylan-thomas-d.md
 related_book:
-
 images:
   - image: "/webhook-uploads/1427488894800/Thomas.jpg"
     caption: ""
@@ -34,4 +33,3 @@ To find out about the Dylan Thomas celebrations that are taking place all over t
 ***
 
 In celebration of Thomas, we went digging through the New Directions editorial files and found these treasures:
-

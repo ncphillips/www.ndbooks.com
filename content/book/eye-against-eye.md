@@ -2,18 +2,30 @@
 title: "Eye Against Eye"
 draft: false
 date: 2005-09-01T05:00:08-04:00
-publication_date: 2005-09-01T05:00:08-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/forrest-gander.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "New Directions' third book by Forrest Gander, _among the most gifted and accomplished poets of his generation_ (Mark Rudman). "
 editions:
-  - 9780811216357
+  - binding: Paperback
+    isbn: 9780811216357
+    publication_date: 2005-09-01T05:00:08-04:00
+    cover_image_path: Eye_Against_Eye.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn: 21.00
+    trim_size: 6x9
+    Page_count: 96
 _slug: eye-against-eye
 ---
 

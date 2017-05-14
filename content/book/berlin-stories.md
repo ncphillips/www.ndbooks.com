@@ -2,19 +2,42 @@
 title: "The Berlin Stories"
 draft: false
 date: 2008-09-01T05:00:00-04:00
-publication_date: 2008-09-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/christopher-isherwood.md
-translator:
-editor:
+translators:
+editors:
+contributors:
+  - contributor/armistead-maupin.md
 featured_image_path:
+description: "A classic of 20th-century fiction, The Berlin Stories inspired the Broadway musical and Oscar-winning film Cabaret. "
 editions:
-  - 9780811218047
-  - 9780811220286
+  - binding: Paperback
+    isbn: 9780811218047
+    publication_date: 2008-09-01T05:00:00-04:00
+    cover_image_path: TheBerlin_Stories.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 17.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 432
+  - binding: Ebook
+    isbn: 9780811220286
+    publication_date: 2008-09-01T05:00:00-04:00
+    cover_image_path: TheBerlin_Stories.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 17.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: berlin-stories
 ---
 

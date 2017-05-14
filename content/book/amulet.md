@@ -2,21 +2,53 @@
 title: "Amulet"
 draft: false
 date: 2008-05-01T05:00:00-04:00
-publication_date: 2008-05-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: spanish
-author:
+language: Spanish
+authors:
   - contributor/roberto-bolano.md
-translator:
+translators:
   - contributor/chris-andrews.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "A tour de force, Amulet is a highly charged first-person, semi-hallucinatory novel that embodies in one woman's voice the melancholy and violent recent history of Latin America. "
 editions:
-  - 9780811217460
-  - 9780811216647
-  - 9780811220484
+  - binding: Paperback
+    isbn: 9780811217460
+    publication_date: 2008-05-01T05:00:00-04:00
+    cover_image_path: Amulet.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn: 17.00
+    trim_size: 5x8
+    Page_count: 192
+  - binding: Clothbound
+    isbn: 9780811216647
+    publication_date: 2008-05-01T05:00:00-04:00
+    cover_image_path: Amulet.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 21.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 192
+  - binding: Ebook
+    isbn: 9780811220484
+    publication_date: 2008-05-01T05:00:00-04:00
+    cover_image_path: Amulet.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn:
+    trim_size:
+    Page_count: 192
 _slug: amulet
 ---
 

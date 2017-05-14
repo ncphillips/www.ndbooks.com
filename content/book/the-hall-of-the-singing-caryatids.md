@@ -2,20 +2,42 @@
 title: "The Hall of the Singing Caryatids"
 draft: false
 date: 2011-10-27T14:28:00-04:00
-publication_date: 2011-10-27T14:28:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: russian
-author:
+language: Russian
+authors:
   - contributor/victor-pelevin.md
-translator:
+translators:
   - contributor/andrew-bromfield.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "Victor Pelevin’s Pearl debut is far-out, far-fetched, and fiendishly funny. "
 editions:
-  - 9780811219426
-  - 9780811219532
+  - binding: Paperback
+    isbn: 9780811219426
+    publication_date: 2011-10-27T14:28:00-04:00
+    cover_image_path: caryatids_cover.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 9.95
+    price_cn:
+    trim_size:
+    Page_count: 96
+  - binding: Ebook
+    isbn: 9780811219532
+    publication_date: 2011-10-27T14:28:00-04:00
+    cover_image_path: caryatids_cover.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 9.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: the-hall-of-the-singing-caryatids
 ---
 

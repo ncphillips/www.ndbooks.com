@@ -2,19 +2,31 @@
 title: "The War Works Hard"
 draft: false
 date: 2005-04-01T06:00:19-04:00
-publication_date: 2005-04-01T06:00:19-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/dunya-mikhail.md
-translator:
+translators:
   - contributor/elizabeth-winslow.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811216210
+  - binding: Paperback
+    isbn: 9780811216210
+    publication_date: 2005-04-01T06:00:19-04:00
+    cover_image_path: The_War_Works_Hard.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 13.95
+    price_cn:
+    trim_size: 6x9
+    Page_count: 96
 _slug: the-war-works-hard
 ---
 

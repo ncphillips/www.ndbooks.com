@@ -2,19 +2,41 @@
 title: "A Child’s Christmas in Wales"
 draft: false
 date: 2007-11-01T05:00:00-04:00
-publication_date: 2016-10-25T23:00:00-04:00
+show_in_forthcoming: true
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/dylan-thomas-d.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "The classic Christmas tale, with beautiful new illustrations "
 editions:
-  - 9780811226226
-  - 9780811224703
+  - binding: Paperback
+    isbn: 9780811226226
+    publication_date: 2016-10-25T23:00:00-04:00
+    cover_image_path: /uploads/dylan-thomas_childs_xmas.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 11.95
+    price_cn: 15.95
+    trim_size: 4 x 6
+    Page_count: 48
+  - binding: Ebook
+    isbn: 9780811224703
+    publication_date: 2016-10-25T23:00:00-04:00
+    cover_image_path:
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: a-childs-christmas-in-wales
 ---
 

@@ -2,19 +2,31 @@
 title: "Antipoems: How To Look Better & Feel Great"
 draft: false
 date: 2004-09-01T05:00:00-04:00
-publication_date: 2004-09-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/nicanor-parra.md
-translator:
+translators:
   - contributor/liz-werner.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "The first major collection in almost twenty years of new work by one of Latin America's greatest poets. "
 editions:
-  - 9780811215978
+  - binding: Paperback
+    isbn: 9780811215978
+    publication_date: 2004-09-01T05:00:00-04:00
+    cover_image_path: Antipoems_How_To_Look_Better__Feel_Great_.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn:
+    trim_size: 6x9
+    Page_count: 144
 _slug: antipoems-how-to-look-better-feel-great
 ---
 

@@ -2,18 +2,30 @@
 title: "Flower Wreath Hill"
 draft: false
 date: 1991-10-01T05:00:00-04:00
-publication_date: 1991-10-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
-language: chinese
-author:
+language: Chinese
+authors:
   - contributor/kenneth-rexroth.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811211789
+  - binding: Paperback
+    isbn: 9780811211789
+    publication_date: 1991-10-01T05:00:00-04:00
+    cover_image_path: Flower_Wreath_Hill.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: flower-wreath-hill
 ---
 

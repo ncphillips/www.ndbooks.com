@@ -2,20 +2,42 @@
 title: "Belladonna"
 draft: false
 date: 2017-03-10T19:37:00-04:00
-publication_date: 2017-09-26T04:00:00-04:00
+show_in_forthcoming: true
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/daša-drndić.md
-translator:
+translators:
   - contributor/celia-hawkesworth.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "From the author of the highly acclaimed _Trieste_, a fierce novel about history, memory, and illness "
 editions:
-  - 9780811227216
-  - 9780811227223
+  - binding: Paperback
+    isbn: 9780811227216
+    publication_date: 2017-09-26T04:00:00-04:00
+    cover_image_path: /uploads/Belladonna.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 19.95
+    price_cn: 25.95
+    trim_size: 5x8
+    Page_count: 400
+  - binding: Ebook
+    isbn: 9780811227223
+    publication_date: 2017-09-26T04:00:00-04:00
+    cover_image_path:
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: belladonna
 ---
 

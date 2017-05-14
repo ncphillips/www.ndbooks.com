@@ -2,19 +2,32 @@
 title: "Poems of Osip Mandelstam"
 draft: false
 date: 2014-06-25T14:22:00-04:00
-publication_date: 2014-06-25T14:22:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
-language: russian
-author:
+language: Russian
+authors:
   - contributor/osip-mandelstam.md
-translator:
+translators:
   - contributor/peter-france.md
-editor:
+editors:
+contributors:
+  - contributor/peter-france.md
 featured_image_path:
+description:
 editions:
-  - 9780811222907
+  - binding: Paperback
+    isbn: 9780811222907
+    publication_date: 2014-06-25T14:22:00-04:00
+    cover_image_path: web_mandelstam.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: poems-of-osip-mandelstam
 ---
 

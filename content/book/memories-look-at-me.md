@@ -2,21 +2,43 @@
 title: "Memories Look at Me"
 draft: false
 date: 2011-12-07T19:33:00-04:00
-publication_date: 2011-12-07T19:33:00-04:00
+show_in_forthcoming: false
 subtitle: "A Memoir"
-genre: nonfiction
+genre: Nonfiction
 subgenre:
-  - memoir
-language: swedish
-author:
+  - Memoir
+language: Swedish
+authors:
   - contributor/tomas-transtromer.md
-translator:
+translators:
   - contributor/robin-fulton.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "A touching memoir by the 2011 winner of the Nobel Prize in Literature "
 editions:
-  - 9780811220187
-  - 9780811220194
+  - binding: Paperback
+    isbn: 9780811220187
+    publication_date: 2011-12-07T19:33:00-04:00
+    cover_image_path: Memories_Look_at_Me.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 11.95
+    price_cn:
+    trim_size:
+    Page_count: 64
+  - binding: Ebook
+    isbn: 9780811220194
+    publication_date: 2011-12-07T19:33:00-04:00
+    cover_image_path: Memories_Look_at_Me.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 11.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: memories-look-at-me
 ---
 

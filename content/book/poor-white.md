@@ -2,18 +2,30 @@
 title: "Poor White"
 draft: false
 date: 1993-05-01T05:00:04-04:00
-publication_date: 1993-05-01T05:00:04-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/sherwood-anderson.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811212427
+  - binding: Paperback
+    isbn: 9780811212427
+    publication_date: 1993-05-01T05:00:04-04:00
+    cover_image_path: Poor_White.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 19.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: poor-white
 ---
 

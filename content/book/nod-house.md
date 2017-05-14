@@ -2,18 +2,30 @@
 title: "Nod House"
 draft: false
 date: 2011-11-21T16:52:00-04:00
-publication_date: 2011-11-21T16:52:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
-language: portuguese
-author:
+language: Portuguese
+authors:
   - contributor/nathaniel-mackey.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "A new collection by the winner of the 2006 National Book Award in poetry. "
 editions:
-  - 9780811219464
+  - binding: Paperback
+    isbn: 9780811219464
+    publication_date: 2011-11-21T16:52:00-04:00
+    cover_image_path: Nod_House.JPG
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn: 18.50
+    trim_size:
+    Page_count: 160
 _slug: nod-house
 ---
 

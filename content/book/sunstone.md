@@ -2,21 +2,43 @@
 title: "Sunstone"
 draft: false
 date: 1991-10-01T05:00:00-04:00
-publication_date: 1991-10-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/octavio-paz.md
-translator:
+translators:
   - contributor/eliot-weinberger.md
-editor:
+editors:
   - contributor/eliot-weinberger.md
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811211956
-  - 9780811211970
+  - binding: Paperback
+    isbn: 9780811211956
+    publication_date: 1991-10-01T05:00:00-04:00
+    cover_image_path: Sunstone.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 11.95
+    price_cn:
+    trim_size:
+    Page_count: 60
+  - binding: Clothbound
+    isbn: 9780811211970
+    publication_date: 1991-10-01T05:00:00-04:00
+    cover_image_path: Sunstone.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count: 60
 _slug: sunstone
 ---
 

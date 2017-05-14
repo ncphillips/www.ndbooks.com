@@ -2,18 +2,30 @@
 title: "Collected Early Poems of Ezra Pound"
 draft: false
 date: 1982-11-01T06:00:00-04:00
-publication_date: 1982-11-01T06:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/ezra-pound.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811208437
+  - binding: Paperback
+    isbn: 9780811208437
+    publication_date: 1982-11-01T06:00:00-04:00
+    cover_image_path: Collected_Early_Poems_Of_Ezra_Pound_.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 24.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: collected-early-poems
 ---
 

@@ -2,20 +2,42 @@
 title: "Kornél Esti"
 draft: false
 date: 2010-01-01T06:00:00-04:00
-publication_date: 2010-01-01T06:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: hungarian
-author:
+language: Hungarian
+authors:
   - contributor/dezs-kosztolanyi.md
-translator:
+translators:
   - contributor/bernard-adams.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "A great masterpiece never before available in English, _Kornél Esti_ is the wild final book by a Hungarian genius. "
 editions:
-  - 9780811218436
-  - 9780811219587
+  - binding: Paperback
+    isbn: 9780811218436
+    publication_date: 2010-01-01T06:00:00-04:00
+    cover_image_path: Kornel_Esti_w.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 288
+  - binding: Ebook
+    isbn: 9780811219587
+    publication_date: 2010-01-01T06:00:00-04:00
+    cover_image_path: Kornel_Esti_w.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn:
+    trim_size:
+    Page_count: 288
 _slug: kornel-esti
 ---
 

@@ -2,19 +2,32 @@
 title: "Pilate’s Wife"
 draft: false
 date: 2000-07-01T05:00:39-04:00
-publication_date: 2000-07-01T05:00:39-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/hilda-doolittle-h.-d.md
-translator:
+translators:
   - contributor/joan-burke.md
-editor:
+editors:
+contributors:
+  - contributor/hilda-doolittle-h.-d.md
 featured_image_path:
+description:
 editions:
-  - 9780811214339
+  - binding: Paperback
+    isbn: 9780811214339
+    publication_date: 2000-07-01T05:00:39-04:00
+    cover_image_path: Pilates_Wife_2.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 12.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 160
 _slug: pilates-wife
 ---
 

@@ -2,20 +2,52 @@
 title: "Lightning Rods"
 draft: false
 date: 2012-10-05T14:28:00-04:00
-publication_date: 2012-10-05T14:28:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/helen-dewitt.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "The long-awaited second novel by the author of _The Last Samurai_. "
 editions:
-  - 9780811220347
-  - 9780811219433
-  - 9780811219525
+  - binding: Paperback
+    isbn: 9780811220347
+    publication_date: 2012-10-05T14:28:00-04:00
+    cover_image_path: Lightning_Rods_PB.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn: 16.00
+    trim_size:
+    Page_count: 280
+  - binding: Clothbound
+    isbn: 9780811219433
+    publication_date: 2012-10-05T14:28:00-04:00
+    cover_image_path: Lightning_Rods_PB.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 24.95
+    price_cn:
+    trim_size:
+    Page_count: 280
+  - binding: Ebook
+    isbn: 9780811219525
+    publication_date: 2012-10-05T14:28:00-04:00
+    cover_image_path: Lightning_Rods_PB.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 24.95
+    price_cn:
+    trim_size:
+    Page_count: 280
 _slug: lightning-rods
 ---
 

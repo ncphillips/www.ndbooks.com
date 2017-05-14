@@ -2,20 +2,42 @@
 title: "Never Any End to Paris"
 draft: false
 date: 2011-05-24T14:28:00-04:00
-publication_date: 2011-05-24T14:28:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: spanish
-author:
+language: Spanish
+authors:
   - contributor/enrique-vila-matas.md
-translator:
+translators:
   - contributor/anne-mclean.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811218139
-  - 9780811220163
+  - binding: Paperback
+    isbn: 9780811218139
+    publication_date: 2011-05-24T14:28:00-04:00
+    cover_image_path: neveranyendtoparis.JPG
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn: 19.00
+    trim_size:
+    Page_count: 208
+  - binding: Ebook
+    isbn: 9780811220163
+    publication_date: 2011-05-24T14:28:00-04:00
+    cover_image_path: neveranyendtoparis.JPG
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: never-any-end-to-paris
 ---
 

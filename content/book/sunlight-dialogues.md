@@ -2,18 +2,30 @@
 title: "The Sunlight Dialogues"
 draft: false
 date: 2007-11-01T05:00:51-04:00
-publication_date: 2007-11-01T05:00:51-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/john-gardner.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "Madman. Prophet. Magician. Hippie. Murderer. Who is the Sunlight Man? "
 editions:
-  - 9780811216708
+  - binding: Paperback
+    isbn: 9780811216708
+    publication_date: 2007-11-01T05:00:51-04:00
+    cover_image_path: The_Sunlight_Dialogues_.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 17.95
+    price_cn: 23.00
+    trim_size: 5x8
+    Page_count: 736
 _slug: sunlight-dialogues
 ---
 

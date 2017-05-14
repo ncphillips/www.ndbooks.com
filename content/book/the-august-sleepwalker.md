@@ -2,19 +2,41 @@
 title: "The August Sleepwalker"
 draft: false
 date: 1990-04-01T06:00:54-04:00
-publication_date: 1990-04-01T06:00:54-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/bei-dao.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811211321
-  - 9780811211314
+  - binding: Paperback
+    isbn: 9780811211321
+    publication_date: 1990-04-01T06:00:54-04:00
+    cover_image_path: The_August_Sleepwalker.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 13.95
+    price_cn: 16.00
+    trim_size:
+    Page_count:
+  - binding: Clothbound
+    isbn: 9780811211314
+    publication_date: 1990-04-01T06:00:54-04:00
+    cover_image_path: The_August_Sleepwalker.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count: 144
 _slug: the-august-sleepwalker
 ---
 

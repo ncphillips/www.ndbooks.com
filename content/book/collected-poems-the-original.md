@@ -2,19 +2,41 @@
 title: "Collected Poems of Dylan Thomas: The Original"
 draft: false
 date: 2010-04-01T05:00:00-04:00
-publication_date: 2010-04-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/dylan-thomas-d.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "The original and classic _Collected Poems of Dylan Thomas_ is available once again, now with a brilliant new preface by Paul Muldoon. "
 editions:
-  - 9780811218818
-  - 9780811223089
+  - binding: Paperback
+    isbn: 9780811218818
+    publication_date: 2010-04-01T05:00:00-04:00
+    cover_image_path: collected_poems.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn: 19.00
+    trim_size: 5x8
+    Page_count: 240
+  - binding: Ebook
+    isbn: 9780811223089
+    publication_date: 2010-04-01T05:00:00-04:00
+    cover_image_path: collected_poems.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count: 240
 _slug: collected-poems-the-original
 ---
 

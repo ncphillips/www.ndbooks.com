@@ -2,20 +2,42 @@
 title: "Strangers"
 draft: false
 date: 2003-06-01T05:00:56-04:00
-publication_date: 2003-06-01T05:00:56-04:00
+show_in_forthcoming: false
 subtitle:
-genre: nonfiction
+genre: Nonfiction
 subgenre:
-  - memoir
+  - Memoir
 language:
-author:
+authors:
   - contributor/emma-tennant.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "A delightful and elegant literary memoir about the Scottish novelist's eccentric family. "
 editions:
-  - 9780811215305
-  - 9780811214094
+  - binding: Paperback
+    isbn: 9780811215305
+    publication_date: 2003-06-01T05:00:56-04:00
+    cover_image_path: Strangers.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 192
+  - binding: Clothbound
+    isbn: 9780811214094
+    publication_date: 2003-06-01T05:00:56-04:00
+    cover_image_path: Strangers.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size: 5x8
+    Page_count: 192
 _slug: strangers
 ---
 

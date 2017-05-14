@@ -2,19 +2,31 @@
 title: "Tres"
 draft: false
 date: 2011-09-30T14:28:00-04:00
-publication_date: 2011-09-30T14:28:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/roberto-bolano.md
-translator:
+translators:
   - contributor/laura-healy.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "“Poetry is braver than anyone,” Roberto Bolaño believed, and the proof is here in Tres, his most inventive and bracing poetry collection. "
 editions:
-  - 9780811219273
+  - binding: Clothbound
+    isbn: 9780811219273
+    publication_date: 2011-09-30T14:28:00-04:00
+    cover_image_path: tres_cover.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 24.95
+    price_cn:
+    trim_size:
+    Page_count: 178
 _slug: tres
 ---
 

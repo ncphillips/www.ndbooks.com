@@ -2,19 +2,41 @@
 title: "That This"
 draft: false
 date: 2010-12-31T14:28:00-04:00
-publication_date: 2010-12-31T14:28:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
-language: portuguese
-author:
+language: Portuguese
+authors:
   - contributor/susan-howe.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "Susan Howe's newest book of poetry is a revelation as well as a mystery. "
 editions:
-  - 9780811219181
-  - 9780811223775
+  - binding: Paperback
+    isbn: 9780811219181
+    publication_date: 2010-12-31T14:28:00-04:00
+    cover_image_path: thatthis.JPG
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn: 20.00
+    trim_size:
+    Page_count: 112
+  - binding: Ebook
+    isbn: 9780811223775
+    publication_date: 2010-12-31T14:28:00-04:00
+    cover_image_path: thatthis.JPG
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count: 112
 _slug: that-this
 ---
 

@@ -2,20 +2,42 @@
 title: "By Night in Chile"
 draft: false
 date: 2003-12-01T06:00:00-04:00
-publication_date: 2003-12-01T06:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: spanish
-author:
+language: Spanish
+authors:
   - contributor/roberto-bolano.md
-translator:
+translators:
   - contributor/chris-andrews.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "A hypnotic deathbed confession revolving around Opus Dei, crazed schemes, poetry, and Pinochet, _By Night in Chile_ pours out the self-justifying dark memories of Father Urrutia, a half-hearted Chilean priest. "
 editions:
-  - 9780811215473
-  - 9780811220514
+  - binding: Paperback
+    isbn: 9780811215473
+    publication_date: 2003-12-01T06:00:00-04:00
+    cover_image_path: /uploads/BolanoChileCover%20copy.tiff
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 13.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 128
+  - binding: Ebook
+    isbn: 9780811220514
+    publication_date: 2003-12-01T06:00:00-04:00
+    cover_image_path: By_Night_in_Chile_1.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 13.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: by-night-in-chile
 ---
 

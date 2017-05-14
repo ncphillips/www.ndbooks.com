@@ -2,18 +2,30 @@
 title: "Complete Poems Of Li Ch'ing-Chao"
 draft: false
 date: 1980-01-01T06:00:00-04:00
-publication_date: 1980-01-01T06:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
-language: chinese
-author:
+language: Chinese
+authors:
   - contributor/li-ching-chao1.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811207454
+  - binding: Paperback
+    isbn: 9780811207454
+    publication_date: 1980-01-01T06:00:00-04:00
+    cover_image_path: Complete_Poems._Li_Ching-chao_.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 10.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: complete-poems-of-li-ching-chao
 ---
 

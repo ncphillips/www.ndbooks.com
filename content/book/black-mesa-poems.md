@@ -2,19 +2,41 @@
 title: "Black Mesa Poems"
 draft: false
 date: 1989-11-01T06:00:00-04:00
-publication_date: 1989-11-01T06:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/jimmy-baca.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811211024
-  - 9780811223300
+  - binding: Paperback
+    isbn: 9780811211024
+    publication_date: 1989-11-01T06:00:00-04:00
+    cover_image_path: Black_Mesa_Poems.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 11.95
+    price_cn:
+    trim_size:
+    Page_count:
+  - binding: Ebook
+    isbn: 9780811223300
+    publication_date: 1989-11-01T06:00:00-04:00
+    cover_image_path: Black_Mesa_Poems.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count: 144
 _slug: black-mesa-poems
 ---
 

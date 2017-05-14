@@ -2,18 +2,30 @@
 title: "Selected Poems of George Oppen"
 draft: false
 date: 2003-09-01T05:00:23-04:00
-publication_date: 2003-09-01T05:00:23-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/george-oppen.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "A selection of innovative poems by the groundbreaking Pulitzer Prize winner. "
 editions:
-  - 9780811215572
+  - binding: Paperback
+    isbn: 9780811215572
+    publication_date: 2003-09-01T05:00:23-04:00
+    cover_image_path: Selected_Poems._George_Oppen_.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 192
 _slug: selected-poems42
 ---
 

@@ -2,18 +2,30 @@
 title: "From Your Capricorn Friend"
 draft: false
 date: 1984-04-01T06:00:40-04:00
-publication_date: 1984-04-01T06:00:40-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/henry-miller.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811208918
+  - binding: Paperback
+    isbn: 9780811208918
+    publication_date: 1984-04-01T06:00:40-04:00
+    cover_image_path: From_Your_Capricorn_Friend.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 8.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: from-your-capricorn-friend
 ---
 

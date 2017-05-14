@@ -2,19 +2,41 @@
 title: "Frame Structures"
 draft: false
 date: 1996-06-01T04:59:00-04:00
-publication_date: 1996-06-01T04:59:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/susan-howe.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811213226
-  - 9780811223768
+  - binding: Paperback
+    isbn: 9780811213226
+    publication_date: 1996-06-01T04:59:00-04:00
+    cover_image_path: Frame_Structures.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 13.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 128
+  - binding: Ebook
+    isbn: 9780811223768
+    publication_date: 1996-06-01T04:59:00-04:00
+    cover_image_path: Frame_Structures.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count: 128
 _slug: frame-structures
 ---
 

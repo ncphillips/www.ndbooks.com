@@ -2,19 +2,31 @@
 title: "Blue Light in the Sky"
 draft: false
 date: 2006-06-01T05:00:00-04:00
-publication_date: 2006-06-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-  - stories
-language: chinese
-author:
+  - Stories
+language: Chinese
+authors:
   - contributor/can-xue.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "A selection of harsh, sometimes violent, and often surreal stories by the premier young avant-garde Chinese woman writer. "
 editions:
-  - 9780811216487
+  - binding: Paperback
+    isbn: 9780811216487
+    publication_date: 2006-06-01T05:00:00-04:00
+    cover_image_path: Blue_Light_In_The_Sky.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn: 20.00
+    trim_size: 5x8
+    Page_count: 192
 _slug: blue-light-in-the-sky
 ---
 

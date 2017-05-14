@@ -2,19 +2,41 @@
 title: "Soulstorm"
 draft: false
 date: 1989-06-01T05:00:00-04:00
-publication_date: 1989-06-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
-language: portugese
-author:
+language: Portugese
+authors:
   - contributor/clarice-lispector.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811210911
-  - 9780811210904
+  - binding: Paperback
+    isbn: 9780811210911
+    publication_date: 1989-06-01T05:00:00-04:00
+    cover_image_path: Soulstorm.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn:
+    trim_size:
+    Page_count: 176
+  - binding: Clothbound
+    isbn: 9780811210904
+    publication_date: 1989-06-01T05:00:00-04:00
+    cover_image_path: Soulstorm.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: soulstorm
 ---
 

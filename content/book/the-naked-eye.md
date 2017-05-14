@@ -2,20 +2,42 @@
 title: "The Naked Eye"
 draft: false
 date: 2009-05-01T05:00:00-04:00
-publication_date: 2009-05-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: german
-author:
+language: German
+authors:
   - contributor/yoko-tawada.md
-translator:
+translators:
   - contributor/susan-bernofsky.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "Yoko Tawada's first novel in English: a suspenseful tale of abduction, obsession, and lost identity that spans Vietnam, East Berlin, West German, Paris – and fantasies of Catherine Deneuve. "
 editions:
-  - 9780811217392
-  - 9780811223508
+  - binding: Paperback
+    isbn: 9780811217392
+    publication_date: 2009-05-01T05:00:00-04:00
+    cover_image_path: The_Naked_Eye.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 13.95
+    price_cn: 18.00
+    trim_size: 5x7
+    Page_count: 256
+  - binding: Ebook
+    isbn: 9780811223508
+    publication_date: 2009-05-01T05:00:00-04:00
+    cover_image_path: The_Naked_Eye.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count: 256
 _slug: the-naked-eye
 ---
 

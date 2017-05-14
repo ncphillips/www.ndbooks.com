@@ -2,18 +2,30 @@
 title: "The Helens of Troy, New York"
 draft: false
 date: 2013-03-26T20:11:00-04:00
-publication_date: 2013-03-26T20:11:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/bernadette-mayer.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "An ambitious, playful look at identity, myth, and history "
 editions:
-  - 9780811220422
+  - binding: Paperback
+    isbn: 9780811220422
+    publication_date: 2013-03-26T20:11:00-04:00
+    cover_image_path: Helens_of_Troy_NY.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 10.95
+    price_cn: 11.99
+    trim_size:
+    Page_count: 48
 _slug: the-helens-of-troy-new-york
 ---
 

@@ -2,19 +2,41 @@
 title: "Moise and the World of Reason"
 draft: false
 date: 2015-10-21T19:31:00-04:00
-publication_date: 2016-07-12T23:00:00-04:00
+show_in_forthcoming: true
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/tennessee-williams.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "What’s not to like about Tennessee Williams’s most forthright work about homosexual love, with its gay figure skaters, runaways, and sex? "
 editions:
-  - 9780811225618
-  - 9780811225625
+  - binding: Paperback
+    isbn: 9780811225618
+    publication_date: 2016-07-12T23:00:00-04:00
+    cover_image_path: /uploads/moise%20cover.tiff
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn: 19.50
+    trim_size: 5 x 8"
+    Page_count: 224
+  - binding: Ebook
+    isbn: 9780811225625
+    publication_date: 2016-07-12T23:00:00-04:00
+    cover_image_path:
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: moise-and-the-world-of-reason
 ---
 

@@ -2,19 +2,31 @@
 title: "A Barbarian in Asia"
 draft: false
 date: 1986-09-01T05:00:00-04:00
-publication_date: 2016-05-31T04:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: french
-author:
+language: French
+authors:
   - contributor/henri-michaux.md
-translator:
+translators:
   - contributor/sylvia-beach.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "A wild journey to the East narrated by a writer who is _without equal in the literature of our time_ (Jorge Luis Borges) "
 editions:
-  - 9780811222136
+  - binding: Paperback
+    isbn: 9780811222136
+    publication_date: 2016-05-31T04:00:00-04:00
+    cover_image_path: /uploads/A%20BARBARIAN%20IN%20ASIA.tif
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn: 20.95
+    trim_size:
+    Page_count:
 _slug: a-barbarian-in-asia
 ---
 

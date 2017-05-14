@@ -2,20 +2,42 @@
 title: "The Ego Is Always At The Wheel"
 draft: false
 date: 1986-04-01T06:00:07-04:00
-publication_date: 1986-04-01T06:00:07-04:00
+show_in_forthcoming: false
 subtitle:
-genre: nonfiction
+genre: Nonfiction
 subgenre:
-  - essay
+  - Essay
 language:
-author:
+authors:
   - contributor/delmore-schwartz.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811210287
-  - 9780811209830
+  - binding: Paperback
+    isbn: 9780811210287
+    publication_date: 1986-04-01T06:00:07-04:00
+    cover_image_path: The_Ego_Is_Always_At_The_Wheel.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 8.95
+    price_cn:
+    trim_size:
+    Page_count:
+  - binding: Clothbound
+    isbn: 9780811209830
+    publication_date: 1986-04-01T06:00:07-04:00
+    cover_image_path: The_Ego_Is_Always_At_The_Wheel.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count: 160
 _slug: the-ego-is-always-at-the-wheel
 ---
 

@@ -2,22 +2,54 @@
 title: "While the Women Are Sleeping"
 draft: false
 date: 2012-11-29T05:00:00-04:00
-publication_date: 2012-11-29T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-  - stories
-language: spanish
-author:
+  - Stories
+language: Spanish
+authors:
   - contributor/javier-marias.md
-translator:
+translators:
   - contributor/margaret-jull-costa.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "A dozen unforgettable stories by _one of the most original writers at work today_ (Wyatt Mason, The New York Times Book Review). "
 editions:
-  - 9780811219143
-  - 9780811216630
-  - 9780811219358
+  - binding: Paperback
+    isbn: 9780811219143
+    publication_date: 2012-11-29T05:00:00-04:00
+    cover_image_path: whilethewomenaresleeping.JPG
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn: 16.00
+    trim_size: 5x8
+    Page_count: 138
+  - binding: Clothbound
+    isbn: 9780811216630
+    publication_date: 2012-11-29T05:00:00-04:00
+    cover_image_path: whilethewomenaresleeping.JPG
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 21.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 176
+  - binding: Ebook
+    isbn: 9780811219358
+    publication_date: 2012-11-29T05:00:00-04:00
+    cover_image_path: whilethewomenaresleeping.JPG
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn:
+    trim_size:
+    Page_count: 176
 _slug: while-the-women-are-sleeping
 ---
 

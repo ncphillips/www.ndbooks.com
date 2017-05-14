@@ -2,19 +2,31 @@
 title: "Devils in Daylight"
 draft: false
 date: 2016-07-11T14:56:00-04:00
-publication_date: 2017-04-25T23:00:00-04:00
+show_in_forthcoming: true
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: japanese
-author:
+language: Japanese
+authors:
   - contributor/junichiro-tanizaki.md
-translator:
+translators:
   - contributor/j-keith-vincent.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "A suspenseful early novella about obsession, voyeurism, and Tokyo's seedy criminal underworld "
 editions:
-  - 9780811224918
+  - binding: Clothbound
+    isbn: 9780811224918
+    publication_date: 2017-04-25T23:00:00-04:00
+    cover_image_path: /uploads/tanizaki_devils_in_daylight_jacket.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 17.95
+    price_cn: 23.95
+    trim_size: 5 x 8
+    Page_count: 96
 _slug: devils-in-daylight
 ---
 

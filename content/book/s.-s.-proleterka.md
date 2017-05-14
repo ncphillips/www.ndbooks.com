@@ -2,19 +2,31 @@
 title: "S. S. Proleterka"
 draft: false
 date: 2003-11-01T06:00:49-04:00
-publication_date: 2003-11-01T06:00:49-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/fleur-jaeggy.md
-translator:
+translators:
   - contributor/alastair-mcewen.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "Compressed, delicate, but brutally precise, SS Proleterka is a fierce coming-of-age story. "
 editions:
-  - 9780811215503
+  - binding: Paperback
+    isbn: 9780811215503
+    publication_date: 2003-11-01T06:00:49-04:00
+    cover_image_path: S._S._Proleterka.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 17.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 144
 _slug: s.-s.-proleterka
 ---
 

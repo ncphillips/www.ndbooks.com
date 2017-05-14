@@ -2,21 +2,44 @@
 title: "Unrecounted"
 draft: false
 date: 1991-10-01T05:00:00-04:00
-publication_date: 1991-10-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/W._G._Sebald.md
+
   - contributor/jan-peter-tripp.md
-translator:
+translators:
   - contributor/michael-hamburger.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "A keepsake of one of the greatest writers of our time, Unrecounted comes as an unexpected gift to all the readers who loved W.G. Sebald. "
 editions:
-  - 9780811217262
-  - 9780811215961
+  - binding: Paperback
+    isbn: 9780811217262
+    publication_date: 1991-10-01T05:00:00-04:00
+    cover_image_path: Unrecounted.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn:
+    trim_size: 6x9
+    Page_count: 80
+  - binding: Clothbound
+    isbn: 9780811215961
+    publication_date: 1991-10-01T05:00:00-04:00
+    cover_image_path: Unrecounted.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 22.95
+    price_cn:
+    trim_size: 6x9
+    Page_count: 80
 _slug: unrecounted
 ---
 

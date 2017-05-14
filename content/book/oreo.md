@@ -2,19 +2,44 @@
 title: "Oreo"
 draft: false
 date: 2014-12-31T15:00:00-04:00
-publication_date: 2015-07-07T14:00:00-04:00
+show_in_forthcoming: true
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/fran-ross.md
-translator:
-editor:
+translators:
+editors:
+contributors:
+  - contributor/danzy-senna.md
+
+  - contributor/harryette-mullen.md
 featured_image_path:
+description: "A pioneering, dazzling satire about a biracial black girl from Philadelphia searching for her Jewish father in New York City "
 editions:
-  - 9780811223225
-  - 9780811223232
+  - binding: Paperback
+    isbn: 9780811223225
+    publication_date: 2015-07-07T14:00:00-04:00
+    cover_image_path: /uploads/ross.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn: 16.95
+    trim_size:
+    Page_count: 240
+  - binding: Ebook
+    isbn: 9780811223232
+    publication_date: 2015-07-07T14:00:00-04:00
+    cover_image_path:
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: oreo
 ---
 

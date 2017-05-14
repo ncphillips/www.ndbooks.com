@@ -2,20 +2,52 @@
 title: "Sands of the Well"
 draft: false
 date: 1998-02-01T06:00:00-04:00
-publication_date: 1998-02-01T06:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/denise-levertov.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811213615
-  - 9780811213165
-  - 9780811221887
+  - binding: Paperback
+    isbn: 9780811213615
+    publication_date: 1998-02-01T06:00:00-04:00
+    cover_image_path: Sands_Of_The_Well.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 9.95
+    price_cn:
+    trim_size:
+    Page_count: 144
+  - binding: Clothbound
+    isbn: 9780811213165
+    publication_date: 1998-02-01T06:00:00-04:00
+    cover_image_path: Sands_Of_The_Well.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count: 144
+  - binding: Ebook
+    isbn: 9780811221887
+    publication_date: 1998-02-01T06:00:00-04:00
+    cover_image_path: Sands_Of_The_Well.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 9.95
+    price_cn:
+    trim_size:
+    Page_count: 144
 _slug: sands-of-the-well
 ---
 

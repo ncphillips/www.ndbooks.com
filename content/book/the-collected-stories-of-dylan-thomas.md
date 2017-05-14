@@ -2,20 +2,42 @@
 title: "The Collected Stories of Dylan Thomas"
 draft: false
 date: 1986-10-01T05:00:00-04:00
-publication_date: 1986-10-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-  - stories
+  - Stories
 language:
-author:
+authors:
   - contributor/dylan-thomas-d.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811209984
-  - 9780811220453
+  - binding: Paperback
+    isbn: 9780811209984
+    publication_date: 1986-10-01T05:00:00-04:00
+    cover_image_path: The_Collected_Stories_Of_Dylan_Thomas.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn:
+    trim_size:
+    Page_count: 384
+  - binding: Ebook
+    isbn: 9780811220453
+    publication_date: 1986-10-01T05:00:00-04:00
+    cover_image_path: The_Collected_Stories_Of_Dylan_Thomas.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: the-collected-stories-of-dylan-thomas
 ---
 

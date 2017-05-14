@@ -2,19 +2,31 @@
 title: "The Armies"
 draft: false
 date: 2009-09-01T05:00:00-04:00
-publication_date: 2009-09-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: spanish
-author:
+language: Spanish
+authors:
   - contributor/evelio-rosero.md
-translator:
+translators:
   - contributor/anne-mclean.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811218641
+  - binding: Paperback
+    isbn: 9780811218641
+    publication_date: 2009-09-01T05:00:00-04:00
+    cover_image_path: The_Armies.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn:
+    trim_size: 5x7
+    Page_count: 208
 _slug: the-armies
 ---
 

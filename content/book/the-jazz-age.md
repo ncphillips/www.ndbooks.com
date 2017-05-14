@@ -2,19 +2,31 @@
 title: "The Jazz Age"
 draft: false
 date: 1996-09-01T05:00:29-04:00
-publication_date: 1996-09-01T05:00:29-04:00
+show_in_forthcoming: false
 subtitle:
-genre: nonfiction
+genre: Nonfiction
 subgenre:
-  - essay
+  - Essay
 language:
-author:
+authors:
   - contributor/f-scott-fitzgerald.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811213332
+  - binding: Paperback
+    isbn: 9780811213332
+    publication_date: 1996-09-01T05:00:29-04:00
+    cover_image_path: The_Jazz_Age.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 8.00
+    price_cn:
+    trim_size: 5x7
+    Page_count:
 _slug: the-jazz-age
 ---
 

@@ -2,20 +2,42 @@
 title: "Voltaire"
 draft: false
 date: 1981-06-01T05:00:56-04:00
-publication_date: 1981-06-01T05:00:56-04:00
+show_in_forthcoming: false
 subtitle:
-genre: nonfiction
+genre: Nonfiction
 subgenre:
-  - study
+  - Study
 language:
-author:
+authors:
   - contributor/wayne-andrews.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811208024
-  - 9780811208000
+  - binding: Paperback
+    isbn: 9780811208024
+    publication_date: 1981-06-01T05:00:56-04:00
+    cover_image_path: Voltaire.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn:
+    trim_size:
+    Page_count:
+  - binding: Clothbound
+    isbn: 9780811208000
+    publication_date: 1981-06-01T05:00:56-04:00
+    cover_image_path: Voltaire.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: voltaire
 ---
 

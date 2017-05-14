@@ -2,19 +2,31 @@
 title: "Patriotism"
 draft: false
 date: 2010-02-01T06:00:00-04:00
-publication_date: 2010-02-01T06:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: japanese
-author:
+language: Japanese
+authors:
   - contributor/yukio-mishima.md
-translator:
+translators:
   - contributor/geoffrey-w.-sargent.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "One of the most powerful short stories ever written: Yukio Mishima’s masterpiece about the erotics of patriotism and honor, love and suicide "
 editions:
-  - 9780811218542
+  - binding: Paperback
+    isbn: 9780811218542
+    publication_date: 2010-02-01T06:00:00-04:00
+    cover_image_path: Patriotism_w.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 9.95
+    price_cn: 13.00
+    trim_size: 4.5x7
+    Page_count: 70
 _slug: patriotism
 ---
 

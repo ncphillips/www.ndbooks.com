@@ -2,19 +2,41 @@
 title: "Cronopios and Famas"
 draft: false
 date: 1999-04-01T06:00:00-04:00
-publication_date: 1999-04-01T06:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: spanish
-author:
+language: Spanish
+authors:
   - contributor/julio-cortazar.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811214025
-  - 9780811221467
+  - binding: Paperback
+    isbn: 9780811214025
+    publication_date: 1999-04-01T06:00:00-04:00
+    cover_image_path: Cronopios_And_Famas.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn:
+    trim_size:
+    Page_count: 162
+  - binding: Ebook
+    isbn: 9780811221467
+    publication_date: 1999-04-01T06:00:00-04:00
+    cover_image_path: Cronopios_And_Famas.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 9.99
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: cronopios-and-famas
 ---
 

@@ -2,20 +2,32 @@
 title: "The Informed Air"
 draft: false
 date: 2014-04-29T16:21:00-04:00
-publication_date: 2014-04-29T16:21:00-04:00
+show_in_forthcoming: false
 subtitle: "Essays"
-genre: nonfiction
+genre: Nonfiction
 subgenre:
-  - essay
+  - Essay
 language:
-author:
+authors:
   - contributor/muriel-spark.md
-translator:
-editor:
+translators:
+editors:
   - contributor/penelope-jardin.md
+contributors:
 featured_image_path:
+description: "Together for the first time in one sparkling, delicious volume, here are the greatest essays of Muriel Spark "
 editions:
-  - 9780811221597
+  - binding: Clothbound
+    isbn: 9780811221597
+    publication_date: 2014-04-29T16:21:00-04:00
+    cover_image_path: Informed_Air.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 24.95
+    price_cn: 26.50
+    trim_size:
+    Page_count: 352
 _slug: the-informed-air
 ---
 

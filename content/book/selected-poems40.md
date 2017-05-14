@@ -2,18 +2,30 @@
 title: "Selected Poems of C.H. Sisson"
 draft: false
 date: 1996-06-01T05:00:39-04:00
-publication_date: 1996-06-01T05:00:39-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/c.-sisson.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811213271
+  - binding: Paperback
+    isbn: 9780811213271
+    publication_date: 1996-06-01T05:00:39-04:00
+    cover_image_path: Selected_Poems._C._H._Sisson_.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 9.95
+    price_cn:
+    trim_size:
+    Page_count: 96
 _slug: selected-poems40
 ---
 

@@ -2,18 +2,30 @@
 title: "Blindsight"
 draft: false
 date: 2003-11-01T06:00:04-04:00
-publication_date: 2003-11-01T06:00:04-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/rosmarie-waldrop.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "A book of prose poems by one of America's premier philosophical poets. "
 editions:
-  - 9780811215596
+  - binding: Paperback
+    isbn: 9780811215596
+    publication_date: 2003-11-01T06:00:04-04:00
+    cover_image_path: Blindsight.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn:
+    trim_size: 5X8
+    Page_count: 128
 _slug: blindsight
 ---
 

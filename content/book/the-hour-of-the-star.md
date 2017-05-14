@@ -2,20 +2,43 @@
 title: "The Hour of the Star"
 draft: false
 date: 2011-11-09T14:28:00-04:00
-publication_date: 2011-11-09T14:28:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: portugese
-author:
+language: Portugese
+authors:
   - contributor/clarice-lispector.md
-translator:
+translators:
   - contributor/benjamin-moser.md
-editor:
+editors:
+contributors:
+  - contributor/colm-toibin.md
 featured_image_path:
+description: "A new edition of Clarice Lispector’s final masterpiece, now with a new translation by Benjamin Moser and a vivid introduction by Colm Tóibín. "
 editions:
-  - 9780811219495
-  - 9780811219600
+  - binding: Paperback
+    isbn: 9780811219495
+    publication_date: 2011-11-09T14:28:00-04:00
+    cover_image_path: hour_of_the_star_cover.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 12.95
+    price_cn:
+    trim_size:
+    Page_count: 96
+  - binding: Ebook
+    isbn: 9780811219600
+    publication_date: 2011-11-09T14:28:00-04:00
+    cover_image_path: hour_of_the_star_cover.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 12.95
+    price_cn:
+    trim_size:
+    Page_count: 96
 _slug: the-hour-of-the-star
 ---
 

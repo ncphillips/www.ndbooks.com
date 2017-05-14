@@ -2,20 +2,42 @@
 title: "The Blue Flowers"
 draft: false
 date: 1985-04-01T06:00:00-04:00
-publication_date: 1985-04-01T06:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/raymond-queneau.md
-translator:
+translators:
   - contributor/barbara-wright.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811209458
-  - 9780811220859
+  - binding: Paperback
+    isbn: 9780811209458
+    publication_date: 1985-04-01T06:00:00-04:00
+    cover_image_path: The_Blue_Flowers.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn:
+    trim_size:
+    Page_count: 232
+  - binding: Ebook
+    isbn: 9780811220859
+    publication_date: 1985-04-01T06:00:00-04:00
+    cover_image_path: The_Blue_Flowers.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: the-blue-flowers
 ---
 

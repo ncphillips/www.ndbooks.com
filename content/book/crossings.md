@@ -2,18 +2,30 @@
 title: "Crossings"
 draft: false
 date: 2007-06-01T05:00:51-04:00
-publication_date: 2007-06-01T05:00:51-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/chuang-hua.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "A powerful story of one woman's displacement between cultures and traditions -- a landmark in Asian-American literature. "
 editions:
-  - 9780811216685
+  - binding: Paperback
+    isbn: 9780811216685
+    publication_date: 2007-06-01T05:00:51-04:00
+    cover_image_path: Crossings.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 224
 _slug: crossings
 ---
 

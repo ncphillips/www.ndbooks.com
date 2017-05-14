@@ -2,22 +2,64 @@
 title: "Exercises in Style: 65th Anniversary Edition"
 draft: false
 date: 2013-01-31T19:21:00-04:00
-publication_date: 2013-01-31T19:21:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-  - stories
-language: french
-author:
+  - Stories
+language: French
+authors:
   - contributor/raymond-queneau.md
-translator:
+translators:
   - contributor/barbara-wright.md
+
   - contributor/chris-clarke.md
-editor:
+editors:
+contributors:
+  - contributor/ben-marcus.md
+
+  - contributor/blake-butler.md
+
+  - contributor/amelia-gray.md
+
+  - contributor/jesse-ball.md
+
+  - contributor/harry-mathews.md
+
+  - contributor/lynne-tillman.md
+
+  - contributor/shane-jones.md
+
+  - contributor/jonathan-lethem.md
+
+  - contributor/enrique-vila-matas.md
+
+  - contributor/frederic-tuten.md
 featured_image_path:
+description: "A new edition of the famous modernist story told ninety-nine different ways — with newly translated exercises by Queneau and contributions by some of today's most acclaimed stylists. "
 editions:
-  - 9780811220354
-  - 9780811220880
+  - binding: Paperback
+    isbn: 9780811220354
+    publication_date: 2013-01-31T19:21:00-04:00
+    cover_image_path: Exercises_in_Style.jpeg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn: 17.00
+    trim_size:
+    Page_count: 282
+  - binding: Ebook
+    isbn: 9780811220880
+    publication_date: 2013-01-31T19:21:00-04:00
+    cover_image_path: Exercises_in_Style.jpeg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: exercises-in-style-anniversary
 ---
 

@@ -2,18 +2,30 @@
 title: "Alphabetical Africa (New)"
 draft: false
 date: 2016-11-21T20:29:00-04:00
-publication_date: 2017-10-24T04:00:00-04:00
+show_in_forthcoming: true
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/walter-abish.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "**A linguistic tour de force that “prankishly takes the reader on an intricate trek through the alphabet” (John Updike, _The New Yorker_)** "
 editions:
-  - 9780811222020
+  - binding: Paperback
+    isbn: 9780811222020
+    publication_date: 2017-10-24T04:00:00-04:00
+    cover_image_path: /uploads/alphabetical_africa_front_cover.tif
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn: 19.95
+    trim_size: 5x8
+    Page_count: 176
 _slug: alphabetical-africa-new
 ---
 

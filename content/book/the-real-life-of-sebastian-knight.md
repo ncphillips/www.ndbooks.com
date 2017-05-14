@@ -2,18 +2,31 @@
 title: "The Real Life of Sebastian Knight"
 draft: false
 date: 2008-07-01T05:00:00-04:00
-publication_date: 2008-07-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: russian
-author:
+language: Russian
+authors:
   - contributor/vladimir-nabokov.md
-translator:
-editor:
+translators:
+editors:
+contributors:
+  - contributor/michael-dirda.md
 featured_image_path:
+description: "Nabokov's first novel in English, one of his greatest and most overlooked "
 editions:
-  - 9780811217507
+  - binding: Paperback
+    isbn: 9780811217507
+    publication_date: 2008-07-01T05:00:00-04:00
+    cover_image_path: The_Real_Life_of_Sebastian_Knight_1.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 13.95
+    price_cn: 15.00
+    trim_size: 5x8
+    Page_count: 224
 _slug: the-real-life-of-sebastian-knight
 ---
 

@@ -2,20 +2,42 @@
 title: "Manimekhalai"
 draft: false
 date: 1989-06-01T05:00:28-04:00
-publication_date: 1989-06-01T05:00:28-04:00
+show_in_forthcoming: false
 subtitle:
-genre: theater
+genre: Theater
 subgenre:
 language:
-author:
+authors:
   - contributor/merchant-prince-shattan.md
-translator:
+translators:
   - contributor/alain-danielou.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811210980
-  - 9780811210973
+  - binding: Paperback
+    isbn: 9780811210980
+    publication_date: 1989-06-01T05:00:28-04:00
+    cover_image_path: Manimekhalai.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 12.95
+    price_cn:
+    trim_size:
+    Page_count:
+  - binding: Clothbound
+    isbn: 9780811210973
+    publication_date: 1989-06-01T05:00:28-04:00
+    cover_image_path: Manimekhalai.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 21.95
+    price_cn:
+    trim_size:
+    Page_count: 208
 _slug: manimekhalai
 ---
 

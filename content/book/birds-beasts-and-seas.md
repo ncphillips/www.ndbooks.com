@@ -2,20 +2,31 @@
 title: "Birds, Beasts, and Seas"
 draft: false
 date: 2011-04-29T14:28:45-04:00
-publication_date: 2011-04-29T14:28:45-04:00
+show_in_forthcoming: false
 subtitle: "Nature Poems from New Directions"
-genre: poetry
+genre: Poetry
 subgenre:
-  - anthology
+  - Anthology
 language:
-author:
-
-translator:
-editor:
+authors:
+translators:
+editors:
   - contributor/jeffrey-yang-author-page.md
+contributors:
 featured_image_path:
+description: "A rich, delicious treasury of nature poems from around the world — from the pastoral beauty of ancient times to the modern era’s destruction of living things. "
 editions:
-  - 9780811219198
+  - binding: Paperback
+    isbn: 9780811219198
+    publication_date: 2011-04-29T14:28:45-04:00
+    cover_image_path: birds-beasts-seas-nature-poems-jeffrey-yang-paperback-cover-art.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn: 17.50
+    trim_size: 4 1/2 x 7 1/4
+    Page_count: 208
 _slug: birds-beasts-and-seas
 ---
 

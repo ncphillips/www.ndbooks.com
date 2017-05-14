@@ -2,18 +2,30 @@
 title: "Gap Gardening: Selected Poems"
 draft: false
 date: 2015-10-15T18:44:00-04:00
-publication_date: 2016-04-19T04:00:00-04:00
+show_in_forthcoming: true
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/rosmarie-waldrop.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "An essential edition of a major avant-garde poet. "
 editions:
-  - 9780811225144
+  - binding: Paperback
+    isbn: 9780811225144
+    publication_date: 2016-04-19T04:00:00-04:00
+    cover_image_path: /uploads/gap_gardening_cover.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 18.95
+    price_cn: 24.95
+    trim_size: 6x9
+    Page_count: 256
 _slug: gap-gardening-selected-poems
 ---
 

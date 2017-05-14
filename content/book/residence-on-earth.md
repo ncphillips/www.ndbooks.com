@@ -2,19 +2,31 @@
 title: "Residence On Earth"
 draft: false
 date: 2004-06-01T05:00:28-04:00
-publication_date: 2004-06-01T05:00:28-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/pablo-neruda.md
-translator:
+translators:
   - contributor/donald-d.-walsh.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811215817
+  - binding: Paperback
+    isbn: 9780811215817
+    publication_date: 2004-06-01T05:00:28-04:00
+    cover_image_path: Residence_on_Earth_.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 352
 _slug: residence-on-earth
 ---
 

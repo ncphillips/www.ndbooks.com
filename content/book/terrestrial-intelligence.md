@@ -2,19 +2,31 @@
 title: "Terrestrial Intelligence"
 draft: false
 date: 2006-04-01T06:00:28-04:00
-publication_date: 2006-04-01T06:00:28-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-  - anthology
+  - Anthology
 language:
-author:
+authors:
   - contributor/barbara-epler.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "New Directions, the discoverer of the greatest of the great contemporary world writers—such as W. G. Sebald and Roberto Bolaño, Inger Christensen and Bei Dao, Victor Pelevin and Javier Marías—now puts them on display in a showcase anthology. "
 editions:
-  - 9780811216500
+  - binding: Paperback
+    isbn: 9780811216500
+    publication_date: 2006-04-01T06:00:28-04:00
+    cover_image_path: Terrestrial_Intelligence.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 356
 _slug: terrestrial-intelligence
 ---
 

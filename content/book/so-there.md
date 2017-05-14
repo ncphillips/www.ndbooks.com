@@ -2,18 +2,30 @@
 title: "So There"
 draft: false
 date: 1998-11-01T06:00:01-04:00
-publication_date: 1998-11-01T06:00:01-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/robert-creeley.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811213974
+  - binding: Paperback
+    isbn: 9780811213974
+    publication_date: 1998-11-01T06:00:01-04:00
+    cover_image_path: So_There.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: so-there
 ---
 

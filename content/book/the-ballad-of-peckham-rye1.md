@@ -2,19 +2,41 @@
 title: "The Ballad of Peckham Rye"
 draft: false
 date: 2014-05-27T15:10:00-04:00
-publication_date: 2014-05-27T15:10:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/muriel-spark.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "A satirical gem about class, work, and sex "
 editions:
-  - 9780811222990
-  - 9780811221337
+  - binding: Paperback
+    isbn: 9780811222990
+    publication_date: 2014-05-27T15:10:00-04:00
+    cover_image_path: Ballad_Peckham_Rye.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn: 16.00
+    trim_size:
+    Page_count: 144
+  - binding: Ebook
+    isbn: 9780811221337
+    publication_date: 2014-05-27T15:10:00-04:00
+    cover_image_path: Ballad_Peckham_Rye.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: the-ballad-of-peckham-rye1
 ---
 

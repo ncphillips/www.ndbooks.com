@@ -2,18 +2,30 @@
 title: "The Collected Poems Of Thomas Merton"
 draft: false
 date: 1980-09-01T04:59:00-04:00
-publication_date: 1980-09-01T04:59:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/thomas-merton.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811207690
+  - binding: Paperback
+    isbn: 9780811207690
+    publication_date: 1980-09-01T04:59:00-04:00
+    cover_image_path: The_Collected_Poems_Of_Thomas_Merton.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 49.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: the-collected-poems-of-thomas-merton
 ---
 

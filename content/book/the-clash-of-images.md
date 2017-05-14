@@ -2,20 +2,32 @@
 title: "The Clash of Images"
 draft: false
 date: 2010-09-29T14:28:00-04:00
-publication_date: 2010-09-29T14:28:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-  - stories
-language: arabic
-author:
+  - Stories
+language: Arabic
+authors:
   - contributor/abdelfattah-kilito.md
-translator:
+translators:
   - contributor/robyn-creswell.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "A moving, memoiristic short-story collection by a venerated Moroccan writer about growing up during a time of cultural upheaval. "
 editions:
-  - 9780811218863
+  - binding: Paperback
+    isbn: 9780811218863
+    publication_date: 2010-09-29T14:28:00-04:00
+    cover_image_path: The_Clash_Of_Images.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 12.95
+    price_cn: 16.00
+    trim_size: 5x7
+    Page_count: 128
 _slug: the-clash-of-images
 ---
 

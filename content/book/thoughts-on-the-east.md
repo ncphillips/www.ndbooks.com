@@ -2,19 +2,31 @@
 title: "Thoughts On The East"
 draft: false
 date: 1995-07-01T05:00:22-04:00
-publication_date: 1995-07-01T05:00:22-04:00
+show_in_forthcoming: false
 subtitle:
-genre: nonfiction
+genre: Nonfiction
 subgenre:
-  - essay
+  - Essay
 language:
-author:
+authors:
   - contributor/thomas-merton.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811212939
+  - binding: Paperback
+    isbn: 9780811212939
+    publication_date: 1995-07-01T05:00:22-04:00
+    cover_image_path: Thoughts_On_The_East.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 8.00
+    price_cn: 11.00
+    trim_size: 5x7
+    Page_count: 96
 _slug: thoughts-on-the-east
 ---
 

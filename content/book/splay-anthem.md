@@ -2,18 +2,30 @@
 title: "Splay Anthem"
 draft: false
 date: 2006-05-01T05:00:00-04:00
-publication_date: 2006-05-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: portuguese
-author:
+language: Portuguese
+authors:
   - contributor/nathaniel-mackey.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "In a stunning new collection of poems of transport and transcendence, African-American poet Nathaniel Mackey's _asthmatic song of aspiration_ scuttles across cultures and histories—from America to Andalucía, from Ethiopia to Vienna—in a sexy, beautiful adaptive dance. "
 editions:
-  - 9780811216524
+  - binding: Paperback
+    isbn: 9780811216524
+    publication_date: 2006-05-01T05:00:00-04:00
+    cover_image_path: Splay_Anthem.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn: 21.00
+    trim_size: 6x9
+    Page_count: 112
 _slug: splay-anthem
 ---
 

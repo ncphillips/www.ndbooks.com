@@ -2,19 +2,31 @@
 title: "The Three Fates"
 draft: false
 date: 2010-06-01T05:00:08-04:00
-publication_date: 2010-06-01T05:00:08-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/linda-le.md
-translator:
+translators:
   - contributor/mark-polizzotti.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "An intensely lively and piquant novel about a Vietnamese family, The Three Fates concerns rivalries and jealousies, strange motives and destructive passions. "
 editions:
-  - 9780811216104
+  - binding: Paperback
+    isbn: 9780811216104
+    publication_date: 2010-06-01T05:00:08-04:00
+    cover_image_path: The_Three_Fates.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn: 20.00
+    trim_size: 5x8
+    Page_count: 288
 _slug: the-three-fates
 ---
 

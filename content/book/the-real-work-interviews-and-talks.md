@@ -2,20 +2,42 @@
 title: "The Real Work: Interviews And Talks"
 draft: false
 date: 1980-08-01T05:00:00-04:00
-publication_date: 1980-08-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: nonfiction
+genre: Nonfiction
 subgenre:
-  - correspondence
-language: portuguese
-author:
+  - Correspondence
+language: Portuguese
+authors:
   - contributor/gary-snyder.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811207614
-  - 9780811207607
+  - binding: Paperback
+    isbn: 9780811207614
+    publication_date: 1980-08-01T05:00:00-04:00
+    cover_image_path: /uploads/Snyder_%20The%20Real%20Work.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn: 18.00
+    trim_size:
+    Page_count: 189
+  - binding: Clothbound
+    isbn: 9780811207607
+    publication_date: 1980-08-01T05:00:00-04:00
+    cover_image_path: _The_Real_Work.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn: 18.00
+    trim_size:
+    Page_count:
 _slug: the-real-work-interviews-and-talks
 ---
 

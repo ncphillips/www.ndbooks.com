@@ -2,19 +2,41 @@
 title: "The Kites"
 draft: false
 date: 2017-03-10T19:39:00-04:00
-publication_date: 2017-10-23T04:00:00-04:00
+show_in_forthcoming: true
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: french
-author:
+language: French
+authors:
   - contributor/romain-gary.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "Romain Gary’s bittersweet final masterpiece, a novel of courage and resistance—never before in English "
 editions:
-  - 9780811226547
-  - 9780811226554
+  - binding: Clothbound
+    isbn: 9780811226547
+    publication_date: 2017-10-23T04:00:00-04:00
+    cover_image_path: /uploads/9780811226547.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 27.95
+    price_cn: 36.95
+    trim_size: 5x8
+    Page_count: 384
+  - binding: Ebook
+    isbn: 9780811226554
+    publication_date: 2017-10-23T04:00:00-04:00
+    cover_image_path:
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: the-kites
 ---
 

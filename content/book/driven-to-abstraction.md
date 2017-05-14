@@ -2,18 +2,30 @@
 title: "Driven to Abstraction"
 draft: false
 date: 2010-11-30T14:28:13-04:00
-publication_date: 2010-11-30T14:28:13-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/rosmarie-waldrop.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "A new poetry collection of startling beauty and thought by a great American poet. "
 editions:
-  - 9780811218795
+  - binding: Paperback
+    isbn: 9780811218795
+    publication_date: 2010-11-30T14:28:13-04:00
+    cover_image_path: driven.JPG
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn: 21.00
+    trim_size: 6x9
+    Page_count: 160
 _slug: driven-to-abstraction
 ---
 

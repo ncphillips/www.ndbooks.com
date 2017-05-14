@@ -2,18 +2,30 @@
 title: "Judgment At Nuremberg"
 draft: false
 date: 2002-11-01T06:00:11-04:00
-publication_date: 2002-11-01T06:00:11-04:00
+show_in_forthcoming: false
 subtitle:
-genre: theater
+genre: Theater
 subgenre:
 language:
-author:
+authors:
   - contributor/abby-mann.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "The Nuremberg trials brought to public attention the worst of the Nazi atrocities. Judgment at Nuremberg brings those trials to life. "
 editions:
-  - 9780811215268
+  - binding: Paperback
+    isbn: 9780811215268
+    publication_date: 2002-11-01T06:00:11-04:00
+    cover_image_path: Judgment_At_Nuremberg.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 196
 _slug: judgment-at-nuremberg
 ---
 

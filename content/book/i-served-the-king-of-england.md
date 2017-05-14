@@ -2,19 +2,41 @@
 title: "I Served the King of England"
 draft: false
 date: 2007-05-01T05:00:00-04:00
-publication_date: 2007-05-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: czech
-author:
+language: Czech
+authors:
   - contributor/bohumil-hrabal.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "In a comic masterpiece following the misadventures of a simple but hugely ambitious waiter in pre-World War II Prague, who rises to wealth only to lose everything with the onset of Communism, Bohumil Hrabal takes us on a tremendously funny and satirical trip through 20th-century Czechoslovakia. "
 editions:
-  - 9780811216876
-  - 9780811220088
+  - binding: Paperback
+    isbn: 9780811216876
+    publication_date: 2007-05-01T05:00:00-04:00
+    cover_image_path: iservedtheking.JPG
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 256
+  - binding: Ebook
+    isbn: 9780811220088
+    publication_date: 2007-05-01T05:00:00-04:00
+    cover_image_path: iservedtheking.JPG
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn:
+    trim_size:
+    Page_count: 256
 _slug: i-served-the-king-of-england
 ---
 

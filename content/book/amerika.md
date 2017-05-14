@@ -2,19 +2,31 @@
 title: "Amerika"
 draft: false
 date: 2004-05-01T05:00:00-04:00
-publication_date: 2004-05-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/franz-kafka.md
-translator:
+translators:
   - contributor/michael-hofmann1.md
-editor:
-featured_image_path: /uploads/1427484269190/new%20york.jpg
+editors:
+contributors:
+featured_image_path: /uploads/new%20york.jpg
+description:
 editions:
-  - 9780811215695
+  - binding: Paperback
+    isbn: 9780811215695
+    publication_date: 2004-05-01T05:00:00-04:00
+    cover_image_path: amerika.JPG
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 13.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 240
 _slug: amerika
 ---
 

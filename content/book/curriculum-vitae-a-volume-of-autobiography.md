@@ -2,20 +2,42 @@
 title: "Curriculum Vitae: A Volume Of Autobiography"
 draft: false
 date: 2011-05-18T14:27:00-04:00
-publication_date: 2011-05-18T14:27:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: nonfiction
+genre: Nonfiction
 subgenre:
-  - memoir
+  - Memoir
 language:
-author:
+authors:
   - contributor/muriel-spark.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "Muriel Spark's bracingly salty memoir is a no-holds-barred trip through an extraordinary writer's life. "
 editions:
-  - 978081121438
-  - 9780811219136
+  - binding: Paperback
+    isbn: 978081121438
+    publication_date: 2011-05-18T14:27:00-04:00
+    cover_image_path: curriculum_vitae_SPARK.JPG
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn: 18.00
+    trim_size:
+    Page_count: 224
+  - binding: Ebook
+    isbn: 9780811219136
+    publication_date: 2011-05-18T14:27:00-04:00
+    cover_image_path: curriculum_vitae_SPARK.JPG
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn:
+    trim_size:
+    Page_count: 224
 _slug: curriculum-vitae-a-volume-of-autobiography
 ---
 

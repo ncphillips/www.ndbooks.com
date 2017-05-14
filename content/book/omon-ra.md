@@ -2,20 +2,42 @@
 title: "Omon Ra"
 draft: false
 date: 1998-02-01T06:00:00-04:00
-publication_date: 1998-02-01T06:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: russian
-author:
+language: Russian
+authors:
   - contributor/victor-pelevin.md
-translator:
+translators:
   - contributor/andrew-bromfield.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811213646
-  - 9780811221245
+  - binding: Paperback
+    isbn: 9780811213646
+    publication_date: 1998-02-01T06:00:00-04:00
+    cover_image_path: OmonRa.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 154
+  - binding: Ebook
+    isbn: 9780811221245
+    publication_date: 1998-02-01T06:00:00-04:00
+    cover_image_path: OmonRa.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: omon-ra
 ---
 

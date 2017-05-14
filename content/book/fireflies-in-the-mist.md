@@ -2,18 +2,30 @@
 title: "Fireflies in the Mist"
 draft: false
 date: 2010-11-29T14:27:59-04:00
-publication_date: 2010-11-29T14:27:59-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/qurratulain-hyder.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "One woman's journey through the tumultuous and passionate birth of a new nation. "
 editions:
-  - 9780811218658
+  - binding: Paperback
+    isbn: 9780811218658
+    publication_date: 2010-11-29T14:27:59-04:00
+    cover_image_path: Fireflies_In_The_Mist.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn: 20.00
+    trim_size: 5x8
+    Page_count: 304
 _slug: fireflies-in-the-mist
 ---
 

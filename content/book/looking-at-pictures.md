@@ -2,22 +2,36 @@
 title: "Looking at Pictures "
 draft: false
 date: 2015-03-20T19:51:00-04:00
-publication_date: 2015-11-09T05:00:00-04:00
+show_in_forthcoming: true
 subtitle:
 genre:
 subgenre:
-  - essay
-language: german
-author:
+  - Essay
+language: German
+authors:
   - contributor/robert-walser.md
-translator:
+translators:
   - contributor/susan-bernofsky.md
+
   - contributor/lydia-davis.md
+
   - contributor/christopher-middleton.md
-editor:
-featured_image_path: /uploads/1441140531314/AA349675.tif
+editors:
+contributors:
+featured_image_path: /uploads/AA349675.tif
+description: "A special side of Robert Walser: his essays on art "
 editions:
-  - 9780811224246
+  - binding: Clothbound
+    isbn: 9780811224246
+    publication_date: 2015-11-09T05:00:00-04:00
+    cover_image_path: /uploads/Looking%20at%20Pictures.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: $24.95
+    price_cn: $29.95
+    trim_size: 4 1/2 x 7
+    Page_count: 128
 _slug: looking-at-pictures
 ---
 

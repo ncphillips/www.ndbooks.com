@@ -2,19 +2,31 @@
 title: "The Bridge Over the Neroch & Other Works"
 draft: false
 date: 2013-03-27T15:37:00-04:00
-publication_date: 2013-03-27T15:37:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: russian
-author:
+language: Russian
+authors:
   - contributor/leonid-tsypkin.md
-translator:
+translators:
   - contributor/jamey-gambrell.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "All the remaining scattered gems by the great Russian-Jewish author of _Summer in Baden-Baden_ "
 editions:
-  - 9780811216616
+  - binding: Paperback
+    isbn: 9780811216616
+    publication_date: 2013-03-27T15:37:00-04:00
+    cover_image_path: Bridge_over_the_Neroch.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn: 18.00
+    trim_size:
+    Page_count: 352
 _slug: the-bridge-over-the-neroch-other-works
 ---
 

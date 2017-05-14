@@ -2,21 +2,53 @@
 title: "Last Evenings on Earth"
 draft: false
 date: 2007-04-01T05:00:00-04:00
-publication_date: 2007-04-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-  - stories
-language: spanish
-author:
+  - Stories
+language: Spanish
+authors:
   - contributor/roberto-bolano.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811216883
-  - 9780811216340
-  - 9780811220545
+  - binding: Paperback
+    isbn: 9780811216883
+    publication_date: 2007-04-01T05:00:00-04:00
+    cover_image_path: Last_Evenings_On_Earth.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 13.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 256
+  - binding: Clothbound
+    isbn: 9780811216340
+    publication_date: 2007-04-01T05:00:00-04:00
+    cover_image_path: Last_Evenings_On_Earth.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 23.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 256
+  - binding: Ebook
+    isbn: 9780811220545
+    publication_date: 2007-04-01T05:00:00-04:00
+    cover_image_path: Last_Evenings_On_Earth.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 13.95
+    price_cn:
+    trim_size:
+    Page_count: 256
 _slug: last-evenings-on-earth
 ---
 

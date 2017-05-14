@@ -2,20 +2,42 @@
 title: "Memoirs of a Polar Bear "
 draft: false
 date: 2016-03-07T20:29:00-04:00
-publication_date: 2016-11-08T05:00:00-04:00
+show_in_forthcoming: true
 subtitle:
 genre:
 subgenre:
-language: german
-author:
+language: German
+authors:
   - contributor/yoko-tawada.md
-translator:
+translators:
   - contributor/susan-bernofsky.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "_Memoirs of a Polar Bear_ stars three generations of talented writers and performers—who happen to be polar bears "
 editions:
-  - 9780811225786
-  - 9780811225793
+  - binding: Paperback
+    isbn: 9780811225786
+    publication_date: 2016-11-08T05:00:00-04:00
+    cover_image_path: /uploads/bear_cover_draft_rev.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn:
+    trim_size: 5.375 x 8
+    Page_count: 288
+  - binding: Ebook
+    isbn: 9780811225793
+    publication_date: 2016-11-08T05:00:00-04:00
+    cover_image_path:
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: memoirs-of-a-polar-bear
 ---
 

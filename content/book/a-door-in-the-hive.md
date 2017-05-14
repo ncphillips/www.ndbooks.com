@@ -2,18 +2,30 @@
 title: "A Door In The Hive"
 draft: false
 date: 1989-10-01T05:00:56-04:00
-publication_date: 1989-10-01T05:00:56-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/denise-levertov.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811211192
+  - binding: Paperback
+    isbn: 9780811211192
+    publication_date: 1989-10-01T05:00:56-04:00
+    cover_image_path: A_Door_In_the_Hive_.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 9.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: a-door-in-the-hive
 ---
 

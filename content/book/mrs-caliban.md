@@ -1,20 +1,43 @@
 ---
-title: "Mrs. Caliban"
+title: "Mrs. Caliban "
 draft: false
 date: 2017-03-10T19:40:00-04:00
-publication_date: 2017-11-17T05:00:00-04:00
+show_in_forthcoming: true
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/rachel-ingalls.md
-translator:
-editor:
+translators:
+editors:
+contributors:
+  - contributor/rivka-galchen.md
 featured_image_path:
+description: "Now back in print, _Mrs. Caliban_ is “totally unforgettable” (The New York Times Book Review) and “something of a miracle” (The New Yorker) "
 editions:
-  - 9780811226691
-  - 9780811227094
+  - binding: Paperback
+    isbn: 9780811226691
+    publication_date: 2017-11-17T05:00:00-04:00
+    cover_image_path: /uploads/9780811226691.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 13.95
+    price_cn: 18.95
+    trim_size: 5x8
+    Page_count: 128
+  - binding: Ebook
+    isbn: 9780811227094
+    publication_date: 2017-11-17T05:00:00-04:00
+    cover_image_path:
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: mrs-caliban
 ---
 

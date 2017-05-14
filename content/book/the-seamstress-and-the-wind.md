@@ -2,20 +2,42 @@
 title: "The Seamstress and the Wind"
 draft: false
 date: 2011-06-30T14:28:00-04:00
-publication_date: 2011-06-30T14:28:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: spanish
-author:
+language: Spanish
+authors:
   - contributor/cesar-aira.md
-translator:
+translators:
   - contributor/rosalie-knecht.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "As he runs wildly amok, Aira captures childhood's treasures – the reality of the fable and the delirium of invention – in this hilariously funny book. "
 editions:
-  - 9780811219129
-  - 9780811219341
+  - binding: Paperback
+    isbn: 9780811219129
+    publication_date: 2011-06-30T14:28:00-04:00
+    cover_image_path: SeamstressandtheWind.JPG
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 12.95
+    price_cn: 15.00
+    trim_size:
+    Page_count: 144
+  - binding: Ebook
+    isbn: 9780811219341
+    publication_date: 2011-06-30T14:28:00-04:00
+    cover_image_path: SeamstressandtheWind.JPG
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 12.95
+    price_cn:
+    trim_size:
+    Page_count: 144
 _slug: the-seamstress-and-the-wind
 ---
 

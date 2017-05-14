@@ -2,21 +2,43 @@
 title: "An Empty Room"
 draft: false
 date: 2011-05-23T14:28:00-04:00
-publication_date: 2011-05-23T14:28:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-  - stories
-language: chinese
-author:
+  - Stories
+language: Chinese
+authors:
   - contributor/mu-xin.md
-translator:
+translators:
   - contributor/toming-jun-liu.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "A dazzling cycle of short stories by one of China's most revered contemporary writers and one of the world's leading artist-intellectuals. "
 editions:
-  - 9780811219228
-  - 9780811219662
+  - binding: Paperback
+    isbn: 9780811219228
+    publication_date: 2011-05-23T14:28:00-04:00
+    cover_image_path: anemptyroom.JPG
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn: 17.00
+    trim_size:
+    Page_count: 192
+  - binding: Ebook
+    isbn: 9780811219662
+    publication_date: 2011-05-23T14:28:00-04:00
+    cover_image_path: anemptyroom.JPG
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 13.95
+    price_cn:
+    trim_size:
+    Page_count: 192
 _slug: an-empty-room
 ---
 

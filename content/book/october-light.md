@@ -2,18 +2,30 @@
 title: "October Light"
 draft: false
 date: 2005-10-01T05:00:21-04:00
-publication_date: 2005-10-01T05:00:21-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/john-gardner.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "Winner of the National Book Critics Circle Award "
 editions:
-  - 9780811216371
+  - binding: Paperback
+    isbn: 9780811216371
+    publication_date: 2005-10-01T05:00:21-04:00
+    cover_image_path: October_Light.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn: 21.00
+    trim_size: 5x8
+    Page_count: 440
 _slug: october-light
 ---
 

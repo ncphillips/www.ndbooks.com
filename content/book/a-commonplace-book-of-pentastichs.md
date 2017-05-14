@@ -2,18 +2,30 @@
 title: "A Commonplace Book Of Pentastichs"
 draft: false
 date: 1998-11-01T06:00:46-04:00
-publication_date: 1998-11-01T06:00:46-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/james-laughlin.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811213868
+  - binding: Clothbound
+    isbn: 9780811213868
+    publication_date: 1998-11-01T06:00:46-04:00
+    cover_image_path: A_Commonplace_Book_Of_Pentastichs.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 19.95
+    price_cn:
+    trim_size: 6x9
+    Page_count: 96
 _slug: a-commonplace-book-of-pentastichs
 ---
 

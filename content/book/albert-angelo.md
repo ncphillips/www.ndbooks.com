@@ -2,19 +2,41 @@
 title: "Albert Angelo"
 draft: false
 date: 1987-05-01T05:00:28-04:00
-publication_date: 1987-05-01T05:00:28-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/b.-s.-johnson.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811210034
-  - 9780811210027
+  - binding: Paperback
+    isbn: 9780811210034
+    publication_date: 1987-05-01T05:00:28-04:00
+    cover_image_path: Albert_Angelo.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn:
+    trim_size:
+    Page_count:
+  - binding: Clothbound
+    isbn: 9780811210027
+    publication_date: 1987-05-01T05:00:28-04:00
+    cover_image_path: Albert_Angelo.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: albert-angelo
 ---
 

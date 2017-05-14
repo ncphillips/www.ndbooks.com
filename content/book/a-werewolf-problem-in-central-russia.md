@@ -2,21 +2,43 @@
 title: "A Werewolf Problem in Central Russia"
 draft: false
 date: 2003-05-01T05:00:00-04:00
-publication_date: 2003-05-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-  - stories
-language: russian
-author:
+  - Stories
+language: Russian
+authors:
   - contributor/victor-pelevin.md
-translator:
+translators:
   - contributor/andrew-bromfield.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811215435
-  - 9780811213943
+  - binding: Paperback
+    isbn: 9780811215435
+    publication_date: 2003-05-01T05:00:00-04:00
+    cover_image_path: A_Werewolf_Problem_In_Central_Russia.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size: 5x8
+    Page_count: 224
+  - binding: Clothbound
+    isbn: 9780811213943
+    publication_date: 2003-05-01T05:00:00-04:00
+    cover_image_path: A_Werewolf_Problem_In_Central_Russia.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size: 5x8
+    Page_count: 224
 _slug: a-werewolf-problem-in-central-russia
 ---
 

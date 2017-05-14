@@ -2,18 +2,30 @@
 title: "Breathing The Water"
 draft: false
 date: 1987-03-01T06:00:00-04:00
-publication_date: 1987-03-01T06:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/denise-levertov.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811210270
+  - binding: Paperback
+    isbn: 9780811210270
+    publication_date: 1987-03-01T06:00:00-04:00
+    cover_image_path: Breathing_The_Water.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 13.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: breathing-the-water
 ---
 

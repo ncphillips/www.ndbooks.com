@@ -2,21 +2,44 @@
 title: "The Last Wolf & Herman"
 draft: false
 date: 2016-03-07T18:13:00-04:00
-publication_date: 2016-09-27T04:00:00-04:00
+show_in_forthcoming: true
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: hungarian
-author:
+language: Hungarian
+authors:
   - contributor/laszlo-krasznahorkai.md
-translator:
+translators:
   - contributor/george-szirtes.md
+
   - contributor/john-batki.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "Two short masterworks by the most recent winner of the Man Booker International Prize: here, in miniature, is every reason why he won "
 editions:
-  - 9780811226080
-  - 9780811226097
+  - binding: Clothbound
+    isbn: 9780811226080
+    publication_date: 2016-09-27T04:00:00-04:00
+    cover_image_path: /uploads/LZ2.gif
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn:
+    trim_size: 4.5 x 7
+    Page_count: 96
+  - binding: Ebook
+    isbn: 9780811226097
+    publication_date: 2016-09-27T04:00:00-04:00
+    cover_image_path:
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: the-last-wolf-herman
 ---
 

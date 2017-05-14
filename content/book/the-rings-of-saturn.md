@@ -2,19 +2,31 @@
 title: "The Rings of Saturn"
 draft: false
 date: 2016-03-07T21:13:00-04:00
-publication_date: 2016-11-08T05:00:00-04:00
+show_in_forthcoming: true
 subtitle:
 genre:
 subgenre:
-language: german
-author:
+language: German
+authors:
   - contributor/W._G._Sebald.md
-translator:
+translators:
   - contributor/michael-hulse.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811226158
+  - binding: Paperback
+    isbn: 9780811226158
+    publication_date: 2016-11-08T05:00:00-04:00
+    cover_image_path: /uploads/rings_to_size.tif
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn:
+    trim_size: 5 x 8
+    Page_count: 304
 _slug: the-rings-of-saturn
 ---
 

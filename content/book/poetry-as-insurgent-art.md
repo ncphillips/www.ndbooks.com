@@ -2,20 +2,43 @@
 title: "Poetry As Insurgent Art"
 draft: false
 date: 2007-09-01T17:35:00-04:00
-publication_date: 2007-09-01T17:35:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/lawrence-ferlinghetti.md
+
   - contributor/adam-phillips.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "The great radical primer. "
 editions:
-  -
-  - 9780811217194
+  - binding: Paperback
+    isbn:
+    publication_date: 2007-09-01T17:35:00-04:00
+    cover_image_path: Poetry_Insurgent.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size: 4x6
+    Page_count:
+  - binding: Clothbound
+    isbn: 9780811217194
+    publication_date: 2007-09-01T17:35:00-04:00
+    cover_image_path: Poetry_Insurgent.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 13.95
+    price_cn:
+    trim_size: 4x6
+    Page_count: 96
 _slug: poetry-as-insurgent-art
 ---
 

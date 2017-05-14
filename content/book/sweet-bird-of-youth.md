@@ -2,18 +2,31 @@
 title: "Sweet Bird Of Youth"
 draft: false
 date: 2008-10-01T05:00:19-04:00
-publication_date: 2008-10-01T05:00:19-04:00
+show_in_forthcoming: false
 subtitle:
-genre: theater
+genre: Theater
 subgenre:
 language:
-author:
+authors:
   - contributor/tennessee-williams.md
-translator:
-editor:
+translators:
+editors:
+contributors:
+  - contributor/lanford-wilson.md
 featured_image_path:
+description: "Now with an insightful new introduction, the author's original Foreword, and the one-act play, The Enemy: Time, on which Sweet Bird of Youth was based. "
 editions:
-  - 9780811218078
+  - binding: Paperback
+    isbn: 9780811218078
+    publication_date: 2008-10-01T05:00:19-04:00
+    cover_image_path: Sweet_Bird_Of_Youth.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 13.95
+    price_cn: 16.00
+    trim_size: 5x8
+    Page_count: 160
 _slug: sweet-bird-of-youth
 ---
 

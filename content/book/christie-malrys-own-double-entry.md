@@ -2,19 +2,41 @@
 title: "Christie Malry’s Own Double-Entry"
 draft: false
 date: 1987-05-01T05:00:55-04:00
-publication_date: 1987-05-01T05:00:55-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/b.-s.-johnson.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811209540
-  - 9780811209533
+  - binding: Paperback
+    isbn: 9780811209540
+    publication_date: 1987-05-01T05:00:55-04:00
+    cover_image_path: Christie_Malrys_Own_Double-Entry_2.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 13.95
+    price_cn:
+    trim_size:
+    Page_count:
+  - binding: Clothbound
+    isbn: 9780811209533
+    publication_date: 1987-05-01T05:00:55-04:00
+    cover_image_path: Christie_Malrys_Own_Double-Entry_2.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: christie-malrys-own-double-entry
 ---
 

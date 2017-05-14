@@ -2,20 +2,42 @@
 title: "The Halfway House"
 draft: false
 date: 2009-05-01T05:00:00-04:00
-publication_date: 2009-05-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: spanish
-author:
+language: Spanish
+authors:
   - contributor/guillermo-rosales.md
-translator:
+translators:
   - contributor/anna-kushner.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "The Halfway House, a novel by the great Guillermo Rosales, is a heart-breaking classic of modern Cuban literature. "
 editions:
-  - 9780811218023
-  - 9780811223263
+  - binding: Paperback
+    isbn: 9780811218023
+    publication_date: 2009-05-01T05:00:00-04:00
+    cover_image_path: The_Halfway_House.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn: 19.00
+    trim_size: 5x7
+    Page_count: 144
+  - binding: Ebook
+    isbn: 9780811223263
+    publication_date: 2009-05-01T05:00:00-04:00
+    cover_image_path: The_Halfway_House.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count: 144
 _slug: the-halfway-house
 ---
 

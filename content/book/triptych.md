@@ -2,18 +2,30 @@
 title: "Triptych"
 draft: false
 date: 2007-06-01T05:00:37-04:00
-publication_date: 2007-06-01T05:00:37-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/jerome-rothenberg.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "The key book by the internationally celebrated poet with the only _Polish ghetto-hassidic-cowboy and Indian American comic voice_ (Robert Duncan) in history. "
 editions:
-  - 9780811216920
+  - binding: Paperback
+    isbn: 9780811216920
+    publication_date: 2007-06-01T05:00:37-04:00
+    cover_image_path: Triptych.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 17.95
+    price_cn: 23.00
+    trim_size: 6x9
+    Page_count: 240
 _slug: triptych
 ---
 

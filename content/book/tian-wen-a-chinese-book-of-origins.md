@@ -2,19 +2,40 @@
 title: "Tian Wen"
 draft: false
 date: 1986-10-01T05:00:00-04:00
-publication_date: 1986-10-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle: "A Chinese Book of Origins"
-genre: poetry
+genre: Poetry
 subgenre:
-language: chinese
-author:
-
-translator:
-editor:
+language: Chinese
+authors:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811210119
-  - 9780811210102
+  - binding: Paperback
+    isbn: 9780811210119
+    publication_date: 1986-10-01T05:00:00-04:00
+    cover_image_path: A_Chinese_Book_Of_Origins_.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn:
+    trim_size:
+    Page_count:
+  - binding: Clothbound
+    isbn: 9780811210102
+    publication_date: 1986-10-01T05:00:00-04:00
+    cover_image_path: A_Chinese_Book_Of_Origins_.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 22.95
+    price_cn:
+    trim_size:
+    Page_count: 144
 _slug: tian-wen-a-chinese-book-of-origins
 ---
 

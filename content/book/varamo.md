@@ -2,20 +2,42 @@
 title: "Varamo"
 draft: false
 date: 2012-02-13T20:57:00-04:00
-publication_date: 2012-02-13T20:57:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: spanish
-author:
+language: Spanish
+authors:
   - contributor/cesar-aira.md
-translator:
+translators:
   - contributor/chris-andrews.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811217415
-  - 9780811219556
+  - binding: Paperback
+    isbn: 9780811217415
+    publication_date: 2012-02-13T20:57:00-04:00
+    cover_image_path: Varamo1.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 12.95
+    price_cn:
+    trim_size:
+    Page_count: 96
+  - binding: Ebook
+    isbn: 9780811219556
+    publication_date: 2012-02-13T20:57:00-04:00
+    cover_image_path: Varamo1.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 12.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: varamo
 ---
 

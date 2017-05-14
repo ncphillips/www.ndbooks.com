@@ -2,20 +2,42 @@
 title: "Al Que Quiere!"
 draft: false
 date: 2017-03-10T19:37:00-04:00
-publication_date: 2017-10-18T04:00:00-04:00
+show_in_forthcoming: true
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/william-carlos-williams.md
-translator:
-editor:
+translators:
+editors:
   - contributor/jonathan-cohen.md
+contributors:
 featured_image_path:
+description: "The centennial edition of William Carlos Williams’s early ground-breaking volume, containing some of his best-loved poems "
 editions:
-  - 9780811226660
-  - 9780811226677
+  - binding: Paperback
+    isbn: 9780811226660
+    publication_date: 2017-10-18T04:00:00-04:00
+    cover_image_path: /uploads/Al%20Que%20Quiere!%20(cover).jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn: 19.95
+    trim_size: 5x7
+    Page_count: 128
+  - binding: Ebook
+    isbn: 9780811226677
+    publication_date: 2017-10-18T04:00:00-04:00
+    cover_image_path:
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: al-que-quiere
 ---
 

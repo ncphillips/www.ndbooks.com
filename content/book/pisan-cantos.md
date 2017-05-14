@@ -2,19 +2,31 @@
 title: "The Pisan Cantos"
 draft: false
 date: 2003-10-01T05:00:00-04:00
-publication_date: 2003-10-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/ezra-pound.md
-translator:
-editor:
+translators:
+editors:
   - contributor/richard-sieburth.md
+contributors:
 featured_image_path:
+description: "At last, a definitive, paperbook edition of Ezra Pound's finest work "
 editions:
-  - 9780811215589
+  - binding: Paperback
+    isbn: 9780811215589
+    publication_date: 2003-10-01T05:00:00-04:00
+    cover_image_path: Pisan_Cantos.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn:
+    trim_size: 6x9
+    Page_count: 192
 _slug: pisan-cantos
 ---
 

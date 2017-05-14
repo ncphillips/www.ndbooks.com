@@ -2,21 +2,44 @@
 title: "Mirages of the Mind"
 draft: false
 date: 2015-06-16T19:12:00-04:00
-publication_date: 2015-07-08T02:00:00-04:00
+show_in_forthcoming: true
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: urdu
-author:
+language: Urdu
+authors:
   - contributor/mushtaq-ahmed-yousufi1.md
-translator:
+translators:
   - contributor/matt-reeck.md
+
   - contributor/aftab-ahmad.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "A hilarious and nostalgic account of twentieth-century Muslim life on the Indian subcontinent "
 editions:
-  - 9780811224130
-  - 9780811224147
+  - binding: Paperback
+    isbn: 9780811224130
+    publication_date: 2015-07-08T02:00:00-04:00
+    cover_image_path: /uploads/Mirages%20(1).jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 18.95
+    price_cn: 21.95
+    trim_size:
+    Page_count: 576
+  - binding: Ebook
+    isbn: 9780811224147
+    publication_date: 2015-07-08T02:00:00-04:00
+    cover_image_path:
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 18.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: mirages-of-the-mind
 ---
 

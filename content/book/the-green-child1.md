@@ -2,19 +2,34 @@
 title: "The Green Child"
 draft: false
 date: 2013-10-16T15:16:00-04:00
-publication_date: 2013-10-16T15:16:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/herbert-read.md
-translator:
+translators:
   - contributor/adam-phillips.md
-editor:
+editors:
+contributors:
+  - contributor/eliot-weinberger.md
+
+  - contributor/kenneth-rexroth.md
 featured_image_path:
+description: "A visionary masterpiece filled with quicksand portals, revolutionary dictators, and subterranean worlds "
 editions:
-  - 9780811221825
+  - binding: Paperback
+    isbn: 9780811221825
+    publication_date: 2013-10-16T15:16:00-04:00
+    cover_image_path: Green_Child.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn: 17.00
+    trim_size:
+    Page_count: 208
 _slug: the-green-child1
 ---
 

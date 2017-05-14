@@ -2,20 +2,33 @@
 title: "Love Is Like Park Avenue"
 draft: false
 date: 2009-08-01T05:00:09-04:00
-publication_date: 2009-08-01T05:00:09-04:00
+show_in_forthcoming: false
 subtitle:
-genre: nonfiction
+genre: Nonfiction
 subgenre:
-  - essay
+  - Essay
 language:
-author:
+authors:
   - contributor/alvin-levin.md
-translator:
-editor:
+translators:
+editors:
+  - contributor/james-reidel.md
+contributors:
   - contributor/james-reidel.md
 featured_image_path:
+description: "A magnificent, undiscovered writer, Alvin Levin captured the turbulence of lower-middle-class life in 1930s New York, in that twilight period of the Great Depression and the gathering storm of WWII. "
 editions:
-  - 9780811217996
+  - binding: Paperback
+    isbn: 9780811217996
+    publication_date: 2009-08-01T05:00:09-04:00
+    cover_image_path: Love_Is_Like_Park_Avenue.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 13.95
+    price_cn: 18.00
+    trim_size: 4.5x7.5
+    Page_count: 256
 _slug: love-is-like-park-avenue
 ---
 

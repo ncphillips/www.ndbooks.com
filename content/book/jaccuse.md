@@ -2,19 +2,31 @@
 title: "J’accuse"
 draft: false
 date: 2003-04-01T06:00:33-04:00
-publication_date: 2003-04-01T06:00:33-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/aharon-shabtai.md
-translator:
+translators:
   - contributor/peter-cole.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "Explosive poems by an Israeli accusing his country of crimes against humanity. "
 editions:
-  - 9780811215398
+  - binding: Paperback
+    isbn: 9780811215398
+    publication_date: 2003-04-01T06:00:33-04:00
+    cover_image_path: jaccuse.JPG
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 80
 _slug: jaccuse
 ---
 

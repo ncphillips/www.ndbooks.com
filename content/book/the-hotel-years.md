@@ -2,20 +2,42 @@
 title: "The Hotel Years"
 draft: false
 date: 2015-03-18T19:00:00-04:00
-publication_date: 2015-09-29T04:00:00-04:00
+show_in_forthcoming: true
 subtitle:
 genre:
 subgenre:
 language:
-author:
+authors:
   - contributor/joseph-roth.md
-translator:
+translators:
   - contributor/michael-hofmann1.md
-editor:
-featured_image_path: /uploads/1441136977216/Roth-People-on-Sunday-1200.jpg
+editors:
+contributors:
+featured_image_path: /uploads/Roth-People-on-Sunday-1200.jpg
+description: "The first overview of all Joseph Roth's journalism: traveling across a Europe in crisis, he declares, _I am a hotel citizen, a hotel patriot_ "
 editions:
-  - 978081122487
-  - 9780811224888
+  - binding: Paperback
+    isbn: 978081122487
+    publication_date: 2015-09-29T04:00:00-04:00
+    cover_image_path: /uploads/roth_hotel_cover.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn: 17.95
+    trim_size: 5 x 8"
+    Page_count: 192
+  - binding: Ebook
+    isbn: 9780811224888
+    publication_date: 2015-09-29T04:00:00-04:00
+    cover_image_path:
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: the-hotel-years
 ---
 

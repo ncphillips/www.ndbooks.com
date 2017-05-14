@@ -2,19 +2,31 @@
 title: "For The Fighting Spirit Of The Walnut"
 draft: false
 date: 2008-06-01T05:00:00-04:00
-publication_date: 2008-06-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
-language: japanese
-author:
+language: Japanese
+authors:
   - contributor/takashi-hiraide.md
-translator:
+translators:
   - contributor/sawako-nakayasu.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "Winner of a PEN Translation Fund Award: A lyrical, supercharged, dizzying collection in a unique bilingual format: like two halves of the walnut, the English text meets the Japanese half-way "
 editions:
-  - 9780811217484
+  - binding: Paperback
+    isbn: 9780811217484
+    publication_date: 2008-06-01T05:00:00-04:00
+    cover_image_path: For_The_Fighting_Spirit_Of_The_Walnut.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 17.95
+    price_cn: 20.00
+    trim_size: 7x7
+    Page_count: 144
 _slug: for-the-fighting-spirit-of-the-walnut
 ---
 

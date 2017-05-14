@@ -2,21 +2,43 @@
 title: "Byways"
 draft: false
 date: 2005-02-01T06:00:16-04:00
-publication_date: 2005-02-01T06:00:16-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
-  - memoir
+  - Memoir
 language:
-author:
+authors:
   - contributor/james-laughlin.md
-translator:
-editor:
+translators:
+editors:
   - contributor/peter-glassgold.md
+contributors:
 featured_image_path:
+description: "The memoirs of ND's founder. "
 editions:
-  - 9780811215985
-  - 9780811216173
+  - binding: Paperback
+    isbn: 9780811215985
+    publication_date: 2005-02-01T06:00:16-04:00
+    cover_image_path: Byways.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 19.95
+    price_cn: 29.00
+    trim_size: 6x9
+    Page_count: 336
+  - binding: Clothbound
+    isbn: 9780811216173
+    publication_date: 2005-02-01T06:00:16-04:00
+    cover_image_path: Byways.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 35.00
+    price_cn:
+    trim_size: 6x9
+    Page_count: 336
 _slug: byways
 ---
 

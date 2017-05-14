@@ -2,20 +2,42 @@
 title: "Hawthorn & Child"
 draft: false
 date: 2013-09-23T15:05:00-04:00
-publication_date: 2013-09-23T15:05:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-  - stories
+  - Stories
 language:
-author:
+authors:
   - contributor/keith-ridgway.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "The only certainty is that we've all misunderstood everything "
 editions:
-  - 9780811221665
-  - 9780811221672
+  - binding: Paperback
+    isbn: 9780811221665
+    publication_date: 2013-09-23T15:05:00-04:00
+    cover_image_path: hawthornchild.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn:
+    trim_size:
+    Page_count: 288
+  - binding: Ebook
+    isbn: 9780811221672
+    publication_date: 2013-09-23T15:05:00-04:00
+    cover_image_path: hawthornchild.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: hawthorn-child
 ---
 

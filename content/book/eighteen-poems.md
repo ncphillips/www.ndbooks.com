@@ -2,17 +2,29 @@
 title: "Eighteen Poems"
 draft: false
 date: 1999-12-01T06:00:20-04:00
-publication_date: 1999-12-01T06:00:20-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/thomas-merton.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "These eighteen poems were written by Thomas Merton in 1966. He entrusted them to a friend, requesting that they be published after his death. "
 editions:
-  - 9780811210126
+  - binding: Clothbound
+    isbn: 9780811210126
+    publication_date: 1999-12-01T06:00:20-04:00
+    cover_image_path: Eighteen_Poems_Merton.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: eighteen-poems
 ---

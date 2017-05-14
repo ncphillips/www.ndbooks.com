@@ -2,19 +2,31 @@
 title: "Seeds Of Contemplation"
 draft: false
 date: 1987-09-01T05:00:00-04:00
-publication_date: 1987-09-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: nonfiction
+genre: Nonfiction
 subgenre:
-  - essay
+  - Essay
 language:
-author:
+authors:
   - contributor/thomas-merton.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811209908
+  - binding: Clothbound
+    isbn: 9780811209908
+    publication_date: 1987-09-01T05:00:00-04:00
+    cover_image_path: Seeds_Of_Contemplation.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: seeds-of-contemplation
 ---
 

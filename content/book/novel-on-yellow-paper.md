@@ -2,18 +2,30 @@
 title: "Novel on Yellow Paper"
 draft: false
 date: 1994-06-01T05:00:44-04:00
-publication_date: 1994-06-01T05:00:44-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/stevie-smith-s.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811212397
+  - binding: Paperback
+    isbn: 9780811212397
+    publication_date: 1994-06-01T05:00:44-04:00
+    cover_image_path: Novel_On_Yellow_Paper.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 17.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 256
 _slug: novel-on-yellow-paper
 ---
 

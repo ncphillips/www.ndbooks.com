@@ -2,18 +2,30 @@
 title: "Curves To The Apple"
 draft: false
 date: 2007-09-01T05:00:14-04:00
-publication_date: 2007-09-01T05:00:14-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/rosmarie-waldrop.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "Three pivotal works conceived by the avant-garde poet as a trilogy and now together in one volume at last. "
 editions:
-  - 9780811216739
+  - binding: Paperback
+    isbn: 9780811216739
+    publication_date: 2007-09-01T05:00:14-04:00
+    cover_image_path: Curves_To_The_Apple.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn: 21.00
+    trim_size: 6x9
+    Page_count: 272
 _slug: curves-to-the-apple
 ---
 

@@ -2,19 +2,31 @@
 title: "A Tomb For Anatole"
 draft: false
 date: 2005-06-01T05:00:06-04:00
-publication_date: 2005-06-01T05:00:06-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/stephane-mallarme.md
-translator:
+translators:
   - contributor/paul-auster.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "A Tomb for Anatole addresses inconsolable sorrow: a father's pain over the death of his child, _a vision / endlessly purified / by my tears._ "
 editions:
-  - 9780811215930
+  - binding: Paperback
+    isbn: 9780811215930
+    publication_date: 2005-06-01T05:00:06-04:00
+    cover_image_path: A_Tomb_For_Anatole.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn: 24.00
+    trim_size: 6x9
+    Page_count: 228
 _slug: a-tomb-for-anatole
 ---
 

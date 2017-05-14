@@ -2,19 +2,31 @@
 title: "Tales of Desire"
 draft: false
 date: 2010-02-01T06:00:00-04:00
-publication_date: 2010-02-01T06:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-  - stories
-language: portuguese
-author:
+  - Stories
+language: Portuguese
+authors:
   - contributor/tennessee-williams.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811218566
+  - binding: Paperback
+    isbn: 9780811218566
+    publication_date: 2010-02-01T06:00:00-04:00
+    cover_image_path: tales_of_desire.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 9.95
+    price_cn: 13.00
+    trim_size: 4.5x7
+    Page_count: 96
 _slug: tales-of-desire
 ---
 

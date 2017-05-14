@@ -2,20 +2,52 @@
 title: "Personae"
 draft: false
 date: 1990-04-01T06:00:00-04:00
-publication_date: 1990-04-01T06:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/ezra-pound.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811211383
-  - 9780811211208
-  - 9780811222471
+  - binding: Paperback
+    isbn: 9780811211383
+    publication_date: 1990-04-01T06:00:00-04:00
+    cover_image_path: Personae.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn:
+    trim_size:
+    Page_count: 304
+  - binding: Clothbound
+    isbn: 9780811211208
+    publication_date: 1990-04-01T06:00:00-04:00
+    cover_image_path: Personae.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 32.95
+    price_cn:
+    trim_size:
+    Page_count: 304
+  - binding: Ebook
+    isbn: 9780811222471
+    publication_date: 1990-04-01T06:00:00-04:00
+    cover_image_path: Personae.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn:
+    trim_size:
+    Page_count: 304
 _slug: personae
 ---
 

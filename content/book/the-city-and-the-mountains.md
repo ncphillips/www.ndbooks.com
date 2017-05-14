@@ -2,19 +2,31 @@
 title: "The City and the Mountains"
 draft: false
 date: 2008-09-01T05:00:20-04:00
-publication_date: 2008-09-01T05:00:20-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/jose-maria-de-eca-de-queiros.md
-translator:
+translators:
   - contributor/margaret-jull-costa.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "Eça de Queirós's late novel is a hymn to country life: The City and The Mountains satirizes the emptiness of city life and of modernity itself. Wonderfully funny, it bubbles with joie de vivre. "
 editions:
-  - 9780811217019
+  - binding: Paperback
+    isbn: 9780811217019
+    publication_date: 2008-09-01T05:00:20-04:00
+    cover_image_path: The_City_And_The_Mountains.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn: 18.00
+    trim_size: 5x8
+    Page_count: 256
 _slug: the-city-and-the-mountains
 ---
 

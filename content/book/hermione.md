@@ -2,18 +2,30 @@
 title: "HERmione"
 draft: false
 date: 1981-11-01T06:00:53-04:00
-publication_date: 1981-11-01T06:00:53-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/hilda-doolittle-h.-d.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811208178
+  - binding: Paperback
+    isbn: 9780811208178
+    publication_date: 1981-11-01T06:00:53-04:00
+    cover_image_path: Hermione.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 17.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: hermione
 ---
 

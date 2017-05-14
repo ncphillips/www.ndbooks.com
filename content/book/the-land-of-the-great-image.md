@@ -2,18 +2,30 @@
 title: "The Land of the Great Image"
 draft: false
 date: 1985-11-01T06:00:10-04:00
-publication_date: 1985-11-01T06:00:10-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/maurice-collis.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811209724
+  - binding: Paperback
+    isbn: 9780811209724
+    publication_date: 1985-11-01T06:00:10-04:00
+    cover_image_path: The_Land_Of_The_Great_Image.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 19.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: the-land-of-the-great-image
 ---
 

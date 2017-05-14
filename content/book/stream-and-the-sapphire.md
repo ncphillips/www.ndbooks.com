@@ -2,20 +2,52 @@
 title: "The Stream And The Sapphire"
 draft: false
 date: 1997-05-01T05:00:00-04:00
-publication_date: 1997-05-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle: "Selected Poems on Religious Themes"
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/denise-levertov.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811213547
-  - 9780811213530
-  - 9780811222402
+  - binding: Paperback
+    isbn: 9780811213547
+    publication_date: 1997-05-01T05:00:00-04:00
+    cover_image_path: The_Stream_and_the_Sapphire.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 12.95
+    price_cn:
+    trim_size: 5x7
+    Page_count: 96
+  - binding: Clothbound
+    isbn: 9780811213530
+    publication_date: 1997-05-01T05:00:00-04:00
+    cover_image_path: The_Stream_and_the_Sapphire.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size: 5x7
+    Page_count: 96
+  - binding: Ebook
+    isbn: 9780811222402
+    publication_date: 1997-05-01T05:00:00-04:00
+    cover_image_path: The_Stream_and_the_Sapphire.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 12.95
+    price_cn:
+    trim_size:
+    Page_count: 96
 _slug: stream-and-the-sapphire
 ---
 

@@ -2,20 +2,42 @@
 title: "Eight Stories"
 draft: false
 date: 1993-04-01T06:00:00-04:00
-publication_date: 1993-04-01T06:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-  - stories
+  - Stories
 language:
-author:
+authors:
   - contributor/dylan-thomas-d.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811212458
-  - 9780811223881
+  - binding: Paperback
+    isbn: 9780811212458
+    publication_date: 1993-04-01T06:00:00-04:00
+    cover_image_path: 8_Stories.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 7.00
+    price_cn:
+    trim_size:
+    Page_count:
+  - binding: Ebook
+    isbn: 9780811223881
+    publication_date: 1993-04-01T06:00:00-04:00
+    cover_image_path: 8_Stories.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count: 96
 _slug: eight-stories
 ---
 

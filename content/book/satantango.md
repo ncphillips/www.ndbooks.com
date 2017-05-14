@@ -2,20 +2,42 @@
 title: "Satantango"
 draft: false
 date: 2012-03-05T14:31:00-04:00
-publication_date: 2012-03-05T14:31:00-04:00
+show_in_forthcoming: true
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: hungarian
-author:
+language: Hungarian
+authors:
   - contributor/laszlo-krasznahorkai.md
-translator:
+translators:
   - contributor/george-szirtes.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "Winner of the 2013 Best Translated Book Award "
 editions:
-  - 9780811220897
-  - 9780811219563
+  - binding: Paperback
+    isbn: 9780811220897
+    publication_date: 2012-03-05T14:31:00-04:00
+    cover_image_path: /uploads/Satantango.png
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn:
+    trim_size:
+    Page_count:
+  - binding: Ebook
+    isbn: 9780811219563
+    publication_date: 2012-03-05T14:31:00-04:00
+    cover_image_path:
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 25.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: satantango
 ---
 

@@ -2,18 +2,30 @@
 title: "Works and Days "
 draft: false
 date: 2015-10-21T17:33:00-04:00
-publication_date: 2016-06-28T04:00:00-04:00
+show_in_forthcoming: true
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/bernadette-mayer.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "A brand spanking new collection, _Works and Days_ is classic Bernadette Mayer: fresh, learned, exciting, and endlessly surprising "
 editions:
-  - 9780811225175
+  - binding: Paperback
+    isbn: 9780811225175
+    publication_date: 2016-06-28T04:00:00-04:00
+    cover_image_path: /uploads/9780811225175.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn: 20.95
+    trim_size: 6 x 9"
+    Page_count: 112
 _slug: works-and-days
 ---
 

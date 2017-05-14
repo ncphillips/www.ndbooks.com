@@ -2,21 +2,53 @@
 title: "Bartleby & Co."
 draft: false
 date: 2007-12-01T06:00:00-04:00
-publication_date: 2007-12-01T06:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: spanish
-author:
+language: Spanish
+authors:
   - contributor/enrique-vila-matas.md
-translator:
+translators:
   - contributor/jonathan-dunne.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "A marvelous novel by one of Spain's most important contemporary authors, in which a clerk in a Barcelona office takes us on a romping tour of world literature "
 editions:
-  - 9780811216982
-  - 9780811215916
-  - 9780811221535
+  - binding: Paperback
+    isbn: 9780811216982
+    publication_date: 2007-12-01T06:00:00-04:00
+    cover_image_path: /uploads/Bartleby_And_Company.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 178
+  - binding: Clothbound
+    isbn: 9780811215916
+    publication_date: 2007-12-01T06:00:00-04:00
+    cover_image_path: Bartleby_And_Company.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 22.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 178
+  - binding: Ebook
+    isbn: 9780811221535
+    publication_date: 2007-12-01T06:00:00-04:00
+    cover_image_path: Bartleby_And_Company.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn:
+    trim_size:
+    Page_count: 178
 _slug: bartleby-and-company
 ---
 

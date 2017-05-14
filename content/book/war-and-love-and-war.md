@@ -2,19 +2,31 @@
 title: "War & Love, Love & War"
 draft: false
 date: 2010-10-29T14:28:00-04:00
-publication_date: 2010-10-29T14:28:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
-language: hebrew
-author:
+language: Hebrew
+authors:
   - contributor/aharon-shabtai.md
-translator:
+translators:
   - contributor/peter-cole.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "A rich, far-ranging, powerful selection of a lifetime's work by the Israeli poet Aharon Shabtai, _one of the most exciting writers working in Hebrew today_ (Ha'aretz). "
 editions:
-  - 9780811218900
+  - binding: Paperback
+    isbn: 9780811218900
+    publication_date: 2010-10-29T14:28:00-04:00
+    cover_image_path: /uploads/ColeWarLove.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn: 20.00
+    trim_size: 5x8
+    Page_count: 144
 _slug: war-and-love-and-war
 ---
 

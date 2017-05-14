@@ -2,21 +2,43 @@
 title: "These Possible Lives"
 draft: false
 date: 2016-11-21T20:32:00-04:00
-publication_date: 2017-07-25T04:00:00-04:00
+show_in_forthcoming: true
 subtitle:
-genre: nonfiction
+genre: Nonfiction
 subgenre:
-  - essay
-language: italian
-author:
+  - Essay
+language: Italian
+authors:
   - contributor/fleur-jaeggy.md
-translator:
+translators:
   - contributor/minna-zallman-proctor.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "**Brief in the way a razor’s slice is brief: remarkable essays by a peerless stylist** "
 editions:
-  - 9780811226875
-  - 9780811226882
+  - binding: Paperback
+    isbn: 9780811226875
+    publication_date: 2017-07-25T04:00:00-04:00
+    cover_image_path: /uploads/possible_lives_cover.tif
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 12.95
+    price_cn: 17.50
+    trim_size: 4.5x7.25
+    Page_count: 64
+  - binding: Ebook
+    isbn: 9780811226882
+    publication_date: 2017-07-25T04:00:00-04:00
+    cover_image_path:
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: these-possible-lives
 ---
 

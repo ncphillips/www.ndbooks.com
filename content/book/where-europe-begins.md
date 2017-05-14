@@ -2,22 +2,54 @@
 title: "Where Europe Begins"
 draft: false
 date: 2002-10-01T05:00:00-04:00
-publication_date: 2002-10-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-  - stories
-language: german
-author:
+  - Stories
+language: German
+authors:
   - contributor/yoko-tawada.md
-translator:
+translators:
   - contributor/susan-bernofsky.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "A gorgeous collection of fantastic and dreamlike tales by one of the world's most innovative contemporary writers "
 editions:
-  - 9780811217026
-  - 9780811215152
-  - 9780811223515
+  - binding: Paperback
+    isbn: 9780811217026
+    publication_date: 2002-10-01T05:00:00-04:00
+    cover_image_path: whereeuropebegins.JPG
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn:
+    trim_size: 5x7
+    Page_count: 224
+  - binding: Clothbound
+    isbn: 9780811215152
+    publication_date: 2002-10-01T05:00:00-04:00
+    cover_image_path: whereeuropebegins.JPG
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 23.95
+    price_cn:
+    trim_size: 5x7
+    Page_count: 224
+  - binding: Ebook
+    isbn: 9780811223515
+    publication_date: 2002-10-01T05:00:00-04:00
+    cover_image_path: whereeuropebegins.JPG
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count: 224
 _slug: where-europe-begins
 ---
 

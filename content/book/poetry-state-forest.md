@@ -2,18 +2,30 @@
 title: "Poetry State Forest"
 draft: false
 date: 2008-11-01T05:00:09-04:00
-publication_date: 2008-11-01T05:00:09-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/bernadette-mayer.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "“One of the most interesting, exciting, and open of late-20th century experimental poets.”—Tom Clark, San Francisco Chronicle "
 editions:
-  - 9780811217231
+  - binding: Paperback
+    isbn: 9780811217231
+    publication_date: 2008-11-01T05:00:09-04:00
+    cover_image_path: Poetry_State_Forest.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 17.95
+    price_cn: 19.00
+    trim_size: 6x9
+    Page_count: 128
 _slug: poetry-state-forest
 ---
 

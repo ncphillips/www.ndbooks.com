@@ -2,20 +2,42 @@
 title: "Robert Creeley and the Genius of the American Common Place"
 draft: false
 date: 1993-11-01T05:59:26-04:00
-publication_date: 1993-11-01T05:59:26-04:00
+show_in_forthcoming: false
 subtitle:
-genre: nonfiction
+genre: Nonfiction
 subgenre:
-  - study
+  - Study
 language:
-author:
+authors:
   - contributor/tom-clark.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811217675
-  - 9780811212502
+  - binding: Paperback
+    isbn: 9780811217675
+    publication_date: 1993-11-01T05:59:26-04:00
+    cover_image_path: Robert_Creeley_and_the_genius.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 18.95
+    price_cn:
+    trim_size:
+    Page_count:
+  - binding: Clothbound
+    isbn: 9780811212502
+    publication_date: 1993-11-01T05:59:26-04:00
+    cover_image_path: Robert_Creeley_and_the_genius.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 26.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: robert-creeley-and-the-genius-of-the-american-common-place
 ---
 

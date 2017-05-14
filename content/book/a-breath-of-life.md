@@ -2,21 +2,43 @@
 title: "A Breath of Life"
 draft: false
 date: 2012-06-13T20:03:00-04:00
-publication_date: 2012-06-13T20:03:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/clarice-lispector.md
-translator:
+translators:
   - contributor/johnny-lorenz.md
-editor:
+editors:
   - contributor/benjamin-moser.md
+contributors:
 featured_image_path:
+description: "In English for the first time. "
 editions:
-  - 9780811219624
-  - 9780811220705
+  - binding: Paperback
+    isbn: 9780811219624
+    publication_date: 2012-06-13T20:03:00-04:00
+    cover_image_path: A-Breath-of-Life.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn: 17.00
+    trim_size:
+    Page_count: 144
+  - binding: Ebook
+    isbn: 9780811220705
+    publication_date: 2012-06-13T20:03:00-04:00
+    cover_image_path: A-Breath-of-Life.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: a-breath-of-life
 ---
 

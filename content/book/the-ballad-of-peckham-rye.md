@@ -2,19 +2,41 @@
 title: "The Ballad of Peckham Rye"
 draft: false
 date: 1999-05-01T05:00:00-04:00
-publication_date: 1999-05-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/muriel-spark.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811214087
-  - 9780811221337
+  - binding: Paperback
+    isbn: 9780811214087
+    publication_date: 1999-05-01T05:00:00-04:00
+    cover_image_path: TheBallad_of_Peckham_Rye.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 11.95
+    price_cn:
+    trim_size:
+    Page_count: 144
+  - binding: Ebook
+    isbn: 9780811221337
+    publication_date: 1999-05-01T05:00:00-04:00
+    cover_image_path: TheBallad_of_Peckham_Rye.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 11.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: the-ballad-of-peckham-rye
 ---
 

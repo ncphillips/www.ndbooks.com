@@ -2,19 +2,41 @@
 title: "The Girl I Left Behind"
 draft: false
 date: 1995-11-01T06:00:30-04:00
-publication_date: 1995-11-01T06:00:30-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/shusaku-endo.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811217736
-  - 9780811213035
+  - binding: Paperback
+    isbn: 9780811217736
+    publication_date: 1995-11-01T06:00:30-04:00
+    cover_image_path: The_Girl_I_Left_Behind.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 17.95
+    price_cn:
+    trim_size:
+    Page_count: 192
+  - binding: Clothbound
+    isbn: 9780811213035
+    publication_date: 1995-11-01T06:00:30-04:00
+    cover_image_path: The_Girl_I_Left_Behind.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 25.95
+    price_cn:
+    trim_size:
+    Page_count: 192
 _slug: the-girl-i-left-behind
 ---
 

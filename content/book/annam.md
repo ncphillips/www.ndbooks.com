@@ -2,20 +2,42 @@
 title: "Annam"
 draft: false
 date: 1996-09-01T05:00:39-04:00
-publication_date: 1996-09-01T05:00:39-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/christophe-bataille.md
-translator:
+translators:
   - contributor/richard-howard.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811217637
-  - 9780811213301
+  - binding: Paperback
+    isbn: 9780811217637
+    publication_date: 1996-09-01T05:00:39-04:00
+    cover_image_path: Annam.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn:
+    trim_size:
+    Page_count: 96
+  - binding: Clothbound
+    isbn: 9780811213301
+    publication_date: 1996-09-01T05:00:39-04:00
+    cover_image_path: Annam.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 21.95
+    price_cn:
+    trim_size:
+    Page_count: 96
 _slug: annam
 ---
 

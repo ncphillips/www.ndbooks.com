@@ -2,18 +2,30 @@
 title: "Collected Poems Of John Wheelwright"
 draft: false
 date: 1983-03-01T06:00:00-04:00
-publication_date: 1983-03-01T06:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/john-wheelwright.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811208499
+  - binding: Paperback
+    isbn: 9780811208499
+    publication_date: 1983-03-01T06:00:00-04:00
+    cover_image_path: Collected_Poems_Of_John_Wheelwright.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 10.00
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: collected-poems-of-john-wheelwright
 ---
 

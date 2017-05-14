@@ -2,18 +2,30 @@
 title: "The Devil’s Tour"
 draft: false
 date: 1993-04-01T06:00:46-04:00
-publication_date: 1993-04-01T06:00:46-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/mary-karr.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811212311
+  - binding: Paperback
+    isbn: 9780811212311
+    publication_date: 1993-04-01T06:00:46-04:00
+    cover_image_path: The_Devils_Tour_2.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 11.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 51
 _slug: the-devils-tour
 ---
 

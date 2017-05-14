@@ -2,19 +2,31 @@
 title: "Foreign Mud"
 draft: false
 date: 2002-06-01T05:00:02-04:00
-publication_date: 2002-06-01T05:00:02-04:00
+show_in_forthcoming: false
 subtitle:
-genre: nonfiction
+genre: Nonfiction
 subgenre:
-  - study
+  - Study
 language:
-author:
+authors:
   - contributor/maurice-collis.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811215060
+  - binding: Paperback
+    isbn: 9780811215060
+    publication_date: 2002-06-01T05:00:02-04:00
+    cover_image_path: Foreign_Mud.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 320
 _slug: foreign-mud
 ---
 

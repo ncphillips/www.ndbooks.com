@@ -2,20 +2,42 @@
 title: "Dark Back of Time"
 draft: false
 date: 2004-06-01T05:00:42-04:00
-publication_date: 2004-06-01T05:00:42-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/javier-marias.md
-translator:
+translators:
   - contributor/esther-allen.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811215701
-  - 9780811214667
+  - binding: Paperback
+    isbn: 9780811215701
+    publication_date: 2004-06-01T05:00:42-04:00
+    cover_image_path: Dark_Back_Of_Time_.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 336
+  - binding: Clothbound
+    isbn: 9780811214667
+    publication_date: 2004-06-01T05:00:42-04:00
+    cover_image_path: Dark_Back_Of_Time_.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 27.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 336
 _slug: dark-back-of-time
 ---
 

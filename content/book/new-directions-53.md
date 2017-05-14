@@ -2,20 +2,41 @@
 title: "New Directions 53"
 draft: false
 date: 1989-10-01T05:00:08-04:00
-publication_date: 1989-10-01T05:00:08-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-  - anthology
+  - Anthology
 language:
-author:
-
-translator:
-editor:
+authors:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811211079
-  - 9780811211062
+  - binding: Paperback
+    isbn: 9780811211079
+    publication_date: 1989-10-01T05:00:08-04:00
+    cover_image_path: New_Directions_53.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 11.95
+    price_cn:
+    trim_size:
+    Page_count:
+  - binding: Clothbound
+    isbn: 9780811211062
+    publication_date: 1989-10-01T05:00:08-04:00
+    cover_image_path: New_Directions_53.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: new-directions-53
 ---
 

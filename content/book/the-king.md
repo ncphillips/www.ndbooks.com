@@ -2,20 +2,42 @@
 title: "The King"
 draft: false
 date: 2014-09-09T14:09:00-04:00
-publication_date: 2015-10-27T14:09:00-04:00
+show_in_forthcoming: true
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-language: dutch
-author:
+language: Dutch
+authors:
   - contributor/kader-abdolah.md
-translator:
+translators:
   - contributor/nancy-forest-flier.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description: "A hypnotic page-turner about historical change and ruthless palace intrigue in Persia, c. 1848 "
 editions:
-  - 9780811223737
-  - 9780811223744
+  - binding: Paperback
+    isbn: 9780811223737
+    publication_date: 2015-10-27T14:09:00-04:00
+    cover_image_path: /uploads/TheKingCover.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 24.95
+    price_cn: 27.95
+    trim_size:
+    Page_count: 352
+  - binding: Ebook
+    isbn: 9780811223744
+    publication_date: 2015-10-27T14:09:00-04:00
+    cover_image_path: The_King.png
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: the-king
 ---
 

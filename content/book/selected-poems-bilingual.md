@@ -2,19 +2,41 @@
 title: "Selected Poems of Jimmy Santiago Baca"
 draft: false
 date: 2009-08-01T05:00:00-04:00
-publication_date: 2009-08-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/jimmy-baca.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811218160
-  - 9780811223331
+  - binding: Paperback
+    isbn: 9780811218160
+    publication_date: 2009-08-01T05:00:00-04:00
+    cover_image_path: Selected_Poems_Bilingual.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 16.95
+    price_cn: 21.00
+    trim_size: 6x9
+    Page_count: 304
+  - binding: Ebook
+    isbn: 9780811223331
+    publication_date: 2009-08-01T05:00:00-04:00
+    cover_image_path: Selected_Poems_Bilingual.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count: 304
 _slug: selected-poems-bilingual
 ---
 

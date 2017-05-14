@@ -2,20 +2,43 @@
 title: "Urn Burial"
 draft: false
 date: 1990-10-26T14:28:00-04:00
-publication_date: 1990-10-26T14:28:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: nonfiction
+genre: Nonfiction
 subgenre:
-  - essay
+  - Essay
 language:
-author:
+authors:
   - contributor/thomas-browne.md
-translator:
-editor:
+translators:
+editors:
+contributors:
+  - contributor/W._G._Sebald.md
 featured_image_path:
+description: "Urn Burial, one of the most influential essays in Western literature, is now available as an ND Pearl. "
 editions:
-  - 9780811218924
-  - 9780811221542
+  - binding: Paperback
+    isbn: 9780811218924
+    publication_date: 1990-10-26T14:28:00-04:00
+    cover_image_path: Urn_Burial.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 9.95
+    price_cn: 13.00
+    trim_size: 4.5x7
+    Page_count: 96
+  - binding: Ebook
+    isbn: 9780811221542
+    publication_date: 1990-10-26T14:28:00-04:00
+    cover_image_path: Urn_Burial.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 9.95
+    price_cn:
+    trim_size:
+    Page_count: 96
 _slug: urn-burial
 ---
 

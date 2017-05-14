@@ -2,18 +2,30 @@
 title: "Voyaging Portraits"
 draft: false
 date: 1988-04-01T06:00:00-04:00
-publication_date: 1988-04-01T06:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/gustaf-sobin.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811210614
+  - binding: Paperback
+    isbn: 9780811210614
+    publication_date: 1988-04-01T06:00:00-04:00
+    cover_image_path: Voyaging_Portraits.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 9.95
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: voyaging-portraits
 ---
 

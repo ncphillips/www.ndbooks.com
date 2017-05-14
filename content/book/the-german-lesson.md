@@ -2,18 +2,30 @@
 title: "The German Lesson"
 draft: false
 date: 1986-04-01T06:00:08-04:00
-publication_date: 1986-04-01T06:00:08-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/siegfried-lenz.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811209823
+  - binding: Paperback
+    isbn: 9780811209823
+    publication_date: 1986-04-01T06:00:08-04:00
+    cover_image_path: The_German_Lesson.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 22.95
+    price_cn: 29.00
+    trim_size:
+    Page_count:
 _slug: the-german-lesson
 ---
 

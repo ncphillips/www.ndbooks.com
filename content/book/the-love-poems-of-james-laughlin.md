@@ -2,19 +2,41 @@
 title: "The Love Poems Of James Laughlin"
 draft: false
 date: 1993-09-01T05:00:00-04:00
-publication_date: 1993-09-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/james-laughlin.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811213875
-  - 9780811213608
+  - binding: Paperback
+    isbn: 9780811213875
+    publication_date: 1993-09-01T05:00:00-04:00
+    cover_image_path: The_Love_Poems_Of_James_Laughlin.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 7.95
+    price_cn:
+    trim_size: 4x7
+    Page_count:
+  - binding: Clothbound
+    isbn: 9780811213608
+    publication_date: 1993-09-01T05:00:00-04:00
+    cover_image_path: The_Love_Poems_Of_James_Laughlin.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size: 4x7
+    Page_count: 64
 _slug: the-love-poems-of-james-laughlin
 ---
 

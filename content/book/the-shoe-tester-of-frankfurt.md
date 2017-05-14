@@ -2,18 +2,30 @@
 title: "The Shoe Tester of Frankfurt"
 draft: false
 date: 2006-06-01T05:00:27-04:00
-publication_date: 2006-06-01T05:00:27-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
 language:
-author:
+authors:
   - contributor/wilhelm-genazino.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "This brief and poignant novel from Germany explores existential questions as its 46-year-old narrator reflects on broken relationships and other failures, and struggles to come to terms with life. "
 editions:
-  - 9780811215831
+  - binding: Paperback
+    isbn: 9780811215831
+    publication_date: 2006-06-01T05:00:27-04:00
+    cover_image_path: The_Shoe_Tester_Of_Frankfurt.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn: 20.00
+    trim_size: 5x8
+    Page_count: 192
 _slug: the-shoe-tester-of-frankfurt
 ---
 

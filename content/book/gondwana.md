@@ -2,19 +2,41 @@
 title: "Gondwana"
 draft: false
 date: 2016-11-21T20:30:00-04:00
-publication_date: 2017-06-27T04:00:00-04:00
+show_in_forthcoming: true
 subtitle:
 genre:
 subgenre:
-language: portuguese
-author:
+language: Portuguese
+authors:
   - contributor/nathaniel-tarn.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description: "**A new collection by America’s internationalist poet—“a vision both original and universal” (Octavio Paz)** "
 editions:
-  - 9780811225021
-  - 9780811225038
+  - binding: Paperback
+    isbn: 9780811225021
+    publication_date: 2017-06-27T04:00:00-04:00
+    cover_image_path: /uploads/Gondwana%20for%20catalog.tif
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 15.95
+    price_cn: 21.95
+    trim_size: 6x9
+    Page_count: 144
+  - binding: Ebook
+    isbn: 9780811225038
+    publication_date: 2017-06-27T04:00:00-04:00
+    cover_image_path:
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: gondwana
 ---
 

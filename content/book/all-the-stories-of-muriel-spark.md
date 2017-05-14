@@ -2,19 +2,31 @@
 title: "All the Stories of Muriel Spark"
 draft: false
 date: 2001-11-01T06:00:00-04:00
-publication_date: 2001-11-01T06:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: fiction
+genre: Fiction
 subgenre:
-  - stories
+  - Stories
 language:
-author:
+authors:
   - contributor/muriel-spark.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811214940
+  - binding: Paperback
+    isbn: 9780811214940
+    publication_date: 2001-11-01T06:00:00-04:00
+    cover_image_path: Allthe_Stories_of_Muriel_Spark.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 19.95
+    price_cn:
+    trim_size: 6x9
+    Page_count:
 _slug: all-the-stories-of-muriel-spark
 ---
 

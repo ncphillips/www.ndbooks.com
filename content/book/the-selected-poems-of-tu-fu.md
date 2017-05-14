@@ -2,20 +2,42 @@
 title: "The Selected Poems Of Tu Fu"
 draft: false
 date: 1985-06-01T05:00:00-04:00
-publication_date: 1985-06-01T05:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
-language: chinese
-author:
+language: Chinese
+authors:
   - contributor/tu-fu.md
-translator:
+translators:
   - contributor/david-hinton.md
-editor:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811211000
-  - 9780811210997
+  - binding: Paperback
+    isbn: 9780811211000
+    publication_date: 1985-06-01T05:00:00-04:00
+    cover_image_path: The_Selected_Poems_Of_Tu_Fu.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us: 13.95
+    price_cn:
+    trim_size:
+    Page_count: 192
+  - binding: Clothbound
+    isbn: 9780811210997
+    publication_date: 1985-06-01T05:00:00-04:00
+    cover_image_path: The_Selected_Poems_Of_Tu_Fu.jpg
+    forsale: true
+    saleprice:
+    shipping_charge:
+    price_us:
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: the-selected-poems-of-tu-fu
 ---
 

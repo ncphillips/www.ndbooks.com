@@ -2,19 +2,41 @@
 title: "Selected Poetry"
 draft: false
 date: 1993-09-01T05:00:06-04:00
-publication_date: 1993-09-01T05:00:06-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/hugh-macdiarmid.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811217811
-  - 9780811212489
+  - binding: Paperback
+    isbn: 9780811217811
+    publication_date: 1993-09-01T05:00:06-04:00
+    cover_image_path: Selected_Poetry._Hugh_MacDiarmid_.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 22.95
+    price_cn:
+    trim_size:
+    Page_count:
+  - binding: Clothbound
+    isbn: 9780811212489
+    publication_date: 1993-09-01T05:00:06-04:00
+    cover_image_path: Selected_Poetry._Hugh_MacDiarmid_.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 30.95
+    price_cn:
+    trim_size:
+    Page_count: 289
 _slug: selected-poetry
 ---
 

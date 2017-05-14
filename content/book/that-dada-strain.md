@@ -2,18 +2,30 @@
 title: "That Dada Strain"
 draft: false
 date: 1983-03-01T06:00:00-04:00
-publication_date: 1983-03-01T06:00:00-04:00
+show_in_forthcoming: false
 subtitle:
-genre: poetry
+genre: Poetry
 subgenre:
 language:
-author:
+authors:
   - contributor/jerome-rothenberg.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811208604
+  - binding: Paperback
+    isbn: 9780811208604
+    publication_date: 1983-03-01T06:00:00-04:00
+    cover_image_path: That_Dada_Strain.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 7.25
+    price_cn:
+    trim_size:
+    Page_count:
 _slug: that-dada-strain
 ---
 

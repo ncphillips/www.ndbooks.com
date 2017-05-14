@@ -2,19 +2,31 @@
 title: "Sextet"
 draft: false
 date: 2010-04-01T05:00:20-04:00
-publication_date: 2010-04-01T05:00:20-04:00
+show_in_forthcoming: false
 subtitle:
-genre: nonfiction
+genre: Nonfiction
 subgenre:
-  - essay
+  - Essay
 language:
-author:
+authors:
   - contributor/henry-miller.md
-translator:
-editor:
+translators:
+editors:
+contributors:
 featured_image_path:
+description:
 editions:
-  - 9780811218009
+  - binding: Paperback
+    isbn: 9780811218009
+    publication_date: 2010-04-01T05:00:20-04:00
+    cover_image_path: Sextet.jpg
+    forsale: false
+    saleprice:
+    shipping_charge:
+    price_us: 14.95
+    price_cn:
+    trim_size: 5x8
+    Page_count: 188
 _slug: sextet
 ---
 
