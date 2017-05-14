@@ -1,33 +1,21 @@
 ---
 title: "The Late Poems of Wang An-Shih"
-published: true
-date: 2015-03-17T14:43:00.000Z
-publication_date: 2015-03-17T14:43:00.000Z
-show_in_forthcoming: true
+draft: false
+date: 2015-03-17T14:43:00-04:00
+publication_date: 2015-03-17T14:43:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
+subgenre:
 language:
-type:
-author_contributors:
-  - wang-an-shih
-translator_contributors:
-  - david-hinton
-editor_contributors:
-contributors:
+author:
+  - contributor/wang-an-shih.md
+translator:
+  - contributor/david-hinton.md
+editor:
 featured_image_path:
-cover_image_path: /webhook-uploads/1426623615801/Late_Poems_Wang.png
-description: "One of the great Song Dynasty poets and also the most influential and controversial statesman of his time. "
 editions:
-  - binding: Clothbound
-    isbn: 9780811222631
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count: 128
-slug: the-late-poems-of-wang-an-shih
+  - 9780811222631
+_slug: the-late-poems-of-wang-an-shih
 ---
 
 Wang An-shih (1021–1086) was a remarkable figure—not only one of the great Song Dynasty poets but also the most influential and controversial statesman of his time. Wang rose to the position of Prime Minister, where he instituted a controversial system of radically egalitarian social reforms in an effort to improve the lives of China’s peasants. Wang then left politics and retired to a reclusive artistic and spiritual life of self-cultivation. 

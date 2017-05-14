@@ -1,33 +1,21 @@
 ---
 title: "The Good Cripple"
-published: true
-date: 2004-05-01T05:00:00.000Z
-publication_date: 2004-05-01T05:00:00.000Z
-show_in_forthcoming: false
+draft: false
+date: 2004-05-01T05:00:00-04:00
+publication_date: 2004-05-01T05:00:00-04:00
 subtitle:
-genre: Fiction
-language: Portuguese
-type:
-author_contributors:
-  - rodrigo-rey-rosa
-translator_contributors:
-  - esther-allen
-editor_contributors:
-contributors:
+genre: fiction
+subgenre:
+language: portuguese
+author:
+  - contributor/rodrigo-rey-rosa.md
+translator:
+  - contributor/esther-allen.md
+editor:
 featured_image_path:
-cover_image_path: The_Good_Cripple.jpg
-description:
 editions:
-  - binding: Paperback
-    isbn: 9780811215664
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 13.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 144
-slug: the-good-cripple
+  - 9780811215664
+_slug: the-good-cripple
 ---
 
 An explosive novel from Guatemala’s premiere young writer Rodrigo Rey Rosa, _The Good Cripple_ is obsessively focused and chilling. It is also allegorical––and under the calm surface of Rodrigo Rey Rosa’s lithe style questions about violence, mutilation, and revenge churn darkly away.

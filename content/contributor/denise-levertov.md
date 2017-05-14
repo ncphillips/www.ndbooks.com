@@ -1,13 +1,13 @@
 ---
 title: "Denise Levertov"
-published: true
-date: 2011-09-08T04:23:13.000Z
+draft: false
+date: 2011-09-08T04:23:13-04:00
 last_name: "Levertov"
 contributor_type:
 image_path:
 image_credit:
 featured_image_path:
-slug: denise-levertov
+_slug: denise-levertov
 ---
 
 Denise Levertov was born in 1923 in London and educated at home by her mother. Her formal education ended at age twelve, though she studied ballet for a time thereafter and was a lifelong autodidact and student of the arts, literature and languages. Her first book of poems, _The Double Image_, was published by Cresset Press, London in 1946 and in 1948 she came to the U.S. as the wife of Mitchell Goodman, who had been studying in Europe on the G.I. Bill. 

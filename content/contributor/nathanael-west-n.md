@@ -1,13 +1,13 @@
 ---
 title: "Nathanael West"
-published: true
-date: 2011-09-08T04:24:00.000Z
+draft: false
+date: 2011-09-08T04:24:00-04:00
 last_name: "West"
 contributor_type:
 image_path:
 image_credit:
 featured_image_path:
-slug: nathanael-west-n
+_slug: nathanael-west-n
 ---
 
 In 1962, poet Hayden Carruth wrote, “Nathanael West, who died almost unknown in 1940, is recognized today as one of the most significant American writers of his time.” Here is Carruth’s capsule biography of West:

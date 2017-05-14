@@ -1,13 +1,13 @@
 ---
 title: "Ezra Pound"
-published: true
-date: 2011-09-08T04:23:00.000Z
+draft: false
+date: 2011-09-08T04:23:00-04:00
 last_name: "Pound"
 contributor_type:
 image_path:
 image_credit:
 featured_image_path:
-slug: ezra-pound
+_slug: ezra-pound
 ---
 
 A biography of Ezra Pound (1885–1972), in his own words, as published in the 1949 edition of _Selected Poems of Ezra Pound_, the same year he was awarded the Bollingen Prize by the Library of Congress:

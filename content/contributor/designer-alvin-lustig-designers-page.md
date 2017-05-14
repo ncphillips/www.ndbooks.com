@@ -1,13 +1,13 @@
 ---
 title: "Alvin Lustig"
-published: true
-date: 2013-09-30T16:07:00.000Z
+draft: false
+date: 2013-09-30T16:07:00-04:00
 last_name: "Lustig"
 contributor_type:
 image_path:
 image_credit:
 featured_image_path:
-slug: designer/alvin-lustig-designers-page
+_slug: designer/alvin-lustig-designers-page
 ---
 
 From "The Book Jackets of Alvin Lustig" by James Laughlin, _Print Magazine_, Oct/Nov 1956

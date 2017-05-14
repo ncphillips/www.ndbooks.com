@@ -1,34 +1,22 @@
 ---
 title: "The Informed Air"
-published: true
-date: 2014-04-29T16:21:00.000Z
-publication_date: 2014-04-29T16:21:00.000Z
-show_in_forthcoming: false
+draft: false
+date: 2014-04-29T16:21:00-04:00
+publication_date: 2014-04-29T16:21:00-04:00
 subtitle: "Essays"
-genre: Nonfiction
+genre: nonfiction
+subgenre:
+  - essay
 language:
-type:
-  - Essay
-author_contributors:
-  - muriel-spark
-translator_contributors:
-editor_contributors:
-  - penelope-jardin
-contributors:
+author:
+  - contributor/muriel-spark.md
+translator:
+editor:
+  - contributor/penelope-jardin.md
 featured_image_path:
-cover_image_path: Informed_Air.jpg
-description: "Together for the first time in one sparkling, delicious volume, here are the greatest essays of Muriel Spark "
 editions:
-  - binding: Clothbound
-    isbn: 9780811221597
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 24.95
-    price_cn: 26.50
-    trim_size:
-    Page_count: 352
-slug: the-informed-air
+  - 9780811221597
+_slug: the-informed-air
 ---
 
 In this monumental collection, the inimitable Muriel Spark addresses all of her favorite subjects: the writing life; love; cats; favorite writers (T. S. Eliot, Robert Burns, the Brontës, Mary Shelley); Piero della Francesca; life in wartime London and in glamorous “Hollywood-on-the-Tiber” 1960s Rome; faith; and parties (of course). 

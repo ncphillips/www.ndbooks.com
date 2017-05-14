@@ -1,13 +1,13 @@
 ---
 title: "Louis Zukofsky"
-published: true
-date: 2011-09-08T04:24:00.000Z
+draft: false
+date: 2011-09-08T04:24:00-04:00
 last_name: "Zukofsky"
 contributor_type:
 image_path:
 image_credit:
 featured_image_path:
-slug: louis-zukofsky
+_slug: louis-zukofsky
 ---
 
 Louis Zukofsky was born in 1904 on Manhattan’s Lower East Side, the child of immigrant Jews. He attended Columbia University as part of the brilliant generation of Meyer Schapiro, Lionel Trilling, Clifton Fadiman, and Whittaker Chambers, who was his close friend. In the late 1920s and 1930s he involved himself with Leftist politics, but at the same time was making his name as a modernist poet. His first significant work, “Poem beginning ‘The’” (1926), a mordant riposte to T. S. Eliot’s _The Waste Land_ from the perspective of a Marxist American Jew, brought him to the attention of Ezra Pound, who introduced him to William Carlos Williams, with whom Zukofsky would enjoy a longstanding, close friendship—one of the central artistic relationships of Williams’s life.

@@ -1,30 +1,18 @@
 ---
 title: "Tristano Is Dying"
-published: true
-date: 2001-01-01T06:00:52.000Z
-publication_date: 2001-01-01T06:00:52.000Z
-show_in_forthcoming: false
+draft: false
+date: 2001-01-01T06:00:52-04:00
+publication_date: 2001-01-01T06:00:52-04:00
 subtitle:
-genre: Fiction
+genre: fiction
+subgenre:
 language:
-type:
-author_contributors:
-  - antonio-tabucchi
-translator_contributors:
-editor_contributors:
-contributors:
+author:
+  - contributor/antonio-tabucchi.md
+translator:
+editor:
 featured_image_path:
-cover_image_path: Tristano_Is_Dying.jpg
-description:
 editions:
-  - binding: Clothbound
-    isbn: 9780811216586
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
-slug: tristano-is-dying
+  - 9780811216586
+_slug: tristano-is-dying
 ---

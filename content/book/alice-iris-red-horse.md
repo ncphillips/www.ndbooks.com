@@ -1,63 +1,34 @@
 ---
 title: "Alice Iris Red Horse"
-published: true
-date: 2016-03-07T18:20:00.000Z
-publication_date: 2016-09-06T04:00:00.000Z
-show_in_forthcoming: false
+draft: false
+date: 2016-03-07T18:20:00-04:00
+publication_date: 2016-09-27T04:00:00-04:00
 subtitle: "Selected Poems"
-genre: Poetry
-language: Japanese
-type:
-author_contributors:
-  - yoshimasu-gozo
-translator_contributors:
-  - sawako-nakayasu
-
-  - hiroaki-sato
-
-  - eric-selland
-
-  - jeffrey-angles
-
-  - richard-arno
-
-  - derek-gromadzki
-
-  - sayuri-okamoto
-
-  - auston-stewart
-
-  - kyoko-yoshida
-editor_contributors:
-  - forrest-gander
-contributors:
-  - derek-gromadzki
+genre: poetry
+subgenre:
+language: japanese
+author:
+  - contributor/yoshimasu-gozo.md
+translator:
+  - contributor/sawako-nakayasu.md
+  - contributor/hiroaki-sato.md
+  - contributor/eric-selland.md
+  - contributor/jeffrey-angles.md
+  - contributor/richard-arno.md
+  - contributor/derek-gromadzki.md
+  - contributor/sayuri-okamoto.md
+  - contributor/auston-stewart.md
+  - contributor/kyoko-yoshida.md
+  - contributor/jordan-a-y-smith.md
+editor:
+  - contributor/forrest-gander.md
 featured_image_path:
-cover_image_path: /webhook-uploads/1457108687918/gozo_cover_to_size.tif
-description: "For the first time in English, a selection from the highly acclaimed Japanese poet, photographer, performance artist, and filmmaker "
 editions:
-  - binding: Paperback
-    isbn: 9780811226042
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 18.95
-    price_cn:
-    trim_size: 6 x 9
-    Page_count: 240
-  - binding: Ebook
-    isbn: 9780811226059
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
-slug: alice-iris-red-horse
+  - 9780811226042
+  - 9780811226059
+_slug: alice-iris-red-horse
 ---
+Yoshimasu Gozo's groundbreaking poetry has spanned over half a century since the publication of his first book, _Departure_, in 1964\. Much of his work is highly unorthodox: it challenges the print medium and language itself, and consequently Alice Iris Red Horse is as much a book on translation as it is a book in translation. Since the late '60s, Gozo has collaborated with visual artists and free-jazz musicians. In the 1980s he began creating art objects engraved on copper plates and later produced photographs and video works. Alice Iris Red Horse contains translations of Gozo's major poems, representing his entire career. Also included are illuminating interviews, reproductions of Gozo's artworks, and photographs of his performances.Translated by Jeffrey Angles, Richard Arno, Forrest Gander, Derek Gromadzki, Sawako Nakayasu, Sayuri Okamoto, Hiroaki Sato, Eric Selland, Auston Stewart, Kyoko Yoshida, and Jordan A. Y. Smith. Introduction and notes by Derek Gromadzki. Edited by Forrest Gander.
 
-Yoshimasu Gozo is one of the most prominent figures in contemporary Japanese literature and art. His creative endeavors have spanned over half a century since the publication of his first book of poetry, _Shuppatsu (Departure)_. Much of his work is so unorthodox it defies the print medium. Since the late sixties, Gozo has collaborated with visual artists and free-jazz musicians. In the late eighties, he began creating art objects that featured words engraved on copper plates and later produced photographs and video works. In _Alice Iris Red Horse_, the poet Forrest Gander has gathered translations of Gozo’s major works that represent his entire career. Also included here are illuminating interviews and reproductions of Gozo’s artworks and performances.
-
-<span></span>Translated by Jeffrey Angles, Richard Arno, Forrest Gander, Derek Gromadzki, Sawako Nakayasu, Sayuri Okamoto, Hiroaki Sato, Eric Selland, Auston Stewart, and Kyoko Yoshida. Introduction and notes by Derek Gromadzki. Edited by Forrest Gander.
+**Download** **["A Note on the Notes" and notes on the poems](/static/files/Gromadzki_ND_Website_Notes_Omnibus_With_Intro.pdf).**[](/static/files/Gromadzki_ND_Website_Notes_Omnibus_With_Intro.pdf)
 

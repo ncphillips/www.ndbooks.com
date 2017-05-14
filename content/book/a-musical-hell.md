@@ -1,33 +1,21 @@
 ---
 title: "A Musical Hell"
-published: true
-date: 2013-07-10T19:19:00.000Z
-publication_date: 2013-07-10T19:19:00.000Z
-show_in_forthcoming: false
+draft: false
+date: 2013-07-10T19:19:00-04:00
+publication_date: 2013-07-10T19:19:00-04:00
 subtitle:
-genre: Poetry
-language: Spanish
-type:
-author_contributors:
-  - alejandra-pizarnik
-translator_contributors:
-  - yvette-siegert
-editor_contributors:
-contributors:
+genre: poetry
+subgenre:
+language: spanish
+author:
+  - contributor/alejandra-pizarnik.md
+translator:
+  - contributor/yvette-siegert.md
+editor:
 featured_image_path:
-cover_image_path: Musical_Hell.jpg
-description:
 editions:
-  - binding: Paperback
-    isbn: 9780811220965
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 10.95
-    price_cn: 11.99
-    trim_size:
-    Page_count: 48
-slug: a-musical-hell
+  - 9780811220965
+_slug: a-musical-hell
 ---
 
 “An aura of legendary prestige surrounds the work of Alejandra Pizarnik,” writes César Aira. Her last collection to be published before her suicide in 1972, _A Musical Hell_ is the first book of poems by Pizarnik to be published in its entirety in the U.S. Pizarnik writes at the edge of poetic impossibility, opening with a blues singer, expanding into silence, and closing into a theater of shadows and songs of the drowned.

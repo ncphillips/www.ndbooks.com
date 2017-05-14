@@ -1,11 +1,11 @@
 ---
 title: "Alastair Reid"
-published: true
-date: 2011-09-08T04:23:27.000Z
+draft: false
+date: 2011-09-08T04:23:27-04:00
 last_name: "Reid"
 contributor_type:
 image_path:
 image_credit:
 featured_image_path:
-slug: alastair-reid
+_slug: alastair-reid
 ---

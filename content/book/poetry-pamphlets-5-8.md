@@ -1,38 +1,23 @@
 ---
 title: "Poetry Pamphlets 5-8"
-published: true
-date: 2013-07-10T19:19:00.000Z
-publication_date: 2013-07-10T19:19:00.000Z
-show_in_forthcoming: false
+draft: false
+date: 2013-07-10T19:19:00-04:00
+publication_date: 2013-07-10T19:19:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
+subgenre:
 language:
-type:
-author_contributors:
-  - nathaniel-tarn
-
-  - hilda-doolittle-h.-d
-
-  - alejandra-pizarnik
-
-  - forrest-gander
-translator_contributors:
-editor_contributors:
-contributors:
+author:
+  - contributor/nathaniel-tarn.md
+  - contributor/hilda-doolittle-h.-d.md
+  - contributor/alejandra-pizarnik.md
+  - contributor/forrest-gander.md
+translator:
+editor:
 featured_image_path:
-cover_image_path: Poetry_Pamphlets_5-8.jpg
-description: "The second set of our revived poetry pamphlets "
 editions:
-  - binding: Paperback
-    isbn: 9780811221221
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 35.00
-    price_cn: 37.00
-    trim_size:
-    Page_count: 196
-slug: poetry-pamphlets-5-8
+  - 9780811221221
+_slug: poetry-pamphlets-5-8
 ---
 
 In March of 2013 we launched a new series of Poetry Pamphlets, a reincarnated version of the “Poet of the Month” and “Poets of the Year” series James Laughlin published in the 1940s, which brought out such eclectic hits as William Carlos Williams’s _The Broken Span_, Delmore Schwartz’s poetic play _Shenandoah_, John Donne’s _Some Poems and a Devotion_, and Yvor Winters’s _Giant Weapon_, among many others. The New Directions Poetry Pamphlets will highlight original work by writers from around the world, as well as forgotten treasures lost in the cracks of literary history. (More information on the first set can be found [here](http://ndbooks.com/book/poetry-pamphlets).)

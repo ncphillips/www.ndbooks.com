@@ -1,13 +1,13 @@
 ---
 title: "Henry Green"
-published: true
-date: 2011-09-08T04:22:08.000Z
+draft: false
+date: 2011-09-08T04:22:08-04:00
 last_name: "Green"
 contributor_type:
 image_path:
 image_credit:
 featured_image_path:
-slug: henry-green
+_slug: henry-green
 ---
 
 Green was born near Tewkesbury, Gloucestershire, into an educated family with successful business interests. Green grew up in Gloucestershire and attended Eton College, where he became friends with fellow pupil Anthony Powell and wrote most of his first novel, _Blindness_. He studied at Oxford University and there began a friendship and literary rivalry with Evelyn Waugh.

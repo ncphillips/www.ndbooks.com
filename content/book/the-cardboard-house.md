@@ -1,42 +1,22 @@
 ---
 title: "The Cardboard House"
-published: true
-date: 2012-09-25T17:41:00.000Z
-publication_date: 2012-09-25T17:41:00.000Z
-show_in_forthcoming: false
+draft: false
+date: 2012-09-25T17:41:00-04:00
+publication_date: 2012-09-25T17:41:00-04:00
 subtitle:
-genre: Fiction
-language: Spanish
-type:
-author_contributors:
-  - martin-adan
-translator_contributors:
-  - katherine-silver
-editor_contributors:
-contributors:
+genre: fiction
+subgenre:
+language: spanish
+author:
+  - contributor/martin-adan.md
+translator:
+  - contributor/katherine-silver.md
+editor:
 featured_image_path:
-cover_image_path: The-Cardboard-House.jpg
-description: "Runner-up for the 2013 PEN Translation Prize "
 editions:
-  - binding: Paperback
-    isbn: 9780811219594
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn: 15.00
-    trim_size:
-    Page_count: 128
-  - binding: Ebook
-    isbn: 9780811219983
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn:
-    trim_size:
-    Page_count:
-slug: the-cardboard-house
+  - 9780811219594
+  - 9780811219983
+_slug: the-cardboard-house
 ---
 
 Published in 1928 to great acclaim when its author was just twenty years old, _The Cardboard House_ is sweeping and passionate. The novel presents a series of flashes — scenes, moods, dreams, and weather — as the narrator wanders through Barranco (then an exclusive seaside resort outside Lima). In one stunning passage after another, he skips from reveries of first loves, South Pole explorations, and ocean tides to precise and unashamed notations of class and of race: from an Indian woman "with her hard, shiny, damp head of hair — a mud carving" to a gringo gobbling "synthetic milk, canned meat, hard liquor."

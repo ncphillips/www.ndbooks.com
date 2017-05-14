@@ -1,13 +1,13 @@
 ---
 title: "Nikolai Gogol"
-published: true
-date: 2011-09-27T18:33:00.000Z
+draft: false
+date: 2011-09-27T18:33:00-04:00
 last_name: "Gogol"
 contributor_type:
 image_path:
 image_credit:
 featured_image_path:
-slug: nikolai-gogol
+_slug: nikolai-gogol
 ---
 
 Nikolai Gogol (1809–1852) was a novelist and political satirist. Born in Sorochintsi, Ukraine, he grew up on his parents’ country estate. In 1828 Gogol, an aspiring writer, settled in St. Petersburg, with a certificate attesting his right to “the rank of the 14th class.” To support himself Gogol worked minor governmental jobs and wrote occasionally for periodicals. Although he was interested in literature, he also dreamed of becoming an actor. However, the capital of Russia did not welcome him with open arms and his early narrative poem, _Hans Küchelgarten_ (1829), turned out to be a disaster.

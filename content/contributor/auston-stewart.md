@@ -1,11 +1,11 @@
 ---
 title: "Auston Stewart"
-published: true
-date: 2016-03-18T15:24:00.000Z
+draft: false
+date: 2016-03-18T15:24:00-04:00
 last_name: "Stewart"
 contributor_type:
 image_path:
 image_credit:
 featured_image_path:
-slug: auston-stewart
+_slug: auston-stewart
 ---

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Staffs on New Directions Publishers</title>
+    <link>https://example.com/staff/</link>
+    <description>Recent content in Staffs on New Directions Publishers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://example.com/staff/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Barbara Epler</title>
+      <link>https://example.com/staff/barbara-epler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/staff/barbara-epler/</guid>
+      <description>joined New Directions as an editorial assistant after graduating from college in 1984. She became editor in chief in 1995; named Publisher in 2008, and in 2011 became president.</description>
+    </item>
+    
+    <item>
+      <title>Brittany Dennison</title>
+      <link>https://example.com/staff/brittany-dennison/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/staff/brittany-dennison/</guid>
+      <description>is co-director of publicity. She hails from St. Louis and Seattle.</description>
+    </item>
+    
+    <item>
+      <title>Chris Wait</title>
+      <link>https://example.com/staff/chris-wait/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/staff/chris-wait/</guid>
+      <description>is permissions editor and Ebook manager at New Directions. After graduating from Vassar College, he lived in Argentina, Japan, Mexico and Turkey before settling in New York.</description>
+    </item>
+    
+    <item>
+      <title>Declan Spring</title>
+      <link>https://example.com/staff/declan-spring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/staff/declan-spring/</guid>
+      <description>is vice president, senior editor, and director of foreign rights. He has been working at New Directions since 1991.</description>
+    </item>
+    
+    <item>
+      <title>Erik Rieselbach</title>
+      <link>https://example.com/staff/erik-rieselbach/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/staff/erik-rieselbach/</guid>
+      <description>is the art director and production manager of New Directions.</description>
+    </item>
+    
+    <item>
+      <title>Jeff Clapper</title>
+      <link>https://example.com/staff/jeff-clapper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/staff/jeff-clapper/</guid>
+      <description>has been working for New Directions for twenty years as our business manager and computer consultant extraordinaire.</description>
+    </item>
+    
+    <item>
+      <title>Jeffrey Yang</title>
+      <link>https://example.com/staff/jeffrey-yang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/staff/jeffrey-yang/</guid>
+      <description>works as an editor at New Directions. He has been with the press since 2000.</description>
+    </item>
+    
+    <item>
+      <title>Laurie Callahan</title>
+      <link>https://example.com/staff/laurie-callahan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/staff/laurie-callahan/</guid>
+      <description>is executive vice president.</description>
+    </item>
+    
+    <item>
+      <title>Mieke Chew</title>
+      <link>https://example.com/staff/mieke-chew/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/staff/mieke-chew/</guid>
+      <description>is co-director of publicity. She grew up in Australia, where she founded Higher Arc magazine in 2011.</description>
+    </item>
+    
+    <item>
+      <title>Tynan Kogane</title>
+      <link>https://example.com/staff/tynan-kogane/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/staff/tynan-kogane/</guid>
+      <description>is an editor at New Directions. He was raised in Seattle and graduated from the New School.</description>
+    </item>
+    
+  </channel>
+</rss>

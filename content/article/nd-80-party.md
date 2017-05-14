@@ -1,0 +1,117 @@
+---
+title: "ND 80 Party "
+draft: false
+date: 2016-05-23T17:30:00-04:00
+featured: false
+description: ""
+related_contributor:
+
+related_book:
+
+images:
+  - image: "/webhook-uploads/1464024501569/newdirections80_09.jpg"
+    caption: "Barbara Epler, Bernadette Mayer, and the front row at Greenlight look up at John Keene"
+  - image: "/webhook-uploads/1464024566216/newdirections80_01.jpg"
+    caption: "Outside Greenlight Bookstore, Brooklyn"
+  - image: "/webhook-uploads/1464024574120/newdirections80_02.jpg"
+    caption: "Eliot Weinberger out front"
+  - image: "/webhook-uploads/1464102692806/newdirections80_03.jpg"
+    caption: "Anne Carson before the event"
+  - image: "/webhook-uploads/1464024581209/newdirections80_04.jpg"
+    caption: "ND books on display"
+  - image: "/webhook-uploads/1464024599154/newdirections80_08.jpg"
+    caption: "ND80 M&M's"
+  - image: "/webhook-uploads/1464102793607/newdirections80_05.jpg"
+    caption: "Robert Currie, Anne Carson, and friend"
+  - image: "/webhook-uploads/1464102823484/newdirections80_10.jpg"
+    caption: "Co-owner of Greenlight Bookstore, Jessica Stockton Bagnulo"
+  - image: "/webhook-uploads/1464024606691/newdirections80_11.jpg"
+    caption: "Jessica waves THE WAY IT WASN'T "
+  - image: "/webhook-uploads/1464024617294/newdirections80_13.jpg"
+    caption: "Mieke Chew"
+  - image: "/webhook-uploads/1464024633477/newdirections80_14.jpg"
+    caption: "John Keene "
+  - image: "/webhook-uploads/1464102875056/newdirections80_17.jpg"
+    caption: ""
+  - image: "/webhook-uploads/1464024649995/newdirections80_18.jpg"
+    caption: "Rivka Galchen with Ezra Pound"
+  - image: "/webhook-uploads/1464102904563/newdirections80_21.jpg"
+    caption: ""
+  - image: "/webhook-uploads/1464102928959/newdirections80_22.jpg"
+    caption: "Eliot Weinberger and crowd"
+  - image: "/webhook-uploads/1464102936228/newdirections80_26.jpg"
+    caption: ""
+  - image: "/webhook-uploads/1464102953720/newdirections80_28.jpg"
+    caption: "Bernadette Mayer"
+  - image: "/webhook-uploads/1464102961747/newdirections80_29.jpg"
+    caption: ""
+  - image: "/webhook-uploads/1464102969737/newdirections80_30.jpg"
+    caption: ""
+  - image: "/webhook-uploads/1464102975719/newdirections80_31.jpg"
+    caption: ""
+  - image: "/webhook-uploads/1464102980309/newdirections80_32.jpg"
+    caption: "Anne Carson "
+  - image: "/webhook-uploads/1464102991306/newdirections80_35.jpg"
+    caption: ""
+  - image: "/webhook-uploads/1464103007753/newdirections80_36.jpg"
+    caption: "László Krasznahorkai "
+  - image: "/webhook-uploads/1464103011745/newdirections80_38.jpg"
+    caption: ""
+  - image: "/webhook-uploads/1464103015639/newdirections80_39.jpg"
+    caption: "László and Barbara Epler share a hug"
+  - image: "/webhook-uploads/1464103043635/newdirections80_44.jpg"
+    caption: ""
+  - image: "/webhook-uploads/1464103049590/newdirections80_45.jpg"
+    caption: ""
+  - image: "/webhook-uploads/1464103054439/newdirections80_46.jpg"
+    caption: "Barbara and our web wizard, Bud Parr"
+  - image: "/webhook-uploads/1464103064890/newdirections80_47.jpg"
+    caption: ""
+  - image: "/webhook-uploads/1464103073543/newdirections80_50.jpg"
+    caption: ""
+  - image: "/webhook-uploads/1464103078103/newdirections80_51.jpg"
+    caption: ""
+  - image: "/webhook-uploads/1464103081861/newdirections80_52.jpg"
+    caption: "Mieke Chew, Katie Raissian, and Allison Elizabeth"
+  - image: "/webhook-uploads/1464103093841/newdirections80_53.jpg"
+    caption: ""
+  - image: "/webhook-uploads/1464103096939/newdirections80_54.jpg"
+    caption: ""
+  - image: "/webhook-uploads/1464103108658/newdirections80_55.jpg"
+    caption: ""
+  - image: "/webhook-uploads/1464103112150/newdirections80_56.jpg"
+    caption: ""
+  - image: "/webhook-uploads/1464103117644/newdirections80_58.jpg"
+    caption: "Happy Anniversary Currie and Anne! "
+  - image: "/webhook-uploads/1464103130314/newdirections80_61.jpg"
+    caption: ""
+  - image: "/webhook-uploads/1464103134558/newdirections80_62.jpg"
+    caption: ""
+  - image: "/webhook-uploads/1464103156363/newdirections80_65.jpg"
+    caption: ""
+  - image: "/webhook-uploads/1464103159261/newdirections80_67.jpg"
+    caption: "Maya Bradford and Emily Ballaine all the way from Green Apple Bookstore in San Francisco "
+  - image: "/webhook-uploads/1464103164513/newdirections80_68.jpg"
+    caption: "Rivka and Susan Bernofsky "
+  - image: "/webhook-uploads/1464103191203/newdirections80_69.jpg"
+    caption: ""
+  - image: "/webhook-uploads/1464103198407/newdirections80_70.jpg"
+    caption: "Laurie Callahan and Susan with ND tattoos. That's not coming off. "
+  - image: "/webhook-uploads/1464103205789/newdirections80_71.jpg"
+    caption: "Anne Waldman, Mieke Chew, Nina Subin"
+  - image: "/webhook-uploads/1464103218679/newdirections80_73.jpg"
+    caption: "Rivka Galchen, Joseph O'Neill, David Gordon, Barbara Epler"
+featured_image_position: "center"
+_slug: nd-80-party
+---
+
+New Directions was founded in 1936 by James Laughlin, following the advice of Ezra Pound to "do something useful." Since then, New Directions has published over 1500 works of literature. We celebrated our 80th birthday last Friday at Greenlight Bookstore in Brooklyn.
+
+For those who couldn't make it, you missed: John Keene's toast and a slice of his story "Rivers"; Rivka Galchen reading Ezra Pound and Stevie Smith; Eliot Weinberger's tantric ode to the ND goddesses; Bernadette Mayer reading an erotic Chinese poem, a poem inspired by rap music, and another about Lyme disease; Anne Carson reading from _The Albertine Workout_, and anniversary poem to her husband, Currie; and László Krasznahoraki's nihilistic reading, with an "except for New Directions" punch line.
+
+Thanks to everyone who came out to celebrate! We are very grateful to everyone who has contributed to ND over the years, everyone who participated in the event, our co-publisher, Christine Burgin, the wonderful booksellers at Greenlight for having us, and all of our readers.
+
+Cheers to 80 years to New Directions!
+
+Photos: [Sachyn Mital](http://sachynmital.com)
+

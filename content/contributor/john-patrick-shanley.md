@@ -1,11 +1,14 @@
 ---
 title: "John Patrick Shanley"
-published: true
-date: 2012-01-12T16:51:42.000Z
+draft: false
+date: 2016-06-17T15:10:00-04:00
 last_name: "Shanley"
 contributor_type:
 image_path:
 image_credit:
 featured_image_path:
-slug: john-patrick-shanley
+_slug: john-patrick-shanley
 ---
+
+John Patrick Shanley is the author of _Doubt: A Parable_, which won the Tony Award and the Pulitzer Prize for best play of 2005, and several screenplays, including _Moonstruck_, winner of the Academy Award for best original screenplay.
+

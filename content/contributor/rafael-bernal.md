@@ -1,13 +1,13 @@
 ---
 title: "Rafael Bernal"
-published: true
-date: 2013-09-18T17:11:00.000Z
+draft: false
+date: 2013-09-18T17:11:00-04:00
 last_name: "Bernal"
 contributor_type:
 image_path:
 image_credit:
 featured_image_path:
-slug: rafael-bernal
+_slug: rafael-bernal
 ---
 
 Rafael Bernal (1915-1972) was the author of many novels and plays. [_The Mongolian Conspiracy_ ](http://ndbooks.com/book/the-mongolian-conspiracy)is regarded as his masterpiece.

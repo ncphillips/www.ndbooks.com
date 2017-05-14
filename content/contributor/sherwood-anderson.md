@@ -1,13 +1,13 @@
 ---
 title: "Sherwood Anderson"
-published: true
-date: 2011-09-08T04:22:00.000Z
+draft: false
+date: 2011-09-08T04:22:00-04:00
 last_name: "Anderson"
 contributor_type:
 image_path:
 image_credit:
 featured_image_path:
-slug: sherwood-anderson
+_slug: sherwood-anderson
 ---
 
 Sherwood Anderson (1876–1941) was born in Camden, Ohio. He left school at the age of fourteen, forced to work odd jobs to support his family. He attended night school and worked various jobs including farm laborer, factory hand, and newsboy. He was a successful ad copywriter and served in the Spanish American War (1898–9).

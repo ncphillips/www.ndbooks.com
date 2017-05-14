@@ -1,33 +1,21 @@
 ---
 title: "The Last Will & Testament of Senhor da Silva Araújo"
-published: true
-date: 2004-07-15T17:14:37.000Z
-publication_date: 2004-07-15T17:14:37.000Z
-show_in_forthcoming: false
+draft: false
+date: 2004-07-15T17:14:37-04:00
+publication_date: 2004-07-15T17:14:37-04:00
 subtitle:
-genre: Fiction
+genre: fiction
+subgenre:
 language:
-type:
-author_contributors:
-  - germano-almeida
-translator_contributors:
-  - sheila-faria-glaser
-editor_contributors:
-contributors:
+author:
+  - contributor/germano-almeida.md
+translator:
+  - contributor/sheila-faria-glaser.md
+editor:
 featured_image_path:
-cover_image_path: The_Last_Will_and_Testament_of_Senhor_da_Silva_Araujo_.jpg
-description:
 editions:
-  - binding: Paperback
-    isbn: 9780811215657
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn: 22.50
-    trim_size:
-    Page_count: 152
-slug: the-last-will-testament-of-senhor-da-silva-araujo
+  - 9780811215657
+_slug: the-last-will-testament-of-senhor-da-silva-araujo
 ---
 
 Everyone in Cape Verde knew Senhor da Silva Araújo.  Successful entrepeneur, owner of the island’s first automobile, a most serious, upright, and self-made businessman, Senhor da Silva Araújo was the local success story.  Born an orphan, he never married, he never splurged—one good suit was good enough for him—and he never wandered from the straight and narrow.  

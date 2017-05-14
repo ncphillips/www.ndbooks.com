@@ -1,13 +1,13 @@
 ---
 title: "John Allman"
-published: true
-date: 2011-09-08T04:22:39.000Z
+draft: false
+date: 2011-09-08T04:22:39-04:00
 last_name: "Allman"
 contributor_type:
 image_path:
 image_credit:
 featured_image_path:
-slug: john-allman
+_slug: john-allman
 ---
 
 <style type="text/css">@font-face { font-family: "Times New Roman"; }p.MsoNormal, li.MsoNormal, div.MsoNormal { margin: 0in 0in 0.0001pt; font-size: 12pt; font-family: "Times New Roman"; }table.MsoNormalTable { font-size: 10pt; font-family: "Times New Roman"; }div.Section1 { page: Section1; }</style>

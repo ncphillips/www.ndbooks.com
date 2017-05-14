@@ -1,13 +1,13 @@
 ---
 title: "Bei Dao"
-published: true
-date: 2011-09-08T04:22:40.000Z
+draft: false
+date: 2011-09-08T04:22:00-04:00
 last_name: "Bei Dao"
 contributor_type:
 image_path:
 image_credit:
 featured_image_path:
-slug: bei-dao
+_slug: bei-dao
 ---
 
 Bei Dao, the pseudonym of Zhenkai Zhao, was born in 1949 in Beijing. In 1978 Bei Dao co-founded the underground literary magazine _Jintian_ (Today), which was banned from publication in 1980. As editor-in-chief, Bei Dao, with a group of Chinese writers, revived _Jintian_ in 1990 in Oslo, and it has continued to be published abroad ever since. During the events of Tiananmen Square in 1989, Bei Dao was in Berlin as a writer in residence and was not allowed to return to China.

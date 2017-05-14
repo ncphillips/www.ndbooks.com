@@ -1,32 +1,20 @@
 ---
 title: "Thread"
-published: true
-date: 2011-05-27T14:28:40.000Z
-publication_date: 2011-05-27T14:28:40.000Z
-show_in_forthcoming: false
+draft: false
+date: 2011-05-27T14:28:40-04:00
+publication_date: 2011-05-27T14:28:40-04:00
 subtitle:
-genre: Poetry
+genre: poetry
+subgenre:
 language:
-type:
-author_contributors:
-  - michael-palmer
-translator_contributors:
-editor_contributors:
-contributors:
+author:
+  - contributor/michael-palmer.md
+translator:
+editor:
 featured_image_path:
-cover_image_path: thread.JPG
-description: "_Thread_ presents eighty-six new poems by _the foremost experimental poet of his generation, and perhaps of the last several generations_ (The Poetry Society of America's 2006 Wallace Stevens Award citation). "
 editions:
-  - binding: Paperback
-    isbn: 9780811219211
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn: 19.00
-    trim_size:
-    Page_count: 112
-slug: thread
+  - 9780811219211
+_slug: thread
 ---
 
 Michael Palmer’s new collection is structured in two parts, "What I Did Not Say" and "Thread," subtitled "Stanzas in Counterlight." It begins with a beautiful suite of poems featuring "The Master of Shadows" (first glimpsed in his 2006 collection _The Company of Moths_). The counterlight of the title section shines in shafts of Palmer’s ever-surprising ironic wit, which is given to sidelong parallel leaps. Several poems in _Thread_ directly address our endless wars, yet even in sorrow and rage the poems still glow with wonder. In multiphonic passages, voices speak from a decentered place, yet are grounded in the central rootedness of the whole history of poetry and culture that has gone before. In his new poems, signature palimpsests create complex cycles of thought, "returning and returning" via echoes to what he has called "the layering process, the process of accretion and the process of emergence."

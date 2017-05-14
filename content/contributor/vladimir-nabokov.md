@@ -1,13 +1,13 @@
 ---
 title: "Vladimir Nabokov"
-published: true
-date: 2011-09-08T04:23:00.000Z
+draft: false
+date: 2011-09-08T04:23:00-04:00
 last_name: "Nabokov"
 contributor_type:
 image_path:
 image_credit:
 featured_image_path:
-slug: vladimir-nabokov
+_slug: vladimir-nabokov
 ---
 
 Born in 1899 in St. Petersburg to an aristocratic, wealthy, highly educated, and liberal family, Vladimir Nabokov became one of the 20th-century’s greatest writers.

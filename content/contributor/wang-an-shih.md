@@ -1,13 +1,13 @@
 ---
 title: "Wang An-shih"
-published: true
-date: 2014-10-02T18:02:00.000Z
+draft: false
+date: 2014-10-02T18:02:00-04:00
 last_name: "An-shih"
 contributor_type:
 image_path:
 image_credit:
 featured_image_path:
-slug: wang-an-shih
+_slug: wang-an-shih
 ---
 
 Wang An-shih (1021–1086) was a remarkable figure—not only one of the great Song Dynasty poets but also the most influential and controversial statesman of his time. Wang rose to the position of Prime Minister, where he instituted a controversial system of radically egalitarian social reforms in an effort to improve the lives of China’s peasants. Wang then left politics and retired to a reclusive artistic and spiritual life of self-cultivation. 

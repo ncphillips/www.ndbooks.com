@@ -1,32 +1,20 @@
 ---
 title: "Time of Grief"
-published: true
-date: 2013-02-21T17:21:00.000Z
-publication_date: 2013-02-21T17:21:00.000Z
-show_in_forthcoming: false
+draft: false
+date: 2013-02-21T17:21:00-04:00
+publication_date: 2013-02-21T17:21:00-04:00
 subtitle: "Mourning Poems"
-genre: Poetry
+genre: poetry
+subgenre:
 language:
-type:
-author_contributors:
-  - jeffrey-yang-author-page
-translator_contributors:
-editor_contributors:
-contributors:
+author:
+  - contributor/jeffrey-yang-author-page.md
+translator:
+editor:
 featured_image_path:
-cover_image_path: Time_of_Grief.jpg
-description: "A beautiful anthology of poems about grief, death, and mourning "
 editions:
-  - binding: Paperback
-    isbn: 9780811220323
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn: 17.00
-    trim_size:
-    Page_count: 128
-slug: time-of-grief
+  - 9780811220323
+_slug: time-of-grief
 ---
 
 _Time of Grief: Mourning Poems_ presents a wide-ranging selection of poets from classical to modern writing on themes of grief and loss, death and mourning. Reaffirming poetry’s ancient and intimate link to ritual, this little anthology unfolds as a series of forty-nine stations, or points of reflection and meditation. Each station — a poem or series of poems — explores and engages with the suspended, in-between state of bereavement. What the poets in this volume seek is a solace paradoxically within and beyond words. Their elegies try to make sense of the pain and emptiness common to grief. Readers will encounter the recent Nobel Prize-winner Tomas Tranströmer’s epiphanic clarity, the immortal words of Li Ch’ing-chao and Zeami, Marina Tsvetaeva’s eulogy to Boris Pasternak, Mallarmé’s anguished lines for his son, Neruda’s praise-song to his friend, Rilke’s requiem, and William Bronk’s transcendental fugue.

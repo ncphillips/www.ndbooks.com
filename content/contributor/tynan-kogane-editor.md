@@ -1,11 +1,11 @@
 ---
 title: "Tynan Kogane editor"
-published: true
-date: 2015-10-23T15:42:00.000Z
+draft: false
+date: 2015-10-23T15:42:00-04:00
 last_name:
 contributor_type:
 image_path:
 image_credit:
 featured_image_path:
-slug: tynan-kogane-editor
+_slug: tynan-kogane-editor
 ---

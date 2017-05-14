@@ -1,43 +1,22 @@
 ---
 title: "My Emily Dickinson"
-published: true
-date: 2007-11-01T05:00:00.000Z
-publication_date: 2007-11-01T05:00:00.000Z
-show_in_forthcoming: false
+draft: false
+date: 2007-11-01T05:00:00-04:00
+publication_date: 2007-11-01T05:00:00-04:00
 subtitle:
-genre: Nonfiction
-language: Portuguese
-type:
-author_contributors:
-  - susan-howe
-translator_contributors:
-editor_contributors:
-contributors:
-  - eliot-weinberger
+genre: nonfiction
+subgenre:
+language: portuguese
+author:
+  - contributor/susan-howe.md
+translator:
+editor:
 featured_image_path:
-cover_image_path: My_Emily_Dickinson.jpg
-description: "Finally, My Emily Dickinson, Susan Howe's singular and unforgettable 1985 creative study, is available as a New Directions paperbook "
 editions:
-  - binding: Paperback
-    isbn: 9780811216838
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn: 18.00
-    trim_size: 6x9
-    Page_count: 160
-  - binding: Ebook
-    isbn: 9780811223348
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count: 160
-slug: my-emily-dickinson
+  - 9780811216838
+  - 9780811223348
+_slug: my-emily-dickinson
 ---
 
-With exacting rigor and wit, Howe pulls Dickinson free of all the sterile and stuffy belle-of-Amherst cotton wool and shows the poet in touch with elemental forces of nature, and as a prophet in all her radical zealotry and poetic glory. Her Emily Dickinson is a unique American genius, a demon lover of poetry––no neurasthenic spider artist. Howe draws into her discussion Browning, _Wuthering Heights_, the Civil War, "Master," the great Puritan preachers, captivity narratives, Shakespeare, and phantom lovers. As she chases away narrow and reductive feminist readings of the poet, Howe finds instead a radically powerful and true feminism at work in Dickinson, focusing the whole on that heart-stopping poem "My Life had stood––a Loaded Gun." A remarkable and passionate poet-on-poet engagement, _My Emily Dickinson_ frees a great poet from the fetters of being read as a special female neurotic, and sets her against a fiery open sky where "Perception of an object means loosing and losing it... only Mutability certain."
+For Wallace Stevens, "Poetry is the scholar's art." Susan Howe—taking the poet-scholar-critics Charles Olson, H.D., and William Carlos Williams (among others) as her guides—embodies that art in her 1985 _My Emily Dickinson_ (winner of the Before Columbus Foundation Book Award). Howe shows ways in which earlier scholarship had shortened Dickinson's intellectual reach by ignoring the use to which she put her wide reading. Giving close attention to the well-known poem, "My Life had stood—a Loaded Gun," Home tracks Dickens, Browning, Emily Brontë, Shakespeare, and Spenser, as well as local Connecticut River Valley histories, Puritan sermons, captivity narratives, and the popular culture of the day. "Dickinson's life was language and a lexicon her landscape. Forcing, abbreviating, pushing, padding, subtracting, riddling, interrogating, re-writing, she pulled text from text...."
 

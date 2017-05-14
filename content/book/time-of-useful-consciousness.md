@@ -1,32 +1,20 @@
 ---
 title: "Time of Useful Consciousness"
-published: true
-date: 2012-10-24T14:13:17.000Z
-publication_date: 2012-10-24T14:13:17.000Z
-show_in_forthcoming: false
+draft: false
+date: 2012-10-24T14:13:17-04:00
+publication_date: 2012-10-24T14:13:17-04:00
 subtitle:
-genre: Poetry
+genre: poetry
+subgenre:
 language:
-type:
-author_contributors:
-  - lawrence-ferlinghetti
-translator_contributors:
-editor_contributors:
-contributors:
+author:
+  - contributor/lawrence-ferlinghetti.md
+translator:
+editor:
 featured_image_path:
-cover_image_path: Time_of_Useful_Consciousness_1.jpg
-description: "A new call to action and a vivid picture of civilization going right to the brink. "
 editions:
-  - binding: Clothbound
-    isbn: 9780811220316
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 22.95
-    price_cn: 24.00
-    trim_size:
-    Page_count: 96
-slug: time-of-useful-consciousness
+  - 9780811220316
+_slug: time-of-useful-consciousness
 ---
 
 ****A limited edition _Time of Useful Consciousness _is also available.**

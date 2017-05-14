@@ -1,42 +1,22 @@
 ---
 title: "Seiobo There Below"
-published: true
-date: 2013-09-24T16:26:00.000Z
-publication_date: 2013-09-24T16:26:00.000Z
-show_in_forthcoming: false
+draft: false
+date: 2013-09-24T16:26:00-04:00
+publication_date: 2013-09-24T16:26:00-04:00
 subtitle:
-genre: Fiction
-language: Hungarian
-type:
-author_contributors:
-  - laszlo-krasznahorkai
-translator_contributors:
-  - ottilie-mulzet
-editor_contributors:
-contributors:
+genre: fiction
+subgenre:
+language: hungarian
+author:
+  - contributor/laszlo-krasznahorkai.md
+translator:
+  - contributor/ottilie-mulzet.md
+editor:
 featured_image_path:
-cover_image_path: seiobo_there_below.jpg
-description: "The latest novel from “the contemporary Hungarian master of the apocalypse” (Susan Sontag) "
 editions:
-  - binding: Paperback
-    isbn: 9780811219679
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 16.95
-    price_cn: 18.00
-    trim_size:
-    Page_count: 448
-  - binding: Ebook
-    isbn: 9780811221191
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
-slug: seiobo-there-below
+  - 9780811219679
+  - 9780811221191
+_slug: seiobo-there-below
 ---
 
 Beauty, in László Krasznahorkai’s new novel, reflects, however fleeting, the sacred — even if we are mostly unable to bear it.

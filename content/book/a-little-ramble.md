@@ -1,35 +1,22 @@
 ---
 title: "A Little Ramble"
-published: true
-date: 2013-04-25T17:56:00.000Z
-publication_date: 2013-04-25T17:56:00.000Z
-show_in_forthcoming: false
+draft: false
+date: 2013-04-25T17:56:00-04:00
+publication_date: 2013-04-25T17:56:00-04:00
 subtitle: "In the Spirit of Robert Walser"
-genre: Fiction
+genre: fiction
+subgenre:
 language:
-type:
-author_contributors:
-  - robert-walser
-translator_contributors:
-  - christopher-middleton
-
-  - susan-bernofsky
-editor_contributors:
-contributors:
+author:
+  - contributor/robert-walser.md
+translator:
+  - contributor/christopher-middleton.md
+  - contributor/susan-bernofsky.md
+editor:
 featured_image_path: /uploads/1427481259874/Klat_Rodney_Graham_Sunday_Sun_1937.jpg
-cover_image_path: Little_Ramble.jpg
-description: "Over 50 original full-color artworks address newly translated writings of Robert Walser "
 editions:
-  - binding: Clothbound
-    isbn: 9780811220996
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 35.00
-    price_cn: 37.00
-    trim_size:
-    Page_count: 176
-slug: a-little-ramble
+  - 9780811220996
+_slug: a-little-ramble
 ---
 
 _**A Christine Burgin co-publication**_

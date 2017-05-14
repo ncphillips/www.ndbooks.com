@@ -1,13 +1,13 @@
 ---
 title: "Donald Keene"
-published: true
-date: 2014-06-13T14:34:00.000Z
+draft: false
+date: 2014-06-13T14:34:00-04:00
 last_name: "Keene"
 contributor_type:
 image_path:
 image_credit:
 featured_image_path:
-slug: donald-keene
+_slug: donald-keene
 ---
 
 Donald Keene is a distinguished translator of Japanese. In 2002, he was presented with one of Japan’s highest honors, the "Person of Cultural Merit" (Bunka Koro-sha), for service in the promotion of Japanese literature and culture. In 2008, Professor Keene received the Order of Culture (Bunka Kunsho), which the Japanese Government presents to those who have greatly contributed to Japanese art, literature, or culture. He became the first foreign national to receive such an award.

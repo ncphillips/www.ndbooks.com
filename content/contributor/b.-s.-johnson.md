@@ -1,13 +1,13 @@
 ---
 title: "B.S. Johnson"
-published: true
-date: 2011-09-08T04:23:00.000Z
+draft: false
+date: 2011-09-08T04:23:00-04:00
 last_name: "Johnson"
 contributor_type:
 image_path:
 image_credit:
 featured_image_path:
-slug: b.-s.-johnson
+_slug: b.-s.-johnson
 ---
 
 B.S. Johnson (1933–1973) was born in Hammersmith, England, and aside from World War II, during which he was an evacuee, lived in London for most of his life. His first novel, _Travelling People_, won the Gregory Award for 1963. In a preface to the book, he wrote, "I decided that one style for one novel was a convention I resented most strongly: it was perhaps comparable to eating a meal in which each course had been cooked in the same manner. The style of each chapter should spring naturally from its subject matter." Thus _Travelling People_ employs eight separate styles for its nine chapters, including a letter, journal extracts, and a film script. One chapter contains the interior monologue of an old man prone to heart attacks. First the author uses a random grey pattern to indicate sleep or recuperative unconsciousness, and then later, black, when the old man dies. (Most obvious is Johnson’s acknowledged debt to an eighteenth-century predecessor, Laurence Sterne, whose celebrated Tristam Shandy also contained black pages.)

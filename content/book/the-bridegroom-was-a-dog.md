@@ -1,42 +1,22 @@
 ---
 title: "The Bridegroom Was a Dog"
-published: true
-date: 2012-11-07T16:16:00.000Z
-publication_date: 2012-11-07T16:16:00.000Z
-show_in_forthcoming: false
+draft: false
+date: 2012-11-07T16:16:00-04:00
+publication_date: 2012-11-07T16:16:00-04:00
 subtitle:
-genre: Fiction
-language: Japanese
-type:
-author_contributors:
-  - yoko-tawada
-translator_contributors:
-  - margaret-mitsutani
-editor_contributors:
-contributors:
+genre: fiction
+subgenre:
+language: japanese
+author:
+  - contributor/yoko-tawada.md
+translator:
+  - contributor/margaret-mitsutani.md
+editor:
 featured_image_path:
-cover_image_path: Bridegroom_was_a_Dog.jpg
-description: "A bizarre tale of passion and romance between a schoolteacher and a dog "
 editions:
-  - binding: Paperback
-    isbn: 9780811220378
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 10.95
-    price_cn: 11.99
-    trim_size:
-    Page_count: 60
-  - binding: Ebook
-    isbn: 9780811220606
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 10.95
-    price_cn:
-    trim_size:
-    Page_count:
-slug: the-bridegroom-was-a-dog
+  - 9780811220378
+  - 9780811220606
+_slug: the-bridegroom-was-a-dog
 ---
 
 _The Bridegroom Was a Dog_ is perhaps the Japanese writer Yoko Tawada’s most famous work. Its initial publication in 1998 garnered admiration from _The New Yorker, _ which praised it as a "fast-moving, mysteriously compelling tale that has the dream quality of Kafka."

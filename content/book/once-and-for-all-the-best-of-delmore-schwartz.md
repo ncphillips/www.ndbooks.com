@@ -1,46 +1,23 @@
 ---
 title: "Once and For All: The Best of Delmore Schwartz"
-published: true
-date: 2015-10-15T18:21:00.000Z
-publication_date: 2016-05-03T04:00:00.000Z
-show_in_forthcoming: true
+draft: false
+date: 2015-10-15T18:21:00-04:00
+publication_date: 2016-05-03T04:00:00-04:00
 subtitle:
 genre:
+subgenre:
+  - selections
 language:
-type:
-  - Selections
-author_contributors:
-  - delmore-schwartz
-translator_contributors:
-editor_contributors:
-  - craig-morgan-teicher
-contributors:
-  - craig-morgan-teicher
-
-  - john-ashbery
+author:
+  - contributor/delmore-schwartz.md
+translator:
+editor:
+  - contributor/craig-morgan-teicher.md
 featured_image_path:
-cover_image_path: /webhook-uploads/1462301462106/schwartz_once_and_for_all_cover_final.jpg
-description: "The publication of this book restores a missing chapter in the history of twentieth-century American literature "
 editions:
-  - binding: Paperback
-    isbn: 9780811224321
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 17.95
-    price_cn: 23.50
-    trim_size: 5x8
-    Page_count: 280
-  - binding: Ebook
-    isbn: 9780811224338
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
-slug: once-and-for-all-the-best-of-delmore-schwartz
+  - 9780811224321
+  - 9780811224338
+_slug: once-and-for-all-the-best-of-delmore-schwartz
 ---
 
 With his New Directions debut in 1938, the twenty-five-year-old Delmore Schwartz was hailed as a genius and among the most promising writers of his generation. Yet he died in relative obscurity in 1966, wracked by mental illness and substance abuse. Sadly, his literary legacy has been overshadowed by the story of his tragic life.

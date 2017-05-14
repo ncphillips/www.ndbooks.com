@@ -1,41 +1,21 @@
 ---
 title: "The Glass Menagerie"
-published: true
-date: 1999-10-14T14:36:00.000Z
-publication_date: 1999-10-14T14:36:00.000Z
-show_in_forthcoming: false
+draft: false
+date: 1999-10-14T14:36:00-04:00
+publication_date: 1999-10-14T14:36:00-04:00
 subtitle:
-genre: Theater
+genre: theater
+subgenre:
 language:
-type:
-author_contributors:
-  - tennessee-williams
-translator_contributors:
-editor_contributors:
-contributors:
+author:
+  - contributor/tennessee-williams.md
+translator:
+editor:
 featured_image_path:
-cover_image_path: GlassMenagerie.JPG
-description:
 editions:
-  - binding: Paperback
-    isbn: 9780811214049
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 11.95
-    price_cn:
-    trim_size:
-    Page_count: 128
-  - binding: Ebook
-    isbn: 9780811220750
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 11.95
-    price_cn:
-    trim_size:
-    Page_count:
-slug: the-glass-menagerie4
+  - 9780811214049
+  - 9780811220750
+_slug: the-glass-menagerie4
 ---
 
 No play in the modern theatre has so captured the imagination and heart of the American public as Tennessee Williams’s _The Glass Menagerie_.  As Williams’s first popular success, it launched the brilliant, if somewhat controversial, career of our pre-eminent lyric playwright. Since its premiere in Chicago in 1944, with the legendary Laurette Taylor in the role of Amanda, the play has been the bravura piece for great actresses from Jessica Tandy to Joanne Woodward, and is studied and performed in classrooms and theatres around the world. 

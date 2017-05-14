@@ -1,41 +1,21 @@
 ---
 title: "The Collected Poems Of Denise Levertov"
-published: true
-date: 2013-11-29T20:31:00.000Z
-publication_date: 2013-11-29T20:31:00.000Z
-show_in_forthcoming: false
+draft: false
+date: 2013-11-29T20:31:00-04:00
+publication_date: 2013-11-29T20:31:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
+subgenre:
 language:
-type:
-author_contributors:
-  - denise-levertov
-translator_contributors:
-editor_contributors:
-contributors:
+author:
+  - contributor/denise-levertov.md
+translator:
+editor:
 featured_image_path:
-cover_image_path: Collected_Poems_Levertov.jpg
-description: "The landmark collected work of one of the twentieth century’s greatest poets "
 editions:
-  - binding: Clothbound
-    isbn: 9780811221733
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 49.95
-    price_cn: 52.50
-    trim_size:
-    Page_count: 960
-  - binding: Ebook
-    isbn: 9780811221740
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 49.95
-    price_cn:
-    trim_size:
-    Page_count: 960
-slug: the-collected-poems
+  - 9780811221733
+  - 9780811221740
+_slug: the-collected-poems
 ---
 
 At last, a complete, clear, and unobstructed view of Denise Levertov. Covering more than six decades and including, chronologically, every poem she ever published, Levertov's _Collected Poems_ presents her marvelous, groundbreaking work in full.

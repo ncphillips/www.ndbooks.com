@@ -1,33 +1,20 @@
 ---
 title: "The Glass Menagerie (Centennial Edition)"
-published: true
-date: 2011-09-27T14:28:43.000Z
-publication_date: 2011-09-27T14:28:43.000Z
-show_in_forthcoming: false
+draft: false
+date: 2011-09-27T14:28:43-04:00
+publication_date: 2011-09-27T14:28:43-04:00
 subtitle: "Deluxe Centennial Edition"
-genre: Theater
+genre: theater
+subgenre:
 language:
-type:
-author_contributors:
-  - tennessee-williams
-translator_contributors:
-editor_contributors:
-contributors:
-  - tony-kushner
+author:
+  - contributor/tennessee-williams.md
+translator:
+editor:
 featured_image_path:
-cover_image_path: GlassMenagerie_cover.jpg
-description: "A beautiful clothbound edition of a beloved classic to celebrate the 100th birthday of America’s greatest playwright, with a sweeping new introduction by Pulitzer Prize-winner Tony Kushner. "
 editions:
-  - binding: Clothbound
-    isbn: 9780811218948
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 26.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 224
-slug: the-glass-menagerie
+  - 9780811218948
+_slug: the-glass-menagerie
 ---
 
 _The Glass Menagerie_ marked a crucial turning point in American theater, and forever changed the life of its then unknown author. Williams’s elegiac masterpiece brought a radical new lyricism to Broadway — the tragedy, fragility, and tenderness of this “memory play” have made it one of America’s most powerful, timeless, and compelling plays. The introduction by Tony Kushner sparkles with the kind of rich, unique insight that only a fellow playwright could convery.

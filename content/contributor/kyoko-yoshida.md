@@ -1,13 +1,13 @@
 ---
 title: "Kyoko Yoshida"
-published: true
-date: 2016-03-18T15:25:00.000Z
+draft: false
+date: 2016-03-18T15:25:00-04:00
 last_name: "Yoshida"
 contributor_type:
 image_path: /uploads/1460492508731/R0011646.jpg
 image_credit:
 featured_image_path:
-slug: kyoko-yoshida
+_slug: kyoko-yoshida
 ---
 
 Kyoko Yoshida's first collection of short stories _Disorientalism_ came out in 2014 from Vagabond Press in Sydney. She was born and raised in Fukuoka, Japan, studied in Kyoto, got her Ph.D. in creative writing at University of Wisconsin-Milwaukee, and after 13 years of teaching at Keio University in Tokyo, now teaches American Literature at Ritsumeikan University in Kyoto.

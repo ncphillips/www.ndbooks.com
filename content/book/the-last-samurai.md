@@ -1,41 +1,21 @@
 ---
 title: "The Last Samurai"
-published: true
-date: 2015-10-21T17:23:00.000Z
-publication_date: 2016-05-31T23:00:00.000Z
-show_in_forthcoming: true
+draft: false
+date: 2015-10-21T17:23:00-04:00
+publication_date: 2016-05-31T23:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
+subgenre:
 language:
-type:
-author_contributors:
-  - helen-dewitt
-translator_contributors:
-editor_contributors:
-contributors:
+author:
+  - contributor/helen-dewitt.md
+translator:
+editor:
 featured_image_path: /uploads/1454447794549/seven%20samurai.jpg
-cover_image_path: /webhook-uploads/1462300928856/dewitt_last_samurai_cover_final.jpg
-description: "Called “remarkable” (_The Wall Street Journal_) and “an ambitious, colossal debut novel” (_Publishers Weekly_), Helen DeWitt’s The Last Samurai is back in print at last "
 editions:
-  - binding: Paperback
-    isbn: 9780811225502
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 18.95
-    price_cn: 24.95
-    trim_size: 5 x 8"
-    Page_count: 576
-  - binding: Ebook
-    isbn: 9780811225519
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
-slug: the-last-samurai
+  - 9780811225502
+  - 9780811225519
+_slug: the-last-samurai
 ---
 
 Helen DeWitt’s 2000 debut, _The Last Samurai_, was “destined to become a cult classic” (_Miramax_). The enterprising publisher sold the rights in twenty countries, so “Why not just, ‘destined to become a classic?’” (Garth Risk Hallberg) And why must cultists tell the uninitiated it has _nothing to do with Tom Cruise_?

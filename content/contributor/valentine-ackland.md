@@ -1,13 +1,13 @@
 ---
 title: "Valentine Ackland"
-published: true
-date: 2011-09-08T04:22:47.000Z
+draft: false
+date: 2011-09-08T04:22:47-04:00
 last_name: "Ackland"
 contributor_type:
 image_path:
 image_credit:
 featured_image_path:
-slug: valentine-ackland
+_slug: valentine-ackland
 ---
 
 Valentine Ackland (1906-1969) was raised in Norfolk. She received an education at a convent school and was briefly married, at the age of nineteen, to Richard Turpin. Writing for _The Guardian_, Ackland’s biographer Frances Bingham has the following to say about that marriage and its eventual, transformative consequence: 

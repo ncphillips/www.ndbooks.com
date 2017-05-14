@@ -1,33 +1,21 @@
 ---
 title: "Woolgathering"
-published: true
-date: 2011-11-28T14:28:00.000Z
-publication_date: 2011-11-28T14:28:00.000Z
-show_in_forthcoming: false
+draft: false
+date: 2011-11-28T14:28:00-04:00
+publication_date: 2011-11-28T14:28:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
+subgenre:
+  - memoir
 language:
-type:
-  - Memoir
-author_contributors:
-  - patti-smith
-translator_contributors:
-editor_contributors:
-contributors:
+author:
+  - contributor/patti-smith.md
+translator:
+editor:
 featured_image_path:
-cover_image_path: woolgathering.JPG
-description: "National Book Award-winner Patti Smith presents a treasure box of a childhood memoir "
 editions:
-  - binding: Clothbound
-    isbn: 9780811219440
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 18.95
-    price_cn: 22.00
-    trim_size: 4.5x7
-    Page_count: 100
-slug: woolgathering
+  - 9780811219440
+_slug: woolgathering
 ---
 
 In this small, luminous memoir, the National Book Award–winner Patti Smith revisits the most sacred experiences of her early years, with truths so vivid they border on the surreal. The author entwines her childhood self—and its "clear, unspeakable joy"—with memories both real and envisioned from her twenties on New York’s MacDougal Street, the street of cafés.

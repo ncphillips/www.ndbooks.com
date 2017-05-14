@@ -1,13 +1,13 @@
 ---
 title: "James Laughlin"
-published: true
-date: 2011-09-08T04:23:03.000Z
+draft: false
+date: 2011-09-08T04:23:03-04:00
 last_name: "Laughlin"
 contributor_type:
 image_path:
 image_credit:
 featured_image_path:
-slug: james-laughlin
+_slug: james-laughlin
 ---
 
 From the [Poetry Foundation](http://www.poetryfoundation.org/bio/james-laughlin):

@@ -1,13 +1,13 @@
 ---
 title: "Gennady Aygi"
-published: true
-date: 2011-09-08T04:22:00.000Z
+draft: false
+date: 2011-09-08T04:22:00-04:00
 last_name: "Aygi"
 contributor_type:
 image_path:
 image_credit:
 featured_image_path:
-slug: gennady-aygi
+_slug: gennady-aygi
 ---
 
 Gennady Aygi (1934–2006), one of the most original of modern Russian poets, was born in the village of Shaymurzino, in the Chuvash Autonomous Republic, some 450 miles east of Moscow. His father was a village schoolteacher, his maternal grandfather a priest of the ancient Chuvash religion. Although he wrote mainly in Russian, he eventually became the national poet of Chuvashia, having published volumes of Chuvash poetry, translations from French, Polish, Russian and other languages, and an _Anthology of Chuvash Poetry._

@@ -1,13 +1,13 @@
 ---
 title: "Eli Wallach"
-published: true
-date: 2014-04-03T18:07:00.000Z
+draft: false
+date: 2014-04-03T18:07:00-04:00
 last_name: "Wallach"
 contributor_type:
 image_path:
 image_credit:
 featured_image_path:
-slug: eli-wallach
+_slug: eli-wallach
 ---
 
 Eli Wallach was born in Red Hook, Brooklyn, in 1915, the son of Polish Jewish immigrants. After serving in the US Army in World War II, he received his formative stage training at the Neighborhood Playhouse in New York. He made his Broadway debut in 1945, in the short-lived play _Skydrift_, and soon won a Tony Award, in 1951, for his performance as Alvaro Mangiaco in the _The Rose Tattoo_ by Tennessee Williams.

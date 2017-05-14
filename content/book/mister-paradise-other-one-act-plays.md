@@ -1,38 +1,22 @@
 ---
 title: "Mister Paradise & Other One Act Plays"
-published: true
-date: 2005-04-01T06:00:00.000Z
-publication_date: 2005-04-01T06:00:00.000Z
-show_in_forthcoming: false
+draft: false
+date: 2005-04-01T06:00:00-04:00
+publication_date: 2005-04-01T06:00:00-04:00
 subtitle:
-genre: Theater
+genre: theater
+subgenre:
 language:
-type:
-author_contributors:
-  - tennessee-williams
-translator_contributors:
-editor_contributors:
-  - nicholas-moschovakis
-
-  - david-roessel
-contributors:
-  - eli-wallach
-
-  - anne-jackson
+author:
+  - contributor/tennessee-williams.md
+translator:
+editor:
+  - contributor/nicholas-moschovakis.md
+  - contributor/david-roessel.md
 featured_image_path:
-cover_image_path: misterparadise.JPG
-description: "These Are the Stairs You've Got to Watch / Mister Paradise / The Palooka Escape / Why Do You Smoke So Much, Lily? / Summer at the Lake / The Big Game / The Pink Bedroom / The Fat Man's Wife / Thank You, Kind Spirit / The Municipal Abbatoir / Adam and Eve on a Ferry / And Tell Sad Stories of the Deaths of Queens "
 editions:
-  - binding: Paperback
-    isbn: 9780811216203
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn:
-    trim_size:
-    Page_count:
-slug: mister-paradise-other-one-act-plays
+  - 9780811216203
+_slug: mister-paradise-other-one-act-plays
 ---
 
 This collection of previously unpublished one-acts includes some of Tennessee Williams’s most poignant and hilarious characters: the tough and outrageous drag queens of _And Tell Sad Stories of the Deaths of Queens..._; the betrayed wife who refuses to take a lover in _The Fat Man’s Wife_; and the extravagant mistress who cheats on her married man in _The Pink Bedroom_.

@@ -1,13 +1,13 @@
 ---
 title: "Dylan Thomas"
-published: true
-date: 2011-09-08T04:22:00.000Z
+draft: false
+date: 2011-09-08T04:22:00-04:00
 last_name: "Thomas (D)"
 contributor_type:
 image_path:
 image_credit:
 featured_image_path: /uploads/1423331188831_dylan-thomas-1800x1080.jpg
-slug: dylan-thomas-d
+_slug: dylan-thomas-d
 ---
 
 Dylan Marlais Thomas was born October 27, 1914 in the Welsh seaport of Swansea, Wales. Thomas attended the Swansea Grammar School, where he received all of his formal education. As a student he made contributions to the school magazine and was keenly interested in local folklore. Having declared at the age of eight that he was a poet, he began writing early and published his first book of poetry, _18 Poems_ (1934), when he was not yet twenty years old. After leaving school, Thomas supported himself as an actor, reporter, reviewer, scriptwriter, and with various odd jobs. When he was twenty-two years old, he married Caitlin Macnamara, with whom he had two sons, Llewelyn and Colm, and a daughter, Aeronwy. After their marriage, Dylan and Caitlin moved to the fishing village of Laugharne, Carmarthenshire.

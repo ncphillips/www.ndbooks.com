@@ -1,13 +1,13 @@
 ---
 title: "Albert Cossery"
-published: true
-date: 2011-09-08T04:22:00.000Z
+draft: false
+date: 2011-09-08T04:22:00-04:00
 last_name: "Cossery"
 contributor_type:
 image_path:
 image_credit:
 featured_image_path:
-slug: albert-cossery
+_slug: albert-cossery
 ---
 
 Albert Cossery was born in Cairo in 1913, the son of middle-class parents. He studied law in Paris before the outbreak of World War II. During the war, Cossery served in the Egyptian merchant Navy. At the age of 27 he published his first book, _Men God Forgot_. Albert Cossery emigrated to Paris  to continue his studies (which he never did) and to devote himself to writing. He settled permanently in the French capital in 1945, where he lived until his death in 2008. In 60 years he wrote eight novels, in accordance with his philosophy of life in which "laziness" is not a vice but a form of contemplation and meditation. 

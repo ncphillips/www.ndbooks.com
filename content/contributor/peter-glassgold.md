@@ -1,13 +1,13 @@
 ---
 title: "Peter Glassgold"
-published: true
-date: 2011-09-08T04:22:00.000Z
+draft: false
+date: 2011-09-08T04:22:00-04:00
 last_name: "Glassgold"
 contributor_type:
 image_path:
 image_credit:
 featured_image_path:
-slug: peter-glassgold
+_slug: peter-glassgold
 ---
 
 Peter Glassgold’s most recent books are _Anarchy! An Anthology of Emma Goldman’s Mother Earth_ (Counterpoint, 2012) and the experimental translation _Hwæt! A Little Old English Anthology of American Modernist Poetry_ (Green Integer, 2012), both new and enlarged editions of works published respectively in 1985 and 2001. Forthcoming from New Directions is _The Collected Poems of James Laughlin 1935–1997_, which he has edited, annotated, and introduced. His previous books include: James Laughlin’s _Byways_ (New Directions, 2005), the posthumous verse memoir by New Directions’ founder, which he also edited, annotated, and introduced; _Living Space: Poems of the Dutch Fiftiers_ (Green Integer, 2005), an expanded new edition, with Douglas Messerli, of the landmark anthology first published in 1979; the novel _The Angel Max_ (Harcourt Brace, 1998); a translation (with Peter Constantine) of Hans Deichmann’s _Objects: A Chronicle of Subversion in Nazi Germany and Fascist Italy_; a translation (with André Lefevere) of the 1907 Flemish classic _The Flaxfield_ (Sun & Moon, 1989), a novel by Stijn Streuvels; and another experiment in translation, _Boethius: The Poems from On the Consolation of Philosophy, Translated Out of the Original Latin into Diverse Historical Englishings Diligently Collaged_ (Sun & Moon, 1994).

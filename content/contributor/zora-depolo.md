@@ -1,11 +1,11 @@
 ---
 title: "Zora Depolo"
-published: true
-date: 2011-09-08T04:22:12.000Z
+draft: false
+date: 2011-09-08T04:22:12-04:00
 last_name: "Depolo"
 contributor_type:
 image_path:
 image_credit:
 featured_image_path:
-slug: zora-depolo
+_slug: zora-depolo
 ---

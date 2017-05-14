@@ -1,33 +1,21 @@
 ---
 title: "The Collected Poems of James Laughlin"
-published: true
-date: 2014-10-14T14:55:00.000Z
-publication_date: 2014-10-14T14:55:00.000Z
-show_in_forthcoming: false
+draft: false
+date: 2014-10-14T14:55:00-04:00
+publication_date: 2014-10-14T14:55:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
+subgenre:
 language:
-type:
-author_contributors:
-  - james-laughlin
-translator_contributors:
-editor_contributors:
-  - peter-glassgold
-contributors:
+author:
+  - contributor/james-laughlin.md
+translator:
+editor:
+  - contributor/peter-glassgold.md
 featured_image_path:
-cover_image_path: JL_collected_poems.png
-description:
 editions:
-  - binding: Clothbound
-    isbn: 9780811218764
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 49.95
-    price_cn: 57.00
-    trim_size:
-    Page_count: 1200
-slug: the-collected-poems-of-james-laughlin
+  - 9780811218764
+_slug: the-collected-poems-of-james-laughlin
 ---
 
 Published in Laughlin’s centenary year, _The Collected Poems of James Laughlin_ encompasses in one majestic volume all the poetry (with the exception of his verse memoirs, _Byways_) written by the publisher-poet. Witty, technically brilliant, slyly satiric, and heartbreakingly poignant, Laughlin charted his own poetic course for over six decades, prompting astonishment and joy in fellow poets.

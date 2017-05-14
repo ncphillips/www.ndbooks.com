@@ -1,34 +1,21 @@
 ---
 title: "Thirty Poems"
-published: true
-date: 2012-06-28T15:54:00.000Z
-publication_date: 2012-06-28T15:54:00.000Z
-show_in_forthcoming: false
+draft: false
+date: 2012-06-28T15:54:00-04:00
+publication_date: 2012-06-28T15:54:00-04:00
 subtitle:
-genre: Poetry
-language: German
-type:
-author_contributors:
-  - robert-walser
-translator_contributors:
-  - christopher-middleton
-editor_contributors:
-contributors:
-  - christopher-middleton
+genre: poetry
+subgenre:
+language: german
+author:
+  - contributor/robert-walser.md
+translator:
+  - contributor/christopher-middleton.md
+editor:
 featured_image_path:
-cover_image_path: Thirty_Poems_2.jpg
-description: "A deluxe edition of the Swiss master's best poems "
 editions:
-  - binding: Clothbound
-    isbn: 9780811220019
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 20.95
-    price_cn:
-    trim_size:
-    Page_count: 64
-slug: thirty-poems
+  - 9780811220019
+_slug: thirty-poems
 ---
 
 **_A Christine Burgin co-publication_**

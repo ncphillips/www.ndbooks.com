@@ -1,14 +1,14 @@
 ---
 title: "Heather Cleary"
-published: true
-date: 2013-10-23T19:22:00.000Z
+draft: false
+date: 2013-10-23T19:22:00-04:00
 last_name: "Cleary"
 contributor_type:
 image_path:
 image_credit:
 featured_image_path:
-slug: heather-cleary
+_slug: heather-cleary
 ---
 
-Heather Cleary translates fiction, criticism and poetry from the Spanish. The recipient of a PEN Translation Fund Grant, her work with texts by Sergio Chejfec, Oliverio Girondo and Margo Glantz, among others, has appeared in several anthologies and journals including. She is currently pursuing a PhD at Columbia University, writing on representations of translation and textual borrowing in contemporary Latin American fiction.
+Heather Cleary’s translations include Sergio Chejfec’s _The Planets_ (finalist, BTBA 2013) and _The Dark_ (nominee, National Translation Award 2014), and a selection of Oliverio Girondo’s poetry for New Directions. She teaches at Sarah Lawrence College and has served as a judge for the BTBA and the PEN Translation Award. She is a founding member of the Cedilla & Co. translator collective and a founding editor of the digital, bilingual _Buenos Aires Review_.
 

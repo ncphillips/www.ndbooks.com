@@ -1,13 +1,13 @@
 ---
 title: "Hilda Doolittle (H.D.)"
-published: true
-date: 2011-09-08T04:22:00.000Z
+draft: false
+date: 2011-09-08T04:22:00-04:00
 last_name: "Doolittle (H.D.)"
 contributor_type:
-image_path: /uploads/1422663253485_Doolittle_Hilda.jpg
+image_path: /uploads/1490281471344/HD%20copy.jpg
 image_credit:
 featured_image_path:
-slug: hilda-doolittle-h.-d
+_slug: hilda-doolittle-h.-d
 ---
 
 An innovative modernist writer, Hilda Doolittle (1886–1961) wrote under her initials in a career that stretched from 1909 to 1961. Although she is most well known for her poetry—lyric and epic—H.D. also wrote novels, memoirs, short stories, essays, reviews, a children’s book, and translations. An American woman who lived her adult life abroad, H.D. was engaged in the formalist experimentation that preoccupied much of her generation. A range of thematic concerns resonates through her writing: the role of the poet, the civilian representation of war, material and mythologized ancient cultures, the role of national and colonial identity, lesbian and queer sexuality, and religion and spirituality.

@@ -1,33 +1,21 @@
 ---
 title: "The Bridge Over the Neroch & Other Works"
-published: true
-date: 2013-03-27T15:37:00.000Z
-publication_date: 2013-03-27T15:37:00.000Z
-show_in_forthcoming: false
+draft: false
+date: 2013-03-27T15:37:00-04:00
+publication_date: 2013-03-27T15:37:00-04:00
 subtitle:
-genre: Fiction
-language: Russian
-type:
-author_contributors:
-  - leonid-tsypkin
-translator_contributors:
-  - jamey-gambrell
-editor_contributors:
-contributors:
+genre: fiction
+subgenre:
+language: russian
+author:
+  - contributor/leonid-tsypkin.md
+translator:
+  - contributor/jamey-gambrell.md
+editor:
 featured_image_path:
-cover_image_path: Bridge_over_the_Neroch.jpg
-description: "All the remaining scattered gems by the great Russian-Jewish author of _Summer in Baden-Baden_ "
 editions:
-  - binding: Paperback
-    isbn: 9780811216616
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 16.95
-    price_cn: 18.00
-    trim_size:
-    Page_count: 352
-slug: the-bridge-over-the-neroch-other-works
+  - 9780811216616
+_slug: the-bridge-over-the-neroch-other-works
 ---
 
 Leonid Tsypkin’s novel [_Summer in Baden-Baden_](http://ndbooks.com/book/summer-in-baden-baden) was hailed as an undiscovered classic of 20th-century Russian literature. _The Washington Post_ claimed it “a chronicle of fevered genius,” and _The New York Review of Books_ described it as “gripping, mysterious and profoundly moving.” In her introduction, Susan Sontag said: “If you want from one book an experience of the depth and authority of Russian literature, read this book.” 

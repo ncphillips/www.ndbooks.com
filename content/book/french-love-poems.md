@@ -1,53 +1,21 @@
 ---
 title: "French Love Poems"
-published: true
-date: 2015-10-21T18:38:00.000Z
-publication_date: 2016-06-14T23:00:00.000Z
-show_in_forthcoming: true
+draft: false
+date: 2015-10-21T18:38:00-04:00
+publication_date: 2016-06-28T23:00:00-04:00
 subtitle:
-genre: Poetry
-language: French
-type:
-author_contributors:
-  - louise-labe
+genre: poetry
+subgenre:
+language: french
+author:
 
-  - charles-baudelaire
-
-  - stephane-mallarme
-
-  - paul-valery
-
-  - paul-luard
-
-  - albertine-sarrazin
-
-  - tynan-kogane-editor
-translator_contributors:
-editor_contributors:
-contributors:
+translator:
+editor:
 featured_image_path:
-cover_image_path: /webhook-uploads/1445452396756/french%20lvoe%20poems.tiff
-description: "Inspired by the great tradition of French love poetry, New Directions presents a beautiful, small gift edition, dedicated to what makes the world go round "
 editions:
-  - binding: Paperback
-    isbn: 9780811225595
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 11.95
-    price_cn: 15.95
-    trim_size: 4 x 6
-    Page_count: 64
-  - binding: Ebook
-    isbn: 9780811225601
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
-slug: french-love-poems
+  - 9780811225595
+  - 9780811225601
+_slug: french-love-poems
 ---
 
 In 1853, bursting with emotion, Charles Baudelaire confessed to his muse Madame Sabatier: “Sometimes, I can find relief only in composing verses for you.” Is there any better way of expressing feelings of passion and longing than with poetry? The French have excelled at this, resulting in a rich tradition of love poetry: theirs is the language of love.
@@ -81,4 +49,6 @@ _At my desire advancing, as gentle and deep_
 _As the sea sending its waves to the warm beach._
 
 (Charles Baudelaire)
+
+With poems by Guillaume Apollinaire, Charles Baudelaire, André Breton, Claude Cahun,  René Char, Andrée Chedid, Charles Cros, Robert Desnos, Marceline Desbordes-Valmore, Paul Éluard, Francis Jammes, Jean Joubert, Louise Labé, James Laughlin, Stéphane Mallarmé, Joyce Mansour, Anna de Noailles, Catherine Pozzi, Jacques Prévert, Arthur Rimbaud, Maurice Scève, Paul Valéry, Paul Verlaine, and Renée Vivien. Edited by Tynan Kogane.
 

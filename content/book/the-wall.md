@@ -1,42 +1,22 @@
 ---
 title: "The Wall"
-published: true
-date: 2001-01-01T06:00:00.000Z
-publication_date: 2001-01-01T06:00:00.000Z
-show_in_forthcoming: false
+draft: false
+date: 2001-01-01T06:00:00-04:00
+publication_date: 2001-01-01T06:00:00-04:00
 subtitle:
-genre: Fiction
-language: French
-type:
-  - Stories
-author_contributors:
-  - jean-paul-sartre
-translator_contributors:
-editor_contributors:
-contributors:
+genre: fiction
+subgenre:
+  - stories
+language: french
+author:
+  - contributor/jean-paul-sartre.md
+translator:
+editor:
 featured_image_path:
-cover_image_path: The_Wall.jpg
-description:
 editions:
-  - binding: Paperback
-    isbn: 9780811218108
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 12.95
-    price_cn:
-    trim_size:
-    Page_count:
-  - binding: Ebook
-    isbn: 9780811219747
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 12.95
-    price_cn:
-    trim_size:
-    Page_count:
-slug: the-wall
+  - 9780811218108
+  - 9780811219747
+_slug: the-wall
 ---
 
 In the five stories included in this collection––"The Wall," "The Room," "Erostratus," "Intimacy" and "The Childhood of a Leader"––the French master of Existentialism displays his powers of narrative and psychological insight at their most effective. Sartre’s characters and situations mirror the conflicts, complexities, neuroses and sensuality of the twentieth century. His intellectual underworld includes a modern Erostratus who is compelled to murder, a psychotic who communicates his hallucinations to his formerly-sane spouse, an unfaithful wife still bound to her impotent husband, a boy’s metamorphosis into an anti-semitic fascist, and the astonishing fate of a political prisoner. The close-ups of these people living in a contemporary world are vividly real; their stories are gripping and almost unbearably suspenseful. Polyphonic themes of decadence, sexual perversion, insanity and political and social amorality are skillfully woven throughout the entire collection of stories.

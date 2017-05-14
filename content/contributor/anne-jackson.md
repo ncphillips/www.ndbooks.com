@@ -1,13 +1,13 @@
 ---
 title: "Anne Jackson"
-published: true
-date: 2014-04-03T18:08:00.000Z
+draft: false
+date: 2014-04-03T18:08:00-04:00
 last_name: "Jackson"
 contributor_type:
 image_path:
 image_credit:
 featured_image_path:
-slug: anne-jackson
+_slug: anne-jackson
 ---
 
 In 1926, Anne Jackson was born in Millvale, Pennsylvania, a town set on the Allegheny River opposite Pittsburgh. Her family was forced to relocate to New York City during the depression so that her father could find a means to support them, a feat he achieved as a barber. On arriving in New York, the family first lived in an abandoned windmill in Brooklyn before finding their way to a tenement on Liberty Avenue.

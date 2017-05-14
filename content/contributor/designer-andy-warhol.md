@@ -1,13 +1,13 @@
 ---
 title: "Andy Warhol"
-published: true
-date: 2011-09-30T17:10:09.000Z
+draft: false
+date: 2011-09-30T17:10:09-04:00
 last_name: "Warhol"
 contributor_type:
 image_path:
 image_credit:
 featured_image_path:
-slug: designer/andy-warhol
+_slug: designer/andy-warhol
 ---
 
 Andy Warhol worked for New Directions as a book designer off and on for almost 10 years. Our editor-in-chief recalls James Laughlin telling her an Andy Warhol anecdote:

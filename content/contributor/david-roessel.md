@@ -1,13 +1,13 @@
 ---
 title: "David Roessel"
-published: true
-date: 2014-04-03T18:14:00.000Z
+draft: false
+date: 2014-04-03T18:14:00-04:00
 last_name: "Roessel"
 contributor_type:
 image_path:
 image_credit:
 featured_image_path:
-slug: david-roessel
+_slug: david-roessel
 ---
 
 David Roessel received his Ph.D. from Princeton University and is currently a Professor of Greek Language and Literature at Richard Stockton College of New Jersey. He is the editor of several books of poetry and drama, including: _Langston Hughes: Poems_ (2008) and _Poetry for Young People: Langston Hughes_ (2006). 

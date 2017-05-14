@@ -1,41 +1,21 @@
 ---
 title: "The Rise of Life on Earth"
-published: true
-date: 1992-09-01T05:00:32.000Z
-publication_date: 1992-09-01T05:00:32.000Z
-show_in_forthcoming: false
+draft: false
+date: 1992-09-01T05:00:32-04:00
+publication_date: 1992-09-01T05:00:32-04:00
 subtitle:
-genre: Fiction
+genre: fiction
+subgenre:
 language:
-type:
-author_contributors:
-  - joyce-carol-oates
-translator_contributors:
-editor_contributors:
-contributors:
+author:
+  - contributor/joyce-carol-oates.md
+translator:
+editor:
 featured_image_path:
-cover_image_path: The_Rise_Of_Life_On_Earth.jpg
-description:
 editions:
-  - binding: Paperback
-    isbn: 9780811212137
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 10.95
-    price_cn:
-    trim_size:
-    Page_count:
-  - binding: Clothbound
-    isbn: 9780811211710
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count: 144
-slug: the-rise-of-life-on-earth
+  - 9780811212137
+  - 9780811211710
+_slug: the-rise-of-life-on-earth
 ---
 
 Selected by _The New York Times Book Review_ as one of the most notable books of 1991 and now available as a New Directions paperbook, Joyce Carol Oates’ _The Rise of Life on Earth_ is a memorable portrait of one of the "insulted and injured" of American society. Set in the underside of working-class Detroit of the ’60s and ’70s, this short, intense novel sketches Kathleen Hennessy’s violent childhood and follows her into her early adult years as a hospital health-care worker. Overworked, underpaid, and quietly overzealous, Kathleen falls in love with a young doctor, whose exploitation of her sets the course of the remainder of her life, in which her passivity masks a deep fury and secret resolve to take revenge.

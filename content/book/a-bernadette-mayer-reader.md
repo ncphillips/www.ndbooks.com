@@ -1,32 +1,20 @@
 ---
 title: "A Bernadette Mayer Reader"
-published: true
-date: 1992-05-01T05:00:00.000Z
-publication_date: 1992-05-01T05:00:00.000Z
-show_in_forthcoming: false
+draft: false
+date: 1992-05-01T05:00:00-04:00
+publication_date: 1992-05-01T05:00:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
+subgenre:
 language:
-type:
-author_contributors:
-  - bernadette-mayer
-translator_contributors:
-editor_contributors:
-contributors:
+author:
+  - contributor/bernadette-mayer.md
+translator:
+editor:
 featured_image_path:
-cover_image_path: A_Bernadette_Mayer_Reader.jpg
-description:
 editions:
-  - binding: Paperback
-    isbn: 9780811212038
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn:
-    trim_size:
-    Page_count: 162
-slug: a-bernadette-mayer-reader
+  - 9780811212038
+_slug: a-bernadette-mayer-reader
 ---
 
 "Truly this is the best _How To_ book I’ve read in years. Bernadette Mayer makes a various world of real people in real times and places, a fact of love and loving use. She has impeccable insight and humor. She is a consummate poet no matter what’s for supper or who eats it. Would that all genius were as generous." – Robert Creeley

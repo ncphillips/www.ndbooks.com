@@ -1,13 +1,13 @@
 ---
 title: "Jan Peter Tripp"
-published: true
-date: 2014-04-08T18:48:00.000Z
+draft: false
+date: 2014-04-08T18:48:00-04:00
 last_name: "Peter Tripp"
 contributor_type:
 image_path:
 image_credit:
 featured_image_path:
-slug: jan-peter-tripp
+_slug: jan-peter-tripp
 ---
 
 Jan Peter Tripp, born in Allgäu, in the Bavarian Alps in 1945, is a German painter, sculptor and author. While he is renowned in Germany and Europe, there is little criticism to be found in English on Tripp that does not primarily consider his friend and collaborator, W. G. Sebald.

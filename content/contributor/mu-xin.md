@@ -1,13 +1,13 @@
 ---
 title: "Mu Xin"
-published: true
-date: 2011-09-08T04:23:18.000Z
+draft: false
+date: 2011-09-08T04:23:18-04:00
 last_name: "Mu Xin"
 contributor_type:
 image_path:
 image_credit:
 featured_image_path:
-slug: mu-xin
+_slug: mu-xin
 ---
 
 Mu Xin (1927- ) is the pen name of a renowned Chinese diasporan writer and artist currently living in the New York area. Mu Xin was born in Wuzhen, South China, into a wealthy aristocratic family with business interests in Shanghai. He was among the last generation to receive a classical education in the literati tradition, but he was also exposed through voluminous reading to the highest achievements of Western art and culture.

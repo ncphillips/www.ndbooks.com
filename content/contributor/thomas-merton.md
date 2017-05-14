@@ -1,13 +1,13 @@
 ---
 title: "Thomas Merton"
-published: true
-date: 2011-09-08T04:23:00.000Z
+draft: false
+date: 2011-09-08T04:23:00-04:00
 last_name: "Merton"
 contributor_type:
 image_path:
 image_credit:
 featured_image_path:
-slug: thomas-merton
+_slug: thomas-merton
 ---
 
 Thomas Merton (1915–1968) is arguably the most influential American Catholic author of the twentieth century. His autobiography, _The Seven Storey Mountain_, has sold over one million copies and has been translated into over fifteen languages. He wrote over sixty other books and hundreds of poems and articles on topics ranging from monastic spirituality to civil rights, nonviolence, and the nuclear arms race.
