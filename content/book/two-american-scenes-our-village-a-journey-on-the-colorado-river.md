@@ -14,13 +14,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811220415
     publication_date: 2013-03-26T20:19:00-04:00
-    cover_image_path: Two_American_Scenes_1.jpg
+    cover_image: /images/Two_American_Scenes_1.jpg
     forsale: false
     saleprice:
     shipping_charge:

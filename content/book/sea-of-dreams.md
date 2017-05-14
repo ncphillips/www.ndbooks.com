@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811215879
     publication_date: 2005-07-01T05:00:29-04:00
-    cover_image_path: Sea_of_Dreams_.jpg
+    cover_image: /images/Sea_of_Dreams_.jpg
     forsale: false
     saleprice:
     shipping_charge:

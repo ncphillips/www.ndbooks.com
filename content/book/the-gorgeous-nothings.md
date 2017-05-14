@@ -16,13 +16,13 @@ editors:
   - contributor/marta-werner.md
 contributors:
   - contributor/susan-howe.md
-featured_image_path:
+featured_image:
 description: "The first full-color publication of Emily Dickinson’s complete envelope writings in facsimile from her visually stunning manuscripts, here in a deluxe, large-scale edition "
 editions:
   - binding: Paperback
     isbn: 9780811221757
     publication_date: 2013-10-29T19:30:00-04:00
-    cover_image_path: Gorgeous_Nothings.jpg
+    cover_image: /images/Gorgeous_Nothings.jpg
     forsale: true
     saleprice:
     shipping_charge:

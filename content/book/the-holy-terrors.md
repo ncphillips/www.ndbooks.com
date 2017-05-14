@@ -13,13 +13,13 @@ translators:
   - contributor/rosamond-lehmann.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811200219
     publication_date: 1966-01-19T03:14:00-04:00
-    cover_image_path: The_Holy_Terrors.jpg
+    cover_image: /images/The_Holy_Terrors.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811221412
     publication_date: 1966-01-19T03:14:00-04:00
-    cover_image_path: The_Holy_Terrors.jpg
+    cover_image: /images/The_Holy_Terrors.jpg
     forsale: true
     saleprice:
     shipping_charge:

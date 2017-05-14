@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811207775
     publication_date: 1980-11-01T06:00:55-04:00
-    cover_image_path: The_Wisdom_Of_The_Taoists.jpg
+    cover_image: /images/The_Wisdom_Of_The_Taoists.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -15,13 +15,13 @@ contributors:
   - contributor/danzy-senna.md
 
   - contributor/harryette-mullen.md
-featured_image_path:
+featured_image:
 description: "A pioneering, dazzling satire about a biracial black girl from Philadelphia searching for her Jewish father in New York City "
 editions:
   - binding: Paperback
     isbn: 9780811223225
     publication_date: 2015-07-07T14:00:00-04:00
-    cover_image_path: /uploads/ross.jpg
+    cover_image: /images/ross.jpg
     forsale: true
     saleprice:
     shipping_charge:

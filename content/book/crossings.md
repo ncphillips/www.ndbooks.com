@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A powerful story of one woman's displacement between cultures and traditions -- a landmark in Asian-American literature. "
 editions:
   - binding: Paperback
     isbn: 9780811216685
     publication_date: 2007-06-01T05:00:51-04:00
-    cover_image_path: Crossings.jpg
+    cover_image: /images/Crossings.jpg
     forsale: false
     saleprice:
     shipping_charge:

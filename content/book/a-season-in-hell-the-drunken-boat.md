@@ -14,13 +14,13 @@ translators:
 editors:
 contributors:
   - contributor/patti-smith.md
-featured_image_path:
+featured_image:
 description: "A reissue of Rimbaud’s highly influential work, with a new preface by Patti Smith and the original 1945 ND cover design by Alvin Lustig "
 editions:
   - binding: Paperback
     isbn: 9780811201858
     publication_date: 2011-10-05T14:28:00-04:00
-    cover_image_path: season_in_hell_cover.jpg
+    cover_image: /images/season_in_hell_cover.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Ebook
     isbn: 9780811221030
     publication_date: 2011-10-05T14:28:00-04:00
-    cover_image_path: season_in_hell_cover.jpg
+    cover_image: /images/season_in_hell_cover.jpg
     forsale: true
     saleprice:
     shipping_charge:

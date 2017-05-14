@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Now in paperback, an L.A. Times Favorite Book of the Year, 2005 "
 editions:
   - binding: Paperback
     isbn: 9780811216654
     publication_date: 2007-09-01T05:00:36-04:00
-    cover_image_path: If_This_Be_Treason.jpg
+    cover_image: /images/If_This_Be_Treason.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811216197
     publication_date: 2007-09-01T05:00:36-04:00
-    cover_image_path: If_This_Be_Treason.jpg
+    cover_image: /images/If_This_Be_Treason.jpg
     forsale: false
     saleprice:
     shipping_charge:

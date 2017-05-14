@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811209984
     publication_date: 1986-10-01T05:00:00-04:00
-    cover_image_path: The_Collected_Stories_Of_Dylan_Thomas.jpg
+    cover_image: /images/The_Collected_Stories_Of_Dylan_Thomas.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811220453
     publication_date: 1986-10-01T05:00:00-04:00
-    cover_image_path: The_Collected_Stories_Of_Dylan_Thomas.jpg
+    cover_image: /images/The_Collected_Stories_Of_Dylan_Thomas.jpg
     forsale: false
     saleprice:
     shipping_charge:

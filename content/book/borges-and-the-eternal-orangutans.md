@@ -13,13 +13,13 @@ translators:
   - contributor/margaret-jull-costa.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811215923
     publication_date: 2005-05-01T05:00:50-04:00
-    cover_image_path: Borges_And_The_Eternal_Orangutans.jpg
+    cover_image: /images/Borges_And_The_Eternal_Orangutans.jpg
     forsale: false
     saleprice:
     shipping_charge:

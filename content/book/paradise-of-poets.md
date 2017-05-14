@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811214278
     publication_date: 1999-10-01T05:00:27-04:00
-    cover_image_path: A_Paradise_of_Poets.JPG
+    cover_image: /images/A_Paradise_of_Poets.JPG
     forsale: false
     saleprice:
     shipping_charge:

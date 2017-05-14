@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811212847
     publication_date: 1994-11-01T06:00:10-04:00
-    cover_image_path: Crossing_Borders.jpg
+    cover_image: /images/Crossing_Borders.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Clothbound
     isbn: 9780811211055
     publication_date: 1989-10-01T05:00:57-04:00
-    cover_image_path: The_Selected_Stories_Of_Siegfried_Lenz_.jpg
+    cover_image: /images/The_Selected_Stories_Of_Siegfried_Lenz_.jpg
     forsale: false
     saleprice:
     shipping_charge:

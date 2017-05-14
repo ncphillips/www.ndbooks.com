@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811209144
     publication_date: 1984-10-01T04:59:00-04:00
-    cover_image_path: We_Are_The_Fire.jpg
+    cover_image: /images/We_Are_The_Fire.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811209137
     publication_date: 1984-10-01T04:59:00-04:00
-    cover_image_path: We_Are_The_Fire.jpg
+    cover_image: /images/We_Are_The_Fire.jpg
     forsale: false
     saleprice:
     shipping_charge:

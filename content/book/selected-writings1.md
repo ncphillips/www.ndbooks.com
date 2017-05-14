@@ -14,13 +14,13 @@ translators:
   - contributor/enid-mcleod.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811218269
     publication_date: 1967-06-01T05:00:00-04:00
-    cover_image_path: Selected_Writings._Jules_Supervielle_.jpg
+    cover_image: /images/Selected_Writings._Jules_Supervielle_.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811203890
     publication_date: 1967-06-01T05:00:00-04:00
-    cover_image_path: Selected_Writings._Jules_Supervielle_.jpg
+    cover_image: /images/Selected_Writings._Jules_Supervielle_.jpg
     forsale: true
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "An unforgettable, sensual novel by _one of the most gifted and accomplished poets of his generation_ (Mark Rudman). "
 editions:
   - binding: Paperback
     isbn: 9780811217453
     publication_date: 2008-09-01T05:00:00-04:00
-    cover_image_path: As_A_Friend.jpg
+    cover_image: /images/As_A_Friend.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811223188
     publication_date: 2008-09-01T05:00:00-04:00
-    cover_image_path: As_A_Friend.jpg
+    cover_image: /images/As_A_Friend.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -13,13 +13,13 @@ translators:
   - contributor/susan-bernofsky.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "The Assistant by Robert Walser -- who was admired greatly by Kafka, Musil, Walter Benjamin, and W.G. Sebald -- is now presented in English for the very first time. "
 editions:
   - binding: Paperback
     isbn: 9780811215909
     publication_date: 2007-07-01T04:59:00-04:00
-    cover_image_path: The_Assistant.jpg
+    cover_image: /images/The_Assistant.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811222693
     publication_date: 2007-07-01T04:59:00-04:00
-    cover_image_path: The_Assistant.jpg
+    cover_image: /images/The_Assistant.jpg
     forsale: true
     saleprice:
     shipping_charge:

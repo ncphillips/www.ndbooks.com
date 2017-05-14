@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "New Directions, the discoverer of the greatest of the great contemporary world writers—such as W. G. Sebald and Roberto Bolaño, Inger Christensen and Bei Dao, Victor Pelevin and Javier Marías—now puts them on display in a showcase anthology. "
 editions:
   - binding: Paperback
     isbn: 9780811216500
     publication_date: 2006-04-01T06:00:28-04:00
-    cover_image_path: Terrestrial_Intelligence.jpg
+    cover_image: /images/Terrestrial_Intelligence.jpg
     forsale: false
     saleprice:
     shipping_charge:

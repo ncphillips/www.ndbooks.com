@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 978081120748X
     publication_date: 1979-11-01T06:00:14-04:00
-    cover_image_path: The_Princess_Of_72nd_Street.jpg
+    cover_image: /images/The_Princess_Of_72nd_Street.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811207492
     publication_date: 1979-11-01T06:00:14-04:00
-    cover_image_path: The_Princess_Of_72nd_Street.jpg
+    cover_image: /images/The_Princess_Of_72nd_Street.jpg
     forsale: false
     saleprice:
     shipping_charge:

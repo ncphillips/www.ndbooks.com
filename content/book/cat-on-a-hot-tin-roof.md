@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "The definitive text of Tennessee Williams' Pulitzer Prize and Drama Critics Circle Award winning play "
 editions:
   - binding: Paperback
     isbn: 9780811216012
     publication_date: 2004-09-01T05:00:00-04:00
-    cover_image_path: Cat_On_A_Hot_Tin_Roof.jpg
+    cover_image: /images/Cat_On_A_Hot_Tin_Roof.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811220774
     publication_date: 2004-09-01T05:00:00-04:00
-    cover_image_path: Cat_On_A_Hot_Tin_Roof.jpg
+    cover_image: /images/Cat_On_A_Hot_Tin_Roof.jpg
     forsale: false
     saleprice:
     shipping_charge:

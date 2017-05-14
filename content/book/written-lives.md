@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "An affectionate and very funny gallery of twenty great world authors from the pen of _the most subtle and gifted writer in contemporary Spanish literature_ (The Boston Globe) "
 editions:
   - binding: Paperback
     isbn: 9780811216890
     publication_date: 2006-02-01T06:00:00-04:00
-    cover_image_path: Written_Lives.jpg
+    cover_image: /images/Written_Lives.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811216111
     publication_date: 2006-02-01T06:00:00-04:00
-    cover_image_path: Written_Lives.jpg
+    cover_image: /images/Written_Lives.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -41,7 +41,7 @@ editions:
   - binding: Ebook
     isbn: 9780811219365
     publication_date: 2006-02-01T06:00:00-04:00
-    cover_image_path: Written_Lives.jpg
+    cover_image: /images/Written_Lives.jpg
     forsale: false
     saleprice:
     shipping_charge:

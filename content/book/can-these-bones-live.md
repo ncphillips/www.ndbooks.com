@@ -13,13 +13,13 @@ translators:
 editors:
 contributors:
   - contributor/herbert-read.md
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811202640
     publication_date: 1979-06-01T05:00:39-04:00
-    cover_image_path: Can_These_Bones_Live.jpg
+    cover_image: /images/Can_These_Bones_Live.jpg
     forsale: false
     saleprice:
     shipping_charge:

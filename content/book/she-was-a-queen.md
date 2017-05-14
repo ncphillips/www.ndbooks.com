@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811211697
     publication_date: 1991-06-01T05:00:50-04:00
-    cover_image_path: She_Was_A_Queen.jpg
+    cover_image: /images/She_Was_A_Queen.jpg
     forsale: false
     saleprice:
     shipping_charge:

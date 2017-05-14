@@ -13,13 +13,13 @@ translators:
 editors:
   - contributor/jonathan-cohen.md
 contributors:
-featured_image_path:
+featured_image:
 description: "The centennial edition of William Carlos Williams’s early ground-breaking volume, containing some of his best-loved poems "
 editions:
   - binding: Paperback
     isbn: 9780811226660
     publication_date: 2017-10-18T04:00:00-04:00
-    cover_image_path: /uploads/Al%20Que%20Quiere!%20(cover).jpg
+    cover_image: /images/Al%20Que%20Quiere!%20(cover).jpg
     forsale: false
     saleprice:
     shipping_charge:

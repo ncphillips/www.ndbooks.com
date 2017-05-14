@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811201186
     publication_date: 2015-09-15T04:00:00-04:00
-    cover_image_path: /uploads/Confessions%20of%20a%20Mask.jpg
+    cover_image: /images/Confessions%20of%20a%20Mask.jpg
     forsale: true
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811213813
     publication_date: 1998-05-01T05:00:49-04:00
-    cover_image_path: Science_and_Steepleflower.jpg
+    cover_image: /images/Science_and_Steepleflower.jpg
     forsale: false
     saleprice:
     shipping_charge:

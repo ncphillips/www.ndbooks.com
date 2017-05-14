@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Two great dramas together in paperback for the first time "
 editions:
   - binding: Paperback
     isbn: 9780811219396
     publication_date: 2012-11-07T17:27:32-04:00
-    cover_image_path: williams-inD.jpg
+    cover_image: /images/williams-inD.jpg
     forsale: false
     saleprice:
     shipping_charge:

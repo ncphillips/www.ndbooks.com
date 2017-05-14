@@ -13,13 +13,13 @@ translators:
   - contributor/peter-cole.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Explosive poems by an Israeli accusing his country of crimes against humanity. "
 editions:
   - binding: Paperback
     isbn: 9780811215398
     publication_date: 2003-04-01T06:00:33-04:00
-    cover_image_path: jaccuse.JPG
+    cover_image: /images/jaccuse.JPG
     forsale: false
     saleprice:
     shipping_charge:

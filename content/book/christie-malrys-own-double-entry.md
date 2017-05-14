@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811209540
     publication_date: 1987-05-01T05:00:55-04:00
-    cover_image_path: Christie_Malrys_Own_Double-Entry_2.jpg
+    cover_image: /images/Christie_Malrys_Own_Double-Entry_2.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811209533
     publication_date: 1987-05-01T05:00:55-04:00
-    cover_image_path: Christie_Malrys_Own_Double-Entry_2.jpg
+    cover_image: /images/Christie_Malrys_Own_Double-Entry_2.jpg
     forsale: false
     saleprice:
     shipping_charge:

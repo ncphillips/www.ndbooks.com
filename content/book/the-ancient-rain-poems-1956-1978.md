@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811208017
     publication_date: 1981-06-01T05:00:00-04:00
-    cover_image_path: The_Ancient_Rain_.jpg
+    cover_image: /images/The_Ancient_Rain_.jpg
     forsale: false
     saleprice:
     shipping_charge:

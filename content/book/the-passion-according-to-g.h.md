@@ -14,13 +14,13 @@ translators:
 editors:
   - contributor/benjamin-moser.md
 contributors:
-featured_image_path: /uploads/four_lispectors.jpg
+featured_image: /images/four_lispectors.jpg
 description: "A new translation by Idra Novey "
 editions:
   - binding: Paperback
     isbn: 9780811219686
     publication_date: 2012-06-13T20:01:00-04:00
-    cover_image_path: The-Passion-According-to-GH.jpg
+    cover_image: /images/The-Passion-According-to-GH.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Ebook
     isbn: 9780811220699
     publication_date: 2012-06-13T20:01:00-04:00
-    cover_image_path: The-Passion-According-to-GH.jpg
+    cover_image: /images/The-Passion-According-to-GH.jpg
     forsale: true
     saleprice:
     shipping_charge:

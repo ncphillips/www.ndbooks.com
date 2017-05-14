@@ -13,13 +13,13 @@ translators:
   - contributor/chris-andrews.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A tour de force, Amulet is a highly charged first-person, semi-hallucinatory novel that embodies in one woman's voice the melancholy and violent recent history of Latin America. "
 editions:
   - binding: Paperback
     isbn: 9780811217460
     publication_date: 2008-05-01T05:00:00-04:00
-    cover_image_path: Amulet.jpg
+    cover_image: /images/Amulet.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811216647
     publication_date: 2008-05-01T05:00:00-04:00
-    cover_image_path: Amulet.jpg
+    cover_image: /images/Amulet.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -41,7 +41,7 @@ editions:
   - binding: Ebook
     isbn: 9780811220484
     publication_date: 2008-05-01T05:00:00-04:00
-    cover_image_path: Amulet.jpg
+    cover_image: /images/Amulet.jpg
     forsale: false
     saleprice:
     shipping_charge:

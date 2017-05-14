@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Personal favorites selected by the Pulitzer Prize-winning poet himself. "
 editions:
   - binding: Paperback
     isbn: 9780811215251
     publication_date: 2002-10-01T05:00:30-04:00
-    cover_image_path: Look_Out_2.jpg
+    cover_image: /images/Look_Out_2.jpg
     forsale: false
     saleprice:
     shipping_charge:

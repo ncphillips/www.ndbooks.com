@@ -15,13 +15,13 @@ translators:
 editors:
 contributors:
   - contributor/kay-boyle.md
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811200134
     publication_date: 1957-01-01T06:00:39-04:00
-    cover_image_path: Thirty_Stories.jpg
+    cover_image: /images/Thirty_Stories.jpg
     forsale: false
     saleprice:
     shipping_charge:

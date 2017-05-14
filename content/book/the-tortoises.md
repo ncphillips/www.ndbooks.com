@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A powerful, subtle, dark novel depicting the destruction of Austrian Jews, never before published in English. "
 editions:
   - binding: Paperback
     isbn: 9780811216968
     publication_date: 2007-06-01T05:00:36-04:00
-    cover_image_path: The_Tortoises.jpg
+    cover_image: /images/The_Tortoises.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811214681
     publication_date: 2007-06-01T05:00:36-04:00
-    cover_image_path: The_Tortoises.jpg
+    cover_image: /images/The_Tortoises.jpg
     forsale: false
     saleprice:
     shipping_charge:

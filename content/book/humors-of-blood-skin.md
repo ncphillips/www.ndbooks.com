@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811209076
     publication_date: 1984-11-01T06:00:06-04:00
-    cover_image_path: Humors_Of_Blood_and_Skin.jpg
+    cover_image: /images/Humors_Of_Blood_and_Skin.jpg
     forsale: false
     saleprice:
     shipping_charge:

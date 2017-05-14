@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811200387
     publication_date: 1974-06-01T05:00:00-04:00
-    cover_image_path: Some_Versions_Of_Pastoral.jpg
+    cover_image: /images/Some_Versions_Of_Pastoral.jpg
     forsale: false
     saleprice:
     shipping_charge:

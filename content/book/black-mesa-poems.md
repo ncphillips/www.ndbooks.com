@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811211024
     publication_date: 1989-11-01T06:00:00-04:00
-    cover_image_path: Black_Mesa_Poems.jpg
+    cover_image: /images/Black_Mesa_Poems.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811223300
     publication_date: 1989-11-01T06:00:00-04:00
-    cover_image_path: Black_Mesa_Poems.jpg
+    cover_image: /images/Black_Mesa_Poems.jpg
     forsale: false
     saleprice:
     shipping_charge:

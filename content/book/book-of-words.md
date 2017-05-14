@@ -13,13 +13,13 @@ translators:
   - contributor/susan-bernofsky.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A searing novella about coming of age in a land of tyranny, by one of Germany's most brilliant young authors. "
 editions:
   - binding: Paperback
     isbn: 9780811217064
     publication_date: 2007-12-01T06:00:52-04:00
-    cover_image_path: bookofwords.JPG
+    cover_image: /images/bookofwords.JPG
     forsale: false
     saleprice:
     shipping_charge:

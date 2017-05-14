@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811205245
     publication_date: 1974-03-01T05:00:00-04:00
-    cover_image_path: September_Blackberries.jpg
+    cover_image: /images/September_Blackberries.jpg
     forsale: false
     saleprice:
     shipping_charge:

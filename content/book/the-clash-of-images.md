@@ -14,13 +14,13 @@ translators:
   - contributor/robyn-creswell.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A moving, memoiristic short-story collection by a venerated Moroccan writer about growing up during a time of cultural upheaval. "
 editions:
   - binding: Paperback
     isbn: 9780811218863
     publication_date: 2010-09-29T14:28:00-04:00
-    cover_image_path: The_Clash_Of_Images.jpg
+    cover_image: /images/The_Clash_Of_Images.jpg
     forsale: true
     saleprice:
     shipping_charge:

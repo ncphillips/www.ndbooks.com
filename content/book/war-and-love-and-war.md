@@ -13,13 +13,13 @@ translators:
   - contributor/peter-cole.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A rich, far-ranging, powerful selection of a lifetime's work by the Israeli poet Aharon Shabtai, _one of the most exciting writers working in Hebrew today_ (Ha'aretz). "
 editions:
   - binding: Paperback
     isbn: 9780811218900
     publication_date: 2010-10-29T14:28:00-04:00
-    cover_image_path: /uploads/ColeWarLove.jpg
+    cover_image: /images/ColeWarLove.jpg
     forsale: true
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811217866
     publication_date: 1988-05-01T05:00:44-04:00
-    cover_image_path: The_Pink_and_The_Green.jpg
+    cover_image: /images/The_Pink_and_The_Green.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811210621
     publication_date: 1988-05-01T05:00:44-04:00
-    cover_image_path: The_Pink_and_The_Green.jpg
+    cover_image: /images/The_Pink_and_The_Green.jpg
     forsale: false
     saleprice:
     shipping_charge:

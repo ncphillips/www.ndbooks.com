@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811214391
     publication_date: 2000-06-01T05:00:00-04:00
-    cover_image_path: Five_By_Endo.jpg
+    cover_image: /images/Five_By_Endo.jpg
     forsale: true
     saleprice:
     shipping_charge:

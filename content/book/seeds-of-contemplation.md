@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Clothbound
     isbn: 9780811209908
     publication_date: 1987-09-01T05:00:00-04:00
-    cover_image_path: Seeds_Of_Contemplation.jpg
+    cover_image: /images/Seeds_Of_Contemplation.jpg
     forsale: false
     saleprice:
     shipping_charge:

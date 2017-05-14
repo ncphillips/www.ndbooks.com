@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811202091
     publication_date: 1954-06-01T05:00:00-04:00
-    cover_image_path: Under_Milk_Wood.jpg
+    cover_image: /images/Under_Milk_Wood.jpg
     forsale: false
     saleprice:
     shipping_charge:

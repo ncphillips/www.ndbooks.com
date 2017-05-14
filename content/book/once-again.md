@@ -13,13 +13,13 @@ translators:
 editors:
   - contributor/jean-francois-bory.md
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811200103
     publication_date: 1968-10-01T05:00:00-04:00
-    cover_image_path: Once_Again.jpg
+    cover_image: /images/Once_Again.jpg
     forsale: true
     saleprice:
     shipping_charge:

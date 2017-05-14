@@ -13,13 +13,13 @@ translators:
 editors:
 contributors:
   - contributor/michael-dirda.md
-featured_image_path:
+featured_image:
 description: "Nabokov's first novel in English, one of his greatest and most overlooked "
 editions:
   - binding: Paperback
     isbn: 9780811217507
     publication_date: 2008-07-01T05:00:00-04:00
-    cover_image_path: The_Real_Life_of_Sebastian_Knight_1.jpg
+    cover_image: /images/The_Real_Life_of_Sebastian_Knight_1.jpg
     forsale: true
     saleprice:
     shipping_charge:

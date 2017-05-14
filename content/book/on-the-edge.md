@@ -14,13 +14,13 @@ translators:
 editors:
 contributors:
   - contributor/valerie-miles.md
-featured_image_path: /uploads/MARSH%20.jpg
+featured_image: /images/MARSH%20.jpg
 description: "_On the Edge_ is a monumental fresco of a brutal contemporary Spain in free fall "
 editions:
   - binding: Paperback
     isbn: 9780811222846
     publication_date: 2016-01-25T05:00:00-04:00
-    cover_image_path: /uploads/ON%20THE%20EDGE.tif
+    cover_image: /images/ON%20THE%20EDGE.tif
     forsale: true
     saleprice:
     shipping_charge:

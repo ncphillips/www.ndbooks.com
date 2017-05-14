@@ -13,13 +13,13 @@ translators:
 editors:
 contributors:
   - contributor/john-updike.md
-featured_image_path:
+featured_image:
 description: "A revolutionary comic masterpiece, an icon of literature as American pop art, and a book unlike any other, _The Adventures of Mao on the Long March_ breaks all frames. "
 editions:
   - binding: Paperback
     isbn: 9780811216326
     publication_date: 2005-10-01T05:00:00-04:00
-    cover_image_path: The_Adventures_Of_Mao_On_The_Long_March.jpg
+    cover_image: /images/The_Adventures_Of_Mao_On_The_Long_March.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811220231
     publication_date: 2005-10-01T05:00:00-04:00
-    cover_image_path: The_Adventures_Of_Mao_On_The_Long_March.jpg
+    cover_image: /images/The_Adventures_Of_Mao_On_The_Long_March.jpg
     forsale: false
     saleprice:
     shipping_charge:

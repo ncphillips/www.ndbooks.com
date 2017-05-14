@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Eliot Weinberger continues his ever-astonishing exploration of the essay form, opening up its possibilities, and reinvigorating it with a passion and intellect unmatched in contemporary letters. "
 editions:
   - binding: Paperback
     isbn: 9780811218344
     publication_date: 2009-06-01T05:00:04-04:00
-    cover_image_path: orangesandpeanuts.jpg
+    cover_image: /images/orangesandpeanuts.jpg
     forsale: false
     saleprice:
     shipping_charge:

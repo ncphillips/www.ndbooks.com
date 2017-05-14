@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811207614
     publication_date: 1980-08-01T05:00:00-04:00
-    cover_image_path: /uploads/Snyder_%20The%20Real%20Work.jpg
+    cover_image: /images/Snyder_%20The%20Real%20Work.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811207607
     publication_date: 1980-08-01T05:00:00-04:00
-    cover_image_path: _The_Real_Work.jpg
+    cover_image: /images/_The_Real_Work.jpg
     forsale: true
     saleprice:
     shipping_charge:

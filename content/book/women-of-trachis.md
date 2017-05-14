@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811209489
     publication_date: 1985-06-01T05:00:41-04:00
-    cover_image_path: Women_Of_Trachis.jpg
+    cover_image: /images/Women_Of_Trachis.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811216814
     publication_date: 2006-11-01T06:00:26-04:00
-    cover_image_path: The_Christ_Of_Fish.jpg
+    cover_image: /images/The_Christ_Of_Fish.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811214193
     publication_date: 2006-11-01T06:00:26-04:00
-    cover_image_path: The_Christ_Of_Fish.jpg
+    cover_image: /images/The_Christ_Of_Fish.jpg
     forsale: false
     saleprice:
     shipping_charge:

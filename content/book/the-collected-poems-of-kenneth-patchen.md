@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811201407
     publication_date: 1969-10-01T05:00:00-04:00
-    cover_image_path: Collected_Poems_Of_Kenneth_Patchen_.jpg
+    cover_image: /images/Collected_Poems_Of_Kenneth_Patchen_.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -13,13 +13,13 @@ translators:
   - contributor/paul-olchvary.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Lyrical, surreal, and yet unsettlingly realistic, _The Sinistra Zone_ swims in the totalitarian backwaters of Eastern Europe "
 editions:
   - binding: Paperback
     isbn: 9780811219785
     publication_date: 2013-08-26T15:47:00-04:00
-    cover_image_path: Sinistra_Zone.jpg
+    cover_image: /images/Sinistra_Zone.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811219792
     publication_date: 2013-08-26T15:47:00-04:00
-    cover_image_path: Sinistra_Zone.jpg
+    cover_image: /images/Sinistra_Zone.jpg
     forsale: true
     saleprice:
     shipping_charge:

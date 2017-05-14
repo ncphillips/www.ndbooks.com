@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811207249
     publication_date: 1979-04-01T06:00:12-04:00
-    cover_image_path: Just_Wild_About_Harry.jpg
+    cover_image: /images/Just_Wild_About_Harry.jpg
     forsale: false
     saleprice:
     shipping_charge:

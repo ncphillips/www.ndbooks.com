@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811205290
     publication_date: 1974-04-01T05:00:12-04:00
-    cover_image_path: Tongues_Of_Fallen_Angels.jpg
+    cover_image: /images/Tongues_Of_Fallen_Angels.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811205283
     publication_date: 1974-04-01T05:00:12-04:00
-    cover_image_path: Tongues_Of_Fallen_Angels.jpg
+    cover_image: /images/Tongues_Of_Fallen_Angels.jpg
     forsale: false
     saleprice:
     shipping_charge:

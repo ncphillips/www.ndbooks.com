@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811201179
     publication_date: 2015-09-15T04:00:00-04:00
-    cover_image_path: /uploads/Death%20in%20Midsummer.jpg
+    cover_image: /images/Death%20in%20Midsummer.jpg
     forsale: true
     saleprice:
     shipping_charge:

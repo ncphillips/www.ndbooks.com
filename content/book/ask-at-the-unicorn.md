@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 97808112
     publication_date: 1963-01-01T06:00:32-04:00
-    cover_image_path: Ask_At_The_Unicorn.jpg
+    cover_image: /images/Ask_At_The_Unicorn.jpg
     forsale: false
     saleprice:
     shipping_charge:

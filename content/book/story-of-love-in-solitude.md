@@ -13,13 +13,13 @@ translators:
   - contributor/rachel-careau.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A notable discovery of a truly original voice "
 editions:
   - binding: Paperback
     isbn: 9780811225199
     publication_date: 2016-10-25T04:00:00-04:00
-    cover_image_path: /uploads/LeWinter_solitude_to_size.tif
+    cover_image: /images/LeWinter_solitude_to_size.tif
     forsale: true
     saleprice:
     shipping_charge:

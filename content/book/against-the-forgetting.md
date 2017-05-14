@@ -14,13 +14,13 @@ translators:
 editors:
 contributors:
   - contributor/eliot-weinberger.md
-featured_image_path:
+featured_image:
 description: "A stunning selection of poems from the great twentieth-century Dutch poet. "
 editions:
   - binding: Paperback
     isbn: 9780811215558
     publication_date: 2004-02-01T06:00:27-04:00
-    cover_image_path: Against_The_Forgetting.jpg
+    cover_image: /images/Against_The_Forgetting.jpg
     forsale: false
     saleprice:
     shipping_charge:

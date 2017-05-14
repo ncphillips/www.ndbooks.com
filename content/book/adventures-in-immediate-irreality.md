@@ -13,13 +13,13 @@ translators:
   - contributor/michael-henry-heim.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Proclaimed _the Kafka of Romania_ by Eugène Ionesco, Max Blecher wrote this incandescent masterpiece shortly before his untimely death. "
 editions:
   - binding: Paperback
     isbn: 9780811217606
     publication_date: 2015-02-17T15:44:00-04:00
-    cover_image_path: /uploads/blecher_adventures.jpg
+    cover_image: /images/blecher_adventures.jpg
     forsale: true
     saleprice:
     shipping_charge:

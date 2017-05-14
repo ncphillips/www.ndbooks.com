@@ -14,13 +14,13 @@ translators:
   - contributor/natasha-wimmer.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Now in paperback — the sole collection of the great Chilean writer’s essays "
 editions:
   - binding: Paperback
     isbn: 9780811222723
     publication_date: 2014-05-27T14:18:00-04:00
-    cover_image_path: between_parentheses_cover_lg.jpg
+    cover_image: /images/between_parentheses_cover_lg.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Ebook
     isbn: 9780811220507
     publication_date: 2014-05-27T14:18:00-04:00
-    cover_image_path: between_parentheses_cover_lg.jpg
+    cover_image: /images/between_parentheses_cover_lg.jpg
     forsale: false
     saleprice:
     shipping_charge:

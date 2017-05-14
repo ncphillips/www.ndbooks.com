@@ -15,13 +15,13 @@ translators:
   - contributor/natasha-wimmer.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A treasury of posthumous Bolaño stories "
 editions:
   - binding: Paperback
     isbn: 9780811222730
     publication_date: 2014-05-27T14:19:00-04:00
-    cover_image_path: /uploads/Secret_of_evil_pb.jpg
+    cover_image: /images/Secret_of_evil_pb.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -43,7 +43,7 @@ editions:
   - binding: Clothbound
     isbn:
     publication_date: 2014-05-27T14:19:00-04:00
-    cover_image_path: /uploads/Secret__of_Evil_front.jpg
+    cover_image: /images/Secret__of_Evil_front.jpg
     forsale: true
     saleprice:
     shipping_charge:

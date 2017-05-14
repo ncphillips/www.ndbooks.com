@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811214353
     publication_date: 2000-05-01T05:00:55-04:00
-    cover_image_path: Stairs_To_The_Roof.jpg
+    cover_image: /images/Stairs_To_The_Roof.jpg
     forsale: false
     saleprice:
     shipping_charge:

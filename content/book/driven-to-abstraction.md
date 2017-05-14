@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A new poetry collection of startling beauty and thought by a great American poet. "
 editions:
   - binding: Paperback
     isbn: 9780811218795
     publication_date: 2010-11-30T14:28:13-04:00
-    cover_image_path: driven.JPG
+    cover_image: /images/driven.JPG
     forsale: false
     saleprice:
     shipping_charge:

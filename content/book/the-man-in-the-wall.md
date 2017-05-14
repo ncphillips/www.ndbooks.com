@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811212373
     publication_date: 1993-06-01T05:00:43-04:00
-    cover_image_path: The_Man_In_The_Wall.jpg
+    cover_image: /images/The_Man_In_The_Wall.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811212366
     publication_date: 1993-06-01T05:00:43-04:00
-    cover_image_path: The_Man_In_The_Wall.jpg
+    cover_image: /images/The_Man_In_The_Wall.jpg
     forsale: false
     saleprice:
     shipping_charge:

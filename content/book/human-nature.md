@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811214407
     publication_date: 2000-04-01T06:00:00-04:00
-    cover_image_path: /uploads/Olson%2C%20Toby_%20Human%20Nature.jpg
+    cover_image: /images/Olson%2C%20Toby_%20Human%20Nature.jpg
     forsale: true
     saleprice:
     shipping_charge:

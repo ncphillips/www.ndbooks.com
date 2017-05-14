@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811217835
     publication_date: 1980-11-01T06:00:13-04:00
-    cover_image_path: Ezra_Pound_and_the_Visual_Arts.jpg
+    cover_image: /images/Ezra_Pound_and_the_Visual_Arts.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811207720
     publication_date: 1980-11-01T06:00:13-04:00
-    cover_image_path: Ezra_Pound_and_the_Visual_Arts.jpg
+    cover_image: /images/Ezra_Pound_and_the_Visual_Arts.jpg
     forsale: false
     saleprice:
     shipping_charge:

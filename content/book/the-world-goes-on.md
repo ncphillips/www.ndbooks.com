@@ -18,13 +18,13 @@ translators:
   - contributor/george-szirtes.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A magnificent new collection of stories by “the contemporary Hungarian master of apocalypse” (Susan Sontag) "
 editions:
   - binding: Clothbound
     isbn: 9780811224192
     publication_date: 2017-11-15T05:00:00-04:00
-    cover_image_path: /uploads/9780811224192.jpg
+    cover_image: /images/9780811224192.jpg
     forsale: false
     saleprice:
     shipping_charge:

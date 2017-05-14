@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811206587
     publication_date: 2001-01-01T06:00:10-04:00
-    cover_image_path: Too_Much_Flesh_and_Jabez_.jpg
+    cover_image: /images/Too_Much_Flesh_and_Jabez_.jpg
     forsale: false
     saleprice:
     shipping_charge:

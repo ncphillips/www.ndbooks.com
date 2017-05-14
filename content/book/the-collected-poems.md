@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "The landmark collected work of one of the twentieth century’s greatest poets "
 editions:
   - binding: Clothbound
     isbn: 9780811221733
     publication_date: 2013-11-29T20:31:00-04:00
-    cover_image_path: Collected_Poems_Levertov.jpg
+    cover_image: /images/Collected_Poems_Levertov.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811221740
     publication_date: 2013-11-29T20:31:00-04:00
-    cover_image_path: Collected_Poems_Levertov.jpg
+    cover_image: /images/Collected_Poems_Levertov.jpg
     forsale: true
     saleprice:
     shipping_charge:

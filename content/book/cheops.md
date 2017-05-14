@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "West creates a glorious, powerful Sun King of Egypt, bent on a death worthy of his great pyramid at Giza. "
 editions:
   - binding: Paperback
     isbn: 9780811218191
     publication_date: 2002-10-01T05:00:53-04:00
-    cover_image_path: Cheops.jpg
+    cover_image: /images/Cheops.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811215190
     publication_date: 2002-10-01T05:00:53-04:00
-    cover_image_path: Cheops.jpg
+    cover_image: /images/Cheops.jpg
     forsale: false
     saleprice:
     shipping_charge:

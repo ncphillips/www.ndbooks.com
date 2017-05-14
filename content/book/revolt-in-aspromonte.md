@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811200028
     publication_date: 1962-12-01T06:00:10-04:00
-    cover_image_path: Revolt_in_Aspromonte_.jpg
+    cover_image: /images/Revolt_in_Aspromonte_.jpg
     forsale: false
     saleprice:
     shipping_charge:

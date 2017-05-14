@@ -14,13 +14,13 @@ translators:
   - contributor/marian-schwartz.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Here they are: White Russians saddened by their lost homeland, scrambling to build new Russo-French lives in the suburbs of Paris, questing for success, comfort, pleasure, and love. "
 editions:
   - binding: Paperback
     isbn: 9780811218337
     publication_date: 2009-07-01T05:00:00-04:00
-    cover_image_path: Billancourt_Tales.JPG
+    cover_image: /images/Billancourt_Tales.JPG
     forsale: true
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811214810
     publication_date: 2009-07-01T05:00:00-04:00
-    cover_image_path: Billancourt_Tales.JPG
+    cover_image: /images/Billancourt_Tales.JPG
     forsale: true
     saleprice:
     shipping_charge:

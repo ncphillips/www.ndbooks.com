@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811200509
     publication_date: 1956-12-01T06:00:00-04:00
-    cover_image_path: Poems_From_The_Greek_Anthology.jpg
+    cover_image: /images/Poems_From_The_Greek_Anthology.jpg
     forsale: true
     saleprice:
     shipping_charge:

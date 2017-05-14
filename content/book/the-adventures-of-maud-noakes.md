@@ -12,7 +12,7 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
 _slug: the-adventures-of-maud-noakes

@@ -14,13 +14,13 @@ translators:
 editors:
   - contributor/bonnie-thurston.md
 contributors:
-featured_image_path:
+featured_image:
 description: "A great introduction to the religions of the East by a monk from the West "
 editions:
   - binding: Paperback
     isbn: 9780811219945
     publication_date: 2012-06-20T20:03:00-04:00
-    cover_image_path: On_Eastern_Meditation_1.jpg
+    cover_image: /images/On_Eastern_Meditation_1.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Ebook
     isbn: 9780811219952
     publication_date: 2012-06-20T20:03:00-04:00
-    cover_image_path: On_Eastern_Meditation_1.jpg
+    cover_image: /images/On_Eastern_Meditation_1.jpg
     forsale: false
     saleprice:
     shipping_charge:

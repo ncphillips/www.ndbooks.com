@@ -13,13 +13,13 @@ translators:
   - contributor/chris-andrews.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "The most unsettling and stunning of Aira’s short novels published so far by New Directions. "
 editions:
   - binding: Paperback
     isbn: 9780811217422
     publication_date: 2009-02-01T06:00:00-04:00
-    cover_image_path: Ghosts.jpg
+    cover_image: /images/Ghosts.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811219815
     publication_date: 2009-02-01T06:00:00-04:00
-    cover_image_path: Ghosts.jpg
+    cover_image: /images/Ghosts.jpg
     forsale: false
     saleprice:
     shipping_charge:

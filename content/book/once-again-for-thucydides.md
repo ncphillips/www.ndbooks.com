@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811217767
     publication_date: 1998-09-01T05:00:21-04:00
-    cover_image_path: Once_Again_For_Thucydides.jpg
+    cover_image: /images/Once_Again_For_Thucydides.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811213882
     publication_date: 1998-09-01T05:00:21-04:00
-    cover_image_path: Once_Again_For_Thucydides.jpg
+    cover_image: /images/Once_Again_For_Thucydides.jpg
     forsale: false
     saleprice:
     shipping_charge:

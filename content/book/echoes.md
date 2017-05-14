@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811217699
     publication_date: 1994-04-01T06:00:03-04:00
-    cover_image_path: Echoes.jpg
+    cover_image: /images/Echoes.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811212632
     publication_date: 1994-04-01T06:00:03-04:00
-    cover_image_path: Echoes.jpg
+    cover_image: /images/Echoes.jpg
     forsale: false
     saleprice:
     shipping_charge:

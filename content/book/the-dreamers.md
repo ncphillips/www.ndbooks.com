@@ -13,13 +13,13 @@ translators:
   - contributor/tom-geddes.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811213219
     publication_date: 1996-05-01T05:00:33-04:00
-    cover_image_path: The_Dreamers.jpg
+    cover_image: /images/The_Dreamers.jpg
     forsale: false
     saleprice:
     shipping_charge:

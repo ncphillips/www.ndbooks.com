@@ -13,13 +13,13 @@ translators:
   - contributor/kurt-beals.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Lauded by Hesse, Rilke, Musil, and Mann, this is the first book to appear in English by the unique Swiss modernist Regina Ullmann. "
 editions:
   - binding: Paperback
     isbn: 9780811220057
     publication_date: 2015-01-20T15:46:00-04:00
-    cover_image_path: /uploads/ullmann_country_road.jpg
+    cover_image: /images/ullmann_country_road.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811220064
     publication_date: 2015-01-20T15:46:00-04:00
-    cover_image_path: ullmann_country_road.jpg
+    cover_image: /images/ullmann_country_road.jpg
     forsale: true
     saleprice:
     shipping_charge:

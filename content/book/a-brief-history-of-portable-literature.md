@@ -15,13 +15,13 @@ translators:
   - contributor/anne-mclean.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A reader’s fictional tour of the art and lives of some of the great 20th-century artists and writers "
 editions:
   - binding: Paperback
     isbn: 9780811223379
     publication_date: 2015-06-09T14:40:00-04:00
-    cover_image_path: /uploads/portable_history.tiff
+    cover_image: /images/portable_history.tiff
     forsale: true
     saleprice:
     shipping_charge:

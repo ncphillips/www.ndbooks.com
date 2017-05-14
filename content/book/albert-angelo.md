@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811210034
     publication_date: 1987-05-01T05:00:28-04:00
-    cover_image_path: Albert_Angelo.jpg
+    cover_image: /images/Albert_Angelo.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811210027
     publication_date: 1987-05-01T05:00:28-04:00
-    cover_image_path: Albert_Angelo.jpg
+    cover_image: /images/Albert_Angelo.jpg
     forsale: false
     saleprice:
     shipping_charge:

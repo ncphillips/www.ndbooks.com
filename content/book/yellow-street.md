@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811211604
     publication_date: 1991-04-01T06:00:58-04:00
-    cover_image_path: Yellow_Street.jpg
+    cover_image: /images/Yellow_Street.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811211598
     publication_date: 1991-04-01T06:00:58-04:00
-    cover_image_path: Yellow_Street.jpg
+    cover_image: /images/Yellow_Street.jpg
     forsale: false
     saleprice:
     shipping_charge:

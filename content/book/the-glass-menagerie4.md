@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811214049
     publication_date: 1999-10-14T14:36:00-04:00
-    cover_image_path: GlassMenagerie.JPG
+    cover_image: /images/GlassMenagerie.JPG
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811220750
     publication_date: 1999-10-14T14:36:00-04:00
-    cover_image_path: GlassMenagerie.JPG
+    cover_image: /images/GlassMenagerie.JPG
     forsale: false
     saleprice:
     shipping_charge:

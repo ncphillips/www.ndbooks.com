@@ -11,13 +11,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "With a splendid selection from a half century of marvelous poems, a major Polish poet appears in English at last "
 editions:
   - binding: Paperback
     isbn: 9780811225007
     publication_date: 2017-09-19T04:00:00-04:00
-    cover_image_path: /uploads/9780811225007.jpg
+    cover_image: /images/9780811225007.jpg
     forsale: false
     saleprice:
     shipping_charge:

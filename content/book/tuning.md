@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811208949
     publication_date: 2001-01-01T06:00:11-04:00
-    cover_image_path: Tuning.jpg
+    cover_image: /images/Tuning.jpg
     forsale: false
     saleprice:
     shipping_charge:

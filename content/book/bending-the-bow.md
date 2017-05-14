@@ -13,13 +13,13 @@ translators:
 editors:
 contributors:
   - contributor/robert-duncan.md
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811200332
     publication_date: 1968-04-01T06:00:00-04:00
-    cover_image_path: Bending_The_Bow.jpg
+    cover_image: /images/Bending_The_Bow.jpg
     forsale: false
     saleprice:
     shipping_charge:

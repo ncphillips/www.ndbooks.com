@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "The earliest and most extensive literary engagement with wilderness in human history, this is vital poetry that feels utterly contemporary. "
 editions:
   - binding: Paperback
     isbn: 9780811216241
     publication_date: 2005-05-01T05:00:05-04:00
-    cover_image_path: Mountain_Home.jpg
+    cover_image: /images/Mountain_Home.jpg
     forsale: false
     saleprice:
     shipping_charge:

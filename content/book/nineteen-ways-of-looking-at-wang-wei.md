@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "The classic study of translation, finally back in print in an expanded edition "
 editions:
   - binding: Paperback
     isbn: 9780811226202
     publication_date: 2016-10-11T04:00:00-04:00
-    cover_image_path: /uploads/NineteenWays_new%20cover%20copy.jpg
+    cover_image: /images/NineteenWays_new%20cover%20copy.jpg
     forsale: true
     saleprice:
     shipping_charge:

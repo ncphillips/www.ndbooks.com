@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A suspense novel about three castaways marooned on an island owned by an eccentric recluse "
 editions:
   - binding: Paperback
     isbn: 9780811215183
     publication_date: 2003-02-01T06:00:00-04:00
-    cover_image_path: Robinson.jpg
+    cover_image: /images/Robinson.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811222426
     publication_date: 2003-02-01T06:00:00-04:00
-    cover_image_path: Robinson.jpg
+    cover_image: /images/Robinson.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "including works by Fernando Pessoa, Denise Levertov, and Richard Hell "
 editions:
   - binding: Clothbound
     isbn: 9780811203005
     publication_date: 1971-04-01T06:00:51-04:00
-    cover_image_path: New_Directions_23.jpg
+    cover_image: /images/New_Directions_23.jpg
     forsale: false
     saleprice:
     shipping_charge:

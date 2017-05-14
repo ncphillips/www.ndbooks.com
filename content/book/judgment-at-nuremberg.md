@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "The Nuremberg trials brought to public attention the worst of the Nazi atrocities. Judgment at Nuremberg brings those trials to life. "
 editions:
   - binding: Paperback
     isbn: 9780811215268
     publication_date: 2002-11-01T06:00:11-04:00
-    cover_image_path: Judgment_At_Nuremberg.jpg
+    cover_image: /images/Judgment_At_Nuremberg.jpg
     forsale: false
     saleprice:
     shipping_charge:

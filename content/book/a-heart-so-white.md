@@ -13,13 +13,13 @@ translators:
   - contributor/margaret-jull-costa.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811215053
     publication_date: 2002-05-01T05:00:08-04:00
-    cover_image_path: A_Heart_So_White.jpg
+    cover_image: /images/A_Heart_So_White.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811214520
     publication_date: 2002-05-01T05:00:08-04:00
-    cover_image_path: A_Heart_So_White.jpg
+    cover_image: /images/A_Heart_So_White.jpg
     forsale: false
     saleprice:
     shipping_charge:

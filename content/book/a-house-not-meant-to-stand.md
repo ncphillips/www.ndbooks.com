@@ -16,13 +16,13 @@ contributors:
   - contributor/thomas-keith.md
 
   - contributor/gregory-mosher.md
-featured_image_path:
+featured_image:
 description: "The spellbinding last full-length play produced during the author's lifetime is now published for the first time. "
 editions:
   - binding: Paperback
     isbn: 9780811217095
     publication_date: 2008-04-01T05:00:08-04:00
-    cover_image_path: A_House_Not_Meant_To_Stand.jpg
+    cover_image: /images/A_House_Not_Meant_To_Stand.jpg
     forsale: false
     saleprice:
     shipping_charge:

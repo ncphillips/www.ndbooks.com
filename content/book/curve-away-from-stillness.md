@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811210812
     publication_date: 1989-01-01T06:00:00-04:00
-    cover_image_path: Curve_Away_From_Stillness.jpg
+    cover_image: /images/Curve_Away_From_Stillness.jpg
     forsale: true
     saleprice:
     shipping_charge:

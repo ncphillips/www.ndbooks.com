@@ -13,13 +13,13 @@ translators:
   - contributor/hiroaki-sato.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811221603
     publication_date: 2014-06-25T14:21:00-04:00
-    cover_image_path: web_hagiwara.jpg
+    cover_image: /images/web_hagiwara.jpg
     forsale: false
     saleprice:
     shipping_charge:

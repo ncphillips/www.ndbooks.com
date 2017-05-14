@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811201117
     publication_date: 1969-03-01T06:00:35-04:00
-    cover_image_path: The_Henry_Miller_Reader.jpg
+    cover_image: /images/The_Henry_Miller_Reader.jpg
     forsale: false
     saleprice:
     shipping_charge:

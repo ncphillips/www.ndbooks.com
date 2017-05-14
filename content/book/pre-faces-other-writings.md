@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811207867
     publication_date: 1981-06-01T05:00:00-04:00
-    cover_image_path: Pre-Faces__Other_Writings.jpg
+    cover_image: /images/Pre-Faces__Other_Writings.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811207850
     publication_date: 1981-06-01T05:00:00-04:00
-    cover_image_path: Pre-Faces__Other_Writings.jpg
+    cover_image: /images/Pre-Faces__Other_Writings.jpg
     forsale: false
     saleprice:
     shipping_charge:

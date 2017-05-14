@@ -15,13 +15,13 @@ translators:
   - contributor/anna-milsom.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811221438
     publication_date: 2015-06-09T20:39:00-04:00
-    cover_image_path: /uploads/Kassel_cover_for_galley.tif
+    cover_image: /images/Kassel_cover_for_galley.tif
     forsale: true
     saleprice:
     shipping_charge:

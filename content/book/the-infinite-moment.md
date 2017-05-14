@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811211994
     publication_date: 1992-04-01T06:00:00-04:00
-    cover_image_path: The_Infinite_Moment.jpg
+    cover_image: /images/The_Infinite_Moment.jpg
     forsale: true
     saleprice:
     shipping_charge:

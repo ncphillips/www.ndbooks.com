@@ -13,13 +13,13 @@ translators:
   - contributor/chris-andrews.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "One-half brooding crime novel, one-half classic by _literature's new patron saint_ (Sam Anderson, _New York Magazine_) "
 editions:
   - binding: Paperback
     isbn: 9780811218689
     publication_date: 2001-01-09T06:00:00-04:00
-    cover_image_path: The_Skating_Rink.jpg
+    cover_image: /images/The_Skating_Rink.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811217132
     publication_date: 2001-01-09T06:00:00-04:00
-    cover_image_path: The_Skating_Rink.jpg
+    cover_image: /images/The_Skating_Rink.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -41,7 +41,7 @@ editions:
   - binding: Ebook
     isbn: 9780811220590
     publication_date: 2001-01-09T06:00:00-04:00
-    cover_image_path: The_Skating_Rink.jpg
+    cover_image: /images/The_Skating_Rink.jpg
     forsale: false
     saleprice:
     shipping_charge:

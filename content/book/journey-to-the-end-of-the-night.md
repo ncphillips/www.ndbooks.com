@@ -14,13 +14,13 @@ translators:
 editors:
 contributors:
   - contributor/william-vollmann.md
-featured_image_path:
+featured_image:
 description: "The dark side of On the Road: instead of seeking kicks, the French narrator travels the globe to find an ever deeper disgust for life. "
 editions:
   - binding: Paperback
     isbn: 9780811216548
     publication_date: 2006-05-01T05:00:00-04:00
-    cover_image_path: Journey_To_The_End_Of_The_Night.jpg
+    cover_image: /images/Journey_To_The_End_Of_The_Night.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Ebook
     isbn: 9780811223614
     publication_date: 2006-05-01T05:00:00-04:00
-    cover_image_path: Journey_To_The_End_Of_The_Night.jpg
+    cover_image: /images/Journey_To_The_End_Of_The_Night.jpg
     forsale: true
     saleprice:
     shipping_charge:

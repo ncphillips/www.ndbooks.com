@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811210072
     publication_date: 1987-10-01T05:00:03-04:00
-    cover_image_path: Language_Poetries.jpg
+    cover_image: /images/Language_Poetries.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811200653
     publication_date: 1987-10-01T05:00:03-04:00
-    cover_image_path: Language_Poetries.jpg
+    cover_image: /images/Language_Poetries.jpg
     forsale: false
     saleprice:
     shipping_charge:

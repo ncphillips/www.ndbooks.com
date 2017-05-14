@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811201100
     publication_date: 1969-10-01T05:00:00-04:00
-    cover_image_path: The_Cosmological_Eye.jpg
+    cover_image: /images/The_Cosmological_Eye.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811223157
     publication_date: 1969-10-01T05:00:00-04:00
-    cover_image_path: The_Cosmological_Eye.jpg
+    cover_image: /images/The_Cosmological_Eye.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811200721
     publication_date: 1938-01-19T03:14:00-04:00
-    cover_image_path: Ubu_Roi.jpg
+    cover_image: /images/Ubu_Roi.jpg
     forsale: false
     saleprice:
     shipping_charge:

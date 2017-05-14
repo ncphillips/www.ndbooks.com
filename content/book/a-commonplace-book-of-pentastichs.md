@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Clothbound
     isbn: 9780811213868
     publication_date: 1998-11-01T06:00:46-04:00
-    cover_image_path: A_Commonplace_Book_Of_Pentastichs.jpg
+    cover_image: /images/A_Commonplace_Book_Of_Pentastichs.jpg
     forsale: false
     saleprice:
     shipping_charge:

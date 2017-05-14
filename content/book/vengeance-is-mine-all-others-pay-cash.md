@@ -13,13 +13,13 @@ translators:
   - contributor/annie-tucker.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "**The vivid, bawdy, and comic new novel about a boy who can’t get it up, by the Indonesian superstar** "
 editions:
   - binding: Paperback
     isbn: 9780811225649
     publication_date: 2017-08-01T04:00:00-04:00
-    cover_image_path: /uploads/vengeance_is_mine_cover.tif
+    cover_image: /images/vengeance_is_mine_cover.tif
     forsale: false
     saleprice:
     shipping_charge:

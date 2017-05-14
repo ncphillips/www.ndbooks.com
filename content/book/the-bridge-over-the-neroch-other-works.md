@@ -13,13 +13,13 @@ translators:
   - contributor/jamey-gambrell.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "All the remaining scattered gems by the great Russian-Jewish author of _Summer in Baden-Baden_ "
 editions:
   - binding: Paperback
     isbn: 9780811216616
     publication_date: 2013-03-27T15:37:00-04:00
-    cover_image_path: Bridge_over_the_Neroch.jpg
+    cover_image: /images/Bridge_over_the_Neroch.jpg
     forsale: true
     saleprice:
     shipping_charge:

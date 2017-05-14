@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811219006
     publication_date: 2010-01-01T06:00:00-04:00
-    cover_image_path: /uploads/Hutchins_A%20Diary%20of%20Love.jpg
+    cover_image: /images/Hutchins_A%20Diary%20of%20Love.jpg
     forsale: true
     saleprice:
     shipping_charge:

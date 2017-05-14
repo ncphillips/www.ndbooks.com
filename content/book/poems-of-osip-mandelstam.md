@@ -14,13 +14,13 @@ translators:
 editors:
 contributors:
   - contributor/peter-france.md
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811222907
     publication_date: 2014-06-25T14:22:00-04:00
-    cover_image_path: web_mandelstam.jpg
+    cover_image: /images/web_mandelstam.jpg
     forsale: true
     saleprice:
     shipping_charge:

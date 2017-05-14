@@ -15,13 +15,13 @@ translators:
   - contributor/rosalind-harvey.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A fictional journey through the modern history of literary publishing. "
 editions:
   - binding: Paperback
     isbn: 9780811219617
     publication_date: 2012-06-27T15:54:00-04:00
-    cover_image_path: Dublinesque.jpeg
+    cover_image: /images/Dublinesque.jpeg
     forsale: false
     saleprice:
     shipping_charge:
@@ -32,7 +32,7 @@ editions:
   - binding: Ebook
     isbn: 978081122022
     publication_date: 2012-06-27T15:54:00-04:00
-    cover_image_path: Dublinesque.jpeg
+    cover_image: /images/Dublinesque.jpeg
     forsale: false
     saleprice:
     shipping_charge:

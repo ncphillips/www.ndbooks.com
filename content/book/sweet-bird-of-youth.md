@@ -13,13 +13,13 @@ translators:
 editors:
 contributors:
   - contributor/lanford-wilson.md
-featured_image_path:
+featured_image:
 description: "Now with an insightful new introduction, the author's original Foreword, and the one-act play, The Enemy: Time, on which Sweet Bird of Youth was based. "
 editions:
   - binding: Paperback
     isbn: 9780811218078
     publication_date: 2008-10-01T05:00:19-04:00
-    cover_image_path: Sweet_Bird_Of_Youth.jpg
+    cover_image: /images/Sweet_Bird_Of_Youth.jpg
     forsale: false
     saleprice:
     shipping_charge:

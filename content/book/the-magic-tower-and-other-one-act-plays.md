@@ -14,13 +14,13 @@ editors:
   - contributor/thomas-keith.md
 contributors:
   - contributor/terrence-mcnally.md
-featured_image_path:
+featured_image:
 description: "A wonderful collection of never-before-collected one-acts: _The peak of my virtuosity was in the one-act plays. Some of which are like firecrackers in a rope_ (Tennessee Williams). "
 editions:
   - binding: Paperback
     isbn: 9780811219204
     publication_date: 2011-04-25T14:28:23-04:00
-    cover_image_path: magictower.JPG
+    cover_image: /images/magictower.JPG
     forsale: false
     saleprice:
     shipping_charge:

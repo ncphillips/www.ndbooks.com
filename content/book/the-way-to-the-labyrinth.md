@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811210157
     publication_date: 1987-05-01T05:00:10-04:00
-    cover_image_path: The_Way_To_The_Labyrinth.jpg
+    cover_image: /images/The_Way_To_The_Labyrinth.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811210140
     publication_date: 1987-05-01T05:00:10-04:00
-    cover_image_path: The_Way_To_The_Labyrinth.jpg
+    cover_image: /images/The_Way_To_The_Labyrinth.jpg
     forsale: false
     saleprice:
     shipping_charge:

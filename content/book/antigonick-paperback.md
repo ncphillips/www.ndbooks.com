@@ -13,13 +13,13 @@ translators:
   - contributor/anne-carson.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Here in paperback is Anne Carson’s stunning translation of Sophokles’s luminous and disturbing tragedy, given entirely fresh language and new life "
 editions:
   - binding: Paperback
     isbn: 9780811222938
     publication_date: 2015-05-29T19:24:00-04:00
-    cover_image_path: /uploads/9780811222938.jpg
+    cover_image: /images/9780811222938.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811219570
     publication_date: 2015-05-29T19:24:00-04:00
-    cover_image_path: /uploads/Antigonick.jpg
+    cover_image: /images/Antigonick.jpg
     forsale: true
     saleprice:
     shipping_charge:

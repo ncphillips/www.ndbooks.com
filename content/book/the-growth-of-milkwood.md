@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811217682
     publication_date: 1969-10-01T05:00:31-04:00
-    cover_image_path: The_Growth_Of_Milk_Wood_.jpg
+    cover_image: /images/The_Growth_Of_Milk_Wood_.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811202602
     publication_date: 1969-10-01T05:00:31-04:00
-    cover_image_path: The_Growth_Of_Milk_Wood_.jpg
+    cover_image: /images/The_Growth_Of_Milk_Wood_.jpg
     forsale: false
     saleprice:
     shipping_charge:

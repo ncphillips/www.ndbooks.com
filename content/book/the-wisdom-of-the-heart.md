@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "An essential collection of writings, bursting with Henry Miller’s exhilarating candor and wisdom "
 editions:
   - binding: Paperback
     isbn: 9780811222174
     publication_date: 2016-12-06T05:00:00-04:00
-    cover_image_path: /uploads/nd_Summer_2016_for_web.tiff
+    cover_image: /images/nd_Summer_2016_for_web.tiff
     forsale: true
     saleprice:
     shipping_charge:

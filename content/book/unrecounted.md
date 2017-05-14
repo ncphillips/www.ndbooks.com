@@ -15,13 +15,13 @@ translators:
   - contributor/michael-hamburger.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A keepsake of one of the greatest writers of our time, Unrecounted comes as an unexpected gift to all the readers who loved W.G. Sebald. "
 editions:
   - binding: Paperback
     isbn: 9780811217262
     publication_date: 1991-10-01T05:00:00-04:00
-    cover_image_path: Unrecounted.jpg
+    cover_image: /images/Unrecounted.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -32,7 +32,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811215961
     publication_date: 1991-10-01T05:00:00-04:00
-    cover_image_path: Unrecounted.jpg
+    cover_image: /images/Unrecounted.jpg
     forsale: false
     saleprice:
     shipping_charge:

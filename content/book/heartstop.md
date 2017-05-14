@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811209229
     publication_date: 1984-11-01T06:00:24-04:00
-    cover_image_path: Heartstop.jpg
+    cover_image: /images/Heartstop.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811209212
     publication_date: 1984-11-01T06:00:24-04:00
-    cover_image_path: Heartstop.jpg
+    cover_image: /images/Heartstop.jpg
     forsale: false
     saleprice:
     shipping_charge:

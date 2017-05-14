@@ -14,13 +14,13 @@ translators:
 editors:
 contributors:
   - contributor/roberto-bolano.md
-featured_image_path:
+featured_image:
 description: "An astounding novel from Argentina that is a meditation on the beautiful and the grotesque in nature, the art of landscape painting, and one experience in a man's life that became a lightning rod for inspiration. "
 editions:
   - binding: Paperback
     isbn: 9780811216302
     publication_date: 2006-05-01T04:59:00-04:00
-    cover_image_path: An_Episode_In_The_Life_Of_A_Landscape_Painter.jpg
+    cover_image: /images/An_Episode_In_The_Life_Of_A_Landscape_Painter.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Ebook
     isbn: 9780811219808
     publication_date: 2006-05-01T04:59:00-04:00
-    cover_image_path: An_Episode_In_The_Life_Of_A_Landscape_Painter.jpg
+    cover_image: /images/An_Episode_In_The_Life_Of_A_Landscape_Painter.jpg
     forsale: false
     saleprice:
     shipping_charge:

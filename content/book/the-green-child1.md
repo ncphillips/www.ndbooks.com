@@ -16,13 +16,13 @@ contributors:
   - contributor/eliot-weinberger.md
 
   - contributor/kenneth-rexroth.md
-featured_image_path:
+featured_image:
 description: "A visionary masterpiece filled with quicksand portals, revolutionary dictators, and subterranean worlds "
 editions:
   - binding: Paperback
     isbn: 9780811221825
     publication_date: 2013-10-16T15:16:00-04:00
-    cover_image_path: Green_Child.jpg
+    cover_image: /images/Green_Child.jpg
     forsale: true
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Winner of the National Book Critics Circle Award "
 editions:
   - binding: Paperback
     isbn: 9780811216371
     publication_date: 2005-10-01T05:00:21-04:00
-    cover_image_path: October_Light.jpg
+    cover_image: /images/October_Light.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811210256
     publication_date: 1987-05-01T05:00:48-04:00
-    cover_image_path: World_Outside_The_Window.jpg
+    cover_image: /images/World_Outside_The_Window.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811210249
     publication_date: 1987-05-01T05:00:48-04:00
-    cover_image_path: World_Outside_The_Window.jpg
+    cover_image: /images/World_Outside_The_Window.jpg
     forsale: false
     saleprice:
     shipping_charge:

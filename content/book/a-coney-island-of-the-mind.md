@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A million copies in print — translated into over a dozen languages — one of the best-selling and most popular books of poetry ever published, now available in a new hardcover edition containing a CD of the author reading his work. "
 editions:
   - binding: Paperback
     isbn: 9780811200417
     publication_date: 2001-01-01T06:00:12-04:00
-    cover_image_path: A_Coney_Island_of_the_Mind.jpg
+    cover_image: /images/A_Coney_Island_of_the_Mind.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811217477
     publication_date: 2001-01-01T06:00:12-04:00
-    cover_image_path: A_Coney_Island_of_the_Mind.jpg
+    cover_image: /images/A_Coney_Island_of_the_Mind.jpg
     forsale: false
     saleprice:
     shipping_charge:

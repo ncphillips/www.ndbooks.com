@@ -13,13 +13,13 @@ translators:
   - contributor/margaret-jull-costa.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A private meeting, chance encounters, and a mysterious tour of Lisbon, in this brilliant homage to Fernando Pessoa "
 editions:
   - binding: Paperback
     isbn: 9780811215176
     publication_date: 2002-11-01T06:00:00-04:00
-    cover_image_path: Requiem_.jpg
+    cover_image: /images/Requiem_.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811212700
     publication_date: 2002-11-01T06:00:00-04:00
-    cover_image_path: Requiem_.jpg
+    cover_image: /images/Requiem_.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -41,7 +41,7 @@ editions:
   - binding: Ebook
     isbn: 9780811222495
     publication_date: 2002-11-01T06:00:00-04:00
-    cover_image_path: Requiem_.jpg
+    cover_image: /images/Requiem_.jpg
     forsale: true
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811202220
     publication_date: 1964-06-01T05:00:00-04:00
-    cover_image_path: In_The_Winter_Of_Cities.jpg
+    cover_image: /images/In_The_Winter_Of_Cities.jpg
     forsale: false
     saleprice:
     shipping_charge:

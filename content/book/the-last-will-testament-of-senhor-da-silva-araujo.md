@@ -13,13 +13,13 @@ translators:
   - contributor/sheila-faria-glaser.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811215657
     publication_date: 2004-07-15T17:14:37-04:00
-    cover_image_path: The_Last_Will_and_Testament_of_Senhor_da_Silva_Araujo_.jpg
+    cover_image: /images/The_Last_Will_and_Testament_of_Senhor_da_Silva_Araujo_.jpg
     forsale: false
     saleprice:
     shipping_charge:

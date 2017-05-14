@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811204637
     publication_date: 1972-01-01T06:00:32-04:00
-    cover_image_path: Jean_Racine_Dramatist.JPG
+    cover_image: /images/Jean_Racine_Dramatist.JPG
     forsale: false
     saleprice:
     shipping_charge:

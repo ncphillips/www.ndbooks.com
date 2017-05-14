@@ -14,13 +14,13 @@ translators:
 editors:
 contributors:
   - contributor/lawrence-ferlinghetti.md
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811200424
     publication_date: 1960-11-01T06:00:00-04:00
-    cover_image_path: Her.jpg
+    cover_image: /images/Her.jpg
     forsale: false
     saleprice:
     shipping_charge:

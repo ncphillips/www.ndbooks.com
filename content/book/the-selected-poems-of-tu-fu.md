@@ -13,13 +13,13 @@ translators:
   - contributor/david-hinton.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811211000
     publication_date: 1985-06-01T05:00:00-04:00
-    cover_image_path: The_Selected_Poems_Of_Tu_Fu.jpg
+    cover_image: /images/The_Selected_Poems_Of_Tu_Fu.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811210997
     publication_date: 1985-06-01T05:00:00-04:00
-    cover_image_path: The_Selected_Poems_Of_Tu_Fu.jpg
+    cover_image: /images/The_Selected_Poems_Of_Tu_Fu.jpg
     forsale: true
     saleprice:
     shipping_charge:

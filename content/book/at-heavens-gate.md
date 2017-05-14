@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811209335
     publication_date: 1985-03-01T06:00:20-04:00
-    cover_image_path: At_Heavens_Gate_2.jpg
+    cover_image: /images/At_Heavens_Gate_2.jpg
     forsale: false
     saleprice:
     shipping_charge:

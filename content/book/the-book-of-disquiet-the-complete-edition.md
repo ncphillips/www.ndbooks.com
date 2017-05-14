@@ -14,13 +14,13 @@ translators:
 editors:
   - contributor/jerónimo-pizarro.md
 contributors:
-featured_image_path: /uploads/Pessoa%20(1).tif
+featured_image: /images/Pessoa%20(1).tif
 description: "In the best translation ever, the complete Book of Disquiet is an incomparable masterpiece "
 editions:
   - binding: Clothbound
     isbn: 9780811226936
     publication_date: 2017-08-29T04:00:00-04:00
-    cover_image_path: /uploads/Pessoa_front.tif
+    cover_image: /images/Pessoa_front.tif
     forsale: false
     saleprice:
     shipping_charge:

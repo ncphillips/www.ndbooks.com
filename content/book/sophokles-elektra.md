@@ -11,13 +11,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811211147
     publication_date: 1990-06-01T05:00:41-04:00
-    cover_image_path: SOPHOKLES_Elektra_.jpg
+    cover_image: /images/SOPHOKLES_Elektra_.jpg
     forsale: false
     saleprice:
     shipping_charge:

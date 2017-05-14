@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811200240
     publication_date: 1970-01-01T06:00:54-04:00
-    cover_image_path: Sun_Rock_Man.jpg
+    cover_image: /images/Sun_Rock_Man.jpg
     forsale: false
     saleprice:
     shipping_charge:

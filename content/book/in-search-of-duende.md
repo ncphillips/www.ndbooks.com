@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "An excellent compilation of Lorca’s poetry and prose, emphasizing Lorca’s notion of the duende, the “earth spirit of irrationality and death.” "
 editions:
   - binding: Paperback
     isbn: 9780811218559
     publication_date: 2010-03-01T06:00:00-04:00
-    cover_image_path: duende1.jpg
+    cover_image: /images/duende1.jpg
     forsale: false
     saleprice:
     shipping_charge:

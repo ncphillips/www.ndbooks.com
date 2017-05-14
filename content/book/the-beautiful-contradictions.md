@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811220958
     publication_date: 2013-07-10T19:19:00-04:00
-    cover_image_path: Beautiful_Contradictions.jpg
+    cover_image: /images/Beautiful_Contradictions.jpg
     forsale: false
     saleprice:
     shipping_charge:

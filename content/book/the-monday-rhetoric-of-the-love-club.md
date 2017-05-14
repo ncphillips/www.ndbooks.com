@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811204750
     publication_date: 1973-04-01T06:00:33-04:00
-    cover_image_path: mondayrhetoric.jpg
+    cover_image: /images/mondayrhetoric.jpg
     forsale: false
     saleprice:
     shipping_charge:

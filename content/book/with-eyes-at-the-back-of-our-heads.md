@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811200882
     publication_date: 1959-01-01T06:00:00-04:00
-    cover_image_path: With_Eyes_At_The_Back_Of_Our_Heads.jpg
+    cover_image: /images/With_Eyes_At_The_Back_Of_Our_Heads.jpg
     forsale: false
     saleprice:
     shipping_charge:

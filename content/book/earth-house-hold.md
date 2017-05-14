@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811201957
     publication_date: 1969-06-01T05:00:00-04:00
-    cover_image_path: Earth_House_Hold.jpg
+    cover_image: /images/Earth_House_Hold.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811222686
     publication_date: 1969-06-01T05:00:00-04:00
-    cover_image_path: Earth_House_Hold.jpg
+    cover_image: /images/Earth_House_Hold.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "“One of the most interesting, exciting, and open of late-20th century experimental poets.”—Tom Clark, San Francisco Chronicle "
 editions:
   - binding: Paperback
     isbn: 9780811217231
     publication_date: 2008-11-01T05:00:09-04:00
-    cover_image_path: Poetry_State_Forest.jpg
+    cover_image: /images/Poetry_State_Forest.jpg
     forsale: false
     saleprice:
     shipping_charge:

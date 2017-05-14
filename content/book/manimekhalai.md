@@ -13,13 +13,13 @@ translators:
   - contributor/alain-danielou.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811210980
     publication_date: 1989-06-01T05:00:28-04:00
-    cover_image_path: Manimekhalai.jpg
+    cover_image: /images/Manimekhalai.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811210973
     publication_date: 1989-06-01T05:00:28-04:00
-    cover_image_path: Manimekhalai.jpg
+    cover_image: /images/Manimekhalai.jpg
     forsale: false
     saleprice:
     shipping_charge:

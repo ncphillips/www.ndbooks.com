@@ -14,13 +14,13 @@ translators:
 editors:
 contributors:
   - contributor/peter-glassgold.md
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811207478
     publication_date: 2001-01-01T06:00:46-04:00
-    cover_image_path: Living_Space.jpg
+    cover_image: /images/Living_Space.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811207461
     publication_date: 2001-01-01T06:00:46-04:00
-    cover_image_path: Living_Space.jpg
+    cover_image: /images/Living_Space.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -13,13 +13,13 @@ translators:
   - contributor/barbara-wright.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811206464
     publication_date: 1977-04-01T06:00:43-04:00
-    cover_image_path: The_Sunday_Of_Life.jpg
+    cover_image: /images/The_Sunday_Of_Life.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811206457
     publication_date: 1977-04-01T06:00:43-04:00
-    cover_image_path: The_Sunday_Of_Life.jpg
+    cover_image: /images/The_Sunday_Of_Life.jpg
     forsale: false
     saleprice:
     shipping_charge:

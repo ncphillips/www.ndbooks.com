@@ -13,13 +13,13 @@ translators:
   - contributor/david-hinton.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "David Hinton, whose much-acclaimed translations of Li Po and Tu Fu have become classics, now completes the triumvirate of China's greatest poets with The Selected Poems of Wang Wei. "
 editions:
   - binding: Paperback
     isbn: 9780811216180
     publication_date: 2006-06-01T05:00:10-04:00
-    cover_image_path: The_Selected_Poems_Of_Wang_Wei.jpg
+    cover_image: /images/The_Selected_Poems_Of_Wang_Wei.jpg
     forsale: false
     saleprice:
     shipping_charge:

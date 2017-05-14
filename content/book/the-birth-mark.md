@@ -15,13 +15,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path: /uploads/birth-mark_cover.jpg
+featured_image: /images/birth-mark_cover.jpg
 description: "Susan Howe's classic groundbreaking exploration of early American literature "
 editions:
   - binding: Paperback
     isbn: 9780811224659
     publication_date: 2015-12-07T05:00:00-04:00
-    cover_image_path: /uploads/birth-mark_cover.jpg
+    cover_image: /images/birth-mark_cover.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -57,13 +57,13 @@ translators:
   - contributor/michael-f-moore.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Winner of the Viareggio Prize, _Lost Words_ is a vivid portrait of 1970s Italy on the brink of social upheaval "
 editions:
   - binding: Paperback
     isbn: 9780811224772
     publication_date: 2016-01-25T05:00:00-04:00
-    cover_image_path: /uploads/lost_words_cover_rev.jpg
+    cover_image: /images/lost_words_cover_rev.jpg
     forsale: false
     saleprice:
     shipping_charge:

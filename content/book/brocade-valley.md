@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Clothbound
     isbn: 9780811212243
     publication_date: 1992-11-01T06:00:42-04:00
-    cover_image_path: brocadevalley.jpg
+    cover_image: /images/brocadevalley.jpg
     forsale: false
     saleprice:
     shipping_charge:

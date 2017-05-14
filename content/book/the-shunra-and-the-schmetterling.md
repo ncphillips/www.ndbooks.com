@@ -14,13 +14,13 @@ translators:
 editors:
   - contributor/adam-phillips.md
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811215671
     publication_date: 2004-05-01T05:00:07-04:00
-    cover_image_path: The_Shunra_And_The_Schmetterling.jpg
+    cover_image: /images/The_Shunra_And_The_Schmetterling.jpg
     forsale: false
     saleprice:
     shipping_charge:

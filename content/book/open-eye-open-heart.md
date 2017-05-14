@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Clothbound
     isbn: 9780811204880
     publication_date: 1973-10-01T05:00:00-04:00
-    cover_image_path: /uploads/Ferlinghetti_%20Open%20Eye%2C%20Open%20Heart.jpg
+    cover_image: /images/Ferlinghetti_%20Open%20Eye%2C%20Open%20Heart.jpg
     forsale: true
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811212656
     publication_date: 1994-05-01T05:00:17-04:00
-    cover_image_path: Simple_Eyes.jpg
+    cover_image: /images/Simple_Eyes.jpg
     forsale: false
     saleprice:
     shipping_charge:

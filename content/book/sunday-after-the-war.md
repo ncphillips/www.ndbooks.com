@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811219044
     publication_date: 2001-01-01T06:00:20-04:00
-    cover_image_path: Sunday_After_the_War.JPG
+    cover_image: /images/Sunday_After_the_War.JPG
     forsale: false
     saleprice:
     shipping_charge:

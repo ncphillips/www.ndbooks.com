@@ -14,13 +14,13 @@ translators:
 editors:
   - contributor/paul-m.-pearson.md
 contributors:
-featured_image_path:
+featured_image:
 description: "A compendium of spiritual guidance in a beautiful edition. "
 editions:
   - binding: Paperback
     isbn: 9780811219969
     publication_date: 2012-06-20T20:04:00-04:00
-    cover_image_path: On_Christian_Contemplation_1.jpg
+    cover_image: /images/On_Christian_Contemplation_1.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Ebook
     isbn: 9780811219976
     publication_date: 2012-06-20T20:04:00-04:00
-    cover_image_path: On_Christian_Contemplation_1.jpg
+    cover_image: /images/On_Christian_Contemplation_1.jpg
     forsale: false
     saleprice:
     shipping_charge:

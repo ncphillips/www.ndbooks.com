@@ -13,13 +13,13 @@ translators:
   - contributor/bernard-adams.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A great masterpiece never before available in English, _Kornél Esti_ is the wild final book by a Hungarian genius. "
 editions:
   - binding: Paperback
     isbn: 9780811218436
     publication_date: 2010-01-01T06:00:00-04:00
-    cover_image_path: Kornel_Esti_w.jpg
+    cover_image: /images/Kornel_Esti_w.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811219587
     publication_date: 2010-01-01T06:00:00-04:00
-    cover_image_path: Kornel_Esti_w.jpg
+    cover_image: /images/Kornel_Esti_w.jpg
     forsale: true
     saleprice:
     shipping_charge:

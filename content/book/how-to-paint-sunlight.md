@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811215213
     publication_date: 2002-09-01T05:00:28-04:00
-    cover_image_path: How_To_Paint_Sunlight.jpg
+    cover_image: /images/How_To_Paint_Sunlight.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811214636
     publication_date: 2002-09-01T05:00:28-04:00
-    cover_image_path: How_To_Paint_Sunlight.jpg
+    cover_image: /images/How_To_Paint_Sunlight.jpg
     forsale: false
     saleprice:
     shipping_charge:

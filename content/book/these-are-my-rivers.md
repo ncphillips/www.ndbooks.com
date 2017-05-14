@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811212731
     publication_date: 1994-10-01T05:00:03-04:00
-    cover_image_path: These_Are_My_Rivers.jpg
+    cover_image: /images/These_Are_My_Rivers.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811212526
     publication_date: 1994-10-01T05:00:03-04:00
-    cover_image_path: These_Are_My_Rivers.jpg
+    cover_image: /images/These_Are_My_Rivers.jpg
     forsale: false
     saleprice:
     shipping_charge:

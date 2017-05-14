@@ -13,13 +13,13 @@ translators:
   - contributor/margaret-jull-costa.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A daring masterwork by Javier Marias: _Spain's most subtle and gifted writer_ (The Boston Globe) "
 editions:
   - binding: Paperback
     isbn: 9780811217279
     publication_date: 2007-09-01T05:00:00-04:00
-    cover_image_path: Your_Face_Tomorrow_Vol_1.jpg
+    cover_image: /images/Your_Face_Tomorrow_Vol_1.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811216128
     publication_date: 2007-09-01T05:00:00-04:00
-    cover_image_path: Your_Face_Tomorrow_Vol_1.jpg
+    cover_image: /images/Your_Face_Tomorrow_Vol_1.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -41,7 +41,7 @@ editions:
   - binding: Ebook
     isbn: 9780811223898
     publication_date: 2007-09-01T05:00:00-04:00
-    cover_image_path: Your_Face_Tomorrow_Vol_1.jpg
+    cover_image: /images/Your_Face_Tomorrow_Vol_1.jpg
     forsale: false
     saleprice:
     shipping_charge:

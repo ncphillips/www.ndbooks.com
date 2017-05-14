@@ -13,13 +13,13 @@ translators:
 editors:
 contributors:
   - contributor/tony-kushner.md
-featured_image_path:
+featured_image:
 description: "A beautiful clothbound edition of a beloved classic to celebrate the 100th birthday of America’s greatest playwright, with a sweeping new introduction by Pulitzer Prize-winner Tony Kushner. "
 editions:
   - binding: Clothbound
     isbn: 9780811218948
     publication_date: 2011-09-27T14:28:43-04:00
-    cover_image_path: GlassMenagerie_cover.jpg
+    cover_image: /images/GlassMenagerie_cover.jpg
     forsale: false
     saleprice:
     shipping_charge:

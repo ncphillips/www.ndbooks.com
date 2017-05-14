@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Clothbound
     isbn: N/A
     publication_date: 1964-01-01T06:00:13-04:00
-    cover_image_path: ushedevours.JPG
+    cover_image: /images/ushedevours.JPG
     forsale: false
     saleprice:
     shipping_charge:

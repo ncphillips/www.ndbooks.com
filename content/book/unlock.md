@@ -13,13 +13,13 @@ translators:
   - contributor/eliot-weinberger.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811214476
     publication_date: 2000-09-01T05:00:52-04:00
-    cover_image_path: Unlock_.jpg
+    cover_image: /images/Unlock_.jpg
     forsale: false
     saleprice:
     shipping_charge:

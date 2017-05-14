@@ -14,13 +14,13 @@ translators:
 editors:
 contributors:
   - contributor/basil-bunting.md
-featured_image_path:
+featured_image:
 description: "At last in print, the complete poems of the great Northumbrian poet – admired by Pound, Yeats, and Zukofsky – containing his masterwork _Briggflatts._ "
 editions:
   - binding: Paperback
     isbn: 9780811215633
     publication_date: 2003-12-01T06:00:00-04:00
-    cover_image_path: Complete_Poems_Of_Basil_Bunting_.jpg
+    cover_image: /images/Complete_Poems_Of_Basil_Bunting_.jpg
     forsale: false
     saleprice:
     shipping_charge:

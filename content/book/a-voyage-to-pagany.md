@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811202374
     publication_date: 1970-10-01T05:00:51-04:00
-    cover_image_path: A_Voyage_To_Pagany.jpg
+    cover_image: /images/A_Voyage_To_Pagany.jpg
     forsale: false
     saleprice:
     shipping_charge:

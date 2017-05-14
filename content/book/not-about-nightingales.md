@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811213806
     publication_date: 1998-06-01T05:00:26-04:00
-    cover_image_path: Not_About_Nightingales.jpg
+    cover_image: /images/Not_About_Nightingales.jpg
     forsale: false
     saleprice:
     shipping_charge:

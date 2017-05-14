@@ -14,13 +14,13 @@ translators:
 editors:
 contributors:
   - contributor/wolfgang-borchert.md
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811200110
     publication_date: 1952-01-01T06:00:00-04:00
-    cover_image_path: The_Man_Outside.jpg
+    cover_image: /images/The_Man_Outside.jpg
     forsale: true
     saleprice:
     shipping_charge:

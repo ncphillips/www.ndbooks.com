@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811209892
     publication_date: 1986-09-17T16:36:00-04:00
-    cover_image_path: Scenarios_For_A_Mixed_Landscape_.jpg
+    cover_image: /images/Scenarios_For_A_Mixed_Landscape_.jpg
     forsale: false
     saleprice:
     shipping_charge:

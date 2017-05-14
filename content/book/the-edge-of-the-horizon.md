@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "New paperback edition "
 editions:
   - binding: Paperback
     isbn: 9780811224512
     publication_date: 2015-08-27T04:00:00-04:00
-    cover_image_path: The_Edge_Of_The_Horizon.jpg
+    cover_image: /images/The_Edge_Of_The_Horizon.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811211123
     publication_date: 2015-08-27T04:00:00-04:00
-    cover_image_path: The_Edge_Of_The_Horizon.jpg
+    cover_image: /images/The_Edge_Of_The_Horizon.jpg
     forsale: true
     saleprice:
     shipping_charge:

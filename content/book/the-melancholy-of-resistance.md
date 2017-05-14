@@ -13,13 +13,13 @@ translators:
   - contributor/george-szirtes.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "The Hungarian master's first work to appear in English, and still one of the best "
 editions:
   - binding: Paperback
     isbn: 9780811215046
     publication_date: 2002-06-01T05:00:00-04:00
-    cover_image_path: The_Melancholy_Of_Resistance.jpg
+    cover_image: /images/The_Melancholy_Of_Resistance.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811220101
     publication_date: 2002-06-01T05:00:00-04:00
-    cover_image_path: The_Melancholy_Of_Resistance.jpg
+    cover_image: /images/The_Melancholy_Of_Resistance.jpg
     forsale: true
     saleprice:
     shipping_charge:

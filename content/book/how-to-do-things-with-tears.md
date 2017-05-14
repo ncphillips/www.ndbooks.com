@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811214643
     publication_date: 2001-05-01T05:00:28-04:00
-    cover_image_path: How_To_Do_Things_With_Tears_.jpg
+    cover_image: /images/How_To_Do_Things_With_Tears_.jpg
     forsale: false
     saleprice:
     shipping_charge:

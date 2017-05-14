@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "**The newest collection by one of America’s most exciting poets** "
 editions:
   - binding: Paperback
     isbn: 9780811226851
     publication_date: 2017-06-27T04:00:00-04:00
-    cover_image_path: /uploads/New%20Debths_rev.tif
+    cover_image: /images/New%20Debths_rev.tif
     forsale: false
     saleprice:
     shipping_charge:

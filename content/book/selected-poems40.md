@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811213271
     publication_date: 1996-06-01T05:00:39-04:00
-    cover_image_path: Selected_Poems._C._H._Sisson_.jpg
+    cover_image: /images/Selected_Poems._C._H._Sisson_.jpg
     forsale: false
     saleprice:
     shipping_charge:

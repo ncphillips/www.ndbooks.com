@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Where does art start or reality end? "
 editions:
   - binding: Paperback
     isbn: 9780811223034
     publication_date: 2014-05-27T15:11:00-04:00
-    cover_image_path: /uploads/Loitering_with_Intent_1.jpg
+    cover_image: /images/Loitering_with_Intent_1.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -40,7 +40,7 @@ editions:
   - binding: Paperback
     isbn: 9780811214742
     publication_date: 2014-05-27T15:11:00-04:00
-    cover_image_path: /uploads/Loitering_With_Intent.jpg
+    cover_image: /images/Loitering_With_Intent.jpg
     forsale: false
     saleprice:
     shipping_charge:

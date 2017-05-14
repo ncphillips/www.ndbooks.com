@@ -13,13 +13,13 @@ translators:
   - contributor/jonathan-dunne.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A quirky, cosmopolitan novel about life and literature by the prize-winning Spanish writer Enrique Vila-Matas, author of _Bartleby & Co_. "
 editions:
   - binding: Paperback
     isbn: 9780811216289
     publication_date: 2007-05-01T05:00:00-04:00
-    cover_image_path: Montanos_Malady_2.jpg
+    cover_image: /images/Montanos_Malady_2.jpg
     forsale: true
     saleprice:
     shipping_charge:

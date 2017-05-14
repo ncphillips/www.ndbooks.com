@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811212762
     publication_date: 1994-10-01T04:59:22-04:00
-    cover_image_path: Shadow_Lands_.jpg
+    cover_image: /images/Shadow_Lands_.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -13,13 +13,13 @@ translators:
   - contributor/michael-p-cronin.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A major discovery: Tanizaki's wonderful final novel—now in English "
 editions:
   - binding: Clothbound
     isbn: 9780811224925
     publication_date: 2017-04-25T23:00:00-04:00
-    cover_image_path: /uploads/tanizaki_the_maids_jacket.jpg
+    cover_image: /images/tanizaki_the_maids_jacket.jpg
     forsale: true
     saleprice:
     shipping_charge:

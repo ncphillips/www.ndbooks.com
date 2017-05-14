@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811201469
     publication_date: 1964-05-01T05:00:00-04:00
-    cover_image_path: Selected_Poems_Kenneth_Patchen.jpg
+    cover_image: /images/Selected_Poems_Kenneth_Patchen.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -13,13 +13,13 @@ translators:
   - contributor/richard-panchyk.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Now in paperback, Napoleon's return to the throne in Paris, as imagined by the incomparable Joseph Roth "
 editions:
   - binding: Paperback
     isbn: 9780811225113
     publication_date: 2016-01-12T01:00:00-04:00
-    cover_image_path: /uploads/HUNDRED%20DAYS.tif
+    cover_image: /images/HUNDRED%20DAYS.tif
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811222785
     publication_date: 2016-01-12T01:00:00-04:00
-    cover_image_path: hundred_days_cover.jpg
+    cover_image: /images/hundred_days_cover.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -41,7 +41,7 @@ editions:
   - binding: Ebook
     isbn: 9780811222792
     publication_date: 2016-01-12T01:00:00-04:00
-    cover_image_path: hundred_days_cover.jpg
+    cover_image: /images/hundred_days_cover.jpg
     forsale: true
     saleprice:
     shipping_charge:

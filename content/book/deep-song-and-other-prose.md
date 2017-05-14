@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811207645
     publication_date: 1980-07-01T05:00:25-04:00
-    cover_image_path: deepsong.JPG
+    cover_image: /images/deepsong.JPG
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811207645
     publication_date: 1980-07-01T05:00:25-04:00
-    cover_image_path: deepsong.JPG
+    cover_image: /images/deepsong.JPG
     forsale: false
     saleprice:
     shipping_charge:

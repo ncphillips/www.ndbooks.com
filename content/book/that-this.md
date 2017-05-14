@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Susan Howe's newest book of poetry is a revelation as well as a mystery. "
 editions:
   - binding: Paperback
     isbn: 9780811219181
     publication_date: 2010-12-31T14:28:00-04:00
-    cover_image_path: thatthis.JPG
+    cover_image: /images/thatthis.JPG
     forsale: true
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811223775
     publication_date: 2010-12-31T14:28:00-04:00
-    cover_image_path: thatthis.JPG
+    cover_image: /images/thatthis.JPG
     forsale: true
     saleprice:
     shipping_charge:

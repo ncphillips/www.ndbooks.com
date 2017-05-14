@@ -13,13 +13,13 @@ translators:
   - contributor/kareem-james-abu-zeid.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "The English-language debut of 2012’s International Arabic Fiction Prize winner "
 editions:
   - binding: Paperback
     isbn: 9780811220644
     publication_date: 2013-06-27T14:20:00-04:00
-    cover_image_path: Mehlis_Report.jpg
+    cover_image: /images/Mehlis_Report.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811221184
     publication_date: 2013-06-27T14:20:00-04:00
-    cover_image_path: Mehlis_Report.jpg
+    cover_image: /images/Mehlis_Report.jpg
     forsale: true
     saleprice:
     shipping_charge:

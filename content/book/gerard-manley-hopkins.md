@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811204798
     publication_date: 1973-04-01T06:00:13-04:00
-    cover_image_path: Gerard_Manley_Hopkins.jpg
+    cover_image: /images/Gerard_Manley_Hopkins.jpg
     forsale: false
     saleprice:
     shipping_charge:

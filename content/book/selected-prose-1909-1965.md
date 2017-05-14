@@ -14,13 +14,13 @@ translators:
 editors:
 contributors:
   - contributor/ezra-pound.md
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811205740
     publication_date: 1975-03-01T05:00:14-04:00
-    cover_image_path: Selected_Prose_1909-1965.jpg
+    cover_image: /images/Selected_Prose_1909-1965.jpg
     forsale: false
     saleprice:
     shipping_charge:

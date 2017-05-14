@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811204538
     publication_date: 1972-11-01T06:00:00-04:00
-    cover_image_path: Hermetic_Definition.jpg
+    cover_image: /images/Hermetic_Definition.jpg
     forsale: false
     saleprice:
     shipping_charge:

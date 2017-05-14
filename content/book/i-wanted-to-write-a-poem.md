@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811207072
     publication_date: 1978-06-01T05:00:34-04:00
-    cover_image_path: I_Wanted_To_Write_A_Poem.jpg
+    cover_image: /images/I_Wanted_To_Write_A_Poem.jpg
     forsale: false
     saleprice:
     shipping_charge:

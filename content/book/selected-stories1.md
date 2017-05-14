@@ -14,13 +14,13 @@ translators:
   - contributor/suzanne-jill-levine.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Clothbound
     isbn: 9780811212755
     publication_date: 1994-10-01T05:00:15-04:00
-    cover_image_path: selected-stories-adolfo-bioy-casares-hardcover-cover-art.jpg
+    cover_image: /images/selected-stories-adolfo-bioy-casares-hardcover-cover-art.jpg
     forsale: false
     saleprice:
     shipping_charge:

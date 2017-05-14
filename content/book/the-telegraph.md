@@ -13,13 +13,13 @@ translators:
   - contributor/louise-varese.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811219013
     publication_date: 2001-01-01T06:00:28-04:00
-    cover_image_path: thetelegraph.JPG
+    cover_image: /images/thetelegraph.JPG
     forsale: false
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811212571
     publication_date: 1993-11-01T06:00:47-04:00
-    cover_image_path: The_Theatre_Of_Tennessee_Williams_Volume_4.jpg
+    cover_image: /images/The_Theatre_Of_Tennessee_Williams_Volume_4.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811204224
     publication_date: 1993-11-01T06:00:47-04:00
-    cover_image_path: The_Theatre_Of_Tennessee_Williams_Volume_4.jpg
+    cover_image: /images/The_Theatre_Of_Tennessee_Williams_Volume_4.jpg
     forsale: false
     saleprice:
     shipping_charge:

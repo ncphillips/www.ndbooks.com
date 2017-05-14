@@ -13,13 +13,13 @@ translators:
 editors:
 contributors:
   - contributor/william-jay-smith.md
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811215749
     publication_date: 2004-08-01T05:00:00-04:00
-    cover_image_path: candlestothesun.JPG
+    cover_image: /images/candlestothesun.JPG
     forsale: true
     saleprice:
     shipping_charge:

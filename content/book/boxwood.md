@@ -13,13 +13,13 @@ translators:
   - contributor/patricia-haugaard.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "The extraordinary experimental final novel by the winner of the Nobel Prize for Literature "
 editions:
   - binding: Paperback
     isbn: 9780811217514
     publication_date: 2008-06-01T05:00:00-04:00
-    cover_image_path: Boxwood.jpg
+    cover_image: /images/Boxwood.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811214971
     publication_date: 2008-06-01T05:00:00-04:00
-    cover_image_path: Boxwood.jpg
+    cover_image: /images/Boxwood.jpg
     forsale: false
     saleprice:
     shipping_charge:

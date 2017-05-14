@@ -13,13 +13,13 @@ translators:
   - contributor/peter-tegel.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811217897
     publication_date: 1994-01-01T06:00:33-04:00
-    cover_image_path: headhunter-uwe-timm-hardcover-cover-art.jpg
+    cover_image: /images/headhunter-uwe-timm-hardcover-cover-art.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811212540
     publication_date: 1994-01-01T06:00:33-04:00
-    cover_image_path: headhunter-uwe-timm-hardcover-cover-art.jpg
+    cover_image: /images/headhunter-uwe-timm-hardcover-cover-art.jpg
     forsale: false
     saleprice:
     shipping_charge:

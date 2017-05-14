@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811209724
     publication_date: 1985-11-01T06:00:10-04:00
-    cover_image_path: The_Land_Of_The_Great_Image.jpg
+    cover_image: /images/The_Land_Of_The_Great_Image.jpg
     forsale: false
     saleprice:
     shipping_charge:

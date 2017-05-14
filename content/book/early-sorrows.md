@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Clothbound
     isbn: 9780811213905
     publication_date: 1998-10-01T05:00:52-04:00
-    cover_image_path: Early_Sorrows.jpg
+    cover_image: /images/Early_Sorrows.jpg
     forsale: false
     saleprice:
     shipping_charge:

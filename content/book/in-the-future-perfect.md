@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811206600
     publication_date: 1972-11-01T06:00:50-04:00
-    cover_image_path: In_The_Future_Perfect.jpg
+    cover_image: /images/In_The_Future_Perfect.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811206594
     publication_date: 1972-11-01T06:00:50-04:00
-    cover_image_path: In_The_Future_Perfect.jpg
+    cover_image: /images/In_The_Future_Perfect.jpg
     forsale: false
     saleprice:
     shipping_charge:

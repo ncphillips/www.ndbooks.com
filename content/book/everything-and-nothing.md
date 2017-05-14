@@ -14,13 +14,13 @@ translators:
   - contributor/donald-yates.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A pocket-sized Pearl edition of some of Borges’ best fictions and essays. "
 editions:
   - binding: Paperback
     isbn: 9780811218832
     publication_date: 2010-05-01T05:00:00-04:00
-    cover_image_path: Everything_and_nothing.jpg
+    cover_image: /images/Everything_and_nothing.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Meet Kenneth Patchen, a prolific, ground-breaking proletarian poet/painter whose most eclectic and wildly eccentric works are re-launched in a single startling volume--We Meet. "
 editions:
   - binding: Paperback
     isbn: 9780811217583
     publication_date: 2009-07-01T05:00:19-04:00
-    cover_image_path: We_Meet.jpg
+    cover_image: /images/We_Meet.jpg
     forsale: false
     saleprice:
     shipping_charge:

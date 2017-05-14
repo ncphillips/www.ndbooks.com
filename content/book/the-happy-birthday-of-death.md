@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811200271
     publication_date: 1960-01-19T03:14:00-04:00
-    cover_image_path: Happy_Birthday_of_Death.png
+    cover_image: /images/Happy_Birthday_of_Death.png
     forsale: false
     saleprice:
     shipping_charge:

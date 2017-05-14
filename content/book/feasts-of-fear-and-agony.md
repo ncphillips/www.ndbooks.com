@@ -14,13 +14,13 @@ translators:
 editors:
 contributors:
   - contributor/paul-van-ostaijen.md
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811206013
     publication_date: 1976-03-01T06:00:00-04:00
-    cover_image_path: Feasts_Of_Fear_And_Agony.jpg
+    cover_image: /images/Feasts_Of_Fear_And_Agony.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811206006
     publication_date: 1976-03-01T06:00:00-04:00
-    cover_image_path: Feasts_Of_Fear_And_Agony.jpg
+    cover_image: /images/Feasts_Of_Fear_And_Agony.jpg
     forsale: true
     saleprice:
     shipping_charge:

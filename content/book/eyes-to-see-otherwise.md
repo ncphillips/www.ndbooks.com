@@ -13,13 +13,13 @@ translators:
   - contributor/betty-ferber.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811215091
     publication_date: 2002-04-01T06:00:40-04:00
-    cover_image_path: Eyes_To_See_Otherwise.jpg
+    cover_image: /images/Eyes_To_See_Otherwise.jpg
     forsale: false
     saleprice:
     shipping_charge:

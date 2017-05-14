@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811201728
     publication_date: 1966-01-01T05:59:00-04:00
-    cover_image_path: The_Green_Child.jpg
+    cover_image: /images/The_Green_Child.jpg
     forsale: false
     saleprice:
     shipping_charge:

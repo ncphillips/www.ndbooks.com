@@ -11,13 +11,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Inspired by the great tradition of French love poetry, New Directions presents a beautiful, small gift edition, dedicated to what makes the world go round "
 editions:
   - binding: Paperback
     isbn: 9780811225595
     publication_date: 2016-06-28T23:00:00-04:00
-    cover_image_path: /uploads/french%20lvoe%20poems.tiff
+    cover_image: /images/french%20lvoe%20poems.tiff
     forsale: true
     saleprice:
     shipping_charge:

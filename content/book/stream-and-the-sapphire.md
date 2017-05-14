@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811213547
     publication_date: 1997-05-01T05:00:00-04:00
-    cover_image_path: The_Stream_and_the_Sapphire.jpg
+    cover_image: /images/The_Stream_and_the_Sapphire.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811213530
     publication_date: 1997-05-01T05:00:00-04:00
-    cover_image_path: The_Stream_and_the_Sapphire.jpg
+    cover_image: /images/The_Stream_and_the_Sapphire.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -40,7 +40,7 @@ editions:
   - binding: Ebook
     isbn: 9780811222402
     publication_date: 1997-05-01T05:00:00-04:00
-    cover_image_path: The_Stream_and_the_Sapphire.jpg
+    cover_image: /images/The_Stream_and_the_Sapphire.jpg
     forsale: false
     saleprice:
     shipping_charge:

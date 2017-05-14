@@ -18,13 +18,13 @@ translators:
 editors:
   - contributor/eliot-weinberger.md
 contributors:
-featured_image_path:
+featured_image:
 description: "A selection from the lifework of the internationally renowned poet Bei Dao, who is _like reading Chekhov or Turgenev reflected in a porcelain bowl_ (_The Times_ [London]). "
 editions:
   - binding: Paperback
     isbn: 9780811218481
     publication_date: 2010-01-27T05:00:00-04:00
-    cover_image_path: /uploads/The_Rose_Of_Time.jpg
+    cover_image: /images/The_Rose_Of_Time.jpg
     forsale: true
     saleprice:
     shipping_charge:

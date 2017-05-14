@@ -14,13 +14,13 @@ translators:
 editors:
 contributors:
   - contributor/anne-carson.md
-featured_image_path:
+featured_image:
 description: "Here at last is Inger Christensen's masterpiece it, translated brilliantly by Susanna Nied, and with an illuminating introduction by Anne Carson. "
 editions:
   - binding: Paperback
     isbn: 9780811215947
     publication_date: 2007-11-01T05:00:51-04:00
-    cover_image_path: It.jpg
+    cover_image: /images/It.jpg
     forsale: false
     saleprice:
     shipping_charge:

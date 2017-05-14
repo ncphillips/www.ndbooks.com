@@ -13,13 +13,13 @@ translators:
 editors:
 contributors:
   - contributor/james-laughlin.md
-featured_image_path:
+featured_image:
 description: "A long narrative prose poem celebrating the principle of Evil "
 editions:
   - binding: Paperback
     isbn: 9780811200820
     publication_date: 1965-01-17T15:40:00-04:00
-    cover_image_path: Les_Chants_De_Maldoror_.jpg
+    cover_image: /images/Les_Chants_De_Maldoror_.jpg
     forsale: true
     saleprice:
     shipping_charge:

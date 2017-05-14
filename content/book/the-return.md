@@ -14,13 +14,13 @@ translators:
   - contributor/chris-andrews.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Here is the eagerly anticipated second volume of stories by Roberto Bolaño. Tender or etched in acid; hazily suggestive or chillingly definitive: a trove of strangely arresting, short master works. "
 editions:
   - binding: Paperback
     isbn: 9780811219051
     publication_date: 2010-07-29T14:27:00-04:00
-    cover_image_path: The_Return.jpg
+    cover_image: /images/The_Return.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811217156
     publication_date: 2010-07-29T14:27:00-04:00
-    cover_image_path: The_Return.jpg
+    cover_image: /images/The_Return.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -42,7 +42,7 @@ editions:
   - binding: Ebook
     isbn: 9780811220576
     publication_date: 2010-07-29T14:27:00-04:00
-    cover_image_path: The_Return.jpg
+    cover_image: /images/The_Return.jpg
     forsale: false
     saleprice:
     shipping_charge:

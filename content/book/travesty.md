@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "An exceptionally brilliant novel from _our most interesting writer_ (Flannery O'Connor) "
 editions:
   - binding: Paperback
     isbn: 9780811222167
     publication_date: 2016-04-19T04:00:00-04:00
-    cover_image_path: /uploads/TRAVESTY.tif
+    cover_image: /images/TRAVESTY.tif
     forsale: true
     saleprice:
     shipping_charge:

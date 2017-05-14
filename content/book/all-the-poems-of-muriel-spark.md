@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811215763
     publication_date: 2004-04-01T06:00:00-04:00
-    cover_image_path: All_The_Poems_Of_Muriel_Spark.jpg
+    cover_image: /images/All_The_Poems_Of_Muriel_Spark.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811221573
     publication_date: 2004-04-01T06:00:00-04:00
-    cover_image_path: All_The_Poems_Of_Muriel_Spark.jpg
+    cover_image: /images/All_The_Poems_Of_Muriel_Spark.jpg
     forsale: false
     saleprice:
     shipping_charge:

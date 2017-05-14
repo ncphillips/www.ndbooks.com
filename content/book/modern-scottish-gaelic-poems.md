@@ -15,13 +15,13 @@ translators:
 editors:
 contributors:
   - contributor/donald-macaulay.md
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811217804
     publication_date: 1977-05-01T04:59:00-04:00
-    cover_image_path: Modern_Scottish_Gaelic_Poems.jpg
+    cover_image: /images/Modern_Scottish_Gaelic_Poems.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -32,7 +32,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811206310
     publication_date: 1977-05-01T04:59:00-04:00
-    cover_image_path: Modern_Scottish_Gaelic_Poems.jpg
+    cover_image: /images/Modern_Scottish_Gaelic_Poems.jpg
     forsale: true
     saleprice:
     shipping_charge:

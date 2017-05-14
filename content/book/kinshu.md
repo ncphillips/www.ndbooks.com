@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "As delicate as the shimmering wings of a dragonfly, Kinshu -- an epistolary novel by one of Japan's most popular literary authors -- is a masterpiece of simplicity and beauty. "
 editions:
   - binding: Paperback
     isbn: 9780811216753
     publication_date: 2008-02-01T06:00:02-04:00
-    cover_image_path: Kinshu.jpg
+    cover_image: /images/Kinshu.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811216333
     publication_date: 2008-02-01T06:00:02-04:00
-    cover_image_path: Kinshu.jpg
+    cover_image: /images/Kinshu.jpg
     forsale: false
     saleprice:
     shipping_charge:

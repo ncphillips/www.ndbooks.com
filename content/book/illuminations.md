@@ -13,13 +13,13 @@ translators:
   - contributor/louise-varese.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811201841
     publication_date: 1957-06-01T05:00:00-04:00
-    cover_image_path: Illuminations.jpg
+    cover_image: /images/Illuminations.jpg
     forsale: true
     saleprice:
     shipping_charge:

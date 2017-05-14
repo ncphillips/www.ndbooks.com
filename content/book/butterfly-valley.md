@@ -13,13 +13,13 @@ translators:
   - contributor/susanna-nied.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811215794
     publication_date: 2004-06-01T05:00:16-04:00
-    cover_image_path: Butterfly_Valley.jpg
+    cover_image: /images/Butterfly_Valley.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -14,13 +14,13 @@ translators:
 editors:
   - contributor/eliot-weinberger.md
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811211956
     publication_date: 1991-10-01T05:00:00-04:00
-    cover_image_path: Sunstone.jpg
+    cover_image: /images/Sunstone.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811211970
     publication_date: 1991-10-01T05:00:00-04:00
-    cover_image_path: Sunstone.jpg
+    cover_image: /images/Sunstone.jpg
     forsale: true
     saleprice:
     shipping_charge:

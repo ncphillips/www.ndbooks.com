@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Lorca's best poetry in a beautiful new edition "
 editions:
   - binding: Paperback
     isbn: 9780811221627
     publication_date: 2013-06-12T14:31:00-04:00
-    cover_image_path: Selected_Poems_Lorca.jpg
+    cover_image: /images/Selected_Poems_Lorca.jpg
     forsale: false
     saleprice:
     shipping_charge:

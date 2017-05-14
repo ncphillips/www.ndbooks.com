@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811214766
     publication_date: 2001-06-01T05:00:38-04:00
-    cover_image_path: War_Babies.jpg
+    cover_image: /images/War_Babies.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811211031
     publication_date: 2001-06-01T05:00:38-04:00
-    cover_image_path: War_Babies.jpg
+    cover_image: /images/War_Babies.jpg
     forsale: false
     saleprice:
     shipping_charge:

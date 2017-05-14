@@ -13,13 +13,13 @@ translators:
   - contributor/rosalie-knecht.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "As he runs wildly amok, Aira captures childhood's treasures – the reality of the fable and the delirium of invention – in this hilariously funny book. "
 editions:
   - binding: Paperback
     isbn: 9780811219129
     publication_date: 2011-06-30T14:28:00-04:00
-    cover_image_path: SeamstressandtheWind.JPG
+    cover_image: /images/SeamstressandtheWind.JPG
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811219341
     publication_date: 2011-06-30T14:28:00-04:00
-    cover_image_path: SeamstressandtheWind.JPG
+    cover_image: /images/SeamstressandtheWind.JPG
     forsale: false
     saleprice:
     shipping_charge:

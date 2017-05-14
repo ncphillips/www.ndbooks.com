@@ -14,13 +14,13 @@ editors:
   - contributor/thomas-keith.md
 contributors:
   - contributor/thomas-keith.md
-featured_image_path:
+featured_image:
 description: "_The peak of my virtuosity was in the one-act plays—like firecrackers in a rope._—Tennessee Williams "
 editions:
   - binding: Paperback
     isbn: 9780811225564
     publication_date: 2016-07-12T04:00:00-04:00
-    cover_image_path: /uploads/CatsCover.tif
+    cover_image: /images/CatsCover.tif
     forsale: true
     saleprice:
     shipping_charge:

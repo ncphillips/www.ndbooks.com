@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811201025
     publication_date: 1961-01-01T06:00:00-04:00
-    cover_image_path: The_Wisdom_Of_The_Desert.jpg
+    cover_image: /images/The_Wisdom_Of_The_Desert.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811220132
     publication_date: 1961-01-01T06:00:00-04:00
-    cover_image_path: The_Wisdom_Of_The_Desert.jpg
+    cover_image: /images/The_Wisdom_Of_The_Desert.jpg
     forsale: false
     saleprice:
     shipping_charge:

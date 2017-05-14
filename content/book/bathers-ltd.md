@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811207539
     publication_date: 1980-04-01T06:00:13-04:00
-    cover_image_path: Bathers_.jpg
+    cover_image: /images/Bathers_.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811207522
     publication_date: 1980-04-01T06:00:13-04:00
-    cover_image_path: Bathers_.jpg
+    cover_image: /images/Bathers_.jpg
     forsale: false
     saleprice:
     shipping_charge:

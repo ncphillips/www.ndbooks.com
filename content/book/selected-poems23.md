@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811209519
     publication_date: 1986-03-01T06:00:00-04:00
-    cover_image_path: Selected_Poems._Michael_McClure.jpg
+    cover_image: /images/Selected_Poems._Michael_McClure.jpg
     forsale: false
     saleprice:
     shipping_charge:

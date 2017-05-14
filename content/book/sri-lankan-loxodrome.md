@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811218290
     publication_date: 2009-09-01T05:00:00-04:00
-    cover_image_path: srilankanloxodrome.JPG
+    cover_image: /images/srilankanloxodrome.JPG
     forsale: false
     saleprice:
     shipping_charge:

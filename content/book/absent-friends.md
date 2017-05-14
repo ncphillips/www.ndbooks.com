@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811211758
     publication_date: 1991-11-01T06:00:12-04:00
-    cover_image_path: Absent_Friends.jpg
+    cover_image: /images/Absent_Friends.jpg
     forsale: false
     saleprice:
     shipping_charge:

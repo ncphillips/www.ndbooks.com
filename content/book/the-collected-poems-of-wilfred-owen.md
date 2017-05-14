@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811201322
     publication_date: 1964-01-19T03:14:00-04:00
-    cover_image_path: The_Collected_Poems_Of_Wilfred_Owen.jpg
+    cover_image: /images/The_Collected_Poems_Of_Wilfred_Owen.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811223676
     publication_date: 1964-01-19T03:14:00-04:00
-    cover_image_path: The_Collected_Poems_Of_Wilfred_Owen.jpg
+    cover_image: /images/The_Collected_Poems_Of_Wilfred_Owen.jpg
     forsale: false
     saleprice:
     shipping_charge:

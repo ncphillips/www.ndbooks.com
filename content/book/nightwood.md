@@ -15,13 +15,13 @@ contributors:
   - contributor/t.-s.-eliot.md
 
   - contributor/jeanette-winterson.md
-featured_image_path:
+featured_image:
 description: "Reissue of a fiery and enigmatic masterpiece, one of the greatest novels of the Modernist era "
 editions:
   - binding: Paperback
     isbn: 9780811216715
     publication_date: 2008-09-01T05:00:00-04:00
-    cover_image_path: /uploads/1423959620533_9780811216715-722x1133.jpg
+    cover_image: /images/1423959620533_9780811216715-722x1133.jpg
     forsale: true
     saleprice:
     shipping_charge:

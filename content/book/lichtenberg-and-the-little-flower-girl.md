@@ -13,13 +13,13 @@ translators:
   - contributor/michael-hofmann1.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "From dross to gold, an enchanting tale of love is spun. "
 editions:
   - binding: Paperback
     isbn: 9780811216951
     publication_date: 2004-05-01T05:00:50-04:00
-    cover_image_path: Lichtenberg_And_The_Little_Flower_Girl.jpg
+    cover_image: /images/Lichtenberg_And_The_Little_Flower_Girl.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811215688
     publication_date: 2004-05-01T05:00:50-04:00
-    cover_image_path: Lichtenberg_And_The_Little_Flower_Girl.jpg
+    cover_image: /images/Lichtenberg_And_The_Little_Flower_Girl.jpg
     forsale: false
     saleprice:
     shipping_charge:

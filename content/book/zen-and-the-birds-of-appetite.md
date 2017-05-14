@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811201049
     publication_date: 1968-10-01T05:00:00-04:00
-    cover_image_path: Zen_And_The_Birds_Of_Appetite.jpg
+    cover_image: /images/Zen_And_The_Birds_Of_Appetite.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811219723
     publication_date: 1968-10-01T05:00:00-04:00
-    cover_image_path: Zen_And_The_Birds_Of_Appetite.jpg
+    cover_image: /images/Zen_And_The_Birds_Of_Appetite.jpg
     forsale: false
     saleprice:
     shipping_charge:

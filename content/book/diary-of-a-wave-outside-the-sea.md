@@ -13,13 +13,13 @@ translators:
   - contributor/elizabeth-winslow.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Iraqi poet Dunya Mikhail's poetic memoir in a bilingual English-Arabic edition, follows on the heels of her widely praised The War Works Hard. "
 editions:
   - binding: Paperback
     isbn: 9780811218313
     publication_date: 2009-04-01T05:00:35-04:00
-    cover_image_path: Diary_Of_A_Wave_Outside_The_Sea.jpg
+    cover_image: /images/Diary_Of_A_Wave_Outside_The_Sea.jpg
     forsale: false
     saleprice:
     shipping_charge:

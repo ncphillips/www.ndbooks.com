@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811202275
     publication_date: 1968-10-01T05:00:57-04:00
-    cover_image_path: The_Build-Up.jpg
+    cover_image: /images/The_Build-Up.jpg
     forsale: false
     saleprice:
     shipping_charge:

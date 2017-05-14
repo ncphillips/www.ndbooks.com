@@ -14,7 +14,7 @@ translators:
 editors:
 contributors:
   - contributor/nicanor-parra.md
-featured_image_path:
+featured_image:
 description:
 editions:
 _slug: poems-and-antipoems

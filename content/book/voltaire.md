@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811208024
     publication_date: 1981-06-01T05:00:56-04:00
-    cover_image_path: Voltaire.jpg
+    cover_image: /images/Voltaire.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811208000
     publication_date: 1981-06-01T05:00:56-04:00
-    cover_image_path: Voltaire.jpg
+    cover_image: /images/Voltaire.jpg
     forsale: false
     saleprice:
     shipping_charge:

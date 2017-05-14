@@ -14,13 +14,13 @@ translators:
 editors:
 contributors:
   - contributor/lydia-davis.md
-featured_image_path:
+featured_image:
 description: "Alomar's English-language poetry collection debut "
 editions:
   - binding: Paperback
     isbn: 9780811221764
     publication_date: 2014-01-27T19:51:00-04:00
-    cover_image_path: Fullblood_Arabian.jpg
+    cover_image: /images/Fullblood_Arabian.jpg
     forsale: true
     saleprice:
     shipping_charge:

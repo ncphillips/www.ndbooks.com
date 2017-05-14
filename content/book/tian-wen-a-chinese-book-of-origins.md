@@ -11,13 +11,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811210119
     publication_date: 1986-10-01T05:00:00-04:00
-    cover_image_path: A_Chinese_Book_Of_Origins_.jpg
+    cover_image: /images/A_Chinese_Book_Of_Origins_.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -28,7 +28,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811210102
     publication_date: 1986-10-01T05:00:00-04:00
-    cover_image_path: A_Chinese_Book_Of_Origins_.jpg
+    cover_image: /images/A_Chinese_Book_Of_Origins_.jpg
     forsale: true
     saleprice:
     shipping_charge:

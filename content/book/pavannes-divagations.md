@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811205757
     publication_date: 1975-04-01T05:00:00-04:00
-    cover_image_path: Pavannes__Divagations_.jpg
+    cover_image: /images/Pavannes__Divagations_.jpg
     forsale: false
     saleprice:
     shipping_charge:

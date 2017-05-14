@@ -13,13 +13,13 @@ translators:
   - contributor/yvette-siegert.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "The first full-length collection in English by one of Latin America's most significant twentieth-century poets. "
 editions:
   - binding: Paperback
     isbn: 978081122396
     publication_date: 2016-05-17T04:00:00-04:00
-    cover_image_path: /uploads/Pizarnik.jpg
+    cover_image: /images/Pizarnik.jpg
     forsale: true
     saleprice:
     shipping_charge:

@@ -14,13 +14,13 @@ translators:
   - contributor/natasha-wimmer.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "The essays of Roberto Bolaño in English at last. "
 editions:
   - binding: Clothbound
     isbn: 9780811218146
     publication_date: 2011-05-30T14:28:00-04:00
-    cover_image_path: betweenparentheses.JPG
+    cover_image: /images/betweenparentheses.JPG
     forsale: false
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Ebook
     isbn: 9780811220507
     publication_date: 2011-05-30T14:28:00-04:00
-    cover_image_path: betweenparentheses.JPG
+    cover_image: /images/betweenparentheses.JPG
     forsale: false
     saleprice:
     shipping_charge:

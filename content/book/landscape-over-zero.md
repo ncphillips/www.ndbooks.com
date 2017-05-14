@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811213349
     publication_date: 1996-10-01T05:00:18-04:00
-    cover_image_path: Landscape_Over_Zero.jpg
+    cover_image: /images/Landscape_Over_Zero.jpg
     forsale: false
     saleprice:
     shipping_charge:

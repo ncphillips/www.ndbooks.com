@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811201155
     publication_date: 1962-06-01T05:00:00-04:00
-    cover_image_path: The_Time_Of_The_Assassins.jpg
+    cover_image: /images/The_Time_Of_The_Assassins.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811221641
     publication_date: 1962-06-01T05:00:00-04:00
-    cover_image_path: The_Time_Of_The_Assassins.jpg
+    cover_image: /images/The_Time_Of_The_Assassins.jpg
     forsale: false
     saleprice:
     shipping_charge:

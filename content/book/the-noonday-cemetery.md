@@ -14,13 +14,13 @@ translators:
   - contributor/bill-johnston.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Short stories by Poland's greatest writer, and survivor of WWII Soviet labor prison camps. "
 editions:
   - binding: Paperback
     isbn: 9780811216395
     publication_date: 2003-05-01T05:00:00-04:00
-    cover_image_path: The_Noonday_Cemetery.jpg
+    cover_image: /images/The_Noonday_Cemetery.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811215299
     publication_date: 2003-05-01T05:00:00-04:00
-    cover_image_path: The_Noonday_Cemetery.jpg
+    cover_image: /images/The_Noonday_Cemetery.jpg
     forsale: true
     saleprice:
     shipping_charge:

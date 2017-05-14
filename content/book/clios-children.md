@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811209366
     publication_date: 1985-03-01T06:00:00-04:00
-    cover_image_path: Clios_Children_2.jpg
+    cover_image: /images/Clios_Children_2.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811209359
     publication_date: 1985-03-01T06:00:00-04:00
-    cover_image_path: Clios_Children_2.jpg
+    cover_image: /images/Clios_Children_2.jpg
     forsale: false
     saleprice:
     shipping_charge:

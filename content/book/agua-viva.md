@@ -14,13 +14,13 @@ translators:
 editors:
   - contributor/benjamin-moser.md
 contributors:
-featured_image_path:
+featured_image:
 description: "Lispector at her most philosophically radical. "
 editions:
   - binding: Paperback
     isbn: 9780811219907
     publication_date: 2012-06-13T20:02:00-04:00
-    cover_image_path: Agua-Viva.jpg
+    cover_image: /images/Agua-Viva.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Ebook
     isbn: 9780811220729
     publication_date: 2012-06-13T20:02:00-04:00
-    cover_image_path: Agua-Viva.jpg
+    cover_image: /images/Agua-Viva.jpg
     forsale: true
     saleprice:
     shipping_charge:

@@ -15,13 +15,13 @@ translators:
   - contributor/c.-j.-collins.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Wonderful short stories that sharpen awareness, from a brilliantly gifted Syrian refugee "
 editions:
   - binding: Paperback
     isbn: 9780811226073
     publication_date: 2017-04-25T04:00:00-04:00
-    cover_image_path: /uploads/alomar_teeth_of_the_comb_cover.jpg
+    cover_image: /images/alomar_teeth_of_the_comb_cover.jpg
     forsale: true
     saleprice:
     shipping_charge:

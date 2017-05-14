@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811214490
     publication_date: 2000-09-01T05:00:00-04:00
-    cover_image_path: Life_And_Death.jpg
+    cover_image: /images/Life_And_Death.jpg
     forsale: false
     saleprice:
     shipping_charge:

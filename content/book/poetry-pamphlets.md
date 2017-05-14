@@ -20,13 +20,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "The first four collections in our revived Poetry Pamphlet series in one package at a bargain price "
 editions:
   - binding: Paperback
     isbn: 9780811220637
     publication_date: 2013-03-26T20:24:00-04:00
-    cover_image_path: Pamphlets_1-4_1.jpg
+    cover_image: /images/Pamphlets_1-4_1.jpg
     forsale: false
     saleprice:
     shipping_charge:

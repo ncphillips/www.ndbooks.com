@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811212441
     publication_date: 1993-04-01T06:00:54-04:00
-    cover_image_path: A_Devil_in_Paradise.JPG
+    cover_image: /images/A_Devil_in_Paradise.JPG
     forsale: false
     saleprice:
     shipping_charge:

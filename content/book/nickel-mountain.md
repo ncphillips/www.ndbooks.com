@@ -13,13 +13,13 @@ translators:
 editors:
 contributors:
   - contributor/william-h.-gass.md
-featured_image_path:
+featured_image:
 description: "John Gardner's most poignant novel of improbable love "
 editions:
   - binding: Paperback
     isbn: 9780811216784
     publication_date: 2007-10-01T05:00:00-04:00
-    cover_image_path: Nickel_Mountain.jpg
+    cover_image: /images/Nickel_Mountain.jpg
     forsale: false
     saleprice:
     shipping_charge:

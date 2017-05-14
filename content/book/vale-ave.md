@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811221078
     publication_date: 2013-07-10T19:19:00-04:00
-    cover_image_path: Vale_Ave.jpg
+    cover_image: /images/Vale_Ave.jpg
     forsale: true
     saleprice:
     shipping_charge:

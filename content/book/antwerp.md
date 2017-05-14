@@ -13,13 +13,13 @@ translators:
   - contributor/natasha-wimmer.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Antwerp's signature elements – crimes and campgrounds, drifters and poetry, sex and love, corrupt cops and misfits – mark this, his first novel, as pure Bolaño. "
 editions:
   - binding: Paperback
     isbn: 9780811219914
     publication_date: 2010-04-01T05:00:00-04:00
-    cover_image_path: antwerp_cover_new.jpg
+    cover_image: /images/antwerp_cover_new.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811217170
     publication_date: 2010-04-01T05:00:00-04:00
-    cover_image_path: antwerp_cover_new.jpg
+    cover_image: /images/antwerp_cover_new.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -41,7 +41,7 @@ editions:
   - binding: Ebook
     isbn: 9780811220491
     publication_date: 2010-04-01T05:00:00-04:00
-    cover_image_path: antwerp_cover_new.jpg
+    cover_image: /images/antwerp_cover_new.jpg
     forsale: false
     saleprice:
     shipping_charge:

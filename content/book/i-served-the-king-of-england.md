@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "In a comic masterpiece following the misadventures of a simple but hugely ambitious waiter in pre-World War II Prague, who rises to wealth only to lose everything with the onset of Communism, Bohumil Hrabal takes us on a tremendously funny and satirical trip through 20th-century Czechoslovakia. "
 editions:
   - binding: Paperback
     isbn: 9780811216876
     publication_date: 2007-05-01T05:00:00-04:00
-    cover_image_path: iservedtheking.JPG
+    cover_image: /images/iservedtheking.JPG
     forsale: true
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811220088
     publication_date: 2007-05-01T05:00:00-04:00
-    cover_image_path: iservedtheking.JPG
+    cover_image: /images/iservedtheking.JPG
     forsale: true
     saleprice:
     shipping_charge:

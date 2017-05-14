@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811210843
     publication_date: 1988-12-01T06:00:00-04:00
-    cover_image_path: European_Poems_and_Transitions.jpg
+    cover_image: /images/European_Poems_and_Transitions.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811213233
     publication_date: 1996-05-01T05:00:00-04:00
-    cover_image_path: The_Selected_Poems_of_Li_Po.JPG
+    cover_image: /images/The_Selected_Poems_of_Li_Po.JPG
     forsale: true
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811223621
     publication_date: 1996-05-01T05:00:00-04:00
-    cover_image_path: The_Selected_Poems_of_Li_Po.JPG
+    cover_image: /images/The_Selected_Poems_of_Li_Po.JPG
     forsale: true
     saleprice:
     shipping_charge:

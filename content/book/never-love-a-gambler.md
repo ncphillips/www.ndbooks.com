@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Marvelous stories by the Irish writer acclaimed by Zadie Smith as _idiosyncratic and fascinating_ "
 editions:
   - binding: Paperback
     isbn: 9780811222945
     publication_date: 2014-05-27T14:08:00-04:00
-    cover_image_path: NeverLoveaGambler.jpg
+    cover_image: /images/NeverLoveaGambler.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811222952
     publication_date: 2014-05-27T14:08:00-04:00
-    cover_image_path: NeverLoveaGambler.jpg
+    cover_image: /images/NeverLoveaGambler.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -14,13 +14,13 @@ translators:
   - contributor/katherine-silver.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811210201
     publication_date: 1987-05-01T05:00:48-04:00
-    cover_image_path: Battles_In_the_Desert_And_Other_Stories_.jpg
+    cover_image: /images/Battles_In_the_Desert_And_Other_Stories_.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811210195
     publication_date: 1987-05-01T05:00:48-04:00
-    cover_image_path: Battles_In_the_Desert_And_Other_Stories_.jpg
+    cover_image: /images/Battles_In_the_Desert_And_Other_Stories_.jpg
     forsale: false
     saleprice:
     shipping_charge:

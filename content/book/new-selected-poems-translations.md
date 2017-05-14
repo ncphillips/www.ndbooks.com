@@ -13,13 +13,13 @@ translators:
 editors:
   - contributor/richard-sieburth.md
 contributors:
-featured_image_path:
+featured_image:
 description: "The essential collection of Ezra Pound's poetry – newly expanded and annotated with essays by Richard Sieburth, T.S. Eliot, and John Berryman. "
 editions:
   - binding: Paperback
     isbn: 9780811217330
     publication_date: 2010-10-29T14:28:00-04:00
-    cover_image_path: New_Selected_Poems_And_Translation_.jpg
+    cover_image: /images/New_Selected_Poems_And_Translation_.jpg
     forsale: false
     saleprice:
     shipping_charge:

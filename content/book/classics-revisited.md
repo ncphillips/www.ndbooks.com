@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811209885
     publication_date: 1986-05-01T05:00:53-04:00
-    cover_image_path: Classics_Revisited.jpg
+    cover_image: /images/Classics_Revisited.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811209878
     publication_date: 1986-05-01T05:00:53-04:00
-    cover_image_path: Classics_Revisited.jpg
+    cover_image: /images/Classics_Revisited.jpg
     forsale: false
     saleprice:
     shipping_charge:

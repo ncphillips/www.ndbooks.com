@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811211451
     publication_date: 1990-11-01T06:00:00-04:00
-    cover_image_path: Immigrants_In_Our_Own_Land.jpg
+    cover_image: /images/Immigrants_In_Our_Own_Land.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811223317
     publication_date: 1990-11-01T06:00:00-04:00
-    cover_image_path: Immigrants_In_Our_Own_Land.jpg
+    cover_image: /images/Immigrants_In_Our_Own_Land.jpg
     forsale: false
     saleprice:
     shipping_charge:

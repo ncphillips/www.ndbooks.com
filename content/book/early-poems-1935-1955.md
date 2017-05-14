@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811204781
     publication_date: 1973-12-01T06:00:00-04:00
-    cover_image_path: Early_Poems_1935-1955.jpg
+    cover_image: /images/Early_Poems_1935-1955.jpg
     forsale: false
     saleprice:
     shipping_charge:

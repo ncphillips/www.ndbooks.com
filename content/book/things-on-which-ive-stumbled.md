@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Remarkable poems by the widely acclaimed poet and translator of Hebrew and Arabic poetry. "
 editions:
   - binding: Paperback
     isbn: 9780811218030
     publication_date: 2008-09-01T05:00:16-04:00
-    cover_image_path: thingsonwhichivestumbled.jpg
+    cover_image: /images/thingsonwhichivestumbled.jpg
     forsale: false
     saleprice:
     shipping_charge:

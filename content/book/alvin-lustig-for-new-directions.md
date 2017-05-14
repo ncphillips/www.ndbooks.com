@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Design genius in a nutshell: fifty of Lustig’s greatest book jackets in one box "
 editions:
   - binding: Paperback
     isbn: 9780811221009
     publication_date: 2013-05-20T19:30:00-04:00
-    cover_image_path: /uploads/Lustig%20box.jpg
+    cover_image: /images/Lustig%20box.jpg
     forsale: true
     saleprice:
     shipping_charge:

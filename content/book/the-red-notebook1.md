@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Truth _is_ stranger than fiction "
 editions:
   - binding: Paperback
     isbn: 9780811220972
     publication_date: 2013-07-16T15:14:00-04:00
-    cover_image_path: Red_Notebook.jpg
+    cover_image: /images/Red_Notebook.jpg
     forsale: false
     saleprice:
     shipping_charge:

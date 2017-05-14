@@ -13,13 +13,13 @@ translators:
   - contributor/nick-caistor.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "When a Mapuche chief suddenly goes missing, a British naturalist is asked to find him in the vast Argentine pampas "
 editions:
   - binding: Paperback
     isbn: 9780811220903
     publication_date: 2013-07-25T14:52:00-04:00
-    cover_image_path: Hare.jpg
+    cover_image: /images/Hare.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811221207
     publication_date: 2013-07-25T14:52:00-04:00
-    cover_image_path: Hare.jpg
+    cover_image: /images/Hare.jpg
     forsale: false
     saleprice:
     shipping_charge:

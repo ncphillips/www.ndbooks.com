@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811208109
     publication_date: 1981-11-01T06:00:24-04:00
-    cover_image_path: The_Death_Of_A_Beekeeper_.jpg
+    cover_image: /images/The_Death_Of_A_Beekeeper_.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811208093
     publication_date: 1981-11-01T06:00:24-04:00
-    cover_image_path: The_Death_Of_A_Beekeeper_.jpg
+    cover_image: /images/The_Death_Of_A_Beekeeper_.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -13,13 +13,13 @@ translators:
   - contributor/maria-jolas.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Nathalie Sarraute's stunning debut–vignettes of _inner movements_–foreshadowed the rise of the Nouveau Roman "
 editions:
   - binding: Paperback
     isbn: 9780811222761
     publication_date: 2015-11-10T05:00:00-04:00
-    cover_image_path: /uploads/tropisms_cover.jpg
+    cover_image: /images/tropisms_cover.jpg
     forsale: true
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Introduction by C.P. Snow "
 editions:
   - binding: Paperback
     isbn: B007HPLNI4
     publication_date: 1962-07-21T20:13:00-04:00
-    cover_image_path: by_the_waters_of_manhattan_reznikoff.jpg
+    cover_image: /images/by_the_waters_of_manhattan_reznikoff.jpg
     forsale: false
     saleprice:
     shipping_charge:

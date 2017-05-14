@@ -13,13 +13,13 @@ translators:
 editors:
 contributors:
   - contributor/michael-palmer.md
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811216531
     publication_date: 2006-04-01T06:00:07-04:00
-    cover_image_path: Ground_Work_Before_The_War_:_In_The_Dark_.jpg
+    cover_image: /images/Ground_Work_Before_The_War_:_In_The_Dark_.jpg
     forsale: false
     saleprice:
     shipping_charge:

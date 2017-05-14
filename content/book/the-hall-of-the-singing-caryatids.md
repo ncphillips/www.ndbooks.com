@@ -13,13 +13,13 @@ translators:
   - contributor/andrew-bromfield.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Victor Pelevin’s Pearl debut is far-out, far-fetched, and fiendishly funny. "
 editions:
   - binding: Paperback
     isbn: 9780811219426
     publication_date: 2011-10-27T14:28:00-04:00
-    cover_image_path: caryatids_cover.jpg
+    cover_image: /images/caryatids_cover.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811219532
     publication_date: 2011-10-27T14:28:00-04:00
-    cover_image_path: caryatids_cover.jpg
+    cover_image: /images/caryatids_cover.jpg
     forsale: true
     saleprice:
     shipping_charge:

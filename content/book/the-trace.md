@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A gripping road novel: an American couple travels the Chihuahua countryside encountering love, hate, and Mexican drug dealers "
 editions:
   - binding: Paperback
     isbn: 9780811224864
     publication_date: 2015-10-27T18:33:00-04:00
-    cover_image_path: The_Trace.png
+    cover_image: /images/The_Trace.png
     forsale: true
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811223713
     publication_date: 2015-10-27T18:33:00-04:00
-    cover_image_path: The_Trace.png
+    cover_image: /images/The_Trace.png
     forsale: true
     saleprice:
     shipping_charge:
@@ -40,7 +40,7 @@ editions:
   - binding: Ebook
     isbn: 9780811223720
     publication_date: 2015-10-27T18:33:00-04:00
-    cover_image_path: The_Trace.png
+    cover_image: /images/The_Trace.png
     forsale: true
     saleprice:
     shipping_charge:

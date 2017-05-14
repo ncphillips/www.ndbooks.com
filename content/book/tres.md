@@ -13,13 +13,13 @@ translators:
   - contributor/laura-healy.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "“Poetry is braver than anyone,” Roberto Bolaño believed, and the proof is here in Tres, his most inventive and bracing poetry collection. "
 editions:
   - binding: Clothbound
     isbn: 9780811219273
     publication_date: 2011-09-30T14:28:00-04:00
-    cover_image_path: tres_cover.jpg
+    cover_image: /images/tres_cover.jpg
     forsale: false
     saleprice:
     shipping_charge:

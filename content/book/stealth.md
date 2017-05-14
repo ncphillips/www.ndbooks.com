@@ -13,13 +13,13 @@ translators:
   - contributor/Hosam-Aboul-Ela.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A young son wanders Cairo trying to comprehend why his mother has disappeared "
 editions:
   - binding: Paperback
     isbn: 9780811223058
     publication_date: 2014-05-27T14:06:00-04:00
-    cover_image_path: Stealth.jpg
+    cover_image: /images/Stealth.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811223065
     publication_date: 2014-05-27T14:06:00-04:00
-    cover_image_path: Stealth.jpg
+    cover_image: /images/Stealth.jpg
     forsale: true
     saleprice:
     shipping_charge:

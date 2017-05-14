@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811205627
     publication_date: 1975-03-01T05:00:49-04:00
-    cover_image_path: The_Falling_Sickness.jpg
+    cover_image: /images/The_Falling_Sickness.jpg
     forsale: false
     saleprice:
     shipping_charge:

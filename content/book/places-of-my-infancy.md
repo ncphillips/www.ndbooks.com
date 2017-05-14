@@ -13,13 +13,13 @@ translators:
   - contributor/archibald-colquhoun.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "For fans of _The Leopard_, an intimate portrait of Lampedusa's childhood "
 editions:
   - binding: Paperback
     isbn: 9780811220385
     publication_date: 2012-11-07T16:38:00-04:00
-    cover_image_path: Places_of_my_Infancy.jpg
+    cover_image: /images/Places_of_my_Infancy.jpg
     forsale: false
     saleprice:
     shipping_charge:

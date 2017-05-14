@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811201070
     publication_date: 1957-01-19T03:14:00-04:00
-    cover_image_path: Big_Sur.jpg
+    cover_image: /images/Big_Sur.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811219709
     publication_date: 1957-01-19T03:14:00-04:00
-    cover_image_path: Big_Sur.jpg
+    cover_image: /images/Big_Sur.jpg
     forsale: false
     saleprice:
     shipping_charge:

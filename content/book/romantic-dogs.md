@@ -13,13 +13,13 @@ translators:
   - contributor/laura-healy.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "“Bolano wrote with the high-voltage first-person braininess of a Saul Bellow and an extreme subversive vision of his own.” –Francisco Goldman, The New York Times Magazine "
 editions:
   - binding: Paperback
     isbn: 9780811218016
     publication_date: 2008-11-01T05:00:00-04:00
-    cover_image_path: theromanticdogs.JPG
+    cover_image: /images/theromanticdogs.JPG
     forsale: false
     saleprice:
     shipping_charge:

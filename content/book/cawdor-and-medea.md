@@ -13,13 +13,13 @@ translators:
 editors:
 contributors:
   - contributor/robinson-jeffers.md
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811200738
     publication_date: 1970-10-01T05:00:53-04:00
-    cover_image_path: Cawdor_And_Medea.jpg
+    cover_image: /images/Cawdor_And_Medea.jpg
     forsale: false
     saleprice:
     shipping_charge:

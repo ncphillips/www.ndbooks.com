@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "An affirmation of faith and identity by Japan’s leading Christian novelist. "
 editions:
   - binding: Paperback
     isbn: 9780811218115
     publication_date: 2009-01-01T06:00:00-04:00
-    cover_image_path: The_Final_Martyrs.jpg
+    cover_image: /images/The_Final_Martyrs.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811212724
     publication_date: 2009-01-01T06:00:00-04:00
-    cover_image_path: The_Final_Martyrs.jpg
+    cover_image: /images/The_Final_Martyrs.jpg
     forsale: true
     saleprice:
     shipping_charge:

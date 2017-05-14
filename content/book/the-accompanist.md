@@ -13,13 +13,13 @@ translators:
   - contributor/marian-schwartz.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811215343
     publication_date: 2003-06-01T05:00:27-04:00
-    cover_image_path: The_Accompanist.jpg
+    cover_image: /images/The_Accompanist.jpg
     forsale: false
     saleprice:
     shipping_charge:

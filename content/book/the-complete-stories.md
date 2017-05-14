@@ -15,13 +15,13 @@ translators:
 editors:
 contributors:
   - contributor/benjamin-moser.md
-featured_image_path: /uploads/lispector_collected_stories_for_web.jpg
+featured_image: /images/lispector_collected_stories_for_web.jpg
 description: "Clarice Lispector's _Complete Stories_, 86 in all, are an epiphany, among the important books of this–or any–year. "
 editions:
   - binding: Clothbound
     isbn: 9780811219631
     publication_date: 2015-08-04T04:00:00-04:00
-    cover_image_path: /uploads/lispector_collected_stories_for_web.jpg
+    cover_image: /images/lispector_collected_stories_for_web.jpg
     forsale: true
     saleprice:
     shipping_charge:

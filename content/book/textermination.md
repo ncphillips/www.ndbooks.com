@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811212168
     publication_date: 1992-10-01T05:00:15-04:00
-    cover_image_path: Textermination_.jpg
+    cover_image: /images/Textermination_.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811212304
     publication_date: 1992-10-01T05:00:15-04:00
-    cover_image_path: Textermination_.jpg
+    cover_image: /images/Textermination_.jpg
     forsale: false
     saleprice:
     shipping_charge:

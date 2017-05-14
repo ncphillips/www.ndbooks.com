@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Clothbound
     isbn: 9780811210492
     publication_date: 1988-10-01T05:00:00-04:00
-    cover_image_path: 33_Poems.jpg
+    cover_image: /images/33_Poems.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -14,13 +14,13 @@ translators:
   - contributor/ezra-pound.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811208895
     publication_date: 1984-04-01T06:00:23-04:00
-    cover_image_path: Fancy_Goods:Open_All_Night_.jpg
+    cover_image: /images/Fancy_Goods:Open_All_Night_.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811208888
     publication_date: 1984-04-01T06:00:23-04:00
-    cover_image_path: Fancy_Goods:Open_All_Night_.jpg
+    cover_image: /images/Fancy_Goods:Open_All_Night_.jpg
     forsale: false
     saleprice:
     shipping_charge:

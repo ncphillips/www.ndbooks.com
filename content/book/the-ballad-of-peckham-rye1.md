@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A satirical gem about class, work, and sex "
 editions:
   - binding: Paperback
     isbn: 9780811222990
     publication_date: 2014-05-27T15:10:00-04:00
-    cover_image_path: Ballad_Peckham_Rye.jpg
+    cover_image: /images/Ballad_Peckham_Rye.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811221337
     publication_date: 2014-05-27T15:10:00-04:00
-    cover_image_path: Ballad_Peckham_Rye.jpg
+    cover_image: /images/Ballad_Peckham_Rye.jpg
     forsale: false
     saleprice:
     shipping_charge:

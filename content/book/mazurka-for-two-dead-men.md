@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811212779
     publication_date: 1994-09-01T05:00:11-04:00
-    cover_image_path: Mazurka_For_Two_Dead_Men.jpg
+    cover_image: /images/Mazurka_For_Two_Dead_Men.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811212229
     publication_date: 1994-09-01T05:00:11-04:00
-    cover_image_path: Mazurka_For_Two_Dead_Men.jpg
+    cover_image: /images/Mazurka_For_Two_Dead_Men.jpg
     forsale: false
     saleprice:
     shipping_charge:

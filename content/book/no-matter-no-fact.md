@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811210409
     publication_date: 1988-03-01T06:00:00-04:00
-    cover_image_path: No_Matter_No_Fact.jpg
+    cover_image: /images/No_Matter_No_Fact.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811210393
     publication_date: 1988-03-01T06:00:00-04:00
-    cover_image_path: No_Matter_No_Fact.jpg
+    cover_image: /images/No_Matter_No_Fact.jpg
     forsale: true
     saleprice:
     shipping_charge:

@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811217927
     publication_date: 1996-11-01T06:00:50-04:00
-    cover_image_path: onewayticket.jpg
+    cover_image: /images/onewayticket.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811213417
     publication_date: 1996-11-01T06:00:50-04:00
-    cover_image_path: onewayticket.jpg
+    cover_image: /images/onewayticket.jpg
     forsale: false
     saleprice:
     shipping_charge:

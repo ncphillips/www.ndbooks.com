@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811216296
     publication_date: 2006-06-01T05:00:25-04:00
-    cover_image_path: The_Art_Lover.jpg
+    cover_image: /images/The_Art_Lover.jpg
     forsale: false
     saleprice:
     shipping_charge:

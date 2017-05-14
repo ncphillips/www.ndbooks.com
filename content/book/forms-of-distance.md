@@ -13,13 +13,13 @@ translators:
   - contributor/david-hinton.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Clothbound
     isbn: 9780811212663
     publication_date: 1994-06-01T05:00:58-04:00
-    cover_image_path: Forms_Of_Distance.jpg
+    cover_image: /images/Forms_Of_Distance.jpg
     forsale: false
     saleprice:
     shipping_charge:

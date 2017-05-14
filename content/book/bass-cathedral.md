@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "The Great American Jazz Novel by Nathaniel Mackey, winner of the 2006 National Book Award "
 editions:
   - binding: Paperback
     isbn: 9780811217200
     publication_date: 2008-01-01T06:00:00-04:00
-    cover_image_path: Bass_Cathedral.jpg
+    cover_image: /images/Bass_Cathedral.jpg
     forsale: false
     saleprice:
     shipping_charge:

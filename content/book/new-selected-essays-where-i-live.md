@@ -14,13 +14,13 @@ translators:
 editors:
 contributors:
   - contributor/john-lahr.md
-featured_image_path:
+featured_image:
 description: "Tennessee Williams' witty, engaging, and elegant essays are now available in a revised and much expanded edition. "
 editions:
   - binding: Paperback
     isbn: 9780811217286
     publication_date: 2009-04-01T05:00:00-04:00
-    cover_image_path: Where_I_Live.jpg
+    cover_image: /images/Where_I_Live.jpg
     forsale: true
     saleprice:
     shipping_charge:

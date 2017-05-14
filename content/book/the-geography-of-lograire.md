@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811200981
     publication_date: 1969-10-01T05:00:00-04:00
-    cover_image_path: The_Geography_Of_Lograire.jpg
+    cover_image: /images/The_Geography_Of_Lograire.jpg
     forsale: false
     saleprice:
     shipping_charge:

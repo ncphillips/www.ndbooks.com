@@ -14,13 +14,13 @@ translators:
   - contributor/paul-wilson.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Wonderful stories of Communist Prague by _the masterly Bohumil Hrabal_ (The New Yorker) "
 editions:
   - binding: Paperback
     isbn: 9780811224802
     publication_date: 2015-10-27T04:00:00-04:00
-    cover_image_path: /uploads/hrabal_cover.jpg
+    cover_image: /images/hrabal_cover.jpg
     forsale: false
     saleprice:
     shipping_charge:

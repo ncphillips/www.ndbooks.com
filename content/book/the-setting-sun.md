@@ -13,13 +13,13 @@ translators:
   - contributor/donald-keene.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811200325
     publication_date: 1968-10-01T05:00:00-04:00
-    cover_image_path: The_Setting_Sun.jpg
+    cover_image: /images/The_Setting_Sun.jpg
     forsale: false
     saleprice:
     shipping_charge:

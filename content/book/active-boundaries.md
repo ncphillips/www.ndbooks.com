@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A poet's prosebook, a hymn to the art of the word, here is Palmer's first collection of essays and talks "
 editions:
   - binding: Paperback
     isbn: 9780811217545
     publication_date: 2008-08-01T05:00:22-04:00
-    cover_image_path: Active_Boundaries.jpg
+    cover_image: /images/Active_Boundaries.jpg
     forsale: false
     saleprice:
     shipping_charge:

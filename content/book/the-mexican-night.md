@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811200431
     publication_date: 1970-10-01T05:00:50-04:00
-    cover_image_path: The_Mexican_Night.jpg
+    cover_image: /images/The_Mexican_Night.jpg
     forsale: false
     saleprice:
     shipping_charge:

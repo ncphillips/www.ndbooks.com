@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811212069
     publication_date: 1992-06-01T05:00:24-04:00
-    cover_image_path: Fifty_Stories.jpg
+    cover_image: /images/Fifty_Stories.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -13,13 +13,13 @@ translators:
   - contributor/sawako-nakayasu.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Winner of a PEN Translation Fund Award: A lyrical, supercharged, dizzying collection in a unique bilingual format: like two halves of the walnut, the English text meets the Japanese half-way "
 editions:
   - binding: Paperback
     isbn: 9780811217484
     publication_date: 2008-06-01T05:00:00-04:00
-    cover_image_path: For_The_Fighting_Spirit_Of_The_Walnut.jpg
+    cover_image: /images/For_The_Fighting_Spirit_Of_The_Walnut.jpg
     forsale: true
     saleprice:
     shipping_charge:

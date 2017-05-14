@@ -13,13 +13,13 @@ translators:
   - contributor/constance-garnett.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A macabre tale and hilarious tale of a Christmas Eve with the devil and a romantic twist. "
 editions:
   - binding: Paperback
     isbn: 9780811219471
     publication_date: 2011-10-28T14:28:00-04:00
-    cover_image_path: The_Night_Before_Christmas_978-0-8112-1947-1.jpg
+    cover_image: /images/The_Night_Before_Christmas_978-0-8112-1947-1.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811219693
     publication_date: 2011-10-28T14:28:00-04:00
-    cover_image_path: The_Night_Before_Christmas_978-0-8112-1947-1.jpg
+    cover_image: /images/The_Night_Before_Christmas_978-0-8112-1947-1.jpg
     forsale: true
     saleprice:
     shipping_charge:

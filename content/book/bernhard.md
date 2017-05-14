@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811216807
     publication_date: 2006-11-01T06:00:05-04:00
-    cover_image_path: bernhard.JPG
+    cover_image: /images/bernhard.JPG
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811213899
     publication_date: 2006-11-01T06:00:05-04:00
-    cover_image_path: bernhard.JPG
+    cover_image: /images/bernhard.JPG
     forsale: false
     saleprice:
     shipping_charge:

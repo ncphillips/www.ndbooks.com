@@ -14,13 +14,13 @@ translators:
 editors:
   - contributor/benjamin-moser.md
 contributors:
-featured_image_path:
+featured_image:
 description: "In English for the first time. "
 editions:
   - binding: Paperback
     isbn: 9780811219624
     publication_date: 2012-06-13T20:03:00-04:00
-    cover_image_path: A-Breath-of-Life.jpg
+    cover_image: /images/A-Breath-of-Life.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Ebook
     isbn: 9780811220705
     publication_date: 2012-06-13T20:03:00-04:00
-    cover_image_path: A-Breath-of-Life.jpg
+    cover_image: /images/A-Breath-of-Life.jpg
     forsale: true
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Thalia Field’s third book with New Directions is a tour de force of blending literary genres (poetry, prose, essay, and drama) and examining our control of the natural world. "
 editions:
   - binding: Paperback
     isbn: 9780811218405
     publication_date: 2010-04-01T05:00:00-04:00
-    cover_image_path: /uploads/Field_%20Bird%20Lovers%2C%20Backyard.jpg
+    cover_image: /images/Field_%20Bird%20Lovers%2C%20Backyard.jpg
     forsale: true
     saleprice:
     shipping_charge:

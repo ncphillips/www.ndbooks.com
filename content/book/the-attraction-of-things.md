@@ -13,13 +13,13 @@ translators:
   - contributor/rachel-careau.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Stunning fragments that offer an epiphany of grace and beauty "
 editions:
   - binding: Paperback
     isbn: 9780811225205
     publication_date: 2016-11-01T04:00:00-04:00
-    cover_image_path: /uploads/LeWinter_attraction_to_size.tiff
+    cover_image: /images/LeWinter_attraction_to_size.tiff
     forsale: true
     saleprice:
     shipping_charge:

@@ -13,13 +13,13 @@ translators:
   - contributor/margaret-jull-costa.md
 editors:
 contributors:
-featured_image_path: /uploads/eca_house_cover.tif
+featured_image: /images/eca_house_cover.tif
 description: "In a brilliant new translation, a wonderful novel by Eça de Queirós: “Portugal’s greatest novelist” (José Saramago) "
 editions:
   - binding: Paperback
     isbn: 9780811226028
     publication_date: 2017-05-23T04:00:00-04:00
-    cover_image_path: /uploads/eca_house_cover.tif
+    cover_image: /images/eca_house_cover.tif
     forsale: false
     saleprice:
     shipping_charge:

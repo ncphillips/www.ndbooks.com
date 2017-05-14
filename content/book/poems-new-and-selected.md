@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811213752
     publication_date: 1998-06-01T05:00:08-04:00
-    cover_image_path: Poems_New_and_Selected_JL.jpeg
+    cover_image: /images/Poems_New_and_Selected_JL.jpeg
     forsale: false
     saleprice:
     shipping_charge:

@@ -13,13 +13,13 @@ translators:
   - contributor/richard-howard.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811217637
     publication_date: 1996-09-01T05:00:39-04:00
-    cover_image_path: Annam.jpg
+    cover_image: /images/Annam.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811213301
     publication_date: 1996-09-01T05:00:39-04:00
-    cover_image_path: Annam.jpg
+    cover_image: /images/Annam.jpg
     forsale: false
     saleprice:
     shipping_charge:

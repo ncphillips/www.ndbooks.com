@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "The definitive new edition of Thomas’s famous radio play "
 editions:
   - binding: Paperback
     isbn: 9780811220927
     publication_date: 2013-07-15T15:18:00-04:00
-    cover_image_path: Under_Milkwood.jpg
+    cover_image: /images/Under_Milkwood.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811221979
     publication_date: 2013-07-15T15:18:00-04:00
-    cover_image_path: Under_Milkwood.jpg
+    cover_image: /images/Under_Milkwood.jpg
     forsale: false
     saleprice:
     shipping_charge:

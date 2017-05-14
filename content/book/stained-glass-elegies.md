@@ -14,13 +14,13 @@ translators:
   - contributor/van-c.-gessel.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811211420
     publication_date: 1992-04-01T05:59:02-04:00
-    cover_image_path: Stained_Glass_Elegies.jpg
+    cover_image: /images/Stained_Glass_Elegies.jpg
     forsale: false
     saleprice:
     shipping_charge:

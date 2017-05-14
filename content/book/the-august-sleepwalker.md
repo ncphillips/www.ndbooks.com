@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811211321
     publication_date: 1990-04-01T06:00:54-04:00
-    cover_image_path: The_August_Sleepwalker.jpg
+    cover_image: /images/The_August_Sleepwalker.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811211314
     publication_date: 1990-04-01T06:00:54-04:00
-    cover_image_path: The_August_Sleepwalker.jpg
+    cover_image: /images/The_August_Sleepwalker.jpg
     forsale: false
     saleprice:
     shipping_charge:

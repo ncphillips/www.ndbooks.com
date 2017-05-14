@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Rivka Galchen’s Little Labors is a droll and dazzling compendium of observations, stories, lists, and brief essays about babies and literature "
 editions:
   - binding: Clothbound
     isbn: 9780811225588
     publication_date: 2016-05-17T04:00:00-04:00
-    cover_image_path: /uploads/jsjeetUZRjfn0iE5wUvPLvd7656yWoQ446enYXLXqo8.jpeg
+    cover_image: /images/jsjeetUZRjfn0iE5wUvPLvd7656yWoQ446enYXLXqo8.jpeg
     forsale: true
     saleprice:
     shipping_charge:

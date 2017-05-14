@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811214544
     publication_date: 2000-10-01T05:00:47-04:00
-    cover_image_path: Minding_The_Darkness_.jpg
+    cover_image: /images/Minding_The_Darkness_.jpg
     forsale: false
     saleprice:
     shipping_charge:

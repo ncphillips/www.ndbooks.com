@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Now in paperback, three early stories about myth, power, and sex by the acclaimed author of _The Flamethrowers_ "
 editions:
   - binding: Paperback
     isbn: 9780811225533
     publication_date: 2016-09-06T04:00:00-04:00
-    cover_image_path: /uploads/kushner_strange_case_cover.jpg
+    cover_image: /images/kushner_strange_case_cover.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811224215
     publication_date: 2016-09-06T04:00:00-04:00
-    cover_image_path: /uploads/kushner_strange_case.jpg
+    cover_image: /images/kushner_strange_case.jpg
     forsale: true
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811208055
     publication_date: 1982-01-01T06:00:00-04:00
-    cover_image_path: The_Selected_Poetry_Of_Vicente_Huidobro.jpg
+    cover_image: /images/The_Selected_Poetry_Of_Vicente_Huidobro.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811208048
     publication_date: 1982-01-01T06:00:00-04:00
-    cover_image_path: The_Selected_Poetry_Of_Vicente_Huidobro.jpg
+    cover_image: /images/The_Selected_Poetry_Of_Vicente_Huidobro.jpg
     forsale: true
     saleprice:
     shipping_charge:

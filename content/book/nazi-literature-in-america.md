@@ -14,13 +14,13 @@ translators:
   - contributor/chris-andrews.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A tour de force of black humor, Nazi Literature in the Americas, one of Roberto Bolaño's most popular books, is now available as a paperback. "
 editions:
   - binding: Paperback
     isbn: 9780811217941
     publication_date: 2009-05-01T05:00:00-04:00
-    cover_image_path: NaziLiterature_In_the_Americas.jpg
+    cover_image: /images/NaziLiterature_In_the_Americas.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811217057
     publication_date: 2009-05-01T05:00:00-04:00
-    cover_image_path: NaziLiterature_In_the_Americas.jpg
+    cover_image: /images/NaziLiterature_In_the_Americas.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -42,7 +42,7 @@ editions:
   - binding: Ebook
     isbn: 9780811220569
     publication_date: 2009-05-01T05:00:00-04:00
-    cover_image_path: NaziLiterature_In_the_Americas.jpg
+    cover_image: /images/NaziLiterature_In_the_Americas.jpg
     forsale: false
     saleprice:
     shipping_charge:

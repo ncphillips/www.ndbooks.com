@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811201803
     publication_date: 1971-06-01T05:00:45-04:00
-    cover_image_path: One_Hundred_Poems_From_The_Chinese.jpg
+    cover_image: /images/One_Hundred_Poems_From_The_Chinese.jpg
     forsale: false
     saleprice:
     shipping_charge:

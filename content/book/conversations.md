@@ -13,13 +13,13 @@ translators:
   - contributor/katherine-silver.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A cerebral and wildly funny story revolving around the incongruity of a gold Rolex watch spotted on a lowly goatherd’s wrist "
 editions:
   - binding: Paperback
     isbn: 9780811221108
     publication_date: 2014-06-26T14:09:00-04:00
-    cover_image_path: Conversations.jpg
+    cover_image: /images/Conversations.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811221115
     publication_date: 2014-06-26T14:09:00-04:00
-    cover_image_path: Conversations.jpg
+    cover_image: /images/Conversations.jpg
     forsale: false
     saleprice:
     shipping_charge:

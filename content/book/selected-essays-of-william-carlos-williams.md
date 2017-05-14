@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811202350
     publication_date: 1969-03-01T06:00:43-04:00
-    cover_image_path: Selected_Essays_of_Williams_Carlos_Williams_.jpg
+    cover_image: /images/Selected_Essays_of_Williams_Carlos_Williams_.jpg
     forsale: false
     saleprice:
     shipping_charge:

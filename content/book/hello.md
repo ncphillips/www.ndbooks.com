@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811206754
     publication_date: 1978-03-01T06:00:00-04:00
-    cover_image_path: Hello.jpg
+    cover_image: /images/Hello.jpg
     forsale: false
     saleprice:
     shipping_charge:

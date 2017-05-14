@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A brand spanking new collection, _Works and Days_ is classic Bernadette Mayer: fresh, learned, exciting, and endlessly surprising "
 editions:
   - binding: Paperback
     isbn: 9780811225175
     publication_date: 2016-06-28T04:00:00-04:00
-    cover_image_path: /uploads/9780811225175.jpg
+    cover_image: /images/9780811225175.jpg
     forsale: true
     saleprice:
     shipping_charge:

@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A collection of F. Scott Fitzgerald's best drinking stories makes this our most intoxicating Pearl yet! "
 editions:
   - binding: Paperback
     isbn: 9780811219266
     publication_date: 2011-06-29T14:51:00-04:00
-    cover_image_path: onbooze.JPG
+    cover_image: /images/onbooze.JPG
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811219334
     publication_date: 2011-06-29T14:51:00-04:00
-    cover_image_path: onbooze.JPG
+    cover_image: /images/onbooze.JPG
     forsale: false
     saleprice:
     shipping_charge:

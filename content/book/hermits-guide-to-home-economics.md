@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Poetry Pamphlet 20 "
 editions:
   - binding: Paperback
     isbn: 9780811223294
     publication_date: 2015-04-07T14:52:00-04:00
-    cover_image_path: /uploads/Hermits_guide.jpg
+    cover_image: /images/Hermits_guide.jpg
     forsale: true
     saleprice:
     shipping_charge:

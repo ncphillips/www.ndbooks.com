@@ -13,13 +13,13 @@ translators:
   - contributor/ottilie-mulzet.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "The latest novel from “the contemporary Hungarian master of the apocalypse” (Susan Sontag) "
 editions:
   - binding: Paperback
     isbn: 9780811219679
     publication_date: 2013-09-24T16:26:00-04:00
-    cover_image_path: seiobo_there_below.jpg
+    cover_image: /images/seiobo_there_below.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811221191
     publication_date: 2013-09-24T16:26:00-04:00
-    cover_image_path: seiobo_there_below.jpg
+    cover_image: /images/seiobo_there_below.jpg
     forsale: true
     saleprice:
     shipping_charge:

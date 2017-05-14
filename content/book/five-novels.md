@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811207997
     publication_date: 1981-05-01T05:00:56-04:00
-    cover_image_path: Five_Novels.jpg
+    cover_image: /images/Five_Novels.jpg
     forsale: false
     saleprice:
     shipping_charge:

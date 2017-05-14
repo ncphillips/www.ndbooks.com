@@ -13,13 +13,13 @@ translators:
   - contributor/alastair-mcewen.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Compressed, delicate, but brutally precise, SS Proleterka is a fierce coming-of-age story. "
 editions:
   - binding: Paperback
     isbn: 9780811215503
     publication_date: 2003-11-01T06:00:49-04:00
-    cover_image_path: S._S._Proleterka.jpg
+    cover_image: /images/S._S._Proleterka.jpg
     forsale: false
     saleprice:
     shipping_charge:

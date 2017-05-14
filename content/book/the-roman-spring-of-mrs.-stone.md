@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811212496
     publication_date: 2013-09-01T05:00:00-04:00
-    cover_image_path: /uploads/roman_spring_cover_rev.jpg
+    cover_image: /images/roman_spring_cover_rev.jpg
     forsale: true
     saleprice:
     shipping_charge:

@@ -14,13 +14,13 @@ translators:
 editors:
   - contributor/richard-sieburth.md
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811216470
     publication_date: 2005-12-01T05:59:59-04:00
-    cover_image_path: Ezra_Pound_Father_and_Teacher.jpg
+    cover_image: /images/Ezra_Pound_Father_and_Teacher.jpg
     forsale: false
     saleprice:
     shipping_charge:

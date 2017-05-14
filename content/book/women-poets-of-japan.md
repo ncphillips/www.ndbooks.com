@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811208208
     publication_date: 1982-02-01T06:00:00-04:00
-    cover_image_path: Women_Poets_Of_Japan.jpg
+    cover_image: /images/Women_Poets_Of_Japan.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811223874
     publication_date: 1982-02-01T06:00:00-04:00
-    cover_image_path: Women_Poets_Of_Japan.jpg
+    cover_image: /images/Women_Poets_Of_Japan.jpg
     forsale: true
     saleprice:
     shipping_charge:

@@ -14,13 +14,13 @@ translators:
   - contributor/susan-bernofsky.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A gorgeous collection of fantastic and dreamlike tales by one of the world's most innovative contemporary writers "
 editions:
   - binding: Paperback
     isbn: 9780811217026
     publication_date: 2002-10-01T05:00:00-04:00
-    cover_image_path: whereeuropebegins.JPG
+    cover_image: /images/whereeuropebegins.JPG
     forsale: true
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811215152
     publication_date: 2002-10-01T05:00:00-04:00
-    cover_image_path: whereeuropebegins.JPG
+    cover_image: /images/whereeuropebegins.JPG
     forsale: true
     saleprice:
     shipping_charge:
@@ -42,7 +42,7 @@ editions:
   - binding: Ebook
     isbn: 9780811223515
     publication_date: 2002-10-01T05:00:00-04:00
-    cover_image_path: whereeuropebegins.JPG
+    cover_image: /images/whereeuropebegins.JPG
     forsale: true
     saleprice:
     shipping_charge:

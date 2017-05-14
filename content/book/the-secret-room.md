@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811213448
     publication_date: 1997-04-01T06:00:02-04:00
-    cover_image_path: The_Secret_Room.jpg
+    cover_image: /images/The_Secret_Room.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811213431
     publication_date: 1997-04-01T06:00:02-04:00
-    cover_image_path: The_Secret_Room.jpg
+    cover_image: /images/The_Secret_Room.jpg
     forsale: false
     saleprice:
     shipping_charge:

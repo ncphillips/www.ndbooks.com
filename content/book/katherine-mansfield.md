@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811208345
     publication_date: 1978-04-01T06:00:40-04:00
-    cover_image_path: Katherine_Mansfield.jpg
+    cover_image: /images/Katherine_Mansfield.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811207515
     publication_date: 1978-04-01T06:00:40-04:00
-    cover_image_path: Katherine_Mansfield.jpg
+    cover_image: /images/Katherine_Mansfield.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "From Japan to Vietnam to Amsterdam to the Canary Islands, these three new tales by master storyteller Yoko Tawada float between cultures, identities, and the dreamwork of the imagination "
 editions:
   - binding: Paperback
     isbn: 9780811216906
     publication_date: 2007-05-01T05:00:00-04:00
-    cover_image_path: Facing_The_Bridge.jpg
+    cover_image: /images/Facing_The_Bridge.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811223492
     publication_date: 2007-05-01T05:00:00-04:00
-    cover_image_path: Facing_The_Bridge.jpg
+    cover_image: /images/Facing_The_Bridge.jpg
     forsale: true
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811210911
     publication_date: 1989-06-01T05:00:00-04:00
-    cover_image_path: Soulstorm.jpg
+    cover_image: /images/Soulstorm.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811210904
     publication_date: 1989-06-01T05:00:00-04:00
-    cover_image_path: Soulstorm.jpg
+    cover_image: /images/Soulstorm.jpg
     forsale: true
     saleprice:
     shipping_charge:

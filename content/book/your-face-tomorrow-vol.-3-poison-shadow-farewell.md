@@ -13,13 +13,13 @@ translators:
   - contributor/margaret-jull-costa.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "The triumphant conclusion of Javier Marias's masterpiece Your Face Tomorrow is at last available as a paperback. "
 editions:
   - binding: Paperback
     isbn: 9780811219242
     publication_date: 2009-11-01T05:00:00-04:00
-    cover_image_path: Your_Face_Tomorrow_vol_3_.jpg
+    cover_image: /images/Your_Face_Tomorrow_vol_3_.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811218122
     publication_date: 2009-11-01T05:00:00-04:00
-    cover_image_path: Your_Face_Tomorrow_vol_3_.jpg
+    cover_image: /images/Your_Face_Tomorrow_vol_3_.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -41,7 +41,7 @@ editions:
   - binding: Ebook
     isbn: 9780811223911
     publication_date: 2009-11-01T05:00:00-04:00
-    cover_image_path: Your_Face_Tomorrow_vol_3_.jpg
+    cover_image: /images/Your_Face_Tomorrow_vol_3_.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -13,13 +13,13 @@ translators:
   - contributor/jonathan-cohen.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811206778
     publication_date: 1978-03-01T06:00:00-04:00
-    cover_image_path: TheDark_Room.jpg
+    cover_image: /images/TheDark_Room.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811206761
     publication_date: 1978-03-01T06:00:00-04:00
-    cover_image_path: TheDark_Room.jpg
+    cover_image: /images/TheDark_Room.jpg
     forsale: false
     saleprice:
     shipping_charge:

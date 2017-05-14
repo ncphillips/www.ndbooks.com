@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811213363
     publication_date: 1996-10-01T05:00:50-04:00
-    cover_image_path: A_Balance_of_Quinces.jpg
+    cover_image: /images/A_Balance_of_Quinces.jpg
     forsale: false
     saleprice:
     shipping_charge:

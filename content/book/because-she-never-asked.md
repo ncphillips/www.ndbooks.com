@@ -13,13 +13,13 @@ translators:
   - contributor/valerie-miles.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A novella–half jokes and half nightmare–by “Spain's most significant contemporary literary figure” (_The New Yorker_) "
 editions:
   - binding: Paperback
     isbn: 9780811222754
     publication_date: 2015-11-10T05:00:00-04:00
-    cover_image_path: /uploads/because_she_never_cover.jpg
+    cover_image: /images/because_she_never_cover.jpg
     forsale: true
     saleprice:
     shipping_charge:

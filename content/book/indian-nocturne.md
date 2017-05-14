@@ -13,13 +13,13 @@ translators:
   - contributor/tim-parks.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811210805
     publication_date: 1989-03-01T06:00:00-04:00
-    cover_image_path: Indian_Nocturne.jpg
+    cover_image: /images/Indian_Nocturne.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811221443
     publication_date: 1989-03-01T06:00:00-04:00
-    cover_image_path: Indian_Nocturne.jpg
+    cover_image: /images/Indian_Nocturne.jpg
     forsale: true
     saleprice:
     shipping_charge:

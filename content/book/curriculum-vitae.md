@@ -13,13 +13,13 @@ translators:
   - contributor/peter-cole.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Curriculum Vitae shows Yoel Hoffmann – _Israel's celebrated avant-garde genius_ (Forward) – flying all his colors, in a highly autobiographical work. "
 editions:
   - binding: Paperback
     isbn: 9780811218320
     publication_date: 2009-07-01T05:00:00-04:00
-    cover_image_path: Curriculum_vitae_yoel.JPG
+    cover_image: /images/Curriculum_vitae_yoel.JPG
     forsale: false
     saleprice:
     shipping_charge:

@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811201087
     publication_date: 1962-03-01T06:00:00-04:00
-    cover_image_path: The_Books_In_My_Life.jpg
+    cover_image: /images/The_Books_In_My_Life.jpg
     forsale: true
     saleprice:
     shipping_charge:

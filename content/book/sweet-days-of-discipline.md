@@ -13,13 +13,13 @@ translators:
   - contributor/tim-parks.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "**_Dipped in the blue ink of adolescence, Fleur Jaeggy's pen is an engraver's needle depicting roots, twigs, and branches of the tree of madness, growing in the splendid isolation of the small Swiss garden of knowledge into full leaf until it obscures every perspective. Extraordinary prose. Reading time is approximately four hours. Remembering time, as for its author: the rest of one's life._—Joseph Brodsky** "
 editions:
   - binding: Paperback
     isbn: 9780811212359
     publication_date: 1993-05-01T05:00:00-04:00
-    cover_image_path: Sweet_Days_Of_Discipline.jpg
+    cover_image: /images/Sweet_Days_Of_Discipline.jpg
     forsale: true
     saleprice:
     shipping_charge:

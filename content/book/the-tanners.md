@@ -13,13 +13,13 @@ translators:
   - contributor/susan-bernofsky.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "_The Tanners_ is the first major novel by the great Robert Walser to appear in English "
 editions:
   - binding: Paperback
     isbn: 9780811215893
     publication_date: 2010-05-01T05:00:00-04:00
-    cover_image_path: The_Tanners.jpg
+    cover_image: /images/The_Tanners.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811221320
     publication_date: 2010-05-01T05:00:00-04:00
-    cover_image_path: The_Tanners.jpg
+    cover_image: /images/The_Tanners.jpg
     forsale: true
     saleprice:
     shipping_charge:

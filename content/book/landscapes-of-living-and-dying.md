@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811207423
     publication_date: 1979-11-01T06:00:00-04:00
-    cover_image_path: Landscapes_Of_Living__Dying.jpg
+    cover_image: /images/Landscapes_Of_Living__Dying.jpg
     forsale: false
     saleprice:
     shipping_charge:

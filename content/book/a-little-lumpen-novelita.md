@@ -13,13 +13,13 @@ translators:
   - contributor/natasha-wimmer.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Published in Spain just before Bolaño's death, _A Little Lumpen Novelita_ percolates with a fierce and tender love of women "
 editions:
   - binding: Paperback
     isbn: 9780811225151
     publication_date: 2016-03-21T04:00:00-04:00
-    cover_image_path: /uploads/A%20LITTLE%20LUMPEN%20NOVELITA.tif
+    cover_image: /images/A%20LITTLE%20LUMPEN%20NOVELITA.tif
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811223355
     publication_date: 2016-03-21T04:00:00-04:00
-    cover_image_path: /uploads/lumpen_revised_cover_small.jpg
+    cover_image: /images/lumpen_revised_cover_small.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -41,7 +41,7 @@ editions:
   - binding: Ebook
     isbn: 9780811223362
     publication_date: 2016-03-21T04:00:00-04:00
-    cover_image_path: lumpen_revised_cover_small.jpg
+    cover_image: /images/lumpen_revised_cover_small.jpg
     forsale: false
     saleprice:
     shipping_charge:

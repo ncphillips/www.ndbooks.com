@@ -14,13 +14,13 @@ translators:
 editors:
   - contributor/edmund-wilson.md
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811218207
     publication_date: 2009-02-01T06:00:00-04:00
-    cover_image_path: The_Crack-Up.jpg
+    cover_image: /images/The_Crack-Up.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Ebook
     isbn: 9780811219716
     publication_date: 2009-02-01T06:00:00-04:00
-    cover_image_path: The_Crack-Up.jpg
+    cover_image: /images/The_Crack-Up.jpg
     forsale: false
     saleprice:
     shipping_charge:

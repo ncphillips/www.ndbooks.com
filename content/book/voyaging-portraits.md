@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811210614
     publication_date: 1988-04-01T06:00:00-04:00
-    cover_image_path: Voyaging_Portraits.jpg
+    cover_image: /images/Voyaging_Portraits.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A novel about a mysterious love triangle and the almost mythological power of eros—and its potentially lethal danger. "
 editions:
   - binding: Paperback
     isbn: 9780811222709
     publication_date: 2015-02-10T15:45:00-04:00
-    cover_image_path: /uploads/love_hotel.jpg
+    cover_image: /images/love_hotel.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn:
     publication_date: 2015-02-10T15:45:00-04:00
-    cover_image_path: love_hotel.jpg
+    cover_image: /images/love_hotel.jpg
     forsale: true
     saleprice:
     shipping_charge:

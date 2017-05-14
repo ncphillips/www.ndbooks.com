@@ -14,13 +14,13 @@ translators:
   - contributor/michael-hulse.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Scathingly clever short stories. Includes _The Devil in the White House_ and _The Development of Iraq as a Case for the Files._ "
 editions:
   - binding: Paperback
     isbn: 9780811217361
     publication_date: 2007-09-01T05:00:00-04:00
-    cover_image_path: The_Devils_Blind_Spot_2.jpg
+    cover_image: /images/The_Devils_Blind_Spot_2.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811215954
     publication_date: 2007-09-01T05:00:00-04:00
-    cover_image_path: The_Devils_Blind_Spot_2.jpg
+    cover_image: /images/The_Devils_Blind_Spot_2.jpg
     forsale: true
     saleprice:
     shipping_charge:

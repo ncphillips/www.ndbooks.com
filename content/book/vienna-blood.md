@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811207591
     publication_date: 1980-05-01T05:00:00-04:00
-    cover_image_path: Vienna_Blood.jpg
+    cover_image: /images/Vienna_Blood.jpg
     forsale: false
     saleprice:
     shipping_charge:

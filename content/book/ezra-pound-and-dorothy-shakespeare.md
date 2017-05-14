@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Clothbound
     isbn: 9780811209007
     publication_date: 1984-10-01T05:00:03-04:00
-    cover_image_path: Ezra_Pound_and_Dorothy_Shakespeare_.jpg
+    cover_image: /images/Ezra_Pound_and_Dorothy_Shakespeare_.jpg
     forsale: false
     saleprice:
     shipping_charge:

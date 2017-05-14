@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811213974
     publication_date: 1998-11-01T06:00:01-04:00
-    cover_image_path: So_There.jpg
+    cover_image: /images/So_There.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811202251
     publication_date: 1966-01-01T06:00:00-04:00
-    cover_image_path: 27_Wagons_Full_of_Cotton_.jpg
+    cover_image: /images/27_Wagons_Full_of_Cotton_.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811220804
     publication_date: 1966-01-01T06:00:00-04:00
-    cover_image_path: 27_Wagons_Full_of_Cotton_.jpg
+    cover_image: /images/27_Wagons_Full_of_Cotton_.jpg
     forsale: false
     saleprice:
     shipping_charge:

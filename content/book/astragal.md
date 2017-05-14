@@ -13,13 +13,13 @@ translators:
 editors:
 contributors:
   - contributor/patti-smith.md
-featured_image_path:
+featured_image:
 description: "As alive as a Godard movie, this lost classic of 60s French literature is back "
 editions:
   - binding: Paperback
     isbn: 9780811220736
     publication_date: 2013-03-26T17:31:00-04:00
-    cover_image_path: Astragal.jpg
+    cover_image: /images/Astragal.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811220743
     publication_date: 2013-03-26T17:31:00-04:00
-    cover_image_path: Astragal.jpg
+    cover_image: /images/Astragal.jpg
     forsale: true
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "_Robert Creeley has created a noble life body of poetry that extends the work of predecessors Pound, Williams, Zukofsky, and Olson and that provides like them a method for his successors in exploring our new American poetic consciousness._ --Allen Ginsberg "
 editions:
   - binding: Paperback
     isbn: 9780811217569
     publication_date: 2008-08-01T05:00:42-04:00
-    cover_image_path: If_I_Were_Writing_This.jpg
+    cover_image: /images/If_I_Were_Writing_This.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811215565
     publication_date: 2008-08-01T05:00:42-04:00
-    cover_image_path: If_I_Were_Writing_This.jpg
+    cover_image: /images/If_I_Were_Writing_This.jpg
     forsale: false
     saleprice:
     shipping_charge:

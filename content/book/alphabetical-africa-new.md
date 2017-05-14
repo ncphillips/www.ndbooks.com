@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "**A linguistic tour de force that “prankishly takes the reader on an intricate trek through the alphabet” (John Updike, _The New Yorker_)** "
 editions:
   - binding: Paperback
     isbn: 9780811222020
     publication_date: 2017-10-24T04:00:00-04:00
-    cover_image_path: /uploads/alphabetical_africa_front_cover.tif
+    cover_image: /images/alphabetical_africa_front_cover.tif
     forsale: false
     saleprice:
     shipping_charge:

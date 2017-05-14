@@ -14,13 +14,13 @@ translators:
   - contributor/frances-riddle.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Obsession and mastery in their purest states: the story of one dancer's attempt to win the biggest contest of his life "
 editions:
   - binding: Paperback
     isbn: 9780811226004
     publication_date: 2017-02-07T05:00:00-04:00
-    cover_image_path: /uploads/guerriero_simple_story_cover.jpg
+    cover_image: /images/guerriero_simple_story_cover.jpg
     forsale: true
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 978-0-8112-1104-8
     publication_date: 1973-12-16T20:55:00-04:00
-    cover_image_path: From_Snow_And_Rock.jpg
+    cover_image: /images/From_Snow_And_Rock.jpg
     forsale: false
     saleprice:
     shipping_charge:

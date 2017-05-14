@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811213691
     publication_date: 1997-11-01T06:00:11-04:00
-    cover_image_path: Selected_Poems._Charles_Tomlinson_.jpg
+    cover_image: /images/Selected_Poems._Charles_Tomlinson_.jpg
     forsale: false
     saleprice:
     shipping_charge:

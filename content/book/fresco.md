@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811215114
     publication_date: 2002-04-01T06:00:49-04:00
-    cover_image_path: Fresco.jpg
+    cover_image: /images/Fresco.jpg
     forsale: false
     saleprice:
     shipping_charge:

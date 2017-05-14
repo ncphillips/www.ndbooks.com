@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "The new, authoritative edition of _A_: the monumental lifepoem by one of the most important American poets of the twentieth century, Louis Zukofsky. "
 editions:
   - binding: Paperback
     isbn: 9780811218719
     publication_date: 2011-01-01T06:00:00-04:00
-    cover_image_path: A.JPG
+    cover_image: /images/A.JPG
     forsale: false
     saleprice:
     shipping_charge:

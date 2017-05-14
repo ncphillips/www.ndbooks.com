@@ -16,13 +16,13 @@ contributors:
   - contributor/irving-howe.md
 
   - contributor/lou-reed.md
-featured_image_path:
+featured_image:
 description: "A new edition of the definitive book on the depression-era immigrant experience in New York City. "
 editions:
   - binding: Paperback
     isbn: 9780811220033
     publication_date: 2012-06-14T20:29:00-04:00
-    cover_image_path: In_Dreams_Begin.jpg
+    cover_image: /images/In_Dreams_Begin.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -33,7 +33,7 @@ editions:
   - binding: Ebook
     isbn: 9780811220217
     publication_date: 2012-06-14T20:29:00-04:00
-    cover_image_path: In_Dreams_Begin.jpg
+    cover_image: /images/In_Dreams_Begin.jpg
     forsale: true
     saleprice:
     shipping_charge:

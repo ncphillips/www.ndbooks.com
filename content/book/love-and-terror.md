@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811208413
     publication_date: 1982-11-01T06:00:08-04:00
-    cover_image_path: Love_And_Terror.jpg
+    cover_image: /images/Love_And_Terror.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811207911
     publication_date: 1982-11-01T06:00:08-04:00
-    cover_image_path: Love_And_Terror.jpg
+    cover_image: /images/Love_And_Terror.jpg
     forsale: false
     saleprice:
     shipping_charge:

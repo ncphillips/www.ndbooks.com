@@ -13,13 +13,13 @@ translators:
   - contributor/margaret-jull-costa.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A literary mystery about cooking and gourmands by one of Brazil's most popular authors -- and a New York Public Library _Book to Remember_ "
 editions:
   - binding: Paperback
     isbn: 9780811217552
     publication_date: 2008-06-01T05:00:55-04:00
-    cover_image_path: The_Club_Of_Angels_.jpg
+    cover_image: /images/The_Club_Of_Angels_.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811215008
     publication_date: 2008-06-01T05:00:55-04:00
-    cover_image_path: The_Club_Of_Angels_.jpg
+    cover_image: /images/The_Club_Of_Angels_.jpg
     forsale: false
     saleprice:
     shipping_charge:

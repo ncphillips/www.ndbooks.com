@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811209380
     publication_date: 1985-04-01T06:00:00-04:00
-    cover_image_path: Asphalt_Georgics.jpg
+    cover_image: /images/Asphalt_Georgics.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811209373
     publication_date: 1985-04-01T06:00:00-04:00
-    cover_image_path: Asphalt_Georgics.jpg
+    cover_image: /images/Asphalt_Georgics.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -13,13 +13,13 @@ translators:
   - contributor/liz-werner.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "The first major collection in almost twenty years of new work by one of Latin America's greatest poets. "
 editions:
   - binding: Paperback
     isbn: 9780811215978
     publication_date: 2004-09-01T05:00:00-04:00
-    cover_image_path: Antipoems_How_To_Look_Better__Feel_Great_.jpg
+    cover_image: /images/Antipoems_How_To_Look_Better__Feel_Great_.jpg
     forsale: false
     saleprice:
     shipping_charge:

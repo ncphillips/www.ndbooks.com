@@ -13,13 +13,13 @@ translators:
   - contributor/susan-bernofsky.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "_Memoirs of a Polar Bear_ stars three generations of talented writers and performers—who happen to be polar bears "
 editions:
   - binding: Paperback
     isbn: 9780811225786
     publication_date: 2016-11-08T05:00:00-04:00
-    cover_image_path: /uploads/bear_cover_draft_rev.jpg
+    cover_image: /images/bear_cover_draft_rev.jpg
     forsale: true
     saleprice:
     shipping_charge:

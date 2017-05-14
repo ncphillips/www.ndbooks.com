@@ -13,13 +13,13 @@ translators:
   - contributor/margaret-mitsutani.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A bizarre tale of passion and romance between a schoolteacher and a dog "
 editions:
   - binding: Paperback
     isbn: 9780811220378
     publication_date: 2012-11-07T16:16:00-04:00
-    cover_image_path: Bridegroom_was_a_Dog.jpg
+    cover_image: /images/Bridegroom_was_a_Dog.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811220606
     publication_date: 2012-11-07T16:16:00-04:00
-    cover_image_path: Bridegroom_was_a_Dog.jpg
+    cover_image: /images/Bridegroom_was_a_Dog.jpg
     forsale: true
     saleprice:
     shipping_charge:

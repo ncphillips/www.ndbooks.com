@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811217774
     publication_date: 1980-03-01T06:00:01-04:00
-    cover_image_path: Shadows_And_Wolves.jpg
+    cover_image: /images/Shadows_And_Wolves.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811207584
     publication_date: 1980-03-01T06:00:01-04:00
-    cover_image_path: Shadows_And_Wolves.jpg
+    cover_image: /images/Shadows_And_Wolves.jpg
     forsale: false
     saleprice:
     shipping_charge:

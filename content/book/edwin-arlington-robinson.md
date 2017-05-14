@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811202411
     publication_date: 1971-01-01T06:00:11-04:00
-    cover_image_path: Edwin_Arlington_Robinson.jpg
+    cover_image: /images/Edwin_Arlington_Robinson.jpg
     forsale: false
     saleprice:
     shipping_charge:

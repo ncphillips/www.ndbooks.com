@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811200318
     publication_date: 1963-01-01T06:00:02-04:00
-    cover_image_path: Virginia_Woolf.jpg
+    cover_image: /images/Virginia_Woolf.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -14,13 +14,13 @@ translators:
 editors:
 contributors:
   - contributor/john-waters.md
-featured_image_path:
+featured_image:
 description: "For the _old crocodile,_ as Williams called himself late in life, the past was always present, and so it is with his continual shifting and intermingling of times, places, and memories as he weaves this story. "
 editions:
   - binding: Paperback
     isbn: 9780811216692
     publication_date: 2007-10-01T05:00:00-04:00
-    cover_image_path: Memoirs.jpg
+    cover_image: /images/Memoirs.jpg
     forsale: false
     saleprice:
     shipping_charge:

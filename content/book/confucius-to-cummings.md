@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811201551
     publication_date: 1964-11-01T05:00:00-04:00
-    cover_image_path: Confucius_To_Cummings.jpg
+    cover_image: /images/Confucius_To_Cummings.jpg
     forsale: true
     saleprice:
     shipping_charge:

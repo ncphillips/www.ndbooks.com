@@ -13,13 +13,13 @@ translators:
   - contributor/katherine-silver.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A high-octane paranoia deranges a writer and fuels a dangerous plan to return home to El Salvador at the tail end of its long civil war. "
 editions:
   - binding: Paperback
     isbn: 9780811223430
     publication_date: 2015-03-10T14:41:00-04:00
-    cover_image_path: /uploads/castellanos_moya_dream_cover.jpg
+    cover_image: /images/castellanos_moya_dream_cover.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811223447
     publication_date: 2015-03-10T14:41:00-04:00
-    cover_image_path: castellanos_moya_dream_cover.jpg
+    cover_image: /images/castellanos_moya_dream_cover.jpg
     forsale: true
     saleprice:
     shipping_charge:

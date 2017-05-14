@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811205368
     publication_date: 1974-10-01T05:00:47-04:00
-    cover_image_path: Manual_Labor.jpg
+    cover_image: /images/Manual_Labor.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811205351
     publication_date: 1974-10-01T05:00:47-04:00
-    cover_image_path: Manual_Labor.jpg
+    cover_image: /images/Manual_Labor.jpg
     forsale: false
     saleprice:
     shipping_charge:

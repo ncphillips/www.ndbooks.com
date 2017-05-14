@@ -13,13 +13,13 @@ translators:
 editors:
 contributors:
   - contributor/harold-bloom.md
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811221726
     publication_date: 2014-01-29T21:23:00-04:00
-    cover_image_path: Invention_of_Influence.jpg
+    cover_image: /images/Invention_of_Influence.jpg
     forsale: true
     saleprice:
     shipping_charge:

@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811211680
     publication_date: 1991-06-01T05:00:24-04:00
-    cover_image_path: Fabricating_Lives.jpg
+    cover_image: /images/Fabricating_Lives.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -13,13 +13,13 @@ translators:
   - contributor/marian-schwartz.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811217651
     publication_date: 1999-11-01T06:00:37-04:00
-    cover_image_path: Cape_of_Storms_.jpg
+    cover_image: /images/Cape_of_Storms_.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811214162
     publication_date: 1999-11-01T06:00:37-04:00
-    cover_image_path: Cape_of_Storms_.jpg
+    cover_image: /images/Cape_of_Storms_.jpg
     forsale: false
     saleprice:
     shipping_charge:

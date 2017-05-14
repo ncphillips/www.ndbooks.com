@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811201544
     publication_date: 1969-10-01T05:00:00-04:00
-    cover_image_path: Confucius.jpg
+    cover_image: /images/Confucius.jpg
     forsale: true
     saleprice:
     shipping_charge:

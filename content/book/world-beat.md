@@ -12,13 +12,13 @@ translators:
 editors:
   - contributor/eliot-weinberger.md
 contributors:
-featured_image_path:
+featured_image:
 description: "A celebration of contemporary poetry from around the world. "
 editions:
   - binding: Paperback
     isbn: 9780811216517
     publication_date: 2006-04-01T06:00:28-04:00
-    cover_image_path: World_Beat.jpg
+    cover_image: /images/World_Beat.jpg
     forsale: false
     saleprice:
     shipping_charge:

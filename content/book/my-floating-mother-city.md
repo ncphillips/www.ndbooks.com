@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Exciting new work from one of Japan's most acclaimed living poets. "
 editions:
   - binding: Paperback
     isbn: 9780811217965
     publication_date: 2009-01-01T06:00:00-04:00
-    cover_image_path: /uploads/Shiraishi_%20My%20Floating%20Mother%2C%20City_.jpg
+    cover_image: /images/Shiraishi_%20My%20Floating%20Mother%2C%20City_.jpg
     forsale: true
     saleprice:
     shipping_charge:

@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811217781
     publication_date: 1990-06-01T05:00:13-04:00
-    cover_image_path: Confessions_of_a_Literary_Archaelogist.jpg
+    cover_image: /images/Confessions_of_a_Literary_Archaelogist.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811211307
     publication_date: 1990-06-01T05:00:13-04:00
-    cover_image_path: Confessions_of_a_Literary_Archaelogist.jpg
+    cover_image: /images/Confessions_of_a_Literary_Archaelogist.jpg
     forsale: false
     saleprice:
     shipping_charge:

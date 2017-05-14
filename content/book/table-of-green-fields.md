@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811217712
     publication_date: 1993-11-01T06:00:35-04:00
-    cover_image_path: tableofgreenfields.jpg
+    cover_image: /images/tableofgreenfields.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811212519
     publication_date: 1993-11-01T06:00:35-04:00
-    cover_image_path: tableofgreenfields.jpg
+    cover_image: /images/tableofgreenfields.jpg
     forsale: false
     saleprice:
     shipping_charge:

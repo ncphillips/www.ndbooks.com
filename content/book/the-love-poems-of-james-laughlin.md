@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811213875
     publication_date: 1993-09-01T05:00:00-04:00
-    cover_image_path: The_Love_Poems_Of_James_Laughlin.jpg
+    cover_image: /images/The_Love_Poems_Of_James_Laughlin.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811213608
     publication_date: 1993-09-01T05:00:00-04:00
-    cover_image_path: The_Love_Poems_Of_James_Laughlin.jpg
+    cover_image: /images/The_Love_Poems_Of_James_Laughlin.jpg
     forsale: false
     saleprice:
     shipping_charge:

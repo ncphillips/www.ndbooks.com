@@ -14,13 +14,13 @@ translators:
 editors:
 contributors:
   - contributor/prince-ilango-adigal.md
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811200011
     publication_date: 1964-04-01T06:00:57-04:00
-    cover_image_path: Shilappadikaram_.jpg
+    cover_image: /images/Shilappadikaram_.jpg
     forsale: false
     saleprice:
     shipping_charge:

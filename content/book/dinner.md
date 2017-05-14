@@ -13,13 +13,13 @@ translators:
   - contributor/katherine-silver.md
 editors:
 contributors:
-featured_image_path: /uploads/dinner_cover.jpg
+featured_image: /images/dinner_cover.jpg
 description: "Was it a nightmare–the result of bad indigestion–or did something truly scary happen after dinner in the Argentine town of Coronel Pringles? "
 editions:
   - binding: Paperback
     isbn: 9780811221085
     publication_date: 2015-10-06T04:00:00-04:00
-    cover_image_path: /uploads/dinner_cover.jpg
+    cover_image: /images/dinner_cover.jpg
     forsale: false
     saleprice:
     shipping_charge:

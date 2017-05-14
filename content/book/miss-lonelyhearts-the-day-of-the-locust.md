@@ -13,13 +13,13 @@ translators:
 editors:
 contributors:
   - contributor/jonathan-lethem.md
-featured_image_path:
+featured_image:
 description: "Two great works of American literature in one volume, reissued here with a new introduction by Jonathan Lethem "
 editions:
   - binding: Paperback
     isbn: 9780811218221
     publication_date: 2009-06-01T05:00:00-04:00
-    cover_image_path: Miss_Lonelyhearts__The_Day_Of_The_Locust.jpg
+    cover_image: /images/Miss_Lonelyhearts__The_Day_Of_The_Locust.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811219389
     publication_date: 2009-06-01T05:00:00-04:00
-    cover_image_path: Miss_Lonelyhearts__The_Day_Of_The_Locust.jpg
+    cover_image: /images/Miss_Lonelyhearts__The_Day_Of_The_Locust.jpg
     forsale: false
     saleprice:
     shipping_charge:

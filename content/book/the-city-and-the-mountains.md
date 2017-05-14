@@ -13,13 +13,13 @@ translators:
   - contributor/margaret-jull-costa.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Eça de Queirós's late novel is a hymn to country life: The City and The Mountains satirizes the emptiness of city life and of modernity itself. Wonderfully funny, it bubbles with joie de vivre. "
 editions:
   - binding: Paperback
     isbn: 9780811217019
     publication_date: 2008-09-01T05:00:20-04:00
-    cover_image_path: The_City_And_The_Mountains.jpg
+    cover_image: /images/The_City_And_The_Mountains.jpg
     forsale: false
     saleprice:
     shipping_charge:

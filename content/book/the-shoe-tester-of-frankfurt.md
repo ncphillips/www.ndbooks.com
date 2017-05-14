@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "This brief and poignant novel from Germany explores existential questions as its 46-year-old narrator reflects on broken relationships and other failures, and struggles to come to terms with life. "
 editions:
   - binding: Paperback
     isbn: 9780811215831
     publication_date: 2006-06-01T05:00:27-04:00
-    cover_image_path: The_Shoe_Tester_Of_Frankfurt.jpg
+    cover_image: /images/The_Shoe_Tester_Of_Frankfurt.jpg
     forsale: false
     saleprice:
     shipping_charge:

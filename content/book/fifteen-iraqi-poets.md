@@ -12,13 +12,13 @@ translators:
 editors:
   - contributor/dunya-mikhail.md
 contributors:
-featured_image_path:
+featured_image:
 description: "A dazzling collection of contemporary Iraqi poetry "
 editions:
   - binding: Paperback
     isbn: 9780811221795
     publication_date: 2013-11-29T20:44:00-04:00
-    cover_image_path: 15_Iraqi_Poets.jpg
+    cover_image: /images/15_Iraqi_Poets.jpg
     forsale: true
     saleprice:
     shipping_charge:

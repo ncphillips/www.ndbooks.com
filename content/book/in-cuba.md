@@ -13,13 +13,13 @@ translators:
   - contributor/donald-d.-walsh.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811205382
     publication_date: 1974-10-01T05:00:00-04:00
-    cover_image_path: In_Cuba.jpg
+    cover_image: /images/In_Cuba.jpg
     forsale: false
     saleprice:
     shipping_charge:

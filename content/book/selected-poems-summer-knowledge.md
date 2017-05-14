@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811201919
     publication_date: 1967-06-01T04:59:00-04:00
-    cover_image_path: Selected_Poems_Delmore_Schwartz.jpg
+    cover_image: /images/Selected_Poems_Delmore_Schwartz.jpg
     forsale: false
     saleprice:
     shipping_charge:

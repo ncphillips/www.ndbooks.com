@@ -13,13 +13,13 @@ translators:
   - contributor/margaret-jull-costa.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "An unflinching portrait of a priest who seduces his landlady's daughter. "
 editions:
   - binding: Paperback
     isbn: 9780811215329
     publication_date: 2003-05-01T05:00:30-04:00
-    cover_image_path: The_Crime_Of_Father_Amaro.jpg
+    cover_image: /images/The_Crime_Of_Father_Amaro.jpg
     forsale: false
     saleprice:
     shipping_charge:

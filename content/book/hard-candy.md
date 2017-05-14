@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811202213
     publication_date: 1967-06-01T05:00:36-04:00
-    cover_image_path: Hard_Candy.jpg
+    cover_image: /images/Hard_Candy.jpg
     forsale: false
     saleprice:
     shipping_charge:

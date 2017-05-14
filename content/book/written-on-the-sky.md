@@ -13,13 +13,13 @@ translators:
 editors:
   - contributor/eliot-weinberger.md
 contributors:
-featured_image_path:
+featured_image:
 description: "A lovely gift edition of the best classic Japanese haiku, incomparably translated by Kenneth Rexroth. "
 editions:
   - binding: Paperback
     isbn: 9780811218375
     publication_date: 2009-04-01T05:00:00-04:00
-    cover_image_path: Written_On_the_Sky.jpg
+    cover_image: /images/Written_On_the_Sky.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811223942
     publication_date: 2009-04-01T05:00:00-04:00
-    cover_image_path: Written_On_the_Sky.jpg
+    cover_image: /images/Written_On_the_Sky.jpg
     forsale: true
     saleprice:
     shipping_charge:

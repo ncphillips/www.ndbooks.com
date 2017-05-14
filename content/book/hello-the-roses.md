@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "American poet Mei-mei Berssenbrugge makes her New Directions debut with this breathtaking new collection "
 editions:
   - binding: Paperback
     isbn: 9780811220910
     publication_date: 2013-04-24T14:38:00-04:00
-    cover_image_path: Hello_the_Roses.jpg
+    cover_image: /images/Hello_the_Roses.jpg
     forsale: false
     saleprice:
     shipping_charge:

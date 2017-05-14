@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811217873
     publication_date: 1992-04-01T06:00:46-04:00
-    cover_image_path: On_the_Air_With_Dylan_Thomas_.jpg
+    cover_image: /images/On_the_Air_With_Dylan_Thomas_.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811212090
     publication_date: 1992-04-01T06:00:46-04:00
-    cover_image_path: On_the_Air_With_Dylan_Thomas_.jpg
+    cover_image: /images/On_the_Air_With_Dylan_Thomas_.jpg
     forsale: false
     saleprice:
     shipping_charge:

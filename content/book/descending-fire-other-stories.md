@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Clothbound
     isbn: 9780811212
     publication_date: 1994-09-17T06:00:36-04:00
-    cover_image_path: Descending_Fire_And_Other_Stories.jpg
+    cover_image: /images/Descending_Fire_And_Other_Stories.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -14,13 +14,13 @@ translators:
   - contributor/margaret-jull-costa.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A dozen unforgettable stories by _one of the most original writers at work today_ (Wyatt Mason, The New York Times Book Review). "
 editions:
   - binding: Paperback
     isbn: 9780811219143
     publication_date: 2012-11-29T05:00:00-04:00
-    cover_image_path: whilethewomenaresleeping.JPG
+    cover_image: /images/whilethewomenaresleeping.JPG
     forsale: false
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811216630
     publication_date: 2012-11-29T05:00:00-04:00
-    cover_image_path: whilethewomenaresleeping.JPG
+    cover_image: /images/whilethewomenaresleeping.JPG
     forsale: false
     saleprice:
     shipping_charge:
@@ -42,7 +42,7 @@ editions:
   - binding: Ebook
     isbn: 9780811219358
     publication_date: 2012-11-29T05:00:00-04:00
-    cover_image_path: whilethewomenaresleeping.JPG
+    cover_image: /images/whilethewomenaresleeping.JPG
     forsale: false
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811210089
     publication_date: 1986-11-01T06:00:38-04:00
-    cover_image_path: House_Of_Children.jpg
+    cover_image: /images/House_Of_Children.jpg
     forsale: false
     saleprice:
     shipping_charge:

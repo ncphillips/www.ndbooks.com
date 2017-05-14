@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811211789
     publication_date: 1991-10-01T05:00:00-04:00
-    cover_image_path: Flower_Wreath_Hill.jpg
+    cover_image: /images/Flower_Wreath_Hill.jpg
     forsale: true
     saleprice:
     shipping_charge:

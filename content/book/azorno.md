@@ -13,13 +13,13 @@ translators:
   - contributor/denise-newman.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A novel about literature, love, and their elusiveness by one of Denmark's greatest living writers. "
 editions:
   - binding: Paperback
     isbn: 9780811216579
     publication_date: 2009-07-01T05:00:27-04:00
-    cover_image_path: Azorno.jpg
+    cover_image: /images/Azorno.jpg
     forsale: false
     saleprice:
     shipping_charge:

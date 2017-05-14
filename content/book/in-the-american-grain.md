@@ -14,13 +14,13 @@ translators:
 editors:
 contributors:
   - contributor/rick-moody.md
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811218498
     publication_date: 2009-10-01T04:59:00-04:00
-    cover_image_path: In_The_American_Grain.jpg
+    cover_image: /images/In_The_American_Grain.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Ebook
     isbn: 9780811221054
     publication_date: 2009-10-01T04:59:00-04:00
-    cover_image_path: In_The_American_Grain.jpg
+    cover_image: /images/In_The_American_Grain.jpg
     forsale: false
     saleprice:
     shipping_charge:

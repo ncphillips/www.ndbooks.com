@@ -13,13 +13,13 @@ translators:
   - contributor/michael-hofmann1.md
 editors:
 contributors:
-featured_image_path: /uploads/Roth-People-on-Sunday-1200.jpg
+featured_image: /images/Roth-People-on-Sunday-1200.jpg
 description: "The first overview of all Joseph Roth's journalism: traveling across a Europe in crisis, he declares, _I am a hotel citizen, a hotel patriot_ "
 editions:
   - binding: Paperback
     isbn: 978081122487
     publication_date: 2015-09-29T04:00:00-04:00
-    cover_image_path: /uploads/roth_hotel_cover.jpg
+    cover_image: /images/roth_hotel_cover.jpg
     forsale: false
     saleprice:
     shipping_charge:

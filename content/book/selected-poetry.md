@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811217811
     publication_date: 1993-09-01T05:00:06-04:00
-    cover_image_path: Selected_Poetry._Hugh_MacDiarmid_.jpg
+    cover_image: /images/Selected_Poetry._Hugh_MacDiarmid_.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811212489
     publication_date: 1993-09-01T05:00:06-04:00
-    cover_image_path: Selected_Poetry._Hugh_MacDiarmid_.jpg
+    cover_image: /images/Selected_Poetry._Hugh_MacDiarmid_.jpg
     forsale: false
     saleprice:
     shipping_charge:

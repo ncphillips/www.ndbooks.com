@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811215756
     publication_date: 2004-04-01T06:00:00-04:00
-    cover_image_path: Winter_Poems_Along_The_Rio_Grande.jpg
+    cover_image: /images/Winter_Poems_Along_The_Rio_Grande.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811223409
     publication_date: 2004-04-01T06:00:00-04:00
-    cover_image_path: Winter_Poems_Along_The_Rio_Grande.jpg
+    cover_image: /images/Winter_Poems_Along_The_Rio_Grande.jpg
     forsale: false
     saleprice:
     shipping_charge:

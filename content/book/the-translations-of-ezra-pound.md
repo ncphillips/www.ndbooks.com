@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811201643
     publication_date: 1964-02-01T06:00:49-04:00
-    cover_image_path: Ezra_Pound_Translations.jpg
+    cover_image: /images/Ezra_Pound_Translations.jpg
     forsale: false
     saleprice:
     shipping_charge:

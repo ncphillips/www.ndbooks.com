@@ -14,13 +14,13 @@ translators:
   - contributor/jeffrey-yang-author-page.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A magical, impressionistic autobiography by China's legendary poet Bei Dao "
 editions:
   - binding: Paperback
     isbn: 9780811226431
     publication_date: 2017-04-25T04:00:00-04:00
-    cover_image_path: /uploads/Screen%20Shot%202016-12-02%20at%2010.04.38%20AM.png
+    cover_image: /images/Screen%20Shot%202016-12-02%20at%2010.04.38%20AM.png
     forsale: true
     saleprice:
     shipping_charge:

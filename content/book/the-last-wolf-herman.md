@@ -15,13 +15,13 @@ translators:
   - contributor/john-batki.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Two short masterworks by the most recent winner of the Man Booker International Prize: here, in miniature, is every reason why he won "
 editions:
   - binding: Clothbound
     isbn: 9780811226080
     publication_date: 2016-09-27T04:00:00-04:00
-    cover_image_path: /uploads/LZ2.gif
+    cover_image: /images/LZ2.gif
     forsale: true
     saleprice:
     shipping_charge:

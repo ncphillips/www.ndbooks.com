@@ -13,13 +13,13 @@ translators:
 editors:
   - contributor/richard-sieburth.md
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811216463
     publication_date: 2005-12-01T06:00:51-04:00
-    cover_image_path: The_Spirit_Of_Romance.jpg
+    cover_image: /images/The_Spirit_Of_Romance.jpg
     forsale: false
     saleprice:
     shipping_charge:

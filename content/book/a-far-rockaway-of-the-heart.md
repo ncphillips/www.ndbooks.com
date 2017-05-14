@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811213981
     publication_date: 1998-05-01T05:00:30-04:00
-    cover_image_path: A_Far_Rockaway_Of_The_Heart.jpg
+    cover_image: /images/A_Far_Rockaway_Of_The_Heart.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811213479
     publication_date: 1998-05-01T05:00:30-04:00
-    cover_image_path: A_Far_Rockaway_Of_The_Heart.jpg
+    cover_image: /images/A_Far_Rockaway_Of_The_Heart.jpg
     forsale: false
     saleprice:
     shipping_charge:

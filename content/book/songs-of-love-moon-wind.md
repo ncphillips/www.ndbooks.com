@@ -13,13 +13,13 @@ translators:
 editors:
   - contributor/eliot-weinberger.md
 contributors:
-featured_image_path:
+featured_image:
 description: "A beautiful gift edition of Chinese poems about love, meditation, and reveries in the midst of nature, in Kenneth Rexroth's classic translations. "
 editions:
   - binding: Paperback
     isbn: 9780811218368
     publication_date: 2009-04-01T05:00:00-04:00
-    cover_image_path: /uploads/Songs%20of%20Love%2C%20Moon%2C%20and%20Wind.jpg
+    cover_image: /images/Songs%20of%20Love%2C%20Moon%2C%20and%20Wind.jpg
     forsale: true
     saleprice:
     shipping_charge:

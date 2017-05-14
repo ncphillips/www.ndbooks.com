@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811223171
     publication_date: 2014-06-25T14:20:00-04:00
-    cover_image_path: web_carson.jpg
+    cover_image: /images/web_carson.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding:
     isbn:
     publication_date: 2014-06-25T14:20:00-04:00
-    cover_image_path: web_carson.jpg
+    cover_image: /images/web_carson.jpg
     forsale: true
     saleprice:
     shipping_charge:

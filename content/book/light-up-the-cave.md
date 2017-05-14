@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811208141
     publication_date: 1982-01-01T06:00:52-04:00
-    cover_image_path: Light_Up_The_Cave.jpg
+    cover_image: /images/Light_Up_The_Cave.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811208130
     publication_date: 1982-01-01T06:00:52-04:00
-    cover_image_path: Light_Up_The_Cave.jpg
+    cover_image: /images/Light_Up_The_Cave.jpg
     forsale: false
     saleprice:
     shipping_charge:

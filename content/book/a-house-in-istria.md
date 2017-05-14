@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A wild and quixotic novel about real estate, marriage, and obsession. "
 editions:
   - binding: Paperback
     isbn: 9780811216975
     publication_date: 2007-06-01T05:00:26-04:00
-    cover_image_path: A_House_In_Istria.jpg
+    cover_image: /images/A_House_In_Istria.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811215015
     publication_date: 2007-06-01T05:00:26-04:00
-    cover_image_path: A_House_In_Istria.jpg
+    cover_image: /images/A_House_In_Istria.jpg
     forsale: false
     saleprice:
     shipping_charge:

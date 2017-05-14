@@ -13,13 +13,13 @@ translators:
   - contributor/susan-bernofsky.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Yoko Tawada's first novel in English: a suspenseful tale of abduction, obsession, and lost identity that spans Vietnam, East Berlin, West German, Paris – and fantasies of Catherine Deneuve. "
 editions:
   - binding: Paperback
     isbn: 9780811217392
     publication_date: 2009-05-01T05:00:00-04:00
-    cover_image_path: The_Naked_Eye.jpg
+    cover_image: /images/The_Naked_Eye.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811223508
     publication_date: 2009-05-01T05:00:00-04:00
-    cover_image_path: The_Naked_Eye.jpg
+    cover_image: /images/The_Naked_Eye.jpg
     forsale: true
     saleprice:
     shipping_charge:

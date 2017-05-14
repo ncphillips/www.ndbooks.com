@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Five long poems "
 editions:
   - binding: Paperback
     isbn: 978-0-8112-0016-5
     publication_date: 1970-06-16T21:12:13-04:00
-    cover_image_path: For_You.jpg
+    cover_image: /images/For_You.jpg
     forsale: false
     saleprice:
     shipping_charge:

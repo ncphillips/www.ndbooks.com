@@ -13,13 +13,13 @@ translators:
 editors:
 contributors:
   - contributor/willis-barnstone.md
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811204491
     publication_date: 1972-10-01T05:00:39-04:00
-    cover_image_path: St_John_of_the_Cross.JPG
+    cover_image: /images/St_John_of_the_Cross.JPG
     forsale: false
     saleprice:
     shipping_charge:

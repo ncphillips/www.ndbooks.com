@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811218979
     publication_date: 1952-01-01T06:00:00-04:00
-    cover_image_path: loveisapie_.jpg
+    cover_image: /images/loveisapie_.jpg
     forsale: false
     saleprice:
     shipping_charge:

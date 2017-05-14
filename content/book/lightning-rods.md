@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "The long-awaited second novel by the author of _The Last Samurai_. "
 editions:
   - binding: Paperback
     isbn: 9780811220347
     publication_date: 2012-10-05T14:28:00-04:00
-    cover_image_path: Lightning_Rods_PB.jpg
+    cover_image: /images/Lightning_Rods_PB.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811219433
     publication_date: 2012-10-05T14:28:00-04:00
-    cover_image_path: Lightning_Rods_PB.jpg
+    cover_image: /images/Lightning_Rods_PB.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -40,7 +40,7 @@ editions:
   - binding: Ebook
     isbn: 9780811219525
     publication_date: 2012-10-05T14:28:00-04:00
-    cover_image_path: Lightning_Rods_PB.jpg
+    cover_image: /images/Lightning_Rods_PB.jpg
     forsale: false
     saleprice:
     shipping_charge:

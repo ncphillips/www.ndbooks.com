@@ -13,13 +13,13 @@ translators:
   - contributor/j-keith-vincent.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A suspenseful early novella about obsession, voyeurism, and Tokyo's seedy criminal underworld "
 editions:
   - binding: Clothbound
     isbn: 9780811224918
     publication_date: 2017-04-25T23:00:00-04:00
-    cover_image_path: /uploads/tanizaki_devils_in_daylight_jacket.jpg
+    cover_image: /images/tanizaki_devils_in_daylight_jacket.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -13,13 +13,13 @@ translators:
   - contributor/alfred-macadam.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "_Anyone who doesn't read Cortazar is doomed._ --Pablo Neruda "
 editions:
   - binding: Paperback
     isbn: 9780811217521
     publication_date: 2008-07-01T04:59:00-04:00
-    cover_image_path: Final_Exam.jpg
+    cover_image: /images/Final_Exam.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811214179
     publication_date: 2008-07-01T04:59:00-04:00
-    cover_image_path: Final_Exam.jpg
+    cover_image: /images/Final_Exam.jpg
     forsale: false
     saleprice:
     shipping_charge:

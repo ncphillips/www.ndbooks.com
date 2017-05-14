@@ -13,13 +13,13 @@ translators:
   - contributor/eliot-weinberger.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "The definitive, life spanning, bilingual edition of the poems by the Nobel Prize-winner "
 editions:
   - binding: Clothbound
     isbn: 9780811220439
     publication_date: 2012-10-23T18:54:00-04:00
-    cover_image_path: Poems_of_Octavio_Paz.jpg
+    cover_image: /images/Poems_of_Octavio_Paz.jpg
     forsale: true
     saleprice:
     shipping_charge:

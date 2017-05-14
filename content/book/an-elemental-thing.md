@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "In a new cycle of linked nonfiction prose-pieces, Eliot Weinberger creates another _vortex for the entire universe._ (Boston Review) "
 editions:
   - binding: Paperback
     isbn: 9780811216944
     publication_date: 2007-05-01T05:00:00-04:00
-    cover_image_path: /uploads/Elemental%20Thing_Weinberger.jpg
+    cover_image: /images/Elemental%20Thing_Weinberger.jpg
     forsale: true
     saleprice:
     shipping_charge:

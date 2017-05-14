@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Clothbound
     isbn: 9780811213677
     publication_date: 1997-09-01T05:00:20-04:00
-    cover_image_path: Opento_The_Public.jpg
+    cover_image: /images/Opento_The_Public.jpg
     forsale: false
     saleprice:
     shipping_charge:

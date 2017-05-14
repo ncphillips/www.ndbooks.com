@@ -14,13 +14,13 @@ translators:
   - contributor/michael-hofmann1.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "**A masterful new translation by Michael Hofmann of Kafka’s best short fiction** "
 editions:
   - binding: Paperback
     isbn: 9780811226899
     publication_date: 2017-05-23T04:00:00-04:00
-    cover_image_path: /uploads/kafka_investigations_of_a_dog_cover.jpg
+    cover_image: /images/kafka_investigations_of_a_dog_cover.jpg
     forsale: false
     saleprice:
     shipping_charge:

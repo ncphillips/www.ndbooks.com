@@ -14,13 +14,13 @@ translators:
   - contributor/chris-andrews.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A trove of strange, arresting, short masterworks – five stories and two essays – by Roberto Bolaño, a writer who pulls bloodthirsty rabbits out of his hat "
 editions:
   - binding: Paperback
     isbn: 9780811219068
     publication_date: 2010-08-30T14:28:00-04:00
-    cover_image_path: Insufferable_Gaucho.jpg
+    cover_image: /images/Insufferable_Gaucho.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811217163
     publication_date: 2010-08-30T14:28:00-04:00
-    cover_image_path: Insufferable_Gaucho.jpg
+    cover_image: /images/Insufferable_Gaucho.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -42,7 +42,7 @@ editions:
   - binding: Ebook
     isbn: 9780811220538
     publication_date: 2010-08-30T14:28:00-04:00
-    cover_image_path: Insufferable_Gaucho.jpg
+    cover_image: /images/Insufferable_Gaucho.jpg
     forsale: false
     saleprice:
     shipping_charge:

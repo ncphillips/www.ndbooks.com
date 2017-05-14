@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Clothbound
     isbn: 9780811202831
     publication_date: 1969-10-01T05:00:00-04:00
-    cover_image_path: Selected_Poems_Guillevic.jpg
+    cover_image: /images/Selected_Poems_Guillevic.jpg
     forsale: true
     saleprice:
     shipping_charge:

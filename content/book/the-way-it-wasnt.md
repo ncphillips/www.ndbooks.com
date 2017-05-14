@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Lavishly illustrated, The Way It Wasn't offers an intimate firsthand encounter with 20th-century Modernism, from the extraordinary man who defined it for America. "
 editions:
   - binding: Paperback
     isbn: 9780811216678
     publication_date: 2007-11-01T05:00:21-04:00
-    cover_image_path: The_Way_It_Wasnt_2.jpg
+    cover_image: /images/The_Way_It_Wasnt_2.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811216760
     publication_date: 2007-11-01T05:00:21-04:00
-    cover_image_path: The_Way_It_Wasnt_2.jpg
+    cover_image: /images/The_Way_It_Wasnt_2.jpg
     forsale: false
     saleprice:
     shipping_charge:

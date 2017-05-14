@@ -15,13 +15,13 @@ translators:
 editors:
 contributors:
   - contributor/tibor-dery.md
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811216258
     publication_date: 2005-06-01T05:00:00-04:00
-    cover_image_path: Love_And_Other_Stories.jpg
+    cover_image: /images/Love_And_Other_Stories.jpg
     forsale: true
     saleprice:
     shipping_charge:

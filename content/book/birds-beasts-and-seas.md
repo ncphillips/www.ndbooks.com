@@ -13,13 +13,13 @@ translators:
 editors:
   - contributor/jeffrey-yang-author-page.md
 contributors:
-featured_image_path:
+featured_image:
 description: "A rich, delicious treasury of nature poems from around the world — from the pastoral beauty of ancient times to the modern era’s destruction of living things. "
 editions:
   - binding: Paperback
     isbn: 9780811219198
     publication_date: 2011-04-29T14:28:45-04:00
-    cover_image_path: birds-beasts-seas-nature-poems-jeffrey-yang-paperback-cover-art.jpg
+    cover_image: /images/birds-beasts-seas-nature-poems-jeffrey-yang-paperback-cover-art.jpg
     forsale: false
     saleprice:
     shipping_charge:

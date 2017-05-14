@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A book of prose poems by one of America's premier philosophical poets. "
 editions:
   - binding: Paperback
     isbn: 9780811215596
     publication_date: 2003-11-01T06:00:04-04:00
-    cover_image_path: Blindsight.jpg
+    cover_image: /images/Blindsight.jpg
     forsale: false
     saleprice:
     shipping_charge:

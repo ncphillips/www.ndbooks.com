@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811214865
     publication_date: 2001-09-01T05:00:20-04:00
-    cover_image_path: Torn_Awake.jpg
+    cover_image: /images/Torn_Awake.jpg
     forsale: false
     saleprice:
     shipping_charge:

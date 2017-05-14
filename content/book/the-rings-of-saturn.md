@@ -13,13 +13,13 @@ translators:
   - contributor/michael-hulse.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811226158
     publication_date: 2016-11-08T05:00:00-04:00
-    cover_image_path: /uploads/rings_to_size.tif
+    cover_image: /images/rings_to_size.tif
     forsale: true
     saleprice:
     shipping_charge:

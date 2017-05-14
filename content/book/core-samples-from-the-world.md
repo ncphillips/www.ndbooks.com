@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811218870
     publication_date: 2011-06-08T14:28:54-04:00
-    cover_image_path: coresamplesfromtheworld.JPG
+    cover_image: /images/coresamplesfromtheworld.JPG
     forsale: false
     saleprice:
     shipping_charge:

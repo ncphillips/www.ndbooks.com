@@ -22,13 +22,13 @@ translators:
 editors:
   - contributor/eliot-weinberger.md
 contributors:
-featured_image_path:
+featured_image:
 description: "Modern American poets translate classical Chinese poetry. "
 editions:
   - binding: Paperback
     isbn: 9780811216050
     publication_date: 2003-04-01T06:00:31-04:00
-    cover_image_path: ndanthologyclassicalchinese.JPG
+    cover_image: /images/ndanthologyclassicalchinese.JPG
     forsale: false
     saleprice:
     shipping_charge:
@@ -39,7 +39,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811215404
     publication_date: 2003-04-01T06:00:31-04:00
-    cover_image_path: ndanthologyclassicalchinese.JPG
+    cover_image: /images/ndanthologyclassicalchinese.JPG
     forsale: false
     saleprice:
     shipping_charge:

@@ -14,13 +14,13 @@ translators:
   - contributor/eliot-weinberger.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Seven lectures from seven nights given by Borges in 1977. "
 editions:
   - binding: Paperback
     isbn: 9780811218382
     publication_date: 2009-07-01T05:00:00-04:00
-    cover_image_path: Seven_Nights.jpg
+    cover_image: /images/Seven_Nights.jpg
     forsale: false
     saleprice:
     shipping_charge:

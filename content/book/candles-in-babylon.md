@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811208314
     publication_date: 1982-05-01T05:00:25-04:00
-    cover_image_path: Candles_in_Babylon_.jpg
+    cover_image: /images/Candles_in_Babylon_.jpg
     forsale: false
     saleprice:
     shipping_charge:

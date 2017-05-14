@@ -16,13 +16,13 @@ contributors:
   - contributor/henry-miller.md
 
   - contributor/anna-della-subin.md
-featured_image_path:
+featured_image:
 description: "A family of proud layabouts star in this comic novel by the Egyptian writer known as “the Voltaire of the Nile” "
 editions:
   - binding: Paperback
     isbn: 9780811218740
     publication_date: 2013-11-19T18:06:00-04:00
-    cover_image_path: Laziness_Fertile_Valley.jpg
+    cover_image: /images/Laziness_Fertile_Valley.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -33,7 +33,7 @@ editions:
   - binding: Ebook
     isbn: 9780811219938
     publication_date: 2013-11-19T18:06:00-04:00
-    cover_image_path: Laziness_Fertile_Valley.jpg
+    cover_image: /images/Laziness_Fertile_Valley.jpg
     forsale: true
     saleprice:
     shipping_charge:

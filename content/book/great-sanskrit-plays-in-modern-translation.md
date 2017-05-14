@@ -15,13 +15,13 @@ translators:
 editors:
   - contributor/p.-lal.md
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811200790
     publication_date: 1964-07-01T05:00:26-04:00
-    cover_image_path: Great_Sanskrit_Plays_In_Modern_Translation_.jpg
+    cover_image: /images/Great_Sanskrit_Plays_In_Modern_Translation_.jpg
     forsale: false
     saleprice:
     shipping_charge:

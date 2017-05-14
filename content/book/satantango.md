@@ -13,13 +13,13 @@ translators:
   - contributor/george-szirtes.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Winner of the 2013 Best Translated Book Award "
 editions:
   - binding: Paperback
     isbn: 9780811220897
     publication_date: 2012-03-05T14:31:00-04:00
-    cover_image_path: /uploads/Satantango.png
+    cover_image: /images/Satantango.png
     forsale: true
     saleprice:
     shipping_charge:

@@ -13,13 +13,13 @@ translators:
   - contributor/donald-keene.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Mine has been a life of much shame. I can't even guess myself what it must be to live the life of a human being. "
 editions:
   - binding: Paperback
     isbn: 9780811204811
     publication_date: 1973-04-01T06:00:00-04:00
-    cover_image_path: No_Longer_Human.jpg
+    cover_image: /images/No_Longer_Human.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811220071
     publication_date: 1973-04-01T06:00:00-04:00
-    cover_image_path: No_Longer_Human.jpg
+    cover_image: /images/No_Longer_Human.jpg
     forsale: true
     saleprice:
     shipping_charge:

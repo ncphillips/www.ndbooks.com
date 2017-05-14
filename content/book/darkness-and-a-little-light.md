@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811217668
     publication_date: 1994-10-01T05:00:35-04:00
-    cover_image_path: Darkness_And_A_Little_Light.jpg
+    cover_image: /images/Darkness_And_A_Little_Light.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811212595
     publication_date: 1994-10-01T05:00:35-04:00
-    cover_image_path: Darkness_And_A_Little_Light.jpg
+    cover_image: /images/Darkness_And_A_Little_Light.jpg
     forsale: false
     saleprice:
     shipping_charge:

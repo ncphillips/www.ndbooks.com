@@ -13,13 +13,13 @@ translators:
   - contributor/nick-caistor.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "**Two completely different novellas by the inimitable César Aira** "
 editions:
   - binding: Paperback
     isbn: 9780811221122
     publication_date: 2017-05-23T04:00:00-04:00
-    cover_image_path: /uploads/aira_little%20buddhist%20monk_cover.tif
+    cover_image: /images/aira_little%20buddhist%20monk_cover.tif
     forsale: false
     saleprice:
     shipping_charge:

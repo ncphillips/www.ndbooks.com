@@ -15,13 +15,13 @@ translators:
   - contributor/susan-bernofsky.md
 editors:
 contributors:
-featured_image_path: /uploads/Klat_Rodney_Graham_Sunday_Sun_1937.jpg
+featured_image: /images/Klat_Rodney_Graham_Sunday_Sun_1937.jpg
 description: "Over 50 original full-color artworks address newly translated writings of Robert Walser "
 editions:
   - binding: Clothbound
     isbn: 9780811220996
     publication_date: 2013-04-25T17:56:00-04:00
-    cover_image_path: Little_Ramble.jpg
+    cover_image: /images/Little_Ramble.jpg
     forsale: true
     saleprice:
     shipping_charge:

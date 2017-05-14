@@ -17,13 +17,13 @@ editors:
 
   - contributor/martin-hadis.md
 contributors:
-featured_image_path:
+featured_image:
 description: "In English at last, Borges’s erudite and entertaining lectures on English literature from _Beowulf_ to Oscar Wilde "
 editions:
   - binding: Paperback
     isbn: 9780811222747
     publication_date: 2013-07-31T18:58:00-04:00
-    cover_image_path: Prof_Borges_cover_web.png
+    cover_image: /images/Prof_Borges_cover_web.png
     forsale: false
     saleprice:
     shipping_charge:
@@ -34,7 +34,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811218757
     publication_date: 2013-07-31T18:58:00-04:00
-    cover_image_path: Prof_Borges_cover_web.png
+    cover_image: /images/Prof_Borges_cover_web.png
     forsale: false
     saleprice:
     shipping_charge:
@@ -45,7 +45,7 @@ editions:
   - binding: Ebook
     isbn: 9780811221177
     publication_date: 2013-07-31T18:58:00-04:00
-    cover_image_path: Prof_Borges_cover_web.png
+    cover_image: /images/Prof_Borges_cover_web.png
     forsale: false
     saleprice:
     shipping_charge:

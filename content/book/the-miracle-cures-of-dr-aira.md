@@ -13,13 +13,13 @@ translators:
   - contributor/katherine-silver.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A poor beleagured miracle worker, scorned by skeptics, bravely decides to use his supernatural powers. "
 editions:
   - binding: Paperback
     isbn: 9780811219990
     publication_date: 2012-10-17T16:46:00-04:00
-    cover_image_path: miracle_cures_cover.jpg
+    cover_image: /images/miracle_cures_cover.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811220002
     publication_date: 2012-10-17T16:46:00-04:00
-    cover_image_path: miracle_cures_cover.jpg
+    cover_image: /images/miracle_cures_cover.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811205566
     publication_date: 1974-04-01T05:00:35-04:00
-    cover_image_path: The_Smile_At_The_Foot_Of_The_Ladder.jpg
+    cover_image: /images/The_Smile_At_The_Foot_Of_The_Ladder.jpg
     forsale: false
     saleprice:
     shipping_charge:

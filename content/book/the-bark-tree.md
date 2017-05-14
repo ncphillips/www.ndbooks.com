@@ -13,7 +13,7 @@ translators:
   - contributor/barbara-wright.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
 _slug: the-bark-tree

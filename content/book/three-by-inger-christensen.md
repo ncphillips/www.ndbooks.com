@@ -13,13 +13,13 @@ translators:
   - contributor/susanna-nied.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811218696
     publication_date: 2011-06-27T14:28:00-04:00
-    cover_image_path: /uploads/Light%20Grass%20and%20Letter%20in%20April.jpg
+    cover_image: /images/Light%20Grass%20and%20Letter%20in%20April.jpg
     forsale: true
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Now available as a paperback, the most important novel of twentieth-century Urdu fiction. "
 editions:
   - binding: Paperback
     isbn: 9780811215336
     publication_date: 2003-06-01T05:00:46-04:00
-    cover_image_path: River_Of_Fire.jpg
+    cover_image: /images/River_Of_Fire.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811214186
     publication_date: 2003-06-01T05:00:46-04:00
-    cover_image_path: River_Of_Fire.jpg
+    cover_image: /images/River_Of_Fire.jpg
     forsale: false
     saleprice:
     shipping_charge:

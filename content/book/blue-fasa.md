@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A stellar new collection of poems by “the Balanchine of the architecture dance” (_The New York Times_), and winner of the National Book Award in poetry "
 editions:
   - binding: Paperback
     isbn: 9780811224451
     publication_date: 2015-05-05T13:00:00-04:00
-    cover_image_path: /uploads/Blue%20Fasa.jpg
+    cover_image: /images/Blue%20Fasa.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -13,13 +13,13 @@ translators:
   - contributor/nancy-mitford.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811210706
     publication_date: 1988-09-01T05:00:05-04:00
-    cover_image_path: Princess_of_Cleves.jpg
+    cover_image: /images/Princess_of_Cleves.jpg
     forsale: false
     saleprice:
     shipping_charge:

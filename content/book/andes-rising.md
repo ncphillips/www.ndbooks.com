@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Clothbound
     isbn: 9780811214070
     publication_date: 1999-05-01T05:00:19-04:00
-    cover_image_path: Andes_Rising.jpg
+    cover_image: /images/Andes_Rising.jpg
     forsale: false
     saleprice:
     shipping_charge:

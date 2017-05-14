@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A beautiful anthology of poems about grief, death, and mourning "
 editions:
   - binding: Paperback
     isbn: 9780811220323
     publication_date: 2013-02-21T17:21:00-04:00
-    cover_image_path: Time_of_Grief.jpg
+    cover_image: /images/Time_of_Grief.jpg
     forsale: false
     saleprice:
     shipping_charge:

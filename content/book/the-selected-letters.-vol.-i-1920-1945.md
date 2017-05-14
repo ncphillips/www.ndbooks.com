@@ -16,13 +16,13 @@ editors:
 
   - contributor/nancy-m.-tischler.md
 contributors:
-featured_image_path:
+featured_image:
 description: "Winner of the Morton N. Cohen Award _for a distinguished edition of letters,_ Modern Language Association, 2001. "
 editions:
   - binding: Paperback
     isbn: 9780811215275
     publication_date: 2002-09-01T05:00:00-04:00
-    cover_image_path: The_Selected_Letters_Of_Tennessee_Williams_Volume_I.jpg
+    cover_image: /images/The_Selected_Letters_Of_Tennessee_Williams_Volume_I.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -33,7 +33,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811214452
     publication_date: 2002-09-01T05:00:00-04:00
-    cover_image_path: The_Selected_Letters_Of_Tennessee_Williams_Volume_I.jpg
+    cover_image: /images/The_Selected_Letters_Of_Tennessee_Williams_Volume_I.jpg
     forsale: false
     saleprice:
     shipping_charge:

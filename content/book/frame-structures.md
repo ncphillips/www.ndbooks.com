@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811213226
     publication_date: 1996-06-01T04:59:00-04:00
-    cover_image_path: Frame_Structures.jpg
+    cover_image: /images/Frame_Structures.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811223768
     publication_date: 1996-06-01T04:59:00-04:00
-    cover_image_path: Frame_Structures.jpg
+    cover_image: /images/Frame_Structures.jpg
     forsale: true
     saleprice:
     shipping_charge:

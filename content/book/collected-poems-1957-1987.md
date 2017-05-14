@@ -13,13 +13,13 @@ translators:
   - contributor/eliot-weinberger.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811211734
     publication_date: 1991-04-01T06:00:23-04:00
-    cover_image_path: collectedpaz1957-87.JPG
+    cover_image: /images/collectedpaz1957-87.JPG
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811210379
     publication_date: 1991-04-01T06:00:23-04:00
-    cover_image_path: collectedpaz1957-87.JPG
+    cover_image: /images/collectedpaz1957-87.JPG
     forsale: false
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811201681
     publication_date: 1967-10-01T05:00:11-04:00
-    cover_image_path: Kanthapura.jpg
+    cover_image: /images/Kanthapura.jpg
     forsale: false
     saleprice:
     shipping_charge:

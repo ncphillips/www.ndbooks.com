@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A surreal, utterly unique Turkish novel. "
 editions:
   - binding: Paperback
     isbn: 9780811215510
     publication_date: 2003-10-01T05:00:45-04:00
-    cover_image_path: The_Garden_of_the_Departed_Cats.jpg
+    cover_image: /images/The_Garden_of_the_Departed_Cats.jpg
     forsale: false
     saleprice:
     shipping_charge:

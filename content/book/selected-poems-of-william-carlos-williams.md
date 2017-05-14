@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811209588
     publication_date: 1985-09-01T05:00:00-04:00
-    cover_image_path: Selected_Poems._Williams_Carlos_Williams_.jpg
+    cover_image: /images/Selected_Poems._Williams_Carlos_Williams_.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811223423
     publication_date: 1985-09-01T05:00:00-04:00
-    cover_image_path: Selected_Poems._Williams_Carlos_Williams_.jpg
+    cover_image: /images/Selected_Poems._Williams_Carlos_Williams_.jpg
     forsale: false
     saleprice:
     shipping_charge:

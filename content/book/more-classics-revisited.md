@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811210836
     publication_date: 1989-03-01T06:00:00-04:00
-    cover_image_path: More_Classics_Revisited.JPG
+    cover_image: /images/More_Classics_Revisited.JPG
     forsale: false
     saleprice:
     shipping_charge:

@@ -14,13 +14,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "The great radical primer. "
 editions:
   - binding: Paperback
     isbn:
     publication_date: 2007-09-01T17:35:00-04:00
-    cover_image_path: Poetry_Insurgent.jpg
+    cover_image: /images/Poetry_Insurgent.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811217194
     publication_date: 2007-09-01T17:35:00-04:00
-    cover_image_path: Poetry_Insurgent.jpg
+    cover_image: /images/Poetry_Insurgent.jpg
     forsale: false
     saleprice:
     shipping_charge:

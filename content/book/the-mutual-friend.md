@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811212588
     publication_date: 1994-02-01T06:00:31-04:00
-    cover_image_path: The_Mutual_Friend.jpg
+    cover_image: /images/The_Mutual_Friend.jpg
     forsale: false
     saleprice:
     shipping_charge:

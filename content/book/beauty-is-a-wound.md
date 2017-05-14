@@ -13,13 +13,13 @@ translators:
   - contributor/annie-tucker.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "The English-language debut of Indonesia's rising star "
 editions:
   - binding: Paperback
     isbn: 9780811223638
     publication_date: 2015-09-08T04:00:00-04:00
-    cover_image_path: /uploads/Beauty%20is%20a%20Wound.jpg
+    cover_image: /images/Beauty%20is%20a%20Wound.jpg
     forsale: true
     saleprice:
     shipping_charge:

@@ -13,13 +13,13 @@ translators:
   - contributor/anna-kushner.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "The Halfway House, a novel by the great Guillermo Rosales, is a heart-breaking classic of modern Cuban literature. "
 editions:
   - binding: Paperback
     isbn: 9780811218023
     publication_date: 2009-05-01T05:00:00-04:00
-    cover_image_path: The_Halfway_House.jpg
+    cover_image: /images/The_Halfway_House.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811223263
     publication_date: 2009-05-01T05:00:00-04:00
-    cover_image_path: The_Halfway_House.jpg
+    cover_image: /images/The_Halfway_House.jpg
     forsale: false
     saleprice:
     shipping_charge:

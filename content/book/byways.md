@@ -14,13 +14,13 @@ translators:
 editors:
   - contributor/peter-glassgold.md
 contributors:
-featured_image_path:
+featured_image:
 description: "The memoirs of ND's founder. "
 editions:
   - binding: Paperback
     isbn: 9780811215985
     publication_date: 2005-02-01T06:00:16-04:00
-    cover_image_path: Byways.jpg
+    cover_image: /images/Byways.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811216173
     publication_date: 2005-02-01T06:00:16-04:00
-    cover_image_path: Byways.jpg
+    cover_image: /images/Byways.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -14,13 +14,13 @@ translators:
 editors:
 contributors:
   - contributor/francisco-goldman.md
-featured_image_path:
+featured_image:
 description: "A gripping and hilarious literary masterpiece masquerading as a Mexico City crime novel "
 editions:
   - binding: Paperback
     isbn: 9780811220668
     publication_date: 2013-11-25T16:34:00-04:00
-    cover_image_path: Mongolian_Conspiracy.jpg
+    cover_image: /images/Mongolian_Conspiracy.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Ebook
     isbn: 9780811221955
     publication_date: 2013-11-25T16:34:00-04:00
-    cover_image_path: Mongolian_Conspiracy.jpg
+    cover_image: /images/Mongolian_Conspiracy.jpg
     forsale: true
     saleprice:
     shipping_charge:

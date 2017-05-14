@@ -33,13 +33,13 @@ editors:
   - contributor/forrest-gander.md
 contributors:
   - contributor/derek-gromadzki.md
-featured_image_path:
+featured_image:
 description: "For the first time in English, a selection from the highly acclaimed Japanese poet, photographer, performance artist, and filmmaker "
 editions:
   - binding: Paperback
     isbn: 9780811226042
     publication_date: 2016-09-27T04:00:00-04:00
-    cover_image_path: /uploads/gozo_cover_to_size.tif
+    cover_image: /images/gozo_cover_to_size.tif
     forsale: true
     saleprice:
     shipping_charge:

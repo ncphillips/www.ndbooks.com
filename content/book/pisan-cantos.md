@@ -13,13 +13,13 @@ translators:
 editors:
   - contributor/richard-sieburth.md
 contributors:
-featured_image_path:
+featured_image:
 description: "At last, a definitive, paperbook edition of Ezra Pound's finest work "
 editions:
   - binding: Paperback
     isbn: 9780811215589
     publication_date: 2003-10-01T05:00:00-04:00
-    cover_image_path: Pisan_Cantos.jpg
+    cover_image: /images/Pisan_Cantos.jpg
     forsale: false
     saleprice:
     shipping_charge:

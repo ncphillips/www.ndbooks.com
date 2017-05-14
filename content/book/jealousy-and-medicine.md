@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Clothbound
     isbn: N/A
     publication_date: 1964-01-01T06:00:37-04:00
-    cover_image_path: Jealousy_And_Medicine_.jpg
+    cover_image: /images/Jealousy_And_Medicine_.jpg
     forsale: false
     saleprice:
     shipping_charge:

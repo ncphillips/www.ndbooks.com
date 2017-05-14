@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811213110
     publication_date: 1995-10-01T05:00:06-04:00
-    cover_image_path: Something_Cloudy_Something_Clear.jpg
+    cover_image: /images/Something_Cloudy_Something_Clear.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811213103
     publication_date: 1995-10-01T05:00:06-04:00
-    cover_image_path: Something_Cloudy_Something_Clear.jpg
+    cover_image: /images/Something_Cloudy_Something_Clear.jpg
     forsale: false
     saleprice:
     shipping_charge:

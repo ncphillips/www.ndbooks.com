@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811210737
     publication_date: 1988-10-01T05:00:04-04:00
-    cover_image_path: Woodpecker_Point_and_Other_Stories.jpg
+    cover_image: /images/Woodpecker_Point_and_Other_Stories.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811210720
     publication_date: 1988-10-01T05:00:04-04:00
-    cover_image_path: Woodpecker_Point_and_Other_Stories.jpg
+    cover_image: /images/Woodpecker_Point_and_Other_Stories.jpg
     forsale: false
     saleprice:
     shipping_charge:

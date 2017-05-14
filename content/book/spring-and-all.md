@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A beacon of modernism, Spring and All makes its freestanding return in facsimile edition of the original manuscript. "
 editions:
   - binding: Paperback
     isbn: 9780811218917
     publication_date: 2011-07-13T14:28:00-04:00
-    cover_image_path: Spring_and_All_2.jpg
+    cover_image: /images/Spring_and_All_2.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811223218
     publication_date: 2011-07-13T14:28:00-04:00
-    cover_image_path: Spring_and_All_2.jpg
+    cover_image: /images/Spring_and_All_2.jpg
     forsale: false
     saleprice:
     shipping_charge:

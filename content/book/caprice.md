@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811212434
     publication_date: 1993-04-01T06:00:37-04:00
-    cover_image_path: Caprice.jpg
+    cover_image: /images/Caprice.jpg
     forsale: false
     saleprice:
     shipping_charge:

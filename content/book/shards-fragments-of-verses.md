@@ -13,13 +13,13 @@ translators:
   - contributor/lawrence-ferlinghetti.md
 editors:
 contributors:
-featured_image_path: /uploads/Wenceslas_Hollar_-_Roman_ruins_(State_1).jpg
+featured_image: /images/Wenceslas_Hollar_-_Roman_ruins_(State_1).jpg
 description: "Ferlinghetti's fiery translation of a little-known 14th-century Roman poet "
 editions:
   - binding: Clothbound
     isbn: 9780811224758
     publication_date: 2015-09-08T04:00:00-04:00
-    cover_image_path: /uploads/ferlinghetti%20shards%20cover.jpg
+    cover_image: /images/ferlinghetti%20shards%20cover.jpg
     forsale: false
     saleprice:
     shipping_charge:

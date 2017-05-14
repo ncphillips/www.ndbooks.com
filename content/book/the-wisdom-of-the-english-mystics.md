@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811207003
     publication_date: 2001-01-01T06:00:57-04:00
-    cover_image_path: The_Wisdom_of_the_English_Mystics.jpg
+    cover_image: /images/The_Wisdom_of_the_English_Mystics.jpg
     forsale: false
     saleprice:
     shipping_charge:

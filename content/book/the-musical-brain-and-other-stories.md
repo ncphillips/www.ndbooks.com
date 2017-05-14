@@ -13,13 +13,13 @@ translators:
   - contributor/chris-andrews.md
 editors:
 contributors:
-featured_image_path: /uploads/1423846966312_9780811220293.gif
+featured_image: /images/1423846966312_9780811220293.gif
 description: "A delirious collection of short stories from the Latin American master of microfiction. "
 editions:
   - binding: Clothbound
     isbn: 9780811220293
     publication_date: 2015-03-03T15:42:00-04:00
-    cover_image_path: /uploads/musical%20brain.gif
+    cover_image: /images/musical%20brain.gif
     forsale: true
     saleprice: 20.00
     shipping_charge: 0.00
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811224185
     publication_date: 2015-03-03T15:42:00-04:00
-    cover_image_path: Screen_Shot_2014-11-13_at_3.43.35_PM.png
+    cover_image: /images/Screen_Shot_2014-11-13_at_3.43.35_PM.png
     forsale: true
     saleprice:
     shipping_charge:

@@ -13,13 +13,13 @@ translators:
   - contributor/stuart-gilbert.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811211130
     publication_date: 1990-01-01T06:00:46-04:00
-    cover_image_path: Well_To_The_Woods_No_More_2.jpg
+    cover_image: /images/Well_To_The_Woods_No_More_2.jpg
     forsale: false
     saleprice:
     shipping_charge:

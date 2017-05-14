@@ -11,7 +11,7 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
 _slug: new-directions-17

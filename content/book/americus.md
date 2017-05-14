@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Lawrence Ferlinghetti lights out for the territories with Book I of his own born-in-the-U.S.A. epic, Americus, now available as a New Directions Paperbook. "
 editions:
   - binding: Paperback
     isbn: 9780811216418
     publication_date: 2004-04-01T06:00:46-04:00
-    cover_image_path: Americus.jpg
+    cover_image: /images/Americus.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811215787
     publication_date: 2004-04-01T06:00:46-04:00
-    cover_image_path: Americus.jpg
+    cover_image: /images/Americus.jpg
     forsale: false
     saleprice:
     shipping_charge:

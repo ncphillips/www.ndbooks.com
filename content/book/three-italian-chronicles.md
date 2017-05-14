@@ -13,13 +13,13 @@ translators:
   - contributor/c.k.-scott-moncrieff.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811211505
     publication_date: 1991-02-01T06:00:41-04:00
-    cover_image_path: Three_Italian_Chronicles.jpg
+    cover_image: /images/Three_Italian_Chronicles.jpg
     forsale: false
     saleprice:
     shipping_charge:

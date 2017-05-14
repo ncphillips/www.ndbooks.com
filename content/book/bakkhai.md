@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A stunning new translation by the poet and classicist Anne Carson, first performed in 2015 at the Almeida Theatre in London "
 editions:
   - binding: Clothbound
     isbn: 9780811227100
     publication_date: 2017-12-21T05:00:00-04:00
-    cover_image_path: /uploads/9780811227100.jpg
+    cover_image: /images/9780811227100.jpg
     forsale: false
     saleprice:
     shipping_charge:

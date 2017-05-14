@@ -14,13 +14,13 @@ translators:
 editors:
   - contributor/gottfried-benn.md
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811200080
     publication_date: 1970-01-01T06:00:00-04:00
-    cover_image_path: Primal_Vision.jpg
+    cover_image: /images/Primal_Vision.jpg
     forsale: false
     saleprice:
     shipping_charge:

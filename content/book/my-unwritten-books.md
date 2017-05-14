@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "By one of the world's foremost intellectuals, George Steiner's My Unwritten Books meditates upon seven books he had long had in mind to write, but never did. Massively erudite, the essays are also brave, unflinching, and wholly personal. "
 editions:
   - binding: Clothbound
     isbn: 9780811217033
     publication_date: 2008-01-01T06:00:13-04:00
-    cover_image_path: My_Unwritten_Books.jpg
+    cover_image: /images/My_Unwritten_Books.jpg
     forsale: false
     saleprice:
     shipping_charge:

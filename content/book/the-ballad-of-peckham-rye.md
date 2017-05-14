@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811214087
     publication_date: 1999-05-01T05:00:00-04:00
-    cover_image_path: TheBallad_of_Peckham_Rye.jpg
+    cover_image: /images/TheBallad_of_Peckham_Rye.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811221337
     publication_date: 1999-05-01T05:00:00-04:00
-    cover_image_path: TheBallad_of_Peckham_Rye.jpg
+    cover_image: /images/TheBallad_of_Peckham_Rye.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811214575
     publication_date: 2000-09-01T05:00:00-04:00
-    cover_image_path: A_Far_Cry_From_Kensington.jpg
+    cover_image: /images/A_Far_Cry_From_Kensington.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811220149
     publication_date: 2000-09-01T05:00:00-04:00
-    cover_image_path: A_Far_Cry_From_Kensington.jpg
+    cover_image: /images/A_Far_Cry_From_Kensington.jpg
     forsale: false
     saleprice:
     shipping_charge:

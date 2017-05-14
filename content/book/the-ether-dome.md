@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811211772
     publication_date: 1991-10-01T05:00:57-04:00
-    cover_image_path: The_Ether_Dome.jpg
+    cover_image: /images/The_Ether_Dome.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811211840
     publication_date: 1991-10-01T05:00:57-04:00
-    cover_image_path: The_Ether_Dome.jpg
+    cover_image: /images/The_Ether_Dome.jpg
     forsale: false
     saleprice:
     shipping_charge:

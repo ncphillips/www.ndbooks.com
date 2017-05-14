@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811201940
     publication_date: 1971-06-01T05:00:00-04:00
-    cover_image_path: The_Back_Country.jpg
+    cover_image: /images/The_Back_Country.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811222808
     publication_date: 1971-06-01T05:00:00-04:00
-    cover_image_path: The_Back_Country.jpg
+    cover_image: /images/The_Back_Country.jpg
     forsale: false
     saleprice:
     shipping_charge:

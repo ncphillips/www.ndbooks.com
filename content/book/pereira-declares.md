@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811213585
     publication_date: 1996-04-01T06:00:00-04:00
-    cover_image_path: Pereira_Declares.jpg
+    cover_image: /images/Pereira_Declares.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811213196
     publication_date: 1996-04-01T06:00:00-04:00
-    cover_image_path: Pereira_Declares.jpg
+    cover_image: /images/Pereira_Declares.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -40,7 +40,7 @@ editions:
   - binding: Ebook
     isbn: 9780811221917
     publication_date: 1996-04-01T06:00:00-04:00
-    cover_image_path: Pereira_Declares.jpg
+    cover_image: /images/Pereira_Declares.jpg
     forsale: true
     saleprice:
     shipping_charge:

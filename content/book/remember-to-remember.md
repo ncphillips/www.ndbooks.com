@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811201131
     publication_date: 1961-08-01T05:00:55-04:00
-    cover_image_path: Remember_To_Remember.jpg
+    cover_image: /images/Remember_To_Remember.jpg
     forsale: false
     saleprice:
     shipping_charge:

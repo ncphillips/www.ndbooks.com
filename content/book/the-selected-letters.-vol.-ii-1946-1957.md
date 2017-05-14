@@ -16,13 +16,13 @@ editors:
 
   - contributor/nancy-m.-tischler.md
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811217224
     publication_date: 2007-09-01T05:00:00-04:00
-    cover_image_path: The_Selected_Letters_Of_Tennessee_Williams_Volume_II.jpg
+    cover_image: /images/The_Selected_Letters_Of_Tennessee_Williams_Volume_II.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -33,7 +33,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811216005
     publication_date: 2007-09-01T05:00:00-04:00
-    cover_image_path: The_Selected_Letters_Of_Tennessee_Williams_Volume_II.jpg
+    cover_image: /images/The_Selected_Letters_Of_Tennessee_Williams_Volume_II.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811200806
     publication_date: 1963-10-01T05:00:44-04:00
-    cover_image_path: Gogols_Wife__Other_Stories.jpg
+    cover_image: /images/Gogols_Wife__Other_Stories.jpg
     forsale: false
     saleprice:
     shipping_charge:

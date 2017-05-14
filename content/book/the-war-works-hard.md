@@ -13,13 +13,13 @@ translators:
   - contributor/elizabeth-winslow.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811216210
     publication_date: 2005-04-01T06:00:19-04:00
-    cover_image_path: The_War_Works_Hard.jpg
+    cover_image: /images/The_War_Works_Hard.jpg
     forsale: false
     saleprice:
     shipping_charge:

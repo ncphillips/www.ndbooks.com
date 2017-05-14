@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "The most delightful of English poets — mordantly amusing and fresh as a sassy cat "
 editions:
   - binding: Paperback
     isbn: 9780811221948
     publication_date: 2013-12-11T21:19:00-04:00
-    cover_image_path: Collected_Stevie_Smith.jpg
+    cover_image: /images/Collected_Stevie_Smith.jpg
     forsale: false
     saleprice:
     shipping_charge:

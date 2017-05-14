@@ -14,13 +14,13 @@ translators:
 editors:
 contributors:
   - contributor/ursula-k.-le-guin.md
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811218535
     publication_date: 2009-11-01T05:00:00-04:00
-    cover_image_path: Poems_From_The_Book_of_Hours.jpg
+    cover_image: /images/Poems_From_The_Book_of_Hours.jpg
     forsale: true
     saleprice:
     shipping_charge:

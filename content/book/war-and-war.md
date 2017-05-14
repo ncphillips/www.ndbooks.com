@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A novel of awesome beauty and power by the Hungarian master, László Krasznahorkai. Winner of a 2005 PEN Translation Fund Award. "
 editions:
   - binding: Paperback
     isbn: 9780811216098
     publication_date: 2006-04-01T06:00:00-04:00
-    cover_image_path: War_And_War.jpg
+    cover_image: /images/War_And_War.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811220118
     publication_date: 2006-04-01T06:00:00-04:00
-    cover_image_path: War_And_War.jpg
+    cover_image: /images/War_And_War.jpg
     forsale: true
     saleprice:
     shipping_charge:

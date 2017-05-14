@@ -14,13 +14,13 @@ translators:
 editors:
 contributors:
   - contributor/irving-howe.md
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811206808
     publication_date: 1978-04-01T06:00:44-04:00
-    cover_image_path: In_Dreams_Begin_Responsibilities.jpg
+    cover_image: /images/In_Dreams_Begin_Responsibilities.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Ebook
     isbn: 9780811220217
     publication_date: 1978-04-01T06:00:44-04:00
-    cover_image_path: In_Dreams_Begin_Responsibilities.jpg
+    cover_image: /images/In_Dreams_Begin_Responsibilities.jpg
     forsale: false
     saleprice:
     shipping_charge:

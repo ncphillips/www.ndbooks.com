@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811211765
     publication_date: 1991-09-01T05:00:55-04:00
-    cover_image_path: Futility.jpg
+    cover_image: /images/Futility.jpg
     forsale: false
     saleprice:
     shipping_charge:

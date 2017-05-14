@@ -14,13 +14,13 @@ translators:
 editors:
 contributors:
   - contributor/W._G._Sebald.md
-featured_image_path:
+featured_image:
 description: "Urn Burial, one of the most influential essays in Western literature, is now available as an ND Pearl. "
 editions:
   - binding: Paperback
     isbn: 9780811218924
     publication_date: 1990-10-26T14:28:00-04:00
-    cover_image_path: Urn_Burial.jpg
+    cover_image: /images/Urn_Burial.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Ebook
     isbn: 9780811221542
     publication_date: 1990-10-26T14:28:00-04:00
-    cover_image_path: Urn_Burial.jpg
+    cover_image: /images/Urn_Burial.jpg
     forsale: false
     saleprice:
     shipping_charge:

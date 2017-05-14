@@ -13,13 +13,13 @@ translators:
 editors:
 contributors:
   - contributor/john-banville.md
-featured_image_path:
+featured_image:
 description: "The reissue of the classic novel from the author of Lolita which brilliantly portrays one man's ruin through love and betrayal. "
 editions:
   - binding: Paperback
     isbn: 9780811216746
     publication_date: 2006-09-01T05:00:00-04:00
-    cover_image_path: nabokov_laughter_in_the_dark_cover_new_copy.jpg
+    cover_image: /images/nabokov_laughter_in_the_dark_cover_new_copy.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811212564
     publication_date: 1993-11-01T06:00:14-04:00
-    cover_image_path: The_Dancing_Girl.jpg
+    cover_image: /images/The_Dancing_Girl.jpg
     forsale: false
     saleprice:
     shipping_charge:

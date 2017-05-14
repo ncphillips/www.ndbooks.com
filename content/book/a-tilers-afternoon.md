@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811212403
     publication_date: 1993-06-01T05:00:16-04:00
-    cover_image_path: A_Tilers_Afternoon_2.jpg
+    cover_image: /images/A_Tilers_Afternoon_2.jpg
     forsale: false
     saleprice:
     shipping_charge:

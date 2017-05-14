@@ -13,13 +13,13 @@ translators:
   - contributor/mirra-ginsburg.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811209410
     publication_date: 1985-05-01T04:59:02-04:00
-    cover_image_path: Flight_and_Bliss.jpg
+    cover_image: /images/Flight_and_Bliss.jpg
     forsale: false
     saleprice:
     shipping_charge:

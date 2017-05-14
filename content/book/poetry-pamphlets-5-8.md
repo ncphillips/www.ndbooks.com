@@ -18,13 +18,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "The second set of our revived poetry pamphlets "
 editions:
   - binding: Paperback
     isbn: 9780811221221
     publication_date: 2013-07-10T19:19:00-04:00
-    cover_image_path: Poetry_Pamphlets_5-8.jpg
+    cover_image: /images/Poetry_Pamphlets_5-8.jpg
     forsale: false
     saleprice:
     shipping_charge:

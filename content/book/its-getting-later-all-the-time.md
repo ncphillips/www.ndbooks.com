@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "From Italy, an epistolary novel like no other, full of Tabucchi's special _enchantment, which trans-figures even as it captivates_ (TLS). "
 editions:
   - binding: Paperback
     isbn: 9780811215466
     publication_date: 2006-05-01T05:00:00-04:00
-    cover_image_path: Its_Getting_Later_All_the_Time_2.jpg
+    cover_image: /images/Its_Getting_Later_All_the_Time_2.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811222624
     publication_date: 2006-05-01T05:00:00-04:00
-    cover_image_path: Its_Getting_Later_All_the_Time_2.jpg
+    cover_image: /images/Its_Getting_Later_All_the_Time_2.jpg
     forsale: true
     saleprice:
     shipping_charge:

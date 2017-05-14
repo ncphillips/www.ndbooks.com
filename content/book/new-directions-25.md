@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811204477
     publication_date: 1972-06-01T05:00:08-04:00
-    cover_image_path: New_Directions_25.jpg
+    cover_image: /images/New_Directions_25.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811204477
     publication_date: 1972-06-01T05:00:08-04:00
-    cover_image_path: New_Directions_25.jpg
+    cover_image: /images/New_Directions_25.jpg
     forsale: false
     saleprice:
     shipping_charge:

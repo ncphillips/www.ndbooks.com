@@ -13,13 +13,13 @@ translators:
   - contributor/susan-bernofsky.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811218351
     publication_date: 2010-09-30T14:28:00-04:00
-    cover_image_path: Visitation.jpg
+    cover_image: /images/Visitation.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811219310
     publication_date: 2010-09-30T14:28:00-04:00
-    cover_image_path: Visitation.jpg
+    cover_image: /images/Visitation.jpg
     forsale: true
     saleprice:
     shipping_charge:

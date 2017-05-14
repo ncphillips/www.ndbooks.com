@@ -13,13 +13,13 @@ translators:
   - contributor/hilda-rosner.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A book—rare in our arid age—that takes root in the heart and grows there for a lifetime. "
 editions:
   - binding: Paperback
     isbn: 9780811200684
     publication_date: 1951-01-01T20:29:00-04:00
-    cover_image_path: Siddhartha_cover_MC.jpg
+    cover_image: /images/Siddhartha_cover_MC.jpg
     forsale: false
     saleprice:
     shipping_charge:

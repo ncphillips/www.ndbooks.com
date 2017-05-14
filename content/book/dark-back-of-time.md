@@ -13,13 +13,13 @@ translators:
   - contributor/esther-allen.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811215701
     publication_date: 2004-06-01T05:00:42-04:00
-    cover_image_path: Dark_Back_Of_Time_.jpg
+    cover_image: /images/Dark_Back_Of_Time_.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811214667
     publication_date: 2004-06-01T05:00:42-04:00
-    cover_image_path: Dark_Back_Of_Time_.jpg
+    cover_image: /images/Dark_Back_Of_Time_.jpg
     forsale: false
     saleprice:
     shipping_charge:

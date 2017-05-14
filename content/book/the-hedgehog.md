@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Clothbound
     isbn: 9780811210690
     publication_date: 1988-09-01T05:00:57-04:00
-    cover_image_path: hedgehog-hilda-doolittle-hardcover-cover-art.jpg
+    cover_image: /images/hedgehog-hilda-doolittle-hardcover-cover-art.jpg
     forsale: false
     saleprice:
     shipping_charge:

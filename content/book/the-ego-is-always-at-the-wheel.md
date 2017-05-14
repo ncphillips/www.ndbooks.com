@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811210287
     publication_date: 1986-04-01T06:00:07-04:00
-    cover_image_path: The_Ego_Is_Always_At_The_Wheel.jpg
+    cover_image: /images/The_Ego_Is_Always_At_The_Wheel.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811209830
     publication_date: 1986-04-01T06:00:07-04:00
-    cover_image_path: The_Ego_Is_Always_At_The_Wheel.jpg
+    cover_image: /images/The_Ego_Is_Always_At_The_Wheel.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -13,13 +13,13 @@ translators:
   - contributor/laura-healy.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A deluxe edition of Bolaño’s complete poetry "
 editions:
   - binding: Clothbound
     isbn: 9780811219280
     publication_date: 2013-07-11T15:42:00-04:00
-    cover_image_path: Unknown_University.jpg
+    cover_image: /images/Unknown_University.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811222532
     publication_date: 2013-07-11T15:42:00-04:00
-    cover_image_path: Unknown_University.jpg
+    cover_image: /images/Unknown_University.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -13,13 +13,13 @@ translators:
   - contributor/celia-hawkesworth.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "From the author of the highly acclaimed _Trieste_, a fierce novel about history, memory, and illness "
 editions:
   - binding: Paperback
     isbn: 9780811227216
     publication_date: 2017-09-26T04:00:00-04:00
-    cover_image_path: /uploads/Belladonna.jpg
+    cover_image: /images/Belladonna.jpg
     forsale: false
     saleprice:
     shipping_charge:

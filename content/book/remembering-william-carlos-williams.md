@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811213073
     publication_date: 1995-10-01T05:00:08-04:00
-    cover_image_path: Remembering_William_Carlos_Williams.jpg
+    cover_image: /images/Remembering_William_Carlos_Williams.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path: /uploads/seven%20samurai.jpg
+featured_image: /images/seven%20samurai.jpg
 description: "Called “remarkable” (_The Wall Street Journal_) and “an ambitious, colossal debut novel” (_Publishers Weekly_), Helen DeWitt’s The Last Samurai is back in print at last "
 editions:
   - binding: Paperback
     isbn: 9780811225502
     publication_date: 2016-05-31T23:00:00-04:00
-    cover_image_path: /uploads/dewitt_last_samurai_cover_final.jpg
+    cover_image: /images/dewitt_last_samurai_cover_final.jpg
     forsale: true
     saleprice:
     shipping_charge:

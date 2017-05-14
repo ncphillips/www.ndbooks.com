@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "In a stunning new collection of poems of transport and transcendence, African-American poet Nathaniel Mackey's _asthmatic song of aspiration_ scuttles across cultures and histories—from America to Andalucía, from Ethiopia to Vienna—in a sexy, beautiful adaptive dance. "
 editions:
   - binding: Paperback
     isbn: 9780811216524
     publication_date: 2006-05-01T05:00:00-04:00
-    cover_image_path: Splay_Anthem.jpg
+    cover_image: /images/Splay_Anthem.jpg
     forsale: false
     saleprice:
     shipping_charge:

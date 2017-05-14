@@ -13,13 +13,13 @@ translators:
   - contributor/katherine-silver.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Runner-up for the 2013 PEN Translation Prize "
 editions:
   - binding: Paperback
     isbn: 9780811219594
     publication_date: 2012-09-25T17:41:00-04:00
-    cover_image_path: The-Cardboard-House.jpg
+    cover_image: /images/The-Cardboard-House.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811219983
     publication_date: 2012-09-25T17:41:00-04:00
-    cover_image_path: The-Cardboard-House.jpg
+    cover_image: /images/The-Cardboard-House.jpg
     forsale: false
     saleprice:
     shipping_charge:

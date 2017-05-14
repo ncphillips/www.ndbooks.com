@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Spark’s very British bachelors come in every stripe "
 editions:
   - binding: Paperback
     isbn: 9780811222983
     publication_date: 2014-05-27T15:11:00-04:00
-    cover_image_path: /uploads/Bachelors.jpg
+    cover_image: /images/Bachelors.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -40,7 +40,7 @@ editions:
   - binding: Paperback
     isbn: 9780811214247
     publication_date: 2014-05-27T15:11:00-04:00
-    cover_image_path: /uploads/The_Bachelors.jpg
+    cover_image: /images/The_Bachelors.jpg
     forsale: false
     saleprice:
     shipping_charge:

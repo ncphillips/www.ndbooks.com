@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811206709
     publication_date: 1977-11-01T06:00:38-04:00
-    cover_image_path: The_Delights_Of_Turkey.jpg
+    cover_image: /images/The_Delights_Of_Turkey.jpg
     forsale: false
     saleprice:
     shipping_charge:

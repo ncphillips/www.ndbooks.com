@@ -15,13 +15,13 @@ editors:
   - contributor/james-reidel.md
 contributors:
   - contributor/james-reidel.md
-featured_image_path:
+featured_image:
 description: "A magnificent, undiscovered writer, Alvin Levin captured the turbulence of lower-middle-class life in 1930s New York, in that twilight period of the Great Depression and the gathering storm of WWII. "
 editions:
   - binding: Paperback
     isbn: 9780811217996
     publication_date: 2009-08-01T05:00:09-04:00
-    cover_image_path: Love_Is_Like_Park_Avenue.jpg
+    cover_image: /images/Love_Is_Like_Park_Avenue.jpg
     forsale: false
     saleprice:
     shipping_charge:

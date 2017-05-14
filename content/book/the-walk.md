@@ -17,13 +17,13 @@ translators:
 editors:
 contributors:
   - contributor/susan-bernofsky.md
-featured_image_path:
+featured_image:
 description: "Walser's alternate, preferred version of his most famous tale. "
 editions:
   - binding: Paperback
     isbn: 9780811219921
     publication_date: 2012-06-05T20:04:00-04:00
-    cover_image_path: The_Walk.jpg
+    cover_image: /images/The_Walk.jpg
     forsale: true
     saleprice:
     shipping_charge:

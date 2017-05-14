@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811214230
     publication_date: 1999-09-01T05:00:46-04:00
-    cover_image_path: Cortes_And_Montezuma.jpg
+    cover_image: /images/Cortes_And_Montezuma.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811207749
     publication_date: 1980-12-01T05:59:23-04:00
-    cover_image_path: It_Depends_.jpg
+    cover_image: /images/It_Depends_.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811207737
     publication_date: 1980-12-01T05:59:23-04:00
-    cover_image_path: It_Depends_.jpg
+    cover_image: /images/It_Depends_.jpg
     forsale: false
     saleprice:
     shipping_charge:

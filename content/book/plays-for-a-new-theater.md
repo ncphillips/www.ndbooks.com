@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811200004
     publication_date: 2001-01-01T06:00:03-04:00
-    cover_image_path: Plays_For_A_New_Theater.jpg
+    cover_image: /images/Plays_For_A_New_Theater.jpg
     forsale: false
     saleprice:
     shipping_charge:

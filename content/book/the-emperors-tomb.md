@@ -13,13 +13,13 @@ translators:
   - contributor/michael-hofmann1.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "An intensely beautiful book about one of history’s bleakest periods "
 editions:
   - binding: Paperback
     isbn: 9780811221276
     publication_date: 2013-04-22T14:02:00-04:00
-    cover_image_path: Emperors_Tomb.jpg
+    cover_image: /images/Emperors_Tomb.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811221283
     publication_date: 2013-04-22T14:02:00-04:00
-    cover_image_path: Emperors_Tomb.jpg
+    cover_image: /images/Emperors_Tomb.jpg
     forsale: true
     saleprice:
     shipping_charge:

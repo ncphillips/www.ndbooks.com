@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811200660
     publication_date: 1969-10-01T05:00:24-04:00
-    cover_image_path: Lunar_Landscapes.jpg
+    cover_image: /images/Lunar_Landscapes.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811202909
     publication_date: 1969-10-01T05:00:24-04:00
-    cover_image_path: Lunar_Landscapes.jpg
+    cover_image: /images/Lunar_Landscapes.jpg
     forsale: false
     saleprice:
     shipping_charge:

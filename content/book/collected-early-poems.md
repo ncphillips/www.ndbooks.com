@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811208437
     publication_date: 1982-11-01T06:00:00-04:00
-    cover_image_path: Collected_Early_Poems_Of_Ezra_Pound_.jpg
+    cover_image: /images/Collected_Early_Poems_Of_Ezra_Pound_.jpg
     forsale: false
     saleprice:
     shipping_charge:

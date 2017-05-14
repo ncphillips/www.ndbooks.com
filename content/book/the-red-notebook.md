@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811214988
     publication_date: 2002-06-01T05:00:52-04:00
-    cover_image_path: The_Red_Notebook.jpg
+    cover_image: /images/The_Red_Notebook.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811221153
     publication_date: 2002-06-01T05:00:52-04:00
-    cover_image_path: The_Red_Notebook.jpg
+    cover_image: /images/The_Red_Notebook.jpg
     forsale: false
     saleprice:
     shipping_charge:

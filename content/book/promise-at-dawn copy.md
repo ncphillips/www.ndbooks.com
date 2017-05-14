@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A classic of modern French literature, the thrilling real-life story of the military hero, ambassador, ladies man, writer, and loving son "
 editions:
   - binding: Paperback
     isbn: 9780811221986
     publication_date: 2017-10-20T04:00:00-04:00
-    cover_image_path: /uploads/9780811221986.jpg
+    cover_image: /images/9780811221986.jpg
     forsale: false
     saleprice:
     shipping_charge:

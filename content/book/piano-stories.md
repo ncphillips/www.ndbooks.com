@@ -14,13 +14,13 @@ translators:
 editors:
 contributors:
   - contributor/francine-prose.md
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811221801
     publication_date: 2014-01-27T21:35:00-04:00
-    cover_image_path: Piano_Stories.jpg
+    cover_image: /images/Piano_Stories.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Ebook
     isbn: 9780811221818
     publication_date: 2014-01-27T21:35:00-04:00
-    cover_image_path: Piano_Stories.jpg
+    cover_image: /images/Piano_Stories.jpg
     forsale: true
     saleprice:
     shipping_charge:

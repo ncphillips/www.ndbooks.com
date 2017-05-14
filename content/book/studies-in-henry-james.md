@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811208642
     publication_date: 1983-04-01T06:00:08-04:00
-    cover_image_path: Studies_In_Henry_James.jpg
+    cover_image: /images/Studies_In_Henry_James.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811208635
     publication_date: 1983-04-01T06:00:08-04:00
-    cover_image_path: Studies_In_Henry_James.jpg
+    cover_image: /images/Studies_In_Henry_James.jpg
     forsale: false
     saleprice:
     shipping_charge:

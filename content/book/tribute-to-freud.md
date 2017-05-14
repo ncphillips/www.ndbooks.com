@@ -14,13 +14,13 @@ translators:
 editors:
 contributors:
   - contributor/adam-phillips.md
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811208970
     publication_date: 1984-08-01T05:00:01-04:00
-    cover_image_path: Tribute_To_Freud.jpg
+    cover_image: /images/Tribute_To_Freud.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811211888
     publication_date: 1988-06-01T05:00:00-04:00
-    cover_image_path: The_Collected_Poems_Of_WCW_Vol_II_.jpg
+    cover_image: /images/The_Collected_Poems_Of_WCW_Vol_II_.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811210638
     publication_date: 1988-06-01T05:00:00-04:00
-    cover_image_path: The_Collected_Poems_Of_WCW_Vol_II_.jpg
+    cover_image: /images/The_Collected_Poems_Of_WCW_Vol_II_.jpg
     forsale: false
     saleprice:
     shipping_charge:

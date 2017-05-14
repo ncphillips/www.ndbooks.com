@@ -14,13 +14,13 @@ translators:
 editors:
   - contributor/penelope-jardin.md
 contributors:
-featured_image_path:
+featured_image:
 description: "Together for the first time in one sparkling, delicious volume, here are the greatest essays of Muriel Spark "
 editions:
   - binding: Clothbound
     isbn: 9780811221597
     publication_date: 2014-04-29T16:21:00-04:00
-    cover_image_path: Informed_Air.jpg
+    cover_image: /images/Informed_Air.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Clothbound
     isbn: 9780811211161
     publication_date: 1989-10-01T05:00:12-04:00
-    cover_image_path: Blair.jpg
+    cover_image: /images/Blair.jpg
     forsale: false
     saleprice:
     shipping_charge:

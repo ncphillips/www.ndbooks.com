@@ -13,13 +13,13 @@ translators:
   - contributor/michael-hofmann1.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A heartwrenching tale of a family's dissolution told from a child's crystalline perspective, now in paperback. "
 editions:
   - binding: Paperback
     isbn: 9780811216074
     publication_date: 2004-11-01T06:00:40-04:00
-    cover_image_path: Luck.jpg
+    cover_image: /images/Luck.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811215022
     publication_date: 2004-11-01T06:00:40-04:00
-    cover_image_path: Luck.jpg
+    cover_image: /images/Luck.jpg
     forsale: false
     saleprice:
     shipping_charge:

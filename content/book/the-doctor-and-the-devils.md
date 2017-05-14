@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811202060
     publication_date: 1970-03-01T06:00:00-04:00
-    cover_image_path: /uploads/Thomas%2C%20Dylan_%20The%20Doctor%20and%20the%20Devils.jpg
+    cover_image: /images/Thomas%2C%20Dylan_%20The%20Doctor%20and%20the%20Devils.jpg
     forsale: true
     saleprice:
     shipping_charge:

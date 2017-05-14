@@ -13,13 +13,13 @@ translators:
   - contributor/forrest-gander.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A brilliantly translated bilingual edition of poems by one of Mexico's foremost poets. "
 editions:
   - binding: Paperback
     isbn: 9780811216845
     publication_date: 2008-04-01T05:00:31-04:00
-    cover_image_path: fireflyunderthetongue.jpg
+    cover_image: /images/fireflyunderthetongue.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Clothbound
     isbn: N/A
     publication_date: 1961-01-01T06:00:26-04:00
-    cover_image_path: Dostoevksy.jpg
+    cover_image: /images/Dostoevksy.jpg
     forsale: false
     saleprice:
     shipping_charge:

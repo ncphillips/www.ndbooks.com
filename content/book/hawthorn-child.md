@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "The only certainty is that we've all misunderstood everything "
 editions:
   - binding: Paperback
     isbn: 9780811221665
     publication_date: 2013-09-23T15:05:00-04:00
-    cover_image_path: hawthornchild.jpg
+    cover_image: /images/hawthornchild.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811221672
     publication_date: 2013-09-23T15:05:00-04:00
-    cover_image_path: hawthornchild.jpg
+    cover_image: /images/hawthornchild.jpg
     forsale: true
     saleprice:
     shipping_charge:

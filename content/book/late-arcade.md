@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A new volume of the singular, ongoing, great American jazz novel "
 editions:
   - binding: Paperback
     isbn: 9780811226608
     publication_date: 2017-02-28T05:00:00-04:00
-    cover_image_path: /uploads/9780811226608.jpg
+    cover_image: /images/9780811226608.jpg
     forsale: true
     saleprice:
     shipping_charge:

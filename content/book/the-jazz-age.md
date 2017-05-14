@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811213332
     publication_date: 1996-09-01T05:00:29-04:00
-    cover_image_path: The_Jazz_Age.jpg
+    cover_image: /images/The_Jazz_Age.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811201605
     publication_date: 1970-06-01T05:00:35-04:00
-    cover_image_path: Selected_Cantos._Ezra_Pound_.jpg
+    cover_image: /images/Selected_Cantos._Ezra_Pound_.jpg
     forsale: false
     saleprice:
     shipping_charge:

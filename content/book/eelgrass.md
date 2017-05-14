@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811206556
     publication_date: 1977-09-01T05:00:42-04:00
-    cover_image_path: Eelgrass.jpg
+    cover_image: /images/Eelgrass.jpg
     forsale: false
     saleprice:
     shipping_charge:

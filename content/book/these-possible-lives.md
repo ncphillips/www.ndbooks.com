@@ -14,13 +14,13 @@ translators:
   - contributor/minna-zallman-proctor.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "**Brief in the way a razor’s slice is brief: remarkable essays by a peerless stylist** "
 editions:
   - binding: Paperback
     isbn: 9780811226875
     publication_date: 2017-07-25T04:00:00-04:00
-    cover_image_path: /uploads/possible_lives_cover.tif
+    cover_image: /images/possible_lives_cover.tif
     forsale: false
     saleprice:
     shipping_charge:

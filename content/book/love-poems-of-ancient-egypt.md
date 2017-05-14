@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811201582
     publication_date: 1978-06-01T04:59:00-04:00
-    cover_image_path: Love_Poems_Of_Ancient_Egypt.jpg
+    cover_image: /images/Love_Poems_Of_Ancient_Egypt.jpg
     forsale: true
     saleprice:
     shipping_charge:

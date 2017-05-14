@@ -17,13 +17,13 @@ translators:
   - contributor/esther-allen.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Bound together in mystical crocodile skin, two unforgettably singular novellas "
 editions:
   - binding: Paperback
     isbn: 9780811220989
     publication_date: 2013-07-16T15:03:00-04:00
-    cover_image_path: Two_Crocodiles.jpg
+    cover_image: /images/Two_Crocodiles.jpg
     forsale: true
     saleprice:
     shipping_charge:

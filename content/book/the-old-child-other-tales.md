@@ -14,13 +14,13 @@ translators:
   - contributor/susan-bernofsky.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811216081
     publication_date: 2005-09-01T05:00:00-04:00
-    cover_image_path: theoldchild.JPG
+    cover_image: /images/theoldchild.JPG
     forsale: true
     saleprice:
     shipping_charge:

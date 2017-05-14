@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811208840
     publication_date: 1983-10-01T05:00:55-04:00
-    cover_image_path: Rebeccas_Daughters_2.jpg
+    cover_image: /images/Rebeccas_Daughters_2.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811208529
     publication_date: 1983-10-01T05:00:55-04:00
-    cover_image_path: Rebeccas_Daughters_2.jpg
+    cover_image: /images/Rebeccas_Daughters_2.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A selection of harsh, sometimes violent, and often surreal stories by the premier young avant-garde Chinese woman writer. "
 editions:
   - binding: Paperback
     isbn: 9780811216487
     publication_date: 2006-06-01T05:00:00-04:00
-    cover_image_path: Blue_Light_In_The_Sky.jpg
+    cover_image: /images/Blue_Light_In_The_Sky.jpg
     forsale: true
     saleprice:
     shipping_charge:

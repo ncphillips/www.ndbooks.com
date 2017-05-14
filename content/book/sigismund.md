@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811209243
     publication_date: 1985-02-01T06:00:14-04:00
-    cover_image_path: Sigismund.jpg
+    cover_image: /images/Sigismund.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811209236
     publication_date: 1985-02-01T06:00:14-04:00
-    cover_image_path: Sigismund.jpg
+    cover_image: /images/Sigismund.jpg
     forsale: false
     saleprice:
     shipping_charge:

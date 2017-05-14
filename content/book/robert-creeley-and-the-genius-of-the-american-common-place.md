@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811217675
     publication_date: 1993-11-01T05:59:26-04:00
-    cover_image_path: Robert_Creeley_and_the_genius.jpg
+    cover_image: /images/Robert_Creeley_and_the_genius.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811212502
     publication_date: 1993-11-01T05:59:26-04:00
-    cover_image_path: Robert_Creeley_and_the_genius.jpg
+    cover_image: /images/Robert_Creeley_and_the_genius.jpg
     forsale: false
     saleprice:
     shipping_charge:

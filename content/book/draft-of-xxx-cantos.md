@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811211284
     publication_date: 1990-05-01T05:00:00-04:00
-    cover_image_path: /uploads/Pound_%20Draft%20of%20XXX%20Cantos.jpg
+    cover_image: /images/Pound_%20Draft%20of%20XXX%20Cantos.jpg
     forsale: true
     saleprice:
     shipping_charge:

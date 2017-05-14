@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811208420
     publication_date: 1960-01-01T06:00:00-04:00
-    cover_image_path: Memories_Of_The_Moderns.jpg
+    cover_image: /images/Memories_Of_The_Moderns.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811207331
     publication_date: 1960-01-01T06:00:00-04:00
-    cover_image_path: Memories_Of_The_Moderns.jpg
+    cover_image: /images/Memories_Of_The_Moderns.jpg
     forsale: false
     saleprice:
     shipping_charge:

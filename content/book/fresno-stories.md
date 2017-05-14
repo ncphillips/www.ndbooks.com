@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811212823
     publication_date: 1994-11-01T06:00:13-04:00
-    cover_image_path: Fresno_Stories.jpg
+    cover_image: /images/Fresno_Stories.jpg
     forsale: false
     saleprice:
     shipping_charge:

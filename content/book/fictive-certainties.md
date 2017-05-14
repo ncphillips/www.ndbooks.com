@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811209496
     publication_date: 1985-11-01T06:00:43-04:00
-    cover_image_path: Fictive_Certainties.jpg
+    cover_image: /images/Fictive_Certainties.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811209441
     publication_date: 1985-11-01T06:00:43-04:00
-    cover_image_path: Fictive_Certainties.jpg
+    cover_image: /images/Fictive_Certainties.jpg
     forsale: false
     saleprice:
     shipping_charge:

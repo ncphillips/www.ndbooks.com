@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811210782
     publication_date: 2001-01-01T06:00:00-04:00
-    cover_image_path: Rich_Like_Us.jpg
+    cover_image: /images/Rich_Like_Us.jpg
     forsale: false
     saleprice:
     shipping_charge:

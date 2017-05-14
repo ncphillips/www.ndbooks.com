@@ -13,13 +13,13 @@ translators:
   - contributor/robin-fulton.md
 editors:
 contributors:
-featured_image_path: /uploads/transtromer_big_grey_sm_rev.jpg
+featured_image: /images/transtromer_big_grey_sm_rev.jpg
 description: "At long last, the collected poems of one of the world's greatest living writers, Tomas Tranströmer, is now available in this comprehensive edition. "
 editions:
   - binding: Paperback
     isbn: 9780811216722
     publication_date: 2007-10-01T05:00:00-04:00
-    cover_image_path: /uploads/The%20Great%20Enigma.jpg
+    cover_image: /images/The%20Great%20Enigma.jpg
     forsale: true
     saleprice:
     shipping_charge:

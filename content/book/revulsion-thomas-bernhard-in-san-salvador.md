@@ -13,13 +13,13 @@ translators:
   - contributor/lee-klein.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "The 1997 novel that put Horacio Castellanos Moya on the map, now published for the first time in English "
 editions:
   - binding: Paperback
     isbn: 9780811225397
     publication_date: 2016-07-26T23:00:00-04:00
-    cover_image_path: /uploads/revulsion%20cover.tiff
+    cover_image: /images/revulsion%20cover.tiff
     forsale: true
     saleprice:
     shipping_charge:

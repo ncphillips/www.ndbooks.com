@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811201599
     publication_date: 1967-11-01T06:00:00-04:00
-    cover_image_path: /uploads/Pound_%20Pound-Joyce.jpg
+    cover_image: /images/Pound_%20Pound-Joyce.jpg
     forsale: true
     saleprice:
     shipping_charge:

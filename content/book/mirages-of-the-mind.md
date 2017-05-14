@@ -15,13 +15,13 @@ translators:
   - contributor/aftab-ahmad.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A hilarious and nostalgic account of twentieth-century Muslim life on the Indian subcontinent "
 editions:
   - binding: Paperback
     isbn: 9780811224130
     publication_date: 2015-07-08T02:00:00-04:00
-    cover_image_path: /uploads/Mirages%20(1).jpg
+    cover_image: /images/Mirages%20(1).jpg
     forsale: true
     saleprice:
     shipping_charge:

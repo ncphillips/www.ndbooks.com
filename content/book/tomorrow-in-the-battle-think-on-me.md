@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "“No one ever expects,” begins Tomorrow in the Battle Think on Me, _that they might some day find themselves with a dead woman in their arms..._ "
 editions:
   - binding: Paperback
     isbn: 9780811214827
     publication_date: 2001-10-01T05:00:24-04:00
-    cover_image_path: Tomorrow_In_The_Battle_Think_On_Me.jpg
+    cover_image: /images/Tomorrow_In_The_Battle_Think_On_Me.jpg
     forsale: false
     saleprice:
     shipping_charge:

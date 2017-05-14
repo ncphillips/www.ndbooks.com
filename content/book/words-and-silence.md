@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811207133
     publication_date: 1979-05-01T05:00:18-04:00
-    cover_image_path: Words_And_Silence.jpg
+    cover_image: /images/Words_And_Silence.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811207126
     publication_date: 1979-05-01T05:00:18-04:00
-    cover_image_path: Words_And_Silence.jpg
+    cover_image: /images/Words_And_Silence.jpg
     forsale: false
     saleprice:
     shipping_charge:

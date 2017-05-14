@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A new collection by the winner of the 2006 National Book Award in poetry. "
 editions:
   - binding: Paperback
     isbn: 9780811219464
     publication_date: 2011-11-21T16:52:00-04:00
-    cover_image_path: Nod_House.JPG
+    cover_image: /images/Nod_House.JPG
     forsale: true
     saleprice:
     shipping_charge:

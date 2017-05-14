@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811213134
     publication_date: 1995-12-01T06:00:00-04:00
-    cover_image_path: /uploads/Brathwaite_%20Black%20%2B%20Blues.jpg
+    cover_image: /images/Brathwaite_%20Black%20%2B%20Blues.jpg
     forsale: true
     saleprice:
     shipping_charge:

@@ -13,13 +13,13 @@ translators:
   - contributor/barbara-wright.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811209458
     publication_date: 1985-04-01T06:00:00-04:00
-    cover_image_path: The_Blue_Flowers.jpg
+    cover_image: /images/The_Blue_Flowers.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811220859
     publication_date: 1985-04-01T06:00:00-04:00
-    cover_image_path: The_Blue_Flowers.jpg
+    cover_image: /images/The_Blue_Flowers.jpg
     forsale: false
     saleprice:
     shipping_charge:

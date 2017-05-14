@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811212939
     publication_date: 1995-07-01T05:00:22-04:00
-    cover_image_path: Thoughts_On_The_East.jpg
+    cover_image: /images/Thoughts_On_The_East.jpg
     forsale: false
     saleprice:
     shipping_charge:

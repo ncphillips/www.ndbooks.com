@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811203227
     publication_date: 1967-10-01T05:00:37-04:00
-    cover_image_path: Stand_Still_Like_The_Hummingbird.jpg
+    cover_image: /images/Stand_Still_Like_The_Hummingbird.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811201148
     publication_date: 1967-10-01T05:00:37-04:00
-    cover_image_path: Stand_Still_Like_The_Hummingbird.jpg
+    cover_image: /images/Stand_Still_Like_The_Hummingbird.jpg
     forsale: false
     saleprice:
     shipping_charge:

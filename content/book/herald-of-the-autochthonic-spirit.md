@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811208086
     publication_date: 1981-10-01T05:00:00-04:00
-    cover_image_path: Herald_Of_The_Autochthonic_Spirit.jpg
+    cover_image: /images/Herald_Of_The_Autochthonic_Spirit.jpg
     forsale: false
     saleprice:
     shipping_charge:

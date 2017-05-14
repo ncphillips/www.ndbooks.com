@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "An enthralling new work by one of America's foremost experimental writers. "
 editions:
   - binding: Paperback
     isbn: 9780811215992
     publication_date: 2004-09-01T05:00:00-04:00
-    cover_image_path: Incarnate_.jpg
+    cover_image: /images/Incarnate_.jpg
     forsale: false
     saleprice:
     shipping_charge:

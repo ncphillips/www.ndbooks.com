@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811206822
     publication_date: 1978-04-01T06:00:00-04:00
-    cover_image_path: Antechamber_And_Other_Poems.jpg
+    cover_image: /images/Antechamber_And_Other_Poems.jpg
     forsale: false
     saleprice:
     shipping_charge:

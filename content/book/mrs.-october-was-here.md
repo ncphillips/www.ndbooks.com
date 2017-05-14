@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811205191
     publication_date: 1974-04-01T05:00:16-04:00
-    cover_image_path: Mrs._October_Was_Here.jpg
+    cover_image: /images/Mrs._October_Was_Here.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811205184
     publication_date: 1974-04-01T05:00:16-04:00
-    cover_image_path: Mrs._October_Was_Here.jpg
+    cover_image: /images/Mrs._October_Was_Here.jpg
     forsale: false
     saleprice:
     shipping_charge:

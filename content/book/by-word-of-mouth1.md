@@ -15,13 +15,13 @@ editors:
   - contributor/jonathan-cohen.md
 contributors:
   - contributor/julio-marzan.md
-featured_image_path:
+featured_image:
 description: "The first collection of translations of Spanish and Latin American poetry by William Carlos Williams, containing many previously unknown poems. "
 editions:
   - binding: Paperback
     isbn: 9780811218856
     publication_date: 2011-10-05T14:28:33-04:00
-    cover_image_path: by_word_of_mouth_cover.jpg
+    cover_image: /images/by_word_of_mouth_cover.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811213851
     publication_date: 1998-05-01T05:00:44-04:00
-    cover_image_path: Quetzalcoatl.jpg
+    cover_image: /images/Quetzalcoatl.jpg
     forsale: false
     saleprice:
     shipping_charge:

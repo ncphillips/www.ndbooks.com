@@ -13,13 +13,13 @@ translators:
   - contributor/heather-cleary.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811221771
     publication_date: 2014-01-27T20:27:00-04:00
-    cover_image_path: Poems_to_Read_on_a_Streetcar.jpg
+    cover_image: /images/Poems_to_Read_on_a_Streetcar.jpg
     forsale: false
     saleprice:
     shipping_charge:

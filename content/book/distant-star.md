@@ -13,13 +13,13 @@ translators:
   - contributor/chris-andrews.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A chilling novel about the nightmare of a corrupt and brutal dictatorship. "
 editions:
   - binding: Paperback
     isbn: 9780811215862
     publication_date: 2004-12-01T06:00:00-04:00
-    cover_image_path: Distant_Star.jpg
+    cover_image: /images/Distant_Star.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811220521
     publication_date: 2004-12-01T06:00:00-04:00
-    cover_image_path: Distant_Star.jpg
+    cover_image: /images/Distant_Star.jpg
     forsale: false
     saleprice:
     shipping_charge:

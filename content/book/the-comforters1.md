@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Spark’s stunning 1957 debut "
 editions:
   - binding: Paperback
     isbn: 9780811223003
     publication_date: 2014-04-29T14:10:00-04:00
-    cover_image_path: Comforters.jpg
+    cover_image: /images/Comforters.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811222419
     publication_date: 2014-04-29T14:10:00-04:00
-    cover_image_path: Comforters.jpg
+    cover_image: /images/Comforters.jpg
     forsale: false
     saleprice:
     shipping_charge:

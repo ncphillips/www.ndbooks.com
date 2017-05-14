@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811208826
     publication_date: 1983-10-01T05:00:00-04:00
-    cover_image_path: Collected_Poems_Of_Stevie_Smith.jpg
+    cover_image: /images/Collected_Poems_Of_Stevie_Smith.jpg
     forsale: false
     saleprice:
     shipping_charge:

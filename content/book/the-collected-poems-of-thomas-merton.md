@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811207690
     publication_date: 1980-09-01T04:59:00-04:00
-    cover_image_path: The_Collected_Poems_Of_Thomas_Merton.jpg
+    cover_image: /images/The_Collected_Poems_Of_Thomas_Merton.jpg
     forsale: false
     saleprice:
     shipping_charge:

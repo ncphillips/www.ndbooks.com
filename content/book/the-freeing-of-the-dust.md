@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811205825
     publication_date: 1975-10-01T05:00:00-04:00
-    cover_image_path: The_Freeing_Of_The_Dust.jpg
+    cover_image: /images/The_Freeing_Of_The_Dust.jpg
     forsale: false
     saleprice:
     shipping_charge:

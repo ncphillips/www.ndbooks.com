@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811213950
     publication_date: 1999-01-01T06:00:21-04:00
-    cover_image_path: The_Tale_of_a_Dog_.jpg
+    cover_image: /images/The_Tale_of_a_Dog_.jpg
     forsale: false
     saleprice:
     shipping_charge:

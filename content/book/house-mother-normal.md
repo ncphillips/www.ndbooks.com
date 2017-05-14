@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A wild, experimental, polyphonic novel, recounting a typical day of diminishing returns at a nursing home "
 editions:
   - binding: Paperback
     isbn: 9780811222143
     publication_date: 2016-08-23T23:00:00-04:00
-    cover_image_path: /uploads/CZOe-_eK0KnvY9xS83i2JPdA4EQcqCrIXBUH7zcz9Lg%2CTvbvTk911ArJoKEZaAjmlaHH7zlO5nuV-N_Ho6u4-ak.jpeg
+    cover_image: /images/CZOe-_eK0KnvY9xS83i2JPdA4EQcqCrIXBUH7zcz9Lg%2CTvbvTk911ArJoKEZaAjmlaHH7zlO5nuV-N_Ho6u4-ak.jpeg
     forsale: true
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Paperback
     isbn: 9780811209816
     publication_date: 2016-08-23T23:00:00-04:00
-    cover_image_path: House_Mother_Normal.jpg
+    cover_image: /images/House_Mother_Normal.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -40,7 +40,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811209809
     publication_date: 2016-08-23T23:00:00-04:00
-    cover_image_path: House_Mother_Normal.jpg
+    cover_image: /images/House_Mother_Normal.jpg
     forsale: true
     saleprice:
     shipping_charge:

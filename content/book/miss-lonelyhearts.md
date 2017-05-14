@@ -13,13 +13,13 @@ translators:
 editors:
 contributors:
   - contributor/harold-bloom.md
-featured_image_path:
+featured_image:
 description: "One writer's degrading day job as a lonely hearts advice columnist is only the beginning of his nightmarish existence "
 editions:
   - binding: Paperback
     isbn: 9780811220934
     publication_date: 2013-07-17T15:25:00-04:00
-    cover_image_path: Miss_Lonelyhearts.jpg
+    cover_image: /images/Miss_Lonelyhearts.jpg
     forsale: true
     saleprice:
     shipping_charge:

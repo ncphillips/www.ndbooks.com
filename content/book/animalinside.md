@@ -14,13 +14,13 @@ translators:
 editors:
 contributors:
   - contributor/colm-toibin.md
-featured_image_path:
+featured_image:
 description: "Limited to 2,000 gorgeous copies, this richly illustrated, extraordinary novella was created in collaboration with the famed painter Max Neumann. "
 editions:
   - binding: Clothbound
     isbn: 9780811219167
     publication_date: 2011-06-16T14:28:00-04:00
-    cover_image_path: animalinside.JPG
+    cover_image: /images/animalinside.JPG
     forsale: true
     saleprice:
     shipping_charge:

@@ -14,13 +14,13 @@ translators:
 editors:
   - contributor/richard-sieburth.md
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811218252
     publication_date: 1992-02-01T06:00:17-04:00
-    cover_image_path: A_Walking_Tour_In_Southern_France.jpg
+    cover_image: /images/A_Walking_Tour_In_Southern_France.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811212236
     publication_date: 1992-02-01T06:00:17-04:00
-    cover_image_path: A_Walking_Tour_In_Southern_France.jpg
+    cover_image: /images/A_Walking_Tour_In_Southern_France.jpg
     forsale: false
     saleprice:
     shipping_charge:

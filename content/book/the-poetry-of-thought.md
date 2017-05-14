@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "From one of the world's foremost thinkers, a vision of the inseparable nature of Western philosophy and its living language. "
 editions:
   - binding: Clothbound
     isbn: 9780811219457
     publication_date: 2011-11-22T14:49:00-04:00
-    cover_image_path: Poetry_of_Thought_sm.jpg
+    cover_image: /images/Poetry_of_Thought_sm.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811219549
     publication_date: 2011-11-22T14:49:00-04:00
-    cover_image_path: Poetry_of_Thought_sm.jpg
+    cover_image: /images/Poetry_of_Thought_sm.jpg
     forsale: false
     saleprice:
     shipping_charge:

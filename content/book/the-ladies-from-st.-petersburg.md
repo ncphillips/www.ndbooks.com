@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811214360
     publication_date: 2000-05-01T05:00:15-04:00
-    cover_image_path: The_Ladies_From_St._Petersburg.jpg
+    cover_image: /images/The_Ladies_From_St._Petersburg.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811213776
     publication_date: 2000-05-01T05:00:15-04:00
-    cover_image_path: The_Ladies_From_St._Petersburg.jpg
+    cover_image: /images/The_Ladies_From_St._Petersburg.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811200233
     publication_date: 1970-03-01T06:00:14-04:00
-    cover_image_path: Livingdying.jpg
+    cover_image: /images/Livingdying.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811202619
     publication_date: 1970-03-01T06:00:14-04:00
-    cover_image_path: Livingdying.jpg
+    cover_image: /images/Livingdying.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -14,13 +14,13 @@ translators:
   - contributor/peter-france.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A collection of extraordinary essays by one of the seminal Russian poets of the twentieth century "
 editions:
   - binding: Paperback
     isbn: 9780811227193
     publication_date: 2017-12-22T05:00:00-04:00
-    cover_image_path: /uploads/9780811227193.jpg
+    cover_image: /images/9780811227193.jpg
     forsale: false
     saleprice:
     shipping_charge:

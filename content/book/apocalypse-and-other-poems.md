@@ -13,13 +13,13 @@ translators:
 editors:
   - contributor/donald-d.-walsh.md
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811206624
     publication_date: 1977-09-01T05:00:00-04:00
-    cover_image_path: Apocalypse_And_Other_Poems.jpg
+    cover_image: /images/Apocalypse_And_Other_Poems.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811210362
     publication_date: 1987-09-01T05:00:18-04:00
-    cover_image_path: A_Month_By_The_Lake_and_Other_Stories.jpg
+    cover_image: /images/A_Month_By_The_Lake_and_Other_Stories.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811210355
     publication_date: 1987-09-01T05:00:18-04:00
-    cover_image_path: A_Month_By_The_Lake_and_Other_Stories.jpg
+    cover_image: /images/A_Month_By_The_Lake_and_Other_Stories.jpg
     forsale: false
     saleprice:
     shipping_charge:

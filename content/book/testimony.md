@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Recitative "
 editions:
   - binding: Clothbound
     isbn: B0017HC7YC
     publication_date: 1965-07-21T20:37:00-04:00
-    cover_image_path: testimony_reznikoff.jpeg
+    cover_image: /images/testimony_reznikoff.jpeg
     forsale: false
     saleprice:
     shipping_charge:

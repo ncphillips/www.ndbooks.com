@@ -13,13 +13,13 @@ translators:
   - contributor/barbara-wright.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811204835
     publication_date: 1973-11-01T06:00:00-04:00
-    cover_image_path: The_Flight_Of_Icarus.jpg
+    cover_image: /images/The_Flight_Of_Icarus.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811220866
     publication_date: 1973-11-01T06:00:00-04:00
-    cover_image_path: The_Flight_Of_Icarus.jpg
+    cover_image: /images/The_Flight_Of_Icarus.jpg
     forsale: true
     saleprice:
     shipping_charge:

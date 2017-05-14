@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811210881
     publication_date: 1989-04-01T06:00:45-04:00
-    cover_image_path: elephantsnest.JPG
+    cover_image: /images/elephantsnest.JPG
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811210874
     publication_date: 1989-04-01T06:00:45-04:00
-    cover_image_path: elephantsnest.JPG
+    cover_image: /images/elephantsnest.JPG
     forsale: false
     saleprice:
     shipping_charge:

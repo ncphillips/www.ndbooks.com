@@ -13,13 +13,13 @@ translators:
   - contributor/anna-kushner.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "An extraordinary child’s-eye view of prerevolutionary Havana in the late 1950s "
 editions:
   - binding: Paperback
     isbn: 9780811219419
     publication_date: 2013-10-29T16:27:00-04:00
-    cover_image_path: Leapfrog.jpg
+    cover_image: /images/Leapfrog.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811223270
     publication_date: 2013-10-29T16:27:00-04:00
-    cover_image_path: Leapfrog.jpg
+    cover_image: /images/Leapfrog.jpg
     forsale: true
     saleprice:
     shipping_charge:

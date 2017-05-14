@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "At last, a compact, powerful overview of one of America’s most beloved and radical poets—spanning more than six decades of work "
 editions:
   - binding: Clothbound
     isbn: 9780811227124
     publication_date: 2017-11-24T05:00:00-04:00
-    cover_image_path: /uploads/9780811227124.jpg
+    cover_image: /images/9780811227124.jpg
     forsale: false
     saleprice:
     shipping_charge:

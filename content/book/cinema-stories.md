@@ -14,13 +14,13 @@ translators:
   - contributor/martin-brady.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811217354
     publication_date: 2007-09-01T05:00:12-04:00
-    cover_image_path: Cinema_Stories.jpg
+    cover_image: /images/Cinema_Stories.jpg
     forsale: false
     saleprice:
     shipping_charge:

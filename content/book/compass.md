@@ -13,13 +13,13 @@ translators:
   - contributor/charlotte-mandell.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Winner of the 2015 Prix Goncourt, an astounding novel that bridges Europe and the Islamic world "
 editions:
   - binding: Clothbound
     isbn: 9780811226622
     publication_date: 2017-03-28T04:00:00-04:00
-    cover_image_path: /uploads/9780811226622.jpg
+    cover_image: /images/9780811226622.jpg
     forsale: true
     saleprice:
     shipping_charge:

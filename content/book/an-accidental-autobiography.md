@@ -14,13 +14,13 @@ translators:
 editors:
 contributors:
   - contributor/patti-smith.md
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811215350
     publication_date: 2003-04-01T05:59:33-04:00
-    cover_image_path: An_Accidental_Autobiography.jpg
+    cover_image: /images/An_Accidental_Autobiography.jpg
     forsale: false
     saleprice:
     shipping_charge:

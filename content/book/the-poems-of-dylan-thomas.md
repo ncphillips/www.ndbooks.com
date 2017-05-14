@@ -13,13 +13,13 @@ translators:
 editors:
 contributors:
   - contributor/thomas-keith.md
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Clothbound
     isbn: 9780811215411
     publication_date: 2003-04-01T06:00:46-04:00
-    cover_image_path: thepoemsofdylanthomas.JPG
+    cover_image: /images/thepoemsofdylanthomas.JPG
     forsale: false
     saleprice:
     shipping_charge:

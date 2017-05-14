@@ -14,13 +14,13 @@ translators:
 editors:
 contributors:
   - contributor/richard-sieburth.md
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811214902
     publication_date: 2002-02-01T06:00:00-04:00
-    cover_image_path: Ideograms_In_China.jpg
+    cover_image: /images/Ideograms_In_China.jpg
     forsale: true
     saleprice:
     shipping_charge:

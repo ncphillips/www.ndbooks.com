@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811218085
     publication_date: 2008-11-01T05:00:15-04:00
-    cover_image_path: Christmas_Poems.jpg
+    cover_image: /images/Christmas_Poems.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -13,13 +13,13 @@ translators:
   - contributor/susan-bernofsky.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "An unforgettable German bestseller about the European refugee crisis: “Erpenbeck will get under your skin” (Washington Post Book World) "
 editions:
   - binding: Paperback
     isbn: 9780811225946
     publication_date: 2017-09-15T04:00:00-04:00
-    cover_image_path: /uploads/9780811225946.jpg
+    cover_image: /images/9780811225946.jpg
     forsale: false
     saleprice:
     shipping_charge:

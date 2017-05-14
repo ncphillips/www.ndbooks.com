@@ -13,13 +13,13 @@ translators:
   - contributor/yvonne-l.-sandstroem.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811210188
     publication_date: 1987-05-01T05:00:58-04:00
-    cover_image_path: Funeral_Music_For_Freemasons.jpg
+    cover_image: /images/Funeral_Music_For_Freemasons.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811210171
     publication_date: 1987-05-01T05:00:58-04:00
-    cover_image_path: Funeral_Music_For_Freemasons.jpg
+    cover_image: /images/Funeral_Music_For_Freemasons.jpg
     forsale: false
     saleprice:
     shipping_charge:

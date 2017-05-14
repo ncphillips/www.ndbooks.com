@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "The critically acclaimed final masterwork of John Gardner is an American novel haunted with macabre and cerebral elements. "
 editions:
   - binding: Paperback
     isbn: 9780811216791
     publication_date: 2008-09-01T05:00:24-04:00
-    cover_image_path: Mickelssons_Ghosts_2.jpg
+    cover_image: /images/Mickelssons_Ghosts_2.jpg
     forsale: false
     saleprice:
     shipping_charge:

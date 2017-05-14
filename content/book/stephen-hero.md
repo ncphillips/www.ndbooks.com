@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811200745
     publication_date: 1963-01-19T03:14:00-04:00
-    cover_image_path: Stephen_Hero.jpg
+    cover_image: /images/Stephen_Hero.jpg
     forsale: false
     saleprice:
     shipping_charge:

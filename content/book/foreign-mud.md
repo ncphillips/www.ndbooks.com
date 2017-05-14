@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811215060
     publication_date: 2002-06-01T05:00:02-04:00
-    cover_image_path: Foreign_Mud.jpg
+    cover_image: /images/Foreign_Mud.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811215725
     publication_date: 2004-04-01T06:00:33-04:00
-    cover_image_path: Pack_My_Bag.jpg
+    cover_image: /images/Pack_My_Bag.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811212342
     publication_date: 2004-04-01T06:00:33-04:00
-    cover_image_path: Pack_My_Bag.jpg
+    cover_image: /images/Pack_My_Bag.jpg
     forsale: false
     saleprice:
     shipping_charge:

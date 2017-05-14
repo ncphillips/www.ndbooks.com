@@ -14,13 +14,13 @@ translators:
 editors:
   - contributor/eliot-weinberger.md
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811206235
     publication_date: 1976-11-01T06:00:00-04:00
-    cover_image_path: Eagle_Or_Sun_.jpg
+    cover_image: /images/Eagle_Or_Sun_.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811206228
     publication_date: 1976-11-01T06:00:00-04:00
-    cover_image_path: Eagle_Or_Sun_.jpg
+    cover_image: /images/Eagle_Or_Sun_.jpg
     forsale: true
     saleprice:
     shipping_charge:

@@ -13,13 +13,13 @@ translators:
 editors:
 contributors:
   - contributor/eliot-weinberger.md
-featured_image_path:
+featured_image:
 description: "Finally, My Emily Dickinson, Susan Howe's singular and unforgettable 1985 creative study, is available as a New Directions paperbook "
 editions:
   - binding: Paperback
     isbn: 9780811216838
     publication_date: 2007-11-01T05:00:00-04:00
-    cover_image_path: My_Emily_Dickinson.jpg
+    cover_image: /images/My_Emily_Dickinson.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811223348
     publication_date: 2007-11-01T05:00:00-04:00
-    cover_image_path: My_Emily_Dickinson.jpg
+    cover_image: /images/My_Emily_Dickinson.jpg
     forsale: true
     saleprice:
     shipping_charge:

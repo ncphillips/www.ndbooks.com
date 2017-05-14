@@ -14,13 +14,13 @@ translators:
 editors:
 contributors:
   - contributor/edwidge-danticat.md
-featured_image_path:
+featured_image:
 description: "By the acclaimed Haitian poet and scholar René Philoctète, the novel Massacre River: _a tour de force by an extraordinary writer_ (Edwidge Danticat). "
 editions:
   - binding: Paperback
     isbn: 9780811217255
     publication_date: 2008-05-01T05:00:43-04:00
-    cover_image_path: Massacre_River.jpg
+    cover_image: /images/Massacre_River.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811215855
     publication_date: 2008-05-01T05:00:43-04:00
-    cover_image_path: Massacre_River.jpg
+    cover_image: /images/Massacre_River.jpg
     forsale: false
     saleprice:
     shipping_charge:

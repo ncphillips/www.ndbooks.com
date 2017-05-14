@@ -13,7 +13,7 @@ translators:
   - contributor/kenneth-rexroth.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
 _slug: pierre-reverdy-selected-poems

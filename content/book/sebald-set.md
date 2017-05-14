@@ -13,13 +13,13 @@ translators:
   - contributor/michael-hulse.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "The masterworks of W. G. Sebald, now with gorgeous new covers by the famed designer Peter Mendelsund "
 editions:
   - binding: Paperback
     isbn: 9780811226424
     publication_date: 2016-11-08T05:00:00-04:00
-    cover_image_path: /uploads/SebaldSet.tiff
+    cover_image: /images/SebaldSet.tiff
     forsale: true
     saleprice:
     shipping_charge:

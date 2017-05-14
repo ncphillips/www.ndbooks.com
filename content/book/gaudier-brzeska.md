@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811205276
     publication_date: 1974-10-01T05:00:22-04:00
-    cover_image_path: Gaudier-Brzeska.jpg
+    cover_image: /images/Gaudier-Brzeska.jpg
     forsale: false
     saleprice:
     shipping_charge:

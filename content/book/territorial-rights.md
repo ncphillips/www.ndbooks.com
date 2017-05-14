@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Wheels spin within wheels in Spark’s comedy of betrayals and terrorism, set in her beloved Venice "
 editions:
   - binding: Paperback
     isbn: 9780811222655
     publication_date: 2014-04-29T14:12:00-04:00
-    cover_image_path: Territorial_Rights.jpg
+    cover_image: /images/Territorial_Rights.jpg
     forsale: false
     saleprice:
     shipping_charge:

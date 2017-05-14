@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811212427
     publication_date: 1993-05-01T05:00:04-04:00
-    cover_image_path: Poor_White.jpg
+    cover_image: /images/Poor_White.jpg
     forsale: false
     saleprice:
     shipping_charge:

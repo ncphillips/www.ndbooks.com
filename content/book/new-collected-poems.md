@@ -16,13 +16,13 @@ contributors:
   - contributor/michael-davidson.md
 
   - contributor/eliot-weinberger.md
-featured_image_path:
+featured_image:
 description: "“Michael Davidson has done a masterful job of editing this new edition of the _Collected Poems_.... Few poets significantly alter and enhance the state of the art. Oppen is one of them.” —Michael Palmer, Bookforum "
 editions:
   - binding: Paperback
     isbn: 9780811218054
     publication_date: 2008-11-01T05:00:00-04:00
-    cover_image_path: New_Collected_Poems.jpg
+    cover_image: /images/New_Collected_Poems.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -33,7 +33,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811214889
     publication_date: 2008-11-01T05:00:00-04:00
-    cover_image_path: New_Collected_Poems.jpg
+    cover_image: /images/New_Collected_Poems.jpg
     forsale: false
     saleprice:
     shipping_charge:

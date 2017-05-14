@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811214117
     publication_date: 1999-06-01T05:00:41-04:00
-    cover_image_path: Memoirs_Of_A_Shy_Pornographer.jpg
+    cover_image: /images/Memoirs_Of_A_Shy_Pornographer.jpg
     forsale: false
     saleprice:
     shipping_charge:

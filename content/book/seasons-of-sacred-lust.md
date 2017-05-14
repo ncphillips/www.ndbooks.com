@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811206785
     publication_date: 1978-04-01T06:00:00-04:00
-    cover_image_path: Seasons_of_Sacred_Lust_.jpg
+    cover_image: /images/Seasons_of_Sacred_Lust_.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811206877
     publication_date: 1978-04-01T06:00:00-04:00
-    cover_image_path: Seasons_of_Sacred_Lust_.jpg
+    cover_image: /images/Seasons_of_Sacred_Lust_.jpg
     forsale: true
     saleprice:
     shipping_charge:

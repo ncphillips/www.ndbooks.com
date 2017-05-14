@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811214414
     publication_date: 2000-06-01T05:00:35-04:00
-    cover_image_path: Elegies_And_Other_Poems_.jpg
+    cover_image: /images/Elegies_And_Other_Poems_.jpg
     forsale: false
     saleprice:
     shipping_charge:

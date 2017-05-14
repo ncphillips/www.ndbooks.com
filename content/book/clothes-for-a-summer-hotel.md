@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811208710
     publication_date: 1983-06-01T05:00:53-04:00
-    cover_image_path: Clothes_For_A_Summer_Hotel.jpg
+    cover_image: /images/Clothes_For_A_Summer_Hotel.jpg
     forsale: false
     saleprice:
     shipping_charge:

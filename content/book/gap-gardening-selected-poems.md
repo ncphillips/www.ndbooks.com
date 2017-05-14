@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "An essential edition of a major avant-garde poet. "
 editions:
   - binding: Paperback
     isbn: 9780811225144
     publication_date: 2016-04-19T04:00:00-04:00
-    cover_image_path: /uploads/gap_gardening_cover.jpg
+    cover_image: /images/gap_gardening_cover.jpg
     forsale: true
     saleprice:
     shipping_charge:

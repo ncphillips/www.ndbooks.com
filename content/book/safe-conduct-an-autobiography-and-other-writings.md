@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811201353
     publication_date: 1958-01-01T06:00:13-04:00
-    cover_image_path: Safe_Conduct_.jpg
+    cover_image: /images/Safe_Conduct_.jpg
     forsale: false
     saleprice:
     shipping_charge:

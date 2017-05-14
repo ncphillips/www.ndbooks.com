@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811206532
     publication_date: 1977-10-01T05:00:10-04:00
-    cover_image_path: Arrival.jpg
+    cover_image: /images/Arrival.jpg
     forsale: false
     saleprice:
     shipping_charge:

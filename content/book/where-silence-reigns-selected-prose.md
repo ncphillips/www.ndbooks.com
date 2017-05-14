@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811206976
     publication_date: 1978-10-01T05:00:17-04:00
-    cover_image_path: Where_Silence_Reigns_.jpg
+    cover_image: /images/Where_Silence_Reigns_.jpg
     forsale: false
     saleprice:
     shipping_charge:

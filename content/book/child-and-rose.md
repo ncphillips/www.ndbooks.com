@@ -13,13 +13,13 @@ translators:
   - contributor/peter-france.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A remarkable poetic account of a man and his daughter. "
 editions:
   - binding: Paperback
     isbn: 9780811215367
     publication_date: 2003-04-01T06:00:35-04:00
-    cover_image_path: Child-And-Rose.jpg
+    cover_image: /images/Child-And-Rose.jpg
     forsale: false
     saleprice:
     shipping_charge:

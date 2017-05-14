@@ -13,13 +13,13 @@ translators:
   - contributor/chris-andrews.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811217415
     publication_date: 2012-02-13T20:57:00-04:00
-    cover_image_path: Varamo1.jpg
+    cover_image: /images/Varamo1.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811219556
     publication_date: 2012-02-13T20:57:00-04:00
-    cover_image_path: Varamo1.jpg
+    cover_image: /images/Varamo1.jpg
     forsale: false
     saleprice:
     shipping_charge:

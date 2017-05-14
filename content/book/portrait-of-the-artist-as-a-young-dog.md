@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811202077
     publication_date: 1968-06-01T05:00:00-04:00
-    cover_image_path: Portrait_Of_The_Artist_As_A_Young_Dog.jpg
+    cover_image: /images/Portrait_Of_The_Artist_As_A_Young_Dog.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811220446
     publication_date: 1968-06-01T05:00:00-04:00
-    cover_image_path: Portrait_Of_The_Artist_As_A_Young_Dog.jpg
+    cover_image: /images/Portrait_Of_The_Artist_As_A_Young_Dog.jpg
     forsale: false
     saleprice:
     shipping_charge:

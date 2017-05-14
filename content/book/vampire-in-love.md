@@ -13,13 +13,13 @@ translators:
   - contributor/margaret-jull-costa.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "“Arguably Spain’s most significant contemporary literary figure” (Joanna Kavenna, _The New Yorker_) "
 editions:
   - binding: Paperback
     isbn: 9780811223461
     publication_date: 2016-09-27T04:00:00-04:00
-    cover_image_path: /uploads/978-0811223461.jpg
+    cover_image: /images/978-0811223461.jpg
     forsale: true
     saleprice:
     shipping_charge:

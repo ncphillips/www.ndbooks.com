@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "An ambitious, playful look at identity, myth, and history "
 editions:
   - binding: Paperback
     isbn: 9780811220422
     publication_date: 2013-03-26T20:11:00-04:00
-    cover_image_path: Helens_of_Troy_NY.jpg
+    cover_image: /images/Helens_of_Troy_NY.jpg
     forsale: false
     saleprice:
     shipping_charge:

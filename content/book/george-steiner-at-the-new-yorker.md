@@ -15,13 +15,13 @@ editors:
   - contributor/robert-boyers.md
 contributors:
   - contributor/robert-boyers.md
-featured_image_path:
+featured_image:
 description: "An education in a portmanteau: _George Steiner at The New Yorker_ collects his best work from his more than 150 pieces for the magazine "
 editions:
   - binding: Paperback
     isbn: 9780811217040
     publication_date: 2009-01-01T06:00:00-04:00
-    cover_image_path: George_Steiner_At_The_New_Yorker.jpg
+    cover_image: /images/George_Steiner_At_The_New_Yorker.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -32,7 +32,7 @@ editions:
   - binding: Ebook
     isbn: 9780811221658
     publication_date: 2009-01-01T06:00:00-04:00
-    cover_image_path: George_Steiner_At_The_New_Yorker.jpg
+    cover_image: /images/George_Steiner_At_The_New_Yorker.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -14,13 +14,13 @@ translators:
   - contributor/robyn-creswell.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A playful and erudite look at the origins of language "
 editions:
   - binding: Paperback
     isbn: 9780811224932
     publication_date: 2016-11-22T05:00:00-04:00
-    cover_image_path: /uploads/kilito_Tongue_to_size.tif
+    cover_image: /images/kilito_Tongue_to_size.tif
     forsale: true
     saleprice:
     shipping_charge:

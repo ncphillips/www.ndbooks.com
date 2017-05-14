@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811209021
     publication_date: 1984-08-01T05:00:34-04:00
-    cover_image_path: Stopped_Rocking.jpg
+    cover_image: /images/Stopped_Rocking.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811209014
     publication_date: 1984-08-01T05:00:34-04:00
-    cover_image_path: Stopped_Rocking.jpg
+    cover_image: /images/Stopped_Rocking.jpg
     forsale: false
     saleprice:
     shipping_charge:

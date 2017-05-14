@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811208628
     publication_date: 1983-05-01T05:00:23-04:00
-    cover_image_path: The_Tennis_Players.jpg
+    cover_image: /images/The_Tennis_Players.jpg
     forsale: false
     saleprice:
     shipping_charge:

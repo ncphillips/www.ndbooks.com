@@ -13,13 +13,13 @@ translators:
   - contributor/alyson-waters.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Three friends in a small Egyptian city celebrate idleness, elegance, and joie de vivre "
 editions:
   - binding: Paperback
     isbn: 9780811217798
     publication_date: 2010-05-01T05:00:00-04:00
-    cover_image_path: A_Splendid_Conspiracy.jpg
+    cover_image: /images/A_Splendid_Conspiracy.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811221269
     publication_date: 2010-05-01T05:00:00-04:00
-    cover_image_path: A_Splendid_Conspiracy.jpg
+    cover_image: /images/A_Splendid_Conspiracy.jpg
     forsale: true
     saleprice:
     shipping_charge:

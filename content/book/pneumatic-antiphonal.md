@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "The debut American publication by the winner of the 2006 Griffin Poetry Prize "
 editions:
   - binding: Paperback
     isbn: 9780811220408
     publication_date: 2013-03-26T20:14:00-04:00
-    cover_image_path: Pneumatic_Antiphonal_1.jpg
+    cover_image: /images/Pneumatic_Antiphonal_1.jpg
     forsale: false
     saleprice:
     shipping_charge:

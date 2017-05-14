@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Dame Muriel Spark delivers a delightfully alarming novel, full of high society and low cunning "
 editions:
   - binding: Paperback
     isbn: 9780811216593
     publication_date: 2007-10-01T05:00:00-04:00
-    cover_image_path: Symposium.jpg
+    cover_image: /images/Symposium.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811222433
     publication_date: 2007-10-01T05:00:00-04:00
-    cover_image_path: Symposium.jpg
+    cover_image: /images/Symposium.jpg
     forsale: false
     saleprice:
     shipping_charge:

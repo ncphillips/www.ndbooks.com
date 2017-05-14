@@ -14,13 +14,13 @@ translators:
 editors:
   - contributor/donald-d.-walsh.md
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811207676
     publication_date: 1980-11-01T05:59:00-04:00
-    cover_image_path: /uploads/Cardenal_%20Zero%20Hour.jpg
+    cover_image: /images/Cardenal_%20Zero%20Hour.jpg
     forsale: true
     saleprice:
     shipping_charge:

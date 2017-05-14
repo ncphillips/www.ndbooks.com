@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "New Directions' third book by Forrest Gander, _among the most gifted and accomplished poets of his generation_ (Mark Rudman). "
 editions:
   - binding: Paperback
     isbn: 9780811216357
     publication_date: 2005-09-01T05:00:08-04:00
-    cover_image_path: Eye_Against_Eye.jpg
+    cover_image: /images/Eye_Against_Eye.jpg
     forsale: false
     saleprice:
     shipping_charge:

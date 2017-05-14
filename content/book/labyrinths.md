@@ -20,13 +20,13 @@ editors:
   - contributor/james-irby.md
 contributors:
   - contributor/william-gibson.md
-featured_image_path:
+featured_image:
 description: "The newest edition of Borges groundbreaking trans-genre collection of short stories "
 editions:
   - binding: Paperback
     isbn: 9780811216999
     publication_date: 2007-05-01T05:00:00-04:00
-    cover_image_path: Labyrinths.jpg
+    cover_image: /images/Labyrinths.jpg
     forsale: false
     saleprice:
     shipping_charge:

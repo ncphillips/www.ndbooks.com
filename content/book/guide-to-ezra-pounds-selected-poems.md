@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811208574
     publication_date: 1983-02-01T06:00:56-04:00
-    cover_image_path: Guide_To_Ezra_Pounds_Selected_Poems_2.jpg
+    cover_image: /images/Guide_To_Ezra_Pounds_Selected_Poems_2.jpg
     forsale: false
     saleprice:
     shipping_charge:

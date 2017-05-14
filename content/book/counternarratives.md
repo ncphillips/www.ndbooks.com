@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Now in paperback, a bewitching collection of stories and novellas that are “suspenseful, thought-provoking, mystical, and haunting” (Publishers Weekly) "
 editions:
   - binding: Paperback
     isbn: 9780811225526
     publication_date: 2016-05-17T13:00:00-04:00
-    cover_image_path: /uploads/lmjm3MAcKWHXAYSWPvivMTZ4ZuVwotbceIUhv8Rz1vo.jpeg
+    cover_image: /images/lmjm3MAcKWHXAYSWPvivMTZ4ZuVwotbceIUhv8Rz1vo.jpeg
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811224345
     publication_date: 2016-05-17T13:00:00-04:00
-    cover_image_path: /uploads/Counternarratives_jacket.jpg
+    cover_image: /images/Counternarratives_jacket.jpg
     forsale: true
     saleprice:
     shipping_charge:

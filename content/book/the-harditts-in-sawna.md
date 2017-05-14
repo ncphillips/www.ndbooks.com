@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811206846
     publication_date: 1979-04-01T06:00:46-04:00
-    cover_image_path: The_Harditts_In_Sawna.jpg
+    cover_image: /images/The_Harditts_In_Sawna.jpg
     forsale: false
     saleprice:
     shipping_charge:

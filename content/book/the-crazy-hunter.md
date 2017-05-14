@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811212335
     publication_date: 1993-09-01T05:00:36-04:00
-    cover_image_path: The_Crazy_Hunter_.jpg
+    cover_image: /images/The_Crazy_Hunter_.jpg
     forsale: false
     saleprice:
     shipping_charge:

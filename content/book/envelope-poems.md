@@ -15,13 +15,13 @@ editors:
 
   - contributor/marta-werner.md
 contributors:
-featured_image_path:
+featured_image:
 description: "Another gorgeous copublication with the Christine Burgin Gallery, _Envelope Poems_ is a compact, clothbound gift book, a full-color selection from _The Gorgeous Nothings_ "
 editions:
   - binding: Clothbound
     isbn: 9780811225823
     publication_date: 2016-10-04T04:00:00-04:00
-    cover_image_path: /uploads/envelope_poems_to_size.tif
+    cover_image: /images/envelope_poems_to_size.tif
     forsale: true
     saleprice:
     shipping_charge:

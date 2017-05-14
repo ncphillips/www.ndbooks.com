@@ -13,13 +13,13 @@ translators:
   - contributor/margaret-jull-costa.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Marías's riveting novel about an opera singer and an extramarital affair is now a paperbook. "
 editions:
   - binding: Paperback
     isbn: 9780811216777
     publication_date: 2008-02-01T06:00:00-04:00
-    cover_image_path: The_Man_Of_Feeling.jpg
+    cover_image: /images/The_Man_Of_Feeling.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811215312
     publication_date: 2008-02-01T06:00:00-04:00
-    cover_image_path: The_Man_Of_Feeling.jpg
+    cover_image: /images/The_Man_Of_Feeling.jpg
     forsale: false
     saleprice:
     shipping_charge:

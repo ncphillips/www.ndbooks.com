@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A compassionate tale of marriage, manners, and betrayal, from the Portuguese master "
 editions:
   - binding: Paperback
     isbn: 9780811222181
     publication_date: 2016-04-19T04:00:00-04:00
-    cover_image_path: /uploads/THE%20YELLOW%20SOFA.tif
+    cover_image: /images/THE%20YELLOW%20SOFA.tif
     forsale: true
     saleprice:
     shipping_charge:

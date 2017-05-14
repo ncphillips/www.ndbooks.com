@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A classic of 20th-century fiction, _Goodbye to Berlin_ inspired the Oscar-winning film _Cabaret_ "
 editions:
   - binding: Paperback
     isbn: 9780811220248
     publication_date: 2012-09-27T17:37:36-04:00
-    cover_image_path: Goodbye-to-Berlin.jpg
+    cover_image: /images/Goodbye-to-Berlin.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811220255
     publication_date: 2012-09-27T17:37:36-04:00
-    cover_image_path: Goodbye-to-Berlin.jpg
+    cover_image: /images/Goodbye-to-Berlin.jpg
     forsale: false
     saleprice:
     shipping_charge:

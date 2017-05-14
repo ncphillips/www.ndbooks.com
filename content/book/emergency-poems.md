@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811201346
     publication_date: 1972-04-01T06:00:08-04:00
-    cover_image_path: Emergency_Poems.jpg
+    cover_image: /images/Emergency_Poems.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811203401
     publication_date: 1972-04-01T06:00:08-04:00
-    cover_image_path: Emergency_Poems.jpg
+    cover_image: /images/Emergency_Poems.jpg
     forsale: false
     saleprice:
     shipping_charge:

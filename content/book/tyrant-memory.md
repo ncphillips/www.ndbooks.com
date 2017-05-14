@@ -13,13 +13,13 @@ translators:
   - contributor/katherine-silver.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Castellanos Moya's unforgettable incarnation of a country's history in the destiny of one family. "
 editions:
   - binding: Paperback
     isbn: 9780811219174
     publication_date: 2011-06-29T14:28:00-04:00
-    cover_image_path: tyrant_memory_cover.jpg
+    cover_image: /images/tyrant_memory_cover.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811219860
     publication_date: 2011-06-29T14:28:00-04:00
-    cover_image_path: tyrant_memory_cover.jpg
+    cover_image: /images/tyrant_memory_cover.jpg
     forsale: false
     saleprice:
     shipping_charge:

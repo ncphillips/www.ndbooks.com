@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811212052
     publication_date: 1992-05-01T05:00:13-04:00
-    cover_image_path: The_Man_With_The_Heart_In_The_Highlands_.jpg
+    cover_image: /images/The_Man_With_The_Heart_In_The_Highlands_.jpg
     forsale: false
     saleprice:
     shipping_charge:

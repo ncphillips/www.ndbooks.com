@@ -13,13 +13,13 @@ translators:
   - contributor/ralph-manheim.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811209618
     publication_date: 1986-02-01T06:00:56-04:00
-    cover_image_path: The_Life_Before_Us.jpg
+    cover_image: /images/The_Life_Before_Us.jpg
     forsale: false
     saleprice:
     shipping_charge:

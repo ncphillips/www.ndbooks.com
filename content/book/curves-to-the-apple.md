@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Three pivotal works conceived by the avant-garde poet as a trilogy and now together in one volume at last. "
 editions:
   - binding: Paperback
     isbn: 9780811216739
     publication_date: 2007-09-01T05:00:14-04:00
-    cover_image_path: Curves_To_The_Apple.jpg
+    cover_image: /images/Curves_To_The_Apple.jpg
     forsale: false
     saleprice:
     shipping_charge:

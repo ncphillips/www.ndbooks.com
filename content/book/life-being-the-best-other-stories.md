@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811210539
     publication_date: 1988-04-01T06:00:33-04:00
-    cover_image_path: Life_Being_The_Best_and_Other_Stories.jpg
+    cover_image: /images/Life_Being_The_Best_and_Other_Stories.jpg
     forsale: false
     saleprice:
     shipping_charge:

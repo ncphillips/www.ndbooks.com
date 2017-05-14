@@ -13,13 +13,13 @@ translators:
   - contributor/sylvia-beach.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A wild journey to the East narrated by a writer who is _without equal in the literature of our time_ (Jorge Luis Borges) "
 editions:
   - binding: Paperback
     isbn: 9780811222136
     publication_date: 2016-05-31T04:00:00-04:00
-    cover_image_path: /uploads/A%20BARBARIAN%20IN%20ASIA.tif
+    cover_image: /images/A%20BARBARIAN%20IN%20ASIA.tif
     forsale: true
     saleprice:
     shipping_charge:

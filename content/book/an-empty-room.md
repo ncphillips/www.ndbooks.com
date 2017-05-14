@@ -14,13 +14,13 @@ translators:
   - contributor/toming-jun-liu.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A dazzling cycle of short stories by one of China's most revered contemporary writers and one of the world's leading artist-intellectuals. "
 editions:
   - binding: Paperback
     isbn: 9780811219228
     publication_date: 2011-05-23T14:28:00-04:00
-    cover_image_path: anemptyroom.JPG
+    cover_image: /images/anemptyroom.JPG
     forsale: true
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Ebook
     isbn: 9780811219662
     publication_date: 2011-05-23T14:28:00-04:00
-    cover_image_path: anemptyroom.JPG
+    cover_image: /images/anemptyroom.JPG
     forsale: true
     saleprice:
     shipping_charge:

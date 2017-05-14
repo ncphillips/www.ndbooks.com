@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811212601
     publication_date: 1994-03-01T06:00:28-04:00
-    cover_image_path: Nissequott.jpg
+    cover_image: /images/Nissequott.jpg
     forsale: false
     saleprice:
     shipping_charge:

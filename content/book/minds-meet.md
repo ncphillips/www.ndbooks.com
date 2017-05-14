@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 978081120558
     publication_date: 1975-01-01T06:00:54-04:00
-    cover_image_path: mindsmeet.jpg
+    cover_image: /images/mindsmeet.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 978081120557
     publication_date: 1975-01-01T06:00:54-04:00
-    cover_image_path: mindsmeet.jpg
+    cover_image: /images/mindsmeet.jpg
     forsale: false
     saleprice:
     shipping_charge:

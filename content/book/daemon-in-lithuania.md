@@ -13,13 +13,13 @@ translators:
   - contributor/barbara-wright.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811209397
     publication_date: 1985-04-01T06:00:25-04:00
-    cover_image_path: Daemon_In_Lithuania.jpg
+    cover_image: /images/Daemon_In_Lithuania.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811209304
     publication_date: 1985-04-01T06:00:25-04:00
-    cover_image_path: Daemon_In_Lithuania.jpg
+    cover_image: /images/Daemon_In_Lithuania.jpg
     forsale: false
     saleprice:
     shipping_charge:

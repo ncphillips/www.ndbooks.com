@@ -14,13 +14,13 @@ translators:
   - contributor/andrew-bromfield.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811215435
     publication_date: 2003-05-01T05:00:00-04:00
-    cover_image_path: A_Werewolf_Problem_In_Central_Russia.jpg
+    cover_image: /images/A_Werewolf_Problem_In_Central_Russia.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811213943
     publication_date: 2003-05-01T05:00:00-04:00
-    cover_image_path: A_Werewolf_Problem_In_Central_Russia.jpg
+    cover_image: /images/A_Werewolf_Problem_In_Central_Russia.jpg
     forsale: true
     saleprice:
     shipping_charge:

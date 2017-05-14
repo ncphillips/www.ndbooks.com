@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811206945
     publication_date: 1978-10-01T05:00:00-04:00
-    cover_image_path: Prince_Friedrich_Of_Homburg.jpg
+    cover_image: /images/Prince_Friedrich_Of_Homburg.jpg
     forsale: false
     saleprice:
     shipping_charge:

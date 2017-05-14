@@ -13,13 +13,13 @@ translators:
   - contributor/breon-mitchell.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811212106
     publication_date: 1992-05-01T05:00:23-04:00
-    cover_image_path: Knife_Edge.jpg
+    cover_image: /images/Knife_Edge.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811212045
     publication_date: 1992-05-01T05:00:23-04:00
-    cover_image_path: Knife_Edge.jpg
+    cover_image: /images/Knife_Edge.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -14,13 +14,13 @@ translators:
   - contributor/paul-mccarthy.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A novella and two short stories reveal Tanizaki at his best and most bizarre "
 editions:
   - binding: Paperback
     isbn: 9780811224499
     publication_date: 2015-08-27T04:00:00-04:00
-    cover_image_path: /uploads/tanizaki_cat_cover.tiff
+    cover_image: /images/tanizaki_cat_cover.tiff
     forsale: true
     saleprice:
     shipping_charge:

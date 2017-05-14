@@ -14,13 +14,13 @@ translators:
   - contributor/stephen-sartarelli.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811212809
     publication_date: 2016-03-21T04:00:00-04:00
-    cover_image_path: /uploads/voyage_cover_final.jpg
+    cover_image: /images/voyage_cover_final.jpg
     forsale: true
     saleprice:
     shipping_charge:

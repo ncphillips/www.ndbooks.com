@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811200455
     publication_date: 1969-04-01T06:00:00-04:00
-    cover_image_path: The_Secret_Meaning_Of_Things.jpg
+    cover_image: /images/The_Secret_Meaning_Of_Things.jpg
     forsale: false
     saleprice:
     shipping_charge:

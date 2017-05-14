@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "In a Whitmanesque voice that aims toward American universals, while remaining grounded in his Chicano ancestry, Jimmy Santiago Baca explores the cycles of the seasons and the cycles of life in beautiful and accessible poems. "
 editions:
   - binding: Paperback
     isbn: 9780811216852
     publication_date: 2007-04-01T05:00:00-04:00
-    cover_image_path: SpringPoems_Along_the_Rio_Grande.jpg
+    cover_image: /images/SpringPoems_Along_the_Rio_Grande.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811223393
     publication_date: 2007-04-01T05:00:00-04:00
-    cover_image_path: SpringPoems_Along_the_Rio_Grande.jpg
+    cover_image: /images/SpringPoems_Along_the_Rio_Grande.jpg
     forsale: false
     saleprice:
     shipping_charge:

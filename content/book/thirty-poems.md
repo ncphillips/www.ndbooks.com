@@ -14,13 +14,13 @@ translators:
 editors:
 contributors:
   - contributor/christopher-middleton.md
-featured_image_path:
+featured_image:
 description: "A deluxe edition of the Swiss master's best poems "
 editions:
   - binding: Clothbound
     isbn: 9780811220019
     publication_date: 2012-06-28T15:54:00-04:00
-    cover_image_path: Thirty_Poems_2.jpg
+    cover_image: /images/Thirty_Poems_2.jpg
     forsale: true
     saleprice:
     shipping_charge:

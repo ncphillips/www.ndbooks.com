@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811213257
     publication_date: 1996-06-01T05:00:36-04:00
-    cover_image_path: Proper_Name_.jpg
+    cover_image: /images/Proper_Name_.jpg
     forsale: false
     saleprice:
     shipping_charge:

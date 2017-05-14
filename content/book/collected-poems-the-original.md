@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "The original and classic _Collected Poems of Dylan Thomas_ is available once again, now with a brilliant new preface by Paul Muldoon. "
 editions:
   - binding: Paperback
     isbn: 9780811218818
     publication_date: 2010-04-01T05:00:00-04:00
-    cover_image_path: collected_poems.jpg
+    cover_image: /images/collected_poems.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811223089
     publication_date: 2010-04-01T05:00:00-04:00
-    cover_image_path: collected_poems.jpg
+    cover_image: /images/collected_poems.jpg
     forsale: false
     saleprice:
     shipping_charge:

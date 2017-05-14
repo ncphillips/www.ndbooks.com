@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "The key book by the internationally celebrated poet with the only _Polish ghetto-hassidic-cowboy and Indian American comic voice_ (Robert Duncan) in history. "
 editions:
   - binding: Paperback
     isbn: 9780811216920
     publication_date: 2007-06-01T05:00:37-04:00
-    cover_image_path: Triptych.jpg
+    cover_image: /images/Triptych.jpg
     forsale: false
     saleprice:
     shipping_charge:

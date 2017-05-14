@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811202107
     publication_date: 1971-06-01T05:00:14-04:00
-    cover_image_path: E._M._Forster.jpg
+    cover_image: /images/E._M._Forster.jpg
     forsale: false
     saleprice:
     shipping_charge:

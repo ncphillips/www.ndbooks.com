@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811209649
     publication_date: 1985-09-01T05:00:40-04:00
-    cover_image_path: Prisoner_Of_Grace.jpg
+    cover_image: /images/Prisoner_Of_Grace.jpg
     forsale: false
     saleprice:
     shipping_charge:

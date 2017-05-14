@@ -13,13 +13,13 @@ translators:
   - contributor/geoffrey-w.-sargent.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "One of the most powerful short stories ever written: Yukio Mishima’s masterpiece about the erotics of patriotism and honor, love and suicide "
 editions:
   - binding: Paperback
     isbn: 9780811218542
     publication_date: 2010-02-01T06:00:00-04:00
-    cover_image_path: Patriotism_w.jpg
+    cover_image: /images/Patriotism_w.jpg
     forsale: true
     saleprice:
     shipping_charge:

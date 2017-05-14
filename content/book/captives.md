@@ -13,13 +13,13 @@ translators:
   - contributor/jean-harris.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A stunning novel set in postwar Romania about language, identity, and loss "
 editions:
   - binding: Paperback
     isbn: 9780811220477
     publication_date: 2014-12-11T15:48:00-04:00
-    cover_image_path: captives_cover.jpg
+    cover_image: /images/captives_cover.jpg
     forsale: false
     saleprice:
     shipping_charge:

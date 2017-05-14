@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811208673
     publication_date: 1983-05-01T05:00:00-04:00
-    cover_image_path: Fragments_of_Perseus.jpg
+    cover_image: /images/Fragments_of_Perseus.jpg
     forsale: false
     saleprice:
     shipping_charge:

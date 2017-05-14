@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811204514
     publication_date: 1972-11-01T05:59:00-04:00
-    cover_image_path: Invisibility_Is_The_Art_Of_Survival.jpg
+    cover_image: /images/Invisibility_Is_The_Art_Of_Survival.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811204507
     publication_date: 1972-11-01T05:59:00-04:00
-    cover_image_path: Invisibility_Is_The_Art_Of_Survival.jpg
+    cover_image: /images/Invisibility_Is_The_Art_Of_Survival.jpg
     forsale: false
     saleprice:
     shipping_charge:

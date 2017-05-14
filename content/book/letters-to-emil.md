@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811211703
     publication_date: 1989-06-01T05:00:05-04:00
-    cover_image_path: Letters_To_Emil.jpg
+    cover_image: /images/Letters_To_Emil.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811210928
     publication_date: 1989-06-01T05:00:05-04:00
-    cover_image_path: Letters_To_Emil.jpg
+    cover_image: /images/Letters_To_Emil.jpg
     forsale: false
     saleprice:
     shipping_charge:

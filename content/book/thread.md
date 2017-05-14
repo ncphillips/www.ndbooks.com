@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "_Thread_ presents eighty-six new poems by _the foremost experimental poet of his generation, and perhaps of the last several generations_ (The Poetry Society of America's 2006 Wallace Stevens Award citation). "
 editions:
   - binding: Paperback
     isbn: 9780811219211
     publication_date: 2011-05-27T14:28:40-04:00
-    cover_image_path: thread.JPG
+    cover_image: /images/thread.JPG
     forsale: false
     saleprice:
     shipping_charge:

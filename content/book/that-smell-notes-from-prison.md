@@ -14,13 +14,13 @@ translators:
 editors:
   - contributor/robyn-creswell.md
 contributors:
-featured_image_path:
+featured_image:
 description: "_That Smell_ — a watershed in contemporary Egyptian fiction — combined with the author’s _Notes from Prison_ in a single edition "
 editions:
   - binding: Paperback
     isbn: 9780811220361
     publication_date: 2013-03-22T16:48:00-04:00
-    cover_image_path: That_Smell.jpg
+    cover_image: /images/That_Smell.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Ebook
     isbn: 9780811220620
     publication_date: 2013-03-22T16:48:00-04:00
-    cover_image_path: That_Smell.jpg
+    cover_image: /images/That_Smell.jpg
     forsale: false
     saleprice:
     shipping_charge:

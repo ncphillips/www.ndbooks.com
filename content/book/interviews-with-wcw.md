@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811206211
     publication_date: 1976-11-01T06:00:56-04:00
-    cover_image_path: Interviews_with_WCW.JPG
+    cover_image: /images/Interviews_with_WCW.JPG
     forsale: false
     saleprice:
     shipping_charge:

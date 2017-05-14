@@ -13,13 +13,13 @@ translators:
   - contributor/richard-ellman.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811201056
     publication_date: 1990-09-01T05:00:00-04:00
-    cover_image_path: Selected_Writings._Henri_Michaux_.jpg
+    cover_image: /images/Selected_Writings._Henri_Michaux_.jpg
     forsale: true
     saleprice:
     shipping_charge:

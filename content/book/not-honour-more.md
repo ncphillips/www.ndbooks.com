@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811209663
     publication_date: 1985-09-01T05:00:13-04:00
-    cover_image_path: Not_Honour_More.jpg
+    cover_image: /images/Not_Honour_More.jpg
     forsale: false
     saleprice:
     shipping_charge:

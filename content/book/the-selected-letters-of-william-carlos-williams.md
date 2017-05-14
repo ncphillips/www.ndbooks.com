@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811209342
     publication_date: 1985-02-01T06:00:11-04:00
-    cover_image_path: The_Selected_Letters_Of_Williams_Carlos_Williams_.jpg
+    cover_image: /images/The_Selected_Letters_Of_Williams_Carlos_Williams_.jpg
     forsale: false
     saleprice:
     shipping_charge:

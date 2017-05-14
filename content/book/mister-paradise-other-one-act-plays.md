@@ -18,13 +18,13 @@ contributors:
   - contributor/eli-wallach.md
 
   - contributor/anne-jackson.md
-featured_image_path:
+featured_image:
 description: "These Are the Stairs You've Got to Watch / Mister Paradise / The Palooka Escape / Why Do You Smoke So Much, Lily? / Summer at the Lake / The Big Game / The Pink Bedroom / The Fat Man's Wife / Thank You, Kind Spirit / The Municipal Abbatoir / Adam and Eve on a Ferry / And Tell Sad Stories of the Deaths of Queens "
 editions:
   - binding: Paperback
     isbn: 9780811216203
     publication_date: 2005-04-01T06:00:00-04:00
-    cover_image_path: misterparadise.JPG
+    cover_image: /images/misterparadise.JPG
     forsale: true
     saleprice:
     shipping_charge:

@@ -14,13 +14,13 @@ translators:
 editors:
 contributors:
   - contributor/mark-kurlansky.md
-featured_image_path:
+featured_image:
 description: "An essential compendium for understanding Gandhi's profound legacy "
 editions:
   - binding: Paperback
     isbn: 9780811216869
     publication_date: 2007-11-01T05:00:00-04:00
-    cover_image_path: Gandhi_On_Non-Violence.jpg
+    cover_image: /images/Gandhi_On_Non-Violence.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Ebook
     isbn: 9780811220125
     publication_date: 2007-11-01T05:00:00-04:00
-    cover_image_path: Gandhi_On_Non-Violence.jpg
+    cover_image: /images/Gandhi_On_Non-Violence.jpg
     forsale: false
     saleprice:
     shipping_charge:

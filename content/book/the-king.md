@@ -13,13 +13,13 @@ translators:
   - contributor/nancy-forest-flier.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A hypnotic page-turner about historical change and ruthless palace intrigue in Persia, c. 1848 "
 editions:
   - binding: Paperback
     isbn: 9780811223737
     publication_date: 2015-10-27T14:09:00-04:00
-    cover_image_path: /uploads/TheKingCover.jpg
+    cover_image: /images/TheKingCover.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811223744
     publication_date: 2015-10-27T14:09:00-04:00
-    cover_image_path: The_King.png
+    cover_image: /images/The_King.png
     forsale: true
     saleprice:
     shipping_charge:

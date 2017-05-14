@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A heartwarming appreciation by two sons of their extraordinary father. "
 editions:
   - binding: Paperback
     isbn: 9780811216166
     publication_date: 2010-05-01T05:00:00-04:00
-    cover_image_path: An_American_Dad.jpg
+    cover_image: /images/An_American_Dad.jpg
     forsale: false
     saleprice:
     shipping_charge:

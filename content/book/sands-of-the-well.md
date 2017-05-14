@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811213615
     publication_date: 1998-02-01T06:00:00-04:00
-    cover_image_path: Sands_Of_The_Well.jpg
+    cover_image: /images/Sands_Of_The_Well.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811213165
     publication_date: 1998-02-01T06:00:00-04:00
-    cover_image_path: Sands_Of_The_Well.jpg
+    cover_image: /images/Sands_Of_The_Well.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -40,7 +40,7 @@ editions:
   - binding: Ebook
     isbn: 9780811221887
     publication_date: 1998-02-01T06:00:00-04:00
-    cover_image_path: Sands_Of_The_Well.jpg
+    cover_image: /images/Sands_Of_The_Well.jpg
     forsale: false
     saleprice:
     shipping_charge:

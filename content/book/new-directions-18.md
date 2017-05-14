@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "featuring works by Gregory Corso, Lawrence Ferlinghetti, and Thomas Merton. "
 editions:
   - binding: Clothbound
     isbn: 9780811203296fi
     publication_date: 1964-04-01T05:59:59-04:00
-    cover_image_path: NDAnnual_18.jpg
+    cover_image: /images/NDAnnual_18.jpg
     forsale: false
     saleprice:
     shipping_charge:

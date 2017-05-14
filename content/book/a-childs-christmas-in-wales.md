@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "The classic Christmas tale, with beautiful new illustrations "
 editions:
   - binding: Paperback
     isbn: 9780811226226
     publication_date: 2016-10-25T23:00:00-04:00
-    cover_image_path: /uploads/dylan-thomas_childs_xmas.jpg
+    cover_image: /images/dylan-thomas_childs_xmas.jpg
     forsale: true
     saleprice:
     shipping_charge:

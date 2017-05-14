@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811203357
     publication_date: 1967-01-19T03:14:00-04:00
-    cover_image_path: Selected_Writings._Charles_Olson_.jpg
+    cover_image: /images/Selected_Writings._Charles_Olson_.jpg
     forsale: true
     saleprice:
     shipping_charge:

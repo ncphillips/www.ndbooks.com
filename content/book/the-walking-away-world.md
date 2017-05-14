@@ -13,13 +13,13 @@ translators:
 editors:
 contributors:
   - contributor/jim-woodring.md
-featured_image_path:
+featured_image:
 description: "The wonderful picture-poems of Kenneth Patchen, long out of print, are being brought back into one generous volume -- cryptic creatures quipping quirky quotes and all. "
 editions:
   - binding: Paperback
     isbn: 9780811217576
     publication_date: 2008-07-01T05:00:43-04:00
-    cover_image_path: The_Walking_Away_World.jpg
+    cover_image: /images/The_Walking_Away_World.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A new collection from “one of the world’s great essayists” (_The New York Times_) "
 editions:
   - binding: Paperback
     isbn: 9780811226189
     publication_date: 2016-10-11T04:00:00-04:00
-    cover_image_path: /uploads/weinberger_ghosts_of_birds%20copy.jpg
+    cover_image: /images/weinberger_ghosts_of_birds%20copy.jpg
     forsale: true
     saleprice:
     shipping_charge:

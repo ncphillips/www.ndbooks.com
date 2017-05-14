@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Muriel Spark's bracingly salty memoir is a no-holds-barred trip through an extraordinary writer's life. "
 editions:
   - binding: Paperback
     isbn: 978081121438
     publication_date: 2011-05-18T14:27:00-04:00
-    cover_image_path: curriculum_vitae_SPARK.JPG
+    cover_image: /images/curriculum_vitae_SPARK.JPG
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811219136
     publication_date: 2011-05-18T14:27:00-04:00
-    cover_image_path: curriculum_vitae_SPARK.JPG
+    cover_image: /images/curriculum_vitae_SPARK.JPG
     forsale: false
     saleprice:
     shipping_charge:

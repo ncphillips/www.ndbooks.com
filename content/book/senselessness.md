@@ -13,13 +13,13 @@ translators:
   - contributor/katherine-silver.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A Rainmaker Translation Grant Winner from the Black Mountain Institute: Senselessness, acclaimed Salvadoran author Horacio Castellanos Moya's astounding debut in English, explores horror with hilarity and electrifying panache. "
 editions:
   - binding: Paperback
     isbn: 9780811217071
     publication_date: 2008-05-01T05:00:00-04:00
-    cover_image_path: Senselessness.jpg
+    cover_image: /images/Senselessness.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811219846
     publication_date: 2008-05-01T05:00:00-04:00
-    cover_image_path: Senselessness.jpg
+    cover_image: /images/Senselessness.jpg
     forsale: false
     saleprice:
     shipping_charge:

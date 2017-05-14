@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811205696
     publication_date: 1975-04-01T05:00:00-04:00
-    cover_image_path: /uploads/Hawkes_Death%20Sleep%20and%20the%20Traveler.jpg
+    cover_image: /images/Hawkes_Death%20Sleep%20and%20the%20Traveler.jpg
     forsale: true
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811212397
     publication_date: 1994-06-01T05:00:44-04:00
-    cover_image_path: Novel_On_Yellow_Paper.jpg
+    cover_image: /images/Novel_On_Yellow_Paper.jpg
     forsale: false
     saleprice:
     shipping_charge:

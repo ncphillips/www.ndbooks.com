@@ -14,13 +14,13 @@ translators:
 editors:
 contributors:
   - contributor/gustave-flaubert.md
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811200547
     publication_date: 1954-03-01T06:00:00-04:00
-    cover_image_path: The_Dictionary_of_Accepted_Ideas_.jpg
+    cover_image: /images/The_Dictionary_of_Accepted_Ideas_.jpg
     forsale: true
     saleprice:
     shipping_charge:

@@ -13,13 +13,13 @@ translators:
   - contributor/donald-d.-walsh.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A beautiful new gift book of Pablo Neruda's greatest love poems for all occasions "
 editions:
   - binding: Paperback
     isbn: 9780811217293
     publication_date: 2008-12-01T06:00:00-04:00
-    cover_image_path: Love_Poems.jpg
+    cover_image: /images/Love_Poems.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811221481
     publication_date: 2008-12-01T06:00:00-04:00
-    cover_image_path: Love_Poems.jpg
+    cover_image: /images/Love_Poems.jpg
     forsale: true
     saleprice:
     shipping_charge:

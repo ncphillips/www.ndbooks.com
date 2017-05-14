@@ -13,13 +13,13 @@ translators:
   - contributor/leland-guyer.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811223959
     publication_date: 2015-04-07T14:38:00-04:00
-    cover_image_path: dirty_poem.jpg
+    cover_image: /images/dirty_poem.jpg
     forsale: true
     saleprice:
     shipping_charge:

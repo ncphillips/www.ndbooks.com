@@ -13,13 +13,13 @@ translators:
   - contributor/alexis-levitin.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Award-winning poetry in a bilingual edition, by Portugal's best-known living poet. "
 editions:
   - binding: Paperback
     isbn: 9780811215237
     publication_date: 2003-02-01T06:00:48-04:00
-    cover_image_path: Forbidden_Words.jpg
+    cover_image: /images/Forbidden_Words.jpg
     forsale: false
     saleprice:
     shipping_charge:

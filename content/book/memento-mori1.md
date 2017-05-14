@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Poignant, hilarious, and spooky, Memento Mori addresses old age "
 editions:
   - binding: Paperback
     isbn: 9780811223041
     publication_date: 2014-05-27T15:08:00-04:00
-    cover_image_path: Memento_Mori_1.jpg
+    cover_image: /images/Memento_Mori_1.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811219372
     publication_date: 2014-05-27T15:08:00-04:00
-    cover_image_path: Memento_Mori_1.jpg
+    cover_image: /images/Memento_Mori_1.jpg
     forsale: false
     saleprice:
     shipping_charge:

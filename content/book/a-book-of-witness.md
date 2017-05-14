@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A landmark collection by one of America's leading avant-gardists. "
 editions:
   - binding: Paperback
     isbn: 9780811215374
     publication_date: 2003-04-01T06:00:36-04:00
-    cover_image_path: A_Book_Of_Witness.jpg
+    cover_image: /images/A_Book_Of_Witness.jpg
     forsale: false
     saleprice:
     shipping_charge:

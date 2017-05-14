@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811210584
     publication_date: 1988-04-01T06:00:00-04:00
-    cover_image_path: The_Stillness_Of_The_World_Before_Bach.jpg
+    cover_image: /images/The_Stillness_Of_The_World_Before_Bach.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811210577
     publication_date: 1988-04-01T06:00:00-04:00
-    cover_image_path: The_Stillness_Of_The_World_Before_Bach.jpg
+    cover_image: /images/The_Stillness_Of_The_World_Before_Bach.jpg
     forsale: true
     saleprice:
     shipping_charge:

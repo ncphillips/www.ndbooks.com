@@ -13,13 +13,13 @@ translators:
   - contributor/rupert-copeland-cunningham.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "An intoxicating sui generis novel by _the greatest mesmerist of modern times_ (André Breton) "
 editions:
   - binding: Paperback
     isbn: 9780811226455
     publication_date: 2017-03-28T04:00:00-04:00
-    cover_image_path: /uploads/9780811226455.jpg
+    cover_image: /images/9780811226455.jpg
     forsale: true
     saleprice:
     shipping_charge:

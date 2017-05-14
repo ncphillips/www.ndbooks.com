@@ -14,13 +14,13 @@ translators:
 editors:
   - contributor/bei-dao.md
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811215848
     publication_date: 2005-05-01T05:00:37-04:00
-    cover_image_path: midnightsgate_.JPG
+    cover_image: /images/midnightsgate_.JPG
     forsale: false
     saleprice:
     shipping_charge:

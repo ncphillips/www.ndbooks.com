@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811212991
     publication_date: 1995-05-01T05:00:19-04:00
-    cover_image_path: Breaths_Burials_2.jpg
+    cover_image: /images/Breaths_Burials_2.jpg
     forsale: false
     saleprice:
     shipping_charge:

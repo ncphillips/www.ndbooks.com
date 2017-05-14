@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811200042
     publication_date: 1965-01-19T03:14:00-04:00
-    cover_image_path: The_Dhammapada.jpg
+    cover_image: /images/The_Dhammapada.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811221429
     publication_date: 1965-01-19T03:14:00-04:00
-    cover_image_path: The_Dhammapada.jpg
+    cover_image: /images/The_Dhammapada.jpg
     forsale: true
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A gathering of all of Zukofsky's poems outside of _A_––poems that are _absolute clarification, crystal cabinets full of air and angels_ (Kenneth Rexroth). "
 editions:
   - binding: Paperback
     isbn: 9780811218726
     publication_date: 2001-01-01T06:00:57-04:00
-    cover_image_path: Anew.JPG
+    cover_image: /images/Anew.JPG
     forsale: false
     saleprice:
     shipping_charge:

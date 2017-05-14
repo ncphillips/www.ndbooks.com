@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Fearless new poems by America’s everyman bard "
 editions:
   - binding: Paperback
     isbn: 9780811221788
     publication_date: 2014-01-27T19:45:00-04:00
-    cover_image_path: Blasts_Cries_web.jpg
+    cover_image: /images/Blasts_Cries_web.jpg
     forsale: false
     saleprice:
     shipping_charge:

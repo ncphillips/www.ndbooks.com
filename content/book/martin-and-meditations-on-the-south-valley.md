@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811210324
     publication_date: 1987-10-01T05:00:00-04:00
-    cover_image_path: Martin_And_Meditations_On_The_South_Valley.jpg
+    cover_image: /images/Martin_And_Meditations_On_The_South_Valley.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811223324
     publication_date: 1987-10-01T05:00:00-04:00
-    cover_image_path: Martin_And_Meditations_On_The_South_Valley.jpg
+    cover_image: /images/Martin_And_Meditations_On_The_South_Valley.jpg
     forsale: false
     saleprice:
     shipping_charge:

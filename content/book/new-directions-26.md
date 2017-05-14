@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Clothbound
     isbn: 9780811204767
     publication_date: 1973-04-01T06:00:25-04:00
-    cover_image_path: ND26.jpg
+    cover_image: /images/ND26.jpg
     forsale: false
     saleprice:
     shipping_charge:

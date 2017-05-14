@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811201018
     publication_date: 1966-08-01T05:00:00-04:00
-    cover_image_path: Raids_On_The_Unspeakable.jpg
+    cover_image: /images/Raids_On_The_Unspeakable.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811223119
     publication_date: 1966-08-01T05:00:00-04:00
-    cover_image_path: Raids_On_The_Unspeakable.jpg
+    cover_image: /images/Raids_On_The_Unspeakable.jpg
     forsale: false
     saleprice:
     shipping_charge:

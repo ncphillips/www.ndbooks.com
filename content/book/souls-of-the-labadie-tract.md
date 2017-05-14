@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Souls of the Labadie Tract finds Susan Howe exploring (or unsettling) one of her favorite domains, the psychic past of America, with Jonathan Edwards and Wallace Stevens as her presiding tutelary geniuses. "
 editions:
   - binding: Paperback
     isbn: 9780811217187
     publication_date: 2007-11-01T05:00:00-04:00
-    cover_image_path: Souls_Of_The_Labadie_Tract.jpg
+    cover_image: /images/Souls_Of_The_Labadie_Tract.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -51,13 +51,13 @@ translators:
   - contributor/peter-france.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "The central work by the world-famous Chuvashian who _writes with an imagistic compression and real time candor that is utterly unique_ (Publishers Weekly). "
 editions:
   - binding: Paperback
     isbn: 9780811217217
     publication_date: 2007-10-01T05:00:00-04:00
-    cover_image_path: Field_Russia.jpg
+    cover_image: /images/Field_Russia.jpg
     forsale: true
     saleprice:
     shipping_charge:

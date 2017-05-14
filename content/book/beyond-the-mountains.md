@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811205528
     publication_date: 2001-01-01T06:00:58-04:00
-    cover_image_path: Beyond_The_Mountains.jpg
+    cover_image: /images/Beyond_The_Mountains.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811218245
     publication_date: 1978-05-01T05:00:47-04:00
-    cover_image_path: Lives_And_Letters.jpg
+    cover_image: /images/Lives_And_Letters.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9,780,811,206,815
     publication_date: 1978-05-01T05:00:47-04:00
-    cover_image_path: Lives_And_Letters.jpg
+    cover_image: /images/Lives_And_Letters.jpg
     forsale: false
     saleprice:
     shipping_charge:

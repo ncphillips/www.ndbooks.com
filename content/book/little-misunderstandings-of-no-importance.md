@@ -14,13 +14,13 @@ translators:
   - contributor/frances-frenaye.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811211116
     publication_date: 1987-09-01T05:00:00-04:00
-    cover_image_path: little-misunderstandings-no-importance-antonio-tabucchi-paperback-cover-art.jpg
+    cover_image: /images/little-misunderstandings-no-importance-antonio-tabucchi-paperback-cover-art.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811210294
     publication_date: 1987-09-01T05:00:00-04:00
-    cover_image_path: little-misunderstandings-no-importance-antonio-tabucchi-paperback-cover-art.jpg
+    cover_image: /images/little-misunderstandings-no-importance-antonio-tabucchi-paperback-cover-art.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -42,7 +42,7 @@ editions:
   - binding: Ebook
     isbn: 9780811222440
     publication_date: 1987-09-01T05:00:00-04:00
-    cover_image_path: little-misunderstandings-no-importance-antonio-tabucchi-paperback-cover-art.jpg
+    cover_image: /images/little-misunderstandings-no-importance-antonio-tabucchi-paperback-cover-art.jpg
     forsale: true
     saleprice:
     shipping_charge:

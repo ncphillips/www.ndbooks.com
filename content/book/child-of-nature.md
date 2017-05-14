@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A powerful exploration of Albania's intense totalitarian past. "
 editions:
   - binding: Paperback
     isbn: 9780811218474
     publication_date: 2010-02-01T06:00:00-04:00
-    cover_image_path: Child_Of_Nature.jpg
+    cover_image: /images/Child_Of_Nature.jpg
     forsale: true
     saleprice:
     shipping_charge:

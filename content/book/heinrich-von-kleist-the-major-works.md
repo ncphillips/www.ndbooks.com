@@ -15,13 +15,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811205641
     publication_date: 1975-04-01T05:00:00-04:00
-    cover_image_path: Heinrich_Von_Kleist_The_Major_Works_.jpg
+    cover_image: /images/Heinrich_Von_Kleist_The_Major_Works_.jpg
     forsale: false
     saleprice:
     shipping_charge:

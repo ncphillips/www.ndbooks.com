@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811217743
     publication_date: 1993-02-01T06:00:10-04:00
-    cover_image_path: thirdkindofknowledge.jpg
+    cover_image: /images/thirdkindofknowledge.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811210560
     publication_date: 1993-02-01T06:00:10-04:00
-    cover_image_path: thirdkindofknowledge.jpg
+    cover_image: /images/thirdkindofknowledge.jpg
     forsale: false
     saleprice:
     shipping_charge:

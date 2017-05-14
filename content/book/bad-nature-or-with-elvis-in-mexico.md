@@ -13,13 +13,13 @@ translators:
   - contributor/esther-allen.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "_It all happened because of Elvis Presley.” "
 editions:
   - binding: Paperback
     isbn: 9780811218580
     publication_date: 2010-02-01T06:00:00-04:00
-    cover_image_path: /uploads/Bad_Nature%2C_Or_With_Elvis_In_Mexico.jpg
+    cover_image: /images/Bad_Nature%2C_Or_With_Elvis_In_Mexico.jpg
     forsale: true
     saleprice:
     shipping_charge:

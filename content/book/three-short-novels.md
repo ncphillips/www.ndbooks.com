@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811211499
     publication_date: 1991-01-01T06:00:55-04:00
-    cover_image_path: Three_Short_Novels.jpg
+    cover_image: /images/Three_Short_Novels.jpg
     forsale: false
     saleprice:
     shipping_charge:

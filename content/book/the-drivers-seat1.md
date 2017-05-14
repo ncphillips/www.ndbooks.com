@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "The Driver’s Seat, Spark’s own favorite among her many novels, was hailed by the New Yorker as “her spiny and treacherous masterpiece” "
 editions:
   - binding: Paperback
     isbn: 9780811223010
     publication_date: 2014-04-29T14:11:00-04:00
-    cover_image_path: Drivers_Seat.jpg
+    cover_image: /images/Drivers_Seat.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811221368
     publication_date: 2014-04-29T14:11:00-04:00
-    cover_image_path: Drivers_Seat.jpg
+    cover_image: /images/Drivers_Seat.jpg
     forsale: true
     saleprice:
     shipping_charge:

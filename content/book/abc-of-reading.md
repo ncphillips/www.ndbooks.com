@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Ezra Pound's classic book about the meaning of literature, with a new introduction by Michael Dirda. "
 editions:
   - binding: Paperback
     isbn: 9780811218931
     publication_date: 2010-10-28T14:28:00-04:00
-    cover_image_path: Abc_Of_Reading.jpg
+    cover_image: /images/Abc_Of_Reading.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811223164
     publication_date: 2010-10-28T14:28:00-04:00
-    cover_image_path: Abc_Of_Reading.jpg
+    cover_image: /images/Abc_Of_Reading.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "An unforgettable, apocalyptic novel from a distinctly American prophet "
 editions:
   - binding: Paperback
     isbn: 9780811222051
     publication_date: 2017-02-28T05:00:00-04:00
-    cover_image_path: /uploads/9780811222051.jpg
+    cover_image: /images/9780811222051.jpg
     forsale: true
     saleprice:
     shipping_charge:

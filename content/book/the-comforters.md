@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811212854
     publication_date: 1994-09-01T05:00:00-04:00
-    cover_image_path: The_Comforters.jpg
+    cover_image: /images/The_Comforters.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811222419
     publication_date: 1994-09-01T05:00:00-04:00
-    cover_image_path: The_Comforters.jpg
+    cover_image: /images/The_Comforters.jpg
     forsale: false
     saleprice:
     shipping_charge:

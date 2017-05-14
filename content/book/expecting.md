@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811208987
     publication_date: 1984-05-01T05:00:35-04:00
-    cover_image_path: Expecting.jpg
+    cover_image: /images/Expecting.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811208482
     publication_date: 1984-05-01T05:00:35-04:00
-    cover_image_path: Expecting.jpg
+    cover_image: /images/Expecting.jpg
     forsale: false
     saleprice:
     shipping_charge:

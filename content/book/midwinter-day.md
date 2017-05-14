@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Bernadette Mayer's famous long poem written over the span of a day. "
 editions:
   - binding: Paperback
     isbn: 9780811214063
     publication_date: 1999-05-01T05:00:18-04:00
-    cover_image_path: Midwinter_Day.JPG
+    cover_image: /images/Midwinter_Day.JPG
     forsale: false
     saleprice:
     shipping_charge:

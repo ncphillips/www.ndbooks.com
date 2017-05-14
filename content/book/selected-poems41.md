@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811213455
     publication_date: 1997-04-01T06:00:00-04:00
-    cover_image_path: Selected_Poems_of_Robert_Duncan.jpg
+    cover_image: /images/Selected_Poems_of_Robert_Duncan.jpg
     forsale: false
     saleprice:
     shipping_charge:

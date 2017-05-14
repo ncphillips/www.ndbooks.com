@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811201568
     publication_date: 1968-03-01T06:00:47-04:00
-    cover_image_path: Guide_To_Kulchur.jpg
+    cover_image: /images/Guide_To_Kulchur.jpg
     forsale: false
     saleprice:
     shipping_charge:

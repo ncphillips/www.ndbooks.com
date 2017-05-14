@@ -13,13 +13,13 @@ translators:
   - contributor/c.-f.-macintyre.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811200561
     publication_date: 1957-01-01T06:00:46-04:00
-    cover_image_path: Faust.jpg
+    cover_image: /images/Faust.jpg
     forsale: false
     saleprice:
     shipping_charge:

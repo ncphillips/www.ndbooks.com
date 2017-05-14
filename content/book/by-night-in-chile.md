@@ -13,13 +13,13 @@ translators:
   - contributor/chris-andrews.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A hypnotic deathbed confession revolving around Opus Dei, crazed schemes, poetry, and Pinochet, _By Night in Chile_ pours out the self-justifying dark memories of Father Urrutia, a half-hearted Chilean priest. "
 editions:
   - binding: Paperback
     isbn: 9780811215473
     publication_date: 2003-12-01T06:00:00-04:00
-    cover_image_path: /uploads/BolanoChileCover%20copy.tiff
+    cover_image: /images/BolanoChileCover%20copy.tiff
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811220514
     publication_date: 2003-12-01T06:00:00-04:00
-    cover_image_path: By_Night_in_Chile_1.jpg
+    cover_image: /images/By_Night_in_Chile_1.jpg
     forsale: true
     saleprice:
     shipping_charge:

@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A new, breakthrough collection by _one of our most disturbing and humanly gifted poets_ (Harold Bloom). "
 editions:
   - binding: Paperback
     isbn: 9780811217118
     publication_date: 2007-12-01T06:00:00-04:00
-    cover_image_path: Descartes_Loneliness.jpg
+    cover_image: /images/Descartes_Loneliness.jpg
     forsale: false
     saleprice:
     shipping_charge:

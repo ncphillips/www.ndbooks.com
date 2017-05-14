@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811214797
     publication_date: 2001-05-01T05:00:20-04:00
-    cover_image_path: The_Promises_Of_Glass.jpg
+    cover_image: /images/The_Promises_Of_Glass.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811214438
     publication_date: 2001-05-01T05:00:20-04:00
-    cover_image_path: The_Promises_Of_Glass.jpg
+    cover_image: /images/The_Promises_Of_Glass.jpg
     forsale: false
     saleprice:
     shipping_charge:

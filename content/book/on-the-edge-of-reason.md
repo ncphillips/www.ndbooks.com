@@ -13,13 +13,13 @@ translators:
   - contributor/zora-depolo.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811213066
     publication_date: 1996-11-01T06:00:30-04:00
-    cover_image_path: On_The_Edge_of_Reason_.jpg
+    cover_image: /images/On_The_Edge_of_Reason_.jpg
     forsale: false
     saleprice:
     shipping_charge:

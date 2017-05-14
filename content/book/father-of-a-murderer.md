@@ -13,13 +13,13 @@ translators:
   - contributor/leila-vennewitz.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811217620
     publication_date: 1994-04-01T05:59:23-04:00
-    cover_image_path: Father_Of_A_Murderer.jpg
+    cover_image: /images/Father_Of_A_Murderer.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811212618
     publication_date: 1994-04-01T05:59:23-04:00
-    cover_image_path: Father_Of_A_Murderer.jpg
+    cover_image: /images/Father_Of_A_Murderer.jpg
     forsale: false
     saleprice:
     shipping_charge:

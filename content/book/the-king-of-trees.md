@@ -13,13 +13,13 @@ translators:
   - contributor/bonnie-s.-macdougall.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Three classic novellas – The King of Trees, The King of Chess, The King of Children – that completely altered the landscape of contemporary Chinese fiction. "
 editions:
   - binding: Paperback
     isbn: 9780811218665
     publication_date: 2010-06-01T05:00:54-04:00
-    cover_image_path: The_King_Of_Trees.jpg
+    cover_image: /images/The_King_Of_Trees.jpg
     forsale: false
     saleprice:
     shipping_charge:

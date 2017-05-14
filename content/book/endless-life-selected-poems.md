@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811207973
     publication_date: 1984-07-01T05:00:40-04:00
-    cover_image_path: Endless_Life.jpg
+    cover_image: /images/Endless_Life.jpg
     forsale: false
     saleprice:
     shipping_charge:

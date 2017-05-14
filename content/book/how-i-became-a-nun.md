@@ -13,13 +13,13 @@ translators:
   - contributor/chris-andrews.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A sinisterly funny modern-day Through the Looking Glass that begins with cyanide poisoning and ends in strawberry ice cream. "
 editions:
   - binding: Paperback
     isbn: 9780811216319
     publication_date: 2008-02-01T06:00:00-04:00
-    cover_image_path: HowI_Became_a_Nun.jpg
+    cover_image: /images/HowI_Became_a_Nun.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811219822
     publication_date: 2008-02-01T06:00:00-04:00
-    cover_image_path: HowI_Became_a_Nun.jpg
+    cover_image: /images/HowI_Became_a_Nun.jpg
     forsale: true
     saleprice:
     shipping_charge:

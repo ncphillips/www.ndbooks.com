@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "The classic Existentialist novel, with a new Introduction by renowned poet, translator, and critic Richard Howard "
 editions:
   - binding: Paperback
     isbn: 9780811217002
     publication_date: 2007-05-01T05:00:00-04:00
-    cover_image_path: nausea.JPG
+    cover_image: /images/nausea.JPG
     forsale: true
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811219730
     publication_date: 2007-05-01T05:00:00-04:00
-    cover_image_path: nausea.JPG
+    cover_image: /images/nausea.JPG
     forsale: true
     saleprice:
     shipping_charge:

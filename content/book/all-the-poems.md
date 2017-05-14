@@ -13,13 +13,13 @@ translators:
 editors:
   - contributor/will-may.md
 contributors:
-featured_image_path: /uploads/Screen%20Shot%202016-02-02%20at%2011.42.46%20AM.png
+featured_image: /images/Screen%20Shot%202016-02-02%20at%2011.42.46%20AM.png
 description: "The essential edition of one of modern poetry’s most distinctive voices. "
 editions:
   - binding: Clothbound
     isbn: 9780811223805
     publication_date: 2016-02-22T05:00:00-04:00
-    cover_image_path: /uploads/all_the_poems_jacket_final.jpg
+    cover_image: /images/all_the_poems_jacket_final.jpg
     forsale: true
     saleprice:
     shipping_charge:

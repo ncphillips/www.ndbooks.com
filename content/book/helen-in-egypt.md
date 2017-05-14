@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811205443
     publication_date: 1974-11-01T06:00:00-04:00
-    cover_image_path: Helen_In_Egypt.jpg
+    cover_image: /images/Helen_In_Egypt.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811222587
     publication_date: 1974-11-01T06:00:00-04:00
-    cover_image_path: Helen_In_Egypt.jpg
+    cover_image: /images/Helen_In_Egypt.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "The original 1958 edition. "
 editions:
   - binding: Paperback
     isbn: 9780811200417
     publication_date: 1958-01-19T03:14:00-04:00
-    cover_image_path: A_Coney_Island_of_the_mind_55.jpg
+    cover_image: /images/A_Coney_Island_of_the_mind_55.jpg
     forsale: false
     saleprice:
     shipping_charge:

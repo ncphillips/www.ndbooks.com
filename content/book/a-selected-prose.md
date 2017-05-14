@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811217729
     publication_date: 1995-04-01T06:00:30-04:00
-    cover_image_path: A_Selected_Prose.jpg
+    cover_image: /images/A_Selected_Prose.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811212786
     publication_date: 1995-04-01T06:00:30-04:00
-    cover_image_path: A_Selected_Prose.jpg
+    cover_image: /images/A_Selected_Prose.jpg
     forsale: false
     saleprice:
     shipping_charge:

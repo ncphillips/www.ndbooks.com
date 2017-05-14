@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811205689
     publication_date: 1975-04-01T05:00:00-04:00
-    cover_image_path: /uploads/Eluard_%20Uninterrupted%20Poetry.jpg
+    cover_image: /images/Eluard_%20Uninterrupted%20Poetry.jpg
     forsale: true
     saleprice:
     shipping_charge:

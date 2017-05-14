@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811200653
     publication_date: 1961-06-01T05:00:00-04:00
-    cover_image_path: The_Lime_Twig.jpg
+    cover_image: /images/The_Lime_Twig.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811222563
     publication_date: 1961-06-01T05:00:00-04:00
-    cover_image_path: The_Lime_Twig.jpg
+    cover_image: /images/The_Lime_Twig.jpg
     forsale: false
     saleprice:
     shipping_charge:

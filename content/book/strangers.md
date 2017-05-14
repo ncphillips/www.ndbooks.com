@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A delightful and elegant literary memoir about the Scottish novelist's eccentric family. "
 editions:
   - binding: Paperback
     isbn: 9780811215305
     publication_date: 2003-06-01T05:00:56-04:00
-    cover_image_path: Strangers.jpg
+    cover_image: /images/Strangers.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811214094
     publication_date: 2003-06-01T05:00:56-04:00
-    cover_image_path: Strangers.jpg
+    cover_image: /images/Strangers.jpg
     forsale: false
     saleprice:
     shipping_charge:

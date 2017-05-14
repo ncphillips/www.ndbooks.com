@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811218009
     publication_date: 2010-04-01T05:00:20-04:00
-    cover_image_path: Sextet.jpg
+    cover_image: /images/Sextet.jpg
     forsale: false
     saleprice:
     shipping_charge:

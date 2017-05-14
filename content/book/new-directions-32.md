@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811206033
     publication_date: 1976-06-01T05:00:32-04:00
-    cover_image_path: New_Directions_32.jpg
+    cover_image: /images/New_Directions_32.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811206020
     publication_date: 1976-06-01T05:00:32-04:00
-    cover_image_path: New_Directions_32.jpg
+    cover_image: /images/New_Directions_32.jpg
     forsale: false
     saleprice:
     shipping_charge:

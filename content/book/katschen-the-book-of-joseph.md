@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811214056
     publication_date: 1998-05-01T05:00:00-04:00
-    cover_image_path: Katschen_The_Book_Of_Joseph_.jpg
+    cover_image: /images/Katschen_The_Book_Of_Joseph_.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811213738
     publication_date: 1998-05-01T05:00:00-04:00
-    cover_image_path: Katschen_The_Book_Of_Joseph_.jpg
+    cover_image: /images/Katschen_The_Book_Of_Joseph_.jpg
     forsale: true
     saleprice:
     shipping_charge:

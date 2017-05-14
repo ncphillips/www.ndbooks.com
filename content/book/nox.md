@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Anne Carson's haunting and beautiful Nox is her first book of poetry in five years – a unique, illustrated, accordion-fold-out _book in a box._ "
 editions:
   - binding: Clothbound
     isbn: 9780811218702
     publication_date: 2009-04-01T05:00:00-04:00
-    cover_image_path: Nox.jpg
+    cover_image: /images/Nox.jpg
     forsale: false
     saleprice:
     shipping_charge:

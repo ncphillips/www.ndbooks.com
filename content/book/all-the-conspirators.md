@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A fraught portrait of the post-WWI generation struggling to break free from the rigid social system that sustained the British Empire "
 editions:
   - binding: Paperback
     isbn: 9780811225120
     publication_date: 2016-01-11T05:00:00-04:00
-    cover_image_path: /uploads/ALL%20THE%20CONSPIRATORS.tif
+    cover_image: /images/ALL%20THE%20CONSPIRATORS.tif
     forsale: true
     saleprice:
     shipping_charge:

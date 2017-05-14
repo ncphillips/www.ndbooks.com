@@ -13,13 +13,13 @@ translators:
   - contributor/mark-polizzotti.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "An intensely lively and piquant novel about a Vietnamese family, The Three Fates concerns rivalries and jealousies, strange motives and destructive passions. "
 editions:
   - binding: Paperback
     isbn: 9780811216104
     publication_date: 2010-06-01T05:00:08-04:00
-    cover_image_path: The_Three_Fates.jpg
+    cover_image: /images/The_Three_Fates.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -14,13 +14,13 @@ translators:
   - contributor/kurt-beals.md
 editors:
 contributors:
-featured_image_path: /uploads/kafka%20web%20banner.png
+featured_image: /images/kafka%20web%20banner.png
 description: "Now in paperback, a wunderkammer of 99 delightfully odd facts about Kafka "
 editions:
   - binding: Paperback
     isbn: 9780811225168
     publication_date: 2017-02-28T05:00:00-04:00
-    cover_image_path: /uploads/stach_is_that_kafka_pbk.jpg
+    cover_image: /images/stach_is_that_kafka_pbk.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811221238
     publication_date: 2017-02-28T05:00:00-04:00
-    cover_image_path: /uploads/IS%20THAT%20KAFKA%20inside%20cover.tif
+    cover_image: /images/IS%20THAT%20KAFKA%20inside%20cover.tif
     forsale: true
     saleprice:
     shipping_charge:

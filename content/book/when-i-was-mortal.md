@@ -14,13 +14,13 @@ translators:
   - contributor/margaret-jull-costa.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "When I Was Mortal collects a dozen stories by Javier Marías––_the most subtle and gifted writer in contemporary Spanish Literature_ (The Boston Sunday Globe). "
 editions:
   - binding: Paperback
     isbn: 9780811215169
     publication_date: 2002-09-01T05:00:00-04:00
-    cover_image_path: When_I_Was_Mortal.jpg
+    cover_image: /images/When_I_Was_Mortal.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811214315
     publication_date: 2002-09-01T05:00:00-04:00
-    cover_image_path: When_I_Was_Mortal.jpg
+    cover_image: /images/When_I_Was_Mortal.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A revelation for readers of Clarice Lispector's novels and stories, Selected Crônicas presents an entirely new side of Brazil's greatest twentieth-century writer. "
 editions:
   - binding: Paperback
     isbn: 9780811213400
     publication_date: 1996-11-01T06:00:08-04:00
-    cover_image_path: Selected_Cronicas.jpg
+    cover_image: /images/Selected_Cronicas.jpg
     forsale: false
     saleprice:
     shipping_charge:

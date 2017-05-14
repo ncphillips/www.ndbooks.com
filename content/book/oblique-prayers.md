@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811209090
     publication_date: 1984-10-01T05:00:00-04:00
-    cover_image_path: Oblique_Prayers.jpg
+    cover_image: /images/Oblique_Prayers.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811221894
     publication_date: 1984-10-01T05:00:00-04:00
-    cover_image_path: Oblique_Prayers.jpg
+    cover_image: /images/Oblique_Prayers.jpg
     forsale: false
     saleprice:
     shipping_charge:

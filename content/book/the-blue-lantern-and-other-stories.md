@@ -14,13 +14,13 @@ translators:
   - contributor/andrew-bromfield.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811214346
     publication_date: 2000-05-01T05:00:00-04:00
-    cover_image_path: The_Blue_Lantern_And_Other_Stories.jpg
+    cover_image: /images/The_Blue_Lantern_And_Other_Stories.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811213707
     publication_date: 2000-05-01T05:00:00-04:00
-    cover_image_path: The_Blue_Lantern_And_Other_Stories.jpg
+    cover_image: /images/The_Blue_Lantern_And_Other_Stories.jpg
     forsale: true
     saleprice:
     shipping_charge:

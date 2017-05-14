@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "The fraying fringes of 1950s literary London "
 editions:
   - binding: Paperback
     isbn: 9780811223027
     publication_date: 2014-05-27T15:10:00-04:00
-    cover_image_path: Far_Cry_From_Kensington.jpg
+    cover_image: /images/Far_Cry_From_Kensington.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811220149
     publication_date: 2014-05-27T15:10:00-04:00
-    cover_image_path: Far_Cry_From_Kensington.jpg
+    cover_image: /images/Far_Cry_From_Kensington.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -40,7 +40,7 @@ editions:
   - binding:
     isbn:
     publication_date: 2014-05-27T15:10:00-04:00
-    cover_image_path: Far_Cry_From_Kensington.jpg
+    cover_image: /images/Far_Cry_From_Kensington.jpg
     forsale: true
     saleprice:
     shipping_charge:

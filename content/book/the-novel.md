@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811211536
     publication_date: 1990-11-01T06:00:47-04:00
-    cover_image_path: The_Novel.jpg
+    cover_image: /images/The_Novel.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811211482
     publication_date: 1990-11-01T06:00:47-04:00
-    cover_image_path: The_Novel.jpg
+    cover_image: /images/The_Novel.jpg
     forsale: false
     saleprice:
     shipping_charge:

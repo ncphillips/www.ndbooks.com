@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Clothbound
     isbn: 9780811216586
     publication_date: 2001-01-01T06:00:52-04:00
-    cover_image_path: Tristano_Is_Dying.jpg
+    cover_image: /images/Tristano_Is_Dying.jpg
     forsale: false
     saleprice:
     shipping_charge:

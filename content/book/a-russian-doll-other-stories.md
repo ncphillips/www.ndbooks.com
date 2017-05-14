@@ -14,13 +14,13 @@ translators:
   - contributor/suzanne-jill-levine.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811212120
     publication_date: 1992-09-01T05:00:00-04:00
-    cover_image_path: A_Russian_Doll__Other_Stories_.jpg
+    cover_image: /images/A_Russian_Doll__Other_Stories_.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811212113
     publication_date: 1992-09-01T05:00:00-04:00
-    cover_image_path: A_Russian_Doll__Other_Stories_.jpg
+    cover_image: /images/A_Russian_Doll__Other_Stories_.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -42,7 +42,7 @@ editions:
   - binding: Ebook
     isbn: 9780811221870
     publication_date: 1992-09-01T05:00:00-04:00
-    cover_image_path: A_Russian_Doll__Other_Stories_.jpg
+    cover_image: /images/A_Russian_Doll__Other_Stories_.jpg
     forsale: false
     saleprice:
     shipping_charge:

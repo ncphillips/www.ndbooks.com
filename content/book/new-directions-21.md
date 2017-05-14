@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "works from Cesare Pavese, Thomas Merton, Roberto Sanesi "
 editions:
   - binding: Clothbound
     isbn: 9780811203326
     publication_date: 1969-10-01T05:00:31-04:00
-    cover_image_path: NDAnnual_21.jpg
+    cover_image: /images/NDAnnual_21.jpg
     forsale: false
     saleprice:
     shipping_charge:

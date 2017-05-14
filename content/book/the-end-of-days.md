@@ -13,13 +13,13 @@ translators:
   - contributor/susan-bernofsky.md
 editors:
 contributors:
-featured_image_path: /uploads/1422650752115_mountains-1600w.jpg
+featured_image: /images/1422650752115_mountains-1600w.jpg
 description: "Now a New Directions paperback "
 editions:
   - binding: Paperback
     isbn: 9780811225137
     publication_date: 2016-02-08T05:00:00-04:00
-    cover_image_path: /uploads/End-of-Days-MECH.jpg
+    cover_image: /images/End-of-Days-MECH.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811221924
     publication_date: 2016-02-08T05:00:00-04:00
-    cover_image_path: /uploads/end_of_days_cover.jpg
+    cover_image: /images/end_of_days_cover.jpg
     forsale: true
     saleprice:
     shipping_charge:

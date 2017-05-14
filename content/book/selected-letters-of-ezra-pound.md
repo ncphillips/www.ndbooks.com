@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811201612
     publication_date: 1971-06-01T05:00:21-04:00
-    cover_image_path: Selected_Letters_1907-1941_of_Ezra_Pound_.jpg
+    cover_image: /images/Selected_Letters_1907-1941_of_Ezra_Pound_.jpg
     forsale: false
     saleprice:
     shipping_charge:

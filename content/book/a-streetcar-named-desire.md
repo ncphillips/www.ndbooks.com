@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "The Pulitzer Prize and Drama Critics Circle Award winning play — reissued with an introduction by Arthur Miller and Williams' essay _The World I Live In_ "
 editions:
   - binding: Paperback
     isbn: 9780811216029
     publication_date: 2004-09-01T05:00:00-04:00
-    cover_image_path: A_Streetcar_Named_Desire.jpg
+    cover_image: /images/A_Streetcar_Named_Desire.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811220767
     publication_date: 2004-09-01T05:00:00-04:00
-    cover_image_path: A_Streetcar_Named_Desire.jpg
+    cover_image: /images/A_Streetcar_Named_Desire.jpg
     forsale: false
     saleprice:
     shipping_charge:

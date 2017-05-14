@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811213684
     publication_date: 1997-10-01T05:00:22-04:00
-    cover_image_path: The_Invention_Of_Curried_Sausage.jpg
+    cover_image: /images/The_Invention_Of_Curried_Sausage.jpg
     forsale: false
     saleprice:
     shipping_charge:

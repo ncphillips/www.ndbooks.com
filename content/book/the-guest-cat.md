@@ -13,13 +13,13 @@ translators:
   - contributor/eric-selland.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A wonderful novel about a visiting cat who brings joy into a Tokyo couple’s life "
 editions:
   - binding: Paperback
     isbn: 9780811221504
     publication_date: 2014-01-28T21:27:00-04:00
-    cover_image_path: Guest_Cat.jpg
+    cover_image: /images/Guest_Cat.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811221504
     publication_date: 2014-01-28T21:27:00-04:00
-    cover_image_path: Guest_Cat.jpg
+    cover_image: /images/Guest_Cat.jpg
     forsale: true
     saleprice:
     shipping_charge:

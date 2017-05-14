@@ -13,13 +13,13 @@ translators:
 editors:
 contributors:
   - contributor/rivka-galchen.md
-featured_image_path:
+featured_image:
 description: "Now back in print, _Mrs. Caliban_ is “totally unforgettable” (The New York Times Book Review) and “something of a miracle” (The New Yorker) "
 editions:
   - binding: Paperback
     isbn: 9780811226691
     publication_date: 2017-11-17T05:00:00-04:00
-    cover_image_path: /uploads/9780811226691.jpg
+    cover_image: /images/9780811226691.jpg
     forsale: false
     saleprice:
     shipping_charge:

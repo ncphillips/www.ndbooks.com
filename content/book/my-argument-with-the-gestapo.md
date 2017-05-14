@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811205863
     publication_date: 1975-11-01T06:00:00-04:00
-    cover_image_path: My_Argument_With_The_Gestapo.jpg
+    cover_image: /images/My_Argument_With_The_Gestapo.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811223935
     publication_date: 1975-11-01T06:00:00-04:00
-    cover_image_path: My_Argument_With_The_Gestapo.jpg
+    cover_image: /images/My_Argument_With_The_Gestapo.jpg
     forsale: false
     saleprice:
     shipping_charge:

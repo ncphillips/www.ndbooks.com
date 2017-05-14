@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811218566
     publication_date: 2010-02-01T06:00:00-04:00
-    cover_image_path: tales_of_desire.jpg
+    cover_image: /images/tales_of_desire.jpg
     forsale: true
     saleprice:
     shipping_charge:

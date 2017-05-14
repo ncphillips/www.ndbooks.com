@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811206198
     publication_date: 1976-11-01T06:00:00-04:00
-    cover_image_path: One_Hundred_More_Poems_From_The_Japanese.jpg
+    cover_image: /images/One_Hundred_More_Poems_From_The_Japanese.jpg
     forsale: true
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "New poetry and prose from a most acclaimed experimental American poet. "
 editions:
   - binding: Paperback
     isbn: 9780811215381
     publication_date: 2003-06-01T05:00:00-04:00
-    cover_image_path: The_Midnight.jpg
+    cover_image: /images/The_Midnight.jpg
     forsale: true
     saleprice:
     shipping_charge:

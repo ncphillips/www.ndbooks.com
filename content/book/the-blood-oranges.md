@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811200615
     publication_date: 1972-04-01T06:00:00-04:00
-    cover_image_path: The_Blood_Oranges.jpg
+    cover_image: /images/The_Blood_Oranges.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811222556
     publication_date: 1972-04-01T06:00:00-04:00
-    cover_image_path: The_Blood_Oranges.jpg
+    cover_image: /images/The_Blood_Oranges.jpg
     forsale: true
     saleprice:
     shipping_charge:

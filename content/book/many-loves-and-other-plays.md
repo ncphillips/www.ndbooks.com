@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811202329
     publication_date: 1965-04-01T06:00:51-04:00
-    cover_image_path: Many_Loves_And_Other_Plays.jpg
+    cover_image: /images/Many_Loves_And_Other_Plays.jpg
     forsale: false
     saleprice:
     shipping_charge:

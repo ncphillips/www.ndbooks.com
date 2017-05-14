@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811213554
     publication_date: 1996-05-01T05:00:22-04:00
-    cover_image_path: The_Yellow_Arrow.jpg
+    cover_image: /images/The_Yellow_Arrow.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811213240
     publication_date: 1996-05-01T05:00:22-04:00
-    cover_image_path: The_Yellow_Arrow.jpg
+    cover_image: /images/The_Yellow_Arrow.jpg
     forsale: false
     saleprice:
     shipping_charge:

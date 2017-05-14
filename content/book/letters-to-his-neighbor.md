@@ -13,13 +13,13 @@ translators:
   - contributor/lydia-davis.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "**Brilliantly translated by Lydia Davis, here are Proust's tormented, touching, and often very funny letters to his noisy neighbor** "
 editions:
   - binding: Clothbound
     isbn: 9780811224116
     publication_date: 2017-08-22T04:00:00-04:00
-    cover_image_path: /uploads/revised%20Proust%20cover.jpg
+    cover_image: /images/revised%20Proust%20cover.jpg
     forsale: false
     saleprice:
     shipping_charge:

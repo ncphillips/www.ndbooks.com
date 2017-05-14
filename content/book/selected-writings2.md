@@ -13,13 +13,13 @@ translators:
   - contributor/roger-shattuck.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811200035
     publication_date: 1971-03-01T06:00:00-04:00
-    cover_image_path: Selected_Writings_Apollinaire.jpg
+    cover_image: /images/Selected_Writings_Apollinaire.jpg
     forsale: false
     saleprice:
     shipping_charge:

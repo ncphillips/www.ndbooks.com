@@ -13,13 +13,13 @@ translators:
   - contributor/peter-cole.md
 editors:
 contributors:
-featured_image_path: /uploads/9780811223829.jpg
+featured_image: /images/9780811223829.jpg
 description: "Yoel Hoffmann—“Israel’s celebrated avant-garde genius” (_The Forward_)—supplies the magic missing link between the infinitesimal and the infinite "
 editions:
   - binding: Paperback
     isbn: 9780811223829
     publication_date: 2015-06-09T19:43:00-04:00
-    cover_image_path: /uploads/9780811223829.jpg
+    cover_image: /images/9780811223829.jpg
     forsale: true
     saleprice:
     shipping_charge:

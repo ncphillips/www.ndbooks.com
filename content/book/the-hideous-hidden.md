@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "From the winner of the Griffin Prize, a richly lyrical collection of poems exploring the body’s minutiae "
 editions:
   - binding: Paperback
     isbn: 9780811225373
     publication_date: 2016-09-27T04:00:00-04:00
-    cover_image_path: /uploads/HideousHidden.jpg
+    cover_image: /images/HideousHidden.jpg
     forsale: true
     saleprice:
     shipping_charge:

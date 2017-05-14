@@ -14,13 +14,13 @@ translators:
   - contributor/robin-fulton.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A touching memoir by the 2011 winner of the Nobel Prize in Literature "
 editions:
   - binding: Paperback
     isbn: 9780811220187
     publication_date: 2011-12-07T19:33:00-04:00
-    cover_image_path: Memories_Look_at_Me.jpg
+    cover_image: /images/Memories_Look_at_Me.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Ebook
     isbn: 9780811220194
     publication_date: 2011-12-07T19:33:00-04:00
-    cover_image_path: Memories_Look_at_Me.jpg
+    cover_image: /images/Memories_Look_at_Me.jpg
     forsale: true
     saleprice:
     shipping_charge:

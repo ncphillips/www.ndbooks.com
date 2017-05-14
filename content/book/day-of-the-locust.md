@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path: /uploads/west.jpg
+featured_image: /images/west.jpg
 description: "The great Hollywood novel is now available as a stand-alone New Directions edition "
 editions:
   - binding: Paperback
     isbn: 9780811224611
     publication_date: 2015-05-28T04:00:00-04:00
-    cover_image_path: /uploads/west.jpg
+    cover_image: /images/west.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811224628
     publication_date: 2015-05-28T04:00:00-04:00
-    cover_image_path: /uploads/west.jpg
+    cover_image: /images/west.jpg
     forsale: true
     saleprice:
     shipping_charge:

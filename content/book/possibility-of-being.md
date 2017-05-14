@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811206518
     publication_date: 1977-10-01T05:00:00-04:00
-    cover_image_path: Possibility_Of_Being.jpg
+    cover_image: /images/Possibility_Of_Being.jpg
     forsale: true
     saleprice:
     shipping_charge:

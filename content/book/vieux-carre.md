@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811214605
     publication_date: 2000-10-01T05:00:00-04:00
-    cover_image_path: /uploads/193884%20Vieux%20Carre%20cvr%20rev.jpg
+    cover_image: /images/193884%20Vieux%20Carre%20cvr%20rev.jpg
     forsale: true
     saleprice:
     shipping_charge:

@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811206372
     publication_date: 1977-03-01T06:00:32-04:00
-    cover_image_path: Seedtime.jpg
+    cover_image: /images/Seedtime.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811206365
     publication_date: 1977-03-01T06:00:32-04:00
-    cover_image_path: Seedtime.jpg
+    cover_image: /images/Seedtime.jpg
     forsale: false
     saleprice:
     shipping_charge:

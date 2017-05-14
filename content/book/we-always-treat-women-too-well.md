@@ -13,13 +13,13 @@ translators:
   - contributor/barbara-wright.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811207928
     publication_date: 1981-01-01T06:00:25-04:00
-    cover_image_path: We_Always_Treat_Women_Too_Well.jpg
+    cover_image: /images/We_Always_Treat_Women_Too_Well.jpg
     forsale: false
     saleprice:
     shipping_charge:

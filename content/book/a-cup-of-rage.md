@@ -13,13 +13,13 @@ translators:
   - contributor/stefan-tobler.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A small, furious masterpiece of dominance and submission "
 editions:
   - binding: Paperback
     isbn: 9780811226585
     publication_date: 2017-02-01T00:00:00-04:00
-    cover_image_path: /uploads/9780811226585.jpg
+    cover_image: /images/9780811226585.jpg
     forsale: true
     saleprice:
     shipping_charge:

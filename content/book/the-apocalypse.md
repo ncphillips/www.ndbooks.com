@@ -13,13 +13,13 @@ translators:
 editors:
 contributors:
   - contributor/willis-barnstone.md
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811214469
     publication_date: 2000-10-01T05:00:28-04:00
-    cover_image_path: The_Apocalypse.jpg
+    cover_image: /images/The_Apocalypse.jpg
     forsale: false
     saleprice:
     shipping_charge:

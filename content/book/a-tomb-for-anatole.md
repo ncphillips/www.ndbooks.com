@@ -13,13 +13,13 @@ translators:
   - contributor/paul-auster.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A Tomb for Anatole addresses inconsolable sorrow: a father's pain over the death of his child, _a vision / endlessly purified / by my tears._ "
 editions:
   - binding: Paperback
     isbn: 9780811215930
     publication_date: 2005-06-01T05:00:06-04:00
-    cover_image_path: A_Tomb_For_Anatole.jpg
+    cover_image: /images/A_Tomb_For_Anatole.jpg
     forsale: false
     saleprice:
     shipping_charge:

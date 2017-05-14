@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811213172
     publication_date: 1996-04-01T06:00:37-04:00
-    cover_image_path: Kora_And_Ka.jpg
+    cover_image: /images/Kora_And_Ka.jpg
     forsale: false
     saleprice:
     shipping_charge:

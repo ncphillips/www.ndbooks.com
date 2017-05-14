@@ -14,13 +14,13 @@ translators:
 editors:
 contributors:
   - contributor/hilda-doolittle-h.-d.md
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811214339
     publication_date: 2000-07-01T05:00:39-04:00
-    cover_image_path: Pilates_Wife_2.jpg
+    cover_image: /images/Pilates_Wife_2.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Household servants and accidental guests must wait out the orders of the lords of the house: not to disturb. "
 editions:
   - binding: Paperback
     isbn: 9780811218672
     publication_date: 2010-05-01T05:00:00-04:00
-    cover_image_path: Not_To_Disturb.jpg
+    cover_image: /images/Not_To_Disturb.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811219778
     publication_date: 2010-05-01T05:00:00-04:00
-    cover_image_path: Not_To_Disturb.jpg
+    cover_image: /images/Not_To_Disturb.jpg
     forsale: false
     saleprice:
     shipping_charge:

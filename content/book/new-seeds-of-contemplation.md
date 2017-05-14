@@ -14,13 +14,13 @@ translators:
 editors:
 contributors:
   - contributor/sue-monk-kidd.md
-featured_image_path:
+featured_image:
 description: "One of the best-loved books by one of the great spiritual authors of our time, with a new Introduction by best-selling author Sue Monk Kidd "
 editions:
   - binding: Paperback
     isbn: 9780811217248
     publication_date: 2007-11-01T05:00:00-04:00
-    cover_image_path: New_Seeds_Of_Contemplation.jpeg
+    cover_image: /images/New_Seeds_Of_Contemplation.jpeg
     forsale: false
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Ebook
     isbn: 9780811219655
     publication_date: 2007-11-01T05:00:00-04:00
-    cover_image_path: New_Seeds_Of_Contemplation.jpeg
+    cover_image: /images/New_Seeds_Of_Contemplation.jpeg
     forsale: false
     saleprice:
     shipping_charge:

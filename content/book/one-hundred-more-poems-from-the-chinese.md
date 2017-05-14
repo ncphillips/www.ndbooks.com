@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811201797
     publication_date: 1970-06-01T05:00:00-04:00
-    cover_image_path: One_Hundred_More_Poems_From_The_Chinese.jpg
+    cover_image: /images/One_Hundred_More_Poems_From_The_Chinese.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811203692
     publication_date: 1970-06-01T05:00:00-04:00
-    cover_image_path: One_Hundred_More_Poems_From_The_Chinese.jpg
+    cover_image: /images/One_Hundred_More_Poems_From_The_Chinese.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -41,7 +41,7 @@ editions:
   - binding: Ebook
     isbn: 9780811223928
     publication_date: 1970-06-01T05:00:00-04:00
-    cover_image_path: One_Hundred_More_Poems_From_The_Chinese.jpg
+    cover_image: /images/One_Hundred_More_Poems_From_The_Chinese.jpg
     forsale: true
     saleprice:
     shipping_charge:

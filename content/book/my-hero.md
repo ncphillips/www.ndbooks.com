@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811218993
     publication_date: 2010-01-01T06:00:30-04:00
-    cover_image_path: My_Hero.jpg
+    cover_image: /images/My_Hero.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "One woman's journey through the tumultuous and passionate birth of a new nation. "
 editions:
   - binding: Paperback
     isbn: 9780811218658
     publication_date: 2010-11-29T14:27:59-04:00
-    cover_image_path: Fireflies_In_The_Mist.jpg
+    cover_image: /images/Fireflies_In_The_Mist.jpg
     forsale: false
     saleprice:
     shipping_charge:

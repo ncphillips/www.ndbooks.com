@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Anti-war poems by Denise Levertov, a passionate advocate of peace and justice and one of the greatest American poets of the twentieth century. "
 editions:
   - binding: Paperback
     isbn: 9780811216401
     publication_date: 2006-02-01T06:00:43-04:00
-    cover_image_path: Making_Peace.jpg
+    cover_image: /images/Making_Peace.jpg
     forsale: false
     saleprice:
     shipping_charge:

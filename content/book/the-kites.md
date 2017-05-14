@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Romain Gary’s bittersweet final masterpiece, a novel of courage and resistance—never before in English "
 editions:
   - binding: Clothbound
     isbn: 9780811226547
     publication_date: 2017-10-23T04:00:00-04:00
-    cover_image_path: /uploads/9780811226547.jpg
+    cover_image: /images/9780811226547.jpg
     forsale: false
     saleprice:
     shipping_charge:

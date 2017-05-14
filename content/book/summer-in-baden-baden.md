@@ -13,13 +13,13 @@ translators:
 editors:
 contributors:
   - contributor/susan-sontag.md
-featured_image_path:
+featured_image:
 description: "A lost masterpiece and one of the major achievements of Russian literature in the second half of the 20th century. "
 editions:
   - binding: Paperback
     isbn: 9780811215480
     publication_date: 2003-09-01T05:00:00-04:00
-    cover_image_path: Summer_In_Baden-Baden.jpg
+    cover_image: /images/Summer_In_Baden-Baden.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811214841
     publication_date: 2003-09-01T05:00:00-04:00
-    cover_image_path: Summer_In_Baden-Baden.jpg
+    cover_image: /images/Summer_In_Baden-Baden.jpg
     forsale: false
     saleprice:
     shipping_charge:

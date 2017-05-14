@@ -13,13 +13,13 @@ translators:
 editors:
 contributors:
   - contributor/mary-rachewiltz.md
-featured_image_path: /uploads/unnamed.jpg
+featured_image: /images/unnamed.jpg
 description: "The centennial edition of Ezra Pound's early poetic masterpiece. "
 editions:
   - binding:
     isbn: 9780811223522
     publication_date: 2016-01-04T05:00:00-04:00
-    cover_image_path: /uploads/unnamed.jpg
+    cover_image: /images/unnamed.jpg
     forsale: true
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Two Englishmen meeting on a train to Berlin in 1930 kick off one of Isherwood’s most enduring novels "
 editions:
   - binding: Paperback
     isbn: 9780811220262
     publication_date: 2013-05-28T15:19:00-04:00
-    cover_image_path: Mr_Norris.jpg
+    cover_image: /images/Mr_Norris.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Ebook
     isbn: 9780811220279
     publication_date: 2013-05-28T15:19:00-04:00
-    cover_image_path: Mr_Norris.jpg
+    cover_image: /images/Mr_Norris.jpg
     forsale: false
     saleprice:
     shipping_charge:

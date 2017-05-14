@@ -15,13 +15,13 @@ editors:
 
   - contributor/nicholas-moschovakis.md
 contributors:
-featured_image_path:
+featured_image:
 description: "Now available in a paperbook edition that comes with a CD of the author reading some of his poems in his unmistakable Mississippi drawl "
 editions:
   - binding: Paperback
     isbn: 9780811216913
     publication_date: 2007-04-01T05:00:00-04:00
-    cover_image_path: The_Collected_Poems_Of_Tennessee_Williams.jpg
+    cover_image: /images/The_Collected_Poems_Of_Tennessee_Williams.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -32,7 +32,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811215084
     publication_date: 2007-04-01T05:00:00-04:00
-    cover_image_path: The_Collected_Poems_Of_Tennessee_Williams.jpg
+    cover_image: /images/The_Collected_Poems_Of_Tennessee_Williams.jpg
     forsale: false
     saleprice:
     shipping_charge:

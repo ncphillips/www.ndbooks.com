@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811201896
     publication_date: 1972-04-01T06:00:52-04:00
-    cover_image_path: Baudelaire.jpg
+    cover_image: /images/Baudelaire.jpg
     forsale: false
     saleprice:
     shipping_charge:

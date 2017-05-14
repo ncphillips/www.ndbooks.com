@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Essayist Eliot Weinberger sets his sights on the Bush team with brilliant, thought-provoking, funny consequences. "
 editions:
   - binding: Paperback
     isbn: 9780811216388
     publication_date: 2005-09-01T05:00:57-04:00
-    cover_image_path: What_Happened_Here.jpg
+    cover_image: /images/What_Happened_Here.jpg
     forsale: false
     saleprice:
     shipping_charge:

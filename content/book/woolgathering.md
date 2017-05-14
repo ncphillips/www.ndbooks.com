@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "National Book Award-winner Patti Smith presents a treasure box of a childhood memoir "
 editions:
   - binding: Clothbound
     isbn: 9780811219440
     publication_date: 2011-11-28T14:28:00-04:00
-    cover_image_path: woolgathering.JPG
+    cover_image: /images/woolgathering.JPG
     forsale: false
     saleprice:
     shipping_charge:

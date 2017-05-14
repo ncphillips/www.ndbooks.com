@@ -14,13 +14,13 @@ translators:
 editors:
 contributors:
   - contributor/colm-toibin.md
-featured_image_path:
+featured_image:
 description: "A new edition of Clarice Lispector’s final masterpiece, now with a new translation by Benjamin Moser and a vivid introduction by Colm Tóibín. "
 editions:
   - binding: Paperback
     isbn: 9780811219495
     publication_date: 2011-11-09T14:28:00-04:00
-    cover_image_path: hour_of_the_star_cover.jpg
+    cover_image: /images/hour_of_the_star_cover.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Ebook
     isbn: 9780811219600
     publication_date: 2011-11-09T14:28:00-04:00
-    cover_image_path: hour_of_the_star_cover.jpg
+    cover_image: /images/hour_of_the_star_cover.jpg
     forsale: true
     saleprice:
     shipping_charge:

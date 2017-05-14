@@ -13,13 +13,13 @@ translators:
   - contributor/breon-mitchell.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811212083
     publication_date: 1992-04-01T06:00:30-04:00
-    cover_image_path: The_Color_Of_The_Snow.jpg
+    cover_image: /images/The_Color_Of_The_Snow.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811212007
     publication_date: 1992-04-01T06:00:30-04:00
-    cover_image_path: The_Color_Of_The_Snow.jpg
+    cover_image: /images/The_Color_Of_The_Snow.jpg
     forsale: false
     saleprice:
     shipping_charge:

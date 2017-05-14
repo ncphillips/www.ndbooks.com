@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A new call to action and a vivid picture of civilization going right to the brink. "
 editions:
   - binding: Clothbound
     isbn: 9780811220316
     publication_date: 2012-10-24T14:13:17-04:00
-    cover_image_path: Time_of_Useful_Consciousness_1.jpg
+    cover_image: /images/Time_of_Useful_Consciousness_1.jpg
     forsale: false
     saleprice:
     shipping_charge:

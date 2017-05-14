@@ -13,13 +13,13 @@ translators:
   - contributor/ralph-manheim.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811212625
     publication_date: 1994-04-01T05:59:47-04:00
-    cover_image_path: Efraims_Book_2.jpg
+    cover_image: /images/Efraims_Book_2.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "An unconventional family idyll set on a gentleman's farm in Pennsylvania in the 1930s, Once: As It Was is a vibrant pastoral memoir that mixes unsentimentality with childhood innocence in a moving story that builds to a spine-tingling confrontation. "
 editions:
   - binding: Paperback
     isbn: 9780811216609
     publication_date: 2008-02-01T06:00:19-04:00
-    cover_image_path: Once_As_It_Was.jpg
+    cover_image: /images/Once_As_It_Was.jpg
     forsale: false
     saleprice:
     shipping_charge:

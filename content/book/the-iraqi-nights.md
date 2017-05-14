@@ -14,13 +14,13 @@ translators:
   - contributor/kareem-james-abu-zeid.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A stunning new collection by one of Iraq's brightest poetic voices "
 editions:
   - binding: Paperback
     isbn: 9780811222860
     publication_date: 2014-05-27T20:56:00-04:00
-    cover_image_path: Iraqi_Nights.jpg
+    cover_image: /images/Iraqi_Nights.jpg
     forsale: true
     saleprice: 10.00
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Ebook
     isbn: 9780811222877
     publication_date: 2014-05-27T20:56:00-04:00
-    cover_image_path: Iraqi_Nights.jpg
+    cover_image: /images/Iraqi_Nights.jpg
     forsale: true
     saleprice:
     shipping_charge:

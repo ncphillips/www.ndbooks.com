@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811201124
     publication_date: 1964-08-01T05:00:22-04:00
-    cover_image_path: Henry_Miller_On_Writing.jpg
+    cover_image: /images/Henry_Miller_On_Writing.jpg
     forsale: false
     saleprice:
     shipping_charge:

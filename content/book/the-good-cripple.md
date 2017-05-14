@@ -13,13 +13,13 @@ translators:
   - contributor/esther-allen.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811215664
     publication_date: 2004-05-01T05:00:00-04:00
-    cover_image_path: The_Good_Cripple.jpg
+    cover_image: /images/The_Good_Cripple.jpg
     forsale: true
     saleprice:
     shipping_charge:

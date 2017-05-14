@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Clothbound
     isbn: 9780811203302
     publication_date: 1968-10-01T05:00:32-04:00
-    cover_image_path: New_Directions_19.jpg
+    cover_image: /images/New_Directions_19.jpg
     forsale: false
     saleprice:
     shipping_charge:

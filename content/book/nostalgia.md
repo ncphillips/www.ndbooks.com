@@ -13,13 +13,13 @@ translators:
   - contributor/julian-semilian.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811215886
     publication_date: 2005-11-01T06:00:00-04:00
-    cover_image_path: Nostalgia.jpg
+    cover_image: /images/Nostalgia.jpg
     forsale: true
     saleprice:
     shipping_charge:

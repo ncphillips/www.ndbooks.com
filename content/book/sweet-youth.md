@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A comprehensive lifetime selection of poetry – from the Sweet Youth to the Old Man. "
 editions:
   - binding: Paperback
     isbn: 9780811215220
     publication_date: 2002-09-01T05:00:43-04:00
-    cover_image_path: Sweet_Youth.jpg
+    cover_image: /images/Sweet_Youth.jpg
     forsale: false
     saleprice:
     shipping_charge:

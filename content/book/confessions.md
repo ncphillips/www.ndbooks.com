@@ -13,13 +13,13 @@ translators:
   - contributor/kareem-james-abu-zeid.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A powerful thriller about trauma and forgiveness, from the winner of the International Prize for Arabic Fiction "
 editions:
   - binding: Paperback
     isbn: 9780811220675
     publication_date: 2016-03-21T04:00:00-04:00
-    cover_image_path: /uploads/CONFESSIONS.tif
+    cover_image: /images/CONFESSIONS.tif
     forsale: true
     saleprice:
     shipping_charge:

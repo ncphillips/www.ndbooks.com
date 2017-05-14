@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811213523
     publication_date: 1997-05-01T05:00:42-04:00
-    cover_image_path: The_Life_Around_Us.jpg
+    cover_image: /images/The_Life_Around_Us.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811213516
     publication_date: 1997-05-01T05:00:42-04:00
-    cover_image_path: The_Life_Around_Us.jpg
+    cover_image: /images/The_Life_Around_Us.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -15,13 +15,13 @@ contributors:
   - contributor/christoph-keller.md
 
   - contributor/jan-heller-levi.md
-featured_image_path:
+featured_image:
 description: "An elegant relaunch of Muriel Rukeyser’s Elegies — previously available only in a limited edition — celebrates the centennial of her birth "
 editions:
   - binding: Paperback
     isbn: 9780811221061
     publication_date: 2013-09-24T16:06:00-04:00
-    cover_image_path: Elegies.jpg
+    cover_image: /images/Elegies.jpg
     forsale: true
     saleprice:
     shipping_charge:

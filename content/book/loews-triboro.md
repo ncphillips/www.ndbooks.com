@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811215770
     publication_date: 2004-04-15T16:19:52-04:00
-    cover_image_path: Loews_Triboro_2.jpg
+    cover_image: /images/Loews_Triboro_2.jpg
     forsale: false
     saleprice:
     shipping_charge:

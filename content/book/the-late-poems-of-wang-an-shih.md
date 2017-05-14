@@ -13,13 +13,13 @@ translators:
   - contributor/david-hinton.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "One of the great Song Dynasty poets and also the most influential and controversial statesman of his time. "
 editions:
   - binding: Clothbound
     isbn: 9780811222631
     publication_date: 2015-03-17T14:43:00-04:00
-    cover_image_path: /uploads/Late_Poems_Wang.png
+    cover_image: /images/Late_Poems_Wang.png
     forsale: true
     saleprice:
     shipping_charge:

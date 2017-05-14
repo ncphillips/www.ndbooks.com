@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811200370
     publication_date: 1966-01-01T06:00:00-04:00
-    cover_image_path: Seven_Types_Of_Ambiguity.jpg
+    cover_image: /images/Seven_Types_Of_Ambiguity.jpg
     forsale: false
     saleprice:
     shipping_charge:

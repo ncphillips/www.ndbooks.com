@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Clothbound
     isbn: 9780811203319
     publication_date: 1968-04-01T06:00:07-04:00
-    cover_image_path: NDAnnual_20.jpg
+    cover_image: /images/NDAnnual_20.jpg
     forsale: false
     saleprice:
     shipping_charge:

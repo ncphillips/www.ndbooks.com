@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Tabucchi’s masterpiece “conjures a state between waking and dreaming” (_The New York Times_) "
 editions:
   - binding: Paperback
     isbn: 9780811226172
     publication_date: 2017-02-28T05:00:00-04:00
-    cover_image_path: /uploads/tabucchi_pereira_maintains_cmyk.tif
+    cover_image: /images/tabucchi_pereira_maintains_cmyk.tif
     forsale: false
     saleprice:
     shipping_charge:

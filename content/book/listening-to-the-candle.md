@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811212144
     publication_date: 1992-09-01T05:00:00-04:00
-    cover_image_path: Listening_To_The_Candle.jpg
+    cover_image: /images/Listening_To_The_Candle.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -14,13 +14,13 @@ translators:
 editors:
   - contributor/eliot-weinberger.md
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811207386
     publication_date: 1980-02-01T06:00:00-04:00
-    cover_image_path: A_Draft_Of_Shadows.jpg
+    cover_image: /images/A_Draft_Of_Shadows.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811207379
     publication_date: 1980-02-01T06:00:00-04:00
-    cover_image_path: A_Draft_Of_Shadows.jpg
+    cover_image: /images/A_Draft_Of_Shadows.jpg
     forsale: true
     saleprice:
     shipping_charge:

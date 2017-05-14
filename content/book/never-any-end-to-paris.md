@@ -13,13 +13,13 @@ translators:
   - contributor/anne-mclean.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811218139
     publication_date: 2011-05-24T14:28:00-04:00
-    cover_image_path: neveranyendtoparis.JPG
+    cover_image: /images/neveranyendtoparis.JPG
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811220163
     publication_date: 2011-05-24T14:28:00-04:00
-    cover_image_path: neveranyendtoparis.JPG
+    cover_image: /images/neveranyendtoparis.JPG
     forsale: false
     saleprice:
     shipping_charge:

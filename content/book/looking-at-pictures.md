@@ -18,13 +18,13 @@ translators:
   - contributor/christopher-middleton.md
 editors:
 contributors:
-featured_image_path: /uploads/AA349675.tif
+featured_image: /images/AA349675.tif
 description: "A special side of Robert Walser: his essays on art "
 editions:
   - binding: Clothbound
     isbn: 9780811224246
     publication_date: 2015-11-09T05:00:00-04:00
-    cover_image_path: /uploads/Looking%20at%20Pictures.jpg
+    cover_image: /images/Looking%20at%20Pictures.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811212267
     publication_date: 1993-01-01T06:00:00-04:00
-    cover_image_path: Aller_Retour_New_York.jpg
+    cover_image: /images/Aller_Retour_New_York.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811211932
     publication_date: 1993-01-01T06:00:00-04:00
-    cover_image_path: Aller_Retour_New_York.jpg
+    cover_image: /images/Aller_Retour_New_York.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -40,7 +40,7 @@ editions:
   - binding: Ebook
     isbn: 9780811223140
     publication_date: 1993-01-01T06:00:00-04:00
-    cover_image_path: Aller_Retour_New_York.jpg
+    cover_image: /images/Aller_Retour_New_York.jpg
     forsale: false
     saleprice:
     shipping_charge:

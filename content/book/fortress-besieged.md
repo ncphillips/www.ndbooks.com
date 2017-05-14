@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "The greatest Chinese novel of the twentieth century. "
 editions:
   - binding: Paperback
     isbn: 9780811215527
     publication_date: 2004-02-01T06:00:34-04:00
-    cover_image_path: Fortress_Besieged.jpg
+    cover_image: /images/Fortress_Besieged.jpg
     forsale: false
     saleprice:
     shipping_charge:

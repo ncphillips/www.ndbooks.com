@@ -13,13 +13,13 @@ translators:
   - contributor/gini-alhadeff.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "**Sensational, hyper-distilled new stories by the inimitable Fleur Jaeggy** "
 editions:
   - binding: Paperback
     isbn: 9780811225984
     publication_date: 2017-07-25T04:00:00-04:00
-    cover_image_path: /uploads/brother_of_xx_cover.tif
+    cover_image: /images/brother_of_xx_cover.tif
     forsale: false
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811206938
     publication_date: 1978-11-01T06:00:00-04:00
-    cover_image_path: Life_in_the_Forest.JPG
+    cover_image: /images/Life_in_the_Forest.JPG
     forsale: false
     saleprice:
     shipping_charge:

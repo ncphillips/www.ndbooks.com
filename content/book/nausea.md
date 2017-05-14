@@ -14,13 +14,13 @@ translators:
 editors:
 contributors:
   - contributor/james-wood.md
-featured_image_path:
+featured_image:
 description: "Sartre's greatest novel — and existentialism's key text — now introduced by James Wood "
 editions:
   - binding: Paperback
     isbn: 9780811220309
     publication_date: 2013-03-25T16:48:00-04:00
-    cover_image_path: /uploads/Nausea_cover_current.jpg
+    cover_image: /images/Nausea_cover_current.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -31,7 +31,7 @@ editions:
   - binding: Ebook
     isbn: 9780811222525
     publication_date: 2013-03-25T16:48:00-04:00
-    cover_image_path: Nausea_new.jpg
+    cover_image: /images/Nausea_new.jpg
     forsale: true
     saleprice:
     shipping_charge:

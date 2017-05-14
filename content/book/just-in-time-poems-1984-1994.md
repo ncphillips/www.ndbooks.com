@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811214872
     publication_date: 2001-09-01T05:00:06-04:00
-    cover_image_path: Just_In_Time_.jpg
+    cover_image: /images/Just_In_Time_.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A powerful, indelible new collection by Michael Palmer—“one of America’s most important poets” (_The Harvard Review_) "
 editions:
   - binding: Paperback
     isbn: 9780811225540
     publication_date: 2016-06-28T04:00:00-04:00
-    cover_image_path: /uploads/laughter_of_the_sphinx_cover_final.jpg
+    cover_image: /images/laughter_of_the_sphinx_cover_final.jpg
     forsale: true
     saleprice:
     shipping_charge:

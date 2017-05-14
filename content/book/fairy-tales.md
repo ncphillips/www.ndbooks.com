@@ -16,13 +16,13 @@ translators:
 editors:
 contributors:
   - contributor/reto-sorg.md
-featured_image_path:
+featured_image:
 description: "Four mini-plays by the German wunderkind and asylum-dweller "
 editions:
   - binding: Paperback
     isbn: 9780811223980
     publication_date: 2015-04-20T14:53:00-04:00
-    cover_image_path: /uploads/9780811223980.jpg
+    cover_image: /images/9780811223980.jpg
     forsale: true
     saleprice:
     shipping_charge:

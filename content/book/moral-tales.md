@@ -13,13 +13,13 @@ translators:
   - contributor/william-jay-smith.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811209434
     publication_date: 1985-05-01T05:00:49-04:00
-    cover_image_path: Moral_Tales.jpg
+    cover_image: /images/Moral_Tales.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811209427
     publication_date: 1985-05-01T05:00:49-04:00
-    cover_image_path: Moral_Tales.jpg
+    cover_image: /images/Moral_Tales.jpg
     forsale: false
     saleprice:
     shipping_charge:

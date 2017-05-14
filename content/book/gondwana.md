@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "**A new collection by America’s internationalist poet—“a vision both original and universal” (Octavio Paz)** "
 editions:
   - binding: Paperback
     isbn: 9780811225021
     publication_date: 2017-06-27T04:00:00-04:00
-    cover_image_path: /uploads/Gondwana%20for%20catalog.tif
+    cover_image: /images/Gondwana%20for%20catalog.tif
     forsale: false
     saleprice:
     shipping_charge:

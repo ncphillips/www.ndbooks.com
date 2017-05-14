@@ -13,13 +13,13 @@ translators:
   - contributor/willis-barnstone.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A collection of interviews now available from New Directions for the first time "
 editions:
   - binding: Paperback
     isbn: 9780811221214
     publication_date: 2013-06-26T16:20:00-04:00
-    cover_image_path: Borges_at_80.jpg
+    cover_image: /images/Borges_at_80.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811223249
     publication_date: 2013-06-26T16:20:00-04:00
-    cover_image_path: Borges_at_80.jpg
+    cover_image: /images/Borges_at_80.jpg
     forsale: false
     saleprice:
     shipping_charge:

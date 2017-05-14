@@ -13,13 +13,13 @@ translators:
 editors:
   - contributor/jonathan-cohen.md
 contributors:
-featured_image_path:
+featured_image:
 description: "The most comprehensive selection of poems in English by Latin America’s legendary poet-activist, Ernesto Cardenal. "
 editions:
   - binding: Paperback
     isbn: 9780811218092
     publication_date: 2009-01-01T06:00:00-04:00
-    cover_image_path: Pluriverse.jpg
+    cover_image: /images/Pluriverse.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A gift _book in a box_ by one of Britain's greatest modern writers. "
 editions:
   - binding: Paperback
     isbn: 9780811217439
     publication_date: 2009-05-01T05:00:00-04:00
-    cover_image_path: theunfortunates.jpg
+    cover_image: /images/theunfortunates.jpg
     forsale: false
     saleprice:
     shipping_charge:

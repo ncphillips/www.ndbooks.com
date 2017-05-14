@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811207577
     publication_date: 1980-05-01T05:00:28-04:00
-    cover_image_path: ALovely_Sunday_For_Creve_Coeur.jpg
+    cover_image: /images/ALovely_Sunday_For_Creve_Coeur.jpg
     forsale: false
     saleprice:
     shipping_charge:

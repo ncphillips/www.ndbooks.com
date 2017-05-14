@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A suspenseful and uniquely literary look in Guy Fawkes and the English Gunpowder Plot of 1605, by one of America's most celebrated writers. "
 editions:
   - binding: Paperback
     isbn: 9780811216067
     publication_date: 2004-11-01T05:59:58-04:00
-    cover_image_path: A_Fifth_Of_November.jpg
+    cover_image: /images/A_Fifth_Of_November.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811214674
     publication_date: 2004-11-01T05:59:58-04:00
-    cover_image_path: A_Fifth_Of_November.jpg
+    cover_image: /images/A_Fifth_Of_November.jpg
     forsale: false
     saleprice:
     shipping_charge:

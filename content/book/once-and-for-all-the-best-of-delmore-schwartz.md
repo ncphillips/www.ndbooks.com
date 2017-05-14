@@ -17,13 +17,13 @@ contributors:
   - contributor/craig-morgan-teicher.md
 
   - contributor/john-ashbery.md
-featured_image_path:
+featured_image:
 description: "The publication of this book restores a missing chapter in the history of twentieth-century American literature "
 editions:
   - binding: Paperback
     isbn: 9780811224321
     publication_date: 2016-05-03T04:00:00-04:00
-    cover_image_path: /uploads/schwartz_once_and_for_all_cover_final.jpg
+    cover_image: /images/schwartz_once_and_for_all_cover_final.jpg
     forsale: true
     saleprice:
     shipping_charge:

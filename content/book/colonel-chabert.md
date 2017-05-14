@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811213592
     publication_date: 1997-11-01T05:59:59-04:00
-    cover_image_path: Colonel_Chabert.jpg
+    cover_image: /images/Colonel_Chabert.jpg
     forsale: false
     saleprice:
     shipping_charge:

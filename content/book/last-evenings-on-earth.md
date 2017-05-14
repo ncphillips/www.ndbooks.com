@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811216883
     publication_date: 2007-04-01T05:00:00-04:00
-    cover_image_path: Last_Evenings_On_Earth.jpg
+    cover_image: /images/Last_Evenings_On_Earth.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811216340
     publication_date: 2007-04-01T05:00:00-04:00
-    cover_image_path: Last_Evenings_On_Earth.jpg
+    cover_image: /images/Last_Evenings_On_Earth.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -41,7 +41,7 @@ editions:
   - binding: Ebook
     isbn: 9780811220545
     publication_date: 2007-04-01T05:00:00-04:00
-    cover_image_path: Last_Evenings_On_Earth.jpg
+    cover_image: /images/Last_Evenings_On_Earth.jpg
     forsale: false
     saleprice:
     shipping_charge:

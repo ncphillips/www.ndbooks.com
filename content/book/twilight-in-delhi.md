@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811212670
     publication_date: 1994-05-01T05:00:39-04:00
-    cover_image_path: Twilight_In_Delhi.jpg
+    cover_image: /images/Twilight_In_Delhi.jpg
     forsale: false
     saleprice:
     shipping_charge:

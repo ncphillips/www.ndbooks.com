@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811208680
     publication_date: 1983-06-01T05:00:00-04:00
-    cover_image_path: Thank_A_Bored_Angel.jpg
+    cover_image: /images/Thank_A_Bored_Angel.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811208697
     publication_date: 1983-06-01T05:00:00-04:00
-    cover_image_path: Thank_A_Bored_Angel.jpg
+    cover_image: /images/Thank_A_Bored_Angel.jpg
     forsale: false
     saleprice:
     shipping_charge:

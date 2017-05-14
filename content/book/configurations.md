@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811201506
     publication_date: 1971-03-01T06:00:36-04:00
-    cover_image_path: Configurations.jpg
+    cover_image: /images/Configurations.jpg
     forsale: false
     saleprice:
     shipping_charge:

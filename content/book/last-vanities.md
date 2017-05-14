@@ -14,13 +14,13 @@ translators:
   - contributor/tim-parks.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811213745
     publication_date: 1998-04-01T06:00:00-04:00
-    cover_image_path: Last_Vanities.jpg
+    cover_image: /images/Last_Vanities.jpg
     forsale: false
     saleprice:
     shipping_charge:

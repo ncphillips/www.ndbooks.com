@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811209953
     publication_date: 1986-11-01T06:00:21-04:00
-    cover_image_path: Oscar_Wilde.jpg
+    cover_image: /images/Oscar_Wilde.jpg
     forsale: false
     saleprice:
     shipping_charge:

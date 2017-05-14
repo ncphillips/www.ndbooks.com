@@ -13,13 +13,13 @@ translators:
   - contributor/eliot-weinberger.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A beautiful gift edition now in paperback, Figures & Figurations is a collaboration between the Nobel Prize laureate Octavio Paz and his wife of thirty years, the artist Marie José Paz. "
 editions:
   - binding: Paperback
     isbn: 9780811217590
     publication_date: 2008-08-01T05:00:10-04:00
-    cover_image_path: Figures_and_Figurations.jpg
+    cover_image: /images/Figures_and_Figurations.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811215244
     publication_date: 2008-08-01T05:00:10-04:00
-    cover_image_path: Figures_and_Figurations.jpg
+    cover_image: /images/Figures_and_Figurations.jpg
     forsale: false
     saleprice:
     shipping_charge:

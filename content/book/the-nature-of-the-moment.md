@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811218184
     publication_date: 1974-03-01T05:00:00-04:00
-    cover_image_path: The_Nature_of_the_Moment.jpg
+    cover_image: /images/The_Nature_of_the_Moment.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811205177
     publication_date: 1974-03-01T05:00:00-04:00
-    cover_image_path: The_Nature_of_the_Moment.jpg
+    cover_image: /images/The_Nature_of_the_Moment.jpg
     forsale: false
     saleprice:
     shipping_charge:

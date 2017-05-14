@@ -13,13 +13,13 @@ translators:
 editors:
 contributors:
   - contributor/bob-kaufman.md
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811200769
     publication_date: 1965-08-01T05:00:00-04:00
-    cover_image_path: Solitudes_Crowded_With_Loneliness.jpg
+    cover_image: /images/Solitudes_Crowded_With_Loneliness.jpg
     forsale: false
     saleprice:
     shipping_charge:

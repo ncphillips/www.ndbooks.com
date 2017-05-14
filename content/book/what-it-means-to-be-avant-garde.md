@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811212380
     publication_date: 2001-01-01T06:00:28-04:00
-    cover_image_path: What_It_Means_To_Be_Avant-Garde.jpg
+    cover_image: /images/What_It_Means_To_Be_Avant-Garde.jpg
     forsale: false
     saleprice:
     shipping_charge:

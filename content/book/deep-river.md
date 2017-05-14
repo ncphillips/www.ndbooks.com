@@ -13,13 +13,13 @@ translators:
   - contributor/van-c.-gessel.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811213202
     publication_date: 1996-06-01T05:00:00-04:00
-    cover_image_path: Deep_River.jpg
+    cover_image: /images/Deep_River.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811212892
     publication_date: 1996-06-01T05:00:00-04:00
-    cover_image_path: Deep_River.jpg
+    cover_image: /images/Deep_River.jpg
     forsale: false
     saleprice:
     shipping_charge:

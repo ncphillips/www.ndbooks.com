@@ -13,13 +13,13 @@ translators:
   - contributor/chris-andrews.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "_Ema, the Captive_, César Aira’s second novel, is perhaps closest in style to his popular _Episode in the Life of a Landscape Painter_ and _The Hare_ "
 editions:
   - binding: Paperback
     isbn: 9780811219105
     publication_date: 2016-12-06T05:00:00-04:00
-    cover_image_path: /uploads/ema_cover_to_size.tif
+    cover_image: /images/ema_cover_to_size.tif
     forsale: true
     saleprice:
     shipping_charge:

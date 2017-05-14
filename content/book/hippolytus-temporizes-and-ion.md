@@ -13,13 +13,13 @@ translators:
 editors:
 contributors:
   - contributor/hilda-doolittle-h.-d.md
-featured_image_path:
+featured_image:
 description: "Brilliant reworkings of Euripides' classic dramas by the great modernist poet H.D., now available in one volume. "
 editions:
   - binding: Paperback
     isbn: 9780811215534
     publication_date: 2003-11-01T06:00:45-04:00
-    cover_image_path: Hippolytus_Temporizes_And_Ion.jpg
+    cover_image: /images/Hippolytus_Temporizes_And_Ion.jpg
     forsale: false
     saleprice:
     shipping_charge:

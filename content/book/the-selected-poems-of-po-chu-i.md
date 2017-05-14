@@ -13,13 +13,13 @@ translators:
   - contributor/david-hinton.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811214124
     publication_date: 1999-06-01T05:00:11-04:00
-    cover_image_path: The_Selected_Poems_Of_Po_Chu-I.jpg
+    cover_image: /images/The_Selected_Poems_Of_Po_Chu-I.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -14,13 +14,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path: /uploads/Quarry.jpg
+featured_image: /images/Quarry.jpg
 description:
 editions:
   - binding:
     isbn: 9780811222464
     publication_date: 2015-12-07T05:00:00-04:00
-    cover_image_path: /uploads/quarry_cover.jpg
+    cover_image: /images/quarry_cover.jpg
     forsale: true
     saleprice:
     shipping_charge:

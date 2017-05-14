@@ -15,13 +15,13 @@ translators:
   - contributor/anna-milsom.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A poetic and vivid satire of the hypocrisies of the Catholic Church. "
 editions:
   - binding: Paperback
     isbn: 9780811219303
     publication_date: 2011-09-28T14:28:00-04:00
-    cover_image_path: good_offices_cover_wr.jpg
+    cover_image: /images/good_offices_cover_wr.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -32,7 +32,7 @@ editions:
   - binding: Ebook
     isbn: 9780811219518
     publication_date: 2011-09-28T14:28:00-04:00
-    cover_image_path: good_offices_cover_wr.jpg
+    cover_image: /images/good_offices_cover_wr.jpg
     forsale: false
     saleprice:
     shipping_charge:

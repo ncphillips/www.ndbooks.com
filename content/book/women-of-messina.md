@@ -13,13 +13,13 @@ translators:
   - contributor/frances-frenaye.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Translated by Frances Frenaye and Frances Keene with a foreword by Webster Scott "
 editions:
   - binding: Paperback
     isbn: 9780811204965
     publication_date: 1973-01-01T06:00:00-04:00
-    cover_image_path: /uploads/51A3LVGPSWL._SX342_BO1%2C204%2C203%2C200_.jpg
+    cover_image: /images/51A3LVGPSWL._SX342_BO1%2C204%2C203%2C200_.jpg
     forsale: true
     saleprice:
     shipping_charge:

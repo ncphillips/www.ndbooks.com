@@ -13,13 +13,13 @@ translators:
 editors:
   - contributor/annette-j.-saddick.md
 contributors:
-featured_image_path:
+featured_image:
 description: "12 previously uncollected experimental shorter plays: The Chalky White Substance • The Day on Which a Man Dies (An Occidental Noh Play) • A Cavalier for Milady • The Pronoun _I_ • The Remarkable Rooming House of Mme. LeMonde • Kirche, Kueche, Kinder (An Outrage for the Stage) • Green Eyes • The Parade • The One Exception • Sunburst • Will Mr. Merriwether Return from Memphis? • The Traveling Companion "
 editions:
   - binding: Paperback
     isbn: 9780811217088
     publication_date: 2008-04-01T05:00:00-04:00
-    cover_image_path: TheTraveling_Companion.jpg
+    cover_image: /images/TheTraveling_Companion.jpg
     forsale: false
     saleprice:
     shipping_charge:

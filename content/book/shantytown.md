@@ -13,13 +13,13 @@ translators:
   - contributor/chris-andrews.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "At last, a noir novel from the Argentine master of suspense and surprises "
 editions:
   - binding: Paperback
     isbn: 9780811219112
     publication_date: 2013-11-20T17:36:00-04:00
-    cover_image_path: Shantytown.jpg
+    cover_image: /images/Shantytown.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811221580
     publication_date: 2013-11-20T17:36:00-04:00
-    cover_image_path: Shantytown.jpg
+    cover_image: /images/Shantytown.jpg
     forsale: false
     saleprice:
     shipping_charge:

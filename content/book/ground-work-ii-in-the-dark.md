@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811210423
     publication_date: 1988-02-01T06:00:00-04:00
-    cover_image_path: /uploads/Duncan_%20Ground%20Work%20II%20In%20the%20Dark.jpg
+    cover_image: /images/Duncan_%20Ground%20Work%20II%20In%20the%20Dark.jpg
     forsale: true
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811218238
     publication_date: 1988-08-01T05:00:41-04:00
-    cover_image_path: William_Everson.jpg
+    cover_image: /images/William_Everson.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811210607
     publication_date: 1988-08-01T05:00:41-04:00
-    cover_image_path: William_Everson.jpg
+    cover_image: /images/William_Everson.jpg
     forsale: false
     saleprice:
     shipping_charge:

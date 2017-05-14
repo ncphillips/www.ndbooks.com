@@ -13,13 +13,13 @@ translators:
   - contributor/ralph-manheim.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811200172
     publication_date: 1938-01-19T03:14:00-04:00
-    cover_image_path: Death_On_The_Installment_Plan.jpg
+    cover_image: /images/Death_On_The_Installment_Plan.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811223607
     publication_date: 1938-01-19T03:14:00-04:00
-    cover_image_path: Death_On_The_Installment_Plan.jpg
+    cover_image: /images/Death_On_The_Installment_Plan.jpg
     forsale: true
     saleprice:
     shipping_charge:

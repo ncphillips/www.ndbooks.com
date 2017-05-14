@@ -13,13 +13,13 @@ translators:
   - contributor/lucas-klein1.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811219877
     publication_date: 2012-04-12T16:35:00-04:00
-    cover_image_path: Notes_on_the_Mosquito.jpg
+    cover_image: /images/Notes_on_the_Mosquito.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811219884
     publication_date: 2012-04-12T16:35:00-04:00
-    cover_image_path: Notes_on_the_Mosquito.jpg
+    cover_image: /images/Notes_on_the_Mosquito.jpg
     forsale: true
     saleprice:
     shipping_charge:

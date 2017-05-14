@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A landmark book about Sigmund Freud, H.D., modernism, gender, and sexuality. "
 editions:
   - binding: Paperback
     isbn: 9780811216036
     publication_date: 2005-01-01T06:00:09-04:00
-    cover_image_path: Analyzing_Freud.jpg
+    cover_image: /images/Analyzing_Freud.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811214995
     publication_date: 2005-01-01T06:00:09-04:00
-    cover_image_path: Analyzing_Freud.jpg
+    cover_image: /images/Analyzing_Freud.jpg
     forsale: false
     saleprice:
     shipping_charge:

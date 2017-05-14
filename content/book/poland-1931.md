@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811205429
     publication_date: 1974-11-01T06:00:00-04:00
-    cover_image_path: Poland:_1931.jpg
+    cover_image: /images/Poland:_1931.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811205412
     publication_date: 1974-11-01T06:00:00-04:00
-    cover_image_path: Poland:_1931.jpg
+    cover_image: /images/Poland:_1931.jpg
     forsale: false
     saleprice:
     shipping_charge:

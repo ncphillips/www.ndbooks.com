@@ -13,13 +13,13 @@ translators:
   - contributor/jonathan-dunne.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A marvelous novel by one of Spain's most important contemporary authors, in which a clerk in a Barcelona office takes us on a romping tour of world literature "
 editions:
   - binding: Paperback
     isbn: 9780811216982
     publication_date: 2007-12-01T06:00:00-04:00
-    cover_image_path: /uploads/Bartleby_And_Company.jpg
+    cover_image: /images/Bartleby_And_Company.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811215916
     publication_date: 2007-12-01T06:00:00-04:00
-    cover_image_path: Bartleby_And_Company.jpg
+    cover_image: /images/Bartleby_And_Company.jpg
     forsale: true
     saleprice:
     shipping_charge:
@@ -41,7 +41,7 @@ editions:
   - binding: Ebook
     isbn: 9780811221535
     publication_date: 2007-12-01T06:00:00-04:00
-    cover_image_path: Bartleby_And_Company.jpg
+    cover_image: /images/Bartleby_And_Company.jpg
     forsale: true
     saleprice:
     shipping_charge:

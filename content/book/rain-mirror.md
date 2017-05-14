@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811214261
     publication_date: 1999-09-01T05:00:47-04:00
-    cover_image_path: Rain_Mirror.jpg
+    cover_image: /images/Rain_Mirror.jpg
     forsale: false
     saleprice:
     shipping_charge:

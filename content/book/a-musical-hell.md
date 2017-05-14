@@ -13,13 +13,13 @@ translators:
   - contributor/yvette-siegert.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811220965
     publication_date: 2013-07-10T19:19:00-04:00
-    cover_image_path: Musical_Hell.jpg
+    cover_image: /images/Musical_Hell.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -13,13 +13,13 @@ translators:
   - contributor/ann-stevens.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811212649
     publication_date: 1994-05-01T05:00:14-04:00
-    cover_image_path: The_Illustrious_House_Of_Ramires.jpg
+    cover_image: /images/The_Illustrious_House_Of_Ramires.jpg
     forsale: false
     saleprice:
     shipping_charge:

@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Clothbound
     isbn: 9780811213820
     publication_date: 1998-04-01T06:00:19-04:00
-    cover_image_path: Viper_Rum.jpg
+    cover_image: /images/Viper_Rum.jpg
     forsale: false
     saleprice:
     shipping_charge:

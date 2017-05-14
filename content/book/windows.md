@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811211239
     publication_date: 1990-04-01T06:00:35-04:00
-    cover_image_path: Windows.jpg
+    cover_image: /images/Windows.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -29,7 +29,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811211222
     publication_date: 1990-04-01T06:00:35-04:00
-    cover_image_path: Windows.jpg
+    cover_image: /images/Windows.jpg
     forsale: false
     saleprice:
     shipping_charge:

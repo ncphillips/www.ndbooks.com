@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A selection of innovative poems by the groundbreaking Pulitzer Prize winner. "
 editions:
   - binding: Paperback
     isbn: 9780811215572
     publication_date: 2003-09-01T05:00:23-04:00
-    cover_image_path: Selected_Poems._George_Oppen_.jpg
+    cover_image: /images/Selected_Poems._George_Oppen_.jpg
     forsale: false
     saleprice:
     shipping_charge:

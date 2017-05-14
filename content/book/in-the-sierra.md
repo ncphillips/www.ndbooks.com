@@ -15,13 +15,13 @@ editors:
   - contributor/kim-stanley-robinson.md
 contributors:
   - contributor/kim-stanley-robinson.md
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811219020
     publication_date: 2012-04-10T15:42:00-04:00
-    cover_image_path: /uploads/In%20the%20Sierra.jpg
+    cover_image: /images/In%20the%20Sierra.jpg
     forsale: true
     saleprice:
     shipping_charge:

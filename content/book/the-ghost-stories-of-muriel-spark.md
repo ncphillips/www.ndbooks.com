@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "Eight spooky stories from the mistress of the unexpected "
 editions:
   - binding: Paperback
     isbn: 9780811215497
     publication_date: 2003-10-01T05:00:00-04:00
-    cover_image_path: The_Ghost_Stories_Of_Muriel_Spark.jpg
+    cover_image: /images/The_Ghost_Stories_Of_Muriel_Spark.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Ebook
     isbn: 9780811221528
     publication_date: 2003-10-01T05:00:00-04:00
-    cover_image_path: The_Ghost_Stories_Of_Muriel_Spark.jpg
+    cover_image: /images/The_Ghost_Stories_Of_Muriel_Spark.jpg
     forsale: false
     saleprice:
     shipping_charge:

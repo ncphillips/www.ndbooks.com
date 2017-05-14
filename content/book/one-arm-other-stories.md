@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811202237
     publication_date: 1970-06-01T05:00:14-04:00
-    cover_image_path: One_Arm_.jpg
+    cover_image: /images/One_Arm_.jpg
     forsale: false
     saleprice:
     shipping_charge:
@@ -30,7 +30,7 @@ editions:
   - binding: Clothbound
     isbn: 9780811204118
     publication_date: 1970-06-01T05:00:14-04:00
-    cover_image_path: One_Arm_.jpg
+    cover_image: /images/One_Arm_.jpg
     forsale: false
     saleprice:
     shipping_charge:

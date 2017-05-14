@@ -14,13 +14,13 @@ translators:
 editors:
 contributors:
   - contributor/walter-benjamin.md
-featured_image_path: /uploads/microscript%20copy.jpg
+featured_image: /images/microscript%20copy.jpg
 description: "Now in a gorgeous new paperback edition with full-color illustrations by Maira Kalman, Microscripts is a one-of-a-kind masterpiece. "
 editions:
   - binding: Paperback
     isbn: 9780811220330
     publication_date: 2012-11-21T19:34:00-04:00
-    cover_image_path: /uploads/Microscripts.jpg
+    cover_image: /images/Microscripts.jpg
     forsale: true
     saleprice:
     shipping_charge:

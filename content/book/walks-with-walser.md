@@ -13,13 +13,13 @@ translators:
   - contributor/anne-posten.md
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "A unique and personal portrait of the beloved, legendary Swiss writer, finally in English "
 editions:
   - binding: Paperback
     isbn: 9780811221399
     publication_date: 2017-04-25T04:00:00-04:00
-    cover_image_path: /uploads/walks_with_walser_seelig.jpg
+    cover_image: /images/walks_with_walser_seelig.jpg
     forsale: true
     saleprice:
     shipping_charge:

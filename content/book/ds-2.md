@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "The startling new work by internationally celebrated Caribbean poet, historian and cultural theorist Kamau Brathwaite, winner of the 2006 Griffin Poetry Prize. "
 editions:
   - binding: Paperback
     isbn: 9780811216937
     publication_date: 2007-04-01T05:00:00-04:00
-    cover_image_path: /uploads/Brathwaite_%20DS%20(2).jpg
+    cover_image: /images/Brathwaite_%20DS%20(2).jpg
     forsale: true
     saleprice:
     shipping_charge:

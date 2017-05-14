@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description: "The great American jazz novel of _such exquisite rhythmic lyricism_ (Bookforum) by National Book Award Winner Nathaniel Mackey. "
 editions:
   - binding: Paperback
     isbn: 9780811218443
     publication_date: 2010-07-30T14:28:09-04:00
-    cover_image_path: From_A_Broken_Bottle.jpg
+    cover_image: /images/From_A_Broken_Bottle.jpg
     forsale: false
     saleprice:
     shipping_charge:

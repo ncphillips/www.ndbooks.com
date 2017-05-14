@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811211192
     publication_date: 1989-10-01T05:00:56-04:00
-    cover_image_path: A_Door_In_the_Hive_.jpg
+    cover_image: /images/A_Door_In_the_Hive_.jpg
     forsale: false
     saleprice:
     shipping_charge:

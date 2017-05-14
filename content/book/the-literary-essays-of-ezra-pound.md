@@ -13,13 +13,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811201575
     publication_date: 1968-06-01T05:00:32-04:00
-    cover_image_path: Literary_Essays_of_Ezra_Pound_.jpg
+    cover_image: /images/Literary_Essays_of_Ezra_Pound_.jpg
     forsale: false
     saleprice:
     shipping_charge:

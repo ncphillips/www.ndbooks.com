@@ -12,13 +12,13 @@ authors:
 translators:
 editors:
 contributors:
-featured_image_path:
+featured_image:
 description:
 editions:
   - binding: Paperback
     isbn: 9780811201476
     publication_date: 1969-10-01T05:00:24-04:00
-    cover_image_path: sleepersawake.jpg
+    cover_image: /images/sleepersawake.jpg
     forsale: false
     saleprice:
     shipping_charge:
