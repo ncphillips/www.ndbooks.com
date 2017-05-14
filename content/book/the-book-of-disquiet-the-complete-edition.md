@@ -14,7 +14,7 @@ translators:
 editors:
   - contributor/jerónimo-pizarro.md
 contributors:
-featured_image: /images/Pessoa%20(1).tif
+featured_image: /images/pessoa-complete-image.jpg
 description: "In the best translation ever, the complete Book of Disquiet is an incomparable masterpiece "
 editions:
   - binding: Clothbound
@@ -53,4 +53,3 @@ _My only regret is that I am not a child, for that would allow me to believe in 
 _Everything interests me and nothing holds my attention. I listen to everthing while constantly dreaming; I notice the tiniest facial tics of the person I’m talking to, pick up minimal changes in the intonation of what they say; but when I hear, I do not listen, for I’m thinking about something else._
 
 (1930)
-
