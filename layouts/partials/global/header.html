@@ -1,13 +1,47 @@
+{{ $mainMenuLeft := where .Site.Menus.main ".Weight" "<=" 40 }}
+{{ $mainMenuRight := where .Site.Menus.main ".Weight" ">=" 50 }}
 {{ $featured_image := .Params.featured_image }}
 
-  <header class="bg-black">
+<header class="bg-near-black">
+  <nav class="flex justify-center items-center pt4 pb3" role="navigation">
 
 
-<div class="white o-90 w4 center pv2">
-  {{ partial "svg/logo-ndbooks.svg" (dict "height" "100" "width" "auto") }}
-    <h1 class="f5 tc">New DirectionN</h1>
-</div>
+      {{ if $mainMenuLeft }}
+        <ul class="ph0 pt4TK tr w-40">
+          {{ range $mainMenuLeft }}
+            {{ partial "global/nav-links.html" . }}
+          {{ end }}
+        </ul>
+      {{ end }}
 
 
 
-  </header>
+
+  <a href="/" class="link gray w3g pt4TK w-10">
+    {{ partial "svg/logo-ndbooks.svg" (dict "height" "82" "width" "auto") }}
+    <h1 class="f5 white fw2 pt0 mt1 tc">New Directions</h1>
+  </a>
+
+
+
+
+{{ if $mainMenuRight }}
+  <ul class="ph0 pt4TK w-40">
+    {{ range $mainMenuRight }}
+      {{ partial "global/nav-links.html" . }}
+    {{ end }}
+  </ul>
+{{ end }}
+
+
+
+  </nav>
+</header>
+
+
+
+<style media="screen">
+  .gray {
+    color: #888;
+  }
+</style>

@@ -5,11 +5,11 @@ theme = "thenewdynamic-hugo-core-theme"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
+# SectionPagesMenu = "main"
 Paginate = 500 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
-disableKinds = ["page","section", "taxonomy", "taxonomyTerm"]
+#disableKinds = ["page","section", "taxonomy", "taxonomyTerm"]
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
