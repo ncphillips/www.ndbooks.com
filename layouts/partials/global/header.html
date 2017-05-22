@@ -1,17 +1,38 @@
-{{ $headerColors := $.Param "headerColors" | default "bg-near-black silver" }}
-{{ if isset .Params "featured_image" }}
-  {{ $featured_image := absURL .Params.featured_image }}
-  {{ $.Scratch.Add "featured_image" $featured_image }}
+{{/* Set header classes (e.g. colors scheme) at either the global, section, or page level */}}
+{{/* Initially set $.Param "headerClasses" at the page or global (config) level, with a default if neither exist */}}
+{{ $headerClasses := $.Param "headerClasses" | default "bg-near-black silver"}}
+{{/* To set at the section level, get the section the current page belongs to */}}
+{{ $section := .Site.GetPage "section" .Section }}
+{{/* If the page belongs to a section,  */}}
+{{ if $section}}
+  {{/* get the section's headerClasses param value, defaulting to the global/page level. */}}
+  {{ $headerClasses := $section.Param "headerClasses" | default $headerClasses }}
+  {{/* Set the colors based on the page's setting, but if there isn't one, look to the section's settings above */}}
+  {{ $headerClasses := .Params.headerClasses | default $headerClasses }}
+  {{/* Add to Scratch so we can access it outside of the conditional */}}
+  {{ $.Scratch.Add "headerClasses" $headerClasses }}
 {{ end }}
-  {{ $featured_image := $.Scratch.Get "featured_image" }}
+  {{/* Define the variable based on what's in Scratch, and if nothing there, get the first default values */}}
+{{ $headerClasses := $.Scratch.Get "headerClasses" | default $headerClasses }}
 
 
-<header class="cover bg-top{{ with $headerColors }} {{ . }}{{ end }}"{{ with $featured_image }} style="background-image: url('{{ . }}');"{{ end }}>
-
-  <div class="{{ if ne $featured_image " " }}bg-black-60 vh-100{{ end }}">
+{{ if and (isset .Params "featured_image") (ne .Params.featured_image "")}}
+  {{ $featured_image := absURL .Params.featured_image }}
+  <header class="cover bg-top{{ with $headerClasses }} {{ . }}{{ end }}"{{ with $featured_image }} style="background-image: url('{{ . }}');"{{ end }}>
+    <div class="bg-black-70 vh-100">
+      {{ partial "global/nav.html" .}}
+    </div>
+  </header>
+{{ else }}
+  <header class="{{ with $headerClasses }} {{ . }}{{ end }}">
     {{ partial "global/nav.html" .}}
-  </div>
-</header>
+  </header>
+{{ end }}
+
+
+
+
+
 
 
 {{/* <!--
@@ -20,8 +41,5 @@
   1) default: NAV black background, no image
   2) NAV transparent background, no image <== SET at SECTION level?
   3) NAV transparent background, header bg image <== SET at PAGE level?
-
-
-{{ with $bgOverlay }}{{ . }}{{ end }}
 
 --> */}}
