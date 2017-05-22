@@ -22,12 +22,6 @@ enableRobotsTXT = true
   twitter = "https://twitter.com/NewDirections"
   instagram = ""
   youtube = ""
-  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
-  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   amp = false
   body_classes = "sans-serif bg-near-white"
-  #headerColors = "bg-near-black silver"
-  headerColors = "bg-near-white mid-gray"
-  # {{/* midgray on white
-  # silver on black */}}
+  #headerClasses = "bg-purple mid-gray"

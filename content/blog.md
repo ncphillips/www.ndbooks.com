@@ -2,6 +2,7 @@
 title: "Blog"
 draft: false
 date: 2017-02-02T17:18:00-04:00
+headerClasses: "bg-yellow mid-gray"
 featured_image_path: /uploads/1486055766834/Lustig-Steincopy2.jpg
 description:
 menu:
