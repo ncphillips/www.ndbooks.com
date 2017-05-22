@@ -1,0 +1,26 @@
+<footer class="bg-light-gray pa3 silver w-100" role="contentinfo">
+
+  <a href="/" class="center db hover-black link pb3 pt4 silver w-50-m w-10-l w-100">
+    {{ partial "svg/logo-ndbooks.svg" (dict "height" "82" "width" "auto") }}
+    <h1 class="f5 fw2 gray hover-black mt1 pt0 tc">New Directions</h1>
+  </a>
+
+  <div class="center measure pb4 tc">
+    {{ partial "social-follow.html" . }}
+  </div>
+
+  <div class="center f5 lh-copy measure-ns pb5 tc">
+    {{ .Site.Params.description_long }}
+  </div>
+
+  <div class="flex justify-between">
+    <a class="f7 hover-black link pv2 ph3 silver" href="{{ .Site.BaseURL }}" >
+      &copy; {{ now.Format "2006" }} {{ .Site.Title }}
+    </a>
+
+    <a class="f7 hover-black link pv2 ph3 silver" href="https://thenewdynamic.com">
+      site by the New Dynamic
+    </a>
+  </div>
+
+</footer>
