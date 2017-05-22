@@ -1,0 +1,27 @@
+{{ $mainMenuLeft := where .Site.Menus.main ".Weight" "<=" 40 }}
+{{ $mainMenuRight := where .Site.Menus.main ".Weight" ">=" 50 }}
+
+<nav class="flex justify-center items-center pt4 pb3" role="navigation">
+
+  {{ if $mainMenuLeft }}
+    <ul class="dn dib-ns ph0 tr w-40">
+      {{ range $mainMenuLeft }}
+        {{ partial "global/nav-links.html" . }}
+      {{ end }}
+    </ul>
+  {{ end }}
+
+  <a href="/" class="color-inherit link w-100 w-50-m w-10-l">
+    {{ partial "svg/logo-ndbooks.svg" (dict "height" "82" "width" "auto") }}
+    <h1 class="color-inherit f5 fw2 dim pt0 mt1 tc">New Directions</h1>
+  </a>
+
+  {{ if $mainMenuRight }}
+    <ul class="dn dib-ns ph0 w-40">
+      {{ range $mainMenuRight }}
+        {{ partial "global/nav-links.html" . }}
+      {{ end }}
+    </ul>
+  {{ end }}
+
+</nav>

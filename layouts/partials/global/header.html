@@ -1,47 +1,27 @@
-{{ $mainMenuLeft := where .Site.Menus.main ".Weight" "<=" 40 }}
-{{ $mainMenuRight := where .Site.Menus.main ".Weight" ">=" 50 }}
-{{ $featured_image := .Params.featured_image }}
-
-<header class="bg-near-black">
-  <nav class="flex justify-center items-center pt4 pb3" role="navigation">
-
-
-      {{ if $mainMenuLeft }}
-        <ul class="ph0 pt4TK tr w-40">
-          {{ range $mainMenuLeft }}
-            {{ partial "global/nav-links.html" . }}
-          {{ end }}
-        </ul>
-      {{ end }}
-
-
-
-
-  <a href="/" class="link gray w3g pt4TK w-10">
-    {{ partial "svg/logo-ndbooks.svg" (dict "height" "82" "width" "auto") }}
-    <h1 class="f5 white fw2 pt0 mt1 tc">New Directions</h1>
-  </a>
-
-
-
-
-{{ if $mainMenuRight }}
-  <ul class="ph0 pt4TK w-40">
-    {{ range $mainMenuRight }}
-      {{ partial "global/nav-links.html" . }}
-    {{ end }}
-  </ul>
+{{ $headerColors := $.Param "headerColors" | default "bg-near-black silver" }}
+{{ if isset .Params "featured_image" }}
+  {{ $featured_image := absURL .Params.featured_image }}
+  {{ $.Scratch.Add "featured_image" $featured_image }}
 {{ end }}
+  {{ $featured_image := $.Scratch.Get "featured_image" }}
 
 
+<header class="cover bg-top{{ with $headerColors }} {{ . }}{{ end }}"{{ with $featured_image }} style="background-image: url('{{ . }}');"{{ end }}>
 
-  </nav>
+  <div class="{{ if ne $featured_image " " }}bg-black-60 vh-100{{ end }}">
+    {{ partial "global/nav.html" .}}
+  </div>
 </header>
 
 
+{{/* <!--
+  Header Options:
 
-<style media="screen">
-  .gray {
-    color: #888;
-  }
-</style>
+  1) default: NAV black background, no image
+  2) NAV transparent background, no image <== SET at SECTION level?
+  3) NAV transparent background, header bg image <== SET at PAGE level?
+
+
+{{ with $bgOverlay }}{{ . }}{{ end }}
+
+--> */}}

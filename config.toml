@@ -16,9 +16,10 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  description = "The last theme you'll ever need. Maybe."
-  faceboook = ""
-  twitter = "https://twitter.com/GoHugoIO"
+  description = ""
+  description_long = "New Directions was founded in 1936, when James Laughlin (1914–1997), then a twenty-two-year-old Harvard sophomore, issued the first of the New Directions anthologies. “I asked Ezra Pound for ‘career advice,’” Laughlin recalled. “He had been seeing my poems for months and had ruled them hopeless. He urged me to finish Harvard and then do ‘something’ useful.”"
+  facebook = "https://www.facebook.com/ndbooks"
+  twitter = "https://twitter.com/NewDirections"
   instagram = ""
   youtube = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
@@ -26,3 +27,7 @@ enableRobotsTXT = true
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   amp = false
   body_classes = "sans-serif bg-near-white"
+  #headerColors = "bg-near-black silver"
+  headerColors = "bg-near-white mid-gray"
+  # {{/* midgray on white
+  # silver on black */}}
