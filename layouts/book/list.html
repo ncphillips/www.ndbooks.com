@@ -1,0 +1,27 @@
+  {{ define "main" }}
+  {{/* If we want to paginate use this, otherwise below pulls books: {{ $section := (.Paginator 2000).Pages  }} */}}
+  {{ $section := .Data.Pages }}
+  {{ partial "page-content.html" . }}
+
+  <div class="{{ $.Param "page_padding_classes" }}">
+<div class="flex flex-wrap">
+          <div class="fw6 tl pa3 bg-white">Name</div>
+          <div class="fw6 tl pa3 bg-white">Username</div>
+          <div class="fw6 tl pa3 bg-white">Email</div>
+          <div class="fw6 tl pa3 bg-white">ID</th>
+
+</div>
+
+<div class="flex flex-wrap">
+      {{ range  $section }}
+      <div class="">{{ .Title }}</div>
+      <div class="">{{ .Params.genre }}</div>
+      <div class="">{{ .Params.genre }}</div>
+
+
+
+      {{ end }}
+</div>
+  {{/* {{ template "_internal/pagination.html" . }} */}}
+  </div>
+{{ end }}
