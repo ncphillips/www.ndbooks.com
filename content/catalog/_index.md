@@ -9,3 +9,4 @@ menu:
   main:
     weight: 70
 ---
+Click on any catalog to download pdf
