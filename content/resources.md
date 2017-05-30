@@ -2,7 +2,7 @@
 title: "Resources"
 draft: false
 date: 2015-01-15T15:43:00-04:00
-featured_image_path: /uploads/1464105724611/newdirections80_04.jpg
+featured_image: /uploads/1464105724611/newdirections80_04.jpg
 description:
 layout: two-column
 menu:
