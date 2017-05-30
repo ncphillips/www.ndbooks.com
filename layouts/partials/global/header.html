@@ -17,13 +17,17 @@
 
 
 {{ if and (isset .Params "featured_image") (ne .Params.featured_image "")}}
+
   {{ $featured_image := absURL .Params.featured_image }}
   <header class="cover bg-center{{ with $headerClasses }} {{ . }}{{ end }}"{{ with $featured_image }} style="background-image: url('{{ . }}');"{{ end }}>
-    <div class="bg-black-70 vh-100TK">
+    <div class="bg-black-70">
       {{ partial "global/nav.html" .}}
-      {{ .Render "hero" }}    
+      {{ .Render "hero" }}
     </div>
   </header>
+
+
+
 {{ else }}
   <header class="{{ with $headerClasses }} {{ . }}{{ end }}">
     {{ partial "global/nav.html" .}}
