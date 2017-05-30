@@ -1,0 +1,45 @@
+{{ define "main" }}
+{{/* If we want to paginate use this, otherwise below pulls books: {{ $section := (.Paginator 2000).Pages  }} */}}
+  {{ $section := .Data.Pages }}
+  {{ $authors :=  where .Site.Pages "Section" "author" }}
+
+
+
+
+  <h1 class="">{{ $authors }}</h1>
+{{/* {{ printf "%#v" $authors }} */}}
+
+  {{ partial "page-content.html" . }}
+
+  <div class="{{ $.Param "page_padding_classes" }}">
+    <div class="flex flex-wrap ph6">
+      <div class="w-40">Title</div>
+      <div class="w-20">Author</div>
+      <div class="w-40">Email</div>
+    </div>
+
+
+
+    <div class="ph6 striped--light-silver">
+      {{ range  $section }}
+      {{ $related_authors := .Params.authors }}
+      {{/* {{ $authors := where (where .Site.Pages "Section" "author") ".File.Path" . }} */}}
+
+
+{{/* {{ $authors := intersect $authors $related_authors | len | lt 0 }} */}}
+
+
+
+
+
+      <div class="flex flex-wrap striped--light-gray w-100 pv2">
+        <div class="w-40">{{ .Title }}</div>
+        <div class="w-20"></div>
+        <div class="w-40">{{ .Params.genre }}</div>
+      </div>
+
+      {{ end }}
+    </div>
+  {{/* {{ template "_internal/pagination.html" . }} */}}
+  </div>
+{{ end }}
