@@ -11,7 +11,7 @@ language:
 authors:
 translators:
 editors:
-  - contributor/jeffrey-yang-author-page.md
+  - author/jeffrey-yang-author-page.md
 contributors:
 featured_image:
 description: "A rich, delicious treasury of nature poems from around the world — from the pastoral beauty of ancient times to the modern era’s destruction of living things. "

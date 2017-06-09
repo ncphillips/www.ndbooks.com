@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/gustave-flaubert.md
+  - author/gustave-flaubert.md
 translators:
 editors:
 contributors:

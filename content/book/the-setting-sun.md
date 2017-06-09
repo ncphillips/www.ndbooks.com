@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/osamu-dazai.md
+  - author/osamu-dazai.md
 translators:
-  - contributor/donald-keene.md
+  - author/donald-keene.md
 editors:
 contributors:
 featured_image:

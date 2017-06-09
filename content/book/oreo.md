@@ -8,13 +8,13 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/fran-ross.md
+  - author/fran-ross.md
 translators:
 editors:
 contributors:
-  - contributor/danzy-senna.md
+  - author/danzy-senna.md
 
-  - contributor/harryette-mullen.md
+  - author/harryette-mullen.md
 featured_image:
 description: "A pioneering, dazzling satire about a biracial black girl from Philadelphia searching for her Jewish father in New York City "
 editions:

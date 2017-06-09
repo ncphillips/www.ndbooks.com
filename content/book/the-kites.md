@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language: French
 authors:
-  - contributor/romain-gary.md
+  - author/romain-gary.md
 translators:
 editors:
 contributors:

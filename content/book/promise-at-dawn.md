@@ -9,7 +9,7 @@ subgenre:
   - Memoir
 language:
 authors:
-  - contributor/romain-gary.md
+  - author/romain-gary.md
 translators:
 editors:
 contributors:

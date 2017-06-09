@@ -8,11 +8,11 @@ genre: Poetry
 subgenre:
 language: Italian
 authors:
-  - contributor/eugenio-montale.md
+  - author/eugenio-montale.md
 translators:
 editors:
 contributors:
-  - contributor/eugenio-montale.md
+  - author/eugenio-montale.md
 featured_image:
 description:
 editions:

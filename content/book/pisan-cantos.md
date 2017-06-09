@@ -8,10 +8,10 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/ezra-pound.md
+  - author/ezra-pound.md
 translators:
 editors:
-  - contributor/richard-sieburth.md
+  - author/richard-sieburth.md
 contributors:
 featured_image:
 description: "At last, a definitive, paperbook edition of Ezra Pound's finest work "

@@ -8,7 +8,7 @@ genre: Theater
 subgenre:
 language:
 authors:
-  - contributor/andrew-sinclair.md
+  - author/andrew-sinclair.md
 translators:
 editors:
 contributors:

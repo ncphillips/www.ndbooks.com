@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/john-wheelwright.md
+  - author/john-wheelwright.md
 translators:
 editors:
 contributors:

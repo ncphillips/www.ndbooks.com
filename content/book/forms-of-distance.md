@@ -8,9 +8,9 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/bei-dao.md
+  - author/bei-dao.md
 translators:
-  - contributor/david-hinton.md
+  - author/david-hinton.md
 editors:
 contributors:
 featured_image:

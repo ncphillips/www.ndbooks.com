@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/anne-carson.md
+  - author/anne-carson.md
 translators:
 editors:
 contributors:

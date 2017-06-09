@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/jules-laforgue.md
+  - author/jules-laforgue.md
 translators:
-  - contributor/william-jay-smith.md
+  - author/william-jay-smith.md
 editors:
 contributors:
 featured_image:

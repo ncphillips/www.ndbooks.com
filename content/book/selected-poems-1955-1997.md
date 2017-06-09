@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/charles-tomlinson.md
+  - author/charles-tomlinson.md
 translators:
 editors:
 contributors:

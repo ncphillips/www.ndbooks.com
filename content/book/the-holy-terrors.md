@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language: French
 authors:
-  - contributor/jean-cocteau.md
+  - author/jean-cocteau.md
 translators:
-  - contributor/rosamond-lehmann.md
+  - author/rosamond-lehmann.md
 editors:
 contributors:
 featured_image:

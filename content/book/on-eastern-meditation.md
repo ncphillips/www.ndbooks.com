@@ -9,10 +9,10 @@ subgenre:
   - Essay
 language:
 authors:
-  - contributor/thomas-merton.md
+  - author/thomas-merton.md
 translators:
 editors:
-  - contributor/bonnie-thurston.md
+  - author/bonnie-thurston.md
 contributors:
 featured_image:
 description: "A great introduction to the religions of the East by a monk from the West "

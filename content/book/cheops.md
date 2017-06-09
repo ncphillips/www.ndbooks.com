@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/paul-west-p.md
+  - author/paul-west-p.md
 translators:
 editors:
 contributors:

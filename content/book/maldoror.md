@@ -8,11 +8,11 @@ genre: Fiction
 subgenre:
 language: French
 authors:
-  - contributor/comte-de-lautreamont.md
+  - author/comte-de-lautreamont.md
 translators:
 editors:
 contributors:
-  - contributor/james-laughlin.md
+  - author/james-laughlin.md
 featured_image:
 description: "A long narrative prose poem celebrating the principle of Evil "
 editions:

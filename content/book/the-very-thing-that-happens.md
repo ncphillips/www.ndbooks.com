@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/russell-edson.md
+  - author/russell-edson.md
 translators:
 editors:
 contributors:

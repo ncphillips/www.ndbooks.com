@@ -9,10 +9,10 @@ subgenre:
   - Essay
 language:
 authors:
-  - contributor/f-scott-fitzgerald.md
+  - author/f-scott-fitzgerald.md
 translators:
 editors:
-  - contributor/edmund-wilson.md
+  - author/edmund-wilson.md
 contributors:
 featured_image:
 description:

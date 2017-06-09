@@ -9,7 +9,7 @@ subgenre:
   - Study
 language:
 authors:
-  - contributor/enid-starkie.md
+  - author/enid-starkie.md
 translators:
 editors:
 contributors:

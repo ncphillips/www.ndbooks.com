@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language: Arabic
 authors:
-  - contributor/sonallah-ibrahim.md
+  - author/sonallah-ibrahim.md
 translators:
-  - contributor/Hosam-Aboul-Ela.md
+  - author/Hosam-Aboul-Ela.md
 editors:
 contributors:
 featured_image:

@@ -8,9 +8,9 @@ genre: Nonfiction
 subgenre:
 language: French
 authors:
-  - contributor/marcel-proust.md
+  - author/marcel-proust.md
 translators:
-  - contributor/lydia-davis.md
+  - author/lydia-davis.md
 editors:
 contributors:
 featured_image:

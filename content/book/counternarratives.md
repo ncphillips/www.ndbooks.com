@@ -9,7 +9,7 @@ subgenre:
   - Stories
 language:
 authors:
-  - contributor/john-keene.md
+  - author/john-keene.md
 translators:
 editors:
 contributors:

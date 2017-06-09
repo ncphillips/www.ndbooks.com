@@ -8,12 +8,12 @@ genre: Fiction
 subgenre:
 language: Portuguese
 authors:
-  - contributor/laszlo-krasznahorkai.md
+  - author/laszlo-krasznahorkai.md
 translators:
-  - contributor/ottilie-mulzet.md
+  - author/ottilie-mulzet.md
 editors:
 contributors:
-  - contributor/colm-toibin.md
+  - author/colm-toibin.md
 featured_image:
 description: "Limited to 2,000 gorgeous copies, this richly illustrated, extraordinary novella was created in collaboration with the famed painter Max Neumann. "
 editions:

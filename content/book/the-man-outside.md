@@ -8,12 +8,12 @@ genre: Fiction
 subgenre:
 language: German
 authors:
-  - contributor/wolfgang-borchert.md
+  - author/wolfgang-borchert.md
 translators:
-  - contributor/kay-boyle.md
+  - author/kay-boyle.md
 editors:
 contributors:
-  - contributor/wolfgang-borchert.md
+  - author/wolfgang-borchert.md
 featured_image:
 description:
 editions:

@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/miroslav-krlea.md
+  - author/miroslav-krlea.md
 translators:
-  - contributor/zora-depolo.md
+  - author/zora-depolo.md
 editors:
 contributors:
 featured_image:

@@ -8,12 +8,12 @@ genre: Fiction
 subgenre:
 language: French
 authors:
-  - contributor/arthur-rimbaud.md
+  - author/arthur-rimbaud.md
 translators:
-  - contributor/louise-varese.md
+  - author/louise-varese.md
 editors:
 contributors:
-  - contributor/patti-smith.md
+  - author/patti-smith.md
 featured_image:
 description: "A reissue of Rimbaud’s highly influential work, with a new preface by Patti Smith and the original 1945 ND cover design by Alvin Lustig "
 editions:

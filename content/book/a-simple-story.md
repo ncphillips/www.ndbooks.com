@@ -9,9 +9,9 @@ subgenre:
   - Non fiction
 language: Spanish
 authors:
-  - contributor/leila-guerriero.md
+  - author/leila-guerriero.md
 translators:
-  - contributor/frances-riddle.md
+  - author/frances-riddle.md
 editors:
 contributors:
 featured_image:

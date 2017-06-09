@@ -9,13 +9,13 @@ subgenre:
   - Stories
 language: Hungarian
 authors:
-  - contributor/laszlo-krasznahorkai.md
+  - author/laszlo-krasznahorkai.md
 translators:
-  - contributor/john-batki.md
+  - author/john-batki.md
 
-  - contributor/ottilie-mulzet.md
+  - author/ottilie-mulzet.md
 
-  - contributor/george-szirtes.md
+  - author/george-szirtes.md
 editors:
 contributors:
 featured_image:

@@ -9,7 +9,7 @@ subgenre:
   - Essay
 language:
 authors:
-  - contributor/jacques-barzun.md
+  - author/jacques-barzun.md
 translators:
 editors:
 contributors:

@@ -9,7 +9,7 @@ subgenre:
   - Selections
 language:
 authors:
-  - contributor/rainer-rilke.md
+  - author/rainer-rilke.md
 translators:
 editors:
 contributors:

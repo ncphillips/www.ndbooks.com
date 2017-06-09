@@ -8,9 +8,9 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/lydia-davis.md
+  - author/lydia-davis.md
 
-  - contributor/eliot-weinberger.md
+  - author/eliot-weinberger.md
 translators:
 editors:
 contributors:

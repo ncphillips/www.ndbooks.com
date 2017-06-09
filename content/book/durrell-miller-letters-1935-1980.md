@@ -9,7 +9,7 @@ subgenre:
   - Correspondence
 language:
 authors:
-  - contributor/durrell-and-miller.md
+  - author/durrell-and-miller.md
 translators:
 editors:
 contributors:

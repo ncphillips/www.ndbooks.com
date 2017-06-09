@@ -9,7 +9,7 @@ subgenre:
   - Stories
 language:
 authors:
-  - contributor/danilo-ki.md
+  - author/danilo-ki.md
 translators:
 editors:
 contributors:

@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/linda-le.md
+  - author/linda-le.md
 translators:
-  - contributor/mark-polizzotti.md
+  - author/mark-polizzotti.md
 editors:
 contributors:
 featured_image:

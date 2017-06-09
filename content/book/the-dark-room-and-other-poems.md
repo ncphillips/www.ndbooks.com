@@ -8,9 +8,9 @@ genre: Poetry
 subgenre:
 language: Spanish
 authors:
-  - contributor/enrique-lihn.md
+  - author/enrique-lihn.md
 translators:
-  - contributor/jonathan-cohen.md
+  - author/jonathan-cohen.md
 editors:
 contributors:
 featured_image:

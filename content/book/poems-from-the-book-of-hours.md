@@ -8,12 +8,12 @@ genre: Poetry
 subgenre:
 language: Portuguese
 authors:
-  - contributor/rainer-rilke.md
+  - author/rainer-rilke.md
 translators:
-  - contributor/babette-deutsch.md
+  - author/babette-deutsch.md
 editors:
 contributors:
-  - contributor/ursula-k.-le-guin.md
+  - author/ursula-k.-le-guin.md
 featured_image:
 description:
 editions:

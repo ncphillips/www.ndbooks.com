@@ -8,31 +8,31 @@ genre: Poetry
 subgenre:
 language: Japanese
 authors:
-  - contributor/yoshimasu-gozo.md
+  - author/yoshimasu-gozo.md
 translators:
-  - contributor/sawako-nakayasu.md
+  - author/sawako-nakayasu.md
 
-  - contributor/hiroaki-sato.md
+  - author/hiroaki-sato.md
 
-  - contributor/eric-selland.md
+  - author/eric-selland.md
 
-  - contributor/jeffrey-angles.md
+  - author/jeffrey-angles.md
 
-  - contributor/richard-arno.md
+  - author/richard-arno.md
 
-  - contributor/derek-gromadzki.md
+  - author/derek-gromadzki.md
 
-  - contributor/sayuri-okamoto.md
+  - author/sayuri-okamoto.md
 
-  - contributor/auston-stewart.md
+  - author/auston-stewart.md
 
-  - contributor/kyoko-yoshida.md
+  - author/kyoko-yoshida.md
 
-  - contributor/jordan-a-y-smith.md
+  - author/jordan-a-y-smith.md
 editors:
-  - contributor/forrest-gander.md
+  - author/forrest-gander.md
 contributors:
-  - contributor/derek-gromadzki.md
+  - author/derek-gromadzki.md
 featured_image:
 description: "For the first time in English, a selection from the highly acclaimed Japanese poet, photographer, performance artist, and filmmaker "
 editions:

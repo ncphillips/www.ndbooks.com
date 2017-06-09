@@ -9,7 +9,7 @@ subgenre:
   - Essay
 language:
 authors:
-  - contributor/d.-smith-dh.md
+  - author/d.-smith-dh.md
 translators:
 editors:
 contributors:

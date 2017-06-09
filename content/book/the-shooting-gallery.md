@@ -9,9 +9,9 @@ subgenre:
   - Stories
 language:
 authors:
-  - contributor/yuko-tsushima.md
+  - author/yuko-tsushima.md
 translators:
-  - contributor/geraldine-harcourt.md
+  - author/geraldine-harcourt.md
 editors:
 contributors:
 featured_image:

@@ -8,7 +8,7 @@ genre: Theater
 subgenre:
 language:
 authors:
-  - contributor/carson-mccullers.md
+  - author/carson-mccullers.md
 translators:
 editors:
 contributors:

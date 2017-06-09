@@ -8,11 +8,11 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/hermann-hesse.md
+  - author/hermann-hesse.md
 
-  - contributor/buddha.md
+  - author/buddha.md
 translators:
-  - contributor/hilda-rosner.md
+  - author/hilda-rosner.md
 editors:
 contributors:
 featured_image:

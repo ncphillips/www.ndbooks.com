@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/johan-borgen.md
+  - author/johan-borgen.md
 translators:
 editors:
 contributors:

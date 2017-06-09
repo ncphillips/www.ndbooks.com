@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/rachel-kushner.md
+  - author/rachel-kushner.md
 translators:
 editors:
 contributors:

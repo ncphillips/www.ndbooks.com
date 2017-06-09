@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/jeffrey-yang-author-page.md
+  - author/jeffrey-yang-author-page.md
 translators:
 editors:
 contributors:

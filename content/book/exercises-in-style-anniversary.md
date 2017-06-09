@@ -9,22 +9,22 @@ subgenre:
   - Stories
 language: French
 authors:
-  - contributor/raymond-queneau.md
+  - author/raymond-queneau.md
 translators:
-  - contributor/barbara-wright.md
-  - contributor/chris-clarke.md
+  - author/barbara-wright.md
+  - author/chris-clarke.md
 editors:
 contributors:
-  - contributor/ben-marcus.md
-  - contributor/blake-butler.md
-  - contributor/amelia-gray.md
-  - contributor/jesse-ball.md
-  - contributor/harry-mathews.md
-  - contributor/lynne-tillman.md
-  - contributor/shane-jones.md
-  - contributor/jonathan-lethem.md
-  - contributor/enrique-vila-matas.md
-  - contributor/frederic-tuten.md
+  - author/ben-marcus.md
+  - author/blake-butler.md
+  - author/amelia-gray.md
+  - author/jesse-ball.md
+  - author/harry-mathews.md
+  - author/lynne-tillman.md
+  - author/shane-jones.md
+  - author/jonathan-lethem.md
+  - author/enrique-vila-matas.md
+  - author/frederic-tuten.md
 featured_image:
 description: "A new edition of the famous modernist story told ninety-nine different ways — with newly translated exercises by Queneau and contributions by some of today's most acclaimed stylists. "
 editions:

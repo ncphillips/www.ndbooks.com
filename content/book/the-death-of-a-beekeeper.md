@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/lars-gustafsson.md
+  - author/lars-gustafsson.md
 translators:
 editors:
 contributors:

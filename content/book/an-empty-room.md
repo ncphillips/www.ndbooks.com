@@ -9,9 +9,9 @@ subgenre:
   - Stories
 language: Chinese
 authors:
-  - contributor/mu-xin.md
+  - author/mu-xin.md
 translators:
-  - contributor/toming-jun-liu.md
+  - author/toming-jun-liu.md
 editors:
 contributors:
 featured_image:

@@ -9,7 +9,7 @@ subgenre:
   - Essay
 language:
 authors:
-  - contributor/william-empson.md
+  - author/william-empson.md
 translators:
 editors:
 contributors:

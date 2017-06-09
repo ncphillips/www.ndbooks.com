@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/richard-eberhart.md
+  - author/richard-eberhart.md
 translators:
 editors:
 contributors:

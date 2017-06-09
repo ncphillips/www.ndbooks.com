@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/peter-scott-pd.md
+  - author/peter-scott-pd.md
 translators:
 editors:
 contributors:

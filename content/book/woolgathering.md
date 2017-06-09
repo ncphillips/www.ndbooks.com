@@ -9,7 +9,7 @@ subgenre:
   - Memoir
 language:
 authors:
-  - contributor/patti-smith.md
+  - author/patti-smith.md
 translators:
 editors:
 contributors:

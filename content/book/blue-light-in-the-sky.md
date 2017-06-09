@@ -9,7 +9,7 @@ subgenre:
   - Stories
 language: Chinese
 authors:
-  - contributor/can-xue.md
+  - author/can-xue.md
 translators:
 editors:
 contributors:

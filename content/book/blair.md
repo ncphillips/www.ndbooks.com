@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/john-scott-j.md
+  - author/john-scott-j.md
 translators:
 editors:
 contributors:

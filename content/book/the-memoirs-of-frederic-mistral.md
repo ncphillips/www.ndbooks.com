@@ -9,7 +9,7 @@ subgenre:
   - Memoir
 language:
 authors:
-  - contributor/frederic-mistral.md
+  - author/frederic-mistral.md
 translators:
 editors:
 contributors:

@@ -8,12 +8,12 @@ genre: Fiction
 subgenre:
 language: Portugese
 authors:
-  - contributor/clarice-lispector.md
+  - author/clarice-lispector.md
 translators:
-  - contributor/benjamin-moser.md
+  - author/benjamin-moser.md
 editors:
 contributors:
-  - contributor/colm-toibin.md
+  - author/colm-toibin.md
 featured_image:
 description: "A new edition of Clarice Lispector’s final masterpiece, now with a new translation by Benjamin Moser and a vivid introduction by Colm Tóibín. "
 editions:

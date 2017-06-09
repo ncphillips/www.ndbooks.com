@@ -8,14 +8,14 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/herbert-read.md
+  - author/herbert-read.md
 translators:
-  - contributor/adam-phillips.md
+  - author/adam-phillips.md
 editors:
 contributors:
-  - contributor/eliot-weinberger.md
+  - author/eliot-weinberger.md
 
-  - contributor/kenneth-rexroth.md
+  - author/kenneth-rexroth.md
 featured_image:
 description: "A visionary masterpiece filled with quicksand portals, revolutionary dictators, and subterranean worlds "
 editions:

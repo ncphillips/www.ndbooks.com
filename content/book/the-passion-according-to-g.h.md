@@ -8,11 +8,11 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/clarice-lispector.md
+  - author/clarice-lispector.md
 translators:
-  - contributor/idra-novey.md
+  - author/idra-novey.md
 editors:
-  - contributor/benjamin-moser.md
+  - author/benjamin-moser.md
 contributors:
 featured_image: /images/four_lispectors.jpg
 description: "A new translation by Idra Novey "

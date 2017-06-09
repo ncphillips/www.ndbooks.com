@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/julio-cortazar.md
+  - author/julio-cortazar.md
 translators:
-  - contributor/gregory-rabassa.md
+  - author/gregory-rabassa.md
 editors:
 contributors:
 featured_image:

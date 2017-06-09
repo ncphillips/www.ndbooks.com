@@ -8,9 +8,9 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/wang-an-shih.md
+  - author/wang-an-shih.md
 translators:
-  - contributor/david-hinton.md
+  - author/david-hinton.md
 editors:
 contributors:
 featured_image:

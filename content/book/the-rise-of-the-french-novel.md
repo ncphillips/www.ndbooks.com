@@ -9,7 +9,7 @@ subgenre:
   - Criticism
 language:
 authors:
-  - contributor/martin-turnell.md
+  - author/martin-turnell.md
 translators:
 editors:
 contributors:

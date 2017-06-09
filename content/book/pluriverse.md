@@ -8,10 +8,10 @@ genre: Poetry
 subgenre:
 language: Spanish
 authors:
-  - contributor/ernesto-cardenal.md
+  - author/ernesto-cardenal.md
 translators:
 editors:
-  - contributor/jonathan-cohen.md
+  - author/jonathan-cohen.md
 contributors:
 featured_image:
 description: "The most comprehensive selection of poems in English by Latin America’s legendary poet-activist, Ernesto Cardenal. "

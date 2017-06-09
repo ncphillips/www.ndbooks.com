@@ -8,12 +8,12 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/inger-christensen.md
+  - author/inger-christensen.md
 translators:
-  - contributor/susanna-nied.md
+  - author/susanna-nied.md
 editors:
 contributors:
-  - contributor/anne-carson.md
+  - author/anne-carson.md
 featured_image:
 description: "Here at last is Inger Christensen's masterpiece it, translated brilliantly by Susanna Nied, and with an illuminating introduction by Anne Carson. "
 editions:

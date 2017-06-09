@@ -10,7 +10,7 @@ subgenre:
   - Non fiction
 language:
 authors:
-  - contributor/susan-howe.md
+  - author/susan-howe.md
 translators:
 editors:
 contributors:

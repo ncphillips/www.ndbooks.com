@@ -8,12 +8,12 @@ genre: Poetry
 subgenre:
 language: French
 authors:
-  - contributor/charles-baudelaire.md
+  - author/charles-baudelaire.md
 translators:
 editors:
-  - contributor/jackson-mathews.md
+  - author/jackson-mathews.md
 
-  - contributor/marthiel-mathews.md
+  - author/marthiel-mathews.md
 contributors:
 featured_image:
 description:

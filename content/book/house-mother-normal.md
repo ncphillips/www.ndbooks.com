@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/b.-s.-johnson.md
+  - author/b.-s.-johnson.md
 translators:
 editors:
 contributors:

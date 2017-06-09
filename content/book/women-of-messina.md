@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language: Portuguese
 authors:
-  - contributor/elio-vittorini.md
+  - author/elio-vittorini.md
 translators:
-  - contributor/frances-frenaye.md
+  - author/frances-frenaye.md
 editors:
 contributors:
 featured_image:

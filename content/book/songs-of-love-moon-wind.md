@@ -8,10 +8,10 @@ genre: Poetry
 subgenre:
 language: Portuguese
 authors:
-  - contributor/kenneth-rexroth.md
+  - author/kenneth-rexroth.md
 translators:
 editors:
-  - contributor/eliot-weinberger.md
+  - author/eliot-weinberger.md
 contributors:
 featured_image:
 description: "A beautiful gift edition of Chinese poems about love, meditation, and reveries in the midst of nature, in Kenneth Rexroth's classic translations. "

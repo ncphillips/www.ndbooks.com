@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/mary-karr.md
+  - author/mary-karr.md
 translators:
 editors:
 contributors:

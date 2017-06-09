@@ -8,14 +8,14 @@ genre: Theater
 subgenre:
 language: German
 authors:
-  - contributor/robert-walser.md
+  - author/robert-walser.md
 translators:
-  - contributor/james-reidel.md
+  - author/james-reidel.md
 
-  - contributor/daniele-pantano.md
+  - author/daniele-pantano.md
 editors:
 contributors:
-  - contributor/reto-sorg.md
+  - author/reto-sorg.md
 featured_image:
 description: "Four mini-plays by the German wunderkind and asylum-dweller "
 editions:

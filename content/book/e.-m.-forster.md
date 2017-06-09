@@ -9,7 +9,7 @@ subgenre:
   - Study
 language:
 authors:
-  - contributor/lionel-trilling.md
+  - author/lionel-trilling.md
 translators:
 editors:
 contributors:

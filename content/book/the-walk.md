@@ -9,14 +9,14 @@ subgenre:
   - Essay
 language: German
 authors:
-  - contributor/robert-walser.md
+  - author/robert-walser.md
 translators:
-  - contributor/susan-bernofsky.md
+  - author/susan-bernofsky.md
 
-  - contributor/christopher-middleton.md
+  - author/christopher-middleton.md
 editors:
 contributors:
-  - contributor/susan-bernofsky.md
+  - author/susan-bernofsky.md
 featured_image:
 description: "Walser's alternate, preferred version of his most famous tale. "
 editions:

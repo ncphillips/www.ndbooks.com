@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/michael-mcclure.md
+  - author/michael-mcclure.md
 translators:
 editors:
 contributors:

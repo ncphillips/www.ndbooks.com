@@ -9,11 +9,11 @@ subgenre:
   - Anthology
 language:
 authors:
-  - contributor/p.-lal.md
+  - author/p.-lal.md
 translators:
-  - contributor/p.-lal.md
+  - author/p.-lal.md
 editors:
-  - contributor/p.-lal.md
+  - author/p.-lal.md
 contributors:
 featured_image:
 description:

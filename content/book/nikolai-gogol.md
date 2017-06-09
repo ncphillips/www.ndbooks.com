@@ -9,7 +9,7 @@ subgenre:
   - Study
 language: Russian
 authors:
-  - contributor/vladimir-nabokov.md
+  - author/vladimir-nabokov.md
 translators:
 editors:
 contributors:

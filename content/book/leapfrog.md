@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language: Spanish
 authors:
-  - contributor/guillermo-rosales.md
+  - author/guillermo-rosales.md
 translators:
-  - contributor/anna-kushner.md
+  - author/anna-kushner.md
 editors:
 contributors:
 featured_image:

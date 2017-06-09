@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language: Japanese
 authors:
-  - contributor/kazuko-shiraishi.md
+  - author/kazuko-shiraishi.md
 translators:
 editors:
 contributors:

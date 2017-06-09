@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/carole-maso.md
+  - author/carole-maso.md
 translators:
 editors:
 contributors:

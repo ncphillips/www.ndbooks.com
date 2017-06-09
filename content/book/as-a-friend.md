@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/forrest-gander.md
+  - author/forrest-gander.md
 translators:
 editors:
 contributors:

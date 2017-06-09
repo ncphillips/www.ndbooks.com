@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/valentine-ackland.md
+  - author/valentine-ackland.md
 translators:
 editors:
 contributors:

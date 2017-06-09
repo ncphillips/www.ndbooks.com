@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/stevie-smith-s.md
+  - author/stevie-smith-s.md
 translators:
 editors:
 contributors:

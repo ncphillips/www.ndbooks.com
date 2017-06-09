@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/mikhail-bulgakov.md
+  - author/mikhail-bulgakov.md
 translators:
-  - contributor/mirra-ginsburg.md
+  - author/mirra-ginsburg.md
 editors:
 contributors:
 featured_image:

@@ -9,11 +9,11 @@ subgenre:
   - Essay
 language:
 authors:
-  - contributor/tennessee-williams.md
+  - author/tennessee-williams.md
 translators:
 editors:
 contributors:
-  - contributor/john-lahr.md
+  - author/john-lahr.md
 featured_image:
 description: "Tennessee Williams' witty, engaging, and elegant essays are now available in a revised and much expanded edition. "
 editions:

@@ -8,11 +8,11 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/edward-dahlberg.md
+  - author/edward-dahlberg.md
 translators:
 editors:
 contributors:
-  - contributor/herbert-read.md
+  - author/herbert-read.md
 featured_image:
 description:
 editions:

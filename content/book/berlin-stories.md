@@ -8,11 +8,11 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/christopher-isherwood.md
+  - author/christopher-isherwood.md
 translators:
 editors:
 contributors:
-  - contributor/armistead-maupin.md
+  - author/armistead-maupin.md
 featured_image:
 description: "A classic of 20th-century fiction, The Berlin Stories inspired the Broadway musical and Oscar-winning film Cabaret. "
 editions:

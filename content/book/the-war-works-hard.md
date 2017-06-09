@@ -8,9 +8,9 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/dunya-mikhail.md
+  - author/dunya-mikhail.md
 translators:
-  - contributor/elizabeth-winslow.md
+  - author/elizabeth-winslow.md
 editors:
 contributors:
 featured_image:

@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/john-nims.md
+  - author/john-nims.md
 translators:
 editors:
 contributors:

@@ -9,11 +9,11 @@ subgenre:
   - Memoir
 language:
 authors:
-  - contributor/tennessee-williams.md
+  - author/tennessee-williams.md
 translators:
 editors:
 contributors:
-  - contributor/john-waters.md
+  - author/john-waters.md
 featured_image:
 description: "For the _old crocodile,_ as Williams called himself late in life, the past was always present, and so it is with his continual shifting and intermingling of times, places, and memories as he weaves this story. "
 editions:

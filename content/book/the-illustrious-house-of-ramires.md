@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/jose-maria-de-eca-de-queiros.md
+  - author/jose-maria-de-eca-de-queiros.md
 translators:
-  - contributor/ann-stevens.md
+  - author/ann-stevens.md
 editors:
 contributors:
 featured_image:

@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/herbert-read.md
+  - author/herbert-read.md
 translators:
 editors:
 contributors:

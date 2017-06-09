@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/shusaku-endo.md
+  - author/shusaku-endo.md
 translators:
-  - contributor/van-c.-gessel.md
+  - author/van-c.-gessel.md
 editors:
 contributors:
 featured_image:

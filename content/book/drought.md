@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/debra-di-blasi.md
+  - author/debra-di-blasi.md
 translators:
 editors:
 contributors:

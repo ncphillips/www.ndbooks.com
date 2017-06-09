@@ -8,9 +8,9 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/nicanor-parra.md
+  - author/nicanor-parra.md
 translators:
-  - contributor/liz-werner.md
+  - author/liz-werner.md
 editors:
 contributors:
 featured_image:

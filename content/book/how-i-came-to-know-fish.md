@@ -9,7 +9,7 @@ subgenre:
   - Stories
 language:
 authors:
-  - contributor/ota-pavel.md
+  - author/ota-pavel.md
 translators:
 editors:
 contributors:

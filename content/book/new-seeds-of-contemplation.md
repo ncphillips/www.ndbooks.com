@@ -9,11 +9,11 @@ subgenre:
   - Essay
 language:
 authors:
-  - contributor/thomas-merton.md
+  - author/thomas-merton.md
 translators:
 editors:
 contributors:
-  - contributor/sue-monk-kidd.md
+  - author/sue-monk-kidd.md
 featured_image:
 description: "One of the best-loved books by one of the great spiritual authors of our time, with a new Introduction by best-selling author Sue Monk Kidd "
 editions:

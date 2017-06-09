@@ -8,12 +8,12 @@ genre: Fiction
 subgenre:
 language: French
 authors:
-  - contributor/louis-ferdinand-celine.md
+  - author/louis-ferdinand-celine.md
 translators:
-  - contributor/ralph-manheim.md
+  - author/ralph-manheim.md
 editors:
 contributors:
-  - contributor/william-vollmann.md
+  - author/william-vollmann.md
 featured_image:
 description: "The dark side of On the Road: instead of seeking kicks, the French narrator travels the globe to find an ever deeper disgust for life. "
 editions:

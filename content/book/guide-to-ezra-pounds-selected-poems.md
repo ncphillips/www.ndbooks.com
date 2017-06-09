@@ -9,7 +9,7 @@ subgenre:
   - Criticism
 language:
 authors:
-  - contributor/christine-froula.md
+  - author/christine-froula.md
 translators:
 editors:
 contributors:

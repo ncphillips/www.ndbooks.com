@@ -9,9 +9,9 @@ subgenre:
   - Stories
 language: Italian
 authors:
-  - contributor/antonio-tabucchi.md
+  - author/antonio-tabucchi.md
 translators:
-  - contributor/frances-frenaye.md
+  - author/frances-frenaye.md
 editors:
 contributors:
 featured_image:

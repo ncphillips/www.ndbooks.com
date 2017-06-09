@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/bei-dao.md
+  - author/bei-dao.md
 translators:
 editors:
 contributors:

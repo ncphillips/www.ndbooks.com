@@ -9,7 +9,7 @@ subgenre:
   - Essay
 language: Spanish
 authors:
-  - contributor/javier-marias.md
+  - author/javier-marias.md
 translators:
 editors:
 contributors:

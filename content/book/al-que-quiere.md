@@ -8,10 +8,10 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/william-carlos-williams.md
+  - author/william-carlos-williams.md
 translators:
 editors:
-  - contributor/jonathan-cohen.md
+  - author/jonathan-cohen.md
 contributors:
 featured_image:
 description: "The centennial edition of William Carlos Williams’s early ground-breaking volume, containing some of his best-loved poems "

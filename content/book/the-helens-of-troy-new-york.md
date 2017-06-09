@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/bernadette-mayer.md
+  - author/bernadette-mayer.md
 translators:
 editors:
 contributors:

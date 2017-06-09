@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/luis-verissimo.md
+  - author/luis-verissimo.md
 translators:
-  - contributor/margaret-jull-costa.md
+  - author/margaret-jull-costa.md
 editors:
 contributors:
 featured_image:

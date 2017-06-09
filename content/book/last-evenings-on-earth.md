@@ -9,7 +9,7 @@ subgenre:
   - Stories
 language: Spanish
 authors:
-  - contributor/roberto-bolano.md
+  - author/roberto-bolano.md
 translators:
 editors:
 contributors:

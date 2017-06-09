@@ -8,9 +8,9 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/lawrence-ferlinghetti.md
+  - author/lawrence-ferlinghetti.md
 
-  - contributor/adam-phillips.md
+  - author/adam-phillips.md
 translators:
 editors:
 contributors:

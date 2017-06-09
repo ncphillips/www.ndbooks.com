@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/peter-cole.md
+  - author/peter-cole.md
 translators:
 editors:
 contributors:

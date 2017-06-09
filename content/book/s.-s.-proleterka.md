@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/fleur-jaeggy.md
+  - author/fleur-jaeggy.md
 translators:
-  - contributor/alastair-mcewen.md
+  - author/alastair-mcewen.md
 editors:
 contributors:
 featured_image:

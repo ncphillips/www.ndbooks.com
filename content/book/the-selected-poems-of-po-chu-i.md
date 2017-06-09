@@ -8,9 +8,9 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/po-chu-i.md
+  - author/po-chu-i.md
 translators:
-  - contributor/david-hinton.md
+  - author/david-hinton.md
 editors:
 contributors:
 featured_image:

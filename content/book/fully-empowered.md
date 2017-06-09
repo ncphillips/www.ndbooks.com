@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/pablo-neruda.md
+  - author/pablo-neruda.md
 translators:
 editors:
 contributors:

@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/robert-creeley.md
+  - author/robert-creeley.md
 translators:
 editors:
 contributors:

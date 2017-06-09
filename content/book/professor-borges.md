@@ -9,13 +9,13 @@ subgenre:
   - Essay
 language: Spanish
 authors:
-  - contributor/jorge-luis-borges.md
+  - author/jorge-luis-borges.md
 translators:
-  - contributor/katherine-silver.md
+  - author/katherine-silver.md
 editors:
-  - contributor/martin-arias.md
+  - author/martin-arias.md
 
-  - contributor/martin-hadis.md
+  - author/martin-hadis.md
 contributors:
 featured_image:
 description: "In English at last, Borges’s erudite and entertaining lectures on English literature from _Beowulf_ to Oscar Wilde "

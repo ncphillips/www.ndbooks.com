@@ -8,7 +8,7 @@ genre: Theater
 subgenre:
 language: Greek
 authors:
-  - contributor/anne-carson.md
+  - author/anne-carson.md
 translators:
 editors:
 contributors:

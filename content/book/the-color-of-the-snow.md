@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/ruediger-kremer.md
+  - author/ruediger-kremer.md
 translators:
-  - contributor/breon-mitchell.md
+  - author/breon-mitchell.md
 editors:
 contributors:
 featured_image:

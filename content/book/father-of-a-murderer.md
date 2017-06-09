@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/alfred-andersch.md
+  - author/alfred-andersch.md
 translators:
-  - contributor/leila-vennewitz.md
+  - author/leila-vennewitz.md
 editors:
 contributors:
 featured_image:

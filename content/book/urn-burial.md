@@ -9,11 +9,11 @@ subgenre:
   - Essay
 language:
 authors:
-  - contributor/thomas-browne.md
+  - author/thomas-browne.md
 translators:
 editors:
 contributors:
-  - contributor/W._G._Sebald.md
+  - author/W._G._Sebald.md
 featured_image:
 description: "Urn Burial, one of the most influential essays in Western literature, is now available as an ND Pearl. "
 editions:

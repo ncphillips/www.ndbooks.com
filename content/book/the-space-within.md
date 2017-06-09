@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language: Portuguese
 authors:
-  - contributor/henri-michaux.md
+  - author/henri-michaux.md
 translators:
-  - contributor/richard-ellman.md
+  - author/richard-ellman.md
 editors:
 contributors:
 featured_image:

@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/gu-cheng.md
+  - author/gu-cheng.md
 translators:
 editors:
 contributors:

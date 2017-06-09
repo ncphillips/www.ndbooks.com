@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/joyce-carol-oates.md
+  - author/joyce-carol-oates.md
 translators:
 editors:
 contributors:

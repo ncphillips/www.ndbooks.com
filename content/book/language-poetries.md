@@ -9,7 +9,7 @@ subgenre:
   - Criticism
 language:
 authors:
-  - contributor/douglas-messerli.md
+  - author/douglas-messerli.md
 translators:
 editors:
 contributors:

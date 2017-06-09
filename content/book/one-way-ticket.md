@@ -9,7 +9,7 @@ subgenre:
   - Stories
 language:
 authors:
-  - contributor/zinovy-zinik.md
+  - author/zinovy-zinik.md
 translators:
 editors:
 contributors:

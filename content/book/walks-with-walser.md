@@ -8,9 +8,9 @@ genre: Nonfiction
 subgenre:
 language: German
 authors:
-  - contributor/carl-seelig.md
+  - author/carl-seelig.md
 translators:
-  - contributor/anne-posten.md
+  - author/anne-posten.md
 editors:
 contributors:
 featured_image:

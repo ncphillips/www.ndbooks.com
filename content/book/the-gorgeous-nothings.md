@@ -8,14 +8,14 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/emily-dickinson.md
+  - author/emily-dickinson.md
 translators:
 editors:
-  - contributor/jen-bervin.md
+  - author/jen-bervin.md
 
-  - contributor/marta-werner.md
+  - author/marta-werner.md
 contributors:
-  - contributor/susan-howe.md
+  - author/susan-howe.md
 featured_image:
 description: "The first full-color publication of Emily Dickinson’s complete envelope writings in facsimile from her visually stunning manuscripts, here in a deluxe, large-scale edition "
 editions:

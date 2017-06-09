@@ -8,12 +8,12 @@ genre: Poetry
 subgenre:
 language: Russian
 authors:
-  - contributor/osip-mandelstam.md
+  - author/osip-mandelstam.md
 translators:
-  - contributor/peter-france.md
+  - author/peter-france.md
 editors:
 contributors:
-  - contributor/peter-france.md
+  - author/peter-france.md
 featured_image:
 description:
 editions:

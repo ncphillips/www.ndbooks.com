@@ -11,7 +11,7 @@ subgenre:
   - Non fiction
 language:
 authors:
-  - contributor/susan-howe.md
+  - author/susan-howe.md
 translators:
 editors:
 contributors:
@@ -52,9 +52,9 @@ genre: Fiction
 subgenre:
 language: Italian
 authors:
-  - contributor/nicola-gardini.md
+  - author/nicola-gardini.md
 translators:
-  - contributor/michael-f-moore.md
+  - author/michael-f-moore.md
 editors:
 contributors:
 featured_image:

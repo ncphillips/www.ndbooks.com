@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/robert-nichols.md
+  - author/robert-nichols.md
 translators:
 editors:
 contributors:

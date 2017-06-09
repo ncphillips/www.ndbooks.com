@@ -8,9 +8,9 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/sakutaro-hagiwara.md
+  - author/sakutaro-hagiwara.md
 translators:
-  - contributor/hiroaki-sato.md
+  - author/hiroaki-sato.md
 editors:
 contributors:
 featured_image:

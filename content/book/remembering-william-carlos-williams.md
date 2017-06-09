@@ -9,7 +9,7 @@ subgenre:
   - Memoir
 language:
 authors:
-  - contributor/james-laughlin.md
+  - author/james-laughlin.md
 translators:
 editors:
 contributors:

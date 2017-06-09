@@ -9,13 +9,13 @@ subgenre:
   - Essay
 language:
 authors:
-  - contributor/delmore-schwartz.md
+  - author/delmore-schwartz.md
 translators:
 editors:
 contributors:
-  - contributor/irving-howe.md
+  - author/irving-howe.md
 
-  - contributor/lou-reed.md
+  - author/lou-reed.md
 featured_image:
 description: "A new edition of the definitive book on the depression-era immigrant experience in New York City. "
 editions:

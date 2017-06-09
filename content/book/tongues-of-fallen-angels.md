@@ -9,7 +9,7 @@ subgenre:
   - Correspondence
 language:
 authors:
-  - contributor/selden-rodman.md
+  - author/selden-rodman.md
 translators:
 editors:
 contributors:

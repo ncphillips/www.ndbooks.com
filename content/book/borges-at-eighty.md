@@ -8,9 +8,9 @@ genre: Nonfiction
 subgenre:
 language: Spanish
 authors:
-  - contributor/jorge-luis-borges.md
+  - author/jorge-luis-borges.md
 translators:
-  - contributor/willis-barnstone.md
+  - author/willis-barnstone.md
 editors:
 contributors:
 featured_image:

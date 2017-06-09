@@ -8,11 +8,11 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/octavio-paz.md
+  - author/octavio-paz.md
 translators:
-  - contributor/eliot-weinberger.md
+  - author/eliot-weinberger.md
 editors:
-  - contributor/eliot-weinberger.md
+  - author/eliot-weinberger.md
 contributors:
 featured_image:
 description:

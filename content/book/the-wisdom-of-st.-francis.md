@@ -9,12 +9,12 @@ subgenre:
   - Essay
 language:
 authors:
-  - contributor/stephen-clissold.md
+  - author/stephen-clissold.md
 translators:
-  - contributor/stephen-clissold.md
+  - author/stephen-clissold.md
 editors:
 contributors:
-  - contributor/stephen-clissold.md
+  - author/stephen-clissold.md
 featured_image:
 description:
 editions:

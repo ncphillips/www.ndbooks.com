@@ -8,9 +8,9 @@ genre: Poetry
 subgenre:
 language: Spanish
 authors:
-  - contributor/octavio-paz.md
+  - author/octavio-paz.md
 translators:
-  - contributor/eliot-weinberger.md
+  - author/eliot-weinberger.md
 editors:
 contributors:
 featured_image:

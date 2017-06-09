@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language: Portuguese
 authors:
-  - contributor/raduan-nassar.md
+  - author/raduan-nassar.md
 translators:
-  - contributor/stefan-tobler.md
+  - author/stefan-tobler.md
 editors:
 contributors:
 featured_image:

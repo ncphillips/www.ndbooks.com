@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language: Spanish
 authors:
-  - contributor/cesar-aira.md
+  - author/cesar-aira.md
 translators:
-  - contributor/katherine-silver.md
+  - author/katherine-silver.md
 editors:
 contributors:
 featured_image: /images/dinner_cover.jpg

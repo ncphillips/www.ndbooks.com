@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language: French
 authors:
-  - contributor/alain-bosquet.md
+  - author/alain-bosquet.md
 translators:
 editors:
 contributors:

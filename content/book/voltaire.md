@@ -9,7 +9,7 @@ subgenre:
   - Study
 language:
 authors:
-  - contributor/wayne-andrews.md
+  - author/wayne-andrews.md
 translators:
 editors:
 contributors:

@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/eka-kurniawan.md
+  - author/eka-kurniawan.md
 translators:
-  - contributor/annie-tucker.md
+  - author/annie-tucker.md
 editors:
 contributors:
 featured_image:

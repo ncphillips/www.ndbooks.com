@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/will-alexander.md
+  - author/will-alexander.md
 translators:
 editors:
 contributors:

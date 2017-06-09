@@ -9,7 +9,7 @@ subgenre:
   - Stories
 language:
 authors:
-  - contributor/allen-grossman.md
+  - author/allen-grossman.md
 translators:
 editors:
 contributors:

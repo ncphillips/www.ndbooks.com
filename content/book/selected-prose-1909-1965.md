@@ -8,12 +8,12 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/ezra-pound.md
+  - author/ezra-pound.md
 translators:
-  - contributor/william-cookson.md
+  - author/william-cookson.md
 editors:
 contributors:
-  - contributor/ezra-pound.md
+  - author/ezra-pound.md
 featured_image:
 description:
 editions:

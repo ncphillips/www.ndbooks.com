@@ -9,9 +9,9 @@ subgenre:
   - Stories
 language: Spanish
 authors:
-  - contributor/jorge-luis-borges.md
+  - author/jorge-luis-borges.md
 translators:
-  - contributor/donald-yates.md
+  - author/donald-yates.md
 editors:
 contributors:
 featured_image:

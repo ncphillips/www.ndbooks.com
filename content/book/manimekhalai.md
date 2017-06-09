@@ -8,9 +8,9 @@ genre: Theater
 subgenre:
 language:
 authors:
-  - contributor/merchant-prince-shattan.md
+  - author/merchant-prince-shattan.md
 translators:
-  - contributor/alain-danielou.md
+  - author/alain-danielou.md
 editors:
 contributors:
 featured_image:

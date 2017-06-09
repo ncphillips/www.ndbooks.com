@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/douard-dujardin.md
+  - author/douard-dujardin.md
 translators:
-  - contributor/stuart-gilbert.md
+  - author/stuart-gilbert.md
 editors:
 contributors:
 featured_image:

@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language: Spanish
 authors:
-  - contributor/jose-pacheco.md
+  - author/jose-pacheco.md
 translators:
 editors:
 contributors:

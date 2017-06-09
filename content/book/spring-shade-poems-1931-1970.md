@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language: Portuguese
 authors:
-  - contributor/robert-fitzgerald.md
+  - author/robert-fitzgerald.md
 translators:
 editors:
 contributors:

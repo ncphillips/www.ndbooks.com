@@ -9,7 +9,7 @@ subgenre:
   - Stories
 language:
 authors:
-  - contributor/james-b.-hall.md
+  - author/james-b.-hall.md
 translators:
 editors:
 contributors:

@@ -9,11 +9,11 @@ subgenre:
   - Study
 language:
 authors:
-  - contributor/thomas-merton.md
+  - author/thomas-merton.md
 translators:
 editors:
 contributors:
-  - contributor/dalai-lama1.md
+  - author/dalai-lama1.md
 featured_image:
 description:
 editions:

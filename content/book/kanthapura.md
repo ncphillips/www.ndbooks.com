@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/raja-rao.md
+  - author/raja-rao.md
 translators:
 editors:
 contributors:

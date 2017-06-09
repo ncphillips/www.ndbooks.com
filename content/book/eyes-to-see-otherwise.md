@@ -8,9 +8,9 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/homero-aridjis.md
+  - author/homero-aridjis.md
 translators:
-  - contributor/betty-ferber.md
+  - author/betty-ferber.md
 editors:
 contributors:
 featured_image:

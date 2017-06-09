@@ -8,11 +8,11 @@ genre: Fiction
 subgenre:
 language: Portuguese
 authors:
-  - contributor/fernando-pessoa.md
+  - author/fernando-pessoa.md
 translators:
-  - contributor/margaret-jull-costa.md
+  - author/margaret-jull-costa.md
 editors:
-  - contributor/jerónimo-pizarro.md
+  - author/jerónimo-pizarro.md
 contributors:
 featured_image: /images/pessoa-complete-image.jpg
 description: "In the best translation ever, the complete Book of Disquiet is an incomparable masterpiece "

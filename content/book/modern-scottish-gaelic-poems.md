@@ -9,12 +9,12 @@ subgenre:
   - Anthology
 language: Gaelic
 authors:
-  - contributor/donald-macaulay.md
+  - author/donald-macaulay.md
 translators:
-  - contributor/donald-macaulay.md
+  - author/donald-macaulay.md
 editors:
 contributors:
-  - contributor/donald-macaulay.md
+  - author/donald-macaulay.md
 featured_image:
 description:
 editions:

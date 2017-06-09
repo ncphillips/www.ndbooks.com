@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/jerome-rothenberg.md
+  - author/jerome-rothenberg.md
 translators:
 editors:
 contributors:

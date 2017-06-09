@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/deborah-larsen.md
+  - author/deborah-larsen.md
 translators:
 editors:
 contributors:

@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/louis-ferdinand-celine.md
+  - author/louis-ferdinand-celine.md
 translators:
 editors:
 contributors:

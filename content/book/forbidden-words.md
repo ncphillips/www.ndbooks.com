@@ -8,9 +8,9 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/eugenio-de-andrade.md
+  - author/eugenio-de-andrade.md
 translators:
-  - contributor/alexis-levitin.md
+  - author/alexis-levitin.md
 editors:
 contributors:
 featured_image:

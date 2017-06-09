@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language: Chinese
 authors:
-  - contributor/li-ching-chao1.md
+  - author/li-ching-chao1.md
 translators:
 editors:
 contributors:

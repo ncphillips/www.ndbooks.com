@@ -9,7 +9,7 @@ subgenre:
   - Essay
 language: Portuguese
 authors:
-  - contributor/henry-miller.md
+  - author/henry-miller.md
 translators:
 editors:
 contributors:

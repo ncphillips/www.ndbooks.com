@@ -9,12 +9,12 @@ subgenre:
   - Memoir
 language: German
 authors:
-  - contributor/elias-canetti.md
+  - author/elias-canetti.md
 translators:
-  - contributor/michael-hofmann1.md
+  - author/michael-hofmann1.md
 editors:
 contributors:
-  - contributor/elias-canetti.md
+  - author/elias-canetti.md
 featured_image:
 description:
 editions:

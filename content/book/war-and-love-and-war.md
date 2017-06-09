@@ -8,9 +8,9 @@ genre: Poetry
 subgenre:
 language: Hebrew
 authors:
-  - contributor/aharon-shabtai.md
+  - author/aharon-shabtai.md
 translators:
-  - contributor/peter-cole.md
+  - author/peter-cole.md
 editors:
 contributors:
 featured_image:

@@ -8,12 +8,12 @@ genre: Fiction
 subgenre:
 language: French
 authors:
-  - contributor/jean-paul-sartre.md
+  - author/jean-paul-sartre.md
 translators:
-  - contributor/richard-howard.md
+  - author/richard-howard.md
 editors:
 contributors:
-  - contributor/james-wood.md
+  - author/james-wood.md
 featured_image:
 description: "Sartre's greatest novel — and existentialism's key text — now introduced by James Wood "
 editions:

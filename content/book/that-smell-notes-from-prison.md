@@ -8,11 +8,11 @@ genre: Fiction
 subgenre:
 language: Arabic
 authors:
-  - contributor/sonallah-ibrahim.md
+  - author/sonallah-ibrahim.md
 translators:
-  - contributor/robyn-creswell.md
+  - author/robyn-creswell.md
 editors:
-  - contributor/robyn-creswell.md
+  - author/robyn-creswell.md
 contributors:
 featured_image:
 description: "_That Smell_ — a watershed in contemporary Egyptian fiction — combined with the author’s _Notes from Prison_ in a single edition "

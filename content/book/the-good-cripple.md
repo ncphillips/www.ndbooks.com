@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language: Portuguese
 authors:
-  - contributor/rodrigo-rey-rosa.md
+  - author/rodrigo-rey-rosa.md
 translators:
-  - contributor/esther-allen.md
+  - author/esther-allen.md
 editors:
 contributors:
 featured_image:

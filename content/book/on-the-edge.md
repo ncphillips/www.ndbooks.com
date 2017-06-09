@@ -8,12 +8,12 @@ genre: Fiction
 subgenre:
 language: Spanish
 authors:
-  - contributor/rafael-chirbes.md
+  - author/rafael-chirbes.md
 translators:
-  - contributor/margaret-jull-costa.md
+  - author/margaret-jull-costa.md
 editors:
 contributors:
-  - contributor/valerie-miles.md
+  - author/valerie-miles.md
 featured_image: /images/MARSH%20.jpg
 description: "_On the Edge_ is a monumental fresco of a brutal contemporary Spain in free fall "
 editions:

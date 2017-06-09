@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language: Spanish
 authors:
-  - contributor/martin-adan.md
+  - author/martin-adan.md
 translators:
-  - contributor/katherine-silver.md
+  - author/katherine-silver.md
 editors:
 contributors:
 featured_image:

@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/caradog-prichard.md
+  - author/caradog-prichard.md
 translators:
 editors:
 contributors:

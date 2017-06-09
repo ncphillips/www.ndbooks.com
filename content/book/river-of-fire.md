@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/qurratulain-hyder.md
+  - author/qurratulain-hyder.md
 translators:
 editors:
 contributors:

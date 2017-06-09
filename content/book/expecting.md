@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/christine-lehner.md
+  - author/christine-lehner.md
 translators:
 editors:
 contributors:

@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/sherwood-anderson.md
+  - author/sherwood-anderson.md
 translators:
 editors:
 contributors:

@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/qian-zhongshu.md
+  - author/qian-zhongshu.md
 translators:
 editors:
 contributors:

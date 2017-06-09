@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language: Hebrew
 authors:
-  - contributor/yoel-hoffmann.md
+  - author/yoel-hoffmann.md
 translators:
-  - contributor/peter-cole.md
+  - author/peter-cole.md
 editors:
 contributors:
 featured_image: /images/9780811223829.jpg

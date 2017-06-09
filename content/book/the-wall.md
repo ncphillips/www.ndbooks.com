@@ -9,7 +9,7 @@ subgenre:
   - Stories
 language: French
 authors:
-  - contributor/jean-paul-sartre.md
+  - author/jean-paul-sartre.md
 translators:
 editors:
 contributors:

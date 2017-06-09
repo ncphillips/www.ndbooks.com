@@ -9,11 +9,11 @@ subgenre:
   - Essay
 language:
 authors:
-  - contributor/william-carlos-williams.md
+  - author/william-carlos-williams.md
 translators:
 editors:
 contributors:
-  - contributor/rick-moody.md
+  - author/rick-moody.md
 featured_image:
 description:
 editions:

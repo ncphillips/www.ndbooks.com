@@ -9,7 +9,7 @@ subgenre:
   - Essay
 language:
 authors:
-  - contributor/f-scott-fitzgerald.md
+  - author/f-scott-fitzgerald.md
 translators:
 editors:
 contributors:

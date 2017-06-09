@@ -8,12 +8,12 @@ genre: Fiction
 subgenre:
 language: Chinese
 authors:
-  - contributor/henri-michaux.md
+  - author/henri-michaux.md
 translators:
-  - contributor/gustaf-sobin.md
+  - author/gustaf-sobin.md
 editors:
 contributors:
-  - contributor/richard-sieburth.md
+  - author/richard-sieburth.md
 featured_image:
 description:
 editions:

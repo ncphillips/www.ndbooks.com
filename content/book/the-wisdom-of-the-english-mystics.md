@@ -9,7 +9,7 @@ subgenre:
   - Essay
 language:
 authors:
-  - contributor/robert-way.md
+  - author/robert-way.md
 translators:
 editors:
 contributors:

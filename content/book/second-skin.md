@@ -8,11 +8,11 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/john-hawkes.md
+  - author/john-hawkes.md
 translators:
 editors:
 contributors:
-  - contributor/jeffrey-eugenides.md
+  - author/jeffrey-eugenides.md
 featured_image:
 description:
 editions:

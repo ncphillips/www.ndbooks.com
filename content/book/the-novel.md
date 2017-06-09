@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/paul-hoover.md
+  - author/paul-hoover.md
 translators:
 editors:
 contributors:

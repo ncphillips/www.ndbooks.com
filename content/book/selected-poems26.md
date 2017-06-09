@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/rene-char.md
+  - author/rene-char.md
 translators:
 editors:
 contributors:

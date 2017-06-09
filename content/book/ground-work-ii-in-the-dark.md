@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language: Portuguese
 authors:
-  - contributor/robert-duncan.md
+  - author/robert-duncan.md
 translators:
 editors:
 contributors:

@@ -8,9 +8,9 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/ferreira-gullar.md
+  - author/ferreira-gullar.md
 translators:
-  - contributor/leland-guyer.md
+  - author/leland-guyer.md
 editors:
 contributors:
 featured_image:

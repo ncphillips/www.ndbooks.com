@@ -8,9 +8,9 @@ genre: Poetry
 subgenre:
 language: Italian
 authors:
-  - contributor/lorenzo-chiera.md
+  - author/lorenzo-chiera.md
 translators:
-  - contributor/lawrence-ferlinghetti.md
+  - author/lawrence-ferlinghetti.md
 editors:
 contributors:
 featured_image: /images/Wenceslas_Hollar_-_Roman_ruins_(State_1).jpg

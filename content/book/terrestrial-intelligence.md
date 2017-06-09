@@ -9,7 +9,7 @@ subgenre:
   - Anthology
 language:
 authors:
-  - contributor/barbara-epler.md
+  - author/barbara-epler.md
 translators:
 editors:
 contributors:

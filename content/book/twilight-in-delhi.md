@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/ahmed-ali.md
+  - author/ahmed-ali.md
 translators:
 editors:
 contributors:

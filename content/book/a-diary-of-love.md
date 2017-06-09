@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language: Portuguese
 authors:
-  - contributor/maude-hutchins.md
+  - author/maude-hutchins.md
 translators:
 editors:
 contributors:

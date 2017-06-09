@@ -8,11 +8,11 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/frederic-tuten.md
+  - author/frederic-tuten.md
 translators:
 editors:
 contributors:
-  - contributor/john-updike.md
+  - author/john-updike.md
 featured_image:
 description: "A revolutionary comic masterpiece, an icon of literature as American pop art, and a book unlike any other, _The Adventures of Mao on the Long March_ breaks all frames. "
 editions:

@@ -8,9 +8,9 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/hsieh-ling-yuen.md
+  - author/hsieh-ling-yuen.md
 translators:
-  - contributor/david-hinton.md
+  - author/david-hinton.md
 editors:
 contributors:
 featured_image:

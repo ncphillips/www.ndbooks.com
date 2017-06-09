@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language: Portuguese
 authors:
-  - contributor/saint-john-perse.md
+  - author/saint-john-perse.md
 translators:
 editors:
 contributors:

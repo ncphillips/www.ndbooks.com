@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/honore-de-balzac.md
+  - author/honore-de-balzac.md
 translators:
 editors:
 contributors:

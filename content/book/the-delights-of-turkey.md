@@ -9,7 +9,7 @@ subgenre:
   - Stories
 language:
 authors:
-  - contributor/edouard-roditi.md
+  - author/edouard-roditi.md
 translators:
 editors:
 contributors:

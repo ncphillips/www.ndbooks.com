@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/wilfred-owen.md
+  - author/wilfred-owen.md
 translators:
 editors:
 contributors:

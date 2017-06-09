@@ -8,11 +8,11 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/clarice-lispector.md
+  - author/clarice-lispector.md
 translators:
-  - contributor/johnny-lorenz.md
+  - author/johnny-lorenz.md
 editors:
-  - contributor/benjamin-moser.md
+  - author/benjamin-moser.md
 contributors:
 featured_image:
 description: "In English for the first time. "

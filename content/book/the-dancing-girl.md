@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/hasan-shah.md
+  - author/hasan-shah.md
 translators:
 editors:
 contributors:

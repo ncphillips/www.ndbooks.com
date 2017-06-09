@@ -9,7 +9,7 @@ subgenre:
   - Memoir
 language:
 authors:
-  - contributor/carlton-lake.md
+  - author/carlton-lake.md
 translators:
 editors:
 contributors:

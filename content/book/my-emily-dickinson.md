@@ -8,11 +8,11 @@ genre: Nonfiction
 subgenre:
 language: Portuguese
 authors:
-  - contributor/susan-howe.md
+  - author/susan-howe.md
 translators:
 editors:
 contributors:
-  - contributor/eliot-weinberger.md
+  - author/eliot-weinberger.md
 featured_image:
 description: "Finally, My Emily Dickinson, Susan Howe's singular and unforgettable 1985 creative study, is available as a New Directions paperbook "
 editions:

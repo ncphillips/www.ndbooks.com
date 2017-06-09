@@ -9,7 +9,7 @@ subgenre:
   - Essay
 language:
 authors:
-  - contributor/herbert-leibowitz.md
+  - author/herbert-leibowitz.md
 translators:
 editors:
 contributors:

@@ -8,7 +8,7 @@ genre:
 subgenre:
 language:
 authors:
-  - contributor/john-allman.md
+  - author/john-allman.md
 translators:
 editors:
 contributors:

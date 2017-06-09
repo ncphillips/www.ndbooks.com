@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/corrado-alvaro.md
+  - author/corrado-alvaro.md
 translators:
 editors:
 contributors:

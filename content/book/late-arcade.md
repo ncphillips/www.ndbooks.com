@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/nathaniel-mackey.md
+  - author/nathaniel-mackey.md
 translators:
 editors:
 contributors:

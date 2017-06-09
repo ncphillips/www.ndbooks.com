@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/uwe-timm.md
+  - author/uwe-timm.md
 translators:
 editors:
 contributors:

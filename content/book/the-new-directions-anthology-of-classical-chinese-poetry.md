@@ -10,17 +10,17 @@ subgenre:
 language:
 authors:
 translators:
-  - contributor/david-hinton.md
+  - author/david-hinton.md
 
-  - contributor/kenneth-rexroth.md
+  - author/kenneth-rexroth.md
 
-  - contributor/ezra-pound.md
+  - author/ezra-pound.md
 
-  - contributor/gary-snyder.md
+  - author/gary-snyder.md
 
-  - contributor/william-carlos-williams.md
+  - author/william-carlos-williams.md
 editors:
-  - contributor/eliot-weinberger.md
+  - author/eliot-weinberger.md
 contributors:
 featured_image:
 description: "Modern American poets translate classical Chinese poetry. "

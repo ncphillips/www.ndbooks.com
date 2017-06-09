@@ -8,12 +8,12 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/hans-faverey.md
+  - author/hans-faverey.md
 translators:
-  - contributor/francis-r.-jones.md
+  - author/francis-r.-jones.md
 editors:
 contributors:
-  - contributor/eliot-weinberger.md
+  - author/eliot-weinberger.md
 featured_image:
 description: "A stunning selection of poems from the great twentieth-century Dutch poet. "
 editions:

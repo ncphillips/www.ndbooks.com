@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language: Dutch
 authors:
-  - contributor/kader-abdolah.md
+  - author/kader-abdolah.md
 translators:
-  - contributor/nancy-forest-flier.md
+  - author/nancy-forest-flier.md
 editors:
 contributors:
 featured_image:

@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/gary-snyder.md
+  - author/gary-snyder.md
 translators:
 editors:
 contributors:

@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/ronald-firbank.md
+  - author/ronald-firbank.md
 translators:
 editors:
 contributors:

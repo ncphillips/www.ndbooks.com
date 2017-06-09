@@ -9,7 +9,7 @@ subgenre:
   - Correspondence
 language:
 authors:
-  - contributor/john-carswell.md
+  - author/john-carswell.md
 translators:
 editors:
 contributors:

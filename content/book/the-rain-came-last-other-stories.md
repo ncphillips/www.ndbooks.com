@@ -9,7 +9,7 @@ subgenre:
   - Stories
 language:
 authors:
-  - contributor/niccolo-tucci.md
+  - author/niccolo-tucci.md
 translators:
 editors:
 contributors:

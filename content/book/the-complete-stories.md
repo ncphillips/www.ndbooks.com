@@ -9,12 +9,12 @@ subgenre:
   - Stories
 language:
 authors:
-  - contributor/clarice-lispector.md
+  - author/clarice-lispector.md
 translators:
-  - contributor/katrina-dodson.md
+  - author/katrina-dodson.md
 editors:
 contributors:
-  - contributor/benjamin-moser.md
+  - author/benjamin-moser.md
 featured_image: /images/lispector_collected_stories_for_web.jpg
 description: "Clarice Lispector's _Complete Stories_, 86 in all, are an epiphany, among the important books of this–or any–year. "
 editions:

@@ -8,7 +8,7 @@ genre: Theater
 subgenre:
 language:
 authors:
-  - contributor/yvan-goll.md
+  - author/yvan-goll.md
 translators:
 editors:
 contributors:

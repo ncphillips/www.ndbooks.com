@@ -8,9 +8,9 @@ genre: Poetry
 subgenre:
 language: Spanish
 authors:
-  - contributor/alejandra-pizarnik.md
+  - author/alejandra-pizarnik.md
 translators:
-  - contributor/yvette-siegert.md
+  - author/yvette-siegert.md
 editors:
 contributors:
 featured_image:

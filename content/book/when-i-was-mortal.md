@@ -9,9 +9,9 @@ subgenre:
   - Stories
 language: Spanish
 authors:
-  - contributor/javier-marias.md
+  - author/javier-marias.md
 translators:
-  - contributor/margaret-jull-costa.md
+  - author/margaret-jull-costa.md
 editors:
 contributors:
 featured_image:

@@ -8,9 +8,9 @@ genre:
 subgenre:
 language:
 authors:
-  - contributor/hermann-hesse.md
+  - author/hermann-hesse.md
 translators:
-  - contributor/hilda-rosner.md
+  - author/hilda-rosner.md
 editors:
 contributors:
 featured_image:

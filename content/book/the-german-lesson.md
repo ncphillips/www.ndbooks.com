@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/siegfried-lenz.md
+  - author/siegfried-lenz.md
 translators:
 editors:
 contributors:

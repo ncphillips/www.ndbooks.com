@@ -9,9 +9,9 @@ subgenre:
   - Essay
 language: Italian
 authors:
-  - contributor/fleur-jaeggy.md
+  - author/fleur-jaeggy.md
 translators:
-  - contributor/minna-zallman-proctor.md
+  - author/minna-zallman-proctor.md
 editors:
 contributors:
 featured_image:

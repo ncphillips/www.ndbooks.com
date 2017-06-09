@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/norman-manea.md
+  - author/norman-manea.md
 translators:
-  - contributor/jean-harris.md
+  - author/jean-harris.md
 editors:
 contributors:
 featured_image:

@@ -9,9 +9,9 @@ subgenre:
   - Study
 language:
 authors:
-  - contributor/robert-helbling.md
+  - author/robert-helbling.md
 
-  - contributor/heinrich-von-kleist.md
+  - author/heinrich-von-kleist.md
 translators:
 editors:
 contributors:

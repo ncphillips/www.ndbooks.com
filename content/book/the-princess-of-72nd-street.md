@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/elaine-kraf.md
+  - author/elaine-kraf.md
 translators:
 editors:
 contributors:

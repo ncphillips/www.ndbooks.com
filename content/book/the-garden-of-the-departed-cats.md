@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/bilge-karasu.md
+  - author/bilge-karasu.md
 translators:
 editors:
 contributors:

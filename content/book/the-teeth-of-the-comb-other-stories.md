@@ -8,11 +8,11 @@ genre: Fiction
 subgenre:
 language: Arabic
 authors:
-  - contributor/osama-alomar.md
+  - author/osama-alomar.md
 translators:
-  - contributor/osama-alomar.md
+  - author/osama-alomar.md
 
-  - contributor/c.-j.-collins.md
+  - author/c.-j.-collins.md
 editors:
 contributors:
 featured_image:

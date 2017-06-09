@@ -8,9 +8,9 @@ genre: Poetry
 subgenre:
 language: Spanish
 authors:
-  - contributor/ernesto-cardenal.md
+  - author/ernesto-cardenal.md
 translators:
-  - contributor/donald-d.-walsh.md
+  - author/donald-d.-walsh.md
 editors:
 contributors:
 featured_image:

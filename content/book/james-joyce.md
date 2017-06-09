@@ -9,7 +9,7 @@ subgenre:
   - Study
 language:
 authors:
-  - contributor/harry-levin.md
+  - author/harry-levin.md
 translators:
 editors:
 contributors:

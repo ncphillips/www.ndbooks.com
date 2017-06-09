@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/gert-hofmann.md
+  - author/gert-hofmann.md
 translators:
-  - contributor/michael-hofmann1.md
+  - author/michael-hofmann1.md
 editors:
 contributors:
 featured_image:

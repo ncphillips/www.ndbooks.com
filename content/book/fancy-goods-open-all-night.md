@@ -9,9 +9,9 @@ subgenre:
   - Stories
 language:
 authors:
-  - contributor/paul-morand.md
+  - author/paul-morand.md
 translators:
-  - contributor/ezra-pound.md
+  - author/ezra-pound.md
 editors:
 contributors:
 featured_image:

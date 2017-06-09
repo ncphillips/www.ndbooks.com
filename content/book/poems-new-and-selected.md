@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/james-laughlin.md
+  - author/james-laughlin.md
 translators:
 editors:
 contributors:

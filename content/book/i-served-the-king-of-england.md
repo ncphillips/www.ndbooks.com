@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language: Czech
 authors:
-  - contributor/bohumil-hrabal.md
+  - author/bohumil-hrabal.md
 translators:
 editors:
 contributors:

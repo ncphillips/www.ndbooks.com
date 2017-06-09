@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/william-everson.md
+  - author/william-everson.md
 translators:
 editors:
 contributors:

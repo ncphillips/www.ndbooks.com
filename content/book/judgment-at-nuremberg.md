@@ -8,7 +8,7 @@ genre: Theater
 subgenre:
 language:
 authors:
-  - contributor/abby-mann.md
+  - author/abby-mann.md
 translators:
 editors:
 contributors:

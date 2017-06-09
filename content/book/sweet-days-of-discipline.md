@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language: Portuguese
 authors:
-  - contributor/fleur-jaeggy.md
+  - author/fleur-jaeggy.md
 translators:
-  - contributor/tim-parks.md
+  - author/tim-parks.md
 editors:
 contributors:
 featured_image:

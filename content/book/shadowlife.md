@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/martin-grzimek.md
+  - author/martin-grzimek.md
 translators:
 editors:
 contributors:

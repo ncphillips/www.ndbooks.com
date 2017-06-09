@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/uwe-timm.md
+  - author/uwe-timm.md
 translators:
-  - contributor/peter-tegel.md
+  - author/peter-tegel.md
 editors:
 contributors:
 featured_image:

@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/jimmy-baca.md
+  - author/jimmy-baca.md
 translators:
 editors:
 contributors:

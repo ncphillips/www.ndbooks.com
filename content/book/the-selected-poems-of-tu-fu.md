@@ -8,9 +8,9 @@ genre: Poetry
 subgenre:
 language: Chinese
 authors:
-  - contributor/tu-fu.md
+  - author/tu-fu.md
 translators:
-  - contributor/david-hinton.md
+  - author/david-hinton.md
 editors:
 contributors:
 featured_image:

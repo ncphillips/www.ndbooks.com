@@ -8,12 +8,12 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/lawrence-ferlinghetti.md
+  - author/lawrence-ferlinghetti.md
 translators:
-  - contributor/vincent-mchugh.md
+  - author/vincent-mchugh.md
 editors:
 contributors:
-  - contributor/lawrence-ferlinghetti.md
+  - author/lawrence-ferlinghetti.md
 featured_image:
 description:
 editions:

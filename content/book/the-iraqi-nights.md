@@ -9,9 +9,9 @@ subgenre:
   - Anthology
 language: Arabic
 authors:
-  - contributor/dunya-mikhail.md
+  - author/dunya-mikhail.md
 translators:
-  - contributor/kareem-james-abu-zeid.md
+  - author/kareem-james-abu-zeid.md
 editors:
 contributors:
 featured_image:

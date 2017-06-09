@@ -8,7 +8,7 @@ genre: Theater
 subgenre:
 language:
 authors:
-  - contributor/alfred-jarry.md
+  - author/alfred-jarry.md
 translators:
 editors:
 contributors:

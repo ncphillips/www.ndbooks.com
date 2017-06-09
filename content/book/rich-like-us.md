@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/nayantara-sahgal.md
+  - author/nayantara-sahgal.md
 translators:
 editors:
 contributors:

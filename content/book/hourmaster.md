@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/christophe-bataille.md
+  - author/christophe-bataille.md
 translators:
-  - contributor/richard-howard.md
+  - author/richard-howard.md
 editors:
 contributors:
 featured_image:

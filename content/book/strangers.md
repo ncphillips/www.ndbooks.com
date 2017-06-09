@@ -9,7 +9,7 @@ subgenre:
   - Memoir
 language:
 authors:
-  - contributor/emma-tennant.md
+  - author/emma-tennant.md
 translators:
 editors:
 contributors:

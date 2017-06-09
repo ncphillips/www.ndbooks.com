@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/william-saroyan.md
+  - author/william-saroyan.md
 translators:
 editors:
 contributors:

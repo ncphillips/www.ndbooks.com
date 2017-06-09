@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language: Arabic
 authors:
-  - contributor/rabee-jaber.md
+  - author/rabee-jaber.md
 translators:
-  - contributor/kareem-james-abu-zeid.md
+  - author/kareem-james-abu-zeid.md
 editors:
 contributors:
 featured_image:

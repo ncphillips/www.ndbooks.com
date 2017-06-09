@@ -9,7 +9,7 @@ subgenre:
   - Memoir
 language:
 authors:
-  - contributor/marjorie-perloff.md
+  - author/marjorie-perloff.md
 translators:
 editors:
 contributors:

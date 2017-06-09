@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language: French
 authors:
-  - contributor/mathias-énard.md
+  - author/mathias-énard.md
 translators:
-  - contributor/charlotte-mandell.md
+  - author/charlotte-mandell.md
 editors:
 contributors:
 featured_image:

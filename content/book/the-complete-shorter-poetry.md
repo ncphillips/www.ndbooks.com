@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/louis-zukofsky.md
+  - author/louis-zukofsky.md
 translators:
 editors:
 contributors:

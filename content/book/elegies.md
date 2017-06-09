@@ -8,13 +8,13 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/muriel-rukeyser.md
+  - author/muriel-rukeyser.md
 translators:
 editors:
 contributors:
-  - contributor/christoph-keller.md
+  - author/christoph-keller.md
 
-  - contributor/jan-heller-levi.md
+  - author/jan-heller-levi.md
 featured_image:
 description: "An elegant relaunch of Muriel Rukeyser’s Elegies — previously available only in a limited edition — celebrates the centennial of her birth "
 editions:

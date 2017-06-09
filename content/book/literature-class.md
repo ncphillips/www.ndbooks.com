@@ -8,9 +8,9 @@ genre: Nonfiction
 subgenre:
 language: Spanish
 authors:
-  - contributor/julio-cortazar.md
+  - author/julio-cortazar.md
 translators:
-  - contributor/katherine-silver.md
+  - author/katherine-silver.md
 editors:
 contributors:
 featured_image:

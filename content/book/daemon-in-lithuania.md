@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/henri-guigonnat.md
+  - author/henri-guigonnat.md
 translators:
-  - contributor/barbara-wright.md
+  - author/barbara-wright.md
 editors:
 contributors:
 featured_image:

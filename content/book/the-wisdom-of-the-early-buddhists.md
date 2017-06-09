@@ -9,7 +9,7 @@ subgenre:
   - Essay
 language:
 authors:
-  - contributor/geoffrey-parrinder.md
+  - author/geoffrey-parrinder.md
 translators:
 editors:
 contributors:

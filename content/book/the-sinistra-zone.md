@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language: Hungarian
 authors:
-  - contributor/adam-bodor.md
+  - author/adam-bodor.md
 translators:
-  - contributor/paul-olchvary.md
+  - author/paul-olchvary.md
 editors:
 contributors:
 featured_image:

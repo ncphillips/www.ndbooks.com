@@ -8,11 +8,11 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/nathanael-west-n.md
+  - author/nathanael-west-n.md
 translators:
 editors:
 contributors:
-  - contributor/jonathan-lethem.md
+  - author/jonathan-lethem.md
 featured_image:
 description: "Two great works of American literature in one volume, reissued here with a new introduction by Jonathan Lethem "
 editions:

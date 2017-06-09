@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/henry-green.md
+  - author/henry-green.md
 translators:
 editors:
 contributors:

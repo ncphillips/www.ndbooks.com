@@ -9,7 +9,7 @@ subgenre:
   - Stories
 language: Russian
 authors:
-  - contributor/victor-pelevin.md
+  - author/victor-pelevin.md
 translators:
 editors:
 contributors:

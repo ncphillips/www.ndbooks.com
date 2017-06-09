@@ -9,10 +9,10 @@ subgenre:
   - Essay
 language:
 authors:
-  - contributor/muriel-spark.md
+  - author/muriel-spark.md
 translators:
 editors:
-  - contributor/penelope-jardin.md
+  - author/penelope-jardin.md
 contributors:
 featured_image:
 description: "Together for the first time in one sparkling, delicious volume, here are the greatest essays of Muriel Spark "

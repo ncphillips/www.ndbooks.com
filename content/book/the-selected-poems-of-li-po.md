@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language: Chinese
 authors:
-  - contributor/li-po.md
+  - author/li-po.md
 translators:
 editors:
 contributors:

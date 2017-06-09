@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language: French
 authors:
-  - contributor/albert-cossery.md
+  - author/albert-cossery.md
 translators:
-  - contributor/alyson-waters.md
+  - author/alyson-waters.md
 editors:
 contributors:
 featured_image:

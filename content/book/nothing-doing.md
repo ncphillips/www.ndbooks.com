@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/cid-corman.md
+  - author/cid-corman.md
 translators:
 editors:
 contributors:

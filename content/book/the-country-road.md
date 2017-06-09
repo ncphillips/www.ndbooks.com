@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/regina-ullmann.md
+  - author/regina-ullmann.md
 translators:
-  - contributor/kurt-beals.md
+  - author/kurt-beals.md
 editors:
 contributors:
 featured_image:

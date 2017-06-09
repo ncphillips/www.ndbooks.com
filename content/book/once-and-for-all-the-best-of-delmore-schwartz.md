@@ -9,14 +9,14 @@ subgenre:
   - Selections
 language:
 authors:
-  - contributor/delmore-schwartz.md
+  - author/delmore-schwartz.md
 translators:
 editors:
-  - contributor/craig-morgan-teicher.md
+  - author/craig-morgan-teicher.md
 contributors:
-  - contributor/craig-morgan-teicher.md
+  - author/craig-morgan-teicher.md
 
-  - contributor/john-ashbery.md
+  - author/john-ashbery.md
 featured_image:
 description: "The publication of this book restores a missing chapter in the history of twentieth-century American literature "
 editions:

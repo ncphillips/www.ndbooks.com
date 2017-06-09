@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/d.-h.-lawrence.md
+  - author/d.-h.-lawrence.md
 translators:
 editors:
 contributors:

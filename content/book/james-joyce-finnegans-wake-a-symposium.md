@@ -9,7 +9,7 @@ subgenre:
   - Essay
 language:
 authors:
-  - contributor/james-joyce.md
+  - author/james-joyce.md
 translators:
 editors:
 contributors:

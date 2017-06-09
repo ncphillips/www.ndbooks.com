@@ -9,7 +9,7 @@ subgenre:
   - Anthology
 language:
 authors:
-  - contributor/john-hawkes.md
+  - author/john-hawkes.md
 translators:
 editors:
 contributors:

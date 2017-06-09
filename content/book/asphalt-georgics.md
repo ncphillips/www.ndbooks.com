@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/hayden-carruth.md
+  - author/hayden-carruth.md
 translators:
 editors:
 contributors:

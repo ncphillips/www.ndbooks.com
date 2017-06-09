@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/walter-sutton.md
+  - author/walter-sutton.md
 translators:
 editors:
 contributors:

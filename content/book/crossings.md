@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/chuang-hua.md
+  - author/chuang-hua.md
 translators:
 editors:
 contributors:

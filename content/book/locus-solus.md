@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language: French
 authors:
-  - contributor/raymond-roussel.md
+  - author/raymond-roussel.md
 translators:
-  - contributor/rupert-copeland-cunningham.md
+  - author/rupert-copeland-cunningham.md
 editors:
 contributors:
 featured_image:

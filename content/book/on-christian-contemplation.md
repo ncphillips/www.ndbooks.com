@@ -9,10 +9,10 @@ subgenre:
   - Essay
 language:
 authors:
-  - contributor/thomas-merton.md
+  - author/thomas-merton.md
 translators:
 editors:
-  - contributor/paul-m.-pearson.md
+  - author/paul-m.-pearson.md
 contributors:
 featured_image:
 description: "A compendium of spiritual guidance in a beautiful edition. "

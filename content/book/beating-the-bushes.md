@@ -9,7 +9,7 @@ subgenre:
   - Essay
 language:
 authors:
-  - contributor/john-ransom.md
+  - author/john-ransom.md
 translators:
 editors:
 contributors:

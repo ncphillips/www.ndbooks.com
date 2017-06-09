@@ -8,11 +8,11 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/W._G._Sebald.md
+  - author/W._G._Sebald.md
 
-  - contributor/jan-peter-tripp.md
+  - author/jan-peter-tripp.md
 translators:
-  - contributor/michael-hamburger.md
+  - author/michael-hamburger.md
 editors:
 contributors:
 featured_image:

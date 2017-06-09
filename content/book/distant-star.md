@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language: Spanish
 authors:
-  - contributor/roberto-bolano.md
+  - author/roberto-bolano.md
 translators:
-  - contributor/chris-andrews.md
+  - author/chris-andrews.md
 editors:
 contributors:
 featured_image:

@@ -9,7 +9,7 @@ subgenre:
   - Stories
 language:
 authors:
-  - contributor/muriel-spark.md
+  - author/muriel-spark.md
 translators:
 editors:
 contributors:

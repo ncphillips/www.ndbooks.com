@@ -9,11 +9,11 @@ subgenre:
   - Stories
 language:
 authors:
-  - contributor/delmore-schwartz.md
+  - author/delmore-schwartz.md
 translators:
 editors:
 contributors:
-  - contributor/irving-howe.md
+  - author/irving-howe.md
 featured_image:
 description:
 editions:

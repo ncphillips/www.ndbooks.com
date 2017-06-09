@@ -9,7 +9,7 @@ subgenre:
   - Stories
 language:
 authors:
-  - contributor/russell-haley.md
+  - author/russell-haley.md
 translators:
 editors:
 contributors:

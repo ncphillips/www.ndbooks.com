@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/teru-miyamoto.md
+  - author/teru-miyamoto.md
 translators:
 editors:
 contributors:

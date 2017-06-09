@@ -9,17 +9,17 @@ subgenre:
   - Stories
 language: Spanish
 authors:
-  - contributor/jorge-luis-borges.md
+  - author/jorge-luis-borges.md
 translators:
-  - contributor/donald-yates.md
+  - author/donald-yates.md
 
-  - contributor/james-irby.md
+  - author/james-irby.md
 editors:
-  - contributor/donald-yates.md
+  - author/donald-yates.md
 
-  - contributor/james-irby.md
+  - author/james-irby.md
 contributors:
-  - contributor/william-gibson.md
+  - author/william-gibson.md
 featured_image:
 description: "The newest edition of Borges groundbreaking trans-genre collection of short stories "
 editions:

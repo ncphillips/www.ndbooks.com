@@ -8,11 +8,11 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/clarice-lispector.md
+  - author/clarice-lispector.md
 translators:
-  - contributor/alison-entrekin.md
+  - author/alison-entrekin.md
 editors:
-  - contributor/benjamin-moser.md
+  - author/benjamin-moser.md
 contributors:
 featured_image:
 description: "Lispector's breakthrough debut novel "

@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/gustaf-sobin.md
+  - author/gustaf-sobin.md
 translators:
 editors:
 contributors:

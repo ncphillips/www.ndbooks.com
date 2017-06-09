@@ -8,11 +8,11 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/leonid-tsypkin.md
+  - author/leonid-tsypkin.md
 translators:
 editors:
 contributors:
-  - contributor/susan-sontag.md
+  - author/susan-sontag.md
 featured_image:
 description: "A lost masterpiece and one of the major achievements of Russian literature in the second half of the 20th century. "
 editions:

@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language: Albanian
 authors:
-  - contributor/luljeta-lleshanaku.md
+  - author/luljeta-lleshanaku.md
 translators:
 editors:
 contributors:

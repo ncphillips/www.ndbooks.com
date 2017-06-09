@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/carmel-bird.md
+  - author/carmel-bird.md
 translators:
 editors:
 contributors:

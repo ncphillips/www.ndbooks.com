@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/helen-dewitt.md
+  - author/helen-dewitt.md
 translators:
 editors:
 contributors:

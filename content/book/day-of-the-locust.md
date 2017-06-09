@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/nathanael-west-n.md
+  - author/nathanael-west-n.md
 translators:
 editors:
 contributors:

@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/stendhal.md
+  - author/stendhal.md
 translators:
 editors:
 contributors:

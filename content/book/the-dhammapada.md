@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language: Pali
 authors:
-  - contributor/buddha.md
+  - author/buddha.md
 translators:
 editors:
 contributors:

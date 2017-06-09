@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/gabriel-josipovici.md
+  - author/gabriel-josipovici.md
 translators:
 editors:
 contributors:

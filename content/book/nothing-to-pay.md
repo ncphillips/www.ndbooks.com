@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/caradoc-evans.md
+  - author/caradoc-evans.md
 translators:
 editors:
 contributors:

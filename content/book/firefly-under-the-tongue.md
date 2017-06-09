@@ -8,9 +8,9 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/coral-bracho.md
+  - author/coral-bracho.md
 translators:
-  - contributor/forrest-gander.md
+  - author/forrest-gander.md
 editors:
 contributors:
 featured_image:

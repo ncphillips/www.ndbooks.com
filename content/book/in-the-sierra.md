@@ -9,12 +9,12 @@ subgenre:
   - Anthology
 language: Portuguese
 authors:
-  - contributor/kenneth-rexroth.md
+  - author/kenneth-rexroth.md
 translators:
 editors:
-  - contributor/kim-stanley-robinson.md
+  - author/kim-stanley-robinson.md
 contributors:
-  - contributor/kim-stanley-robinson.md
+  - author/kim-stanley-robinson.md
 featured_image:
 description:
 editions:

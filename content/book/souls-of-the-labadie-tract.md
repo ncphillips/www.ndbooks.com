@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language: Portuguese
 authors:
-  - contributor/susan-howe.md
+  - author/susan-howe.md
 translators:
 editors:
 contributors:
@@ -46,9 +46,9 @@ genre: Poetry
 subgenre:
 language: Russian
 authors:
-  - contributor/gennady-aygi.md
+  - author/gennady-aygi.md
 translators:
-  - contributor/peter-france.md
+  - author/peter-france.md
 editors:
 contributors:
 featured_image:

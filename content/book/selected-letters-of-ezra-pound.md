@@ -9,7 +9,7 @@ subgenre:
   - Correspondence
 language:
 authors:
-  - contributor/ezra-pound.md
+  - author/ezra-pound.md
 translators:
 editors:
 contributors:

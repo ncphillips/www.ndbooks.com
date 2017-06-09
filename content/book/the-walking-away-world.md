@@ -8,11 +8,11 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/kenneth-patchen.md
+  - author/kenneth-patchen.md
 translators:
 editors:
 contributors:
-  - contributor/jim-woodring.md
+  - author/jim-woodring.md
 featured_image:
 description: "The wonderful picture-poems of Kenneth Patchen, long out of print, are being brought back into one generous volume -- cryptic creatures quipping quirky quotes and all. "
 editions:

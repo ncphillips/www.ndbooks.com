@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/ralf-rothmann.md
+  - author/ralf-rothmann.md
 translators:
-  - contributor/breon-mitchell.md
+  - author/breon-mitchell.md
 editors:
 contributors:
 featured_image:

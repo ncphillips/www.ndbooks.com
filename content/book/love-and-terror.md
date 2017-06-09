@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/william-herrick.md
+  - author/william-herrick.md
 translators:
 editors:
 contributors:

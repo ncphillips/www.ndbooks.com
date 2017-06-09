@@ -8,9 +8,9 @@ genre: Poetry
 subgenre:
 language: Danish
 authors:
-  - contributor/inger-christensen.md
+  - author/inger-christensen.md
 translators:
-  - contributor/susanna-nied.md
+  - author/susanna-nied.md
 editors:
 contributors:
 featured_image:

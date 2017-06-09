@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/choderlos-laclos.md
+  - author/choderlos-laclos.md
 translators:
 editors:
 contributors:

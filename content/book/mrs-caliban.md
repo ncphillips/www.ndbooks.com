@@ -8,11 +8,11 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/rachel-ingalls.md
+  - author/rachel-ingalls.md
 translators:
 editors:
 contributors:
-  - contributor/rivka-galchen.md
+  - author/rivka-galchen.md
 featured_image:
 description: "Now back in print, _Mrs. Caliban_ is “totally unforgettable” (The New York Times Book Review) and “something of a miracle” (The New Yorker) "
 editions:
