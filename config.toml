@@ -25,7 +25,7 @@ enableRobotsTXT = true
   instagram = ""
   youtube = ""
   amp = false
-  [classes]
+  
   body_classes = "sans-serif bg-near-white"
   page_padding_classes = "ph3 ph5-l"
   #headerClasses = "bg-purple mid-gray"
