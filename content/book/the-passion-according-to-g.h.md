@@ -2,43 +2,21 @@
 title: "The Passion According to G.H."
 draft: false
 date: 2012-06-13T20:01:00-04:00
-show_in_forthcoming: true
+publication_date: 2012-06-13T20:01:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/clarice-lispector.md
-translators:
-  - author/idra-novey.md
-editors:
-  - author/benjamin-moser.md
-contributors:
-featured_image: /images/four_lispectors.jpg
-description: "A new translation by Idra Novey "
+author:
+  - contributor/clarice-lispector.md
+translator:
+  - contributor/idra-novey.md
+editor:
+  - contributor/benjamin-moser.md
+featured_image_path: /uploads/1427060437257/four_lispectors.jpg
 editions:
-  - binding: Paperback
-    isbn: 9780811219686
-    publication_date: 2012-06-13T20:01:00-04:00
-    cover_image: /images/The-Passion-According-to-GH.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn: 17.00
-    trim_size:
-    Page_count: 208
-  - binding: Ebook
-    isbn: 9780811220699
-    publication_date: 2012-06-13T20:01:00-04:00
-    cover_image: /images/The-Passion-According-to-GH.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811219686
+  - 9780811220699
 _slug: the-passion-according-to-g.h
 ---
 

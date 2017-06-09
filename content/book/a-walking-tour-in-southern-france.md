@@ -2,43 +2,21 @@
 title: "A Walking Tour In Southern France"
 draft: false
 date: 1992-02-01T06:00:17-04:00
-show_in_forthcoming: false
+publication_date: 1992-02-01T06:00:17-04:00
 subtitle:
-genre: Nonfiction
+genre: nonfiction
 subgenre:
-  - Study
+  - study
 language:
-authors:
-  - author/ezra-pound.md
-translators:
-editors:
-  - author/richard-sieburth.md
-contributors:
-featured_image:
-description:
+author:
+  - contributor/ezra-pound.md
+translator:
+editor:
+  - contributor/richard-sieburth.md
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811218252
-    publication_date: 1992-02-01T06:00:17-04:00
-    cover_image: /images/A_Walking_Tour_In_Southern_France.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size: 6x9
-    Page_count:
-  - binding: Clothbound
-    isbn: 9780811212236
-    publication_date: 1992-02-01T06:00:17-04:00
-    cover_image: /images/A_Walking_Tour_In_Southern_France.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 22.95
-    price_cn:
-    trim_size: 6x9
-    Page_count: 120
+  - 9780811218252
+  - 9780811212236
 _slug: a-walking-tour-in-southern-france
 ---
 

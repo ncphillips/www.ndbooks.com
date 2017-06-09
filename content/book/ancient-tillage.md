@@ -2,42 +2,20 @@
 title: "Ancient Tillage"
 draft: false
 date: 2016-07-11T14:54:00-04:00
-show_in_forthcoming: true
+publication_date: 2017-02-01T00:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: Portuguese
-authors:
-  - author/raduan-nassar.md
-translators:
-  - author/k-c-s-sotelino.md
-editors:
-contributors:
-featured_image:
-description: "A Brazilian master novelist in English at last "
+language: portuguese
+author:
+  - contributor/raduan-nassar.md
+translator:
+  - contributor/k-c-s-sotelino.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811226561
-    publication_date: 2017-02-01T00:00:00-04:00
-    cover_image: /images/9780811226561.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn: 19.95
-    trim_size: 5 x 7"
-    Page_count: 184
-  - binding: Ebook
-    isbn: 9780811226578
-    publication_date: 2017-02-01T00:00:00-04:00
-    cover_image_path:
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811226561
+  - 9780811226578
 _slug: ancient-tillage
 ---
 

@@ -2,41 +2,19 @@
 title: "Goodbye to Berlin"
 draft: false
 date: 2012-09-27T17:37:36-04:00
-show_in_forthcoming: false
+publication_date: 2012-09-27T17:37:36-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/christopher-isherwood.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "A classic of 20th-century fiction, _Goodbye to Berlin_ inspired the Oscar-winning film _Cabaret_ "
+author:
+  - contributor/christopher-isherwood.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811220248
-    publication_date: 2012-09-27T17:37:36-04:00
-    cover_image: /images/Goodbye-to-Berlin.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn: 16.00
-    trim_size:
-    Page_count: 224
-  - binding: Ebook
-    isbn: 9780811220255
-    publication_date: 2012-09-27T17:37:36-04:00
-    cover_image: /images/Goodbye-to-Berlin.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811220248
+  - 9780811220255
 _slug: goodbye-to-berlin
 ---
 

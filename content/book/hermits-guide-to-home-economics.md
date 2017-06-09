@@ -2,30 +2,18 @@
 title: "Hermit's Guide to Home Economics"
 draft: false
 date: 2015-04-07T15:11:00-04:00
-show_in_forthcoming: true
+publication_date: 2015-04-07T14:52:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/robert-lax.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "Poetry Pamphlet 20 "
+author:
+  - contributor/robert-lax.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811223294
-    publication_date: 2015-04-07T14:52:00-04:00
-    cover_image: /images/Hermits_guide.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811223294
 _slug: hermits-guide-to-home-economics
 ---
 

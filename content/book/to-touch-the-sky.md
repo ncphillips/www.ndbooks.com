@@ -2,30 +2,19 @@
 title: "To Touch The Sky"
 draft: false
 date: 1999-02-01T06:00:09-04:00
-show_in_forthcoming: false
+publication_date: 1999-02-01T06:00:09-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-translators:
-  - author/willis-barnstone.md
-editors:
-contributors:
-featured_image:
-description:
+author:
+
+translator:
+  - contributor/willis-barnstone.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811213967
-    publication_date: 1999-02-01T06:00:09-04:00
-    cover_image: /images/To_Touch_The_Sky.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn:
-    trim_size:
-    Page_count: 240
+  - 9780811213967
 _slug: to-touch-the-sky
 ---
 

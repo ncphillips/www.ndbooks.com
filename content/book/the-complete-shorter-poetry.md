@@ -2,30 +2,18 @@
 title: "Anew"
 draft: false
 date: 2001-01-01T06:00:57-04:00
-show_in_forthcoming: false
+publication_date: 2001-01-01T06:00:57-04:00
 subtitle: "Complete Shorter Poetry"
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/louis-zukofsky.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "A gathering of all of Zukofsky's poems outside of _A_––poems that are _absolute clarification, crystal cabinets full of air and angels_ (Kenneth Rexroth). "
+author:
+  - contributor/louis-zukofsky.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811218726
-    publication_date: 2001-01-01T06:00:57-04:00
-    cover_image: /images/Anew.JPG
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 18.95
-    price_cn: 24.00
-    trim_size: 6x9
-    Page_count: 384
+  - 9780811218726
 _slug: the-complete-shorter-poetry
 ---
 

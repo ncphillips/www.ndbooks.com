@@ -2,31 +2,19 @@
 title: "Pluriverse"
 draft: false
 date: 2009-01-01T06:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2009-01-01T06:00:00-04:00
 subtitle: "New and Selected Poems"
-genre: Poetry
+genre: poetry
 subgenre:
-language: Spanish
-authors:
-  - author/ernesto-cardenal.md
-translators:
-editors:
-  - author/jonathan-cohen.md
-contributors:
-featured_image:
-description: "The most comprehensive selection of poems in English by Latin America’s legendary poet-activist, Ernesto Cardenal. "
+language: spanish
+author:
+  - contributor/ernesto-cardenal.md
+translator:
+editor:
+  - contributor/jonathan-cohen.md
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811218092
-    publication_date: 2009-01-01T06:00:00-04:00
-    cover_image: /images/Pluriverse.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 17.95
-    price_cn: 20.00
-    trim_size: 6x9
-    Page_count: 272
+  - 9780811218092
 _slug: pluriverse
 ---
 

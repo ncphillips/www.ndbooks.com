@@ -2,30 +2,18 @@
 title: "Vieux Carre"
 draft: false
 date: 2000-10-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2000-10-01T05:00:00-04:00
 subtitle:
-genre: Theater
+genre: theater
 subgenre:
-language: Portuguese
-authors:
-  - author/tennessee-williams.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+language: portuguese
+author:
+  - contributor/tennessee-williams.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811214605
-    publication_date: 2000-10-01T05:00:00-04:00
-    cover_image: /images/193884%20Vieux%20Carre%20cvr%20rev.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 11.95
-    price_cn: 16.00
-    trim_size: 5x8
-    Page_count: 116
+  - 9780811214605
 _slug: vieux-carre
 ---
 

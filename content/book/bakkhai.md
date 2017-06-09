@@ -2,41 +2,19 @@
 title: "Bakkhai"
 draft: false
 date: 2017-03-10T19:40:00-04:00
-show_in_forthcoming: true
+publication_date: 2017-12-21T05:00:00-04:00
 subtitle:
-genre: Theater
+genre: theater
 subgenre:
-language: Greek
-authors:
-  - author/anne-carson.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "A stunning new translation by the poet and classicist Anne Carson, first performed in 2015 at the Almeida Theatre in London "
+language: greek
+author:
+  - contributor/anne-carson.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Clothbound
-    isbn: 9780811227100
-    publication_date: 2017-12-21T05:00:00-04:00
-    cover_image: /images/9780811227100.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 16.95
-    price_cn: 22.95
-    trim_size: 5x8
-    Page_count: 96
-  - binding: Ebook
-    isbn: 9780811227117
-    publication_date: 2017-12-21T05:00:00-04:00
-    cover_image_path:
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811227100
+  - 9780811227117
 _slug: bakkhai
 ---
 

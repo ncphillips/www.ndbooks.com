@@ -2,31 +2,19 @@
 title: "Active Boundaries"
 draft: false
 date: 2008-08-01T05:00:22-04:00
-show_in_forthcoming: false
+publication_date: 2008-08-01T05:00:22-04:00
 subtitle:
-genre: Nonfiction
+genre: nonfiction
 subgenre:
-  - Essay
+  - essay
 language:
-authors:
-  - author/michael-palmer.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "A poet's prosebook, a hymn to the art of the word, here is Palmer's first collection of essays and talks "
+author:
+  - contributor/michael-palmer.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811217545
-    publication_date: 2008-08-01T05:00:22-04:00
-    cover_image: /images/Active_Boundaries.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 19.95
-    price_cn: 22.00
-    trim_size: 5x8
-    Page_count: 224
+  - 9780811217545
 _slug: active-boundaries
 ---
 

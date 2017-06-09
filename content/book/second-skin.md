@@ -2,42 +2,19 @@
 title: "Second Skin"
 draft: false
 date: 2005-11-01T06:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2005-11-01T06:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/john-hawkes.md
-translators:
-editors:
-contributors:
-  - author/jeffrey-eugenides.md
-featured_image:
-description:
+author:
+  - contributor/john-hawkes.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811216449
-    publication_date: 2005-11-01T06:00:00-04:00
-    cover_image: /images/Second_Skin.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn: 21.00
-    trim_size: 5x8
-    Page_count: 240
-  - binding: Ebook
-    isbn: 9780811222600
-    publication_date: 2005-11-01T06:00:00-04:00
-    cover_image: /images/Second_Skin.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count: 240
+  - 9780811216449
+  - 9780811222600
 _slug: second-skin
 ---
 

@@ -2,46 +2,21 @@
 title: "Once and For All: The Best of Delmore Schwartz"
 draft: false
 date: 2015-10-15T18:21:00-04:00
-show_in_forthcoming: true
+publication_date: 2016-05-03T04:00:00-04:00
 subtitle:
 genre:
 subgenre:
-  - Selections
+  - selections
 language:
-authors:
-  - author/delmore-schwartz.md
-translators:
-editors:
-  - author/craig-morgan-teicher.md
-contributors:
-  - author/craig-morgan-teicher.md
-
-  - author/john-ashbery.md
-featured_image:
-description: "The publication of this book restores a missing chapter in the history of twentieth-century American literature "
+author:
+  - contributor/delmore-schwartz.md
+translator:
+editor:
+  - contributor/craig-morgan-teicher.md
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811224321
-    publication_date: 2016-05-03T04:00:00-04:00
-    cover_image: /images/schwartz_once_and_for_all_cover_final.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 17.95
-    price_cn: 23.50
-    trim_size: 5x8
-    Page_count: 280
-  - binding: Ebook
-    isbn: 9780811224338
-    publication_date: 2016-05-03T04:00:00-04:00
-    cover_image_path:
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811224321
+  - 9780811224338
 _slug: once-and-for-all-the-best-of-delmore-schwartz
 ---
 

@@ -2,42 +2,20 @@
 title: "Moral Tales"
 draft: false
 date: 1985-05-01T05:00:49-04:00
-show_in_forthcoming: false
+publication_date: 1985-05-01T05:00:49-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/jules-laforgue.md
-translators:
-  - author/william-jay-smith.md
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/jules-laforgue.md
+translator:
+  - contributor/william-jay-smith.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811209434
-    publication_date: 1985-05-01T05:00:49-04:00
-    cover_image: /images/Moral_Tales.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn:
-    trim_size:
-    Page_count:
-  - binding: Clothbound
-    isbn: 9780811209427
-    publication_date: 1985-05-01T05:00:49-04:00
-    cover_image: /images/Moral_Tales.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811209434
+  - 9780811209427
 _slug: moral-tales
 ---
 

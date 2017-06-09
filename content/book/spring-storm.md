@@ -2,30 +2,18 @@
 title: "Spring Storm"
 draft: false
 date: 1999-12-01T06:00:38-04:00
-show_in_forthcoming: false
+publication_date: 1999-12-01T06:00:38-04:00
 subtitle:
-genre: Theater
+genre: theater
 subgenre:
 language:
-authors:
-  - author/tennessee-williams.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/tennessee-williams.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811214223
-    publication_date: 1999-12-01T06:00:38-04:00
-    cover_image: /images/Spring_Storm.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 12.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 192
+  - 9780811214223
 _slug: spring-storm
 ---
 

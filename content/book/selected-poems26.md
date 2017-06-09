@@ -2,41 +2,19 @@
 title: "Selected Poems of René Char"
 draft: false
 date: 1992-04-01T06:00:16-04:00
-show_in_forthcoming: false
+publication_date: 1992-04-01T06:00:16-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/rene-char.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/rene-char.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811211925
-    publication_date: 1992-04-01T06:00:16-04:00
-    cover_image: /images/Selected_Poems._Rene_Char_.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 13.95
-    price_cn:
-    trim_size:
-    Page_count: 172
-  - binding: Clothbound
-    isbn: 9780811211918
-    publication_date: 1992-04-01T06:00:16-04:00
-    cover_image: /images/Selected_Poems._Rene_Char_.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count: 160
+  - 9780811211925
+  - 9780811211918
 _slug: selected-poems26
 ---
 

@@ -2,43 +2,21 @@
 title: "Near to the Wild Heart"
 draft: false
 date: 2012-06-13T20:04:00-04:00
-show_in_forthcoming: false
+publication_date: 2012-06-13T20:04:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/clarice-lispector.md
-translators:
-  - author/alison-entrekin.md
-editors:
-  - author/benjamin-moser.md
-contributors:
-featured_image:
-description: "Lispector's breakthrough debut novel "
+author:
+  - contributor/clarice-lispector.md
+translator:
+  - contributor/alison-entrekin.md
+editor:
+  - contributor/benjamin-moser.md
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811220026
-    publication_date: 2012-06-13T20:04:00-04:00
-    cover_image: /images/Near-to-the-Wild-Heart.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn: 17.00
-    trim_size:
-    Page_count: 192
-  - binding: Ebook
-    isbn: 9780811220712
-    publication_date: 2012-06-13T20:04:00-04:00
-    cover_image: /images/Near-to-the-Wild-Heart.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811220026
+  - 9780811220712
 _slug: near-to-the-wild-heart1
 ---
 

@@ -2,41 +2,19 @@
 title: "William Everson: The Life Of Brother Antoninus"
 draft: false
 date: 1988-08-01T05:00:41-04:00
-show_in_forthcoming: false
+publication_date: 1988-08-01T05:00:41-04:00
 subtitle:
-genre: Nonfiction
+genre: nonfiction
 subgenre:
 language:
-authors:
-  - author/lee-bartlett.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/lee-bartlett.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811218238
-    publication_date: 1988-08-01T05:00:41-04:00
-    cover_image: /images/William_Everson.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size: 5x8
-    Page_count:
-  - binding: Clothbound
-    isbn: 9780811210607
-    publication_date: 1988-08-01T05:00:41-04:00
-    cover_image: /images/William_Everson.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 25.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 272
+  - 9780811218238
+  - 9780811210607
 _slug: william-everson-the-life-of-brother-antoninus
 ---
 

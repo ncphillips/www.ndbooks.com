@@ -2,43 +2,21 @@
 title: "The Iraqi Nights"
 draft: false
 date: 2014-05-27T20:56:00-04:00
-show_in_forthcoming: false
+publication_date: 2014-05-27T20:56:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
-  - Anthology
-language: Arabic
-authors:
-  - author/dunya-mikhail.md
-translators:
-  - author/kareem-james-abu-zeid.md
-editors:
-contributors:
-featured_image:
-description: "A stunning new collection by one of Iraq's brightest poetic voices "
+  - anthology
+language: arabic
+author:
+  - contributor/dunya-mikhail.md
+translator:
+  - contributor/kareem-james-abu-zeid.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811222860
-    publication_date: 2014-05-27T20:56:00-04:00
-    cover_image: /images/Iraqi_Nights.jpg
-    forsale: true
-    saleprice: 10.00
-    shipping_charge:
-    price_us: 15.95
-    price_cn: 17.00
-    trim_size:
-    Page_count: 112
-  - binding: Ebook
-    isbn: 9780811222877
-    publication_date: 2014-05-27T20:56:00-04:00
-    cover_image: /images/Iraqi_Nights.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811222860
+  - 9780811222877
 _slug: the-iraqi-nights
 ---
 

@@ -2,41 +2,19 @@
 title: "The Novel"
 draft: false
 date: 1990-11-01T06:00:47-04:00
-show_in_forthcoming: false
+publication_date: 1990-11-01T06:00:47-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/paul-hoover.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/paul-hoover.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811211536
-    publication_date: 1990-11-01T06:00:47-04:00
-    cover_image: /images/The_Novel.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 9.95
-    price_cn:
-    trim_size:
-    Page_count:
-  - binding: Clothbound
-    isbn: 9780811211482
-    publication_date: 1990-11-01T06:00:47-04:00
-    cover_image: /images/The_Novel.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 19.95
-    price_cn:
-    trim_size:
-    Page_count: 80
+  - 9780811211536
+  - 9780811211482
 _slug: the-novel
 ---
 

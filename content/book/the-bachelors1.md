@@ -2,52 +2,20 @@
 title: "The Bachelors"
 draft: false
 date: 2014-05-27T15:11:00-04:00
-show_in_forthcoming: true
+publication_date: 2014-05-27T15:11:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/muriel-spark.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "Spark’s very British bachelors come in every stripe "
+author:
+  - contributor/muriel-spark.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811222983
-    publication_date: 2014-05-27T15:11:00-04:00
-    cover_image: /images/Bachelors.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn: 16.00
-    trim_size:
-    Page_count: 144
-  - binding: Ebook
-    isbn: 9780811221344
-    publication_date: 2014-05-27T15:11:00-04:00
-    cover_image_path:
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
-  - binding: Paperback
-    isbn: 9780811214247
-    publication_date: 2014-05-27T15:11:00-04:00
-    cover_image: /images/The_Bachelors.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 12.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 192
+  - 9780811222983
+  - 9780811221344
+  - 9780811214247
 _slug: the-bachelors1
 ---
 

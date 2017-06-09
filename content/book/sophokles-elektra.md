@@ -2,29 +2,18 @@
 title: "Sophokles Elektra"
 draft: false
 date: 1990-06-01T05:00:41-04:00
-show_in_forthcoming: false
+publication_date: 1990-06-01T05:00:41-04:00
 subtitle:
-genre: Theater
+genre: theater
 subgenre:
 language:
-authors:
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811211147
-    publication_date: 1990-06-01T05:00:41-04:00
-    cover_image: /images/SOPHOKLES_Elektra_.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811211147
 _slug: sophokles-elektra
 ---
 

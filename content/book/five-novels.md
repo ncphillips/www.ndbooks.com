@@ -2,30 +2,18 @@
 title: "Five Novels"
 draft: false
 date: 1981-05-01T05:00:56-04:00
-show_in_forthcoming: false
+publication_date: 1981-05-01T05:00:56-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/ronald-firbank.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/ronald-firbank.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811207997
-    publication_date: 1981-05-01T05:00:56-04:00
-    cover_image: /images/Five_Novels.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 21.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811207997
 _slug: five-novels
 ---
 

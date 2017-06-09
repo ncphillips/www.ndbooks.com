@@ -2,38 +2,23 @@
 title: "Labyrinths"
 draft: false
 date: 2007-05-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2007-05-01T05:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-  - Stories
-language: Spanish
-authors:
-  - author/jorge-luis-borges.md
-translators:
-  - author/donald-yates.md
-
-  - author/james-irby.md
-editors:
-  - author/donald-yates.md
-
-  - author/james-irby.md
-contributors:
-  - author/william-gibson.md
-featured_image:
-description: "The newest edition of Borges groundbreaking trans-genre collection of short stories "
+  - stories
+language: spanish
+author:
+  - contributor/jorge-luis-borges.md
+translator:
+  - contributor/donald-yates.md
+  - contributor/james-irby.md
+editor:
+  - contributor/donald-yates.md
+  - contributor/james-irby.md
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811216999
-    publication_date: 2007-05-01T05:00:00-04:00
-    cover_image: /images/Labyrinths.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn: 17.95
-    trim_size: 5x8
-    Page_count: 288
+  - 9780811216999
 _slug: labyrinths
 ---
 

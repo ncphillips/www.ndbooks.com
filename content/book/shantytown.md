@@ -2,42 +2,20 @@
 title: "Shantytown"
 draft: false
 date: 2013-11-20T17:36:00-04:00
-show_in_forthcoming: false
+publication_date: 2013-11-20T17:36:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: Spanish
-authors:
-  - author/cesar-aira.md
-translators:
-  - author/chris-andrews.md
-editors:
-contributors:
-featured_image:
-description: "At last, a noir novel from the Argentine master of suspense and surprises "
+language: spanish
+author:
+  - contributor/cesar-aira.md
+translator:
+  - contributor/chris-andrews.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811219112
-    publication_date: 2013-11-20T17:36:00-04:00
-    cover_image: /images/Shantytown.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 13.95
-    price_cn: 15.00
-    trim_size:
-    Page_count: 128
-  - binding: Ebook
-    isbn: 9780811221580
-    publication_date: 2013-11-20T17:36:00-04:00
-    cover_image: /images/Shantytown.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 13.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811219112
+  - 9780811221580
 _slug: shantytown
 ---
 

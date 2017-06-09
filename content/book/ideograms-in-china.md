@@ -2,32 +2,19 @@
 title: "Ideograms in China"
 draft: false
 date: 2002-02-01T06:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2002-02-01T06:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: Chinese
-authors:
-  - author/henri-michaux.md
-translators:
-  - author/gustaf-sobin.md
-editors:
-contributors:
-  - author/richard-sieburth.md
-featured_image:
-description:
+language: chinese
+author:
+  - contributor/henri-michaux.md
+translator:
+  - contributor/gustaf-sobin.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811214902
-    publication_date: 2002-02-01T06:00:00-04:00
-    cover_image: /images/Ideograms_In_China.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 9.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 64
+  - 9780811214902
 _slug: ideograms-in-china
 ---
 

@@ -2,41 +2,19 @@
 title: "Winter Poems Along The Rio Grande"
 draft: false
 date: 2004-04-01T06:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2004-04-01T06:00:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/jimmy-baca.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/jimmy-baca.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811215756
-    publication_date: 2004-04-01T06:00:00-04:00
-    cover_image: /images/Winter_Poems_Along_The_Rio_Grande.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 12.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 144
-  - binding: Ebook
-    isbn: 9780811223409
-    publication_date: 2004-04-01T06:00:00-04:00
-    cover_image: /images/Winter_Poems_Along_The_Rio_Grande.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count: 144
+  - 9780811215756
+  - 9780811223409
 _slug: winter-poems-along-the-rio-grande
 ---
 

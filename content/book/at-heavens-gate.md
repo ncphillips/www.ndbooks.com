@@ -2,30 +2,18 @@
 title: "At Heaven’s Gate"
 draft: false
 date: 1985-03-01T06:00:20-04:00
-show_in_forthcoming: false
+publication_date: 1985-03-01T06:00:20-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/robert-warren.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/robert-warren.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811209335
-    publication_date: 1985-03-01T06:00:20-04:00
-    cover_image: /images/At_Heavens_Gate_2.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811209335
 _slug: at-heavens-gate
 ---
 

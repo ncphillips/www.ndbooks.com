@@ -2,43 +2,20 @@
 title: "Living Space"
 draft: false
 date: 2001-01-01T06:00:46-04:00
-show_in_forthcoming: false
+publication_date: 2001-01-01T06:00:46-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/peter-glassgold.md
-translators:
-  - author/peter-glassgold.md
-editors:
-contributors:
-  - author/peter-glassgold.md
-featured_image:
-description:
+author:
+  - contributor/peter-glassgold.md
+translator:
+  - contributor/peter-glassgold.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811207478
-    publication_date: 2001-01-01T06:00:46-04:00
-    cover_image: /images/Living_Space.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
-  - binding: Clothbound
-    isbn: 9780811207461
-    publication_date: 2001-01-01T06:00:46-04:00
-    cover_image: /images/Living_Space.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811207478
+  - 9780811207461
 _slug: living-space
 ---
 

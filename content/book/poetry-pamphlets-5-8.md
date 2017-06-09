@@ -2,36 +2,21 @@
 title: "Poetry Pamphlets 5-8"
 draft: false
 date: 2013-07-10T19:19:00-04:00
-show_in_forthcoming: false
+publication_date: 2013-07-10T19:19:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/nathaniel-tarn.md
-
-  - author/hilda-doolittle-h.-d.md
-
-  - author/alejandra-pizarnik.md
-
-  - author/forrest-gander.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "The second set of our revived poetry pamphlets "
+author:
+  - contributor/nathaniel-tarn.md
+  - contributor/hilda-doolittle-h.-d.md
+  - contributor/alejandra-pizarnik.md
+  - contributor/forrest-gander.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811221221
-    publication_date: 2013-07-10T19:19:00-04:00
-    cover_image: /images/Poetry_Pamphlets_5-8.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 35.00
-    price_cn: 37.00
-    trim_size:
-    Page_count: 196
+  - 9780811221221
 _slug: poetry-pamphlets-5-8
 ---
 

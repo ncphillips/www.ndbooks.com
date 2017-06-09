@@ -2,41 +2,19 @@
 title: "Light Up the Cave"
 draft: false
 date: 1982-01-01T06:00:52-04:00
-show_in_forthcoming: false
+publication_date: 1982-01-01T06:00:52-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/denise-levertov.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/denise-levertov.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811208141
-    publication_date: 1982-01-01T06:00:52-04:00
-    cover_image: /images/Light_Up_The_Cave.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
-  - binding: Clothbound
-    isbn: 9780811208130
-    publication_date: 1982-01-01T06:00:52-04:00
-    cover_image: /images/Light_Up_The_Cave.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 8.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811208141
+  - 9780811208130
 _slug: light-up-the-cave
 ---
 

@@ -2,41 +2,19 @@
 title: "All the Conspirators"
 draft: false
 date: 2015-10-15T17:51:00-04:00
-show_in_forthcoming: true
+publication_date: 2016-01-11T05:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/christopher-isherwood.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "A fraught portrait of the post-WWI generation struggling to break free from the rigid social system that sustained the British Empire "
+author:
+  - contributor/christopher-isherwood.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811225120
-    publication_date: 2016-01-11T05:00:00-04:00
-    cover_image: /images/ALL%20THE%20CONSPIRATORS.tif
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn: 20.95
-    trim_size: 5x8
-    Page_count: 256
-  - binding: Ebook
-    isbn: 9780811222617
-    publication_date: 2016-01-11T05:00:00-04:00
-    cover_image_path:
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811225120
+  - 9780811222617
 _slug: all-the-conspirators
 ---
 

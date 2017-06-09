@@ -2,42 +2,20 @@
 title: "Facing the Bridge"
 draft: false
 date: 2007-05-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2007-05-01T05:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-  - Stories
-language: Japanese
-authors:
-  - author/yoko-tawada.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "From Japan to Vietnam to Amsterdam to the Canary Islands, these three new tales by master storyteller Yoko Tawada float between cultures, identities, and the dreamwork of the imagination "
+  - stories
+language: japanese
+author:
+  - contributor/yoko-tawada.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811216906
-    publication_date: 2007-05-01T05:00:00-04:00
-    cover_image: /images/Facing_The_Bridge.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn:
-    trim_size: 5x7
-    Page_count: 192
-  - binding: Ebook
-    isbn: 9780811223492
-    publication_date: 2007-05-01T05:00:00-04:00
-    cover_image: /images/Facing_The_Bridge.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count: 192
+  - 9780811216906
+  - 9780811223492
 _slug: facing-the-bridge
 ---
 

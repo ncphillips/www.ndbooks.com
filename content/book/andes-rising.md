@@ -2,30 +2,18 @@
 title: "Andes Rising"
 draft: false
 date: 1999-05-01T05:00:19-04:00
-show_in_forthcoming: false
+publication_date: 1999-05-01T05:00:19-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/james-munves.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/james-munves.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Clothbound
-    isbn: 9780811214070
-    publication_date: 1999-05-01T05:00:19-04:00
-    cover_image: /images/Andes_Rising.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 21.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811214070
 _slug: andes-rising
 ---
 

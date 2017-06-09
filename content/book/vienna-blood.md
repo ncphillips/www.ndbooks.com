@@ -2,30 +2,18 @@
 title: "Vienna Blood"
 draft: false
 date: 1980-05-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 1980-05-01T05:00:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/jerome-rothenberg.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/jerome-rothenberg.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811207591
-    publication_date: 1980-05-01T05:00:00-04:00
-    cover_image: /images/Vienna_Blood.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 4.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811207591
 _slug: vienna-blood
 ---
 

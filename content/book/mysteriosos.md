@@ -2,30 +2,18 @@
 title: "Mysteriosos"
 draft: false
 date: 2010-04-01T05:00:35-04:00
-show_in_forthcoming: false
+publication_date: 2010-04-01T05:00:35-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/michael-mcclure.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "A spiritual odyssey by preeminent Beat Generation poet Michael McClure. "
+author:
+  - contributor/michael-mcclure.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811218429
-    publication_date: 2010-04-01T05:00:35-04:00
-    cover_image: /images/Mysteriosos.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn: 20.00
-    trim_size: 6x9
-    Page_count: 144
+  - 9780811218429
 _slug: mysteriosos
 ---
 

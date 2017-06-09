@@ -2,33 +2,20 @@
 title: "Love and Other Stories"
 draft: false
 date: 2005-06-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2005-06-01T05:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-  - Stories
-language: Hungarian
-authors:
-  - author/tibor-dery.md
-translators:
-  - author/george-szirtes.md
-editors:
-contributors:
-  - author/tibor-dery.md
-featured_image:
-description:
+  - stories
+language: hungarian
+author:
+  - contributor/tibor-dery.md
+translator:
+  - contributor/george-szirtes.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811216258
-    publication_date: 2005-06-01T05:00:00-04:00
-    cover_image: /images/Love_And_Other_Stories.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 17.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 254
+  - 9780811216258
 _slug: love-and-other-stories
 ---
 

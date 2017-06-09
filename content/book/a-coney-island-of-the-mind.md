@@ -2,41 +2,19 @@
 title: "A Coney Island of The Mind (Special Edition)"
 draft: false
 date: 2001-01-01T06:00:12-04:00
-show_in_forthcoming: false
+publication_date: 2001-01-01T06:00:12-04:00
 subtitle: "50th Anniversary Edition"
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/lawrence-ferlinghetti.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "A million copies in print — translated into over a dozen languages — one of the best-selling and most popular books of poetry ever published, now available in a new hardcover edition containing a CD of the author reading his work. "
+author:
+  - contributor/lawrence-ferlinghetti.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811200417
-    publication_date: 2001-01-01T06:00:12-04:00
-    cover_image: /images/A_Coney_Island_of_the_Mind.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 9.95
-    price_cn:
-    trim_size: 6x8
-    Page_count: 96
-  - binding: Clothbound
-    isbn: 9780811217477
-    publication_date: 2001-01-01T06:00:12-04:00
-    cover_image: /images/A_Coney_Island_of_the_Mind.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 23.95
-    price_cn:
-    trim_size: 6x8
-    Page_count: 96
+  - 9780811200417
+  - 9780811217477
 _slug: a-coney-island-of-the-mind
 ---
 

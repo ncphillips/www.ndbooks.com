@@ -2,30 +2,18 @@
 title: "Reluctant Gravities"
 draft: false
 date: 1999-10-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 1999-10-01T05:00:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/rosmarie-waldrop.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/rosmarie-waldrop.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811214285
-    publication_date: 1999-10-01T05:00:00-04:00
-    cover_image: /images/Reluctant_Gravities.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 12.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 96
+  - 9780811214285
 _slug: reluctant-gravities
 ---
 

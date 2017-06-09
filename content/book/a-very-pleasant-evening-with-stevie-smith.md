@@ -2,31 +2,19 @@
 title: "A Very Pleasant Evening with Stevie Smith"
 draft: false
 date: 1995-06-01T05:00:22-04:00
-show_in_forthcoming: false
+publication_date: 1995-06-01T05:00:22-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-  - Stories
+  - stories
 language:
-authors:
-  - author/stevie-smith-s.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/stevie-smith-s.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811212953
-    publication_date: 1995-06-01T05:00:22-04:00
-    cover_image: /images/A_Very_Pleasant_Evening_With_Stevie_Smith.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 8.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 96
+  - 9780811212953
 _slug: a-very-pleasant-evening-with-stevie-smith
 ---
 

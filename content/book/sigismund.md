@@ -2,41 +2,19 @@
 title: "Sigismund"
 draft: false
 date: 1985-02-01T06:00:14-04:00
-show_in_forthcoming: false
+publication_date: 1985-02-01T06:00:14-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/lars-gustafsson.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/lars-gustafsson.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811209243
-    publication_date: 1985-02-01T06:00:14-04:00
-    cover_image: /images/Sigismund.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 17.95
-    price_cn:
-    trim_size:
-    Page_count:
-  - binding: Clothbound
-    isbn: 9780811209236
-    publication_date: 1985-02-01T06:00:14-04:00
-    cover_image: /images/Sigismund.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 16.50
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811209243
+  - 9780811209236
 _slug: sigismund
 ---
 

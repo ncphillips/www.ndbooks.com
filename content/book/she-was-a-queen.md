@@ -2,30 +2,18 @@
 title: "She Was a Queen"
 draft: false
 date: 1991-06-01T05:00:50-04:00
-show_in_forthcoming: false
+publication_date: 1991-06-01T05:00:50-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/maurice-collis.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/maurice-collis.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811211697
-    publication_date: 1991-06-01T05:00:50-04:00
-    cover_image: /images/She_Was_A_Queen.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 12.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811211697
 _slug: she-was-a-queen
 ---
 

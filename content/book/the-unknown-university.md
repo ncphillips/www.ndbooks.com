@@ -2,42 +2,20 @@
 title: "The Unknown University"
 draft: false
 date: 2013-07-11T15:42:00-04:00
-show_in_forthcoming: false
+publication_date: 2013-07-11T15:42:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
-language: Spanish
-authors:
-  - author/roberto-bolano.md
-translators:
-  - author/laura-healy.md
-editors:
-contributors:
-featured_image:
-description: "A deluxe edition of Bolaño’s complete poetry "
+language: spanish
+author:
+  - contributor/roberto-bolano.md
+translator:
+  - contributor/laura-healy.md
+editor:
+featured_image_path:
 editions:
-  - binding: Clothbound
-    isbn: 9780811219280
-    publication_date: 2013-07-11T15:42:00-04:00
-    cover_image: /images/Unknown_University.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 39.95
-    price_cn: 42.00
-    trim_size:
-    Page_count: 772
-  - binding: Ebook
-    isbn: 9780811222532
-    publication_date: 2013-07-11T15:42:00-04:00
-    cover_image: /images/Unknown_University.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count: 772
+  - 9780811219280
+  - 9780811222532
 _slug: the-unknown-university
 ---
 

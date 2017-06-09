@@ -2,30 +2,18 @@
 title: "Selected Poems of Charles Tomlinson"
 draft: false
 date: 1997-11-01T06:00:11-04:00
-show_in_forthcoming: false
+publication_date: 1997-11-01T06:00:11-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/charles-tomlinson.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/charles-tomlinson.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811213691
-    publication_date: 1997-11-01T06:00:11-04:00
-    cover_image: /images/Selected_Poems._Charles_Tomlinson_.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 13.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 240
+  - 9780811213691
 _slug: selected-poems-1955-1997
 ---
 

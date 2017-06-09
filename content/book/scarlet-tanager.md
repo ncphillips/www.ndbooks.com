@@ -2,30 +2,18 @@
 title: "Scarlet Tanager"
 draft: false
 date: 2005-06-01T05:00:14-04:00
-show_in_forthcoming: false
+publication_date: 2005-06-01T05:00:14-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/bernadette-mayer.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/bernadette-mayer.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811215824
-    publication_date: 2005-06-01T05:00:14-04:00
-    cover_image: /images/Scarlet_Tanager.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn: 21.00
-    trim_size: 6x9
-    Page_count: 128
+  - 9780811215824
 _slug: scarlet-tanager
 ---
 

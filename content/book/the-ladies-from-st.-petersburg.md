@@ -2,41 +2,19 @@
 title: "The Ladies from St. Petersburg"
 draft: false
 date: 2000-05-01T05:00:15-04:00
-show_in_forthcoming: false
+publication_date: 2000-05-01T05:00:15-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/nina-berberova.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/nina-berberova.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811214360
-    publication_date: 2000-05-01T05:00:15-04:00
-    cover_image: /images/The_Ladies_From_St._Petersburg.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 12.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 144
-  - binding: Clothbound
-    isbn: 9780811213776
-    publication_date: 2000-05-01T05:00:15-04:00
-    cover_image: /images/The_Ladies_From_St._Petersburg.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 19.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 144
+  - 9780811214360
+  - 9780811213776
 _slug: the-ladies-from-st.-petersburg
 ---
 

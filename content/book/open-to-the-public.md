@@ -2,31 +2,19 @@
 title: "Open to the Public"
 draft: false
 date: 1997-09-01T05:00:20-04:00
-show_in_forthcoming: false
+publication_date: 1997-09-01T05:00:20-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-  - Stories
+  - stories
 language:
-authors:
-  - author/muriel-spark.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/muriel-spark.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Clothbound
-    isbn: 9780811213677
-    publication_date: 1997-09-01T05:00:20-04:00
-    cover_image: /images/Opento_The_Public.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811213677
 _slug: open-to-the-public
 ---
 

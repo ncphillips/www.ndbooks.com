@@ -2,41 +2,19 @@
 title: "The Collected Poems: Volume II, 1939-1962"
 draft: false
 date: 1988-06-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 1988-06-01T05:00:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/william-carlos-williams.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/william-carlos-williams.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811211888
-    publication_date: 1988-06-01T05:00:00-04:00
-    cover_image: /images/The_Collected_Poems_Of_WCW_Vol_II_.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 21.95
-    price_cn:
-    trim_size:
-    Page_count:
-  - binding: Clothbound
-    isbn: 9780811210638
-    publication_date: 1988-06-01T05:00:00-04:00
-    cover_image: /images/The_Collected_Poems_Of_WCW_Vol_II_.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 38.00
-    price_cn:
-    trim_size:
-    Page_count: 576
+  - 9780811211888
+  - 9780811210638
 _slug: the-collected-poems-volume-ii-1939-1962
 ---
 

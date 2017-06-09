@@ -2,45 +2,20 @@
 title: "Laziness in the Fertile Valley"
 draft: false
 date: 2013-11-19T18:06:00-04:00
-show_in_forthcoming: false
+publication_date: 2013-11-19T18:06:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: French
-authors:
-  - author/albert-cossery.md
-translators:
-  - author/william-goyen.md
-editors:
-contributors:
-  - author/henry-miller.md
-
-  - author/anna-della-subin.md
-featured_image:
-description: "A family of proud layabouts star in this comic novel by the Egyptian writer known as “the Voltaire of the Nile” "
+language: french
+author:
+  - contributor/albert-cossery.md
+translator:
+  - contributor/william-goyen.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811218740
-    publication_date: 2013-11-19T18:06:00-04:00
-    cover_image: /images/Laziness_Fertile_Valley.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 13.95
-    price_cn: 15.00
-    trim_size:
-    Page_count: 192
-  - binding: Ebook
-    isbn: 9780811219938
-    publication_date: 2013-11-19T18:06:00-04:00
-    cover_image: /images/Laziness_Fertile_Valley.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 13.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811218740
+  - 9780811219938
 _slug: laziness-in-the-fertile-valley
 ---
 

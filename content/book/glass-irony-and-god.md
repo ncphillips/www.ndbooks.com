@@ -2,30 +2,18 @@
 title: "Glass, Irony, And God"
 draft: false
 date: 1995-11-01T06:00:00-04:00
-show_in_forthcoming: false
+publication_date: 1995-11-01T06:00:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/anne-carson.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/anne-carson.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811213028
-    publication_date: 1995-11-01T06:00:00-04:00
-    cover_image: /images/Glass,_Irony,__God_.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 160
+  - 9780811213028
 _slug: glass-irony-and-god
 ---
 

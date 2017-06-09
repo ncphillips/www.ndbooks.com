@@ -2,30 +2,18 @@
 title: "Middle Passages"
 draft: false
 date: 1993-01-01T06:00:00-04:00
-show_in_forthcoming: false
+publication_date: 1993-01-01T06:00:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/kamau-brathwaite.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/kamau-brathwaite.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811212328
-    publication_date: 1993-01-01T06:00:00-04:00
-    cover_image: /images/Middlepassages.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 12.95
-    price_cn: 15.00
-    trim_size: 5x8
-    Page_count: 120
+  - 9780811212328
 _slug: middlepassages
 ---
 

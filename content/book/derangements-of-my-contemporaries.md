@@ -2,31 +2,19 @@
 title: "Derangements of My Contemporaries"
 draft: false
 date: 2014-06-25T14:21:00-04:00
-show_in_forthcoming: false
+publication_date: 2014-06-25T14:21:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
-language: Classical Chinese
-authors:
-  - author/li-shangyin.md
-translators:
-  - author/chloe-garcia-roberts.md
-editors:
-contributors:
-featured_image:
-description:
+language: classical-chinese
+author:
+  - contributor/li-shangyin.md
+translator:
+  - contributor/chloe-garcia-roberts.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811221962
-    publication_date: 2014-06-25T14:21:00-04:00
-    cover_image: /images/web_li_shangyin.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 10.95
-    price_cn: 11.99
-    trim_size:
-    Page_count:
+  - 9780811221962
 _slug: derangements-of-my-contemporaries
 ---
 

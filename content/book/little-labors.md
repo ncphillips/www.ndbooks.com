@@ -2,42 +2,20 @@
 title: "Little Labors"
 draft: false
 date: 2016-05-06T20:11:00-04:00
-show_in_forthcoming: true
+publication_date: 2016-05-17T04:00:00-04:00
 subtitle:
-genre: Nonfiction
+genre: nonfiction
 subgenre:
-  - Essay
+  - essay
 language:
-authors:
-  - author/rivka-galchen.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "Rivka Galchen’s Little Labors is a droll and dazzling compendium of observations, stories, lists, and brief essays about babies and literature "
+author:
+  - contributor/rivka-galchen.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Clothbound
-    isbn: 9780811225588
-    publication_date: 2016-05-17T04:00:00-04:00
-    cover_image: /images/jsjeetUZRjfn0iE5wUvPLvd7656yWoQ446enYXLXqo8.jpeg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 16.95
-    price_cn: 21.95
-    trim_size: 4 1/2 x 7"
-    Page_count: 96
-  - binding: Ebook
-    isbn: 9780811222976
-    publication_date: 2016-05-17T04:00:00-04:00
-    cover_image_path:
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811225588
+  - 9780811222976
 _slug: little-labors
 ---
 

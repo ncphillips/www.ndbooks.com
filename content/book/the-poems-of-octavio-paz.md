@@ -2,31 +2,19 @@
 title: "The Poems of Octavio Paz"
 draft: false
 date: 2012-10-23T18:54:00-04:00
-show_in_forthcoming: false
+publication_date: 2012-10-23T18:54:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
-language: Spanish
-authors:
-  - author/octavio-paz.md
-translators:
-  - author/eliot-weinberger.md
-editors:
-contributors:
-featured_image:
-description: "The definitive, life spanning, bilingual edition of the poems by the Nobel Prize-winner "
+language: spanish
+author:
+  - contributor/octavio-paz.md
+translator:
+  - contributor/eliot-weinberger.md
+editor:
+featured_image_path:
 editions:
-  - binding: Clothbound
-    isbn: 9780811220439
-    publication_date: 2012-10-23T18:54:00-04:00
-    cover_image: /images/Poems_of_Octavio_Paz.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 39.95
-    price_cn: 42.00
-    trim_size:
-    Page_count: 592
+  - 9780811220439
 _slug: the-poems-of-octavio-paz
 ---
 

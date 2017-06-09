@@ -2,30 +2,18 @@
 title: "Bass Cathedral"
 draft: false
 date: 2008-01-01T06:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2008-01-01T06:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: Portuguese
-authors:
-  - author/nathaniel-mackey.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "The Great American Jazz Novel by Nathaniel Mackey, winner of the 2006 National Book Award "
+language: portuguese
+author:
+  - contributor/nathaniel-mackey.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811217200
-    publication_date: 2008-01-01T06:00:00-04:00
-    cover_image: /images/Bass_Cathedral.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 16.95
-    price_cn: 19.00
-    trim_size: 5x8
-    Page_count: 208
+  - 9780811217200
 _slug: bass-cathedral
 ---
 

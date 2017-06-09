@@ -2,31 +2,19 @@
 title: "New Selected Poems & Translations"
 draft: false
 date: 2010-10-29T14:28:00-04:00
-show_in_forthcoming: false
+publication_date: 2010-10-29T14:28:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/ezra-pound.md
-translators:
-editors:
-  - author/richard-sieburth.md
-contributors:
-featured_image:
-description: "The essential collection of Ezra Pound's poetry – newly expanded and annotated with essays by Richard Sieburth, T.S. Eliot, and John Berryman. "
+author:
+  - contributor/ezra-pound.md
+translator:
+editor:
+  - contributor/richard-sieburth.md
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811217330
-    publication_date: 2010-10-29T14:28:00-04:00
-    cover_image: /images/New_Selected_Poems_And_Translation_.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 16.95
-    price_cn: 20.00
-    trim_size:
-    Page_count: 416
+  - 9780811217330
 _slug: new-selected-poems-translations
 ---
 

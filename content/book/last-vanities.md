@@ -2,32 +2,20 @@
 title: "Last Vanities"
 draft: false
 date: 1998-04-01T06:00:00-04:00
-show_in_forthcoming: false
+publication_date: 1998-04-01T06:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-  - Stories
+  - stories
 language:
-authors:
-  - author/fleur-jaeggy.md
-translators:
-  - author/tim-parks.md
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/fleur-jaeggy.md
+translator:
+  - contributor/tim-parks.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811213745
-    publication_date: 1998-04-01T06:00:00-04:00
-    cover_image: /images/Last_Vanities.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 11.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 112
+  - 9780811213745
 _slug: last-vanities
 ---
 

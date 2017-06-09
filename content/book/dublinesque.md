@@ -2,44 +2,21 @@
 title: "Dublinesque"
 draft: false
 date: 2012-06-27T15:54:00-04:00
-show_in_forthcoming: false
+publication_date: 2012-06-27T15:54:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: Spanish
-authors:
-  - author/enrique-vila-matas.md
-translators:
-  - author/anne-mclean.md
-
-  - author/rosalind-harvey.md
-editors:
-contributors:
-featured_image:
-description: "A fictional journey through the modern history of literary publishing. "
+language: spanish
+author:
+  - contributor/enrique-vila-matas.md
+translator:
+  - contributor/anne-mclean.md
+  - contributor/rosalind-harvey.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811219617
-    publication_date: 2012-06-27T15:54:00-04:00
-    cover_image: /images/Dublinesque.jpeg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 16.95
-    price_cn: 18.00
-    trim_size:
-    Page_count: 320
-  - binding: Ebook
-    isbn: 978081122022
-    publication_date: 2012-06-27T15:54:00-04:00
-    cover_image: /images/Dublinesque.jpeg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 16.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811219617
+  - 978081122022
 _slug: dublinesque
 ---
 

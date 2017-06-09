@@ -2,30 +2,18 @@
 title: "The Mutual Friend"
 draft: false
 date: 1994-02-01T06:00:31-04:00
-show_in_forthcoming: false
+publication_date: 1994-02-01T06:00:31-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/frederick-busch.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/frederick-busch.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811212588
-    publication_date: 1994-02-01T06:00:31-04:00
-    cover_image: /images/The_Mutual_Friend.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 9.95
-    price_cn:
-    trim_size: 5.5x8
-    Page_count: 240
+  - 9780811212588
 _slug: the-mutual-friend
 ---
 

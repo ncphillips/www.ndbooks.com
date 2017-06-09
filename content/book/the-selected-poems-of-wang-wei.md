@@ -2,31 +2,19 @@
 title: "The Selected Poems Of Wang Wei"
 draft: false
 date: 2006-06-01T05:00:10-04:00
-show_in_forthcoming: false
+publication_date: 2006-06-01T05:00:10-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/wang-wei.md
-translators:
-  - author/david-hinton.md
-editors:
-contributors:
-featured_image:
-description: "David Hinton, whose much-acclaimed translations of Li Po and Tu Fu have become classics, now completes the triumvirate of China's greatest poets with The Selected Poems of Wang Wei. "
+author:
+  - contributor/wang-wei.md
+translator:
+  - contributor/david-hinton.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811216180
-    publication_date: 2006-06-01T05:00:10-04:00
-    cover_image: /images/The_Selected_Poems_Of_Wang_Wei.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 16.95
-    price_cn: 20.00
-    trim_size: 6x9
-    Page_count: 128
+  - 9780811216180
 _slug: the-selected-poems-of-wang-wei
 ---
 

@@ -2,43 +2,21 @@
 title: "Mr. Kafka and Other Tales from the Time of the Cult"
 draft: false
 date: 2015-03-19T20:51:00-04:00
-show_in_forthcoming: true
+publication_date: 2015-10-27T04:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-  - Stories
-language: Czech
-authors:
-  - author/bohumil-hrabal.md
-translators:
-  - author/paul-wilson.md
-editors:
-contributors:
-featured_image:
-description: "Wonderful stories of Communist Prague by _the masterly Bohumil Hrabal_ (The New Yorker) "
+  - stories
+language: czech
+author:
+  - contributor/bohumil-hrabal.md
+translator:
+  - contributor/paul-wilson.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811224802
-    publication_date: 2015-10-27T04:00:00-04:00
-    cover_image: /images/hrabal_cover.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: $14.95
-    price_cn: $17.95
-    trim_size: 5 x 8"
-    Page_count: 160
-  - binding: Ebook
-    isbn: 9780811224819
-    publication_date: 2015-10-27T04:00:00-04:00
-    cover_image_path:
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811224802
+  - 9780811224819
 _slug: mr-kafka-and-other-tales-from-the-time-of-the-cult
 ---
 

@@ -2,52 +2,20 @@
 title: "Pereira Declares"
 draft: false
 date: 1996-04-01T06:00:00-04:00
-show_in_forthcoming: false
+publication_date: 1996-04-01T06:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: Italian
-authors:
-  - author/antonio-tabucchi.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+language: italian
+author:
+  - contributor/antonio-tabucchi.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811213585
-    publication_date: 1996-04-01T06:00:00-04:00
-    cover_image: /images/Pereira_Declares.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 13.95
-    price_cn:
-    trim_size:
-    Page_count: 136
-  - binding: Clothbound
-    isbn: 9780811213196
-    publication_date: 1996-04-01T06:00:00-04:00
-    cover_image: /images/Pereira_Declares.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count: 136
-  - binding: Ebook
-    isbn: 9780811221917
-    publication_date: 1996-04-01T06:00:00-04:00
-    cover_image: /images/Pereira_Declares.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 13.95
-    price_cn:
-    trim_size:
-    Page_count: 136
+  - 9780811213585
+  - 9780811213196
+  - 9780811221917
 _slug: pereira-declares
 ---
 

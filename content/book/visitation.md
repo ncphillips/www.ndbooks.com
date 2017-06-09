@@ -2,42 +2,20 @@
 title: "Visitation"
 draft: false
 date: 2010-09-30T14:28:00-04:00
-show_in_forthcoming: false
+publication_date: 2010-09-30T14:28:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: German
-authors:
-  - author/jenny-erpenbeck.md
-translators:
-  - author/susan-bernofsky.md
-editors:
-contributors:
-featured_image:
-description:
+language: german
+author:
+  - contributor/jenny-erpenbeck.md
+translator:
+  - contributor/susan-bernofsky.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811218351
-    publication_date: 2010-09-30T14:28:00-04:00
-    cover_image: /images/Visitation.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn: 18.50
-    trim_size: 5x8
-    Page_count: 160
-  - binding: Ebook
-    isbn: 9780811219310
-    publication_date: 2010-09-30T14:28:00-04:00
-    cover_image: /images/Visitation.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811218351
+  - 9780811219310
 _slug: visitation
 ---
 

@@ -2,30 +2,18 @@
 title: "The Yellow Sofa"
 draft: false
 date: 1996-11-01T06:00:00-04:00
-show_in_forthcoming: true
+publication_date: 2016-04-19T04:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: Portuguese
-authors:
-  - author/jose-maria-de-eca-de-queiros.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "A compassionate tale of marriage, manners, and betrayal, from the Portuguese master "
+language: portuguese
+author:
+  - contributor/jose-maria-de-eca-de-queiros.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811222181
-    publication_date: 2016-04-19T04:00:00-04:00
-    cover_image: /images/THE%20YELLOW%20SOFA.tif
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 13.95
-    price_cn: 17.95
-    trim_size: 5x8
-    Page_count: 128
+  - 9780811222181
 _slug: the-yellow-sofa
 ---
 

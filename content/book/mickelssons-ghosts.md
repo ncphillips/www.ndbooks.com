@@ -2,30 +2,18 @@
 title: "Mickelsson’s Ghosts"
 draft: false
 date: 2008-09-01T05:00:24-04:00
-show_in_forthcoming: false
+publication_date: 2008-09-01T05:00:24-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/john-gardner.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "The critically acclaimed final masterwork of John Gardner is an American novel haunted with macabre and cerebral elements. "
+author:
+  - contributor/john-gardner.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811216791
-    publication_date: 2008-09-01T05:00:24-04:00
-    cover_image: /images/Mickelssons_Ghosts_2.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 19.95
-    price_cn: 22.00
-    trim_size: 5x8
-    Page_count: 610
+  - 9780811216791
 _slug: mickelssons-ghosts
 ---
 

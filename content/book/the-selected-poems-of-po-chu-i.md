@@ -2,31 +2,19 @@
 title: "The Selected Poems Of Po Chu-I"
 draft: false
 date: 1999-06-01T05:00:11-04:00
-show_in_forthcoming: false
+publication_date: 1999-06-01T05:00:11-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/po-chu-i.md
-translators:
-  - author/david-hinton.md
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/po-chu-i.md
+translator:
+  - contributor/david-hinton.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811214124
-    publication_date: 1999-06-01T05:00:11-04:00
-    cover_image: /images/The_Selected_Poems_Of_Po_Chu-I.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 16.95
-    price_cn:
-    trim_size:
-    Page_count: 224
+  - 9780811214124
 _slug: the-selected-poems-of-po-chu-i
 ---
 

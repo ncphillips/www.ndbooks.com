@@ -2,42 +2,20 @@
 title: "The Hare"
 draft: false
 date: 2013-07-25T14:52:00-04:00
-show_in_forthcoming: false
+publication_date: 2013-07-25T14:52:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: Spanish
-authors:
-  - author/cesar-aira.md
-translators:
-  - author/nick-caistor.md
-editors:
-contributors:
-featured_image:
-description: "When a Mapuche chief suddenly goes missing, a British naturalist is asked to find him in the vast Argentine pampas "
+language: spanish
+author:
+  - contributor/cesar-aira.md
+translator:
+  - contributor/nick-caistor.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811220903
-    publication_date: 2013-07-25T14:52:00-04:00
-    cover_image: /images/Hare.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn: 16.00
-    trim_size:
-    Page_count: 224
-  - binding: Ebook
-    isbn: 9780811221207
-    publication_date: 2013-07-25T14:52:00-04:00
-    cover_image: /images/Hare.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811220903
+  - 9780811221207
 _slug: the-hare
 ---
 

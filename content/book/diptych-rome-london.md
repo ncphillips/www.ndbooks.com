@@ -2,30 +2,18 @@
 title: "Diptych Rome-London"
 draft: false
 date: 1994-05-01T05:00:06-04:00
-show_in_forthcoming: false
+publication_date: 1994-05-01T05:00:06-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/ezra-pound.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/ezra-pound.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811212687
-    publication_date: 1994-05-01T05:00:06-04:00
-    cover_image: /images/Diptych_Rome-London.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 5.00
-    price_cn: 6.00
-    trim_size:
-    Page_count: 64
+  - 9780811212687
 _slug: diptych-rome-london
 ---
 

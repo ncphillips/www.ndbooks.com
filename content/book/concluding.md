@@ -2,41 +2,19 @@
 title: "Concluding"
 draft: false
 date: 2017-03-10T19:39:00-04:00
-show_in_forthcoming: true
+publication_date: 2017-10-27T04:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/henry-green.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "Henry Green considered _Concluding_ the finest of all his books "
+author:
+  - contributor/henry-green.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811227001
-    publication_date: 2017-10-27T04:00:00-04:00
-    cover_image: /images/9780811227001.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 13.95
-    price_cn: 18.95
-    trim_size: 5x8
-    Page_count: 224
-  - binding: Ebook
-    isbn: 9780811227018
-    publication_date: 2017-10-27T04:00:00-04:00
-    cover_image_path:
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811227001
+  - 9780811227018
 _slug: concluding
 ---
 

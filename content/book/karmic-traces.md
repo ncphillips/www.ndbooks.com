@@ -2,31 +2,19 @@
 title: "Karmic Traces"
 draft: false
 date: 2000-11-01T06:00:51-04:00
-show_in_forthcoming: false
+publication_date: 2000-11-01T06:00:51-04:00
 subtitle:
-genre: Nonfiction
+genre: nonfiction
 subgenre:
-  - Essay
+  - essay
 language:
-authors:
-  - author/eliot-weinberger.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/eliot-weinberger.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811214568
-    publication_date: 2000-11-01T06:00:51-04:00
-    cover_image: /images/Karmic_Traces.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 192
+  - 9780811214568
 _slug: karmic-traces
 ---
 

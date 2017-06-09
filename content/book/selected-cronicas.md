@@ -2,30 +2,18 @@
 title: "Selected Cronicas"
 draft: false
 date: 1996-11-01T06:00:08-04:00
-show_in_forthcoming: false
+publication_date: 1996-11-01T06:00:08-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/clarice-lispector.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "A revelation for readers of Clarice Lispector's novels and stories, Selected Crônicas presents an entirely new side of Brazil's greatest twentieth-century writer. "
+author:
+  - contributor/clarice-lispector.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811213400
-    publication_date: 1996-11-01T06:00:08-04:00
-    cover_image: /images/Selected_Cronicas.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 296
+  - 9780811213400
 _slug: selected-cronicas
 ---
 

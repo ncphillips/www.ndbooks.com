@@ -2,42 +2,20 @@
 title: "The Third Kind Of Knowledge"
 draft: false
 date: 1993-02-01T06:00:10-04:00
-show_in_forthcoming: false
+publication_date: 1993-02-01T06:00:10-04:00
 subtitle:
-genre: Nonfiction
+genre: nonfiction
 subgenre:
-  - Essay
+  - essay
 language:
-authors:
-  - author/robert-fitzgerald.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/robert-fitzgerald.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811217743
-    publication_date: 1993-02-01T06:00:10-04:00
-    cover_image: /images/thirdkindofknowledge.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 19.95
-    price_cn:
-    trim_size:
-    Page_count:
-  - binding: Clothbound
-    isbn: 9780811210560
-    publication_date: 1993-02-01T06:00:10-04:00
-    cover_image: /images/thirdkindofknowledge.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 27.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811217743
+  - 9780811210560
 _slug: the-third-kind-of-knowledge
 ---
 

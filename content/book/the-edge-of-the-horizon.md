@@ -2,41 +2,19 @@
 title: "The Edge of the Horizon"
 draft: false
 date: 2001-01-01T06:00:00-04:00
-show_in_forthcoming: true
+publication_date: 2015-08-27T04:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: Italian
-authors:
-  - author/antonio-tabucchi.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "New paperback edition "
+language: italian
+author:
+  - contributor/antonio-tabucchi.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811224512
-    publication_date: 2015-08-27T04:00:00-04:00
-    cover_image: /images/The_Edge_Of_The_Horizon.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn: 16.95
-    trim_size: 5 x 8"
-    Page_count:
-  - binding: Clothbound
-    isbn: 9780811211123
-    publication_date: 2015-08-27T04:00:00-04:00
-    cover_image: /images/The_Edge_Of_The_Horizon.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811224512
+  - 9780811211123
 _slug: the-edge-of-the-horizon
 ---
 

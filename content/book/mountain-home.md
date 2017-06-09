@@ -2,30 +2,18 @@
 title: "Mountain Home"
 draft: false
 date: 2005-05-01T05:00:05-04:00
-show_in_forthcoming: false
+publication_date: 2005-05-01T05:00:05-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/david-hinton.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "The earliest and most extensive literary engagement with wilderness in human history, this is vital poetry that feels utterly contemporary. "
+author:
+  - contributor/david-hinton.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811216241
-    publication_date: 2005-05-01T05:00:05-04:00
-    cover_image: /images/Mountain_Home.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 17.95
-    price_cn: 25.00
-    trim_size: 6x9
-    Page_count: 320
+  - 9780811216241
 _slug: mountain-home
 ---
 

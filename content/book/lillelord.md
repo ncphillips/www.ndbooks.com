@@ -2,41 +2,19 @@
 title: "Lillelord"
 draft: false
 date: 1982-04-01T06:00:54-04:00
-show_in_forthcoming: false
+publication_date: 1982-04-01T06:00:54-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/johan-borgen.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/johan-borgen.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811208277
-    publication_date: 1982-04-01T06:00:54-04:00
-    cover_image: /images/Lillelord.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 21.95
-    price_cn:
-    trim_size:
-    Page_count:
-  - binding: Clothbound
-    isbn: 9780811208260
-    publication_date: 1982-04-01T06:00:54-04:00
-    cover_image: /images/Lillelord.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811208277
+  - 9780811208260
 _slug: lillelord
 ---
 

@@ -2,31 +2,19 @@
 title: "What Happened Here"
 draft: false
 date: 2005-09-01T05:00:57-04:00
-show_in_forthcoming: false
+publication_date: 2005-09-01T05:00:57-04:00
 subtitle:
-genre: Nonfiction
+genre: nonfiction
 subgenre:
-  - Essay
+  - essay
 language:
-authors:
-  - author/eliot-weinberger.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "Essayist Eliot Weinberger sets his sights on the Bush team with brilliant, thought-provoking, funny consequences. "
+author:
+  - contributor/eliot-weinberger.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811216388
-    publication_date: 2005-09-01T05:00:57-04:00
-    cover_image: /images/What_Happened_Here.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 13.95
-    price_cn:
-    trim_size: 5x7
-    Page_count: 224
+  - 9780811216388
 _slug: what-happened-here
 ---
 

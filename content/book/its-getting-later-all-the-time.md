@@ -2,41 +2,19 @@
 title: "It's Getting Later All the Time"
 draft: false
 date: 2006-05-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2006-05-01T05:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: Italian
-authors:
-  - author/antonio-tabucchi.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "From Italy, an epistolary novel like no other, full of Tabucchi's special _enchantment, which trans-figures even as it captivates_ (TLS). "
+language: italian
+author:
+  - contributor/antonio-tabucchi.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811215466
-    publication_date: 2006-05-01T05:00:00-04:00
-    cover_image: /images/Its_Getting_Later_All_the_Time_2.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn: 21.00
-    trim_size: 5x8
-    Page_count: 192
-  - binding: Ebook
-    isbn: 9780811222624
-    publication_date: 2006-05-01T05:00:00-04:00
-    cover_image: /images/Its_Getting_Later_All_the_Time_2.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count: 192
+  - 9780811215466
+  - 9780811222624
 _slug: its-getting-later-all-the-time
 ---
 

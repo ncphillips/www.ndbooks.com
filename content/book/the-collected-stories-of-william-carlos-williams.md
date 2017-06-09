@@ -2,31 +2,19 @@
 title: "The Collected Stories of William Carlos Williams"
 draft: false
 date: 1996-09-01T05:00:15-04:00
-show_in_forthcoming: false
+publication_date: 1996-09-01T05:00:15-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-  - Stories
+  - stories
 language:
-authors:
-  - author/william-carlos-williams.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/william-carlos-williams.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811213288
-    publication_date: 1996-09-01T05:00:15-04:00
-    cover_image: /images/Collected_Stories.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 21.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811213288
 _slug: the-collected-stories-of-william-carlos-williams
 ---
 

@@ -2,54 +2,22 @@
 title: "A Russian Doll & Other Stories"
 draft: false
 date: 1992-09-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 1992-09-01T05:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-  - Stories
-language: Spanish
-authors:
-  - author/adolfo-bioy-casares.md
-translators:
-  - author/suzanne-jill-levine.md
-editors:
-contributors:
-featured_image:
-description:
+  - stories
+language: spanish
+author:
+  - contributor/adolfo-bioy-casares.md
+translator:
+  - contributor/suzanne-jill-levine.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811212120
-    publication_date: 1992-09-01T05:00:00-04:00
-    cover_image: /images/A_Russian_Doll__Other_Stories_.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn:
-    trim_size:
-    Page_count: 131
-  - binding: Clothbound
-    isbn: 9780811212113
-    publication_date: 1992-09-01T05:00:00-04:00
-    cover_image: /images/A_Russian_Doll__Other_Stories_.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count: 144
-  - binding: Ebook
-    isbn: 9780811221870
-    publication_date: 1992-09-01T05:00:00-04:00
-    cover_image: /images/A_Russian_Doll__Other_Stories_.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn:
-    trim_size:
-    Page_count: 144
+  - 9780811212120
+  - 9780811212113
+  - 9780811221870
 _slug: a-russian-doll-other-stories
 ---
 

@@ -2,32 +2,19 @@
 title: "it"
 draft: false
 date: 2007-11-01T05:00:51-04:00
-show_in_forthcoming: false
+publication_date: 2007-11-01T05:00:51-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/inger-christensen.md
-translators:
-  - author/susanna-nied.md
-editors:
-contributors:
-  - author/anne-carson.md
-featured_image:
-description: "Here at last is Inger Christensen's masterpiece it, translated brilliantly by Susanna Nied, and with an illuminating introduction by Anne Carson. "
+author:
+  - contributor/inger-christensen.md
+translator:
+  - contributor/susanna-nied.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811215947
-    publication_date: 2007-11-01T05:00:51-04:00
-    cover_image: /images/It.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 17.95
-    price_cn: 23.00
-    trim_size: 6x9
-    Page_count: 304
+  - 9780811215947
 _slug: it
 ---
 

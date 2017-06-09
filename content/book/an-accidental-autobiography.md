@@ -2,32 +2,19 @@
 title: "An Accidental Autobiography"
 draft: false
 date: 2003-04-01T05:59:33-04:00
-show_in_forthcoming: false
+publication_date: 2003-04-01T05:59:33-04:00
 subtitle:
-genre: Nonfiction
+genre: nonfiction
 subgenre:
-  - Memoir
+  - memoir
 language:
-authors:
-  - author/gregory-corso.md
-translators:
-editors:
-contributors:
-  - author/patti-smith.md
-featured_image:
-description:
+author:
+  - contributor/gregory-corso.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811215350
-    publication_date: 2003-04-01T05:59:33-04:00
-    cover_image: /images/An_Accidental_Autobiography.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 25.95
-    price_cn:
-    trim_size: 6x9
-    Page_count: 368
+  - 9780811215350
 _slug: an-accidental-autobiography
 ---
 

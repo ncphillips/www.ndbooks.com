@@ -2,31 +2,19 @@
 title: "Absent Friends"
 draft: false
 date: 1991-11-01T06:00:12-04:00
-show_in_forthcoming: false
+publication_date: 1991-11-01T06:00:12-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-  - Stories
+  - stories
 language:
-authors:
-  - author/frederick-busch.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/frederick-busch.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811211758
-    publication_date: 1991-11-01T06:00:12-04:00
-    cover_image: /images/Absent_Friends.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 11.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811211758
 _slug: absent-friends
 ---
 

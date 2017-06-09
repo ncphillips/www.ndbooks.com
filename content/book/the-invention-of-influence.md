@@ -2,31 +2,18 @@
 title: "The Invention of Influence"
 draft: false
 date: 2014-01-29T21:23:00-04:00
-show_in_forthcoming: false
+publication_date: 2014-01-29T21:23:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/peter-cole.md
-translators:
-editors:
-contributors:
-  - author/harold-bloom.md
-featured_image:
-description:
+author:
+  - contributor/peter-cole.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811221726
-    publication_date: 2014-01-29T21:23:00-04:00
-    cover_image: /images/Invention_of_Influence.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 16.95
-    price_cn: 18.00
-    trim_size:
-    Page_count: 128
+  - 9780811221726
 _slug: the-invention-of-influence
 ---
 

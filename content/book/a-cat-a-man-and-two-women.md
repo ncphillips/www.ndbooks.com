@@ -2,43 +2,21 @@
 title: "A Cat, A Man, and Two Women"
 draft: false
 date: 2014-08-06T14:00:00-04:00
-show_in_forthcoming: true
+publication_date: 2015-08-27T04:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-  - Stories
-language: Japanese
-authors:
-  - author/junichiro-tanizaki.md
-translators:
-  - author/paul-mccarthy.md
-editors:
-contributors:
-featured_image:
-description: "A novella and two short stories reveal Tanizaki at his best and most bizarre "
+  - stories
+language: japanese
+author:
+  - contributor/junichiro-tanizaki.md
+translator:
+  - contributor/paul-mccarthy.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811224499
-    publication_date: 2015-08-27T04:00:00-04:00
-    cover_image: /images/tanizaki_cat_cover.tiff
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: $14.95
-    price_cn: $17.95
-    trim_size:
-    Page_count: 180
-  - binding: Ebook
-    isbn: 9780811224505
-    publication_date: 2015-08-27T04:00:00-04:00
-    cover_image_path:
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811224499
+  - 9780811224505
 _slug: a-cat-a-man-and-two-women
 ---
 

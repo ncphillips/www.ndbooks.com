@@ -2,42 +2,20 @@
 title: "The Sinistra Zone"
 draft: false
 date: 2013-08-26T15:47:00-04:00
-show_in_forthcoming: false
+publication_date: 2013-08-26T15:47:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: Hungarian
-authors:
-  - author/adam-bodor.md
-translators:
-  - author/paul-olchvary.md
-editors:
-contributors:
-featured_image:
-description: "Lyrical, surreal, and yet unsettlingly realistic, _The Sinistra Zone_ swims in the totalitarian backwaters of Eastern Europe "
+language: hungarian
+author:
+  - contributor/adam-bodor.md
+translator:
+  - contributor/paul-olchvary.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811219785
-    publication_date: 2013-08-26T15:47:00-04:00
-    cover_image: /images/Sinistra_Zone.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn: 17.00
-    trim_size:
-    Page_count: 208
-  - binding: Ebook
-    isbn: 9780811219792
-    publication_date: 2013-08-26T15:47:00-04:00
-    cover_image: /images/Sinistra_Zone.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811219785
+  - 9780811219792
 _slug: the-sinistra-zone
 ---
 

@@ -2,41 +2,19 @@
 title: "The Theatre Of Tennessee Williams, Vol. VIII"
 draft: false
 date: 2001-05-01T05:00:24-04:00
-show_in_forthcoming: false
+publication_date: 2001-05-01T05:00:24-04:00
 subtitle:
-genre: Theater
+genre: theater
 subgenre:
 language:
-authors:
-  - author/tennessee-williams.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/tennessee-williams.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811214759
-    publication_date: 2001-05-01T05:00:24-04:00
-    cover_image: /images/The_Theatre_Of_Tennessee_Williams_Volume_8.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 22.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 378
-  - binding: Clothbound
-    isbn: 9780811212014
-    publication_date: 2001-05-01T05:00:24-04:00
-    cover_image: /images/The_Theatre_Of_Tennessee_Williams_Volume_8.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 35.00
-    price_cn:
-    trim_size: 5x8
-    Page_count: 378
+  - 9780811214759
+  - 9780811212014
 _slug: the-theatre-of-tennessee-williams-vol.-viii
 ---
 

@@ -2,42 +2,20 @@
 title: "How I Became a Nun"
 draft: false
 date: 2008-02-01T06:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2008-02-01T06:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: Spanish
-authors:
-  - author/cesar-aira.md
-translators:
-  - author/chris-andrews.md
-editors:
-contributors:
-featured_image:
-description: "A sinisterly funny modern-day Through the Looking Glass that begins with cyanide poisoning and ends in strawberry ice cream. "
+language: spanish
+author:
+  - contributor/cesar-aira.md
+translator:
+  - contributor/chris-andrews.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811216319
-    publication_date: 2008-02-01T06:00:00-04:00
-    cover_image: /images/HowI_Became_a_Nun.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 13.95
-    price_cn: 18.00
-    trim_size: 5x7
-    Page_count: 128
-  - binding: Ebook
-    isbn: 9780811219822
-    publication_date: 2008-02-01T06:00:00-04:00
-    cover_image: /images/HowI_Became_a_Nun.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 13.95
-    price_cn:
-    trim_size:
-    Page_count: 128
+  - 9780811216319
+  - 9780811219822
 _slug: how-i-became-a-nun
 ---
 

@@ -2,30 +2,18 @@
 title: "Rich Like Us"
 draft: false
 date: 2001-01-01T06:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2001-01-01T06:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/nayantara-sahgal.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/nayantara-sahgal.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811210782
-    publication_date: 2001-01-01T06:00:00-04:00
-    cover_image: /images/Rich_Like_Us.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811210782
 _slug: rich-like-us
 ---
 

@@ -2,36 +2,22 @@
 title: "The Rose Of Time"
 draft: false
 date: 2001-01-01T06:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2010-01-27T05:00:00-04:00
 subtitle: "New & Selected Poems "
-genre: Poetry
+genre: poetry
 subgenre:
-language: Chinese
-authors:
-  - author/bei-dao.md
-translators:
-  - author/david-hinton.md
-
-  - author/bonnie-s.-macdougall.md
-
-  - author/eliot-weinberger.md
-editors:
-  - author/eliot-weinberger.md
-contributors:
-featured_image:
-description: "A selection from the lifework of the internationally renowned poet Bei Dao, who is _like reading Chekhov or Turgenev reflected in a porcelain bowl_ (_The Times_ [London]). "
+language: chinese
+author:
+  - contributor/bei-dao.md
+translator:
+  - contributor/david-hinton.md
+  - contributor/bonnie-s.-macdougall.md
+  - contributor/eliot-weinberger.md
+editor:
+  - contributor/eliot-weinberger.md
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811218481
-    publication_date: 2010-01-27T05:00:00-04:00
-    cover_image: /images/The_Rose_Of_Time.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 16.95
-    price_cn: 21.00
-    trim_size: 6 x 9"
-    Page_count: 304
+  - 9780811218481
 _slug: in-the-rose-of-time
 ---
 

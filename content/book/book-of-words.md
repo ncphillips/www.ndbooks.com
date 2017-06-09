@@ -2,31 +2,19 @@
 title: "The Book of Words"
 draft: false
 date: 2007-12-01T06:00:52-04:00
-show_in_forthcoming: false
+publication_date: 2007-12-01T06:00:52-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/jenny-erpenbeck.md
-translators:
-  - author/susan-bernofsky.md
-editors:
-contributors:
-featured_image:
-description: "A searing novella about coming of age in a land of tyranny, by one of Germany's most brilliant young authors. "
+author:
+  - contributor/jenny-erpenbeck.md
+translator:
+  - contributor/susan-bernofsky.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811217064
-    publication_date: 2007-12-01T06:00:52-04:00
-    cover_image: /images/bookofwords.JPG
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn: 18.00
-    trim_size: 5x8
-    Page_count: 112
+  - 9780811217064
 _slug: book-of-words
 ---
 

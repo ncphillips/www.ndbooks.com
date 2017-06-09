@@ -2,31 +2,19 @@
 title: "Montano’s Malady"
 draft: false
 date: 2007-05-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2007-05-01T05:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: Portuguese
-authors:
-  - author/enrique-vila-matas.md
-translators:
-  - author/jonathan-dunne.md
-editors:
-contributors:
-featured_image:
-description: "A quirky, cosmopolitan novel about life and literature by the prize-winning Spanish writer Enrique Vila-Matas, author of _Bartleby & Co_. "
+language: portuguese
+author:
+  - contributor/enrique-vila-matas.md
+translator:
+  - contributor/jonathan-dunne.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811216289
-    publication_date: 2007-05-01T05:00:00-04:00
-    cover_image: /images/Montanos_Malady_2.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 192
+  - 9780811216289
 _slug: montanos-malady
 ---
 

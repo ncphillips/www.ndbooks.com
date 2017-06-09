@@ -2,31 +2,19 @@
 title: "Firefly Under The Tongue"
 draft: false
 date: 2008-04-01T05:00:31-04:00
-show_in_forthcoming: false
+publication_date: 2008-04-01T05:00:31-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/coral-bracho.md
-translators:
-  - author/forrest-gander.md
-editors:
-contributors:
-featured_image:
-description: "A brilliantly translated bilingual edition of poems by one of Mexico's foremost poets. "
+author:
+  - contributor/coral-bracho.md
+translator:
+  - contributor/forrest-gander.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811216845
-    publication_date: 2008-04-01T05:00:31-04:00
-    cover_image: /images/fireflyunderthetongue.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 16.95
-    price_cn: 19.00
-    trim_size: 6x9
-    Page_count: 144
+  - 9780811216845
 _slug: firefly-under-the-tongue
 ---
 

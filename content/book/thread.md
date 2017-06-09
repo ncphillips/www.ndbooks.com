@@ -2,30 +2,18 @@
 title: "Thread"
 draft: false
 date: 2011-05-27T14:28:40-04:00
-show_in_forthcoming: false
+publication_date: 2011-05-27T14:28:40-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/michael-palmer.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "_Thread_ presents eighty-six new poems by _the foremost experimental poet of his generation, and perhaps of the last several generations_ (The Poetry Society of America's 2006 Wallace Stevens Award citation). "
+author:
+  - contributor/michael-palmer.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811219211
-    publication_date: 2011-05-27T14:28:40-04:00
-    cover_image: /images/thread.JPG
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn: 19.00
-    trim_size:
-    Page_count: 112
+  - 9780811219211
 _slug: thread
 ---
 

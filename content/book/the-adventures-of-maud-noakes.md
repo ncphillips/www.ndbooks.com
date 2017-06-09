@@ -2,18 +2,16 @@
 title: "The Adventures of Maud Noakes"
 draft: false
 date: 1994-09-30T17:24:57-04:00
-show_in_forthcoming: false
+publication_date: 1994-09-30T17:24:57-04:00
 subtitle:
 genre:
 subgenre:
 language:
-authors:
-  - author/alan-neame.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/alan-neame.md
+translator:
+editor:
+featured_image_path:
 editions:
 _slug: the-adventures-of-maud-noakes
 ---

@@ -2,30 +2,18 @@
 title: "Territorial Rights"
 draft: false
 date: 2014-04-29T14:12:00-04:00
-show_in_forthcoming: false
+publication_date: 2014-04-29T14:12:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/muriel-spark.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "Wheels spin within wheels in Spark’s comedy of betrayals and terrorism, set in her beloved Venice "
+author:
+  - contributor/muriel-spark.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811222655
-    publication_date: 2014-04-29T14:12:00-04:00
-    cover_image: /images/Territorial_Rights.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn: 17.00
-    trim_size:
-    Page_count: 240
+  - 9780811222655
 _slug: territorial-rights
 ---
 

@@ -2,42 +2,20 @@
 title: "The Bridegroom Was a Dog"
 draft: false
 date: 2012-11-07T16:16:00-04:00
-show_in_forthcoming: false
+publication_date: 2012-11-07T16:16:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: Japanese
-authors:
-  - author/yoko-tawada.md
-translators:
-  - author/margaret-mitsutani.md
-editors:
-contributors:
-featured_image:
-description: "A bizarre tale of passion and romance between a schoolteacher and a dog "
+language: japanese
+author:
+  - contributor/yoko-tawada.md
+translator:
+  - contributor/margaret-mitsutani.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811220378
-    publication_date: 2012-11-07T16:16:00-04:00
-    cover_image: /images/Bridegroom_was_a_Dog.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 10.95
-    price_cn: 11.99
-    trim_size:
-    Page_count: 60
-  - binding: Ebook
-    isbn: 9780811220606
-    publication_date: 2012-11-07T16:16:00-04:00
-    cover_image: /images/Bridegroom_was_a_Dog.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 10.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811220378
+  - 9780811220606
 _slug: the-bridegroom-was-a-dog
 ---
 

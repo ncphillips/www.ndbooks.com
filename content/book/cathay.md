@@ -2,31 +2,18 @@
 title: "Cathay"
 draft: false
 date: 2015-05-07T20:24:00-04:00
-show_in_forthcoming: true
+publication_date: 2016-01-04T05:00:00-04:00
 subtitle: "Centennial Edition"
 genre:
 subgenre:
-language: Chinese
-authors:
-  - author/ezra-pound.md
-translators:
-editors:
-contributors:
-  - author/mary-rachewiltz.md
-featured_image: /images/unnamed.jpg
-description: "The centennial edition of Ezra Pound's early poetic masterpiece. "
+language: chinese
+author:
+  - contributor/ezra-pound.md
+translator:
+editor:
+featured_image_path: /uploads/1431030395963/unnamed.jpg
 editions:
-  - binding:
-    isbn: 9780811223522
-    publication_date: 2016-01-04T05:00:00-04:00
-    cover_image: /images/unnamed.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn: 17.95
-    trim_size: 5" x 7"
-    Page_count: 144
+  - 9780811223522
 _slug: cathay
 ---
 

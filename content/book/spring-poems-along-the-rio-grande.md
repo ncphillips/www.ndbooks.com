@@ -2,41 +2,19 @@
 title: "Spring Poems Along The Rio Grande"
 draft: false
 date: 2007-04-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2007-04-01T05:00:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/jimmy-baca.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "In a Whitmanesque voice that aims toward American universals, while remaining grounded in his Chicano ancestry, Jimmy Santiago Baca explores the cycles of the seasons and the cycles of life in beautiful and accessible poems. "
+author:
+  - contributor/jimmy-baca.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811216852
-    publication_date: 2007-04-01T05:00:00-04:00
-    cover_image: /images/SpringPoems_Along_the_Rio_Grande.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 12.95
-    price_cn: 16.00
-    trim_size: 5x8
-    Page_count: 128
-  - binding: Ebook
-    isbn: 9780811223393
-    publication_date: 2007-04-01T05:00:00-04:00
-    cover_image: /images/SpringPoems_Along_the_Rio_Grande.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count: 128
+  - 9780811216852
+  - 9780811223393
 _slug: spring-poems-along-the-rio-grande
 ---
 

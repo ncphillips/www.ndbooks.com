@@ -2,43 +2,21 @@
 title: "Billancourt Tales"
 draft: false
 date: 2009-07-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2009-07-01T05:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-  - Stories
-language: Russian
-authors:
-  - author/nina-berberova.md
-translators:
-  - author/marian-schwartz.md
-editors:
-contributors:
-featured_image:
-description: "Here they are: White Russians saddened by their lost homeland, scrambling to build new Russo-French lives in the suburbs of Paris, questing for success, comfort, pleasure, and love. "
+  - stories
+language: russian
+author:
+  - contributor/nina-berberova.md
+translator:
+  - contributor/marian-schwartz.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811218337
-    publication_date: 2009-07-01T05:00:00-04:00
-    cover_image: /images/Billancourt_Tales.JPG
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 13.95
-    price_cn: 16.00
-    trim_size: 5x8
-    Page_count: 176
-  - binding: Clothbound
-    isbn: 9780811214810
-    publication_date: 2009-07-01T05:00:00-04:00
-    cover_image: /images/Billancourt_Tales.JPG
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 24.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 176
+  - 9780811218337
+  - 9780811214810
 _slug: the-billancourt-tales
 ---
 

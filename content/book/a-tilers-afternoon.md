@@ -2,30 +2,18 @@
 title: "A Tiler’s Afternoon"
 draft: false
 date: 1993-06-01T05:00:16-04:00
-show_in_forthcoming: false
+publication_date: 1993-06-01T05:00:16-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/lars-gustafsson.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/lars-gustafsson.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811212403
-    publication_date: 1993-06-01T05:00:16-04:00
-    cover_image: /images/A_Tilers_Afternoon_2.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 8.95
-    price_cn:
-    trim_size: 5x8
-    Page_count:
+  - 9780811212403
 _slug: a-tilers-afternoon
 ---
 

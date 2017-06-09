@@ -2,31 +2,19 @@
 title: "Five by Endo"
 draft: false
 date: 2000-06-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2000-06-01T05:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-  - Stories
-language: Japanese
-authors:
-  - author/shusaku-endo.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+  - stories
+language: japanese
+author:
+  - contributor/shusaku-endo.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811214391
-    publication_date: 2000-06-01T05:00:00-04:00
-    cover_image: /images/Five_By_Endo.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 12.95
-    price_cn:
-    trim_size: 5x7
-    Page_count: 96
+  - 9780811214391
 _slug: five-by-endo
 ---
 

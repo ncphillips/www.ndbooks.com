@@ -2,42 +2,20 @@
 title: "Snakes’ Nest"
 draft: false
 date: 1981-11-01T06:00:33-04:00
-show_in_forthcoming: false
+publication_date: 1981-11-01T06:00:33-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/ledo-ivo.md
-translators:
-  - author/kern-krapohl.md
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/ledo-ivo.md
+translator:
+  - contributor/kern-krapohl.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811208079
-    publication_date: 1981-11-01T06:00:33-04:00
-    cover_image: /images/Snakes_Nest_2.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn:
-    trim_size:
-    Page_count:
-  - binding: Clothbound
-    isbn: 9780811208062
-    publication_date: 1981-11-01T06:00:33-04:00
-    cover_image: /images/Snakes_Nest_2.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811208079
+  - 9780811208062
 _slug: snakes-nest
 ---
 

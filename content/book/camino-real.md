@@ -2,31 +2,18 @@
 title: "Camino Real"
 draft: false
 date: 2008-10-01T04:59:00-04:00
-show_in_forthcoming: false
+publication_date: 2008-10-01T04:59:00-04:00
 subtitle:
-genre: Theater
+genre: theater
 subgenre:
-language: Portuguese
-authors:
-  - author/tennessee-williams.md
-translators:
-editors:
-contributors:
-  - author/john-guare.md
-featured_image:
-description: "Now with a new introduction, the author's original Foreword and Afterword, the one-act play 10 Blocks on the Camino Real, plus an essay by noted Tennessee Williams scholar, Michael Paller. "
+language: portuguese
+author:
+  - contributor/tennessee-williams.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811218061
-    publication_date: 2008-10-01T04:59:00-04:00
-    cover_image: /images/cover_camino_real_wr.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 13.95
-    price_cn: 16.00
-    trim_size: 5x8
-    Page_count: 176
+  - 9780811218061
 _slug: camino-real
 ---
 

@@ -2,42 +2,20 @@
 title: "An Elemental Thing"
 draft: false
 date: 2007-05-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2007-05-01T05:00:00-04:00
 subtitle:
-genre: Nonfiction
+genre: nonfiction
 subgenre:
-  - Essay
-language: Portuguese
-authors:
-  - author/eliot-weinberger.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "In a new cycle of linked nonfiction prose-pieces, Eliot Weinberger creates another _vortex for the entire universe._ (Boston Review) "
+  - essay
+language: portuguese
+author:
+  - contributor/eliot-weinberger.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811216944
-    publication_date: 2007-05-01T05:00:00-04:00
-    cover_image: /images/Elemental%20Thing_Weinberger.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 17.95
-    price_cn: 21.00
-    trim_size: 5x8
-    Page_count: 208
-  - binding: Ebook
-    isbn: 9780811223706
-    publication_date: 2007-05-01T05:00:00-04:00
-    cover_image_path:
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count: 208
+  - 9780811216944
+  - 9780811223706
 _slug: an-elemental-thing
 ---
 

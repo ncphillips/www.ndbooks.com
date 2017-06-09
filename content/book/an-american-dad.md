@@ -2,31 +2,19 @@
 title: "An American Dad"
 draft: false
 date: 2010-05-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2010-05-01T05:00:00-04:00
 subtitle:
-genre: Nonfiction
+genre: nonfiction
 subgenre:
-  - Memoir
+  - memoir
 language:
-authors:
-  - author/william-eric-williams.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "A heartwarming appreciation by two sons of their extraordinary father. "
+author:
+  - contributor/william-eric-williams.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811216166
-    publication_date: 2010-05-01T05:00:00-04:00
-    cover_image: /images/An_American_Dad.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size: 6x9
-    Page_count: 256
+  - 9780811216166
 _slug: an-american-dad
 ---
 

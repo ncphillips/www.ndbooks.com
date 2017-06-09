@@ -2,42 +2,20 @@
 title: "The She-Devil in the Mirror"
 draft: false
 date: 2009-09-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2009-09-01T05:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: Spanish
-authors:
-  - author/horacio-castellanos-moya.md
-translators:
-  - author/katherine-silver.md
-editors:
-contributors:
-featured_image:
-description:
+language: spanish
+author:
+  - contributor/horacio-castellanos-moya.md
+translator:
+  - contributor/katherine-silver.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811218467
-    publication_date: 2009-09-01T05:00:00-04:00
-    cover_image: /images/The_She-Devil_In_The_Mirror.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn: 19.00
-    trim_size: 5x8
-    Page_count: 192
-  - binding: Ebook
-    isbn: 9780811219853
-    publication_date: 2009-09-01T05:00:00-04:00
-    cover_image: /images/The_She-Devil_In_The_Mirror.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn:
-    trim_size:
-    Page_count: 192
+  - 9780811218467
+  - 9780811219853
 _slug: the-she-devil-in-the-mirror
 ---
 

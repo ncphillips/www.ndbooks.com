@@ -2,43 +2,20 @@
 title: "Massacre River"
 draft: false
 date: 2008-05-01T05:00:43-04:00
-show_in_forthcoming: false
+publication_date: 2008-05-01T05:00:43-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/rene-philoctete.md
-translators:
-  - author/linda-coverdale.md
-editors:
-contributors:
-  - author/edwidge-danticat.md
-featured_image:
-description: "By the acclaimed Haitian poet and scholar René Philoctète, the novel Massacre River: _a tour de force by an extraordinary writer_ (Edwidge Danticat). "
+author:
+  - contributor/rene-philoctete.md
+translator:
+  - contributor/linda-coverdale.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811217255
-    publication_date: 2008-05-01T05:00:43-04:00
-    cover_image: /images/Massacre_River.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 13.95
-    price_cn: 16.00
-    trim_size: 5x7
-    Page_count: 240
-  - binding: Clothbound
-    isbn: 9780811215855
-    publication_date: 2008-05-01T05:00:43-04:00
-    cover_image: /images/Massacre_River.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 22.95
-    price_cn:
-    trim_size: 5x7
-    Page_count: 240
+  - 9780811217255
+  - 9780811215855
 _slug: massacre-river
 ---
 

@@ -2,52 +2,20 @@
 title: "The Trace"
 draft: false
 date: 2014-11-11T19:33:00-04:00
-show_in_forthcoming: true
+publication_date: 2015-10-27T18:33:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/forrest-gander.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "A gripping road novel: an American couple travels the Chihuahua countryside encountering love, hate, and Mexican drug dealers "
+author:
+  - contributor/forrest-gander.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811224864
-    publication_date: 2015-10-27T18:33:00-04:00
-    cover_image: /images/The_Trace.png
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn: 19.50
-    trim_size:
-    Page_count: 245
-  - binding: Clothbound
-    isbn: 9780811223713
-    publication_date: 2015-10-27T18:33:00-04:00
-    cover_image: /images/The_Trace.png
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 22.95
-    price_cn: 25.95
-    trim_size:
-    Page_count: 240
-  - binding: Ebook
-    isbn: 9780811223720
-    publication_date: 2015-10-27T18:33:00-04:00
-    cover_image: /images/The_Trace.png
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count: 240
+  - 9780811224864
+  - 9780811223713
+  - 9780811223720
 _slug: the-trace
 ---
 

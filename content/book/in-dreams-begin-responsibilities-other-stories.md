@@ -2,45 +2,20 @@
 title: "In Dreams Begin Responsibilities & Other Stories"
 draft: false
 date: 2012-06-14T20:29:00-04:00
-show_in_forthcoming: false
+publication_date: 2012-06-14T20:29:00-04:00
 subtitle:
 genre:
 subgenre:
-  - Essay
+  - essay
 language:
-authors:
-  - author/delmore-schwartz.md
-translators:
-editors:
-contributors:
-  - author/irving-howe.md
-
-  - author/lou-reed.md
-featured_image:
-description: "A new edition of the definitive book on the depression-era immigrant experience in New York City. "
+author:
+  - contributor/delmore-schwartz.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811220033
-    publication_date: 2012-06-14T20:29:00-04:00
-    cover_image: /images/In_Dreams_Begin.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn: 17.00
-    trim_size:
-    Page_count: 256
-  - binding: Ebook
-    isbn: 9780811220217
-    publication_date: 2012-06-14T20:29:00-04:00
-    cover_image: /images/In_Dreams_Begin.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811220033
+  - 9780811220217
 _slug: in-dreams-begin-responsibilities-other-stories
 ---
 

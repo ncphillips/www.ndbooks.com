@@ -1,5 +1,13 @@
 {{ define "main" }}
-  {{ $section :=  where .Site.RegularPages "Section" "book" }}
+{{ $section :=  where .Site.RegularPages "Section" "book" }}
+
+  {{ $events := where $section ".Date.Unix" "ge" now.Unix }}
+  {{ $events_past := where $section.Reverse ".Date.Unix" "<" now.Unix }}
+
+
+
+
+
 <div class="{{ $.Param "page_padding_classes" }}">
   <h1 class="">
     {{ .Title }}
@@ -9,8 +17,16 @@
 
 
 
-  {{ range $section }}
-<h3 class="">{{ .Title }} -  {{ .Date.Format "Jan 02, 2006" }}</h3>
+
+
+  {{ range first 20 $section }}
+
+
+<h3 class="">{{ .Title }} -  {{ .Date.Format "Jan 02, 2006" }}
+
+  {{/* {{ $pubdate := slice (index (.Params.editions) 0).publication_date }} */}}
+
+</h3>
   {{ end }}
 
 

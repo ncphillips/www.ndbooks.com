@@ -2,52 +2,20 @@
 title: "A Far Cry from Kensington"
 draft: false
 date: 2014-05-27T15:10:00-04:00
-show_in_forthcoming: false
+publication_date: 2014-05-27T15:10:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/muriel-spark.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "The fraying fringes of 1950s literary London "
+author:
+  - contributor/muriel-spark.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811223027
-    publication_date: 2014-05-27T15:10:00-04:00
-    cover_image: /images/Far_Cry_From_Kensington.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn: 17.00
-    trim_size:
-    Page_count: 176
-  - binding: Ebook
-    isbn: 9780811220149
-    publication_date: 2014-05-27T15:10:00-04:00
-    cover_image: /images/Far_Cry_From_Kensington.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn:
-    trim_size:
-    Page_count:
-  - binding:
-    isbn:
-    publication_date: 2014-05-27T15:10:00-04:00
-    cover_image: /images/Far_Cry_From_Kensington.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811223027
+  - 9780811220149
+  -
 _slug: a-far-cry-from-kensington1
 ---
 

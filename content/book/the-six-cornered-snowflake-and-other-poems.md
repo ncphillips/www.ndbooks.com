@@ -2,41 +2,19 @@
 title: "The Six-Cornered Snowflake And Other Poems"
 draft: false
 date: 1986-10-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 1986-10-01T05:00:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/john-nims.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/john-nims.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811211444
-    publication_date: 1986-10-01T05:00:00-04:00
-    cover_image: /images/The_Six-Cornered_Snowflake_.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn:
-    trim_size:
-    Page_count:
-  - binding: Clothbound
-    isbn: 9780811211437
-    publication_date: 1986-10-01T05:00:00-04:00
-    cover_image: /images/The_Six-Cornered_Snowflake_.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn:
-    trim_size:
-    Page_count: 64
+  - 9780811211444
+  - 9780811211437
 _slug: the-six-cornered-snowflake-and-other-poems
 ---
 

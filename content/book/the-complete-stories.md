@@ -2,44 +2,21 @@
 title: "The Complete Stories"
 draft: false
 date: 2014-12-04T15:00:00-04:00
-show_in_forthcoming: true
+publication_date: 2015-08-04T04:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-  - Stories
+  - stories
 language:
-authors:
-  - author/clarice-lispector.md
-translators:
-  - author/katrina-dodson.md
-editors:
-contributors:
-  - author/benjamin-moser.md
-featured_image: /images/lispector_collected_stories_for_web.jpg
-description: "Clarice Lispector's _Complete Stories_, 86 in all, are an epiphany, among the important books of this–or any–year. "
+author:
+  - contributor/clarice-lispector.md
+translator:
+  - contributor/katrina-dodson.md
+editor:
+featured_image_path: /uploads/1427229590413/lispector_collected_stories_for_web.jpg
 editions:
-  - binding: Clothbound
-    isbn: 9780811219631
-    publication_date: 2015-08-04T04:00:00-04:00
-    cover_image: /images/lispector_collected_stories_for_web.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: $28.95
-    price_cn: $33.00
-    trim_size:
-    Page_count: 640
-  - binding: Ebook
-    isbn: 9780811224536
-    publication_date: 2015-08-04T04:00:00-04:00
-    cover_image_path:
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 28.95
-    price_cn:
-    trim_size:
-    Page_count: 640
+  - 9780811219631
+  - 9780811224536
 _slug: the-complete-stories
 ---
 

@@ -2,43 +2,21 @@
 title: "Água Viva"
 draft: false
 date: 2012-06-13T20:02:00-04:00
-show_in_forthcoming: false
+publication_date: 2012-06-13T20:02:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/clarice-lispector.md
-translators:
-  - author/stefan-tobler.md
-editors:
-  - author/benjamin-moser.md
-contributors:
-featured_image:
-description: "Lispector at her most philosophically radical. "
+author:
+  - contributor/clarice-lispector.md
+translator:
+  - contributor/stefan-tobler.md
+editor:
+  - contributor/benjamin-moser.md
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811219907
-    publication_date: 2012-06-13T20:02:00-04:00
-    cover_image: /images/Agua-Viva.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn: 16.00
-    trim_size:
-    Page_count: 128
-  - binding: Ebook
-    isbn: 9780811220729
-    publication_date: 2012-06-13T20:02:00-04:00
-    cover_image: /images/Agua-Viva.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811219907
+  - 9780811220729
 _slug: agua-viva
 ---
 

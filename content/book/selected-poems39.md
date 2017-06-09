@@ -2,30 +2,18 @@
 title: "Selected Poems of William Bronk"
 draft: false
 date: 1995-10-01T05:00:26-04:00
-show_in_forthcoming: false
+publication_date: 1995-10-01T05:00:26-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/william-bronk.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/william-bronk.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811213141
-    publication_date: 1995-10-01T05:00:26-04:00
-    cover_image: /images/Selected_Poems._William_Bronk_.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn:
-    trim_size:
-    Page_count: 96
+  - 9780811213141
 _slug: selected-poems39
 ---
 

@@ -2,31 +2,19 @@
 title: "Incarnate: Story Material"
 draft: false
 date: 2004-09-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2004-09-01T05:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-  - Stories
+  - stories
 language:
-authors:
-  - author/thalia-field.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "An enthralling new work by one of America's foremost experimental writers. "
+author:
+  - contributor/thalia-field.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811215992
-    publication_date: 2004-09-01T05:00:00-04:00
-    cover_image: /images/Incarnate_.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn:
-    trim_size: 6x9
-    Page_count: 144
+  - 9780811215992
 _slug: incarnate-story-material
 ---
 

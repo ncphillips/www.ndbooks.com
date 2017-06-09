@@ -2,41 +2,19 @@
 title: "The Comforters"
 draft: false
 date: 1994-09-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 1994-09-01T05:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/muriel-spark.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/muriel-spark.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811212854
-    publication_date: 1994-09-01T05:00:00-04:00
-    cover_image: /images/The_Comforters.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 208
-  - binding: Ebook
-    isbn: 9780811222419
-    publication_date: 1994-09-01T05:00:00-04:00
-    cover_image: /images/The_Comforters.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811212854
+  - 9780811222419
 _slug: the-comforters
 ---
 

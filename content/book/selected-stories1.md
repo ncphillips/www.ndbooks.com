@@ -2,32 +2,20 @@
 title: "Selected Stories of Adolfo Bioy Casares"
 draft: false
 date: 1994-10-01T05:00:15-04:00
-show_in_forthcoming: false
+publication_date: 1994-10-01T05:00:15-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-  - Stories
+  - stories
 language:
-authors:
-  - author/adolfo-bioy-casares.md
-translators:
-  - author/suzanne-jill-levine.md
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/adolfo-bioy-casares.md
+translator:
+  - contributor/suzanne-jill-levine.md
+editor:
+featured_image_path:
 editions:
-  - binding: Clothbound
-    isbn: 9780811212755
-    publication_date: 1994-10-01T05:00:15-04:00
-    cover_image: /images/selected-stories-adolfo-bioy-casares-hardcover-cover-art.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 25.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 178
+  - 9780811212755
 _slug: selected-stories1
 ---
 

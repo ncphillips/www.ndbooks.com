@@ -2,41 +2,19 @@
 title: "Ground Work II: In The Dark"
 draft: false
 date: 1988-02-01T06:00:00-04:00
-show_in_forthcoming: false
+publication_date: 1988-02-01T06:00:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
-language: Portuguese
-authors:
-  - author/robert-duncan.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+language: portuguese
+author:
+  - contributor/robert-duncan.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811210423
-    publication_date: 1988-02-01T06:00:00-04:00
-    cover_image: /images/Duncan_%20Ground%20Work%20II%20In%20the%20Dark.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 9.95
-    price_cn:
-    trim_size:
-    Page_count:
-  - binding: Clothbound
-    isbn: 9780811210416
-    publication_date: 1988-02-01T06:00:00-04:00
-    cover_image_path:
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 19.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811210423
+  - 9780811210416
 _slug: ground-work-ii-in-the-dark
 ---
 

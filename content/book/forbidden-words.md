@@ -2,31 +2,19 @@
 title: "Forbidden Words"
 draft: false
 date: 2003-02-01T06:00:48-04:00
-show_in_forthcoming: false
+publication_date: 2003-02-01T06:00:48-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/eugenio-de-andrade.md
-translators:
-  - author/alexis-levitin.md
-editors:
-contributors:
-featured_image:
-description: "Award-winning poetry in a bilingual edition, by Portugal's best-known living poet. "
+author:
+  - contributor/eugenio-de-andrade.md
+translator:
+  - contributor/alexis-levitin.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811215237
-    publication_date: 2003-02-01T06:00:48-04:00
-    cover_image: /images/Forbidden_Words.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 16.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 288
+  - 9780811215237
 _slug: forbidden-words
 ---
 

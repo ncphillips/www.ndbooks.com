@@ -2,43 +2,21 @@
 title: "When I Was Mortal"
 draft: false
 date: 2002-09-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2002-09-01T05:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-  - Stories
-language: Spanish
-authors:
-  - author/javier-marias.md
-translators:
-  - author/margaret-jull-costa.md
-editors:
-contributors:
-featured_image:
-description: "When I Was Mortal collects a dozen stories by Javier Marías––_the most subtle and gifted writer in contemporary Spanish Literature_ (The Boston Sunday Globe). "
+  - stories
+language: spanish
+author:
+  - contributor/javier-marias.md
+translator:
+  - contributor/margaret-jull-costa.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811215169
-    publication_date: 2002-09-01T05:00:00-04:00
-    cover_image: /images/When_I_Was_Mortal.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 13.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 176
-  - binding: Clothbound
-    isbn: 9780811214315
-    publication_date: 2002-09-01T05:00:00-04:00
-    cover_image: /images/When_I_Was_Mortal.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 21.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 176
+  - 9780811215169
+  - 9780811214315
 _slug: when-i-was-mortal
 ---
 

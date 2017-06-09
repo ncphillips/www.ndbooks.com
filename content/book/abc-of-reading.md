@@ -2,42 +2,20 @@
 title: "ABC of Reading"
 draft: false
 date: 2010-10-28T14:28:00-04:00
-show_in_forthcoming: false
+publication_date: 2010-10-28T14:28:00-04:00
 subtitle:
-genre: Nonfiction
+genre: nonfiction
 subgenre:
-  - Essay
+  - essay
 language:
-authors:
-  - author/ezra-pound.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "Ezra Pound's classic book about the meaning of literature, with a new introduction by Michael Dirda. "
+author:
+  - contributor/ezra-pound.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811218931
-    publication_date: 2010-10-28T14:28:00-04:00
-    cover_image: /images/Abc_Of_Reading.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn: 17.00
-    trim_size: 5x8
-    Page_count: 224
-  - binding: Ebook
-    isbn: 9780811223164
-    publication_date: 2010-10-28T14:28:00-04:00
-    cover_image: /images/Abc_Of_Reading.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count: 224
+  - 9780811218931
+  - 9780811223164
 _slug: abc-of-reading
 ---
 

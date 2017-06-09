@@ -2,57 +2,24 @@
 title: "Professor Borges"
 draft: false
 date: 2013-07-31T18:58:00-04:00
-show_in_forthcoming: false
+publication_date: 2013-07-31T18:58:00-04:00
 subtitle: "A Course On English Literature"
-genre: Nonfiction
+genre: nonfiction
 subgenre:
-  - Essay
-language: Spanish
-authors:
-  - author/jorge-luis-borges.md
-translators:
-  - author/katherine-silver.md
-editors:
-  - author/martin-arias.md
-
-  - author/martin-hadis.md
-contributors:
-featured_image:
-description: "In English at last, Borges’s erudite and entertaining lectures on English literature from _Beowulf_ to Oscar Wilde "
+  - essay
+language: spanish
+author:
+  - contributor/jorge-luis-borges.md
+translator:
+  - contributor/katherine-silver.md
+editor:
+  - contributor/martin-arias.md
+  - contributor/martin-hadis.md
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811222747
-    publication_date: 2013-07-31T18:58:00-04:00
-    cover_image: /images/Prof_Borges_cover_web.png
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 17.95
-    price_cn:
-    trim_size:
-    Page_count: 306
-  - binding: Clothbound
-    isbn: 9780811218757
-    publication_date: 2013-07-31T18:58:00-04:00
-    cover_image: /images/Prof_Borges_cover_web.png
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 26.50
-    price_cn: 27.00
-    trim_size:
-    Page_count: 288
-  - binding: Ebook
-    isbn: 9780811221177
-    publication_date: 2013-07-31T18:58:00-04:00
-    cover_image: /images/Prof_Borges_cover_web.png
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count: 288
+  - 9780811222747
+  - 9780811218757
+  - 9780811221177
 _slug: professor-borges
 ---
 

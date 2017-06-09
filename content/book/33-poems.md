@@ -2,30 +2,18 @@
 title: "33 Poems"
 draft: false
 date: 1988-10-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 1988-10-01T05:00:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/robert-lax.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/robert-lax.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Clothbound
-    isbn: 9780811210492
-    publication_date: 1988-10-01T05:00:00-04:00
-    cover_image: /images/33_Poems.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811210492
 _slug: 33-poems
 ---
 

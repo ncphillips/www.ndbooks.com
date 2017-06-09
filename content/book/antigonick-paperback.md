@@ -2,53 +2,21 @@
 title: " Antigonick"
 draft: false
 date: 2014-12-31T20:24:00-04:00
-show_in_forthcoming: true
+publication_date: 2015-05-29T19:24:00-04:00
 subtitle: "(Sophokles)"
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/anne-carson.md
-translators:
-  - author/anne-carson.md
-editors:
-contributors:
-featured_image:
-description: "Here in paperback is Anne Carson’s stunning translation of Sophokles’s luminous and disturbing tragedy, given entirely fresh language and new life "
+author:
+  - contributor/anne-carson.md
+translator:
+  - contributor/anne-carson.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811222938
-    publication_date: 2015-05-29T19:24:00-04:00
-    cover_image: /images/9780811222938.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn: 17.95
-    trim_size:
-    Page_count: 160
-  - binding: Clothbound
-    isbn: 9780811219570
-    publication_date: 2015-05-29T19:24:00-04:00
-    cover_image: /images/Antigonick.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 24.95
-    price_cn:
-    trim_size:
-    Page_count: 178
-  - binding: Ebook
-    isbn: 9780811222921
-    publication_date: 2015-05-29T19:24:00-04:00
-    cover_image_path:
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count: 178
+  - 9780811222938
+  - 9780811219570
+  - 9780811222921
 _slug: antigonick-paperback
 ---
 

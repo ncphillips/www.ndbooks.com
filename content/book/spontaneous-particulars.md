@@ -2,30 +2,18 @@
 title: "Spontaneous Particulars"
 draft: false
 date: 2014-10-14T18:47:00-04:00
-show_in_forthcoming: true
+publication_date: 2014-10-14T18:47:00-04:00
 subtitle: "The Telepathy of Archives"
 genre:
 subgenre:
-  - Essay
+  - essay
 language:
-authors:
-  - author/susan-howe.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "A rapturous hymn to discoveries and archives "
+author:
+  - contributor/susan-howe.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Clothbound
-    isbn: 9780811223751
-    publication_date: 2014-10-14T18:47:00-04:00
-    cover_image: /images/Spontaneous_Particulars.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count: 64
+  - 9780811223751
 _slug: spontaneous-particulars
 ---

@@ -2,32 +2,19 @@
 title: "Poems From The Book Of Hours"
 draft: false
 date: 2009-11-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2009-11-01T05:00:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
-language: Portuguese
-authors:
-  - author/rainer-rilke.md
-translators:
-  - author/babette-deutsch.md
-editors:
-contributors:
-  - author/ursula-k.-le-guin.md
-featured_image:
-description:
+language: portuguese
+author:
+  - contributor/rainer-rilke.md
+translator:
+  - contributor/babette-deutsch.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811218535
-    publication_date: 2009-11-01T05:00:00-04:00
-    cover_image: /images/Poems_From_The_Book_of_Hours.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 12.95
-    price_cn: 16.00
-    trim_size: 4x6
-    Page_count: 64
+  - 9780811218535
 _slug: poems-from-the-book-of-hours
 ---
 

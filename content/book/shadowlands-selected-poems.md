@@ -2,30 +2,18 @@
 title: "Shadowlands: Selected Poems"
 draft: false
 date: 1994-10-01T04:59:22-04:00
-show_in_forthcoming: false
+publication_date: 1994-10-01T04:59:22-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/johannes-bobrowski.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/johannes-bobrowski.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811212762
-    publication_date: 1994-10-01T04:59:22-04:00
-    cover_image: /images/Shadow_Lands_.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 10.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 208
+  - 9780811212762
 _slug: shadowlands-selected-poems
 ---
 

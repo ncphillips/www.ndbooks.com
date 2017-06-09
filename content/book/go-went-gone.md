@@ -2,42 +2,20 @@
 title: "Go, Went, Gone"
 draft: false
 date: 2017-03-10T19:07:00-04:00
-show_in_forthcoming: true
+publication_date: 2017-09-15T04:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: German
-authors:
-  - author/jenny-erpenbeck.md
-translators:
-  - author/susan-bernofsky.md
-editors:
-contributors:
-featured_image:
-description: "An unforgettable German bestseller about the European refugee crisis: “Erpenbeck will get under your skin” (Washington Post Book World) "
+language: german
+author:
+  - contributor/jenny-erpenbeck.md
+translator:
+  - contributor/susan-bernofsky.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811225946
-    publication_date: 2017-09-15T04:00:00-04:00
-    cover_image: /images/9780811225946.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 16.95
-    price_cn: 22.95
-    trim_size: 5x8
-    Page_count: 320
-  - binding: Ebook
-    isbn: 9780811225953
-    publication_date: 2017-09-15T04:00:00-04:00
-    cover_image_path:
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811225946
+  - 9780811225953
 _slug: go-went-gone
 ---
 

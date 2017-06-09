@@ -2,34 +2,19 @@
 title: "A House Not Meant To Stand"
 draft: false
 date: 2008-04-01T05:00:08-04:00
-show_in_forthcoming: false
+publication_date: 2008-04-01T05:00:08-04:00
 subtitle:
-genre: Theater
+genre: theater
 subgenre:
 language:
-authors:
-  - author/tennessee-williams.md
-translators:
-editors:
-  - author/thomas-keith.md
-contributors:
-  - author/thomas-keith.md
-
-  - author/gregory-mosher.md
-featured_image:
-description: "The spellbinding last full-length play produced during the author's lifetime is now published for the first time. "
+author:
+  - contributor/tennessee-williams.md
+translator:
+editor:
+  - contributor/thomas-keith.md
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811217095
-    publication_date: 2008-04-01T05:00:08-04:00
-    cover_image: /images/A_House_Not_Meant_To_Stand.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn: 15.00
-    trim_size: 5x8
-    Page_count: 128
+  - 9780811217095
 _slug: a-house-not-meant-to-stand
 ---
 

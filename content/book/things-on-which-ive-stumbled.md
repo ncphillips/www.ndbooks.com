@@ -2,30 +2,18 @@
 title: "Things On Which I’ve Stumbled"
 draft: false
 date: 2008-09-01T05:00:16-04:00
-show_in_forthcoming: false
+publication_date: 2008-09-01T05:00:16-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/peter-cole.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "Remarkable poems by the widely acclaimed poet and translator of Hebrew and Arabic poetry. "
+author:
+  - contributor/peter-cole.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811218030
-    publication_date: 2008-09-01T05:00:16-04:00
-    cover_image: /images/thingsonwhichivestumbled.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn: 17.00
-    trim_size: 6x9
-    Page_count: 96
+  - 9780811218030
 _slug: things-on-which-ive-stumbled
 ---
 

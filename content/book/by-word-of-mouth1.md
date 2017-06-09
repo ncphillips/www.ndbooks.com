@@ -2,33 +2,21 @@
 title: "By Word of Mouth"
 draft: false
 date: 2011-10-05T14:28:33-04:00
-show_in_forthcoming: false
+publication_date: 2011-10-05T14:28:33-04:00
 subtitle: "Poems from the Spanish, 1916–1959"
-genre: Poetry
+genre: poetry
 subgenre:
-  - Anthology
+  - anthology
 language:
-authors:
-translators:
-  - author/william-carlos-williams.md
-editors:
-  - author/jonathan-cohen.md
-contributors:
-  - author/julio-marzan.md
-featured_image:
-description: "The first collection of translations of Spanish and Latin American poetry by William Carlos Williams, containing many previously unknown poems. "
+author:
+
+translator:
+  - contributor/william-carlos-williams.md
+editor:
+  - contributor/jonathan-cohen.md
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811218856
-    publication_date: 2011-10-05T14:28:33-04:00
-    cover_image: /images/by_word_of_mouth_cover.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 16.95
-    price_cn:
-    trim_size:
-    Page_count: 144
+  - 9780811218856
 _slug: by-word-of-mouth1
 ---
 

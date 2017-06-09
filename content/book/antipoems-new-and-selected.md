@@ -2,30 +2,18 @@
 title: "Antipoems: New And Selected"
 draft: false
 date: 1985-11-01T06:00:00-04:00
-show_in_forthcoming: false
+publication_date: 1985-11-01T06:00:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
-language: Spanish
-authors:
-  - author/nicanor-parra.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+language: spanish
+author:
+  - contributor/nicanor-parra.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811209601
-    publication_date: 1985-11-01T06:00:00-04:00
-    cover_image: /images/antipoems_parra.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 17.95
-    price_cn:
-    trim_size:
-    Page_count: 224
+  - 9780811209601
 _slug: antipoems-new-and-selected
 ---
 

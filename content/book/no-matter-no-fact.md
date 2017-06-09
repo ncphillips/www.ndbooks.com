@@ -2,41 +2,19 @@
 title: "No Matter No Fact"
 draft: false
 date: 1988-03-01T06:00:00-04:00
-show_in_forthcoming: false
+publication_date: 1988-03-01T06:00:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
-language: French
-authors:
-  - author/alain-bosquet.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+language: french
+author:
+  - contributor/alain-bosquet.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811210409
-    publication_date: 1988-03-01T06:00:00-04:00
-    cover_image: /images/No_Matter_No_Fact.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 9.95
-    price_cn:
-    trim_size:
-    Page_count:
-  - binding: Clothbound
-    isbn: 9780811210393
-    publication_date: 1988-03-01T06:00:00-04:00
-    cover_image: /images/No_Matter_No_Fact.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811210409
+  - 9780811210393
 _slug: no-matter-no-fact
 ---
 

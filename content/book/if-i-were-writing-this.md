@@ -2,41 +2,19 @@
 title: "If I Were Writing This"
 draft: false
 date: 2008-08-01T05:00:42-04:00
-show_in_forthcoming: false
+publication_date: 2008-08-01T05:00:42-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/robert-creeley.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "_Robert Creeley has created a noble life body of poetry that extends the work of predecessors Pound, Williams, Zukofsky, and Olson and that provides like them a method for his successors in exploring our new American poetic consciousness._ --Allen Ginsberg "
+author:
+  - contributor/robert-creeley.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811217569
-    publication_date: 2008-08-01T05:00:42-04:00
-    cover_image: /images/If_I_Were_Writing_This.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn: 17.00
-    trim_size: 5x8
-    Page_count: 112
-  - binding: Clothbound
-    isbn: 9780811215565
-    publication_date: 2008-08-01T05:00:42-04:00
-    cover_image: /images/If_I_Were_Writing_This.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 21.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 112
+  - 9780811217569
+  - 9780811215565
 _slug: if-i-were-writing-this
 ---
 

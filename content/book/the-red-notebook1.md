@@ -2,30 +2,18 @@
 title: "The Red Notebook"
 draft: false
 date: 2013-07-16T15:14:00-04:00
-show_in_forthcoming: false
+publication_date: 2013-07-16T15:14:00-04:00
 subtitle:
-genre: Nonfiction
+genre: nonfiction
 subgenre:
 language:
-authors:
-  - author/paul-auster.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "Truth _is_ stranger than fiction "
+author:
+  - contributor/paul-auster.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811220972
-    publication_date: 2013-07-16T15:14:00-04:00
-    cover_image: /images/Red_Notebook.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 10.95
-    price_cn: 11.99
-    trim_size:
-    Page_count: 88
+  - 9780811220972
 _slug: the-red-notebook1
 ---
 

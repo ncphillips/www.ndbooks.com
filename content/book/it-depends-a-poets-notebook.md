@@ -2,42 +2,20 @@
 title: "It Depends: A Poet’s Notebook"
 draft: false
 date: 1980-12-01T05:59:23-04:00
-show_in_forthcoming: false
+publication_date: 1980-12-01T05:59:23-04:00
 subtitle:
-genre: Nonfiction
+genre: nonfiction
 subgenre:
-  - Memoir
+  - memoir
 language:
-authors:
-  - author/eugenio-montale.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/eugenio-montale.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811207749
-    publication_date: 1980-12-01T05:59:23-04:00
-    cover_image: /images/It_Depends_.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
-  - binding: Clothbound
-    isbn: 9780811207737
-    publication_date: 1980-12-01T05:59:23-04:00
-    cover_image: /images/It_Depends_.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811207749
+  - 9780811207737
 _slug: it-depends-a-poets-notebook
 ---
 

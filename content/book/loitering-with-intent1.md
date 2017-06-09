@@ -2,52 +2,20 @@
 title: "Loitering with Intent"
 draft: false
 date: 2014-05-27T15:11:00-04:00
-show_in_forthcoming: true
+publication_date: 2014-05-27T15:11:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/muriel-spark.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "Where does art start or reality end? "
+author:
+  - contributor/muriel-spark.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811223034
-    publication_date: 2014-05-27T15:11:00-04:00
-    cover_image: /images/Loitering_with_Intent_1.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn: 17.00
-    trim_size:
-    Page_count: 224
-  - binding: Ebook
-    isbn: 9780811219754
-    publication_date: 2014-05-27T15:11:00-04:00
-    cover_image_path:
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
-  - binding: Paperback
-    isbn: 9780811214742
-    publication_date: 2014-05-27T15:11:00-04:00
-    cover_image: /images/Loitering_With_Intent.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 13.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 224
+  - 9780811223034
+  - 9780811219754
+  - 9780811214742
 _slug: loitering-with-intent1
 ---
 

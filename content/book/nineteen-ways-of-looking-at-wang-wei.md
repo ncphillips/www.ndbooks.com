@@ -2,41 +2,19 @@
 title: "Nineteen Ways of Looking at Wang Wei "
 draft: false
 date: 2016-03-07T18:30:00-04:00
-show_in_forthcoming: true
+publication_date: 2016-10-11T04:00:00-04:00
 subtitle:
-genre: Nonfiction
+genre: nonfiction
 subgenre:
 language:
-authors:
-  - author/eliot-weinberger.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "The classic study of translation, finally back in print in an expanded edition "
+author:
+  - contributor/eliot-weinberger.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811226202
-    publication_date: 2016-10-11T04:00:00-04:00
-    cover_image: /images/NineteenWays_new%20cover%20copy.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 10.95
-    price_cn:
-    trim_size: 4.5 x 7.25
-    Page_count: 64
-  - binding: Ebook
-    isbn: 9780811226219
-    publication_date: 2016-10-11T04:00:00-04:00
-    cover_image_path:
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811226202
+  - 9780811226219
 _slug: nineteen-ways-of-looking-at-wang-wei
 ---
 

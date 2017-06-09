@@ -2,30 +2,18 @@
 title: "Science And Steepleflower"
 draft: false
 date: 1998-05-01T05:00:49-04:00
-show_in_forthcoming: false
+publication_date: 1998-05-01T05:00:49-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/forrest-gander.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/forrest-gander.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811213813
-    publication_date: 1998-05-01T05:00:49-04:00
-    cover_image: /images/Science_and_Steepleflower.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn: 20.00
-    trim_size:
-    Page_count: 96
+  - 9780811213813
 _slug: science-and-steepleflower
 ---
 

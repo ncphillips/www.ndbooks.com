@@ -2,31 +2,19 @@
 title: "We Always Treat Women Too Well"
 draft: false
 date: 1981-01-01T06:00:25-04:00
-show_in_forthcoming: false
+publication_date: 1981-01-01T06:00:25-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/raymond-queneau.md
-translators:
-  - author/barbara-wright.md
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/raymond-queneau.md
+translator:
+  - contributor/barbara-wright.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811207928
-    publication_date: 1981-01-01T06:00:25-04:00
-    cover_image: /images/We_Always_Treat_Women_Too_Well.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count: 174
+  - 9780811207928
 _slug: we-always-treat-women-too-well
 ---
 

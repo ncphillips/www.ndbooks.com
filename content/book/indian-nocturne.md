@@ -2,42 +2,20 @@
 title: "Indian Nocturne"
 draft: false
 date: 1989-03-01T06:00:00-04:00
-show_in_forthcoming: false
+publication_date: 1989-03-01T06:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: Italian
-authors:
-  - author/antonio-tabucchi.md
-translators:
-  - author/tim-parks.md
-editors:
-contributors:
-featured_image:
-description:
+language: italian
+author:
+  - contributor/antonio-tabucchi.md
+translator:
+  - contributor/tim-parks.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811210805
-    publication_date: 1989-03-01T06:00:00-04:00
-    cover_image: /images/Indian_Nocturne.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 12.95
-    price_cn:
-    trim_size:
-    Page_count: 88
-  - binding: Ebook
-    isbn: 9780811221443
-    publication_date: 1989-03-01T06:00:00-04:00
-    cover_image: /images/Indian_Nocturne.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 12.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811210805
+  - 9780811221443
 _slug: indian-nocturne
 ---
 

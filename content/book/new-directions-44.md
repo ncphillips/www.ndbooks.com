@@ -2,41 +2,20 @@
 title: "New Directions 44"
 draft: false
 date: 1982-06-01T05:00:47-04:00
-show_in_forthcoming: false
+publication_date: 1982-06-01T05:00:47-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-  - Anthology
+  - anthology
 language:
-authors:
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811208397
-    publication_date: 1982-06-01T05:00:47-04:00
-    cover_image: /images/New_Directions_44.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
-  - binding: Clothbound
-    isbn: 9780811208383
-    publication_date: 1982-06-01T05:00:47-04:00
-    cover_image: /images/New_Directions_44.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 16.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811208397
+  - 9780811208383
 _slug: new-directions-44
 ---
 

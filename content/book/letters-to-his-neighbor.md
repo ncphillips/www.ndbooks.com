@@ -2,42 +2,20 @@
 title: "Letters to His Neighbor"
 draft: false
 date: 2017-01-20T16:29:00-04:00
-show_in_forthcoming: true
+publication_date: 2017-08-22T04:00:00-04:00
 subtitle:
-genre: Nonfiction
+genre: nonfiction
 subgenre:
-language: French
-authors:
-  - author/marcel-proust.md
-translators:
-  - author/lydia-davis.md
-editors:
-contributors:
-featured_image:
-description: "**Brilliantly translated by Lydia Davis, here are Proust's tormented, touching, and often very funny letters to his noisy neighbor** "
+language: french
+author:
+  - contributor/marcel-proust.md
+translator:
+  - contributor/lydia-davis.md
+editor:
+featured_image_path:
 editions:
-  - binding: Clothbound
-    isbn: 9780811224116
-    publication_date: 2017-08-22T04:00:00-04:00
-    cover_image: /images/revised%20Proust%20cover.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 22.95
-    price_cn: 29.95
-    trim_size: 6x9
-    Page_count: 128
-  - binding: Ebook
-    isbn: 9780811224123
-    publication_date: 2017-08-22T04:00:00-04:00
-    cover_image_path:
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811224116
+  - 9780811224123
 _slug: letters-to-his-neighbor
 ---
 

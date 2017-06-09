@@ -2,30 +2,19 @@
 title: "Fresno Stories"
 draft: false
 date: 1994-11-01T06:00:13-04:00
-show_in_forthcoming: false
+publication_date: 1994-11-01T06:00:13-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-  - Stories
+  - stories
 language:
-authors:
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811212823
-    publication_date: 1994-11-01T06:00:13-04:00
-    cover_image: /images/Fresno_Stories.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 10.95
-    price_cn: 12.00
-    trim_size: 5x7
-    Page_count: 96
+  - 9780811212823
 _slug: fresno-stories
 ---
 

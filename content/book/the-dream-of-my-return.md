@@ -2,42 +2,20 @@
 title: "The Dream of My Return"
 draft: false
 date: 2015-03-10T14:41:00-04:00
-show_in_forthcoming: false
+publication_date: 2015-03-10T14:41:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/horacio-castellanos-moya.md
-translators:
-  - author/katherine-silver.md
-editors:
-contributors:
-featured_image:
-description: "A high-octane paranoia deranges a writer and fuels a dangerous plan to return home to El Salvador at the tail end of its long civil war. "
+author:
+  - contributor/horacio-castellanos-moya.md
+translator:
+  - contributor/katherine-silver.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811223430
-    publication_date: 2015-03-10T14:41:00-04:00
-    cover_image: /images/castellanos_moya_dream_cover.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn: 17.95
-    trim_size:
-    Page_count: 160
-  - binding: Ebook
-    isbn: 9780811223447
-    publication_date: 2015-03-10T14:41:00-04:00
-    cover_image: /images/castellanos_moya_dream_cover.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811223430
+  - 9780811223447
 _slug: the-dream-of-my-return
 ---
 

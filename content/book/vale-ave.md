@@ -2,30 +2,18 @@
 title: "Vale Ave"
 draft: false
 date: 2013-07-10T19:19:00-04:00
-show_in_forthcoming: false
+publication_date: 2013-07-10T19:19:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/hilda-doolittle-h.-d.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/hilda-doolittle-h.-d.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811221078
-    publication_date: 2013-07-10T19:19:00-04:00
-    cover_image: /images/Vale_Ave.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 10.95
-    price_cn: 11.99
-    trim_size:
-    Page_count: 48
+  - 9780811221078
 _slug: vale-ave
 ---
 

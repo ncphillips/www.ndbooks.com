@@ -2,43 +2,21 @@
 title: "The Quarry"
 draft: false
 date: 2015-03-26T21:15:00-04:00
-show_in_forthcoming: true
+publication_date: 2015-12-07T05:00:00-04:00
 subtitle:
-genre: Nonfiction
+genre: nonfiction
 subgenre:
-  - Essay
-  - Non fiction
+  - essay
+  - non fiction
 language:
-authors:
-  - author/susan-howe.md
-translators:
-editors:
-contributors:
-featured_image: /images/Quarry.jpg
-description:
+author:
+  - contributor/susan-howe.md
+translator:
+editor:
+featured_image_path: /uploads/1471985875696/Quarry.jpg
 editions:
-  - binding:
-    isbn: 9780811222464
-    publication_date: 2015-12-07T05:00:00-04:00
-    cover_image: /images/quarry_cover.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 16.95
-    price_cn: 19.95
-    trim_size: 5 x 8"
-    Page_count: 224
-  - binding: Ebook
-    isbn: 9780811224543
-    publication_date: 2015-12-07T05:00:00-04:00
-    cover_image_path:
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811222464
+  - 9780811224543
 _slug: the-quarry
 ---
 

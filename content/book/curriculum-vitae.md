@@ -2,31 +2,19 @@
 title: "Curriculum Vitae"
 draft: false
 date: 2009-07-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2009-07-01T05:00:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/yoel-hoffmann.md
-translators:
-  - author/peter-cole.md
-editors:
-contributors:
-featured_image:
-description: "Curriculum Vitae shows Yoel Hoffmann – _Israel's celebrated avant-garde genius_ (Forward) – flying all his colors, in a highly autobiographical work. "
+author:
+  - contributor/yoel-hoffmann.md
+translator:
+  - contributor/peter-cole.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811218320
-    publication_date: 2009-07-01T05:00:00-04:00
-    cover_image: /images/Curriculum_vitae_yoel.JPG
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn: 19.00
-    trim_size: 5x8
-    Page_count: 128
+  - 9780811218320
 _slug: curriculum-vitae
 ---
 

@@ -2,54 +2,22 @@
 title: "Little Misunderstandings of No Importance"
 draft: false
 date: 1987-09-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 1987-09-01T05:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-  - Stories
-language: Italian
-authors:
-  - author/antonio-tabucchi.md
-translators:
-  - author/frances-frenaye.md
-editors:
-contributors:
-featured_image:
-description:
+  - stories
+language: italian
+author:
+  - contributor/antonio-tabucchi.md
+translator:
+  - contributor/frances-frenaye.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811211116
-    publication_date: 1987-09-01T05:00:00-04:00
-    cover_image: /images/little-misunderstandings-no-importance-antonio-tabucchi-paperback-cover-art.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn:
-    trim_size:
-    Page_count: 144
-  - binding: Clothbound
-    isbn: 9780811210294
-    publication_date: 1987-09-01T05:00:00-04:00
-    cover_image: /images/little-misunderstandings-no-importance-antonio-tabucchi-paperback-cover-art.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count: 144
-  - binding: Ebook
-    isbn: 9780811222440
-    publication_date: 1987-09-01T05:00:00-04:00
-    cover_image: /images/little-misunderstandings-no-importance-antonio-tabucchi-paperback-cover-art.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn:
-    trim_size:
-    Page_count: 144
+  - 9780811211116
+  - 9780811210294
+  - 9780811222440
 _slug: little-misunderstandings-of-no-importance
 ---
 

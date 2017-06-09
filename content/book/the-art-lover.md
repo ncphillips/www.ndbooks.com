@@ -2,30 +2,18 @@
 title: "The Art Lover"
 draft: false
 date: 2006-06-01T05:00:25-04:00
-show_in_forthcoming: false
+publication_date: 2006-06-01T05:00:25-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/carole-maso.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/carole-maso.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811216296
-    publication_date: 2006-06-01T05:00:25-04:00
-    cover_image: /images/The_Art_Lover.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn: 21.00
-    trim_size:
-    Page_count: 176
+  - 9780811216296
 _slug: the-art-lover
 ---
 

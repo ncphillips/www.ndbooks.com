@@ -2,34 +2,20 @@
 title: "Fairy Tales"
 draft: false
 date: 2015-03-26T19:37:00-04:00
-show_in_forthcoming: true
+publication_date: 2015-04-20T14:53:00-04:00
 subtitle: "Dramolettes"
-genre: Theater
+genre: theater
 subgenre:
-language: German
-authors:
-  - author/robert-walser.md
-translators:
-  - author/james-reidel.md
-
-  - author/daniele-pantano.md
-editors:
-contributors:
-  - author/reto-sorg.md
-featured_image:
-description: "Four mini-plays by the German wunderkind and asylum-dweller "
+language: german
+author:
+  - contributor/robert-walser.md
+translator:
+  - contributor/james-reidel.md
+  - contributor/daniele-pantano.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811223980
-    publication_date: 2015-04-20T14:53:00-04:00
-    cover_image: /images/9780811223980.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn: 17.95
-    trim_size:
-    Page_count: 108
+  - 9780811223980
 _slug: fairy-tales
 ---
 

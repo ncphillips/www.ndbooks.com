@@ -2,45 +2,22 @@
 title: "The Selected Letters of Tennessee Williams Vol. I: 1920-1945"
 draft: false
 date: 2002-09-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2002-09-01T05:00:00-04:00
 subtitle:
-genre: Nonfiction
+genre: nonfiction
 subgenre:
-  - Correspondence
+  - correspondence
 language:
-authors:
-  - author/tennessee-williams.md
-translators:
-editors:
-  - author/albert-j.-devlin.md
-
-  - author/nancy-m.-tischler.md
-contributors:
-featured_image:
-description: "Winner of the Morton N. Cohen Award _for a distinguished edition of letters,_ Modern Language Association, 2001. "
+author:
+  - contributor/tennessee-williams.md
+translator:
+editor:
+  - contributor/albert-j.-devlin.md
+  - contributor/nancy-m.-tischler.md
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811215275
-    publication_date: 2002-09-01T05:00:00-04:00
-    cover_image: /images/The_Selected_Letters_Of_Tennessee_Williams_Volume_I.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 21.95
-    price_cn:
-    trim_size: 6x9
-    Page_count: 608
-  - binding: Clothbound
-    isbn: 9780811214452
-    publication_date: 2002-09-01T05:00:00-04:00
-    cover_image: /images/The_Selected_Letters_Of_Tennessee_Williams_Volume_I.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 37.00
-    price_cn:
-    trim_size: 6x9
-    Page_count: 608
+  - 9780811215275
+  - 9780811214452
 _slug: the-selected-letters.-vol.-i-1920-1945
 ---
 

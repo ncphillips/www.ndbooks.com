@@ -2,17 +2,16 @@
 title: "The Desire and the Pursuit of the Whole"
 draft: false
 date: 2001-09-01T17:23:40-04:00
-show_in_forthcoming: false
+publication_date: 2001-09-01T17:23:40-04:00
 subtitle:
 genre:
 subgenre:
 language:
-authors:
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+
+translator:
+editor:
+featured_image_path:
 editions:
 _slug: the-desire-and-the-pursuit-of-the-whole
 ---

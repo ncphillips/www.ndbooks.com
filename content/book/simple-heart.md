@@ -2,30 +2,18 @@
 title: "A Simple Heart"
 draft: false
 date: 1996-04-01T06:00:50-04:00
-show_in_forthcoming: false
+publication_date: 1996-04-01T06:00:50-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/gustave-flaubert.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/gustave-flaubert.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811213189
-    publication_date: 1996-04-01T06:00:50-04:00
-    cover_image: /images/A_Simple_Heart_.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 11.95
-    price_cn:
-    trim_size: 5x7
-    Page_count:
+  - 9780811213189
 _slug: simple-heart
 ---
 

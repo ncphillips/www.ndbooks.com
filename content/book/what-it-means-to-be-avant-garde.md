@@ -2,30 +2,18 @@
 title: "What It Means To Be Avant-Garde"
 draft: false
 date: 2001-01-01T06:00:28-04:00
-show_in_forthcoming: false
+publication_date: 2001-01-01T06:00:28-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/david-antin.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/david-antin.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811212380
-    publication_date: 2001-01-01T06:00:28-04:00
-    cover_image: /images/What_It_Means_To_Be_Avant-Garde.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811212380
 _slug: what-it-means-to-be-avant-garde
 ---
 

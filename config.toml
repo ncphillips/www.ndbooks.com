@@ -3,7 +3,10 @@ baseURL = "https://example.com"
 languageCode = "en-us"
 theme = "thenewdynamic-hugo-core-theme"
 
-ignoreFiles = [ "author\/$" ]
+# [outputs]
+#  page = ["HTML"]
+
+#ignoreFiles = [ "author\/$" ]
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
@@ -25,7 +28,7 @@ enableRobotsTXT = true
   instagram = ""
   youtube = ""
   amp = false
-  
+
   body_classes = "sans-serif bg-near-white"
   page_padding_classes = "ph3 ph5-l"
   #headerClasses = "bg-purple mid-gray"

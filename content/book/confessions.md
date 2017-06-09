@@ -2,42 +2,20 @@
 title: "Confessions"
 draft: false
 date: 2015-10-15T18:18:00-04:00
-show_in_forthcoming: true
+publication_date: 2016-03-21T04:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: Arabic
-authors:
-  - author/rabee-jaber.md
-translators:
-  - author/kareem-james-abu-zeid.md
-editors:
-contributors:
-featured_image:
-description: "A powerful thriller about trauma and forgiveness, from the winner of the International Prize for Arabic Fiction "
+language: arabic
+author:
+  - contributor/rabee-jaber.md
+translator:
+  - contributor/kareem-james-abu-zeid.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811220675
-    publication_date: 2016-03-21T04:00:00-04:00
-    cover_image: /images/CONFESSIONS.tif
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: $15.95
-    price_cn: $20.95
-    trim_size:
-    Page_count: 224
-  - binding: Ebook
-    isbn: 9780811220682
-    publication_date: 2016-03-21T04:00:00-04:00
-    cover_image_path:
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811220675
+  - 9780811220682
 _slug: confessions
 ---
 

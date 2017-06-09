@@ -2,30 +2,18 @@
 title: "Child Of Nature"
 draft: false
 date: 2010-02-01T06:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2010-02-01T06:00:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
-language: Albanian
-authors:
-  - author/luljeta-lleshanaku.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "A powerful exploration of Albania's intense totalitarian past. "
+language: albanian
+author:
+  - contributor/luljeta-lleshanaku.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811218474
-    publication_date: 2010-02-01T06:00:00-04:00
-    cover_image: /images/Child_Of_Nature.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 13.95
-    price_cn: 18.00
-    trim_size: 6x9
-    Page_count: 108
+  - 9780811218474
 _slug: child-of-nature
 ---
 

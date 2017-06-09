@@ -2,31 +2,19 @@
 title: "Outside Stories"
 draft: false
 date: 1992-10-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 1992-10-01T05:00:00-04:00
 subtitle:
-genre: Nonfiction
+genre: nonfiction
 subgenre:
-  - Essay
+  - essay
 language:
-authors:
-  - author/eliot-weinberger.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/eliot-weinberger.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811212212
-    publication_date: 1992-10-01T05:00:00-04:00
-    cover_image: /images/OutsideStories.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 10.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811212212
 _slug: outside-stories-1987-1991
 ---
 

@@ -2,32 +2,20 @@
 title: "7 Greeks"
 draft: false
 date: 1995-06-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 1995-06-01T05:00:00-04:00
 subtitle:
-genre: Theater
+genre: theater
 subgenre:
-  - Anthology
+  - anthology
 language:
-authors:
-  - author/guy-davenport.md
-translators:
-  - author/guy-davenport.md
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/guy-davenport.md
+translator:
+  - contributor/guy-davenport.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811212885
-    publication_date: 1995-06-01T05:00:00-04:00
-    cover_image: /images/7_Greeks.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 16.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 254
+  - 9780811212885
 _slug: 7-greeks
 ---
 

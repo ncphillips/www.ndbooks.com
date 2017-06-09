@@ -2,43 +2,20 @@
 title: "Tribute to Freud"
 draft: false
 date: 2012-06-12T20:39:00-04:00
-show_in_forthcoming: false
+publication_date: 2012-06-12T20:39:00-04:00
 subtitle:
 genre:
 subgenre:
-  - Memoir
+  - memoir
 language:
-authors:
-  - author/hilda-doolittle-h.-d.md
-translators:
-editors:
-contributors:
-  - author/adam-phillips.md
-featured_image:
-description: "A classic of American literature, now with a new introduction by iconic author and psychotherapist Adam Phillips. "
+author:
+  - contributor/hilda-doolittle-h.-d.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811220040
-    publication_date: 2012-06-12T20:39:00-04:00
-    cover_image: /images/Tribute-to-Freud2.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn: 17.00
-    trim_size:
-    Page_count: 224
-  - binding: Ebook
-    isbn: 9780811220200
-    publication_date: 2012-06-12T20:39:00-04:00
-    cover_image: /images/Tribute-to-Freud2.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811220040
+  - 9780811220200
 _slug: tribute-to-freud1
 ---
 

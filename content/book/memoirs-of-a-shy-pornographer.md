@@ -2,30 +2,18 @@
 title: "Memoirs of a Shy Pornographer"
 draft: false
 date: 1999-06-01T05:00:41-04:00
-show_in_forthcoming: false
+publication_date: 1999-06-01T05:00:41-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/kenneth-patchen.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/kenneth-patchen.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811214117
-    publication_date: 1999-06-01T05:00:41-04:00
-    cover_image: /images/Memoirs_Of_A_Shy_Pornographer.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 14.00
-    price_cn:
-    trim_size:
-    Page_count: 256
+  - 9780811214117
 _slug: memoirs-of-a-shy-pornographer
 ---
 

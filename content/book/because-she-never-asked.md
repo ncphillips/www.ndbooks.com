@@ -2,31 +2,19 @@
 title: "Because She Never Asked"
 draft: false
 date: 2015-04-27T18:44:00-04:00
-show_in_forthcoming: true
+publication_date: 2015-11-10T05:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: Spanish
-authors:
-  - author/enrique-vila-matas.md
-translators:
-  - author/valerie-miles.md
-editors:
-contributors:
-featured_image:
-description: "A novella–half jokes and half nightmare–by “Spain's most significant contemporary literary figure” (_The New Yorker_) "
+language: spanish
+author:
+  - contributor/enrique-vila-matas.md
+translator:
+  - contributor/valerie-miles.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811222754
-    publication_date: 2015-11-10T05:00:00-04:00
-    cover_image: /images/because_she_never_cover.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 10.95
-    price_cn: 12.95
-    trim_size: 4 x 7
-    Page_count: 80
+  - 9780811222754
 _slug: because-she-never-asked
 ---
 

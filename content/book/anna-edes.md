@@ -2,31 +2,19 @@
 title: "Anna Edes"
 draft: false
 date: 1993-11-01T06:00:29-04:00
-show_in_forthcoming: false
+publication_date: 1993-11-01T06:00:29-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/dezs-kosztolanyi.md
-translators:
-  - author/george-szirtes.md
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/dezs-kosztolanyi.md
+translator:
+  - contributor/george-szirtes.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811212557
-    publication_date: 1993-11-01T06:00:29-04:00
-    cover_image: /images/Anna_Edes.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 17.95
-    price_cn:
-    trim_size: 5x8
-    Page_count:
+  - 9780811212557
 _slug: anna-edes
 ---
 

@@ -2,41 +2,19 @@
 title: "The Reproduction Of Profiles"
 draft: false
 date: 1987-11-01T06:00:00-04:00
-show_in_forthcoming: false
+publication_date: 1987-11-01T06:00:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/rosmarie-waldrop.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/rosmarie-waldrop.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811210456
-    publication_date: 1987-11-01T06:00:00-04:00
-    cover_image: /images/The_Reproductions_Of_Profiles.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
-  - binding: Clothbound
-    isbn: 9780811210447
-    publication_date: 1987-11-01T06:00:00-04:00
-    cover_image: /images/The_Reproductions_Of_Profiles.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811210456
+  - 9780811210447
 _slug: the-reproduction-of-profiles
 ---
 

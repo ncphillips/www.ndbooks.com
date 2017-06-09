@@ -2,31 +2,18 @@
 title: "Miss Lonelyhearts"
 draft: false
 date: 2013-07-17T15:25:00-04:00
-show_in_forthcoming: false
+publication_date: 2013-07-17T15:25:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/nathanael-west-n.md
-translators:
-editors:
-contributors:
-  - author/harold-bloom.md
-featured_image:
-description: "One writer's degrading day job as a lonely hearts advice columnist is only the beginning of his nightmarish existence "
+author:
+  - contributor/nathanael-west-n.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811220934
-    publication_date: 2013-07-17T15:25:00-04:00
-    cover_image: /images/Miss_Lonelyhearts.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 11.95
-    price_cn: 12.99
-    trim_size:
-    Page_count: 112
+  - 9780811220934
 _slug: miss-lonelyhearts
 ---
 

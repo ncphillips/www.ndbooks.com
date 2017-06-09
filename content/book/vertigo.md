@@ -2,31 +2,19 @@
 title: "Vertigo"
 draft: false
 date: 2016-03-07T21:13:00-04:00
-show_in_forthcoming: true
+publication_date: 2016-11-08T05:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: German
-authors:
-  - author/W._G._Sebald.md
-translators:
-  - author/michael-hulse.md
-editors:
-contributors:
-featured_image:
-description:
+language: german
+author:
+  - contributor/W._G._Sebald.md
+translator:
+  - contributor/michael-hulse.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811226165
-    publication_date: 2016-11-08T05:00:00-04:00
-    cover_image: /images/vertigo_to_size.tif
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 16.95
-    price_cn:
-    trim_size: 5 x 8
-    Page_count: 272
+  - 9780811226165
 _slug: vertigo
 ---
 

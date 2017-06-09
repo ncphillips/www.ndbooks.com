@@ -2,30 +2,18 @@
 title: "The Invention of Curried Sausage"
 draft: false
 date: 1997-10-01T05:00:22-04:00
-show_in_forthcoming: false
+publication_date: 1997-10-01T05:00:22-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/uwe-timm.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/uwe-timm.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811213684
-    publication_date: 1997-10-01T05:00:22-04:00
-    cover_image: /images/The_Invention_Of_Curried_Sausage.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 13.95
-    price_cn:
-    trim_size: 5x7
-    Page_count: 224
+  - 9780811213684
 _slug: the-invention-of-curried-sausage
 ---
 

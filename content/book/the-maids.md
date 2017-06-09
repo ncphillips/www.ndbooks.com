@@ -2,31 +2,19 @@
 title: "The Maids"
 draft: false
 date: 2016-07-11T15:01:00-04:00
-show_in_forthcoming: true
+publication_date: 2017-04-25T23:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: Japanese
-authors:
-  - author/junichiro-tanizaki.md
-translators:
-  - author/michael-p-cronin.md
-editors:
-contributors:
-featured_image:
-description: "A major discovery: Tanizaki's wonderful final novel—now in English "
+language: japanese
+author:
+  - contributor/junichiro-tanizaki.md
+translator:
+  - contributor/michael-p-cronin.md
+editor:
+featured_image_path:
 editions:
-  - binding: Clothbound
-    isbn: 9780811224925
-    publication_date: 2017-04-25T23:00:00-04:00
-    cover_image: /images/tanizaki_the_maids_jacket.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 22.95
-    price_cn: 30.95
-    trim_size: 5 x 8"
-    Page_count: 224
+  - 9780811224925
 _slug: the-maids
 ---
 

@@ -2,41 +2,19 @@
 title: "Pre-Faces & Other Writings"
 draft: false
 date: 1981-06-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 1981-06-01T05:00:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/jerome-rothenberg.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/jerome-rothenberg.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811207867
-    publication_date: 1981-06-01T05:00:00-04:00
-    cover_image: /images/Pre-Faces__Other_Writings.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 6.95
-    price_cn:
-    trim_size:
-    Page_count:
-  - binding: Clothbound
-    isbn: 9780811207850
-    publication_date: 1981-06-01T05:00:00-04:00
-    cover_image: /images/Pre-Faces__Other_Writings.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811207867
+  - 9780811207850
 _slug: pre-faces-other-writings
 ---
 

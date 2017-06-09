@@ -2,30 +2,18 @@
 title: "Fugitive Kind"
 draft: false
 date: 2001-06-01T05:00:25-04:00
-show_in_forthcoming: false
+publication_date: 2001-06-01T05:00:25-04:00
 subtitle:
-genre: Theater
+genre: theater
 subgenre:
 language:
-authors:
-  - author/tennessee-williams.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/tennessee-williams.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811214728
-    publication_date: 2001-06-01T05:00:25-04:00
-    cover_image: /images/Fugitive_Kind.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 13.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 128
+  - 9780811214728
 _slug: fugitive-kind
 ---
 

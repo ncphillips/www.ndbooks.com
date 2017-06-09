@@ -2,30 +2,18 @@
 title: "House Of Children"
 draft: false
 date: 1986-11-01T06:00:38-04:00
-show_in_forthcoming: false
+publication_date: 1986-11-01T06:00:38-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/joyce-cary.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/joyce-cary.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811210089
-    publication_date: 1986-11-01T06:00:38-04:00
-    cover_image: /images/House_Of_Children.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 8.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811210089
 _slug: house-of-children
 ---
 

@@ -2,31 +2,19 @@
 title: "Romantic Dogs"
 draft: false
 date: 2008-11-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2008-11-01T05:00:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
-language: Spanish
-authors:
-  - author/roberto-bolano.md
-translators:
-  - author/laura-healy.md
-editors:
-contributors:
-featured_image:
-description: "“Bolano wrote with the high-voltage first-person braininess of a Saul Bellow and an extreme subversive vision of his own.” –Francisco Goldman, The New York Times Magazine "
+language: spanish
+author:
+  - contributor/roberto-bolano.md
+translator:
+  - contributor/laura-healy.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811218016
-    publication_date: 2008-11-01T05:00:00-04:00
-    cover_image: /images/theromanticdogs.JPG
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn: 17.00
-    trim_size: 5x8
-    Page_count: 128
+  - 9780811218016
 _slug: romantic-dogs
 ---
 

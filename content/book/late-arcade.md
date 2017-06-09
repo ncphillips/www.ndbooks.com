@@ -2,41 +2,19 @@
 title: "Late Arcade"
 draft: false
 date: 2016-07-11T15:03:00-04:00
-show_in_forthcoming: true
+publication_date: 2017-02-28T05:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/nathaniel-mackey.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "A new volume of the singular, ongoing, great American jazz novel "
+author:
+  - contributor/nathaniel-mackey.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811226608
-    publication_date: 2017-02-28T05:00:00-04:00
-    cover_image: /images/9780811226608.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 16.95
-    price_cn: 22.95
-    trim_size: 5 x 8"
-    Page_count: 224
-  - binding: Ebook
-    isbn: 9780811226615
-    publication_date: 2017-02-28T05:00:00-04:00
-    cover_image_path:
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811226608
+  - 9780811226615
 _slug: late-arcade
 ---
 

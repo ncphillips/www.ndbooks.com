@@ -2,30 +2,18 @@
 title: "Pneumatic Antiphonal"
 draft: false
 date: 2013-03-26T20:14:00-04:00
-show_in_forthcoming: false
+publication_date: 2013-03-26T20:14:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/sylvia-legris.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "The debut American publication by the winner of the 2006 Griffin Poetry Prize "
+author:
+  - contributor/sylvia-legris.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811220408
-    publication_date: 2013-03-26T20:14:00-04:00
-    cover_image: /images/Pneumatic_Antiphonal_1.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 10.95
-    price_cn: 11.99
-    trim_size:
-    Page_count: 48
+  - 9780811220408
 _slug: pneumatic-antiphonal
 ---
 

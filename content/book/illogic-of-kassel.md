@@ -2,44 +2,21 @@
 title: "Illogic of Kassel"
 draft: false
 date: 2014-12-31T21:39:00-04:00
-show_in_forthcoming: true
+publication_date: 2015-06-09T20:39:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: Spanish
-authors:
-  - author/enrique-vila-matas.md
-translators:
-  - author/anne-mclean.md
-
-  - author/anna-milsom.md
-editors:
-contributors:
-featured_image:
-description:
+language: spanish
+author:
+  - contributor/enrique-vila-matas.md
+translator:
+  - contributor/anne-mclean.md
+  - contributor/anna-milsom.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811221438
-    publication_date: 2015-06-09T20:39:00-04:00
-    cover_image: /images/Kassel_cover_for_galley.tif
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 16.95
-    price_cn: 18.95
-    trim_size:
-    Page_count: 256
-  - binding: Ebook
-    isbn: 97808111221498
-    publication_date: 2015-06-09T20:39:00-04:00
-    cover_image_path:
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 16.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811221438
+  - 97808111221498
 _slug: illogic-of-kassel
 ---
 

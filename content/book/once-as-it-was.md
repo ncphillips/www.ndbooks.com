@@ -2,31 +2,19 @@
 title: "Once As It Was"
 draft: false
 date: 2008-02-01T06:00:19-04:00
-show_in_forthcoming: false
+publication_date: 2008-02-01T06:00:19-04:00
 subtitle:
-genre: Nonfiction
+genre: nonfiction
 subgenre:
-  - Memoir
+  - memoir
 language:
-authors:
-  - author/griselda-ohannessian.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "An unconventional family idyll set on a gentleman's farm in Pennsylvania in the 1930s, Once: As It Was is a vibrant pastoral memoir that mixes unsentimentality with childhood innocence in a moving story that builds to a spine-tingling confrontation. "
+author:
+  - contributor/griselda-ohannessian.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811216609
-    publication_date: 2008-02-01T06:00:19-04:00
-    cover_image: /images/Once_As_It_Was.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 13.95
-    price_cn: 18.00
-    trim_size: 5x8
-    Page_count: 160
+  - 9780811216609
 _slug: once-as-it-was
 ---
 

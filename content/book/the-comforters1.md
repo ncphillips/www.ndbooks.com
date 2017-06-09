@@ -2,41 +2,19 @@
 title: "The Comforters"
 draft: false
 date: 2014-04-29T14:10:00-04:00
-show_in_forthcoming: false
+publication_date: 2014-04-29T14:10:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/muriel-spark.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "Spark’s stunning 1957 debut "
+author:
+  - contributor/muriel-spark.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811223003
-    publication_date: 2014-04-29T14:10:00-04:00
-    cover_image: /images/Comforters.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn: 17.00
-    trim_size:
-    Page_count: 224
-  - binding: Ebook
-    isbn: 9780811222419
-    publication_date: 2014-04-29T14:10:00-04:00
-    cover_image: /images/Comforters.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811223003
+  - 9780811222419
 _slug: the-comforters1
 ---
 

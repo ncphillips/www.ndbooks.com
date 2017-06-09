@@ -2,42 +2,20 @@
 title: "Seiobo There Below"
 draft: false
 date: 2013-09-24T16:26:00-04:00
-show_in_forthcoming: false
+publication_date: 2013-09-24T16:26:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: Hungarian
-authors:
-  - author/laszlo-krasznahorkai.md
-translators:
-  - author/ottilie-mulzet.md
-editors:
-contributors:
-featured_image:
-description: "The latest novel from “the contemporary Hungarian master of the apocalypse” (Susan Sontag) "
+language: hungarian
+author:
+  - contributor/laszlo-krasznahorkai.md
+translator:
+  - contributor/ottilie-mulzet.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811219679
-    publication_date: 2013-09-24T16:26:00-04:00
-    cover_image: /images/seiobo_there_below.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 16.95
-    price_cn: 18.00
-    trim_size:
-    Page_count: 448
-  - binding: Ebook
-    isbn: 9780811221191
-    publication_date: 2013-09-24T16:26:00-04:00
-    cover_image: /images/seiobo_there_below.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811219679
+  - 9780811221191
 _slug: seiobo-there-below
 ---
 

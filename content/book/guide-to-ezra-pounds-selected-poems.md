@@ -2,31 +2,19 @@
 title: "Guide To Ezra Pound’s Selected Poems"
 draft: false
 date: 1983-02-01T06:00:56-04:00
-show_in_forthcoming: false
+publication_date: 1983-02-01T06:00:56-04:00
 subtitle:
-genre: Nonfiction
+genre: nonfiction
 subgenre:
-  - Criticism
+  - criticism
 language:
-authors:
-  - author/christine-froula.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/christine-froula.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811208574
-    publication_date: 1983-02-01T06:00:56-04:00
-    cover_image: /images/Guide_To_Ezra_Pounds_Selected_Poems_2.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811208574
 _slug: guide-to-ezra-pounds-selected-poems
 ---
 

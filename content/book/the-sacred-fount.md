@@ -2,30 +2,18 @@
 title: "The Sacred Fount"
 draft: false
 date: 1995-01-01T06:00:37-04:00
-show_in_forthcoming: false
+publication_date: 1995-01-01T06:00:37-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/henry-james.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/henry-james.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811212793
-    publication_date: 1995-01-01T06:00:37-04:00
-    cover_image: /images/The_Sacred_Fount.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 18.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 240
+  - 9780811212793
 _slug: the-sacred-fount
 ---
 

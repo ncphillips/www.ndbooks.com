@@ -2,53 +2,21 @@
 title: "The Skating Rink"
 draft: false
 date: 2001-01-09T06:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2001-01-09T06:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: Spanish
-authors:
-  - author/roberto-bolano.md
-translators:
-  - author/chris-andrews.md
-editors:
-contributors:
-featured_image:
-description: "One-half brooding crime novel, one-half classic by _literature's new patron saint_ (Sam Anderson, _New York Magazine_) "
+language: spanish
+author:
+  - contributor/roberto-bolano.md
+translator:
+  - contributor/chris-andrews.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811218689
-    publication_date: 2001-01-09T06:00:00-04:00
-    cover_image: /images/The_Skating_Rink.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn: 19.00
-    trim_size: 5x8
-    Page_count: 208
-  - binding: Clothbound
-    isbn: 9780811217132
-    publication_date: 2001-01-09T06:00:00-04:00
-    cover_image: /images/The_Skating_Rink.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 21.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 208
-  - binding: Ebook
-    isbn: 9780811220590
-    publication_date: 2001-01-09T06:00:00-04:00
-    cover_image: /images/The_Skating_Rink.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn:
-    trim_size:
-    Page_count: 208
+  - 9780811218689
+  - 9780811217132
+  - 9780811220590
 _slug: skating-rink
 ---
 

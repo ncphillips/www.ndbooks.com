@@ -2,41 +2,19 @@
 title: "If This Be Treason"
 draft: false
 date: 2007-09-01T05:00:36-04:00
-show_in_forthcoming: false
+publication_date: 2007-09-01T05:00:36-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/gregory-rabassa.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "Now in paperback, an L.A. Times Favorite Book of the Year, 2005 "
+author:
+  - contributor/gregory-rabassa.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811216654
-    publication_date: 2007-09-01T05:00:36-04:00
-    cover_image: /images/If_This_Be_Treason.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn: 19.00
-    trim_size: 5x8
-    Page_count: 208
-  - binding: Clothbound
-    isbn: 9780811216197
-    publication_date: 2007-09-01T05:00:36-04:00
-    cover_image: /images/If_This_Be_Treason.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 21.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 208
+  - 9780811216654
+  - 9780811216197
 _slug: if-this-be-treason
 ---
 

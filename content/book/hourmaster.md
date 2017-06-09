@@ -2,42 +2,20 @@
 title: "Hourmaster"
 draft: false
 date: 1998-04-01T06:00:39-04:00
-show_in_forthcoming: false
+publication_date: 1998-04-01T06:00:39-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/christophe-bataille.md
-translators:
-  - author/richard-howard.md
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/christophe-bataille.md
+translator:
+  - contributor/richard-howard.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811217644
-    publication_date: 1998-04-01T06:00:39-04:00
-    cover_image: /images/Hourmaster.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 124
-  - binding: Clothbound
-    isbn: 9780811213578
-    publication_date: 1998-04-01T06:00:39-04:00
-    cover_image: /images/Hourmaster.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 22.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 124
+  - 9780811217644
+  - 9780811213578
 _slug: hourmaster
 ---
 

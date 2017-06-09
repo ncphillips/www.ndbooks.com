@@ -2,43 +2,20 @@
 title: "Nausea"
 draft: false
 date: 2013-03-25T16:48:00-04:00
-show_in_forthcoming: false
+publication_date: 2013-03-25T16:48:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: French
-authors:
-  - author/jean-paul-sartre.md
-translators:
-  - author/richard-howard.md
-editors:
-contributors:
-  - author/james-wood.md
-featured_image:
-description: "Sartre's greatest novel — and existentialism's key text — now introduced by James Wood "
+language: french
+author:
+  - contributor/jean-paul-sartre.md
+translator:
+  - contributor/richard-howard.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811220309
-    publication_date: 2013-03-25T16:48:00-04:00
-    cover_image: /images/Nausea_cover_current.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn: 16.00
-    trim_size:
-    Page_count: 192
-  - binding: Ebook
-    isbn: 9780811222525
-    publication_date: 2013-03-25T16:48:00-04:00
-    cover_image: /images/Nausea_new.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811220309
+  - 9780811222525
 _slug: nausea
 ---
 

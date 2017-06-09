@@ -2,31 +2,19 @@
 title: "Nostalgia"
 draft: false
 date: 2005-11-01T06:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2005-11-01T06:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: Portuguese
-authors:
-  - author/mircea-cartarescu.md
-translators:
-  - author/julian-semilian.md
-editors:
-contributors:
-featured_image:
-description:
+language: portuguese
+author:
+  - contributor/mircea-cartarescu.md
+translator:
+  - contributor/julian-semilian.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811215886
-    publication_date: 2005-11-01T06:00:00-04:00
-    cover_image: /images/Nostalgia.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 19.95
-    price_cn: 28.00
-    trim_size:
-    Page_count: 352
+  - 9780811215886
 _slug: nostalgia
 ---
 

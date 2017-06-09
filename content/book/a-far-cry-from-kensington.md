@@ -2,41 +2,19 @@
 title: "A Far Cry from Kensington"
 draft: false
 date: 2000-09-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2000-09-01T05:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/muriel-spark.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/muriel-spark.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811214575
-    publication_date: 2000-09-01T05:00:00-04:00
-    cover_image: /images/A_Far_Cry_From_Kensington.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 12.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 192
-  - binding: Ebook
-    isbn: 9780811220149
-    publication_date: 2000-09-01T05:00:00-04:00
-    cover_image: /images/A_Far_Cry_From_Kensington.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 12.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811214575
+  - 9780811220149
 _slug: a-far-cry-from-kensington
 ---
 

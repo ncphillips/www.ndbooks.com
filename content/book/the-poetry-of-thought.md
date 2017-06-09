@@ -2,42 +2,20 @@
 title: "The Poetry of Thought"
 draft: false
 date: 2011-11-22T14:49:00-04:00
-show_in_forthcoming: false
+publication_date: 2011-11-22T14:49:00-04:00
 subtitle: "From Hellenism to Celan"
-genre: Nonfiction
+genre: nonfiction
 subgenre:
-  - Essay
+  - essay
 language:
-authors:
-  - author/george-steiner-g.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "From one of the world's foremost thinkers, a vision of the inseparable nature of Western philosophy and its living language. "
+author:
+  - contributor/george-steiner-g.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Clothbound
-    isbn: 9780811219457
-    publication_date: 2011-11-22T14:49:00-04:00
-    cover_image: /images/Poetry_of_Thought_sm.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 24.95
-    price_cn:
-    trim_size:
-    Page_count: 192
-  - binding: Ebook
-    isbn: 9780811219549
-    publication_date: 2011-11-22T14:49:00-04:00
-    cover_image: /images/Poetry_of_Thought_sm.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 24.95
-    price_cn:
-    trim_size:
-    Page_count: 192
+  - 9780811219457
+  - 9780811219549
 _slug: the-poetry-of-thought
 ---
 

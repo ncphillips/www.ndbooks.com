@@ -2,42 +2,20 @@
 title: "Works On Paper"
 draft: false
 date: 1986-11-01T06:00:00-04:00
-show_in_forthcoming: false
+publication_date: 1986-11-01T06:00:00-04:00
 subtitle:
-genre: Nonfiction
+genre: nonfiction
 subgenre:
-  - Essay
+  - essay
 language:
-authors:
-  - author/eliot-weinberger.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/eliot-weinberger.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811210010
-    publication_date: 1986-11-01T06:00:00-04:00
-    cover_image: /images/Works_On_Paper.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 9.95
-    price_cn:
-    trim_size:
-    Page_count:
-  - binding: Clothbound
-    isbn: 9780811210003
-    publication_date: 1986-11-01T06:00:00-04:00
-    cover_image: /images/Works_On_Paper.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 22.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811210010
+  - 9780811210003
 _slug: works-on-paper
 ---
 

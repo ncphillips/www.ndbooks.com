@@ -2,31 +2,19 @@
 title: "Spain In Our Hearts"
 draft: false
 date: 2005-11-01T06:00:49-04:00
-show_in_forthcoming: false
+publication_date: 2005-11-01T06:00:49-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/pablo-neruda.md
-translators:
-  - author/donald-d.-walsh.md
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/pablo-neruda.md
+translator:
+  - contributor/donald-d.-walsh.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811216425
-    publication_date: 2005-11-01T06:00:49-04:00
-    cover_image: /images/Spain_In_Our_Hearts.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 8.00
-    price_cn: 12.00
-    trim_size: 5x7
-    Page_count: 80
+  - 9780811216425
 _slug: spain-in-our-hearts
 ---
 

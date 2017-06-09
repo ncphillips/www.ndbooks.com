@@ -2,41 +2,19 @@
 title: "The Man In The Wall"
 draft: false
 date: 1993-06-01T05:00:43-04:00
-show_in_forthcoming: false
+publication_date: 1993-06-01T05:00:43-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/james-laughlin.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/james-laughlin.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811212373
-    publication_date: 1993-06-01T05:00:43-04:00
-    cover_image: /images/The_Man_In_The_Wall.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 9.95
-    price_cn:
-    trim_size:
-    Page_count:
-  - binding: Clothbound
-    isbn: 9780811212366
-    publication_date: 1993-06-01T05:00:43-04:00
-    cover_image: /images/The_Man_In_The_Wall.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 19.95
-    price_cn:
-    trim_size:
-    Page_count: 128
+  - 9780811212373
+  - 9780811212366
 _slug: the-man-in-the-wall
 ---
 

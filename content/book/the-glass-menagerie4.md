@@ -2,41 +2,19 @@
 title: "The Glass Menagerie"
 draft: false
 date: 1999-10-14T14:36:00-04:00
-show_in_forthcoming: false
+publication_date: 1999-10-14T14:36:00-04:00
 subtitle:
-genre: Theater
+genre: theater
 subgenre:
 language:
-authors:
-  - author/tennessee-williams.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/tennessee-williams.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811214049
-    publication_date: 1999-10-14T14:36:00-04:00
-    cover_image: /images/GlassMenagerie.JPG
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 11.95
-    price_cn:
-    trim_size:
-    Page_count: 128
-  - binding: Ebook
-    isbn: 9780811220750
-    publication_date: 1999-10-14T14:36:00-04:00
-    cover_image: /images/GlassMenagerie.JPG
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 11.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811214049
+  - 9780811220750
 _slug: the-glass-menagerie4
 ---
 

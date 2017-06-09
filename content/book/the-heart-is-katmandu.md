@@ -2,42 +2,20 @@
 title: "The Heart is Katmandu"
 draft: false
 date: 2006-11-01T06:00:56-04:00
-show_in_forthcoming: false
+publication_date: 2006-11-01T06:00:56-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/yoel-hoffmann.md
-translators:
-  - author/peter-cole.md
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/yoel-hoffmann.md
+translator:
+  - contributor/peter-cole.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811216821
-    publication_date: 2006-11-01T06:00:56-04:00
-    cover_image: /images/theheartiskatmandu.JPG
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 13.95
-    price_cn: 18.00
-    trim_size: 5x8
-    Page_count: 144
-  - binding: Clothbound
-    isbn: 9780811214650
-    publication_date: 2006-11-01T06:00:56-04:00
-    cover_image: /images/theheartiskatmandu.JPG
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 22.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 144
+  - 9780811216821
+  - 9780811214650
 _slug: the-heart-is-katmandu
 ---
 

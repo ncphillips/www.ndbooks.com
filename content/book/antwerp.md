@@ -2,53 +2,21 @@
 title: "Antwerp"
 draft: false
 date: 2010-04-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2010-04-01T05:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: Spanish
-authors:
-  - author/roberto-bolano.md
-translators:
-  - author/natasha-wimmer.md
-editors:
-contributors:
-featured_image:
-description: "Antwerp's signature elements – crimes and campgrounds, drifters and poetry, sex and love, corrupt cops and misfits – mark this, his first novel, as pure Bolaño. "
+language: spanish
+author:
+  - contributor/roberto-bolano.md
+translator:
+  - contributor/natasha-wimmer.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811219914
-    publication_date: 2010-04-01T05:00:00-04:00
-    cover_image: /images/antwerp_cover_new.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 9.95
-    price_cn:
-    trim_size: 4.5x7
-    Page_count: 112
-  - binding: Clothbound
-    isbn: 9780811217170
-    publication_date: 2010-04-01T05:00:00-04:00
-    cover_image: /images/antwerp_cover_new.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn:
-    trim_size: 4.5x7
-    Page_count: 112
-  - binding: Ebook
-    isbn: 9780811220491
-    publication_date: 2010-04-01T05:00:00-04:00
-    cover_image: /images/antwerp_cover_new.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 9.95
-    price_cn:
-    trim_size:
-    Page_count: 112
+  - 9780811219914
+  - 9780811217170
+  - 9780811220491
 _slug: antwerp
 ---
 

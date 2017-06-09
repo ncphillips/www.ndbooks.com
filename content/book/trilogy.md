@@ -2,41 +2,19 @@
 title: "Trilogy"
 draft: false
 date: 1998-09-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 1998-09-01T05:00:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/hilda-doolittle-h.-d.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/hilda-doolittle-h.-d.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811213998
-    publication_date: 1998-09-01T05:00:00-04:00
-    cover_image: /images/Trilogy.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 12.95
-    price_cn: 17.00
-    trim_size:
-    Page_count: 224
-  - binding: Ebook
-    isbn: 9780811222662
-    publication_date: 1998-09-01T05:00:00-04:00
-    cover_image: /images/Trilogy.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count: 224
+  - 9780811213998
+  - 9780811222662
 _slug: trilogy
 ---
 

@@ -2,42 +2,20 @@
 title: "Vengeance Is Mine, All Others Pay Cash"
 draft: false
 date: 2016-11-21T20:32:00-04:00
-show_in_forthcoming: true
+publication_date: 2017-08-01T04:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: Indonesian
-authors:
-  - author/eka-kurniawan.md
-translators:
-  - author/annie-tucker.md
-editors:
-contributors:
-featured_image:
-description: "**The vivid, bawdy, and comic new novel about a boy who can’t get it up, by the Indonesian superstar** "
+language: indonesian
+author:
+  - contributor/eka-kurniawan.md
+translator:
+  - contributor/annie-tucker.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811225649
-    publication_date: 2017-08-01T04:00:00-04:00
-    cover_image: /images/vengeance_is_mine_cover.tif
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn: 21.95
-    trim_size: 5x8
-    Page_count: 160
-  - binding: Ebook
-    isbn: 9780811226066
-    publication_date: 2017-08-01T04:00:00-04:00
-    cover_image_path:
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811225649
+  - 9780811226066
 _slug: vengeance-is-mine-all-others-pay-cash
 ---
 

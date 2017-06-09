@@ -2,32 +2,20 @@
 title: "Seven Nights"
 draft: false
 date: 2009-07-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2009-07-01T05:00:00-04:00
 subtitle:
-genre: Nonfiction
+genre: nonfiction
 subgenre:
-  - Essay
-language: Spanish
-authors:
-  - author/jorge-luis-borges.md
-translators:
-  - author/eliot-weinberger.md
-editors:
-contributors:
-featured_image:
-description: "Seven lectures from seven nights given by Borges in 1977. "
+  - essay
+language: spanish
+author:
+  - contributor/jorge-luis-borges.md
+translator:
+  - contributor/eliot-weinberger.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811218382
-    publication_date: 2009-07-01T05:00:00-04:00
-    cover_image: /images/Seven_Nights.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 12.95
-    price_cn: 16.00
-    trim_size: 5x8
-    Page_count: 128
+  - 9780811218382
 _slug: seven-nights
 ---
 

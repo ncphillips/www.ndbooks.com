@@ -2,30 +2,18 @@
 title: "My Floating Mother, City"
 draft: false
 date: 2009-01-01T06:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2009-01-01T06:00:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
-language: Portuguese
-authors:
-  - author/kazuko-shiraishi.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "Exciting new work from one of Japan's most acclaimed living poets. "
+language: portuguese
+author:
+  - contributor/kazuko-shiraishi.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811217965
-    publication_date: 2009-01-01T06:00:00-04:00
-    cover_image: /images/Shiraishi_%20My%20Floating%20Mother%2C%20City_.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn: 17.00
-    trim_size: 7x8
-    Page_count: 160
+  - 9780811217965
 _slug: my-floating-mother-city
 ---
 

@@ -2,43 +2,20 @@
 title: "A Season in Hell & The Drunken Boat"
 draft: false
 date: 2011-10-05T14:28:00-04:00
-show_in_forthcoming: false
+publication_date: 2011-10-05T14:28:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: French
-authors:
-  - author/arthur-rimbaud.md
-translators:
-  - author/louise-varese.md
-editors:
-contributors:
-  - author/patti-smith.md
-featured_image:
-description: "A reissue of Rimbaud’s highly influential work, with a new preface by Patti Smith and the original 1945 ND cover design by Alvin Lustig "
+language: french
+author:
+  - contributor/arthur-rimbaud.md
+translator:
+  - contributor/louise-varese.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811201858
-    publication_date: 2011-10-05T14:28:00-04:00
-    cover_image: /images/season_in_hell_cover.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 12.95
-    price_cn:
-    trim_size:
-    Page_count: 120
-  - binding: Ebook
-    isbn: 9780811221030
-    publication_date: 2011-10-05T14:28:00-04:00
-    cover_image: /images/season_in_hell_cover.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 12.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811201858
+  - 9780811221030
 _slug: a-season-in-hell-the-drunken-boat
 ---
 

@@ -2,42 +2,20 @@
 title: "Revulsion: Thomas Bernhard in San Salvador"
 draft: false
 date: 2015-10-21T19:17:00-04:00
-show_in_forthcoming: true
+publication_date: 2016-07-26T23:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: Spanish
-authors:
-  - author/horacio-castellanos-moya.md
-translators:
-  - author/lee-klein.md
-editors:
-contributors:
-featured_image:
-description: "The 1997 novel that put Horacio Castellanos Moya on the map, now published for the first time in English "
+language: spanish
+author:
+  - contributor/horacio-castellanos-moya.md
+translator:
+  - contributor/lee-klein.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811225397
-    publication_date: 2016-07-26T23:00:00-04:00
-    cover_image: /images/revulsion%20cover.tiff
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn: 19.50
-    trim_size: 5 x 8"
-    Page_count: 128
-  - binding: Ebook
-    isbn: 9780811225403
-    publication_date: 2016-07-26T23:00:00-04:00
-    cover_image_path:
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811225397
+  - 9780811225403
 _slug: revulsion-thomas-bernhard-in-san-salvador
 ---
 

@@ -2,31 +2,19 @@
 title: "Forms Of Distance"
 draft: false
 date: 1994-06-01T05:00:58-04:00
-show_in_forthcoming: false
+publication_date: 1994-06-01T05:00:58-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/bei-dao.md
-translators:
-  - author/david-hinton.md
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/bei-dao.md
+translator:
+  - contributor/david-hinton.md
+editor:
+featured_image_path:
 editions:
-  - binding: Clothbound
-    isbn: 9780811212663
-    publication_date: 1994-06-01T05:00:58-04:00
-    cover_image: /images/Forms_Of_Distance.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 16.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 84
+  - 9780811212663
 _slug: forms-of-distance
 ---
 

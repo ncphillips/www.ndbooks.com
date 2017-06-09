@@ -2,31 +2,19 @@
 title: "Selected Essays of Denise Levertov"
 draft: false
 date: 1992-10-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 1992-10-01T05:00:00-04:00
 subtitle:
-genre: Nonfiction
+genre: nonfiction
 subgenre:
-  - Essay
+  - essay
 language:
-authors:
-  - author/denise-levertov.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/denise-levertov.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811212182
-    publication_date: 1992-10-01T05:00:00-04:00
-    cover_image: /images/New__Selected_Essays_.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 18.95
-    price_cn: 26.00
-    trim_size:
-    Page_count:
+  - 9780811212182
 _slug: new-and-selected-essays
 ---
 

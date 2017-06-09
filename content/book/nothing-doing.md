@@ -2,30 +2,18 @@
 title: "Nothing / Doing"
 draft: false
 date: 2000-02-01T06:00:55-04:00
-show_in_forthcoming: false
+publication_date: 2000-02-01T06:00:55-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/cid-corman.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/cid-corman.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811214254
-    publication_date: 2000-02-01T06:00:55-04:00
-    cover_image: /images/Nothing_Doing_.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 13.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 160
+  - 9780811214254
 _slug: nothing-doing
 ---
 

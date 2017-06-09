@@ -2,41 +2,20 @@
 title: "Studies In Henry James"
 draft: false
 date: 1983-04-01T06:00:08-04:00
-show_in_forthcoming: false
+publication_date: 1983-04-01T06:00:08-04:00
 subtitle:
-genre: Nonfiction
+genre: nonfiction
 subgenre:
-  - Study
+  - study
 language:
-authors:
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811208642
-    publication_date: 1983-04-01T06:00:08-04:00
-    cover_image: /images/Studies_In_Henry_James.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 18.95
-    price_cn:
-    trim_size:
-    Page_count:
-  - binding: Clothbound
-    isbn: 9780811208635
-    publication_date: 1983-04-01T06:00:08-04:00
-    cover_image: /images/Studies_In_Henry_James.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 19.50
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811208642
+  - 9780811208635
 _slug: studies-in-henry-james
 ---
 

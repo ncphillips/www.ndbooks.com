@@ -2,42 +2,19 @@
 title: "Miss Lonelyhearts & The Day of the Locust"
 draft: false
 date: 2009-06-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2009-06-01T05:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/nathanael-west-n.md
-translators:
-editors:
-contributors:
-  - author/jonathan-lethem.md
-featured_image:
-description: "Two great works of American literature in one volume, reissued here with a new introduction by Jonathan Lethem "
+author:
+  - contributor/nathanael-west-n.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811218221
-    publication_date: 2009-06-01T05:00:00-04:00
-    cover_image: /images/Miss_Lonelyhearts__The_Day_Of_The_Locust.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn: 15.00
-    trim_size: 5x8
-    Page_count: 208
-  - binding: Ebook
-    isbn: 9780811219389
-    publication_date: 2009-06-01T05:00:00-04:00
-    cover_image: /images/Miss_Lonelyhearts__The_Day_Of_The_Locust.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811218221
+  - 9780811219389
 _slug: miss-lonelyhearts-the-day-of-the-locust
 ---
 

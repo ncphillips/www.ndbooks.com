@@ -2,31 +2,19 @@
 title: "Efraim’s Book"
 draft: false
 date: 1994-04-01T05:59:47-04:00
-show_in_forthcoming: false
+publication_date: 1994-04-01T05:59:47-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/alfred-andersch.md
-translators:
-  - author/ralph-manheim.md
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/alfred-andersch.md
+translator:
+  - contributor/ralph-manheim.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811212625
-    publication_date: 1994-04-01T05:59:47-04:00
-    cover_image: /images/Efraims_Book_2.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 11.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 304
+  - 9780811212625
 _slug: efraims-book
 ---
 

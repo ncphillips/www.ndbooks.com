@@ -2,31 +2,18 @@
 title: "Laughter in the Dark"
 draft: false
 date: 2006-09-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2006-09-01T05:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/vladimir-nabokov.md
-translators:
-editors:
-contributors:
-  - author/john-banville.md
-featured_image:
-description: "The reissue of the classic novel from the author of Lolita which brilliantly portrays one man's ruin through love and betrayal. "
+author:
+  - contributor/vladimir-nabokov.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811216746
-    publication_date: 2006-09-01T05:00:00-04:00
-    cover_image: /images/nabokov_laughter_in_the_dark_cover_new_copy.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn: 16.00
-    trim_size: 5x8
-    Page_count: 308
+  - 9780811216746
 _slug: laughter-in-the-dark
 ---
 

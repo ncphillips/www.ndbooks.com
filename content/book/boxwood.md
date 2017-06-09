@@ -2,42 +2,20 @@
 title: "Boxwood"
 draft: false
 date: 2008-06-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2008-06-01T05:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: Spanish
-authors:
-  - author/camilo-jose-cela.md
-translators:
-  - author/patricia-haugaard.md
-editors:
-contributors:
-featured_image:
-description: "The extraordinary experimental final novel by the winner of the Nobel Prize for Literature "
+language: spanish
+author:
+  - contributor/camilo-jose-cela.md
+translator:
+  - contributor/patricia-haugaard.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811217514
-    publication_date: 2008-06-01T05:00:00-04:00
-    cover_image: /images/Boxwood.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn: 17.00
-    trim_size: 6x9
-    Page_count: 224
-  - binding: Clothbound
-    isbn: 9780811214971
-    publication_date: 2008-06-01T05:00:00-04:00
-    cover_image: /images/Boxwood.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 25.95
-    price_cn:
-    trim_size: 6x9
-    Page_count: 224
+  - 9780811217514
+  - 9780811214971
 _slug: boxwood
 ---
 

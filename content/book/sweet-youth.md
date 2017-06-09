@@ -2,30 +2,18 @@
 title: "Sweet Youth"
 draft: false
 date: 2002-09-01T05:00:43-04:00
-show_in_forthcoming: false
+publication_date: 2002-09-01T05:00:43-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/allen-grossman.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "A comprehensive lifetime selection of poetry – from the Sweet Youth to the Old Man. "
+author:
+  - contributor/allen-grossman.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811215220
-    publication_date: 2002-09-01T05:00:43-04:00
-    cover_image: /images/Sweet_Youth.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 18.95
-    price_cn:
-    trim_size: 6x9
-    Page_count: 128
+  - 9780811215220
 _slug: sweet-youth
 ---
 

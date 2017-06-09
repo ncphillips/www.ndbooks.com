@@ -2,44 +2,21 @@
 title: "A Brief History of Portable Literature"
 draft: false
 date: 2015-03-26T21:25:00-04:00
-show_in_forthcoming: true
+publication_date: 2015-06-09T14:40:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: Spanish
-authors:
-  - author/enrique-vila-matas.md
-translators:
-  - author/thomas-bunstead.md
-
-  - author/anne-mclean.md
-editors:
-contributors:
-featured_image:
-description: "A reader’s fictional tour of the art and lives of some of the great 20th-century artists and writers "
+language: spanish
+author:
+  - contributor/enrique-vila-matas.md
+translator:
+  - contributor/thomas-bunstead.md
+  - contributor/anne-mclean.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811223379
-    publication_date: 2015-06-09T14:40:00-04:00
-    cover_image: /images/portable_history.tiff
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn: 16.95
-    trim_size:
-    Page_count: 128
-  - binding: Ebook
-    isbn: 9780811223386
-    publication_date: 2015-06-09T14:40:00-04:00
-    cover_image_path:
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811223379
+  - 9780811223386
 _slug: a-brief-history-of-portable-literature
 ---
 

@@ -2,43 +2,21 @@
 title: "On Eastern Meditation"
 draft: false
 date: 2012-06-20T20:03:00-04:00
-show_in_forthcoming: false
+publication_date: 2012-06-20T20:03:00-04:00
 subtitle: "A New Directions Gift Book"
-genre: Nonfiction
+genre: nonfiction
 subgenre:
-  - Essay
+  - essay
 language:
-authors:
-  - author/thomas-merton.md
-translators:
-editors:
-  - author/bonnie-thurston.md
-contributors:
-featured_image:
-description: "A great introduction to the religions of the East by a monk from the West "
+author:
+  - contributor/thomas-merton.md
+translator:
+editor:
+  - contributor/bonnie-thurston.md
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811219945
-    publication_date: 2012-06-20T20:03:00-04:00
-    cover_image: /images/On_Eastern_Meditation_1.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 13.95
-    price_cn: 14.99
-    trim_size:
-    Page_count: 96
-  - binding: Ebook
-    isbn: 9780811219952
-    publication_date: 2012-06-20T20:03:00-04:00
-    cover_image: /images/On_Eastern_Meditation_1.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 13.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811219945
+  - 9780811219952
 _slug: on-eastern-meditation
 ---
 

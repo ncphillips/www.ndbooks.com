@@ -2,30 +2,18 @@
 title: "Part Of The Solution"
 draft: false
 date: 2001-01-01T06:00:56-04:00
-show_in_forthcoming: false
+publication_date: 2001-01-01T06:00:56-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/margaret-randall.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/margaret-randall.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811204712
-    publication_date: 2001-01-01T06:00:56-04:00
-    cover_image: /images/Part_Of_The_Solution.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811204712
 _slug: part-of-the-solution
 ---
 

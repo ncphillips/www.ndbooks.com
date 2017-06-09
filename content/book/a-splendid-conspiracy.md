@@ -2,42 +2,20 @@
 title: "A Splendid Conspiracy"
 draft: false
 date: 2010-05-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2010-05-01T05:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: French
-authors:
-  - author/albert-cossery.md
-translators:
-  - author/alyson-waters.md
-editors:
-contributors:
-featured_image:
-description: "Three friends in a small Egyptian city celebrate idleness, elegance, and joie de vivre "
+language: french
+author:
+  - contributor/albert-cossery.md
+translator:
+  - contributor/alyson-waters.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811217798
-    publication_date: 2010-05-01T05:00:00-04:00
-    cover_image: /images/A_Splendid_Conspiracy.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn: 19.00
-    trim_size: 5x8
-    Page_count: 224
-  - binding: Ebook
-    isbn: 9780811221269
-    publication_date: 2010-05-01T05:00:00-04:00
-    cover_image: /images/A_Splendid_Conspiracy.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn:
-    trim_size:
-    Page_count: 224
+  - 9780811217798
+  - 9780811221269
 _slug: a-splendid-conspiracy
 ---
 

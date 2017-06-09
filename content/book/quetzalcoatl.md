@@ -2,30 +2,18 @@
 title: "Quetzalcoatl"
 draft: false
 date: 1998-05-01T05:00:44-04:00
-show_in_forthcoming: false
+publication_date: 1998-05-01T05:00:44-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/d.-h.-lawrence.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/d.-h.-lawrence.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811213851
-    publication_date: 1998-05-01T05:00:44-04:00
-    cover_image: /images/Quetzalcoatl.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn:
-    trim_size:
-    Page_count: 368
+  - 9780811213851
 _slug: quetzalcoatl
 ---
 

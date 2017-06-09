@@ -2,31 +2,19 @@
 title: "The King of Trees"
 draft: false
 date: 2010-06-01T05:00:54-04:00
-show_in_forthcoming: false
+publication_date: 2010-06-01T05:00:54-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/ah-cheng.md
-translators:
-  - author/bonnie-s.-macdougall.md
-editors:
-contributors:
-featured_image:
-description: "Three classic novellas – The King of Trees, The King of Chess, The King of Children – that completely altered the landscape of contemporary Chinese fiction. "
+author:
+  - contributor/ah-cheng.md
+translator:
+  - contributor/bonnie-s.-macdougall.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811218665
-    publication_date: 2010-06-01T05:00:54-04:00
-    cover_image: /images/The_King_Of_Trees.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn: 19.00
-    trim_size: 5x8
-    Page_count: 272
+  - 9780811218665
 _slug: the-king-of-trees
 ---
 

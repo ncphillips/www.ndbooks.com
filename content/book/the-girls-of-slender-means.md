@@ -2,41 +2,19 @@
 title: "The Girls of Slender Means"
 draft: false
 date: 1998-04-01T06:00:00-04:00
-show_in_forthcoming: false
+publication_date: 1998-04-01T06:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/muriel-spark.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/muriel-spark.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811213790
-    publication_date: 1998-04-01T06:00:00-04:00
-    cover_image: /images/The_Girls_Of_Slender_Means.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 11.95
-    price_cn:
-    trim_size:
-    Page_count: 144
-  - binding: Ebook
-    isbn: 9780811221047
-    publication_date: 1998-04-01T06:00:00-04:00
-    cover_image: /images/The_Girls_Of_Slender_Means.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 11.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811213790
+  - 9780811221047
 _slug: the-girls-of-slender-means
 ---
 

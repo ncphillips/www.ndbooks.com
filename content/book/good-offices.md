@@ -2,44 +2,21 @@
 title: "Good Offices"
 draft: false
 date: 2011-09-28T14:28:00-04:00
-show_in_forthcoming: false
+publication_date: 2011-09-28T14:28:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: Spanish
-authors:
-  - author/evelio-rosero.md
-translators:
-  - author/anne-mclean.md
-
-  - author/anna-milsom.md
-editors:
-contributors:
-featured_image:
-description: "A poetic and vivid satire of the hypocrisies of the Catholic Church. "
+language: spanish
+author:
+  - contributor/evelio-rosero.md
+translator:
+  - contributor/anne-mclean.md
+  - contributor/anna-milsom.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811219303
-    publication_date: 2011-09-28T14:28:00-04:00
-    cover_image: /images/good_offices_cover_wr.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 13.95
-    price_cn:
-    trim_size:
-    Page_count: 144
-  - binding: Ebook
-    isbn: 9780811219518
-    publication_date: 2011-09-28T14:28:00-04:00
-    cover_image: /images/good_offices_cover_wr.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 13.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811219303
+  - 9780811219518
 _slug: good-offices
 ---
 

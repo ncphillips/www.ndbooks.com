@@ -2,31 +2,19 @@
 title: "The Wisdom Of The English Mystics"
 draft: false
 date: 2001-01-01T06:00:57-04:00
-show_in_forthcoming: false
+publication_date: 2001-01-01T06:00:57-04:00
 subtitle:
-genre: Nonfiction
+genre: nonfiction
 subgenre:
-  - Essay
+  - essay
 language:
-authors:
-  - author/robert-way.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/robert-way.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811207003
-    publication_date: 2001-01-01T06:00:57-04:00
-    cover_image: /images/The_Wisdom_of_the_English_Mystics.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811207003
 _slug: the-wisdom-of-the-english-mystics
 ---
 

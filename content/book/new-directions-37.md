@@ -2,30 +2,19 @@
 title: "New Directions 37"
 draft: false
 date: 2001-01-01T06:00:19-04:00
-show_in_forthcoming: false
+publication_date: 2001-01-01T06:00:19-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-  - Anthology
+  - anthology
 language:
-authors:
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Clothbound
-    isbn: 9780811206952
-    publication_date: 2001-01-01T06:00:19-04:00
-    cover_image: /images/New_Directions_37.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 13.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811206952
 _slug: new-directions-37
 ---
 

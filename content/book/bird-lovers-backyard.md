@@ -2,30 +2,18 @@
 title: "Bird Lovers, Backyard"
 draft: false
 date: 2010-04-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2010-04-01T05:00:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
-language: Portuguese
-authors:
-  - author/thalia-field.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "Thalia Field’s third book with New Directions is a tour de force of blending literary genres (poetry, prose, essay, and drama) and examining our control of the natural world. "
+language: portuguese
+author:
+  - contributor/thalia-field.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811218405
-    publication_date: 2010-04-01T05:00:00-04:00
-    cover_image: /images/Field_%20Bird%20Lovers%2C%20Backyard.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 16.95
-    price_cn: 20.00
-    trim_size: 6x9
-    Page_count: 144
+  - 9780811218405
 _slug: bird-lovers-backyard
 ---
 

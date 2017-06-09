@@ -2,52 +2,20 @@
 title: "House Mother Normal"
 draft: false
 date: 1986-04-01T06:00:00-04:00
-show_in_forthcoming: true
+publication_date: 2016-08-23T23:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/b.-s.-johnson.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "A wild, experimental, polyphonic novel, recounting a typical day of diminishing returns at a nursing home "
+author:
+  - contributor/b.-s.-johnson.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811222143
-    publication_date: 2016-08-23T23:00:00-04:00
-    cover_image: /images/CZOe-_eK0KnvY9xS83i2JPdA4EQcqCrIXBUH7zcz9Lg%2CTvbvTk911ArJoKEZaAjmlaHH7zlO5nuV-N_Ho6u4-ak.jpeg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn: 19.50
-    trim_size: 5 x 8"
-    Page_count: 208
-  - binding: Paperback
-    isbn: 9780811209816
-    publication_date: 2016-08-23T23:00:00-04:00
-    cover_image: /images/House_Mother_Normal.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 16.95
-    price_cn:
-    trim_size:
-    Page_count:
-  - binding: Clothbound
-    isbn: 9780811209809
-    publication_date: 2016-08-23T23:00:00-04:00
-    cover_image: /images/House_Mother_Normal.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811222143
+  - 9780811209816
+  - 9780811209809
 _slug: house-mother-normal
 ---
 

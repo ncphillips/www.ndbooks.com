@@ -2,42 +2,20 @@
 title: "Vampire in Love "
 draft: false
 date: 2016-03-07T18:22:00-04:00
-show_in_forthcoming: true
+publication_date: 2016-09-27T04:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: Spanish
-authors:
-  - author/enrique-vila-matas.md
-translators:
-  - author/margaret-jull-costa.md
-editors:
-contributors:
-featured_image:
-description: "“Arguably Spain’s most significant contemporary literary figure” (Joanna Kavenna, _The New Yorker_) "
+language: spanish
+author:
+  - contributor/enrique-vila-matas.md
+translator:
+  - contributor/margaret-jull-costa.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811223461
-    publication_date: 2016-09-27T04:00:00-04:00
-    cover_image: /images/978-0811223461.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 16.95
-    price_cn:
-    trim_size: 5 x 8
-    Page_count: 282
-  - binding: Ebook
-    isbn: 9780811223478
-    publication_date: 2016-09-27T04:00:00-04:00
-    cover_image_path:
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811223461
+  - 9780811223478
 _slug: vampire-in-love
 ---
 

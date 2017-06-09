@@ -2,30 +2,18 @@
 title: "Minding The Darkness"
 draft: false
 date: 2000-10-01T05:00:47-04:00
-show_in_forthcoming: false
+publication_date: 2000-10-01T05:00:47-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/peter-scott-pd.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/peter-scott-pd.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811214544
-    publication_date: 2000-10-01T05:00:47-04:00
-    cover_image: /images/Minding_The_Darkness_.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 21.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 288
+  - 9780811214544
 _slug: minding-the-darkness
 ---
 

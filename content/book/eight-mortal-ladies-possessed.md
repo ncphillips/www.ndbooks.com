@@ -2,30 +2,18 @@
 title: "Eight Mortal Ladies Possessed"
 draft: false
 date: 2001-01-01T06:00:11-04:00
-show_in_forthcoming: false
+publication_date: 2001-01-01T06:00:11-04:00
 subtitle:
-genre: Theater
+genre: theater
 subgenre:
 language:
-authors:
-  - author/tennessee-williams.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/tennessee-williams.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811205312
-    publication_date: 2001-01-01T06:00:11-04:00
-    cover_image: /images/Eight_Mortal_Ladies_Possessed.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811205312
 _slug: eight-mortal-ladies-possessed
 ---
 

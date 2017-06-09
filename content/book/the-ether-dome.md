@@ -2,41 +2,19 @@
 title: "The Ether Dome"
 draft: false
 date: 1991-10-01T05:00:57-04:00
-show_in_forthcoming: false
+publication_date: 1991-10-01T05:00:57-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/allen-grossman.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/allen-grossman.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811211772
-    publication_date: 1991-10-01T05:00:57-04:00
-    cover_image: /images/The_Ether_Dome.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 17.95
-    price_cn:
-    trim_size:
-    Page_count:
-  - binding: Clothbound
-    isbn: 9780811211840
-    publication_date: 1991-10-01T05:00:57-04:00
-    cover_image: /images/The_Ether_Dome.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count: 192
+  - 9780811211772
+  - 9780811211840
 _slug: the-ether-dome
 ---
 

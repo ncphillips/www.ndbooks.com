@@ -2,45 +2,20 @@
 title: "New Collected Poems of George Oppen"
 draft: false
 date: 2008-11-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2008-11-01T05:00:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/george-oppen.md
-translators:
-editors:
-  - author/eliot-weinberger.md
-contributors:
-  - author/michael-davidson.md
-
-  - author/eliot-weinberger.md
-featured_image:
-description: "“Michael Davidson has done a masterful job of editing this new edition of the _Collected Poems_.... Few poets significantly alter and enhance the state of the art. Oppen is one of them.” —Michael Palmer, Bookforum "
+author:
+  - contributor/george-oppen.md
+translator:
+editor:
+  - contributor/eliot-weinberger.md
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811218054
-    publication_date: 2008-11-01T05:00:00-04:00
-    cover_image: /images/New_Collected_Poems.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 24.95
-    price_cn: 28.00
-    trim_size: 6x9
-    Page_count: 480
-  - binding: Clothbound
-    isbn: 9780811214889
-    publication_date: 2008-11-01T05:00:00-04:00
-    cover_image: /images/New_Collected_Poems.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 37.95
-    price_cn:
-    trim_size: 6x9
-    Page_count: 480
+  - 9780811218054
+  - 9780811214889
 _slug: new-collected-poems
 ---
 

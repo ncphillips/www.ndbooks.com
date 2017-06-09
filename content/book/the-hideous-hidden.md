@@ -2,41 +2,19 @@
 title: "The Hideous Hidden "
 draft: false
 date: 2016-03-07T18:24:00-04:00
-show_in_forthcoming: true
+publication_date: 2016-09-27T04:00:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/sylvia-legris.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "From the winner of the Griffin Prize, a richly lyrical collection of poems exploring the body’s minutiae "
+author:
+  - contributor/sylvia-legris.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811225373
-    publication_date: 2016-09-27T04:00:00-04:00
-    cover_image: /images/HideousHidden.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn:
-    trim_size: 5 x 8
-    Page_count: 96
-  - binding: Ebook
-    isbn: 9780811225380
-    publication_date: 2016-09-27T04:00:00-04:00
-    cover_image_path:
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811225373
+  - 9780811225380
 _slug: the-hideous-hidden
 ---
 

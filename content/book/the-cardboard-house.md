@@ -2,42 +2,20 @@
 title: "The Cardboard House"
 draft: false
 date: 2012-09-25T17:41:00-04:00
-show_in_forthcoming: false
+publication_date: 2012-09-25T17:41:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: Spanish
-authors:
-  - author/martin-adan.md
-translators:
-  - author/katherine-silver.md
-editors:
-contributors:
-featured_image:
-description: "Runner-up for the 2013 PEN Translation Prize "
+language: spanish
+author:
+  - contributor/martin-adan.md
+translator:
+  - contributor/katherine-silver.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811219594
-    publication_date: 2012-09-25T17:41:00-04:00
-    cover_image: /images/The-Cardboard-House.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn: 15.00
-    trim_size:
-    Page_count: 128
-  - binding: Ebook
-    isbn: 9780811219983
-    publication_date: 2012-09-25T17:41:00-04:00
-    cover_image: /images/The-Cardboard-House.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811219594
+  - 9780811219983
 _slug: the-cardboard-house
 ---
 

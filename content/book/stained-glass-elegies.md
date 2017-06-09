@@ -2,32 +2,20 @@
 title: "Stained Glass Elegies"
 draft: false
 date: 1992-04-01T05:59:02-04:00
-show_in_forthcoming: false
+publication_date: 1992-04-01T05:59:02-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-  - Stories
+  - stories
 language:
-authors:
-  - author/shusaku-endo.md
-translators:
-  - author/van-c.-gessel.md
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/shusaku-endo.md
+translator:
+  - contributor/van-c.-gessel.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811211420
-    publication_date: 1992-04-01T05:59:02-04:00
-    cover_image: /images/Stained_Glass_Elegies.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn:
-    trim_size:
-    Page_count: 165
+  - 9780811211420
 _slug: stained-glass-elegies
 ---
 

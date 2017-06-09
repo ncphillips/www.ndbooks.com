@@ -2,42 +2,20 @@
 title: "Figures & Figurations"
 draft: false
 date: 2008-08-01T05:00:10-04:00
-show_in_forthcoming: false
+publication_date: 2008-08-01T05:00:10-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/octavio-paz.md
-translators:
-  - author/eliot-weinberger.md
-editors:
-contributors:
-featured_image:
-description: "A beautiful gift edition now in paperback, Figures & Figurations is a collaboration between the Nobel Prize laureate Octavio Paz and his wife of thirty years, the artist Marie José Paz. "
+author:
+  - contributor/octavio-paz.md
+translator:
+  - contributor/eliot-weinberger.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811217590
-    publication_date: 2008-08-01T05:00:10-04:00
-    cover_image: /images/Figures_and_Figurations.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 17.95
-    price_cn: 20.00
-    trim_size: 6x9
-    Page_count: 64
-  - binding: Clothbound
-    isbn: 9780811215244
-    publication_date: 2008-08-01T05:00:10-04:00
-    cover_image: /images/Figures_and_Figurations.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 23.95
-    price_cn:
-    trim_size: 6x9
-    Page_count: 64
+  - 9780811217590
+  - 9780811215244
 _slug: figures-figurations
 ---
 

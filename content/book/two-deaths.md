@@ -2,30 +2,18 @@
 title: "Two Deaths"
 draft: false
 date: 2001-01-01T06:00:40-04:00
-show_in_forthcoming: false
+publication_date: 2001-01-01T06:00:40-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-  - Stories
+  - stories
 language:
-authors:
-  - author/gustave-flaubert.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/gustave-flaubert.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811217972
-    publication_date: 2001-01-01T06:00:40-04:00
-    cover_image: /images/Two_Deaths.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811217972
 _slug: two-deaths
 ---

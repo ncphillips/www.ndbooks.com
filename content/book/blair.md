@@ -2,30 +2,18 @@
 title: "Blair"
 draft: false
 date: 1989-10-01T05:00:12-04:00
-show_in_forthcoming: false
+publication_date: 1989-10-01T05:00:12-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/john-scott-j.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/john-scott-j.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Clothbound
-    isbn: 9780811211161
-    publication_date: 1989-10-01T05:00:12-04:00
-    cover_image: /images/Blair.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 16.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811211161
 _slug: blair
 ---
 

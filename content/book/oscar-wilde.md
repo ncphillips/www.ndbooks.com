@@ -2,31 +2,19 @@
 title: "Oscar Wilde"
 draft: false
 date: 1986-11-01T06:00:21-04:00
-show_in_forthcoming: false
+publication_date: 1986-11-01T06:00:21-04:00
 subtitle:
-genre: Nonfiction
+genre: nonfiction
 subgenre:
-  - Study
+  - study
 language:
-authors:
-  - author/edouard-roditi.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/edouard-roditi.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811209953
-    publication_date: 1986-11-01T06:00:21-04:00
-    cover_image: /images/Oscar_Wilde.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 10.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811209953
 _slug: oscar-wilde
 ---
 

@@ -2,42 +2,20 @@
 title: "The Tanners"
 draft: false
 date: 2010-05-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2010-05-01T05:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: German
-authors:
-  - author/robert-walser.md
-translators:
-  - author/susan-bernofsky.md
-editors:
-contributors:
-featured_image:
-description: "_The Tanners_ is the first major novel by the great Robert Walser to appear in English "
+language: german
+author:
+  - contributor/robert-walser.md
+translator:
+  - contributor/susan-bernofsky.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811215893
-    publication_date: 2010-05-01T05:00:00-04:00
-    cover_image: /images/The_Tanners.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn: 20.00
-    trim_size: 5x7
-    Page_count: 368
-  - binding: Ebook
-    isbn: 9780811221320
-    publication_date: 2010-05-01T05:00:00-04:00
-    cover_image: /images/The_Tanners.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811215893
+  - 9780811221320
 _slug: the-tanners
 ---
 

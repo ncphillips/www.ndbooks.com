@@ -2,31 +2,19 @@
 title: "Woolgathering"
 draft: false
 date: 2011-11-28T14:28:00-04:00
-show_in_forthcoming: false
+publication_date: 2011-11-28T14:28:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-  - Memoir
+  - memoir
 language:
-authors:
-  - author/patti-smith.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "National Book Award-winner Patti Smith presents a treasure box of a childhood memoir "
+author:
+  - contributor/patti-smith.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Clothbound
-    isbn: 9780811219440
-    publication_date: 2011-11-28T14:28:00-04:00
-    cover_image: /images/woolgathering.JPG
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 18.95
-    price_cn: 22.00
-    trim_size: 4.5x7
-    Page_count: 100
+  - 9780811219440
 _slug: woolgathering
 ---
 

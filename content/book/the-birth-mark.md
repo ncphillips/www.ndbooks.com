@@ -2,75 +2,41 @@
 title: "The Birth-mark"
 draft: false
 date: 2015-03-20T20:34:00-04:00
-show_in_forthcoming: true
+publication_date: 2015-12-07T05:00:00-04:00
 subtitle:
-genre: Nonfiction
+genre: nonfiction
 subgenre:
-  - Essay
-  - Criticism
-  - Non fiction
+  - essay
+  - criticism
+  - non fiction
 language:
-authors:
-  - author/susan-howe.md
-translators:
-editors:
-contributors:
-featured_image: /images/birth-mark_cover.jpg
-description: "Susan Howe's classic groundbreaking exploration of early American literature "
+author:
+  - contributor/susan-howe.md
+translator:
+editor:
+featured_image_path: /uploads/1426883672558/birth-mark_cover.jpg
 editions:
-  - binding: Paperback
-    isbn: 9780811224659
-    publication_date: 2015-12-07T05:00:00-04:00
-    cover_image: /images/birth-mark_cover.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: $16.95
-    price_cn: $19.95
-    trim_size: 5 x 8"
-    Page_count: 208
-  - binding: Ebook
-    isbn: 9780811224666
-    publication_date: 2015-12-07T05:00:00-04:00
-    cover_image_path:
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811224659
+  - 9780811224666
 _slug: the-birth-mark
 ---
 In this classic, groundbreaking exploration of early American literature, Susan Howe reads our intellectual inheritance as a series of civil wars, where each text is a wilderness in which a strange lawless author confronts interpreters and editors eager for settlement. Howe approaches Anne Hutchinson, Mary Rowlandson, Cotton Mather, Hawthorne, Emerson, Melville and Emily Dickinson as a fellow writer—her insights, fierce and original, are rooted in her seminal textural scholarship in examination of their editorial histories of landmark works. In the process, Howe uproots settled institutionalized roles of men and women as well as of poetry and prose—and of poetry and prose. _The Birth-mark_, first published in 1993, now joins the New Directions canon of a dozen Susan Howe titles. ---
 title: "Lost Words"
 draft: false
 date: 2015-03-20T19:59:00-04:00
-show_in_forthcoming: true
+publication_date: 2016-01-25T05:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: Italian
-authors:
-  - author/nicola-gardini.md
-translators:
-  - author/michael-f-moore.md
-editors:
-contributors:
-featured_image:
-description: "Winner of the Viareggio Prize, _Lost Words_ is a vivid portrait of 1970s Italy on the brink of social upheaval "
+language: italian
+author:
+  - contributor/nicola-gardini.md
+translator:
+  - contributor/michael-f-moore.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811224772
-    publication_date: 2016-01-25T05:00:00-04:00
-    cover_image: /images/lost_words_cover_rev.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: $15.95
-    price_cn: $18.95
-    trim_size: 5 x 8"
-    Page_count: 224
+  - 9780811224772
 _slug: lost-words
 ---
 

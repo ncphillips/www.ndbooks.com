@@ -2,30 +2,18 @@
 title: "Lovely Sunday For Creve Coeur"
 draft: false
 date: 1980-05-01T05:00:28-04:00
-show_in_forthcoming: false
+publication_date: 1980-05-01T05:00:28-04:00
 subtitle:
-genre: Theater
+genre: theater
 subgenre:
 language:
-authors:
-  - author/tennessee-williams.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/tennessee-williams.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811207577
-    publication_date: 1980-05-01T05:00:28-04:00
-    cover_image: /images/ALovely_Sunday_For_Creve_Coeur.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811207577
 _slug: lovely-sunday-for-creve-coeur
 ---
 

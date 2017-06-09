@@ -2,42 +2,20 @@
 title: "An Essay On French Verse"
 draft: false
 date: 1991-04-01T06:00:22-04:00
-show_in_forthcoming: false
+publication_date: 1991-04-01T06:00:22-04:00
 subtitle:
-genre: Nonfiction
+genre: nonfiction
 subgenre:
-  - Essay
+  - essay
 language:
-authors:
-  - author/jacques-barzun.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/jacques-barzun.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811211581
-    publication_date: 1991-04-01T06:00:22-04:00
-    cover_image: /images/An_Essay_on_French_Verse_.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn:
-    trim_size:
-    Page_count:
-  - binding: Clothbound
-    isbn: 9780811211574
-    publication_date: 1991-04-01T06:00:22-04:00
-    cover_image: /images/An_Essay_on_French_Verse_.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count: 154
+  - 9780811211581
+  - 9780811211574
 _slug: an-essay-on-french-verse
 ---
 

@@ -2,53 +2,21 @@
 title: "The End of Days"
 draft: false
 date: 2014-11-11T15:49:00-04:00
-show_in_forthcoming: true
+publication_date: 2016-02-08T05:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: German
-authors:
-  - author/jenny-erpenbeck.md
-translators:
-  - author/susan-bernofsky.md
-editors:
-contributors:
-featured_image: /images/1422650752115_mountains-1600w.jpg
-description: "Now a New Directions paperback "
+language: german
+author:
+  - contributor/jenny-erpenbeck.md
+translator:
+  - contributor/susan-bernofsky.md
+editor:
+featured_image_path: /uploads/1422650752115_mountains-1600w.jpg
 editions:
-  - binding: Paperback
-    isbn: 9780811225137
-    publication_date: 2016-02-08T05:00:00-04:00
-    cover_image: /images/End-of-Days-MECH.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: $15.95
-    price_cn: $20.95
-    trim_size:
-    Page_count: 320
-  - binding: Clothbound
-    isbn: 9780811221924
-    publication_date: 2016-02-08T05:00:00-04:00
-    cover_image: /images/end_of_days_cover.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 23.95
-    price_cn: 26.95
-    trim_size:
-    Page_count: 320
-  - binding: Ebook
-    isbn: 9780811221931
-    publication_date: 2016-02-08T05:00:00-04:00
-    cover_image_path:
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count: 320
+  - 9780811225137
+  - 9780811221924
+  - 9780811221931
 _slug: the-end-of-days
 ---
 

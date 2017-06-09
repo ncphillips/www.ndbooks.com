@@ -2,30 +2,18 @@
 title: "Not About Nightingales"
 draft: false
 date: 1998-06-01T05:00:26-04:00
-show_in_forthcoming: false
+publication_date: 1998-06-01T05:00:26-04:00
 subtitle:
-genre: Theater
+genre: theater
 subgenre:
 language:
-authors:
-  - author/tennessee-williams.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/tennessee-williams.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811213806
-    publication_date: 1998-06-01T05:00:26-04:00
-    cover_image: /images/Not_About_Nightingales.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn: 20.00
-    trim_size:
-    Page_count: 192
+  - 9780811213806
 _slug: not-about-nightingales
 ---
 

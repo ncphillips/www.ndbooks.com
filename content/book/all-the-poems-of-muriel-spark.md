@@ -2,41 +2,19 @@
 title: "All The Poems of Muriel Spark"
 draft: false
 date: 2004-04-01T06:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2004-04-01T06:00:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/muriel-spark.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/muriel-spark.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811215763
-    publication_date: 2004-04-01T06:00:00-04:00
-    cover_image: /images/All_The_Poems_Of_Muriel_Spark.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 13.95
-    price_cn: 21.00
-    trim_size: 6x9
-    Page_count: 144
-  - binding: Ebook
-    isbn: 9780811221573
-    publication_date: 2004-04-01T06:00:00-04:00
-    cover_image: /images/All_The_Poems_Of_Muriel_Spark.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 13.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811215763
+  - 9780811221573
 _slug: all-the-poems-of-muriel-spark
 ---
 

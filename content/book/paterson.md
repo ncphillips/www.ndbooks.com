@@ -2,52 +2,20 @@
 title: "Paterson"
 draft: false
 date: 1992-11-01T06:00:00-04:00
-show_in_forthcoming: false
+publication_date: 1992-11-01T06:00:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/william-carlos-williams.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/william-carlos-williams.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811212984
-    publication_date: 1992-11-01T06:00:00-04:00
-    cover_image: /images/Paterson.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 16.95
-    price_cn: 21.00
-    trim_size:
-    Page_count:
-  - binding: Clothbound
-    isbn: 9780811212250
-    publication_date: 1992-11-01T06:00:00-04:00
-    cover_image: /images/Paterson.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 38.00
-    price_cn:
-    trim_size:
-    Page_count:
-  - binding: Ebook
-    isbn: 9780811223416
-    publication_date: 1992-11-01T06:00:00-04:00
-    cover_image: /images/Paterson.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811212984
+  - 9780811212250
+  - 9780811223416
 _slug: paterson
 ---
 

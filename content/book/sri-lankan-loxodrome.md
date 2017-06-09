@@ -2,30 +2,18 @@
 title: "Sri Lankan Loxodrome"
 draft: false
 date: 2009-09-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2009-09-01T05:00:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/will-alexander.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/will-alexander.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811218290
-    publication_date: 2009-09-01T05:00:00-04:00
-    cover_image: /images/srilankanloxodrome.JPG
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn: 19.00
-    trim_size: 6x9
-    Page_count: 112
+  - 9780811218290
 _slug: sri-lankan-loxodrome
 ---
 

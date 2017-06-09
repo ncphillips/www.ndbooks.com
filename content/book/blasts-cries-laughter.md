@@ -2,30 +2,18 @@
 title: "Blasts Cries Laughter"
 draft: false
 date: 2014-01-27T19:45:00-04:00
-show_in_forthcoming: false
+publication_date: 2014-01-27T19:45:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/lawrence-ferlinghetti.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "Fearless new poems by America’s everyman bard "
+author:
+  - contributor/lawrence-ferlinghetti.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811221788
-    publication_date: 2014-01-27T19:45:00-04:00
-    cover_image: /images/Blasts_Cries_web.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 11.95
-    price_cn: 11.99
-    trim_size:
-    Page_count: 48
+  - 9780811221788
 _slug: blasts-cries-laughter
 ---
 

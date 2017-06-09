@@ -2,42 +2,20 @@
 title: "Headhunter"
 draft: false
 date: 1994-01-01T06:00:33-04:00
-show_in_forthcoming: false
+publication_date: 1994-01-01T06:00:33-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/uwe-timm.md
-translators:
-  - author/peter-tegel.md
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/uwe-timm.md
+translator:
+  - contributor/peter-tegel.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811217897
-    publication_date: 1994-01-01T06:00:33-04:00
-    cover_image: /images/headhunter-uwe-timm-hardcover-cover-art.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 24.95
-    price_cn:
-    trim_size:
-    Page_count:
-  - binding: Clothbound
-    isbn: 9780811212540
-    publication_date: 1994-01-01T06:00:33-04:00
-    cover_image: /images/headhunter-uwe-timm-hardcover-cover-art.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 32.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811217897
+  - 9780811212540
 _slug: headhunter
 ---
 

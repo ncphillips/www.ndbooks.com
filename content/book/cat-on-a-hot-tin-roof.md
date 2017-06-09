@@ -2,41 +2,19 @@
 title: "Cat on a Hot Tin Roof"
 draft: false
 date: 2004-09-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2004-09-01T05:00:00-04:00
 subtitle:
-genre: Theater
+genre: theater
 subgenre:
 language:
-authors:
-  - author/tennessee-williams.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "The definitive text of Tennessee Williams' Pulitzer Prize and Drama Critics Circle Award winning play "
+author:
+  - contributor/tennessee-williams.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811216012
-    publication_date: 2004-09-01T05:00:00-04:00
-    cover_image: /images/Cat_On_A_Hot_Tin_Roof.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 12.95
-    price_cn: 15.00
-    trim_size: 5x8
-    Page_count: 208
-  - binding: Ebook
-    isbn: 9780811220774
-    publication_date: 2004-09-01T05:00:00-04:00
-    cover_image: /images/Cat_On_A_Hot_Tin_Roof.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 12.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811216012
+  - 9780811220774
 _slug: cat-on-a-hot-tin-roof
 ---
 

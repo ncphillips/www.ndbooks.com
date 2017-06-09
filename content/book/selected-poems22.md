@@ -2,30 +2,18 @@
 title: "Selected Poems of Kenneth Rexroth"
 draft: false
 date: 1984-10-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 1984-10-01T05:00:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/kenneth-rexroth.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/kenneth-rexroth.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811209175
-    publication_date: 1984-10-01T05:00:00-04:00
-    cover_image: /images/Selected_Poems._Kenneth_Rexroth_.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 10.95
-    price_cn:
-    trim_size:
-    Page_count: 176
+  - 9780811209175
 _slug: selected-poems22
 ---
 

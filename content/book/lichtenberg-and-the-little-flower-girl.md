@@ -2,42 +2,20 @@
 title: "Lichtenberg and the Little Flower Girl"
 draft: false
 date: 2004-05-01T05:00:50-04:00
-show_in_forthcoming: false
+publication_date: 2004-05-01T05:00:50-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/gert-hofmann.md
-translators:
-  - author/michael-hofmann1.md
-editors:
-contributors:
-featured_image:
-description: "From dross to gold, an enchanting tale of love is spun. "
+author:
+  - contributor/gert-hofmann.md
+translator:
+  - contributor/michael-hofmann1.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811216951
-    publication_date: 2004-05-01T05:00:50-04:00
-    cover_image: /images/Lichtenberg_And_The_Little_Flower_Girl.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn: 19.00
-    trim_size: 5x7
-    Page_count: 256
-  - binding: Clothbound
-    isbn: 9780811215688
-    publication_date: 2004-05-01T05:00:50-04:00
-    cover_image: /images/Lichtenberg_And_The_Little_Flower_Girl.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 23.95
-    price_cn:
-    trim_size: 5x7
-    Page_count: 256
+  - 9780811216951
+  - 9780811215688
 _slug: lichtenberg-and-the-little-flower-girl
 ---
 

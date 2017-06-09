@@ -2,43 +2,21 @@
 title: "That Smell & Notes from Prison"
 draft: false
 date: 2013-03-22T16:48:00-04:00
-show_in_forthcoming: false
+publication_date: 2013-03-22T16:48:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: Arabic
-authors:
-  - author/sonallah-ibrahim.md
-translators:
-  - author/robyn-creswell.md
-editors:
-  - author/robyn-creswell.md
-contributors:
-featured_image:
-description: "_That Smell_ — a watershed in contemporary Egyptian fiction — combined with the author’s _Notes from Prison_ in a single edition "
+language: arabic
+author:
+  - contributor/sonallah-ibrahim.md
+translator:
+  - contributor/robyn-creswell.md
+editor:
+  - contributor/robyn-creswell.md
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811220361
-    publication_date: 2013-03-22T16:48:00-04:00
-    cover_image: /images/That_Smell.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn: 17.00
-    trim_size:
-    Page_count: 120
-  - binding: Ebook
-    isbn: 9780811220620
-    publication_date: 2013-03-22T16:48:00-04:00
-    cover_image: /images/That_Smell.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811220361
+  - 9780811220620
 _slug: that-smell-notes-from-prison
 ---
 

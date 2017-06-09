@@ -2,31 +2,19 @@
 title: "The Selected Letters Of William Carlos Williams"
 draft: false
 date: 1985-02-01T06:00:11-04:00
-show_in_forthcoming: false
+publication_date: 1985-02-01T06:00:11-04:00
 subtitle:
-genre: Nonfiction
+genre: nonfiction
 subgenre:
-  - Correspondence
+  - correspondence
 language:
-authors:
-  - author/william-carlos-williams.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/william-carlos-williams.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811209342
-    publication_date: 1985-02-01T06:00:11-04:00
-    cover_image: /images/The_Selected_Letters_Of_Williams_Carlos_Williams_.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 9.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811209342
 _slug: the-selected-letters-of-william-carlos-williams
 ---
 

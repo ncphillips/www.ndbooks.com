@@ -2,30 +2,18 @@
 title: "Best Poems"
 draft: false
 date: 2013-12-11T21:19:00-04:00
-show_in_forthcoming: false
+publication_date: 2013-12-11T21:19:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/stevie-smith-s.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "The most delightful of English poets — mordantly amusing and fresh as a sassy cat "
+author:
+  - contributor/stevie-smith-s.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811221948
-    publication_date: 2013-12-11T21:19:00-04:00
-    cover_image: /images/Collected_Stevie_Smith.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 16.95
-    price_cn:
-    trim_size:
-    Page_count: 160
+  - 9780811221948
 _slug: best-poems
 ---
 

@@ -2,53 +2,21 @@
 title: "Requiem: An Hallucination"
 draft: false
 date: 2002-11-01T06:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2002-11-01T06:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: Italian
-authors:
-  - author/antonio-tabucchi.md
-translators:
-  - author/margaret-jull-costa.md
-editors:
-contributors:
-featured_image:
-description: "A private meeting, chance encounters, and a mysterious tour of Lisbon, in this brilliant homage to Fernando Pessoa "
+language: italian
+author:
+  - contributor/antonio-tabucchi.md
+translator:
+  - contributor/margaret-jull-costa.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811215176
-    publication_date: 2002-11-01T06:00:00-04:00
-    cover_image: /images/Requiem_.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 12.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 112
-  - binding: Clothbound
-    isbn: 9780811212700
-    publication_date: 2002-11-01T06:00:00-04:00
-    cover_image: /images/Requiem_.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 112
-  - binding: Ebook
-    isbn: 9780811222495
-    publication_date: 2002-11-01T06:00:00-04:00
-    cover_image: /images/Requiem_.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 12.95
-    price_cn:
-    trim_size:
-    Page_count: 112
+  - 9780811215176
+  - 9780811212700
+  - 9780811222495
 _slug: requiem-an-hallucination
 ---
 

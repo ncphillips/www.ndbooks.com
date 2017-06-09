@@ -2,30 +2,18 @@
 title: "Paradise Of Poets"
 draft: false
 date: 1999-10-01T05:00:27-04:00
-show_in_forthcoming: false
+publication_date: 1999-10-01T05:00:27-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/jerome-rothenberg.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/jerome-rothenberg.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811214278
-    publication_date: 1999-10-01T05:00:27-04:00
-    cover_image: /images/A_Paradise_of_Poets.JPG
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 8
+  - 9780811214278
 _slug: paradise-of-poets
 ---
 

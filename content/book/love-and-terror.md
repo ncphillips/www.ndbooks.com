@@ -2,41 +2,19 @@
 title: "Love and Terror"
 draft: false
 date: 1982-11-01T06:00:08-04:00
-show_in_forthcoming: false
+publication_date: 1982-11-01T06:00:08-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/william-herrick.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/william-herrick.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811208413
-    publication_date: 1982-11-01T06:00:08-04:00
-    cover_image: /images/Love_And_Terror.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 5.95
-    price_cn:
-    trim_size:
-    Page_count:
-  - binding: Clothbound
-    isbn: 9780811207911
-    publication_date: 1982-11-01T06:00:08-04:00
-    cover_image: /images/Love_And_Terror.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 13.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811208413
+  - 9780811207911
 _slug: love-and-terror
 ---
 

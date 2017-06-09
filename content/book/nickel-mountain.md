@@ -2,31 +2,18 @@
 title: "Nickel Mountain"
 draft: false
 date: 2007-10-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2007-10-01T05:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/john-gardner.md
-translators:
-editors:
-contributors:
-  - author/william-h.-gass.md
-featured_image:
-description: "John Gardner's most poignant novel of improbable love "
+author:
+  - contributor/john-gardner.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811216784
-    publication_date: 2007-10-01T05:00:00-04:00
-    cover_image: /images/Nickel_Mountain.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn: 19.00
-    trim_size: 5x8
-    Page_count: 336
+  - 9780811216784
 _slug: nickel-mountain
 ---
 

@@ -2,30 +2,18 @@
 title: "The Company Of Moths"
 draft: false
 date: 2005-05-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2005-05-01T05:00:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/michael-palmer.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/michael-palmer.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811216234
-    publication_date: 2005-05-01T05:00:00-04:00
-    cover_image: /images/The_Company_Of_Moths.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn: 24.00
-    trim_size: 6x9
-    Page_count: 80
+  - 9780811216234
 _slug: the-company-of-moths
 ---
 

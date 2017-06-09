@@ -2,42 +2,20 @@
 title: "Deep River"
 draft: false
 date: 1996-06-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 1996-06-01T05:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/shusaku-endo.md
-translators:
-  - author/van-c.-gessel.md
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/shusaku-endo.md
+translator:
+  - contributor/van-c.-gessel.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811213202
-    publication_date: 1996-06-01T05:00:00-04:00
-    cover_image: /images/Deep_River.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 224
-  - binding: Clothbound
-    isbn: 9780811212892
-    publication_date: 1996-06-01T05:00:00-04:00
-    cover_image: /images/Deep_River.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 24.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 224
+  - 9780811213202
+  - 9780811212892
 _slug: deep-river
 ---
 

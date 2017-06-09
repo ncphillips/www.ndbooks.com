@@ -2,53 +2,21 @@
 title: "A Little Lumpen Novelita"
 draft: false
 date: 2014-09-16T18:43:00-04:00
-show_in_forthcoming: true
+publication_date: 2016-03-21T04:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: Spanish
-authors:
-  - author/roberto-bolano.md
-translators:
-  - author/natasha-wimmer.md
-editors:
-contributors:
-featured_image:
-description: "Published in Spain just before Bolaño's death, _A Little Lumpen Novelita_ percolates with a fierce and tender love of women "
+language: spanish
+author:
+  - contributor/roberto-bolano.md
+translator:
+  - contributor/natasha-wimmer.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811225151
-    publication_date: 2016-03-21T04:00:00-04:00
-    cover_image: /images/A%20LITTLE%20LUMPEN%20NOVELITA.tif
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: $13.95
-    price_cn: $17.95
-    trim_size:
-    Page_count: 128
-  - binding: Clothbound
-    isbn: 9780811223355
-    publication_date: 2016-03-21T04:00:00-04:00
-    cover_image: /images/lumpen_revised_cover_small.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 19.95
-    price_cn: 21.95
-    trim_size:
-    Page_count: 128
-  - binding: Ebook
-    isbn: 9780811223362
-    publication_date: 2016-03-21T04:00:00-04:00
-    cover_image: /images/lumpen_revised_cover_small.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count: 128
+  - 9780811225151
+  - 9780811223355
+  - 9780811223362
 _slug: a-little-lumpen-novelita
 ---
 

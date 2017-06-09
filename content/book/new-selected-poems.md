@@ -2,41 +2,19 @@
 title: "Selected Poems of Jerome RothenbergJ"
 draft: false
 date: 1984-09-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 1984-09-01T05:00:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
-language: Portuguese
-authors:
-  - author/jerome-rothenberg.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+language: portuguese
+author:
+  - contributor/jerome-rothenberg.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811210683
-    publication_date: 1984-09-01T05:00:00-04:00
-    cover_image: /images/New_Selected_Poems.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 17.95
-    price_cn:
-    trim_size:
-    Page_count:
-  - binding: Clothbound
-    isbn: 9780811210676
-    publication_date: 1984-09-01T05:00:00-04:00
-    cover_image: /images/New_Selected_Poems.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811210683
+  - 9780811210676
 _slug: new-selected-poems
 ---
 

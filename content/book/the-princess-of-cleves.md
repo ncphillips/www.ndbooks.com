@@ -2,31 +2,19 @@
 title: "The Princess of Clèves"
 draft: false
 date: 1988-09-01T05:00:05-04:00
-show_in_forthcoming: false
+publication_date: 1988-09-01T05:00:05-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/madame-lafayette.md
-translators:
-  - author/nancy-mitford.md
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/madame-lafayette.md
+translator:
+  - contributor/nancy-mitford.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811210706
-    publication_date: 1988-09-01T05:00:05-04:00
-    cover_image: /images/Princess_of_Cleves.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811210706
 _slug: the-princess-of-cleves
 ---
 

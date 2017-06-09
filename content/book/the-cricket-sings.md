@@ -2,30 +2,18 @@
 title: "The Cricket Sings"
 draft: false
 date: 1980-10-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 1980-10-01T05:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/federico-garcia-lorca.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/federico-garcia-lorca.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811207348
-    publication_date: 1980-10-01T05:00:00-04:00
-    cover_image: /images/The_Cricket_Sings.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 10.95
-    price_cn:
-    trim_size:
-    Page_count: 64
+  - 9780811207348
 _slug: the-cricket-sings
 ---
 

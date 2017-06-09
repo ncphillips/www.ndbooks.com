@@ -2,41 +2,19 @@
 title: "Expecting"
 draft: false
 date: 1984-05-01T05:00:35-04:00
-show_in_forthcoming: false
+publication_date: 1984-05-01T05:00:35-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/christine-lehner.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/christine-lehner.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811208987
-    publication_date: 1984-05-01T05:00:35-04:00
-    cover_image: /images/Expecting.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 6.95
-    price_cn:
-    trim_size:
-    Page_count:
-  - binding: Clothbound
-    isbn: 9780811208482
-    publication_date: 1984-05-01T05:00:35-04:00
-    cover_image: /images/Expecting.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 12.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811208987
+  - 9780811208482
 _slug: expecting
 ---
 

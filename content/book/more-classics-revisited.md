@@ -2,30 +2,18 @@
 title: "More Classics Revisited"
 draft: false
 date: 1989-03-01T06:00:00-04:00
-show_in_forthcoming: false
+publication_date: 1989-03-01T06:00:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/kenneth-rexroth.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/kenneth-rexroth.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811210836
-    publication_date: 1989-03-01T06:00:00-04:00
-    cover_image: /images/More_Classics_Revisited.JPG
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 17.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811210836
 _slug: more-classics-revisited
 ---
 

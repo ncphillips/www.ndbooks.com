@@ -2,42 +2,20 @@
 title: "Tropisms"
 draft: false
 date: 2015-04-24T20:39:00-04:00
-show_in_forthcoming: true
+publication_date: 2015-11-10T05:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: French
-authors:
-  - author/nathalie-sarraute.md
-translators:
-  - author/maria-jolas.md
-editors:
-contributors:
-featured_image:
-description: "Nathalie Sarraute's stunning debut–vignettes of _inner movements_–foreshadowed the rise of the Nouveau Roman "
+language: french
+author:
+  - contributor/nathalie-sarraute.md
+translator:
+  - contributor/maria-jolas.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811222761
-    publication_date: 2015-11-10T05:00:00-04:00
-    cover_image: /images/tropisms_cover.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 10.95
-    price_cn: 12.95
-    trim_size: 4 x 7
-    Page_count: 96
-  - binding: Ebook
-    isbn: 9780811222778
-    publication_date: 2015-11-10T05:00:00-04:00
-    cover_image_path:
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811222761
+  - 9780811222778
 _slug: tropisms
 ---
 

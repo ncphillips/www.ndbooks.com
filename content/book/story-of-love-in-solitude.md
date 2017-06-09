@@ -2,42 +2,20 @@
 title: "Story of Love in Solitude "
 draft: false
 date: 2016-03-07T20:20:00-04:00
-show_in_forthcoming: true
+publication_date: 2016-10-25T04:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: French
-authors:
-  - author/roger-lewinter.md
-translators:
-  - author/rachel-careau.md
-editors:
-contributors:
-featured_image:
-description: "A notable discovery of a truly original voice "
+language: french
+author:
+  - contributor/roger-lewinter.md
+translator:
+  - contributor/rachel-careau.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811225199
-    publication_date: 2016-10-25T04:00:00-04:00
-    cover_image: /images/LeWinter_solitude_to_size.tif
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 10.95
-    price_cn:
-    trim_size: 4.5 x 7.25
-    Page_count: 64
-  - binding: Ebook
-    isbn: 9780811226110
-    publication_date: 2016-10-25T04:00:00-04:00
-    cover_image_path:
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811225199
+  - 9780811226110
 _slug: story-of-love-in-solitude
 ---
 

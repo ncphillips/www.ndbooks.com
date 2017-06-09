@@ -2,31 +2,19 @@
 title: "Songs Of Love, Moon & Wind"
 draft: false
 date: 2009-04-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2009-04-01T05:00:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
-language: Portuguese
-authors:
-  - author/kenneth-rexroth.md
-translators:
-editors:
-  - author/eliot-weinberger.md
-contributors:
-featured_image:
-description: "A beautiful gift edition of Chinese poems about love, meditation, and reveries in the midst of nature, in Kenneth Rexroth's classic translations. "
+language: portuguese
+author:
+  - contributor/kenneth-rexroth.md
+translator:
+editor:
+  - contributor/eliot-weinberger.md
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811218368
-    publication_date: 2009-04-01T05:00:00-04:00
-    cover_image: /images/Songs%20of%20Love%2C%20Moon%2C%20and%20Wind.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 12.95
-    price_cn: 15.00
-    trim_size: 4x6
-    Page_count: 96
+  - 9780811218368
 _slug: songs-of-love-moon-wind
 ---
 

@@ -2,30 +2,18 @@
 title: "Fortress Besieged"
 draft: false
 date: 2004-02-01T06:00:34-04:00
-show_in_forthcoming: false
+publication_date: 2004-02-01T06:00:34-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/qian-zhongshu.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "The greatest Chinese novel of the twentieth century. "
+author:
+  - contributor/qian-zhongshu.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811215527
-    publication_date: 2004-02-01T06:00:34-04:00
-    cover_image: /images/Fortress_Besieged.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 19.95
-    price_cn:
-    trim_size: 6x9
-    Page_count: 416
+  - 9780811215527
 _slug: fortress-besieged
 ---
 

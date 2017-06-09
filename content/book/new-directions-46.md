@@ -2,41 +2,20 @@
 title: "New Directions 46"
 draft: false
 date: 1983-06-01T05:00:41-04:00
-show_in_forthcoming: false
+publication_date: 1983-06-01T05:00:41-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-  - Anthology
+  - anthology
 language:
-authors:
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811208664
-    publication_date: 1983-06-01T05:00:41-04:00
-    cover_image: /images/New_Directions_46.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
-  - binding: Clothbound
-    isbn: 9780811208659
-    publication_date: 1983-06-01T05:00:41-04:00
-    cover_image: /images/New_Directions_46.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 17.50
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811208664
+  - 9780811208659
 _slug: new-directions-46
 ---
 

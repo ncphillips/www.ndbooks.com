@@ -2,41 +2,19 @@
 title: "Seaview"
 draft: false
 date: 1982-04-01T06:00:23-04:00
-show_in_forthcoming: false
+publication_date: 1982-04-01T06:00:23-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/toby-olson.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/toby-olson.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 978081120829X
-    publication_date: 1982-04-01T06:00:23-04:00
-    cover_image: /images/Seaview.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
-  - binding: Clothbound
-    isbn: 9780811208284
-    publication_date: 1982-04-01T06:00:23-04:00
-    cover_image: /images/Seaview.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 978081120829X
+  - 9780811208284
 _slug: seaview
 ---
 

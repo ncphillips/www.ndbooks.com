@@ -2,40 +2,19 @@
 title: "Magnetic Point: Selected Poems "
 draft: false
 date: 2017-03-10T19:08:00-04:00
-show_in_forthcoming: true
+publication_date: 2017-09-19T04:00:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
-language: Polish
-authors:
-translators:
-editors:
-contributors:
-featured_image:
-description: "With a splendid selection from a half century of marvelous poems, a major Polish poet appears in English at last "
+language: polish
+author:
+
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811225007
-    publication_date: 2017-09-19T04:00:00-04:00
-    cover_image: /images/9780811225007.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 18.95
-    price_cn: 24.95
-    trim_size: 5x8
-    Page_count: 224
-  - binding: Ebook
-    isbn: 9780811225014
-    publication_date: 2017-09-19T04:00:00-04:00
-    cover_image_path:
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811225007
+  - 9780811225014
 _slug: magnetic-point-selected-poems
 ---
 

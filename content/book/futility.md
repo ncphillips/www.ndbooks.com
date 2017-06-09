@@ -2,30 +2,18 @@
 title: "Futility"
 draft: false
 date: 1991-09-01T05:00:55-04:00
-show_in_forthcoming: false
+publication_date: 1991-09-01T05:00:55-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/william-gerhardie.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/william-gerhardie.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811211765
-    publication_date: 1991-09-01T05:00:55-04:00
-    cover_image: /images/Futility.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 14.50
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811211765
 _slug: futility
 ---
 

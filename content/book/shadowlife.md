@@ -2,41 +2,19 @@
 title: "Shadowlife"
 draft: false
 date: 1991-03-01T06:00:37-04:00
-show_in_forthcoming: false
+publication_date: 1991-03-01T06:00:37-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/martin-grzimek.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/martin-grzimek.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811211529
-    publication_date: 1991-03-01T06:00:37-04:00
-    cover_image: /images/Shadowlife.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 11.95
-    price_cn:
-    trim_size:
-    Page_count:
-  - binding: Clothbound
-    isbn: 9780811211512
-    publication_date: 1991-03-01T06:00:37-04:00
-    cover_image: /images/Shadowlife.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 22.95
-    price_cn:
-    trim_size:
-    Page_count: 224
+  - 9780811211529
+  - 9780811211512
 _slug: shadowlife
 ---
 

@@ -2,30 +2,18 @@
 title: "Of The Great House"
 draft: false
 date: 1982-04-01T06:00:10-04:00
-show_in_forthcoming: false
+publication_date: 1982-04-01T06:00:10-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/allen-grossman.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/allen-grossman.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811208352
-    publication_date: 1982-04-01T06:00:10-04:00
-    cover_image: /images/Of_the_Great_House_.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 6.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811208352
 _slug: of-the-great-house
 ---
 

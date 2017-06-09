@@ -2,32 +2,19 @@
 title: "New Selected Essays: Where I Live"
 draft: false
 date: 2009-04-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2009-04-01T05:00:00-04:00
 subtitle: "New Selected Essays of Tennessee Williams"
-genre: Nonfiction
+genre: nonfiction
 subgenre:
-  - Essay
+  - essay
 language:
-authors:
-  - author/tennessee-williams.md
-translators:
-editors:
-contributors:
-  - author/john-lahr.md
-featured_image:
-description: "Tennessee Williams' witty, engaging, and elegant essays are now available in a revised and much expanded edition. "
+author:
+  - contributor/tennessee-williams.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811217286
-    publication_date: 2009-04-01T05:00:00-04:00
-    cover_image: /images/Where_I_Live.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 18.95
-    price_cn: 24.00
-    trim_size: 6x9
-    Page_count: 256
+  - 9780811217286
 _slug: new-selected-essays-where-i-live
 ---
 

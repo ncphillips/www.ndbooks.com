@@ -2,42 +2,20 @@
 title: "Dinner"
 draft: false
 date: 2015-03-20T19:31:00-04:00
-show_in_forthcoming: true
+publication_date: 2015-10-06T04:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: Spanish
-authors:
-  - author/cesar-aira.md
-translators:
-  - author/katherine-silver.md
-editors:
-contributors:
-featured_image: /images/dinner_cover.jpg
-description: "Was it a nightmare–the result of bad indigestion–or did something truly scary happen after dinner in the Argentine town of Coronel Pringles? "
+language: spanish
+author:
+  - contributor/cesar-aira.md
+translator:
+  - contributor/katherine-silver.md
+editor:
+featured_image_path: /uploads/1426879880334/dinner_cover.jpg
 editions:
-  - binding: Paperback
-    isbn: 9780811221085
-    publication_date: 2015-10-06T04:00:00-04:00
-    cover_image: /images/dinner_cover.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 13.95
-    price_cn: 16.95
-    trim_size: 5 x 7"
-    Page_count: 96
-  - binding: Ebook
-    isbn: 9780811221092
-    publication_date: 2015-10-06T04:00:00-04:00
-    cover_image_path:
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811221085
+  - 9780811221092
 _slug: dinner
 ---
 

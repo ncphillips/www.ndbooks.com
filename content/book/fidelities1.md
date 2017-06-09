@@ -2,17 +2,16 @@
 title: "Fidelities"
 draft: false
 date: 2011-10-11T16:42:34-04:00
-show_in_forthcoming: false
+publication_date: 2011-10-11T16:42:34-04:00
 subtitle:
 genre:
 subgenre:
 language:
-authors:
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+
+translator:
+editor:
+featured_image_path:
 editions:
 _slug: fidelities1
 ---

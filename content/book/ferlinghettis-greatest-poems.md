@@ -2,41 +2,19 @@
 title: "Ferlinghetti's Greatest Poems"
 draft: false
 date: 2017-03-10T19:40:00-04:00
-show_in_forthcoming: true
+publication_date: 2017-11-24T05:00:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/lawrence-ferlinghetti.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "At last, a compact, powerful overview of one of America’s most beloved and radical poets—spanning more than six decades of work "
+author:
+  - contributor/lawrence-ferlinghetti.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Clothbound
-    isbn: 9780811227124
-    publication_date: 2017-11-24T05:00:00-04:00
-    cover_image: /images/9780811227124.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 15.95
-    price_cn: 21.95
-    trim_size: 5x7
-    Page_count: 128
-  - binding: Ebook
-    isbn: 9780811227131
-    publication_date: 2017-11-24T05:00:00-04:00
-    cover_image_path:
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811227124
+  - 9780811227131
 _slug: ferlinghettis-greatest-poems
 ---
 

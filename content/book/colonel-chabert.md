@@ -2,30 +2,18 @@
 title: "Colonel Chabert"
 draft: false
 date: 1997-11-01T05:59:59-04:00
-show_in_forthcoming: false
+publication_date: 1997-11-01T05:59:59-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/honore-de-balzac.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/honore-de-balzac.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811213592
-    publication_date: 1997-11-01T05:59:59-04:00
-    cover_image: /images/Colonel_Chabert.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 9.95
-    price_cn: 15.00
-    trim_size: 5x8
-    Page_count: 112
+  - 9780811213592
 _slug: colonel-chabert
 ---
 

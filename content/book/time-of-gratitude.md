@@ -2,43 +2,21 @@
 title: "Time of Gratitude"
 draft: false
 date: 2017-03-10T19:41:00-04:00
-show_in_forthcoming: true
+publication_date: 2017-12-22T05:00:00-04:00
 subtitle:
-genre: Nonfiction
+genre: nonfiction
 subgenre:
-  - Essay
-language: Russian
-authors:
-  - author/gennady-aygi.md
-translators:
-  - author/peter-france.md
-editors:
-contributors:
-featured_image:
-description: "A collection of extraordinary essays by one of the seminal Russian poets of the twentieth century "
+  - essay
+language: russian
+author:
+  - contributor/gennady-aygi.md
+translator:
+  - contributor/peter-france.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811227193
-    publication_date: 2017-12-22T05:00:00-04:00
-    cover_image: /images/9780811227193.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 16.95
-    price_cn: 22.95
-    trim_size: 5x8
-    Page_count: 144
-  - binding: Ebook
-    isbn: 9780811227209
-    publication_date: 2017-12-22T05:00:00-04:00
-    cover_image_path:
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811227193
+  - 9780811227209
 _slug: time-of-gratitude
 ---
 

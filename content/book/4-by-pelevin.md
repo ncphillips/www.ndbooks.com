@@ -2,31 +2,19 @@
 title: "4 By Pelevin"
 draft: false
 date: 2001-09-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2001-09-01T05:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-  - Stories
-language: Russian
-authors:
-  - author/victor-pelevin.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+  - stories
+language: russian
+author:
+  - contributor/victor-pelevin.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811214919
-    publication_date: 2001-09-01T05:00:00-04:00
-    cover_image: /images/4_By_Pelevin.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 9.00
-    price_cn:
-    trim_size: 5x7
-    Page_count: 112
+  - 9780811214919
 _slug: 4-by-pelevin
 ---
 

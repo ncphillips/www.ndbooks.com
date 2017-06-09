@@ -2,42 +2,20 @@
 title: "Written On The Sky"
 draft: false
 date: 2009-04-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2009-04-01T05:00:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
-language: Japanese
-authors:
-  - author/kenneth-rexroth.md
-translators:
-editors:
-  - author/eliot-weinberger.md
-contributors:
-featured_image:
-description: "A lovely gift edition of the best classic Japanese haiku, incomparably translated by Kenneth Rexroth. "
+language: japanese
+author:
+  - contributor/kenneth-rexroth.md
+translator:
+editor:
+  - contributor/eliot-weinberger.md
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811218375
-    publication_date: 2009-04-01T05:00:00-04:00
-    cover_image: /images/Written_On_the_Sky.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 12.95
-    price_cn: 15.00
-    trim_size: 4x6
-    Page_count: 96
-  - binding: Ebook
-    isbn: 9780811223942
-    publication_date: 2009-04-01T05:00:00-04:00
-    cover_image: /images/Written_On_the_Sky.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count: 96
+  - 9780811218375
+  - 9780811223942
 _slug: written-on-the-sky
 ---
 

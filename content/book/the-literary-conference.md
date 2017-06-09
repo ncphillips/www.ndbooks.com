@@ -2,42 +2,20 @@
 title: "The Literary Conference"
 draft: false
 date: 2010-05-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2010-05-01T05:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: Spanish
-authors:
-  - author/cesar-aira.md
-translators:
-  - author/katherine-silver.md
-editors:
-contributors:
-featured_image:
-description: "New in our Pearls series: an extremely rich mad scientist attempts to clone a leading genius in a bid to take over the world. "
+language: spanish
+author:
+  - contributor/cesar-aira.md
+translator:
+  - contributor/katherine-silver.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811218788
-    publication_date: 2010-05-01T05:00:00-04:00
-    cover_image: /images/9780811218788.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 9.95
-    price_cn: 13.00
-    trim_size: 4x7
-    Page_count: 80
-  - binding: Ebook
-    isbn: 9780811219839
-    publication_date: 2010-05-01T05:00:00-04:00
-    cover_image_path:
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 9.95
-    price_cn:
-    trim_size:
-    Page_count: 80
+  - 9780811218788
+  - 9780811219839
 _slug: the-literary-conference
 ---
 

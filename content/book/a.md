@@ -2,30 +2,18 @@
 title: "‘‘A’’"
 draft: false
 date: 2011-01-01T06:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2011-01-01T06:00:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/louis-zukofsky.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "The new, authoritative edition of _A_: the monumental lifepoem by one of the most important American poets of the twentieth century, Louis Zukofsky. "
+author:
+  - contributor/louis-zukofsky.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811218719
-    publication_date: 2011-01-01T06:00:00-04:00
-    cover_image: /images/A.JPG
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 24.95
-    price_cn: 31.00
-    trim_size: 6x9
-    Page_count: 848
+  - 9780811218719
 _slug: a
 ---
 

@@ -2,31 +2,19 @@
 title: "The Wisdom Of The Taoists"
 draft: false
 date: 1980-11-01T06:00:55-04:00
-show_in_forthcoming: false
+publication_date: 1980-11-01T06:00:55-04:00
 subtitle:
-genre: Nonfiction
+genre: nonfiction
 subgenre:
-  - Essay
+  - essay
 language:
-authors:
-  - author/d.-smith-dh.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/d.-smith-dh.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811207775
-    publication_date: 1980-11-01T06:00:55-04:00
-    cover_image: /images/The_Wisdom_Of_The_Taoists.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 13.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811207775
 _slug: the-wisdom-of-the-taoists
 ---
 

@@ -2,44 +2,21 @@
 title: "The Collected Poems Of Tennessee Williams"
 draft: false
 date: 2007-04-01T05:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2007-04-01T05:00:00-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/tennessee-williams.md
-translators:
-editors:
-  - author/david-roessel.md
-
-  - author/nicholas-moschovakis.md
-contributors:
-featured_image:
-description: "Now available in a paperbook edition that comes with a CD of the author reading some of his poems in his unmistakable Mississippi drawl "
+author:
+  - contributor/tennessee-williams.md
+translator:
+editor:
+  - contributor/david-roessel.md
+  - contributor/nicholas-moschovakis.md
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811216913
-    publication_date: 2007-04-01T05:00:00-04:00
-    cover_image: /images/The_Collected_Poems_Of_Tennessee_Williams.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 21.95
-    price_cn: 24.00
-    trim_size: 6x9
-    Page_count: 336
-  - binding: Clothbound
-    isbn: 9780811215084
-    publication_date: 2007-04-01T05:00:00-04:00
-    cover_image: /images/The_Collected_Poems_Of_Tennessee_Williams.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size: 6x9
-    Page_count: 336
+  - 9780811216913
+  - 9780811215084
 _slug: the-collected-poems-of-tennessee-williams
 ---
 

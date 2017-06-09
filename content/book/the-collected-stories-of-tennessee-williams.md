@@ -2,31 +2,19 @@
 title: "The Collected Stories of Tennessee Williams"
 draft: false
 date: 1994-04-01T06:00:00-04:00
-show_in_forthcoming: false
+publication_date: 1994-04-01T06:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-  - Stories
+  - stories
 language:
-authors:
-  - author/tennessee-williams.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/tennessee-williams.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811212694
-    publication_date: 1994-04-01T06:00:00-04:00
-    cover_image: /images/Collected_Stories_TW.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 23.95
-    price_cn:
-    trim_size: 6x9
-    Page_count: 608
+  - 9780811212694
 _slug: the-collected-stories-of-tennessee-williams
 ---
 

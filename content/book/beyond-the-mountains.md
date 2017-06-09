@@ -2,30 +2,18 @@
 title: "Beyond The Mountains"
 draft: false
 date: 2001-01-01T06:00:58-04:00
-show_in_forthcoming: false
+publication_date: 2001-01-01T06:00:58-04:00
 subtitle:
-genre: Theater
+genre: theater
 subgenre:
 language:
-authors:
-  - author/kenneth-rexroth.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/kenneth-rexroth.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811205528
-    publication_date: 2001-01-01T06:00:58-04:00
-    cover_image: /images/Beyond_The_Mountains.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 16.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811205528
 _slug: beyond-the-mountains
 ---
 

@@ -2,42 +2,20 @@
 title: "Ema, the Captive "
 draft: false
 date: 2016-03-07T20:34:00-04:00
-show_in_forthcoming: true
+publication_date: 2016-12-06T05:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: Spanish
-authors:
-  - author/cesar-aira.md
-translators:
-  - author/chris-andrews.md
-editors:
-contributors:
-featured_image:
-description: "_Ema, the Captive_, César Aira’s second novel, is perhaps closest in style to his popular _Episode in the Life of a Landscape Painter_ and _The Hare_ "
+language: spanish
+author:
+  - contributor/cesar-aira.md
+translator:
+  - contributor/chris-andrews.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811219105
-    publication_date: 2016-12-06T05:00:00-04:00
-    cover_image: /images/ema_cover_to_size.tif
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn:
-    trim_size: 5 x 7
-    Page_count: 128
-  - binding: Ebook
-    isbn: 9780811226035
-    publication_date: 2016-12-06T05:00:00-04:00
-    cover_image_path:
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811219105
+  - 9780811226035
 _slug: ema-the-captive
 ---
 

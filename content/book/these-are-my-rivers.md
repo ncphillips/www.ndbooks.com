@@ -2,41 +2,19 @@
 title: "These Are My Rivers"
 draft: false
 date: 1994-10-01T05:00:03-04:00
-show_in_forthcoming: false
+publication_date: 1994-10-01T05:00:03-04:00
 subtitle:
-genre: Poetry
+genre: poetry
 subgenre:
 language:
-authors:
-  - author/lawrence-ferlinghetti.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/lawrence-ferlinghetti.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811212731
-    publication_date: 1994-10-01T05:00:03-04:00
-    cover_image: /images/These_Are_My_Rivers.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 13.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 320
-  - binding: Clothbound
-    isbn: 9780811212526
-    publication_date: 1994-10-01T05:00:03-04:00
-    cover_image: /images/These_Are_My_Rivers.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size: 5x8
-    Page_count: 320
+  - 9780811212731
+  - 9780811212526
 _slug: these-are-my-rivers
 ---
 

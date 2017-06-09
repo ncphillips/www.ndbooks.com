@@ -2,41 +2,19 @@
 title: "The Tortoises"
 draft: false
 date: 2007-06-01T05:00:36-04:00
-show_in_forthcoming: false
+publication_date: 2007-06-01T05:00:36-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/veza-canetti.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "A powerful, subtle, dark novel depicting the destruction of Austrian Jews, never before published in English. "
+author:
+  - contributor/veza-canetti.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811216968
-    publication_date: 2007-06-01T05:00:36-04:00
-    cover_image: /images/The_Tortoises.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn: 19.00
-    trim_size: 5x8
-    Page_count: 256
-  - binding: Clothbound
-    isbn: 9780811214681
-    publication_date: 2007-06-01T05:00:36-04:00
-    cover_image: /images/The_Tortoises.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 24.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 256
+  - 9780811216968
+  - 9780811214681
 _slug: the-tortoises
 ---
 

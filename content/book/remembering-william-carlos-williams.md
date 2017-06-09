@@ -2,31 +2,19 @@
 title: "Remembering William Carlos Williams"
 draft: false
 date: 1995-10-01T05:00:08-04:00
-show_in_forthcoming: false
+publication_date: 1995-10-01T05:00:08-04:00
 subtitle:
-genre: Nonfiction
+genre: nonfiction
 subgenre:
-  - Memoir
+  - memoir
 language:
-authors:
-  - author/james-laughlin.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/james-laughlin.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811213073
-    publication_date: 1995-10-01T05:00:08-04:00
-    cover_image: /images/Remembering_William_Carlos_Williams.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 7.95
-    price_cn:
-    trim_size:
-    Page_count: 64
+  - 9780811213073
 _slug: remembering-william-carlos-williams
 ---
 

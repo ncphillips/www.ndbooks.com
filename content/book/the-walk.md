@@ -2,35 +2,21 @@
 title: "The Walk"
 draft: false
 date: 2012-06-05T20:04:00-04:00
-show_in_forthcoming: false
+publication_date: 2012-06-05T20:04:00-04:00
 subtitle: "A New Directions Pearl"
 genre:
 subgenre:
-  - Essay
-language: German
-authors:
-  - author/robert-walser.md
-translators:
-  - author/susan-bernofsky.md
-
-  - author/christopher-middleton.md
-editors:
-contributors:
-  - author/susan-bernofsky.md
-featured_image:
-description: "Walser's alternate, preferred version of his most famous tale. "
+  - essay
+language: german
+author:
+  - contributor/robert-walser.md
+translator:
+  - contributor/susan-bernofsky.md
+  - contributor/christopher-middleton.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811219921
-    publication_date: 2012-06-05T20:04:00-04:00
-    cover_image: /images/The_Walk.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 9.95
-    price_cn: 10.99
-    trim_size:
-    Page_count: 80
+  - 9780811219921
 _slug: the-walk
 ---
 

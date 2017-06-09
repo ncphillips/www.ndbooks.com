@@ -2,42 +2,20 @@
 title: "The Mehlis Report"
 draft: false
 date: 2013-06-27T14:20:00-04:00
-show_in_forthcoming: false
+publication_date: 2013-06-27T14:20:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-language: Arabic
-authors:
-  - author/rabee-jaber.md
-translators:
-  - author/kareem-james-abu-zeid.md
-editors:
-contributors:
-featured_image:
-description: "The English-language debut of 2012’s International Arabic Fiction Prize winner "
+language: arabic
+author:
+  - contributor/rabee-jaber.md
+translator:
+  - contributor/kareem-james-abu-zeid.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811220644
-    publication_date: 2013-06-27T14:20:00-04:00
-    cover_image: /images/Mehlis_Report.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn: 16.00
-    trim_size:
-    Page_count: 224
-  - binding: Ebook
-    isbn: 9780811221184
-    publication_date: 2013-06-27T14:20:00-04:00
-    cover_image: /images/Mehlis_Report.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 14.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811220644
+  - 9780811221184
 _slug: the-mehlis-report
 ---
 

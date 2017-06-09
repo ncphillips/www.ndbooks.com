@@ -2,31 +2,19 @@
 title: "Selected Stories of Siegfried Lenz"
 draft: false
 date: 1989-10-01T05:00:57-04:00
-show_in_forthcoming: false
+publication_date: 1989-10-01T05:00:57-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-  - Stories
+  - stories
 language:
-authors:
-  - author/siegfried-lenz.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/siegfried-lenz.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Clothbound
-    isbn: 9780811211055
-    publication_date: 1989-10-01T05:00:57-04:00
-    cover_image: /images/The_Selected_Stories_Of_Siegfried_Lenz_.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 19.95
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811211055
 _slug: selected-stories
 ---
 

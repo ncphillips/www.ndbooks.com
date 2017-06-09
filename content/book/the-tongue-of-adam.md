@@ -2,43 +2,21 @@
 title: "The Tongue of Adam "
 draft: false
 date: 2016-03-07T20:26:00-04:00
-show_in_forthcoming: true
+publication_date: 2016-11-22T05:00:00-04:00
 subtitle:
-genre: Nonfiction
+genre: nonfiction
 subgenre:
-  - Essay
-language: French
-authors:
-  - author/abdelfattah-kilito.md
-translators:
-  - author/robyn-creswell.md
-editors:
-contributors:
-featured_image:
-description: "A playful and erudite look at the origins of language "
+  - essay
+language: french
+author:
+  - contributor/abdelfattah-kilito.md
+translator:
+  - contributor/robyn-creswell.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811224932
-    publication_date: 2016-11-22T05:00:00-04:00
-    cover_image: /images/kilito_Tongue_to_size.tif
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 13.95
-    price_cn:
-    trim_size: 5 x 8
-    Page_count: 128
-  - binding: Ebook
-    isbn: 9780811224949
-    publication_date: 2016-11-22T05:00:00-04:00
-    cover_image_path:
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811224932
+  - 9780811224949
 _slug: the-tongue-of-adam
 ---
 

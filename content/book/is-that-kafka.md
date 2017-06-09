@@ -2,54 +2,22 @@
 title: "Is That Kafka?"
 draft: false
 date: 2015-10-15T18:08:00-04:00
-show_in_forthcoming: true
+publication_date: 2017-02-28T05:00:00-04:00
 subtitle: "99 Finds"
-genre: Nonfiction
+genre: nonfiction
 subgenre:
-  - Non fiction
-language: German
-authors:
-  - author/reiner-stach.md
-translators:
-  - author/kurt-beals.md
-editors:
-contributors:
-featured_image: /images/kafka%20web%20banner.png
-description: "Now in paperback, a wunderkammer of 99 delightfully odd facts about Kafka "
+  - non fiction
+language: german
+author:
+  - contributor/reiner-stach.md
+translator:
+  - contributor/kurt-beals.md
+editor:
+featured_image_path: /uploads/1454433074909/kafka%20web%20banner.png
 editions:
-  - binding: Paperback
-    isbn: 9780811225168
-    publication_date: 2017-02-28T05:00:00-04:00
-    cover_image: /images/stach_is_that_kafka_pbk.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 16.95
-    price_cn: 22.95
-    trim_size: 5 x 8"
-    Page_count: 352
-  - binding: Clothbound
-    isbn: 9780811221238
-    publication_date: 2017-02-28T05:00:00-04:00
-    cover_image: /images/IS%20THAT%20KAFKA%20inside%20cover.tif
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: $27.95
-    price_cn: $35.95
-    trim_size:
-    Page_count: 352
-  - binding: Ebook
-    isbn: 9780811224550
-    publication_date: 2017-02-28T05:00:00-04:00
-    cover_image_path:
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count:
+  - 9780811225168
+  - 9780811221238
+  - 9780811224550
 _slug: is-that-kafka
 ---
 

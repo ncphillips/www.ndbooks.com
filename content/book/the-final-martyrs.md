@@ -2,42 +2,20 @@
 title: "The Final Martyrs"
 draft: false
 date: 2009-01-01T06:00:00-04:00
-show_in_forthcoming: false
+publication_date: 2009-01-01T06:00:00-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
-  - Stories
-language: Japanese
-authors:
-  - author/shusaku-endo.md
-translators:
-editors:
-contributors:
-featured_image:
-description: "An affirmation of faith and identity by Japan’s leading Christian novelist. "
+  - stories
+language: japanese
+author:
+  - contributor/shusaku-endo.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811218115
-    publication_date: 2009-01-01T06:00:00-04:00
-    cover_image: /images/The_Final_Martyrs.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us: 13.95
-    price_cn: 16.00
-    trim_size: 5x8
-    Page_count: 224
-  - binding: Clothbound
-    isbn: 9780811212724
-    publication_date: 2009-01-01T06:00:00-04:00
-    cover_image: /images/The_Final_Martyrs.jpg
-    forsale: true
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size: 5x8
-    Page_count: 224
+  - 9780811218115
+  - 9780811212724
 _slug: the-final-martyrs
 ---
 

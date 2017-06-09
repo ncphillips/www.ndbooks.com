@@ -2,41 +2,19 @@
 title: "The Yellow Arrow"
 draft: false
 date: 1996-05-01T05:00:22-04:00
-show_in_forthcoming: false
+publication_date: 1996-05-01T05:00:22-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/victor-pelevin.md
-translators:
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/victor-pelevin.md
+translator:
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811213554
-    publication_date: 1996-05-01T05:00:22-04:00
-    cover_image: /images/The_Yellow_Arrow.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 12.95
-    price_cn:
-    trim_size:
-    Page_count: 96
-  - binding: Clothbound
-    isbn: 9780811213240
-    publication_date: 1996-05-01T05:00:22-04:00
-    cover_image: /images/The_Yellow_Arrow.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size:
-    Page_count: 96
+  - 9780811213554
+  - 9780811213240
 _slug: the-yellow-arrow
 ---
 

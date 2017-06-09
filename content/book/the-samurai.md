@@ -2,31 +2,19 @@
 title: "The Samurai"
 draft: false
 date: 1997-04-01T06:00:27-04:00
-show_in_forthcoming: false
+publication_date: 1997-04-01T06:00:27-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/shusaku-endo.md
-translators:
-  - author/van-c.-gessel.md
-editors:
-contributors:
-featured_image:
-description:
+author:
+  - contributor/shusaku-endo.md
+translator:
+  - contributor/van-c.-gessel.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811213462
-    publication_date: 1997-04-01T06:00:27-04:00
-    cover_image: /images/The_Samurai.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 13.95
-    price_cn:
-    trim_size: 5x8
-    Page_count: 272
+  - 9780811213462
 _slug: the-samurai
 ---
 

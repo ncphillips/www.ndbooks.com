@@ -2,42 +2,20 @@
 title: "The Club of Angels"
 draft: false
 date: 2008-06-01T05:00:55-04:00
-show_in_forthcoming: false
+publication_date: 2008-06-01T05:00:55-04:00
 subtitle:
-genre: Fiction
+genre: fiction
 subgenre:
 language:
-authors:
-  - author/luis-verissimo.md
-translators:
-  - author/margaret-jull-costa.md
-editors:
-contributors:
-featured_image:
-description: "A literary mystery about cooking and gourmands by one of Brazil's most popular authors -- and a New York Public Library _Book to Remember_ "
+author:
+  - contributor/luis-verissimo.md
+translator:
+  - contributor/margaret-jull-costa.md
+editor:
+featured_image_path:
 editions:
-  - binding: Paperback
-    isbn: 9780811217552
-    publication_date: 2008-06-01T05:00:55-04:00
-    cover_image: /images/The_Club_Of_Angels_.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us: 12.95
-    price_cn: 15.00
-    trim_size: 5x8
-    Page_count: 144
-  - binding: Clothbound
-    isbn: 9780811215008
-    publication_date: 2008-06-01T05:00:55-04:00
-    cover_image: /images/The_Club_Of_Angels_.jpg
-    forsale: false
-    saleprice:
-    shipping_charge:
-    price_us:
-    price_cn:
-    trim_size: 5x8
-    Page_count: 144
+  - 9780811217552
+  - 9780811215008
 _slug: club-of-angels
 ---
 
