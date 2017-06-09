@@ -8,12 +8,12 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/nicanor-parra.md
+  - author/nicanor-parra.md
 translators:
-  - contributor/william-carlos-williams.md
+  - author/william-carlos-williams.md
 editors:
 contributors:
-  - contributor/nicanor-parra.md
+  - author/nicanor-parra.md
 featured_image:
 description:
 editions:

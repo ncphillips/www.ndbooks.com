@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/robert-lax.md
+  - author/robert-lax.md
 translators:
 editors:
 contributors:

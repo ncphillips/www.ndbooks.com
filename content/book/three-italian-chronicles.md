@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/stendhal.md
+  - author/stendhal.md
 translators:
-  - contributor/c.k.-scott-moncrieff.md
+  - author/c.k.-scott-moncrieff.md
 editors:
 contributors:
 featured_image:

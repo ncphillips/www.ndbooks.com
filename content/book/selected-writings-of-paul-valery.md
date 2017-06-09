@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/paul-valery.md
+  - author/paul-valery.md
 translators:
 editors:
 contributors:

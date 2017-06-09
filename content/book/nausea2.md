@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language: Portuguese
 authors:
-  - contributor/jean-paul-sartre.md
+  - author/jean-paul-sartre.md
 translators:
 editors:
 contributors:

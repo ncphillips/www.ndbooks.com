@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/luljeta-lleshanaku.md
+  - author/luljeta-lleshanaku.md
 translators:
 editors:
 contributors:

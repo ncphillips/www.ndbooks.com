@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language: Spanish
 authors:
-  - contributor/camilo-jose-cela.md
+  - author/camilo-jose-cela.md
 translators:
-  - contributor/patricia-haugaard.md
+  - author/patricia-haugaard.md
 editors:
 contributors:
 featured_image:

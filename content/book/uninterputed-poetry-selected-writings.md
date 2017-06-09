@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language: French
 authors:
-  - contributor/paul-luard.md
+  - author/paul-luard.md
 translators:
 editors:
 contributors:

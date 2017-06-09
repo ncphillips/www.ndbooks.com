@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/c.-sisson.md
+  - author/c.-sisson.md
 translators:
 editors:
 contributors:

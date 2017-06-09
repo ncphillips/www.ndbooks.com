@@ -9,7 +9,7 @@ subgenre:
   - Stories
 language:
 authors:
-  - contributor/thalia-field.md
+  - author/thalia-field.md
 translators:
 editors:
 contributors:

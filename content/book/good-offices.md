@@ -8,11 +8,11 @@ genre: Fiction
 subgenre:
 language: Spanish
 authors:
-  - contributor/evelio-rosero.md
+  - author/evelio-rosero.md
 translators:
-  - contributor/anne-mclean.md
+  - author/anne-mclean.md
 
-  - contributor/anna-milsom.md
+  - author/anna-milsom.md
 editors:
 contributors:
 featured_image:

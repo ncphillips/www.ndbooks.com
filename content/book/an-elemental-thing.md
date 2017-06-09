@@ -9,7 +9,7 @@ subgenre:
   - Essay
 language: Portuguese
 authors:
-  - contributor/eliot-weinberger.md
+  - author/eliot-weinberger.md
 translators:
 editors:
 contributors:

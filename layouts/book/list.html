@@ -1,43 +1,34 @@
 {{ define "main" }}
 {{/* If we want to paginate use this, otherwise below pulls books: {{ $section := (.Paginator 2000).Pages  }} */}}
   {{ $section := .Data.Pages }}
-  {{ $authors :=  where .Site.Pages "Section" "author" }}
-
-
-
-
-  <h1 class="">{{ $authors }}</h1>
-{{/* {{ printf "%#v" $authors }} */}}
-
-  {{ partial "page-content.html" . }}
-
+  {{ $authors :=  where .Site.RegularPages "Section" "author" }}
   <div class="{{ $.Param "page_padding_classes" }}">
-    <div class="flex flex-wrap ph6">
-      <div class="w-40">Title</div>
-      <div class="w-20">Author</div>
-      <div class="w-40">Email</div>
+    <h1 class="">
+      {{ .Title }}
+    </h1>
+    {{ partial "page-content.html" . }}
+
+
+
+    {{/* HEADER */}}
+    <div class="b bb b--gray flex flex-wrap mb2 pb2">
+      <div class="w-100 w-40-ns">Title</div>
+      <div class="w-100 w-20-ns">Author</div>
+      <div class="w-100 w-20-ns">Publication Date</div>
+      <div class="w-100 w-20-ns">Genre</div>
     </div>
 
-
-
-    <div class="ph6 striped--light-silver">
+    <div class="striped--light-silver">
       {{ range  $section }}
-      {{ $related_authors := .Params.authors }}
-      {{/* {{ $authors := where (where .Site.Pages "Section" "author") ".File.Path" . }} */}}
-
-
-{{/* {{ $authors := intersect $authors $related_authors | len | lt 0 }} */}}
-
-
-
-
-
-      <div class="flex flex-wrap striped--light-gray w-100 pv2">
-        <div class="w-40">{{ .Title }}</div>
-        <div class="w-20"></div>
-        <div class="w-40">{{ .Params.genre }}</div>
-      </div>
-
+        {{ $related_authors := .Params.authors }}
+        {{ $b := where ($authors) ".File.Path" "in" $related_authors }}
+        <div class="flex flex-wrap striped--light-gray w-100 pv2">
+          <div class="w-100 w-40-l">{{- .Title -}}</div>
+          <div class="w-100 w-20-l">{{ range $i, $b := $b }}{{ if $i }}, {{ end }}<a href="{{ .URL }}" class="dim link black">{{ .Title }}</a>{{ end }}
+          </div>
+          <div class="w-100 w-20-l">{{ .Date.Format "Jan 02, 2006" }}</div>
+          <div class="w-100 w-20-l">{{ .Params.genre }}</div>
+        </div>
       {{ end }}
     </div>
   {{/* {{ template "_internal/pagination.html" . }} */}}

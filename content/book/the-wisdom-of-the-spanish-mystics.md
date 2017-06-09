@@ -9,7 +9,7 @@ subgenre:
   - Essay
 language:
 authors:
-  - contributor/stephen-clissold.md
+  - author/stephen-clissold.md
 translators:
 editors:
 contributors:

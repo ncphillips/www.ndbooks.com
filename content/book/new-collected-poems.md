@@ -8,14 +8,14 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/george-oppen.md
+  - author/george-oppen.md
 translators:
 editors:
-  - contributor/eliot-weinberger.md
+  - author/eliot-weinberger.md
 contributors:
-  - contributor/michael-davidson.md
+  - author/michael-davidson.md
 
-  - contributor/eliot-weinberger.md
+  - author/eliot-weinberger.md
 featured_image:
 description: "“Michael Davidson has done a masterful job of editing this new edition of the _Collected Poems_.... Few poets significantly alter and enhance the state of the art. Oppen is one of them.” —Michael Palmer, Bookforum "
 editions:

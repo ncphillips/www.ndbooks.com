@@ -9,13 +9,13 @@ subgenre:
   - Essay
 language:
 authors:
-  - contributor/henry-miller.md
+  - author/henry-miller.md
 translators:
 editors:
 contributors:
-  - contributor/will-self.md
+  - author/will-self.md
 
-  - contributor/durrell-and-miller.md
+  - author/durrell-and-miller.md
 featured_image:
 description:
 editions:

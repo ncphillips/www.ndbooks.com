@@ -9,9 +9,9 @@ subgenre:
   - Stories
 language:
 authors:
-  - contributor/alexander-kluge.md
+  - author/alexander-kluge.md
 translators:
-  - contributor/martin-brady.md
+  - author/martin-brady.md
 editors:
 contributors:
 featured_image:

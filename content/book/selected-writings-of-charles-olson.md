@@ -9,7 +9,7 @@ subgenre:
   - Selections
 language:
 authors:
-  - contributor/charles-olson.md
+  - author/charles-olson.md
 translators:
 editors:
 contributors:

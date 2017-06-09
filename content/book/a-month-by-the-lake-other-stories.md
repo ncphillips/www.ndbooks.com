@@ -9,7 +9,7 @@ subgenre:
   - Stories
 language:
 authors:
-  - contributor/h.-e.-bates.md
+  - author/h.-e.-bates.md
 translators:
 editors:
 contributors:

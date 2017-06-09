@@ -9,9 +9,9 @@ subgenre:
   - Non fiction
 language: German
 authors:
-  - contributor/reiner-stach.md
+  - author/reiner-stach.md
 translators:
-  - contributor/kurt-beals.md
+  - author/kurt-beals.md
 editors:
 contributors:
 featured_image: /images/kafka%20web%20banner.png

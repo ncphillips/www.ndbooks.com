@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/martin-bax.md
+  - author/martin-bax.md
 translators:
 editors:
 contributors:

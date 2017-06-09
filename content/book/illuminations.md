@@ -8,9 +8,9 @@ genre: Poetry
 subgenre:
 language: French
 authors:
-  - contributor/arthur-rimbaud.md
+  - author/arthur-rimbaud.md
 translators:
-  - contributor/louise-varese.md
+  - author/louise-varese.md
 editors:
 contributors:
 featured_image:

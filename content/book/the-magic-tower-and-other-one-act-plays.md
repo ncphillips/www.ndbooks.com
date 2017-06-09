@@ -8,12 +8,12 @@ genre: Theater
 subgenre:
 language:
 authors:
-  - contributor/tennessee-williams.md
+  - author/tennessee-williams.md
 translators:
 editors:
-  - contributor/thomas-keith.md
+  - author/thomas-keith.md
 contributors:
-  - contributor/terrence-mcnally.md
+  - author/terrence-mcnally.md
 featured_image:
 description: "A wonderful collection of never-before-collected one-acts: _The peak of my virtuosity was in the one-act plays. Some of which are like firecrackers in a rope_ (Tennessee Williams). "
 editions:

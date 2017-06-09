@@ -9,7 +9,7 @@ subgenre:
   - Selections
 language:
 authors:
-  - contributor/blaise-cendrars.md
+  - author/blaise-cendrars.md
 translators:
 editors:
 contributors:

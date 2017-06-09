@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/george-oppen.md
+  - author/george-oppen.md
 translators:
 editors:
 contributors:

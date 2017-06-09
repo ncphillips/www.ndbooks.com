@@ -9,7 +9,7 @@ subgenre:
   - Correspondence
 language:
 authors:
-  - contributor/henry-miller.md
+  - author/henry-miller.md
 translators:
 editors:
 contributors:

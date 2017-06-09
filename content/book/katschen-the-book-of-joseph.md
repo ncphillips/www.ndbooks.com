@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/yoel-hoffmann.md
+  - author/yoel-hoffmann.md
 translators:
 editors:
 contributors:

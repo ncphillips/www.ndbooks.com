@@ -8,12 +8,12 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/basil-bunting.md
+  - author/basil-bunting.md
 translators:
-  - contributor/richard-caddell.md
+  - author/richard-caddell.md
 editors:
 contributors:
-  - contributor/basil-bunting.md
+  - author/basil-bunting.md
 featured_image:
 description: "At last in print, the complete poems of the great Northumbrian poet – admired by Pound, Yeats, and Zukofsky – containing his masterwork _Briggflatts._ "
 editions:

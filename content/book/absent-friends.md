@@ -9,7 +9,7 @@ subgenre:
   - Stories
 language:
 authors:
-  - contributor/frederick-busch.md
+  - author/frederick-busch.md
 translators:
 editors:
 contributors:

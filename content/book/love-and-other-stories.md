@@ -9,12 +9,12 @@ subgenre:
   - Stories
 language: Hungarian
 authors:
-  - contributor/tibor-dery.md
+  - author/tibor-dery.md
 translators:
-  - contributor/george-szirtes.md
+  - author/george-szirtes.md
 editors:
 contributors:
-  - contributor/tibor-dery.md
+  - author/tibor-dery.md
 featured_image:
 description:
 editions:

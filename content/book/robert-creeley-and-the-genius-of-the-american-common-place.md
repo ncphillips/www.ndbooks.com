@@ -9,7 +9,7 @@ subgenre:
   - Study
 language:
 authors:
-  - contributor/tom-clark.md
+  - author/tom-clark.md
 translators:
 editors:
 contributors:

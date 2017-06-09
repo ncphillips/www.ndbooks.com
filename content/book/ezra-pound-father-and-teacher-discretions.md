@@ -9,10 +9,10 @@ subgenre:
   - Memoir
 language:
 authors:
-  - contributor/mary-rachewiltz.md
+  - author/mary-rachewiltz.md
 translators:
 editors:
-  - contributor/richard-sieburth.md
+  - author/richard-sieburth.md
 contributors:
 featured_image:
 description:

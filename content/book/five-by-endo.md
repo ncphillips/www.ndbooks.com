@@ -9,7 +9,7 @@ subgenre:
   - Stories
 language: Japanese
 authors:
-  - contributor/shusaku-endo.md
+  - author/shusaku-endo.md
 translators:
 editors:
 contributors:

@@ -9,7 +9,7 @@ subgenre:
   - Stories
 language:
 authors:
-  - contributor/martin-grzimek.md
+  - author/martin-grzimek.md
 translators:
 editors:
 contributors:

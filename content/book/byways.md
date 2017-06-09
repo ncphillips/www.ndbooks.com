@@ -9,10 +9,10 @@ subgenre:
   - Memoir
 language:
 authors:
-  - contributor/james-laughlin.md
+  - author/james-laughlin.md
 translators:
 editors:
-  - contributor/peter-glassgold.md
+  - author/peter-glassgold.md
 contributors:
 featured_image:
 description: "The memoirs of ND's founder. "

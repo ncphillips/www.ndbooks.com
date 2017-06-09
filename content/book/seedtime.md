@@ -9,7 +9,7 @@ subgenre:
   - Selections
 language:
 authors:
-  - contributor/philippe-jaccottet.md
+  - author/philippe-jaccottet.md
 translators:
 editors:
 contributors:

@@ -9,9 +9,9 @@ subgenre:
   - Anthology
 language:
 authors:
-  - contributor/guy-davenport.md
+  - author/guy-davenport.md
 translators:
-  - contributor/guy-davenport.md
+  - author/guy-davenport.md
 editors:
 contributors:
 featured_image:

@@ -9,7 +9,7 @@ subgenre:
   - Memoir
 language:
 authors:
-  - contributor/eugenio-montale.md
+  - author/eugenio-montale.md
 translators:
 editors:
 contributors:

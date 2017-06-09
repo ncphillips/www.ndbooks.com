@@ -8,10 +8,10 @@ genre: Poetry
 subgenre:
 language: French
 authors:
-  - contributor/jean-francois-bory.md
+  - author/jean-francois-bory.md
 translators:
 editors:
-  - contributor/jean-francois-bory.md
+  - author/jean-francois-bory.md
 contributors:
 featured_image:
 description:

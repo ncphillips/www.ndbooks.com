@@ -8,7 +8,7 @@ genre:
 subgenre:
 language: Portuguese
 authors:
-  - contributor/nathaniel-tarn.md
+  - author/nathaniel-tarn.md
 translators:
 editors:
 contributors:

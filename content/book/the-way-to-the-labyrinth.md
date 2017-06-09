@@ -9,7 +9,7 @@ subgenre:
   - Memoir
 language:
 authors:
-  - contributor/alain-danielou.md
+  - author/alain-danielou.md
 translators:
 editors:
 contributors:

@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/robert-warren.md
+  - author/robert-warren.md
 translators:
 editors:
 contributors:

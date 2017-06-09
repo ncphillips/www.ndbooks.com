@@ -8,11 +8,11 @@ genre: Fiction
 subgenre:
 language: Russian
 authors:
-  - contributor/vladimir-nabokov.md
+  - author/vladimir-nabokov.md
 translators:
 editors:
 contributors:
-  - contributor/michael-dirda.md
+  - author/michael-dirda.md
 featured_image:
 description: "Nabokov's first novel in English, one of his greatest and most overlooked "
 editions:

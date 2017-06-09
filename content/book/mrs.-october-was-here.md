@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/coleman-dowell.md
+  - author/coleman-dowell.md
 translators:
 editors:
 contributors:

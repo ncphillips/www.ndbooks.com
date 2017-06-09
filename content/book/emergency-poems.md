@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language: Spanish
 authors:
-  - contributor/nicanor-parra.md
+  - author/nicanor-parra.md
 translators:
 editors:
 contributors:

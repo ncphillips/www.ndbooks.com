@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/henry-james.md
+  - author/henry-james.md
 translators:
 editors:
 contributors:

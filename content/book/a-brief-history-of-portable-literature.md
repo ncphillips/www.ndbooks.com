@@ -8,11 +8,11 @@ genre: Fiction
 subgenre:
 language: Spanish
 authors:
-  - contributor/enrique-vila-matas.md
+  - author/enrique-vila-matas.md
 translators:
-  - contributor/thomas-bunstead.md
+  - author/thomas-bunstead.md
 
-  - contributor/anne-mclean.md
+  - author/anne-mclean.md
 editors:
 contributors:
 featured_image:

@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/muriel-spark.md
+  - author/muriel-spark.md
 translators:
 editors:
 contributors:

@@ -8,7 +8,7 @@ genre:
 subgenre:
 language:
 authors:
-  - contributor/alan-neame.md
+  - author/alan-neame.md
 translators:
 editors:
 contributors:

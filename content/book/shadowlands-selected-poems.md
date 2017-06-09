@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/johannes-bobrowski.md
+  - author/johannes-bobrowski.md
 translators:
 editors:
 contributors:

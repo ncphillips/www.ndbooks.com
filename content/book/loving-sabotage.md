@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/amelie-nothomb.md
+  - author/amelie-nothomb.md
 translators:
 editors:
 contributors:

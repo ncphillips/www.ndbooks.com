@@ -8,12 +8,12 @@ genre: Poetry
 subgenre:
 language: Dutch
 authors:
-  - contributor/paul-van-ostaijen.md
+  - author/paul-van-ostaijen.md
 translators:
-  - contributor/hidde-van-ameyden-van-duym.md
+  - author/hidde-van-ameyden-van-duym.md
 editors:
 contributors:
-  - contributor/paul-van-ostaijen.md
+  - author/paul-van-ostaijen.md
 featured_image:
 description:
 editions:

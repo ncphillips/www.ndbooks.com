@@ -9,13 +9,13 @@ subgenre:
   - Essay
 language: German
 authors:
-  - contributor/robert-walser.md
+  - author/robert-walser.md
 translators:
-  - contributor/susan-bernofsky.md
+  - author/susan-bernofsky.md
 
-  - contributor/lydia-davis.md
+  - author/lydia-davis.md
 
-  - contributor/christopher-middleton.md
+  - author/christopher-middleton.md
 editors:
 contributors:
 featured_image: /images/AA349675.tif

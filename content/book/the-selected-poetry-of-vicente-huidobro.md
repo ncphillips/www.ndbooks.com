@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language: Spanish
 authors:
-  - contributor/vicente-huidobro.md
+  - author/vicente-huidobro.md
 translators:
 editors:
 contributors:

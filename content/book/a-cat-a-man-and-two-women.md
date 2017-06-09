@@ -9,9 +9,9 @@ subgenre:
   - Stories
 language: Japanese
 authors:
-  - contributor/junichiro-tanizaki.md
+  - author/junichiro-tanizaki.md
 translators:
-  - contributor/paul-mccarthy.md
+  - author/paul-mccarthy.md
 editors:
 contributors:
 featured_image:

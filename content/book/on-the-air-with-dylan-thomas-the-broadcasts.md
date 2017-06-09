@@ -9,7 +9,7 @@ subgenre:
   - Study
 language:
 authors:
-  - contributor/dylan-thomas-d.md
+  - author/dylan-thomas-d.md
 translators:
 editors:
 contributors:

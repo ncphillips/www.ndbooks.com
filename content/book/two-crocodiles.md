@@ -8,13 +8,13 @@ genre: Fiction
 subgenre:
 language: Russian
 authors:
-  - contributor/fyodor-dostoevsky.md
+  - author/fyodor-dostoevsky.md
 
-  - contributor/felisberto-hernandez.md
+  - author/felisberto-hernandez.md
 translators:
-  - contributor/constance-garnett.md
+  - author/constance-garnett.md
 
-  - contributor/esther-allen.md
+  - author/esther-allen.md
 editors:
 contributors:
 featured_image:

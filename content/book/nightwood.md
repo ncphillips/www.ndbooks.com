@@ -8,13 +8,13 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/djuna-barnes.md
+  - author/djuna-barnes.md
 translators:
 editors:
 contributors:
-  - contributor/t.-s.-eliot.md
+  - author/t.-s.-eliot.md
 
-  - contributor/jeanette-winterson.md
+  - author/jeanette-winterson.md
 featured_image:
 description: "Reissue of a fiery and enigmatic masterpiece, one of the greatest novels of the Modernist era "
 editions:

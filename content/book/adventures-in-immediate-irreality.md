@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/max-blecher.md
+  - author/max-blecher.md
 translators:
-  - contributor/michael-henry-heim.md
+  - author/michael-henry-heim.md
 editors:
 contributors:
 featured_image:

@@ -9,7 +9,7 @@ subgenre:
   - Selections
 language:
 authors:
-  - contributor/stephane-mallarme.md
+  - author/stephane-mallarme.md
 translators:
 editors:
 contributors:

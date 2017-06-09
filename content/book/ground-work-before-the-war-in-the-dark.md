@@ -8,11 +8,11 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/robert-duncan.md
+  - author/robert-duncan.md
 translators:
 editors:
 contributors:
-  - contributor/michael-palmer.md
+  - author/michael-palmer.md
 featured_image:
 description:
 editions:

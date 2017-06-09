@@ -9,7 +9,7 @@ subgenre:
   - Stories
 language: Portuguese
 authors:
-  - contributor/yukio-mishima.md
+  - author/yukio-mishima.md
 translators:
 editors:
 contributors:

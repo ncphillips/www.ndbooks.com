@@ -8,9 +8,9 @@ genre: Poetry
 subgenre:
 language: Japanese
 authors:
-  - contributor/takashi-hiraide.md
+  - author/takashi-hiraide.md
 translators:
-  - contributor/sawako-nakayasu.md
+  - author/sawako-nakayasu.md
 editors:
 contributors:
 featured_image:

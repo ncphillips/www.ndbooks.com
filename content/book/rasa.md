@@ -9,7 +9,7 @@ subgenre:
   - Essay
 language:
 authors:
-  - contributor/rene-daumal.md
+  - author/rene-daumal.md
 translators:
 editors:
 contributors:

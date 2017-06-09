@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language: Portuguese
 authors:
-  - contributor/nathaniel-mackey.md
+  - author/nathaniel-mackey.md
 translators:
 editors:
 contributors:

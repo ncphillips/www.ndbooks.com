@@ -8,7 +8,7 @@ genre:
 subgenre:
 language:
 authors:
-  - contributor/michael-palmer.md
+  - author/michael-palmer.md
 translators:
 editors:
 contributors:

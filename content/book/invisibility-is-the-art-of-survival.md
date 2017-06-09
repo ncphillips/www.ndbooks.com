@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/edwin-brock.md
+  - author/edwin-brock.md
 translators:
 editors:
 contributors:

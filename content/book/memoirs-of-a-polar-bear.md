@@ -8,9 +8,9 @@ genre:
 subgenre:
 language: German
 authors:
-  - contributor/yoko-tawada.md
+  - author/yoko-tawada.md
 translators:
-  - contributor/susan-bernofsky.md
+  - author/susan-bernofsky.md
 editors:
 contributors:
 featured_image:

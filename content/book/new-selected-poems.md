@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language: Portuguese
 authors:
-  - contributor/jerome-rothenberg.md
+  - author/jerome-rothenberg.md
 translators:
 editors:
 contributors:

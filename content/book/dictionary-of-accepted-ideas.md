@@ -8,12 +8,12 @@ genre: Fiction
 subgenre:
 language: French
 authors:
-  - contributor/gustave-flaubert.md
+  - author/gustave-flaubert.md
 translators:
-  - contributor/jacques-barzun.md
+  - author/jacques-barzun.md
 editors:
 contributors:
-  - contributor/gustave-flaubert.md
+  - author/gustave-flaubert.md
 featured_image:
 description:
 editions:

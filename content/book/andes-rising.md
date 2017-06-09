@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/james-munves.md
+  - author/james-munves.md
 translators:
 editors:
 contributors:

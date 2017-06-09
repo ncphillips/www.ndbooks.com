@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language: Japanese
 authors:
-  - contributor/junichiro-tanizaki.md
+  - author/junichiro-tanizaki.md
 translators:
-  - contributor/j-keith-vincent.md
+  - author/j-keith-vincent.md
 editors:
 contributors:
 featured_image:

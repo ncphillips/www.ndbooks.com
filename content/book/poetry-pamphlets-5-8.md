@@ -8,13 +8,13 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/nathaniel-tarn.md
+  - author/nathaniel-tarn.md
 
-  - contributor/hilda-doolittle-h.-d.md
+  - author/hilda-doolittle-h.-d.md
 
-  - contributor/alejandra-pizarnik.md
+  - author/alejandra-pizarnik.md
 
-  - contributor/forrest-gander.md
+  - author/forrest-gander.md
 translators:
 editors:
 contributors:

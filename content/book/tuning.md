@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/david-antin.md
+  - author/david-antin.md
 translators:
 editors:
 contributors:

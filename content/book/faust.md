@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/goethe.md
+  - author/goethe.md
 translators:
-  - contributor/c.-f.-macintyre.md
+  - author/c.-f.-macintyre.md
 editors:
 contributors:
 featured_image:

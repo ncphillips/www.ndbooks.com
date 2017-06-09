@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/albert-cossery.md
+  - author/albert-cossery.md
 translators:
 editors:
 contributors:

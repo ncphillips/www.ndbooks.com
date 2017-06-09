@@ -8,11 +8,11 @@ genre: Theater
 subgenre:
 language:
 authors:
-  - contributor/tennessee-williams.md
+  - author/tennessee-williams.md
 translators:
 editors:
 contributors:
-  - contributor/john-patrick-shanley.md
+  - author/john-patrick-shanley.md
 featured_image:
 description: "Published as a trade paperback for the first time, with a new introduction by the acclaimed playwright John Patrick Shanley (Doubt) and the one-act on which The Rose Tattoo was based. "
 editions:

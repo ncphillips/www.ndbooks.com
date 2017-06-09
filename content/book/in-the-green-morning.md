@@ -9,7 +9,7 @@ subgenre:
   - Memoir
 language:
 authors:
-  - contributor/federico-garcia-lorca.md
+  - author/federico-garcia-lorca.md
 translators:
 editors:
 contributors:

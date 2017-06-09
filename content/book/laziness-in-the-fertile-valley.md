@@ -8,14 +8,14 @@ genre: Fiction
 subgenre:
 language: French
 authors:
-  - contributor/albert-cossery.md
+  - author/albert-cossery.md
 translators:
-  - contributor/william-goyen.md
+  - author/william-goyen.md
 editors:
 contributors:
-  - contributor/henry-miller.md
+  - author/henry-miller.md
 
-  - contributor/anna-della-subin.md
+  - author/anna-della-subin.md
 featured_image:
 description: "A family of proud layabouts star in this comic novel by the Egyptian writer known as “the Voltaire of the Nile” "
 editions:

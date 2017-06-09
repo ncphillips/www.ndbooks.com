@@ -8,11 +8,11 @@ genre: Theater
 subgenre:
 language:
 authors:
-  - contributor/tennessee-williams.md
+  - author/tennessee-williams.md
 translators:
 editors:
 contributors:
-  - contributor/tony-kushner.md
+  - author/tony-kushner.md
 featured_image:
 description: "A beautiful clothbound edition of a beloved classic to celebrate the 100th birthday of America’s greatest playwright, with a sweeping new introduction by Pulitzer Prize-winner Tony Kushner. "
 editions:

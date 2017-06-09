@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/guillaume-apollinaire.md
+  - author/guillaume-apollinaire.md
 translators:
-  - contributor/roger-shattuck.md
+  - author/roger-shattuck.md
 editors:
 contributors:
 featured_image:

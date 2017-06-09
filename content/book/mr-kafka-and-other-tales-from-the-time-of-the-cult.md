@@ -9,9 +9,9 @@ subgenre:
   - Stories
 language: Czech
 authors:
-  - contributor/bohumil-hrabal.md
+  - author/bohumil-hrabal.md
 translators:
-  - contributor/paul-wilson.md
+  - author/paul-wilson.md
 editors:
 contributors:
 featured_image:

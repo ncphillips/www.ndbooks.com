@@ -8,9 +8,9 @@ genre:
 subgenre:
 language: German
 authors:
-  - contributor/W._G._Sebald.md
+  - author/W._G._Sebald.md
 translators:
-  - contributor/michael-hulse.md
+  - author/michael-hulse.md
 editors:
 contributors:
 featured_image:

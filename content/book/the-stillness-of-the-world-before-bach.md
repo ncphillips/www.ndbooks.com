@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language: Swedish
 authors:
-  - contributor/lars-gustafsson.md
+  - author/lars-gustafsson.md
 translators:
 editors:
 contributors:

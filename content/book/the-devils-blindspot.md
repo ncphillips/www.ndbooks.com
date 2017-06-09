@@ -9,9 +9,9 @@ subgenre:
   - Stories
 language: German
 authors:
-  - contributor/alexander-kluge.md
+  - author/alexander-kluge.md
 translators:
-  - contributor/michael-hulse.md
+  - author/michael-hulse.md
 editors:
 contributors:
 featured_image:

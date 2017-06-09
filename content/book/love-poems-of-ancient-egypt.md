@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language: Egyptian
 authors:
-  - contributor/ezra-pound.md
+  - author/ezra-pound.md
 translators:
 editors:
 contributors:

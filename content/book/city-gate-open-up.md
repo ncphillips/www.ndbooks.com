@@ -9,9 +9,9 @@ subgenre:
   - Memoir
 language: Chinese
 authors:
-  - contributor/bei-dao.md
+  - author/bei-dao.md
 translators:
-  - contributor/jeffrey-yang-author-page.md
+  - author/jeffrey-yang-author-page.md
 editors:
 contributors:
 featured_image:

@@ -9,7 +9,7 @@ subgenre:
   - Stories
 language:
 authors:
-  - contributor/tommaso-landolfi.md
+  - author/tommaso-landolfi.md
 translators:
 editors:
 contributors:

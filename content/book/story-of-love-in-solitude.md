@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language: French
 authors:
-  - contributor/roger-lewinter.md
+  - author/roger-lewinter.md
 translators:
-  - contributor/rachel-careau.md
+  - author/rachel-careau.md
 editors:
 contributors:
 featured_image:

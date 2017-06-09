@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/christopher-isherwood.md
+  - author/christopher-isherwood.md
 translators:
 editors:
 contributors:

@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/camilo-jose-cela.md
+  - author/camilo-jose-cela.md
 translators:
 editors:
 contributors:

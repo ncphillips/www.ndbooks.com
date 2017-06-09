@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/jonathan-williams.md
+  - author/jonathan-williams.md
 translators:
 editors:
 contributors:

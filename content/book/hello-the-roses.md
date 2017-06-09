@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/mei-mei-berssenbrugge.md
+  - author/mei-mei-berssenbrugge.md
 translators:
 editors:
 contributors:

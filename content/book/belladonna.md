@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/daša-drndić.md
+  - author/daša-drndić.md
 translators:
-  - contributor/celia-hawkesworth.md
+  - author/celia-hawkesworth.md
 editors:
 contributors:
 featured_image:

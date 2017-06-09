@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/madame-lafayette.md
+  - author/madame-lafayette.md
 translators:
-  - contributor/nancy-mitford.md
+  - author/nancy-mitford.md
 editors:
 contributors:
 featured_image:

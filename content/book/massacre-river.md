@@ -8,12 +8,12 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/rene-philoctete.md
+  - author/rene-philoctete.md
 translators:
-  - contributor/linda-coverdale.md
+  - author/linda-coverdale.md
 editors:
 contributors:
-  - contributor/edwidge-danticat.md
+  - author/edwidge-danticat.md
 featured_image:
 description: "By the acclaimed Haitian poet and scholar René Philoctète, the novel Massacre River: _a tour de force by an extraordinary writer_ (Edwidge Danticat). "
 editions:

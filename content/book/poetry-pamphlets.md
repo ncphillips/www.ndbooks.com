@@ -8,15 +8,15 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/eliot-weinberger.md
+  - author/eliot-weinberger.md
 
-  - contributor/lydia-davis.md
+  - author/lydia-davis.md
 
-  - contributor/susan-howe.md
+  - author/susan-howe.md
 
-  - contributor/sylvia-legris.md
+  - author/sylvia-legris.md
 
-  - contributor/bernadette-mayer.md
+  - author/bernadette-mayer.md
 translators:
 editors:
 contributors:

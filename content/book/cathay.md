@@ -8,11 +8,11 @@ genre:
 subgenre:
 language: Chinese
 authors:
-  - contributor/ezra-pound.md
+  - author/ezra-pound.md
 translators:
 editors:
 contributors:
-  - contributor/mary-rachewiltz.md
+  - author/mary-rachewiltz.md
 featured_image: /images/unnamed.jpg
 description: "The centennial edition of Ezra Pound's early poetic masterpiece. "
 editions:

@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/robert-steiner-r.md
+  - author/robert-steiner-r.md
 translators:
 editors:
 contributors:

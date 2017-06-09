@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language: Russian
 authors:
-  - contributor/mikhail-bulgakov.md
+  - author/mikhail-bulgakov.md
 translators:
-  - contributor/hugh-aplin.md
+  - author/hugh-aplin.md
 editors:
 contributors:
 featured_image:

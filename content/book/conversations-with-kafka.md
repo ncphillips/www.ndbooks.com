@@ -9,11 +9,11 @@ subgenre:
   - Memoir
 language: Czech
 authors:
-  - contributor/gustav-janouch.md
+  - author/gustav-janouch.md
 translators:
 editors:
 contributors:
-  - contributor/francine-prose.md
+  - author/francine-prose.md
 featured_image:
 description:
 editions:

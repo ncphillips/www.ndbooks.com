@@ -9,7 +9,7 @@ subgenre:
   - Study
 language:
 authors:
-  - contributor/erik-reece.md
+  - author/erik-reece.md
 translators:
 editors:
 contributors:

@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language: Spanish
 authors:
-  - contributor/cesar-aira.md
+  - author/cesar-aira.md
 translators:
-  - contributor/chris-andrews.md
+  - author/chris-andrews.md
 editors:
 contributors:
 featured_image:

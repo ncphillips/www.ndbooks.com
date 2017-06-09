@@ -9,7 +9,7 @@ subgenre:
   - Essay
 language:
 authors:
-  - contributor/kenneth-rexroth.md
+  - author/kenneth-rexroth.md
 translators:
 editors:
 contributors:

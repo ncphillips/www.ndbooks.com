@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/elio-vittorini.md
+  - author/elio-vittorini.md
 translators:
 editors:
 contributors:

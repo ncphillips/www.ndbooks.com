@@ -9,12 +9,12 @@ subgenre:
   - Essay
 language:
 authors:
-  - contributor/george-steiner-g.md
+  - author/george-steiner-g.md
 translators:
 editors:
-  - contributor/robert-boyers.md
+  - author/robert-boyers.md
 contributors:
-  - contributor/robert-boyers.md
+  - author/robert-boyers.md
 featured_image:
 description: "An education in a portmanteau: _George Steiner at The New Yorker_ collects his best work from his more than 150 pieces for the magazine "
 editions:

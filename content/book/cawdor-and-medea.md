@@ -8,11 +8,11 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/robinson-jeffers.md
+  - author/robinson-jeffers.md
 translators:
 editors:
 contributors:
-  - contributor/robinson-jeffers.md
+  - author/robinson-jeffers.md
 featured_image:
 description:
 editions:

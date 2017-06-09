@@ -9,7 +9,7 @@ subgenre:
   - Study
 language:
 authors:
-  - contributor/david-daiches.md
+  - author/david-daiches.md
 translators:
 editors:
 contributors:

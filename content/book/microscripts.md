@@ -8,12 +8,12 @@ genre: Fiction
 subgenre:
 language: German
 authors:
-  - contributor/robert-walser.md
+  - author/robert-walser.md
 translators:
-  - contributor/susan-bernofsky.md
+  - author/susan-bernofsky.md
 editors:
 contributors:
-  - contributor/walter-benjamin.md
+  - author/walter-benjamin.md
 featured_image: /images/microscript%20copy.jpg
 description: "Now in a gorgeous new paperback edition with full-color illustrations by Maira Kalman, Microscripts is a one-of-a-kind masterpiece. "
 editions:

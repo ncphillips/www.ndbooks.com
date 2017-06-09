@@ -9,9 +9,9 @@ subgenre:
   - Stories
 language: Russian
 authors:
-  - contributor/victor-pelevin.md
+  - author/victor-pelevin.md
 translators:
-  - contributor/andrew-bromfield.md
+  - author/andrew-bromfield.md
 editors:
 contributors:
 featured_image:

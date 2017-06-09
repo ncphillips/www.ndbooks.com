@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/ledo-ivo.md
+  - author/ledo-ivo.md
 translators:
-  - contributor/kern-krapohl.md
+  - author/kern-krapohl.md
 editors:
 contributors:
 featured_image:

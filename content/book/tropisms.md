@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language: French
 authors:
-  - contributor/nathalie-sarraute.md
+  - author/nathalie-sarraute.md
 translators:
-  - contributor/maria-jolas.md
+  - author/maria-jolas.md
 editors:
 contributors:
 featured_image:

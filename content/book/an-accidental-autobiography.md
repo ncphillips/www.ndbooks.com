@@ -9,11 +9,11 @@ subgenre:
   - Memoir
 language:
 authors:
-  - contributor/gregory-corso.md
+  - author/gregory-corso.md
 translators:
 editors:
 contributors:
-  - contributor/patti-smith.md
+  - author/patti-smith.md
 featured_image:
 description:
 editions:

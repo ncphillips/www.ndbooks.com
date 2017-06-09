@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/denise-levertov.md
+  - author/denise-levertov.md
 translators:
 editors:
 contributors:

@@ -8,7 +8,7 @@ genre:
 subgenre:
 language:
 authors:
-  - contributor/charles-reznikoff.md
+  - author/charles-reznikoff.md
 translators:
 editors:
 contributors:

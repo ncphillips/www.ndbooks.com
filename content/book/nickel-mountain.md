@@ -8,11 +8,11 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/john-gardner.md
+  - author/john-gardner.md
 translators:
 editors:
 contributors:
-  - contributor/william-h.-gass.md
+  - author/william-h.-gass.md
 featured_image:
 description: "John Gardner's most poignant novel of improbable love "
 editions:

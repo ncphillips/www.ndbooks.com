@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/romain-gary.md
+  - author/romain-gary.md
 translators:
-  - contributor/ralph-manheim.md
+  - author/ralph-manheim.md
 editors:
 contributors:
 featured_image:

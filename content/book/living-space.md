@@ -8,12 +8,12 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/peter-glassgold.md
+  - author/peter-glassgold.md
 translators:
-  - contributor/peter-glassgold.md
+  - author/peter-glassgold.md
 editors:
 contributors:
-  - contributor/peter-glassgold.md
+  - author/peter-glassgold.md
 featured_image:
 description:
 editions:

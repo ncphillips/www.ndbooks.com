@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language: German
 authors:
-  - contributor/rainer-rilke.md
+  - author/rainer-rilke.md
 translators:
 editors:
 contributors:

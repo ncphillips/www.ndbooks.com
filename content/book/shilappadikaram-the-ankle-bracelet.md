@@ -8,12 +8,12 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/prince-ilango-adigal.md
+  - author/prince-ilango-adigal.md
 translators:
-  - contributor/alain-danielou.md
+  - author/alain-danielou.md
 editors:
 contributors:
-  - contributor/prince-ilango-adigal.md
+  - author/prince-ilango-adigal.md
 featured_image:
 description:
 editions:

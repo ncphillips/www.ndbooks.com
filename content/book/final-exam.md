@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language: Spanish
 authors:
-  - contributor/julio-cortazar.md
+  - author/julio-cortazar.md
 translators:
-  - contributor/alfred-macadam.md
+  - author/alfred-macadam.md
 editors:
 contributors:
 featured_image:

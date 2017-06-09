@@ -8,11 +8,11 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/nathanael-west-n.md
+  - author/nathanael-west-n.md
 translators:
 editors:
 contributors:
-  - contributor/harold-bloom.md
+  - author/harold-bloom.md
 featured_image:
 description: "One writer's degrading day job as a lonely hearts advice columnist is only the beginning of his nightmarish existence "
 editions:

@@ -8,9 +8,9 @@ genre: Poetry
 subgenre:
 language: Chinese
 authors:
-  - contributor/xi-chuan.md
+  - author/xi-chuan.md
 translators:
-  - contributor/lucas-klein1.md
+  - author/lucas-klein1.md
 editors:
 contributors:
 featured_image:

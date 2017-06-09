@@ -8,11 +8,11 @@ genre:
 subgenre:
 language:
 authors:
-  - contributor/amelia-rosselli.md
+  - author/amelia-rosselli.md
 translators:
-  - contributor/deborah-woodard.md
+  - author/deborah-woodard.md
 
-  - contributor/giuseppe-leporace.md
+  - author/giuseppe-leporace.md
 editors:
 contributors:
 featured_image:

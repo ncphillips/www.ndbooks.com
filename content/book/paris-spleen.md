@@ -9,9 +9,9 @@ subgenre:
   - Essay
 language:
 authors:
-  - contributor/charles-baudelaire.md
+  - author/charles-baudelaire.md
 translators:
-  - contributor/louise-varese.md
+  - author/louise-varese.md
 editors:
 contributors:
 featured_image:

@@ -8,9 +8,9 @@ genre: Poetry
 subgenre:
 language: Swedish
 authors:
-  - contributor/tomas-transtromer.md
+  - author/tomas-transtromer.md
 translators:
-  - contributor/robin-fulton.md
+  - author/robin-fulton.md
 editors:
 contributors:
 featured_image: /images/transtromer_big_grey_sm_rev.jpg

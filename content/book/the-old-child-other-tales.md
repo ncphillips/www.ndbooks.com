@@ -9,9 +9,9 @@ subgenre:
   - Stories
 language: German
 authors:
-  - contributor/jenny-erpenbeck.md
+  - author/jenny-erpenbeck.md
 translators:
-  - contributor/susan-bernofsky.md
+  - author/susan-bernofsky.md
 editors:
 contributors:
 featured_image:

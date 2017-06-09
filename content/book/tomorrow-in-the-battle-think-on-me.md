@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/javier-marias.md
+  - author/javier-marias.md
 translators:
 editors:
 contributors:

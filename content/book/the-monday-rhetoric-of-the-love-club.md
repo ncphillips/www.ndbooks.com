@@ -9,7 +9,7 @@ subgenre:
   - Stories
 language:
 authors:
-  - contributor/marvin-cohen.md
+  - author/marvin-cohen.md
 translators:
 editors:
 contributors:

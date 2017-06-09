@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/maurice-collis.md
+  - author/maurice-collis.md
 translators:
 editors:
 contributors:

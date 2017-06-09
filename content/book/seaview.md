@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/toby-olson.md
+  - author/toby-olson.md
 translators:
 editors:
 contributors:

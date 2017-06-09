@@ -9,9 +9,9 @@ subgenre:
   - Stories
 language:
 authors:
-  - contributor/jose-pacheco.md
+  - author/jose-pacheco.md
 translators:
-  - contributor/katherine-silver.md
+  - author/katherine-silver.md
 editors:
 contributors:
 featured_image:

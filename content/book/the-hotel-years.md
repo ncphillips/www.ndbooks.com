@@ -8,9 +8,9 @@ genre:
 subgenre:
 language:
 authors:
-  - contributor/joseph-roth.md
+  - author/joseph-roth.md
 translators:
-  - contributor/michael-hofmann1.md
+  - author/michael-hofmann1.md
 editors:
 contributors:
 featured_image: /images/Roth-People-on-Sunday-1200.jpg

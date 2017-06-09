@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language: Portuguese
 authors:
-  - contributor/kamau-brathwaite.md
+  - author/kamau-brathwaite.md
 translators:
 editors:
 contributors:

@@ -9,7 +9,7 @@ subgenre:
   - Stories
 language: Japanese
 authors:
-  - contributor/taeko-kono.md
+  - author/taeko-kono.md
 translators:
 editors:
 contributors:

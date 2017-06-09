@@ -8,11 +8,11 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/robert-walser.md
+  - author/robert-walser.md
 translators:
-  - contributor/christopher-middleton.md
+  - author/christopher-middleton.md
 
-  - contributor/susan-bernofsky.md
+  - author/susan-bernofsky.md
 editors:
 contributors:
 featured_image: /images/Klat_Rodney_Graham_Sunday_Sun_1937.jpg

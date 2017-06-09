@@ -9,7 +9,7 @@ subgenre:
   - Correspondence
 language: Portuguese
 authors:
-  - contributor/gary-snyder.md
+  - author/gary-snyder.md
 translators:
 editors:
 contributors:

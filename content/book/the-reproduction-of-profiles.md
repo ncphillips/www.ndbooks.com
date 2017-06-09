@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/rosmarie-waldrop.md
+  - author/rosmarie-waldrop.md
 translators:
 editors:
 contributors:

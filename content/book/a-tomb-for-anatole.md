@@ -8,9 +8,9 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/stephane-mallarme.md
+  - author/stephane-mallarme.md
 translators:
-  - contributor/paul-auster.md
+  - author/paul-auster.md
 editors:
 contributors:
 featured_image:

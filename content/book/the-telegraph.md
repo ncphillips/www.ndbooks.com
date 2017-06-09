@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/stendhal.md
+  - author/stendhal.md
 translators:
-  - contributor/louise-varese.md
+  - author/louise-varese.md
 editors:
 contributors:
 featured_image:

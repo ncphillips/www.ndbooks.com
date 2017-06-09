@@ -9,7 +9,7 @@ subgenre:
   - Stories
 language:
 authors:
-  - contributor/walter-abish.md
+  - author/walter-abish.md
 translators:
 editors:
 contributors:

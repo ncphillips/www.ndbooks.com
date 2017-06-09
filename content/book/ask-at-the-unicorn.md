@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/norman-thomas.md
+  - author/norman-thomas.md
 translators:
 editors:
 contributors:

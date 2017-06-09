@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/dubravka-ugresic.md
+  - author/dubravka-ugresic.md
 translators:
 editors:
 contributors:

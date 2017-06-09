@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/richard-swartz.md
+  - author/richard-swartz.md
 translators:
 editors:
 contributors:

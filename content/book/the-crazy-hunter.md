@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/kay-boyle.md
+  - author/kay-boyle.md
 translators:
 editors:
 contributors:

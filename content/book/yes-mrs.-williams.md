@@ -9,7 +9,7 @@ subgenre:
   - Memoir
 language: Portuguese
 authors:
-  - contributor/william-carlos-williams.md
+  - author/william-carlos-williams.md
 translators:
 editors:
 contributors:

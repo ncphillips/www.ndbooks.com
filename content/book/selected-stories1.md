@@ -9,9 +9,9 @@ subgenre:
   - Stories
 language:
 authors:
-  - contributor/adolfo-bioy-casares.md
+  - author/adolfo-bioy-casares.md
 translators:
-  - contributor/suzanne-jill-levine.md
+  - author/suzanne-jill-levine.md
 editors:
 contributors:
 featured_image:

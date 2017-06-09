@@ -9,7 +9,7 @@ subgenre:
   - Stories
 language:
 authors:
-  - contributor/bernadette-mayer.md
+  - author/bernadette-mayer.md
 translators:
 editors:
 contributors:

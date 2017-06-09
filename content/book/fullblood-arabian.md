@@ -8,12 +8,12 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/osama-alomar.md
+  - author/osama-alomar.md
 translators:
-  - contributor/c.-j.-collins.md
+  - author/c.-j.-collins.md
 editors:
 contributors:
-  - contributor/lydia-davis.md
+  - author/lydia-davis.md
 featured_image:
 description: "Alomar's English-language poetry collection debut "
 editions:

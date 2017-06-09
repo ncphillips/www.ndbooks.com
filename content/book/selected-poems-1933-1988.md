@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/gavin-ewart.md
+  - author/gavin-ewart.md
 translators:
 editors:
 contributors:

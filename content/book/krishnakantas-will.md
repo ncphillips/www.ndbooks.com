@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/bankim-chandra-chatterjee.md
+  - author/bankim-chandra-chatterjee.md
 translators:
 editors:
 contributors:

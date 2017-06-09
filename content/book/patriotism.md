@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language: Japanese
 authors:
-  - contributor/yukio-mishima.md
+  - author/yukio-mishima.md
 translators:
-  - contributor/geoffrey-w.-sargent.md
+  - author/geoffrey-w.-sargent.md
 editors:
 contributors:
 featured_image:

@@ -9,7 +9,7 @@ subgenre:
   - Stories
 language: Japanese
 authors:
-  - contributor/yoko-tawada.md
+  - author/yoko-tawada.md
 translators:
 editors:
 contributors:

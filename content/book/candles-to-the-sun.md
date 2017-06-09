@@ -8,11 +8,11 @@ genre: Theater
 subgenre:
 language:
 authors:
-  - contributor/tennessee-williams.md
+  - author/tennessee-williams.md
 translators:
 editors:
 contributors:
-  - contributor/william-jay-smith.md
+  - author/william-jay-smith.md
 featured_image:
 description:
 editions:

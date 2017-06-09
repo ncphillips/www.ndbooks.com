@@ -8,12 +8,12 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/emily-dickinson.md
+  - author/emily-dickinson.md
 translators:
 editors:
-  - contributor/jen-bervin.md
+  - author/jen-bervin.md
 
-  - contributor/marta-werner.md
+  - author/marta-werner.md
 contributors:
 featured_image:
 description: "Another gorgeous copublication with the Christine Burgin Gallery, _Envelope Poems_ is a compact, clothbound gift book, a full-color selection from _The Gorgeous Nothings_ "

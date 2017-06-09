@@ -8,7 +8,7 @@ genre: Theater
 subgenre:
 language: French
 authors:
-  - contributor/jean-cocteau.md
+  - author/jean-cocteau.md
 translators:
 editors:
 contributors:

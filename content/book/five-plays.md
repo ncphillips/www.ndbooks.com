@@ -8,7 +8,7 @@ genre: Theater
 subgenre:
 language:
 authors:
-  - contributor/federico-garcia-lorca.md
+  - author/federico-garcia-lorca.md
 translators:
 editors:
 contributors:

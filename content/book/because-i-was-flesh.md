@@ -9,7 +9,7 @@ subgenre:
   - Memoir
 language:
 authors:
-  - contributor/edward-dahlberg.md
+  - author/edward-dahlberg.md
 translators:
 editors:
 contributors:

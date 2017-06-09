@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/istvan-rkeny.md
+  - author/istvan-rkeny.md
 translators:
 editors:
 contributors:

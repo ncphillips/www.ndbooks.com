@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/thomas-merton.md
+  - author/thomas-merton.md
 translators:
 editors:
 contributors:

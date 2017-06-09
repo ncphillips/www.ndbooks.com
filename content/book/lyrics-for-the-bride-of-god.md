@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/nathaniel-tarn.md
+  - author/nathaniel-tarn.md
 translators:
 editors:
 contributors:

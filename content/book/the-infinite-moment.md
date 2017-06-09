@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language: Japanese
 authors:
-  - contributor/sam-hamill.md
+  - author/sam-hamill.md
 translators:
 editors:
 contributors:

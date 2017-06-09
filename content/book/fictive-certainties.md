@@ -9,7 +9,7 @@ subgenre:
   - Essay
 language:
 authors:
-  - contributor/robert-duncan.md
+  - author/robert-duncan.md
 translators:
 editors:
 contributors:

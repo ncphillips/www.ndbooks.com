@@ -8,9 +8,9 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/pierre-reverdy.md
+  - author/pierre-reverdy.md
 translators:
-  - contributor/kenneth-rexroth.md
+  - author/kenneth-rexroth.md
 editors:
 contributors:
 featured_image:

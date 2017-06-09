@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/anyi-wang.md
+  - author/anyi-wang.md
 translators:
 editors:
 contributors:

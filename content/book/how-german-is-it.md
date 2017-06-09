@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/walter-abish.md
+  - author/walter-abish.md
 translators:
 editors:
 contributors:

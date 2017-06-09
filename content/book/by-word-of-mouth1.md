@@ -10,11 +10,11 @@ subgenre:
 language:
 authors:
 translators:
-  - contributor/william-carlos-williams.md
+  - author/william-carlos-williams.md
 editors:
-  - contributor/jonathan-cohen.md
+  - author/jonathan-cohen.md
 contributors:
-  - contributor/julio-marzan.md
+  - author/julio-marzan.md
 featured_image:
 description: "The first collection of translations of Spanish and Latin American poetry by William Carlos Williams, containing many previously unknown poems. "
 editions:

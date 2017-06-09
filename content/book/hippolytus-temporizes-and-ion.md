@@ -8,11 +8,11 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/hilda-doolittle-h.-d.md
+  - author/hilda-doolittle-h.-d.md
 translators:
 editors:
 contributors:
-  - contributor/hilda-doolittle-h.-d.md
+  - author/hilda-doolittle-h.-d.md
 featured_image:
 description: "Brilliant reworkings of Euripides' classic dramas by the great modernist poet H.D., now available in one volume. "
 editions:

@@ -9,7 +9,7 @@ subgenre:
   - Essay
 language:
 authors:
-  - contributor/philip-rahv.md
+  - author/philip-rahv.md
 translators:
 editors:
 contributors:

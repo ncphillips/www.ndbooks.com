@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/samuel-hazo.md
+  - author/samuel-hazo.md
 translators:
 editors:
 contributors:

@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/william-gerhardie.md
+  - author/william-gerhardie.md
 translators:
 editors:
 contributors:

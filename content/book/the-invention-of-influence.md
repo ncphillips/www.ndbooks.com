@@ -8,11 +8,11 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/peter-cole.md
+  - author/peter-cole.md
 translators:
 editors:
 contributors:
-  - contributor/harold-bloom.md
+  - author/harold-bloom.md
 featured_image:
 description:
 editions:

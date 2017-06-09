@@ -8,7 +8,7 @@ genre: Nonfiction
 subgenre:
 language:
 authors:
-  - contributor/lee-bartlett.md
+  - author/lee-bartlett.md
 translators:
 editors:
 contributors:

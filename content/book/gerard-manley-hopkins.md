@@ -9,7 +9,7 @@ subgenre:
   - Study
 language:
 authors:
-  - contributor/kenyon-critics.md
+  - author/kenyon-critics.md
 translators:
 editors:
 contributors:

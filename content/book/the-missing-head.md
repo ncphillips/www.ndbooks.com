@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language: Italian
 authors:
-  - contributor/antonio-tabucchi.md
+  - author/antonio-tabucchi.md
 translators:
-  - contributor/j.-c.-patrick.md
+  - author/j.-c.-patrick.md
 editors:
 contributors:
 featured_image:

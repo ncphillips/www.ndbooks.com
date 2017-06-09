@@ -8,10 +8,10 @@ genre: Poetry
 subgenre:
 language: Japanese
 authors:
-  - contributor/kenneth-rexroth.md
+  - author/kenneth-rexroth.md
 translators:
 editors:
-  - contributor/eliot-weinberger.md
+  - author/eliot-weinberger.md
 contributors:
 featured_image:
 description: "A lovely gift edition of the best classic Japanese haiku, incomparably translated by Kenneth Rexroth. "

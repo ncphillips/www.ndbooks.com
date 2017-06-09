@@ -9,7 +9,7 @@ subgenre:
   - Study
 language:
 authors:
-  - contributor/douglas-cleverdon.md
+  - author/douglas-cleverdon.md
 translators:
 editors:
 contributors:

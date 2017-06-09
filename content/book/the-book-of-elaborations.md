@@ -9,7 +9,7 @@ subgenre:
   - Essay
 language:
 authors:
-  - contributor/oscar-mandel.md
+  - author/oscar-mandel.md
 translators:
 editors:
 contributors:

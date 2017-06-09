@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/inger-christensen.md
+  - author/inger-christensen.md
 translators:
-  - contributor/denise-newman.md
+  - author/denise-newman.md
 editors:
 contributors:
 featured_image:

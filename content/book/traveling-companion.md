@@ -8,10 +8,10 @@ genre: Theater
 subgenre:
 language:
 authors:
-  - contributor/tennessee-williams.md
+  - author/tennessee-williams.md
 translators:
 editors:
-  - contributor/annette-j.-saddick.md
+  - author/annette-j.-saddick.md
 contributors:
 featured_image:
 description: "12 previously uncollected experimental shorter plays: The Chalky White Substance • The Day on Which a Man Dies (An Occidental Noh Play) • A Cavalier for Milady • The Pronoun _I_ • The Remarkable Rooming House of Mme. LeMonde • Kirche, Kueche, Kinder (An Outrage for the Stage) • Green Eyes • The Parade • The One Exception • Sunburst • Will Mr. Merriwether Return from Memphis? • The Traveling Companion "

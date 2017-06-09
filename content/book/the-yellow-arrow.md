@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/victor-pelevin.md
+  - author/victor-pelevin.md
 translators:
 editors:
 contributors:

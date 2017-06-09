@@ -8,12 +8,12 @@ genre: Fiction
 subgenre:
 language: Spanish
 authors:
-  - contributor/felisberto-hernandez.md
+  - author/felisberto-hernandez.md
 translators:
-  - contributor/luis-harss.md
+  - author/luis-harss.md
 editors:
 contributors:
-  - contributor/francine-prose.md
+  - author/francine-prose.md
 featured_image:
 description:
 editions:

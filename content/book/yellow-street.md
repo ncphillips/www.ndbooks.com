@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/veza-canetti.md
+  - author/veza-canetti.md
 translators:
 editors:
 contributors:

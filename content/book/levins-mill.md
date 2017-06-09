@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/johannes-bobrowski.md
+  - author/johannes-bobrowski.md
 translators:
-  - contributor/janet-cropper.md
+  - author/janet-cropper.md
 editors:
 contributors:
 featured_image:

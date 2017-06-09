@@ -9,7 +9,7 @@ subgenre:
   - Stories
 language:
 authors:
-  - contributor/guy-davenport.md
+  - author/guy-davenport.md
 translators:
 editors:
 contributors:

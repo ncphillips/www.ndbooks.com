@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language: French
 authors:
-  - contributor/henri-michaux.md
+  - author/henri-michaux.md
 translators:
-  - contributor/sylvia-beach.md
+  - author/sylvia-beach.md
 editors:
 contributors:
 featured_image:

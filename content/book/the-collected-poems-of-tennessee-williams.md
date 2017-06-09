@@ -8,12 +8,12 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/tennessee-williams.md
+  - author/tennessee-williams.md
 translators:
 editors:
-  - contributor/david-roessel.md
+  - author/david-roessel.md
 
-  - contributor/nicholas-moschovakis.md
+  - author/nicholas-moschovakis.md
 contributors:
 featured_image:
 description: "Now available in a paperbook edition that comes with a CD of the author reading some of his poems in his unmistakable Mississippi drawl "

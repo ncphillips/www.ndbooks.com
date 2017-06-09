@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language: German
 authors:
-  - contributor/robert-walser.md
+  - author/robert-walser.md
 translators:
-  - contributor/susan-bernofsky.md
+  - author/susan-bernofsky.md
 editors:
 contributors:
 featured_image:

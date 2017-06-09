@@ -8,10 +8,10 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/stevie-smith-s.md
+  - author/stevie-smith-s.md
 translators:
 editors:
-  - contributor/will-may.md
+  - author/will-may.md
 contributors:
 featured_image: /images/Screen%20Shot%202016-02-02%20at%2011.42.46%20AM.png
 description: "The essential edition of one of modern poetry’s most distinctive voices. "

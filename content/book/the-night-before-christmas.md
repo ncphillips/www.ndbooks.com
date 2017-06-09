@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language: Russian
 authors:
-  - contributor/nikolai-gogol.md
+  - author/nikolai-gogol.md
 translators:
-  - contributor/constance-garnett.md
+  - author/constance-garnett.md
 editors:
 contributors:
 featured_image:

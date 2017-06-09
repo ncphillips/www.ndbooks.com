@@ -9,7 +9,7 @@ subgenre:
   - Essay
 language:
 authors:
-  - contributor/delmore-schwartz.md
+  - author/delmore-schwartz.md
 translators:
 editors:
 contributors:

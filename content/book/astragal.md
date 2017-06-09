@@ -8,11 +8,11 @@ genre: Fiction
 subgenre:
 language: French
 authors:
-  - contributor/albertine-sarrazin.md
+  - author/albertine-sarrazin.md
 translators:
 editors:
 contributors:
-  - contributor/patti-smith.md
+  - author/patti-smith.md
 featured_image:
 description: "As alive as a Godard movie, this lost classic of 60s French literature is back "
 editions:

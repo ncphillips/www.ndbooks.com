@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/clarice-lispector.md
+  - author/clarice-lispector.md
 translators:
 editors:
 contributors:

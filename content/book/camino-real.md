@@ -8,11 +8,11 @@ genre: Theater
 subgenre:
 language: Portuguese
 authors:
-  - contributor/tennessee-williams.md
+  - author/tennessee-williams.md
 translators:
 editors:
 contributors:
-  - contributor/john-guare.md
+  - author/john-guare.md
 featured_image:
 description: "Now with a new introduction, the author's original Foreword and Afterword, the one-act play 10 Blocks on the Camino Real, plus an essay by noted Tennessee Williams scholar, Michael Paller. "
 editions:

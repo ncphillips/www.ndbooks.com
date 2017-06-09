@@ -9,7 +9,7 @@ subgenre:
   - Memoir
 language:
 authors:
-  - contributor/william-eric-williams.md
+  - author/william-eric-williams.md
 translators:
 editors:
 contributors:

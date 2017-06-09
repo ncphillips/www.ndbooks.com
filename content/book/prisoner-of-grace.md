@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/joyce-cary.md
+  - author/joyce-cary.md
 translators:
 editors:
 contributors:

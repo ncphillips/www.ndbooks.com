@@ -8,7 +8,7 @@ genre: Nonfiction
 subgenre:
 language:
 authors:
-  - contributor/paul-auster.md
+  - author/paul-auster.md
 translators:
 editors:
 contributors:

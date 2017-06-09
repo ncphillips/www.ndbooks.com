@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/john-gardner.md
+  - author/john-gardner.md
 translators:
 editors:
 contributors:

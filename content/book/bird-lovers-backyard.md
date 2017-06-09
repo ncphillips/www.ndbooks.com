@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language: Portuguese
 authors:
-  - contributor/thalia-field.md
+  - author/thalia-field.md
 translators:
 editors:
 contributors:

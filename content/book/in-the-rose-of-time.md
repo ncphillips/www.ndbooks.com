@@ -8,15 +8,15 @@ genre: Poetry
 subgenre:
 language: Chinese
 authors:
-  - contributor/bei-dao.md
+  - author/bei-dao.md
 translators:
-  - contributor/david-hinton.md
+  - author/david-hinton.md
 
-  - contributor/bonnie-s.-macdougall.md
+  - author/bonnie-s.-macdougall.md
 
-  - contributor/eliot-weinberger.md
+  - author/eliot-weinberger.md
 editors:
-  - contributor/eliot-weinberger.md
+  - author/eliot-weinberger.md
 contributors:
 featured_image:
 description: "A selection from the lifework of the internationally renowned poet Bei Dao, who is _like reading Chekhov or Turgenev reflected in a porcelain bowl_ (_The Times_ [London]). "

@@ -8,11 +8,11 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/yoel-hoffmann.md
+  - author/yoel-hoffmann.md
 translators:
-  - contributor/peter-cole.md
+  - author/peter-cole.md
 editors:
-  - contributor/adam-phillips.md
+  - author/adam-phillips.md
 contributors:
 featured_image:
 description:

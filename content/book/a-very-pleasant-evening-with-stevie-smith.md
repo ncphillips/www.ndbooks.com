@@ -9,7 +9,7 @@ subgenre:
   - Stories
 language:
 authors:
-  - contributor/stevie-smith-s.md
+  - author/stevie-smith-s.md
 translators:
 editors:
 contributors:

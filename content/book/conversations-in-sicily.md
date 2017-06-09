@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/elio-vittorini.md
+  - author/elio-vittorini.md
 translators:
-  - contributor/alane-salierno-mason.md
+  - author/alane-salierno-mason.md
 editors:
 contributors:
 featured_image:

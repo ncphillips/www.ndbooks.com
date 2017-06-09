@@ -9,9 +9,9 @@ subgenre:
   - Stories
 language: Russian
 authors:
-  - contributor/nina-berberova.md
+  - author/nina-berberova.md
 translators:
-  - contributor/marian-schwartz.md
+  - author/marian-schwartz.md
 editors:
 contributors:
 featured_image:

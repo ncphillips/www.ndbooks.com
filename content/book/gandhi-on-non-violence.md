@@ -9,11 +9,11 @@ subgenre:
   - Study
 language:
 authors:
-  - contributor/thomas-merton.md
+  - author/thomas-merton.md
 translators:
 editors:
 contributors:
-  - contributor/mark-kurlansky.md
+  - author/mark-kurlansky.md
 featured_image:
 description: "An essential compendium for understanding Gandhi's profound legacy "
 editions:

@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language: Portuguese
 authors:
-  - contributor/mircea-cartarescu.md
+  - author/mircea-cartarescu.md
 translators:
-  - contributor/julian-semilian.md
+  - author/julian-semilian.md
 editors:
 contributors:
 featured_image:

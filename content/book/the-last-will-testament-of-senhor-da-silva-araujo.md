@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/germano-almeida.md
+  - author/germano-almeida.md
 translators:
-  - contributor/sheila-faria-glaser.md
+  - author/sheila-faria-glaser.md
 editors:
 contributors:
 featured_image:

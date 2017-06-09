@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language: Hungarian
 authors:
-  - contributor/dezs-kosztolanyi.md
+  - author/dezs-kosztolanyi.md
 translators:
-  - contributor/bernard-adams.md
+  - author/bernard-adams.md
 editors:
 contributors:
 featured_image:

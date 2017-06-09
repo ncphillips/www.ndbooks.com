@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language: Spanish
 authors:
-  - contributor/horacio-castellanos-moya.md
+  - author/horacio-castellanos-moya.md
 translators:
-  - contributor/katherine-silver.md
+  - author/katherine-silver.md
 editors:
 contributors:
 featured_image:

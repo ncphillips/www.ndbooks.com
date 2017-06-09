@@ -8,14 +8,14 @@ genre: Theater
 subgenre:
 language:
 authors:
-  - contributor/tennessee-williams.md
+  - author/tennessee-williams.md
 translators:
 editors:
-  - contributor/thomas-keith.md
+  - author/thomas-keith.md
 contributors:
-  - contributor/thomas-keith.md
+  - author/thomas-keith.md
 
-  - contributor/gregory-mosher.md
+  - author/gregory-mosher.md
 featured_image:
 description: "The spellbinding last full-length play produced during the author's lifetime is now published for the first time. "
 editions:

@@ -8,11 +8,11 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/gottfried-benn.md
+  - author/gottfried-benn.md
 translators:
-  - contributor/e.-b.-ashton.md
+  - author/e.-b.-ashton.md
 editors:
-  - contributor/gottfried-benn.md
+  - author/gottfried-benn.md
 contributors:
 featured_image:
 description:

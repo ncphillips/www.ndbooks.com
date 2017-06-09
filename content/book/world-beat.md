@@ -10,7 +10,7 @@ language:
 authors:
 translators:
 editors:
-  - contributor/eliot-weinberger.md
+  - author/eliot-weinberger.md
 contributors:
 featured_image:
 description: "A celebration of contemporary poetry from around the world. "

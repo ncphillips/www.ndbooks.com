@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/gregory-rabassa.md
+  - author/gregory-rabassa.md
 translators:
 editors:
 contributors:

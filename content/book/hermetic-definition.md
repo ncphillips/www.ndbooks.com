@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/hilda-doolittle-h.-d.md
+  - author/hilda-doolittle-h.-d.md
 translators:
 editors:
 contributors:

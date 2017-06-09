@@ -8,12 +8,12 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/hilda-doolittle-h.-d.md
+  - author/hilda-doolittle-h.-d.md
 translators:
-  - contributor/joan-burke.md
+  - author/joan-burke.md
 editors:
 contributors:
-  - contributor/hilda-doolittle-h.-d.md
+  - author/hilda-doolittle-h.-d.md
 featured_image:
 description:
 editions:

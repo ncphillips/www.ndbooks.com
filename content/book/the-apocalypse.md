@@ -9,10 +9,10 @@ subgenre:
 language:
 authors:
 translators:
-  - contributor/willis-barnstone.md
+  - author/willis-barnstone.md
 editors:
 contributors:
-  - contributor/willis-barnstone.md
+  - author/willis-barnstone.md
 featured_image:
 description:
 editions:

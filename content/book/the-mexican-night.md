@@ -9,7 +9,7 @@ subgenre:
   - Memoir
 language:
 authors:
-  - contributor/lawrence-ferlinghetti.md
+  - author/lawrence-ferlinghetti.md
 translators:
 editors:
 contributors:

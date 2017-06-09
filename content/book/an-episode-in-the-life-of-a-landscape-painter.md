@@ -8,12 +8,12 @@ genre: Fiction
 subgenre:
 language: Spanish
 authors:
-  - contributor/cesar-aira.md
+  - author/cesar-aira.md
 translators:
-  - contributor/chris-andrews.md
+  - author/chris-andrews.md
 editors:
 contributors:
-  - contributor/roberto-bolano.md
+  - author/roberto-bolano.md
 featured_image:
 description: "An astounding novel from Argentina that is a meditation on the beautiful and the grotesque in nature, the art of landscape painting, and one experience in a man's life that became a lightning rod for inspiration. "
 editions:

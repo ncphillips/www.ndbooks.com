@@ -9,7 +9,7 @@ subgenre:
   - Study
 language:
 authors:
-  - contributor/merlin-thomas-m.md
+  - author/merlin-thomas-m.md
 translators:
 editors:
 contributors:

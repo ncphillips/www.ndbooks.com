@@ -9,7 +9,7 @@ subgenre:
   - Stories
 language:
 authors:
-  - contributor/keith-ridgway.md
+  - author/keith-ridgway.md
 translators:
 editors:
 contributors:

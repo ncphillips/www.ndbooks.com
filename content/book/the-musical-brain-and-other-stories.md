@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/cesar-aira.md
+  - author/cesar-aira.md
 translators:
-  - contributor/chris-andrews.md
+  - author/chris-andrews.md
 editors:
 contributors:
 featured_image: /images/1423846966312_9780811220293.gif

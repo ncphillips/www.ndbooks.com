@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language: French
 authors:
-  - contributor/eugene-guillevic.md
+  - author/eugene-guillevic.md
 translators:
 editors:
 contributors:

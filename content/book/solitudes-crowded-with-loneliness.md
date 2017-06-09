@@ -8,11 +8,11 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/bob-kaufman.md
+  - author/bob-kaufman.md
 translators:
 editors:
 contributors:
-  - contributor/bob-kaufman.md
+  - author/bob-kaufman.md
 featured_image:
 description:
 editions:

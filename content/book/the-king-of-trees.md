@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/ah-cheng.md
+  - author/ah-cheng.md
 translators:
-  - contributor/bonnie-s.-macdougall.md
+  - author/bonnie-s.-macdougall.md
 editors:
 contributors:
 featured_image:

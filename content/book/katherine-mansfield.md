@@ -9,7 +9,7 @@ subgenre:
   - Study
 language:
 authors:
-  - contributor/jeffery-meyers.md
+  - author/jeffery-meyers.md
 translators:
 editors:
 contributors:

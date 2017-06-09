@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/gregory-corso.md
+  - author/gregory-corso.md
 translators:
 editors:
 contributors:

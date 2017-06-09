@@ -9,7 +9,7 @@ subgenre:
   - Stories
 language:
 authors:
-  - contributor/delmore-schwartz.md
+  - author/delmore-schwartz.md
 translators:
 editors:
 contributors:

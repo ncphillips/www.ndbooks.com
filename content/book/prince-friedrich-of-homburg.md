@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/heinrich-von-kleist.md
+  - author/heinrich-von-kleist.md
 translators:
 editors:
 contributors:

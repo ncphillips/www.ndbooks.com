@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/william-bronk.md
+  - author/william-bronk.md
 translators:
 editors:
 contributors:

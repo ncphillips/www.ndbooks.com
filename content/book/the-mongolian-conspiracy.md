@@ -8,12 +8,12 @@ genre: Fiction
 subgenre:
 language: Spanish
 authors:
-  - contributor/rafael-bernal.md
+  - author/rafael-bernal.md
 translators:
-  - contributor/katherine-silver.md
+  - author/katherine-silver.md
 editors:
 contributors:
-  - contributor/francisco-goldman.md
+  - author/francisco-goldman.md
 featured_image:
 description: "A gripping and hilarious literary masterpiece masquerading as a Mexico City crime novel "
 editions:

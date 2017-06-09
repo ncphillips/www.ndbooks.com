@@ -8,10 +8,10 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/ezra-pound.md
+  - author/ezra-pound.md
 translators:
 editors:
-  - contributor/richard-sieburth.md
+  - author/richard-sieburth.md
 contributors:
 featured_image:
 description: "The essential collection of Ezra Pound's poetry – newly expanded and annotated with essays by Richard Sieburth, T.S. Eliot, and John Berryman. "

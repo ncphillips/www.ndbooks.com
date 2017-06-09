@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/wilhelm-genazino.md
+  - author/wilhelm-genazino.md
 translators:
 editors:
 contributors:

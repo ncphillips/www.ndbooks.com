@@ -9,7 +9,7 @@ subgenre:
   - Memoir
 language:
 authors:
-  - contributor/griselda-ohannessian.md
+  - author/griselda-ohannessian.md
 translators:
 editors:
 contributors:

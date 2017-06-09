@@ -9,7 +9,7 @@ subgenre:
   - Essay
 language:
 authors:
-  - contributor/robert-fitzgerald.md
+  - author/robert-fitzgerald.md
 translators:
 editors:
 contributors:

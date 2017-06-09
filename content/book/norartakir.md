@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/leonid-tsypkin.md
+  - author/leonid-tsypkin.md
 translators:
 editors:
 contributors:

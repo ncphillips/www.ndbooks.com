@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/margaret-randall.md
+  - author/margaret-randall.md
 translators:
 editors:
 contributors:

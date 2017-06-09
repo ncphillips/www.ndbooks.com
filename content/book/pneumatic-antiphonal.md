@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/sylvia-legris.md
+  - author/sylvia-legris.md
 translators:
 editors:
 contributors:

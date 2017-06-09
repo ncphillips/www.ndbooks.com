@@ -8,11 +8,11 @@ genre: Fiction
 subgenre:
 language: Urdu
 authors:
-  - contributor/mushtaq-ahmed-yousufi1.md
+  - author/mushtaq-ahmed-yousufi1.md
 translators:
-  - contributor/matt-reeck.md
+  - author/matt-reeck.md
 
-  - contributor/aftab-ahmad.md
+  - author/aftab-ahmad.md
 editors:
 contributors:
 featured_image:

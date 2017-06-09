@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language: French
 authors:
-  - contributor/louis-ferdinand-celine.md
+  - author/louis-ferdinand-celine.md
 translators:
-  - contributor/ralph-manheim.md
+  - author/ralph-manheim.md
 editors:
 contributors:
 featured_image:

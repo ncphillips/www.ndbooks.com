@@ -9,12 +9,12 @@ subgenre:
   - Correspondence
 language:
 authors:
-  - contributor/tennessee-williams.md
+  - author/tennessee-williams.md
 translators:
 editors:
-  - contributor/albert-j.-devlin.md
+  - author/albert-j.-devlin.md
 
-  - contributor/nancy-m.-tischler.md
+  - author/nancy-m.-tischler.md
 contributors:
 featured_image:
 description: "Winner of the Morton N. Cohen Award _for a distinguished edition of letters,_ Modern Language Association, 2001. "

@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language: Japanese
 authors:
-  - contributor/takashi-hiraide.md
+  - author/takashi-hiraide.md
 translators:
-  - contributor/eric-selland.md
+  - author/eric-selland.md
 editors:
 contributors:
 featured_image:

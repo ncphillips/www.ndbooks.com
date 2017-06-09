@@ -10,7 +10,7 @@ language: Arabic
 authors:
 translators:
 editors:
-  - contributor/dunya-mikhail.md
+  - author/dunya-mikhail.md
 contributors:
 featured_image:
 description: "A dazzling collection of contemporary Iraqi poetry "

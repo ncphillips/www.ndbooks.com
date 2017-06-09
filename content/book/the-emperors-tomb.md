@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language: German
 authors:
-  - contributor/joseph-roth.md
+  - author/joseph-roth.md
 translators:
-  - contributor/michael-hofmann1.md
+  - author/michael-hofmann1.md
 editors:
 contributors:
 featured_image:

@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/javier-marias.md
+  - author/javier-marias.md
 translators:
-  - contributor/esther-allen.md
+  - author/esther-allen.md
 editors:
 contributors:
 featured_image:

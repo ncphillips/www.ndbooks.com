@@ -8,9 +8,9 @@ genre: Poetry
 subgenre:
 language: Spanish
 authors:
-  - contributor/roberto-bolano.md
+  - author/roberto-bolano.md
 translators:
-  - contributor/laura-healy.md
+  - author/laura-healy.md
 editors:
 contributors:
 featured_image:

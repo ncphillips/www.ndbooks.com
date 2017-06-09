@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/michal-choromanski.md
+  - author/michal-choromanski.md
 translators:
 editors:
 contributors:

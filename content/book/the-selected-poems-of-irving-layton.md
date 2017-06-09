@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/irving-layton.md
+  - author/irving-layton.md
 translators:
 editors:
 contributors:

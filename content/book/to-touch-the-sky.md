@@ -9,7 +9,7 @@ subgenre:
 language:
 authors:
 translators:
-  - contributor/willis-barnstone.md
+  - author/willis-barnstone.md
 editors:
 contributors:
 featured_image:

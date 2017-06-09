@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/dezs-kosztolanyi.md
+  - author/dezs-kosztolanyi.md
 translators:
-  - contributor/george-szirtes.md
+  - author/george-szirtes.md
 editors:
 contributors:
 featured_image:

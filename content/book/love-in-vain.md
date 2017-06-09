@@ -9,7 +9,7 @@ subgenre:
   - Stories
 language: Italian
 authors:
-  - contributor/federigo-tozzi.md
+  - author/federigo-tozzi.md
 translators:
 editors:
 contributors:

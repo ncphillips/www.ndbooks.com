@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/kenneth-patchen.md
+  - author/kenneth-patchen.md
 translators:
 editors:
 contributors:

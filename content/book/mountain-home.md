@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/david-hinton.md
+  - author/david-hinton.md
 translators:
 editors:
 contributors:

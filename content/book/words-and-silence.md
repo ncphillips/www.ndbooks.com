@@ -9,7 +9,7 @@ subgenre:
   - Study
 language:
 authors:
-  - contributor/sister-therese-lentfoehr.md
+  - author/sister-therese-lentfoehr.md
 translators:
 editors:
 contributors:

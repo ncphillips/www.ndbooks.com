@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/jane-unrue.md
+  - author/jane-unrue.md
 translators:
 editors:
 contributors:

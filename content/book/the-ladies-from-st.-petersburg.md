@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/nina-berberova.md
+  - author/nina-berberova.md
 translators:
 editors:
 contributors:

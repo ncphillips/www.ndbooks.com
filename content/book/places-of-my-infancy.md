@@ -8,9 +8,9 @@ genre: Nonfiction
 subgenre:
 language:
 authors:
-  - contributor/giuseppe-tomasi-di-lampedusa.md
+  - author/giuseppe-tomasi-di-lampedusa.md
 translators:
-  - contributor/archibald-colquhoun.md
+  - author/archibald-colquhoun.md
 editors:
 contributors:
 featured_image:

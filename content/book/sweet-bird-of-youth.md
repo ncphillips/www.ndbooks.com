@@ -8,11 +8,11 @@ genre: Theater
 subgenre:
 language:
 authors:
-  - contributor/tennessee-williams.md
+  - author/tennessee-williams.md
 translators:
 editors:
 contributors:
-  - contributor/lanford-wilson.md
+  - author/lanford-wilson.md
 featured_image:
 description: "Now with an insightful new introduction, the author's original Foreword, and the one-act play, The Enemy: Time, on which Sweet Bird of Youth was based. "
 editions:

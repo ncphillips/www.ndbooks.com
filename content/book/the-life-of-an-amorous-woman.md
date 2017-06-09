@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/ihara-saikaku.md
+  - author/ihara-saikaku.md
 translators:
 editors:
 contributors:

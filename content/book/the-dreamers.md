@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/knut-hamsun.md
+  - author/knut-hamsun.md
 translators:
-  - contributor/tom-geddes.md
+  - author/tom-geddes.md
 editors:
 contributors:
 featured_image:

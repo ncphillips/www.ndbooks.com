@@ -9,7 +9,7 @@ subgenre:
   - Essay
 language:
 authors:
-  - contributor/rivka-galchen.md
+  - author/rivka-galchen.md
 translators:
 editors:
 contributors:

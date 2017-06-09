@@ -9,9 +9,9 @@ subgenre:
   - Memoir
 language: French
 authors:
-  - contributor/xavier-de-maistre.md
+  - author/xavier-de-maistre.md
 translators:
-  - contributor/stephen-sartarelli.md
+  - author/stephen-sartarelli.md
 editors:
 contributors:
 featured_image:

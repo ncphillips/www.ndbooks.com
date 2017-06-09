@@ -9,9 +9,9 @@ subgenre:
   - Selections
 language: French
 authors:
-  - contributor/jules-supervielle.md
+  - author/jules-supervielle.md
 translators:
-  - contributor/enid-mcleod.md
+  - author/enid-mcleod.md
 editors:
 contributors:
 featured_image:

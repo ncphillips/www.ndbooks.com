@@ -9,7 +9,7 @@ subgenre:
   - Essay
 language:
 authors:
-  - contributor/george-steiner-g.md
+  - author/george-steiner-g.md
 translators:
 editors:
 contributors:

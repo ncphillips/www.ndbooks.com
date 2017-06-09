@@ -9,7 +9,7 @@ subgenre:
   - Essay
 language:
 authors:
-  - contributor/irmgard-schloegl.md
+  - author/irmgard-schloegl.md
 translators:
 editors:
 contributors:

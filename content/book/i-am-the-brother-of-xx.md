@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language: Italian
 authors:
-  - contributor/fleur-jaeggy.md
+  - author/fleur-jaeggy.md
 translators:
-  - contributor/gini-alhadeff.md
+  - author/gini-alhadeff.md
 editors:
 contributors:
 featured_image:

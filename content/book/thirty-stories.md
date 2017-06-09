@@ -9,12 +9,12 @@ subgenre:
   - Stories
 language:
 authors:
-  - contributor/kay-boyle.md
+  - author/kay-boyle.md
 translators:
-  - contributor/david-daiches.md
+  - author/david-daiches.md
 editors:
 contributors:
-  - contributor/kay-boyle.md
+  - author/kay-boyle.md
 featured_image:
 description:
 editions:

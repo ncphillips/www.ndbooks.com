@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/christine-brooke-rose.md
+  - author/christine-brooke-rose.md
 translators:
 editors:
 contributors:

@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/peter-handke.md
+  - author/peter-handke.md
 translators:
 editors:
 contributors:

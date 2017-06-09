@@ -9,9 +9,9 @@ subgenre:
   - Essay
 language: French
 authors:
-  - contributor/abdelfattah-kilito.md
+  - author/abdelfattah-kilito.md
 translators:
-  - contributor/robyn-creswell.md
+  - author/robyn-creswell.md
 editors:
 contributors:
 featured_image:

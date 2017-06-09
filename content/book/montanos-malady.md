@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language: Portuguese
 authors:
-  - contributor/enrique-vila-matas.md
+  - author/enrique-vila-matas.md
 translators:
-  - contributor/jonathan-dunne.md
+  - author/jonathan-dunne.md
 editors:
 contributors:
 featured_image:

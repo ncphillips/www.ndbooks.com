@@ -8,11 +8,11 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/clarice-lispector.md
+  - author/clarice-lispector.md
 translators:
-  - contributor/stefan-tobler.md
+  - author/stefan-tobler.md
 editors:
-  - contributor/benjamin-moser.md
+  - author/benjamin-moser.md
 contributors:
 featured_image:
 description: "Lispector at her most philosophically radical. "

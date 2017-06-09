@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/hugh-macdiarmid.md
+  - author/hugh-macdiarmid.md
 translators:
 editors:
 contributors:

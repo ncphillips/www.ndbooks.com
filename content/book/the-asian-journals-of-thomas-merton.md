@@ -9,7 +9,7 @@ subgenre:
   - Memoir
 language:
 authors:
-  - contributor/thomas-merton.md
+  - author/thomas-merton.md
 translators:
 editors:
 contributors:

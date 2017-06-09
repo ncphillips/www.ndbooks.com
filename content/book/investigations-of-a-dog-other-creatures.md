@@ -9,9 +9,9 @@ subgenre:
   - Stories
 language: German
 authors:
-  - contributor/franz-kafka.md
+  - author/franz-kafka.md
 translators:
-  - contributor/michael-hofmann1.md
+  - author/michael-hofmann1.md
 editors:
 contributors:
 featured_image:

@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/carol-bangs.md
+  - author/carol-bangs.md
 translators:
 editors:
 contributors:

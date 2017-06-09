@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/joe-porter.md
+  - author/joe-porter.md
 translators:
 editors:
 contributors:

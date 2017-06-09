@@ -8,11 +8,11 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/dylan-thomas-d.md
+  - author/dylan-thomas-d.md
 translators:
 editors:
 contributors:
-  - contributor/thomas-keith.md
+  - author/thomas-keith.md
 featured_image:
 description:
 editions:

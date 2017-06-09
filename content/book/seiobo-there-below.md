@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language: Hungarian
 authors:
-  - contributor/laszlo-krasznahorkai.md
+  - author/laszlo-krasznahorkai.md
 translators:
-  - contributor/ottilie-mulzet.md
+  - author/ottilie-mulzet.md
 editors:
 contributors:
 featured_image:

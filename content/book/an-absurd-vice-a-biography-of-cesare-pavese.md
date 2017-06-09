@@ -8,7 +8,7 @@ genre: Poetry
 subgenre:
 language: Italian
 authors:
-  - contributor/davide-lajolo.md
+  - author/davide-lajolo.md
 translators:
 editors:
 contributors:

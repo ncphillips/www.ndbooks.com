@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language: Russian
 authors:
-  - contributor/leonid-tsypkin.md
+  - author/leonid-tsypkin.md
 translators:
-  - contributor/jamey-gambrell.md
+  - author/jamey-gambrell.md
 editors:
 contributors:
 featured_image:

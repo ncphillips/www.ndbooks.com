@@ -9,9 +9,9 @@ subgenre:
   - Essay
 language: Spanish
 authors:
-  - contributor/jorge-luis-borges.md
+  - author/jorge-luis-borges.md
 translators:
-  - contributor/eliot-weinberger.md
+  - author/eliot-weinberger.md
 editors:
 contributors:
 featured_image:

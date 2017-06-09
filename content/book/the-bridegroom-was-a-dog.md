@@ -8,9 +8,9 @@ genre: Fiction
 subgenre:
 language: Japanese
 authors:
-  - contributor/yoko-tawada.md
+  - author/yoko-tawada.md
 translators:
-  - contributor/margaret-mitsutani.md
+  - author/margaret-mitsutani.md
 editors:
 contributors:
 featured_image:

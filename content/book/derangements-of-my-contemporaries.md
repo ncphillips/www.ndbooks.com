@@ -8,9 +8,9 @@ genre: Poetry
 subgenre:
 language: Classical Chinese
 authors:
-  - contributor/li-shangyin.md
+  - author/li-shangyin.md
 translators:
-  - contributor/chloe-garcia-roberts.md
+  - author/chloe-garcia-roberts.md
 editors:
 contributors:
 featured_image:

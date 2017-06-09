@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/boris-pasternak.md
+  - author/boris-pasternak.md
 translators:
 editors:
 contributors:

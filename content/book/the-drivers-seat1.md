@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language: Portuguese
 authors:
-  - contributor/muriel-spark.md
+  - author/muriel-spark.md
 translators:
 editors:
 contributors:

@@ -9,7 +9,7 @@ subgenre:
   - Stories
 language:
 authors:
-  - contributor/judy-gahagan.md
+  - author/judy-gahagan.md
 translators:
 editors:
 contributors:

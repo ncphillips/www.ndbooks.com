@@ -9,12 +9,12 @@ subgenre:
   - Essay
 language:
 authors:
-  - contributor/alvin-levin.md
+  - author/alvin-levin.md
 translators:
 editors:
-  - contributor/james-reidel.md
+  - author/james-reidel.md
 contributors:
-  - contributor/james-reidel.md
+  - author/james-reidel.md
 featured_image:
 description: "A magnificent, undiscovered writer, Alvin Levin captured the turbulence of lower-middle-class life in 1930s New York, in that twilight period of the Great Depression and the gathering storm of WWII. "
 editions:

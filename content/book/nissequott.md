@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/margaret-dawe.md
+  - author/margaret-dawe.md
 translators:
 editors:
 contributors:

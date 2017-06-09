@@ -8,7 +8,7 @@ genre: Fiction
 subgenre:
 language: Portuguese
 authors:
-  - contributor/john-hawkes.md
+  - author/john-hawkes.md
 translators:
 editors:
 contributors:

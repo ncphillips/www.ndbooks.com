@@ -9,9 +9,9 @@ subgenre:
   - Stories
 language: Polish
 authors:
-  - contributor/gustaw-herling-grudzinski.md
+  - author/gustaw-herling-grudzinski.md
 translators:
-  - contributor/bill-johnston.md
+  - author/bill-johnston.md
 editors:
 contributors:
 featured_image:

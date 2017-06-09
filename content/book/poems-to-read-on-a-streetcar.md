@@ -8,9 +8,9 @@ genre: Poetry
 subgenre:
 language: Spanish
 authors:
-  - contributor/oliverio-girondo.md
+  - author/oliverio-girondo.md
 translators:
-  - contributor/heather-cleary.md
+  - author/heather-cleary.md
 editors:
 contributors:
 featured_image:

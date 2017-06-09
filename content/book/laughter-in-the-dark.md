@@ -8,11 +8,11 @@ genre: Fiction
 subgenre:
 language:
 authors:
-  - contributor/vladimir-nabokov.md
+  - author/vladimir-nabokov.md
 translators:
 editors:
 contributors:
-  - contributor/john-banville.md
+  - author/john-banville.md
 featured_image:
 description: "The reissue of the classic novel from the author of Lolita which brilliantly portrays one man's ruin through love and betrayal. "
 editions:

@@ -8,11 +8,11 @@ genre: Poetry
 subgenre:
 language:
 authors:
-  - contributor/bei-dao.md
+  - author/bei-dao.md
 translators:
-  - contributor/christopher-mattison.md
+  - author/christopher-mattison.md
 editors:
-  - contributor/bei-dao.md
+  - author/bei-dao.md
 contributors:
 featured_image:
 description:
