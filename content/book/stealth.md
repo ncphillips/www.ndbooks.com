@@ -1,21 +1,24 @@
 ---
 title: "Stealth"
 draft: false
-date: 2014-05-27T14:06:00-04:00
-publication_date: 2014-05-27T14:06:00-04:00
+date: 2014-05-27T14:06:00.000Z
+publication_date: 2014-05-27T14:06:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: arabic
 author:
-  - contributor/sonallah-ibrahim.md
+  - author/sonallah-ibrahim.md
 translator:
-  - contributor/Hosam-Aboul-Ela.md
+  - author/Hosam-Aboul-Ela.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811223058
-  - 9780811223065
+  - isbn: 9780811223058
+    binding: paperback
+  - isbn: 9780811223065
+    binding: ebook
+featured_image_path:
 _slug: stealth
 ---
 

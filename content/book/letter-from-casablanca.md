@@ -1,22 +1,27 @@
 ---
 title: "Letter from Casablanca"
 draft: false
-date: 1986-06-01T05:00:00-04:00
-publication_date: 1986-06-01T05:00:00-04:00
+date: 1986-06-01T05:00:00.000Z
+publication_date: 1986-06-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language: italian
 author:
-  - contributor/antonio-tabucchi.md
+  - author/antonio-tabucchi.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811209861
-  - 9780811209854
-  - 9780811223485
+  - isbn: 9780811209861
+    binding: paperback
+  - isbn: 9780811209854
+    binding: clothbound
+  - isbn: 9780811223485
+    binding: ebook
+featured_image_path:
 _slug: letter-from-casablanca
 ---
 

@@ -1,19 +1,22 @@
 ---
 title: "Collected Poems Of Stevie Smith"
 draft: false
-date: 1983-10-01T05:00:00-04:00
-publication_date: 1983-10-01T05:00:00-04:00
+date: 1983-10-01T05:00:00.000Z
+publication_date: 1983-10-01T05:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/stevie-smith-s.md
+  - author/stevie-smith-s.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811208826
+  - isbn: 9780811208826
+    binding: paperback
+featured_image_path:
 _slug: collected-poems-of-stevie-smith
 ---
 

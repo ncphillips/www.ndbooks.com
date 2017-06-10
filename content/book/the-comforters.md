@@ -1,20 +1,24 @@
 ---
 title: "The Comforters"
 draft: false
-date: 1994-09-01T05:00:00-04:00
-publication_date: 1994-09-01T05:00:00-04:00
+date: 1994-09-01T05:00:00.000Z
+publication_date: 1994-09-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/muriel-spark.md
+  - author/muriel-spark.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811212854
-  - 9780811222419
+  - isbn: 9780811212854
+    binding: paperback
+  - isbn: 9780811222419
+    binding: ebook
+featured_image_path:
 _slug: the-comforters
 ---
 

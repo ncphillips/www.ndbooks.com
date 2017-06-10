@@ -1,19 +1,22 @@
 ---
 title: "The Lorca Variations"
 draft: false
-date: 1993-10-01T05:00:29-04:00
-publication_date: 1993-10-01T05:00:29-04:00
+date: 1993-10-01T05:00:29.000Z
+publication_date: 1993-10-01T05:00:29.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/jerome-rothenberg.md
+  - author/jerome-rothenberg.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811212533
+  - isbn: 9780811212533
+    binding: paperback
+featured_image_path:
 _slug: lorca-variations
 ---
 

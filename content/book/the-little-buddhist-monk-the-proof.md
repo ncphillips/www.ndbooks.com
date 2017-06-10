@@ -1,21 +1,24 @@
 ---
 title: "The Little Buddhist Monk & The Proof"
 draft: false
-date: 2016-11-21T20:27:00-04:00
-publication_date: 2017-05-23T04:00:00-04:00
+date: 2016-11-21T20:27:00.000Z
+publication_date: 2017-05-23T04:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: spanish
 author:
-  - contributor/cesar-aira.md
+  - author/cesar-aira.md
 translator:
-  - contributor/nick-caistor.md
+  - author/nick-caistor.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811221122
-  - 9780811221139
+  - isbn: 9780811221122
+    binding: paperback
+  - isbn: 9780811221139
+    binding: ebook
+featured_image_path:
 _slug: the-little-buddhist-monk-the-proof
 ---
 

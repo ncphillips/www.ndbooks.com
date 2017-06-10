@@ -1,19 +1,22 @@
 ---
 title: "Seedings"
 draft: false
-date: 1996-09-01T05:00:11-04:00
-publication_date: 1996-09-01T05:00:11-04:00
+date: 1996-09-01T05:00:11.000Z
+publication_date: 1996-09-01T05:00:11.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/jerome-rothenberg.md
+  - author/jerome-rothenberg.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811213318
+  - isbn: 9780811213318
+    binding: paperback
+featured_image_path:
 _slug: seedings
 ---
 

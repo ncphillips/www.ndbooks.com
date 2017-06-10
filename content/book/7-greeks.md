@@ -1,21 +1,23 @@
 ---
 title: "7 Greeks"
 draft: false
-date: 1995-06-01T05:00:00-04:00
-publication_date: 1995-06-01T05:00:00-04:00
+date: 1995-06-01T05:00:00.000Z
+publication_date: 1995-06-01T05:00:00.000Z
 subtitle:
 genre: theater
 subgenre:
   - anthology
 language:
 author:
-  - contributor/guy-davenport.md
+  - author/guy-davenport.md
 translator:
-  - contributor/guy-davenport.md
+  - author/guy-davenport.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811212885
+  - isbn: 9780811212885
+    binding: paperback
+featured_image_path:
 _slug: 7-greeks
 ---
 

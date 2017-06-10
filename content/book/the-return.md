@@ -1,23 +1,27 @@
 ---
 title: "The Return"
 draft: false
-date: 2010-07-29T14:27:00-04:00
-publication_date: 2010-07-29T14:27:00-04:00
+date: 2010-07-29T14:27:00.000Z
+publication_date: 2010-07-29T14:27:00.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language: spanish
 author:
-  - contributor/roberto-bolano.md
+  - author/roberto-bolano.md
 translator:
-  - contributor/chris-andrews.md
+  - author/chris-andrews.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811219051
-  - 9780811217156
-  - 9780811220576
+  - isbn: 9780811219051
+    binding: paperback
+  - isbn: 9780811217156
+    binding: clothbound
+  - isbn: 9780811220576
+    binding: ebook
+featured_image_path:
 _slug: the-return
 ---
 

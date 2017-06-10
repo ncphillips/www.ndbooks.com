@@ -1,21 +1,24 @@
 ---
 title: "The Cardboard House"
 draft: false
-date: 2012-09-25T17:41:00-04:00
-publication_date: 2012-09-25T17:41:00-04:00
+date: 2012-09-25T17:41:00.000Z
+publication_date: 2012-09-25T17:41:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: spanish
 author:
-  - contributor/martin-adan.md
+  - author/martin-adan.md
 translator:
-  - contributor/katherine-silver.md
+  - author/katherine-silver.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811219594
-  - 9780811219983
+  - isbn: 9780811219594
+    binding: paperback
+  - isbn: 9780811219983
+    binding: ebook
+featured_image_path:
 _slug: the-cardboard-house
 ---
 

@@ -1,22 +1,25 @@
 ---
 title: "Good Offices"
 draft: false
-date: 2011-09-28T14:28:00-04:00
-publication_date: 2011-09-28T14:28:00-04:00
+date: 2011-09-28T14:28:00.000Z
+publication_date: 2011-09-28T14:28:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: spanish
 author:
-  - contributor/evelio-rosero.md
+  - author/evelio-rosero.md
 translator:
-  - contributor/anne-mclean.md
-  - contributor/anna-milsom.md
+  - author/anne-mclean.md
+  - author/anna-milsom.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811219303
-  - 9780811219518
+  - isbn: 9780811219303
+    binding: paperback
+  - isbn: 9780811219518
+    binding: ebook
+featured_image_path:
 _slug: good-offices
 ---
 

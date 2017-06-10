@@ -1,21 +1,24 @@
 ---
 title: "The Illustrious House of Ramires (New) "
 draft: false
-date: 2016-11-21T20:26:00-04:00
-publication_date: 2017-05-23T04:00:00-04:00
+date: 2016-11-21T20:26:00.000Z
+publication_date: 2017-05-23T04:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: portuguese
 author:
-  - contributor/jose-maria-de-eca-de-queiros.md
+  - author/jose-maria-de-eca-de-queiros.md
 translator:
-  - contributor/margaret-jull-costa.md
+  - author/margaret-jull-costa.md
 editor:
-featured_image_path: /uploads/1477411013630/eca_house_cover.tif
+
 editions:
-  - 9780811226028
-  - 9780811226981
+  - isbn: 9780811226028
+    binding: paperback
+  - isbn: 9780811226981
+    binding: ebook
+featured_image_path: /uploads/1477411013630/eca_house_cover.tif
 _slug: the-illustrious-house-of-ramires-new
 ---
 

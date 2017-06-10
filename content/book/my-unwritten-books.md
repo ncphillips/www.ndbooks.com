@@ -1,20 +1,23 @@
 ---
 title: "My Unwritten Books"
 draft: false
-date: 2008-01-01T06:00:13-04:00
-publication_date: 2008-01-01T06:00:13-04:00
+date: 2008-01-01T06:00:13.000Z
+publication_date: 2008-01-01T06:00:13.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - essay
 language:
 author:
-  - contributor/george-steiner-g.md
+  - author/george-steiner-g.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217033
+  - isbn: 9780811217033
+    binding: clothbound
+featured_image_path:
 _slug: my-unwritten-books
 ---
 

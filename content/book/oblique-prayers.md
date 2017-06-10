@@ -1,20 +1,24 @@
 ---
 title: "Oblique Prayers"
 draft: false
-date: 1984-10-01T05:00:00-04:00
-publication_date: 1984-10-01T05:00:00-04:00
+date: 1984-10-01T05:00:00.000Z
+publication_date: 1984-10-01T05:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/denise-levertov.md
+  - author/denise-levertov.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811209090
-  - 9780811221894
+  - isbn: 9780811209090
+    binding: paperback
+  - isbn: 9780811221894
+    binding: ebook
+featured_image_path:
 _slug: oblique-prayers
 ---
 

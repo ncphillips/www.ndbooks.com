@@ -1,21 +1,24 @@
 ---
 title: "Massacre River"
 draft: false
-date: 2008-05-01T05:00:43-04:00
-publication_date: 2008-05-01T05:00:43-04:00
+date: 2008-05-01T05:00:43.000Z
+publication_date: 2008-05-01T05:00:43.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/rene-philoctete.md
+  - author/rene-philoctete.md
 translator:
-  - contributor/linda-coverdale.md
+  - author/linda-coverdale.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217255
-  - 9780811215855
+  - isbn: 9780811217255
+    binding: paperback
+  - isbn: 9780811215855
+    binding: clothbound
+featured_image_path:
 _slug: massacre-river
 ---
 

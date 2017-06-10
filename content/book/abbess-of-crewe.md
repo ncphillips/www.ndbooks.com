@@ -1,20 +1,24 @@
 ---
 title: "Abbess of Crewe"
 draft: false
-date: 1995-05-01T05:00:00-04:00
-publication_date: 1995-05-01T05:00:00-04:00
+date: 1995-05-01T05:00:00.000Z
+publication_date: 1995-05-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/muriel-spark.md
+  - author/muriel-spark.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811212960
-  - 9780811221559
+  - isbn: 9780811212960
+    binding: paperback
+  - isbn: 9780811221559
+    binding: ebook
+featured_image_path:
 _slug: abbess-of-crewe
 ---
 

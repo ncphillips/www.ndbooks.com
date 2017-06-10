@@ -1,23 +1,27 @@
 ---
 title: "Where Europe Begins"
 draft: false
-date: 2002-10-01T05:00:00-04:00
-publication_date: 2002-10-01T05:00:00-04:00
+date: 2002-10-01T05:00:00.000Z
+publication_date: 2002-10-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language: german
 author:
-  - contributor/yoko-tawada.md
+  - author/yoko-tawada.md
 translator:
-  - contributor/susan-bernofsky.md
+  - author/susan-bernofsky.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217026
-  - 9780811215152
-  - 9780811223515
+  - isbn: 9780811217026
+    binding: paperback
+  - isbn: 9780811215152
+    binding: clothbound
+  - isbn: 9780811223515
+    binding: ebook
+featured_image_path:
 _slug: where-europe-begins
 ---
 

@@ -1,21 +1,25 @@
 ---
 title: "An Elemental Thing"
 draft: false
-date: 2007-05-01T05:00:00-04:00
-publication_date: 2007-05-01T05:00:00-04:00
+date: 2007-05-01T05:00:00.000Z
+publication_date: 2007-05-01T05:00:00.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - essay
 language: portuguese
 author:
-  - contributor/eliot-weinberger.md
+  - author/eliot-weinberger.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216944
-  - 9780811223706
+  - isbn: 9780811216944
+    binding: paperback
+  - isbn: 9780811223706
+    binding: ebook
+featured_image_path:
 _slug: an-elemental-thing
 ---
 

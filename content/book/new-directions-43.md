@@ -1,8 +1,8 @@
 ---
 title: "New Directions 43"
 draft: false
-date: 2001-01-01T06:00:03-04:00
-publication_date: 2001-01-01T06:00:03-04:00
+date: 2001-01-01T06:00:03.000Z
+publication_date: 2001-01-01T06:00:03.000Z
 subtitle:
 genre: fiction
 subgenre:
@@ -11,11 +11,15 @@ language:
 author:
 
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811208125
-  - 9780811208116
+  - isbn: 9780811208125
+    binding: paperback
+  - isbn: 9780811208116
+    binding: clothbound
+featured_image_path:
 _slug: new-directions-43
 ---
 

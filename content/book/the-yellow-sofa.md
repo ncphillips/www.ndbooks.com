@@ -1,19 +1,22 @@
 ---
 title: "The Yellow Sofa"
 draft: false
-date: 1996-11-01T06:00:00-04:00
-publication_date: 2016-04-19T04:00:00-04:00
+date: 1996-11-01T06:00:00.000Z
+publication_date: 2016-04-19T04:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: portuguese
 author:
-  - contributor/jose-maria-de-eca-de-queiros.md
+  - author/jose-maria-de-eca-de-queiros.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811222181
+  - isbn: 9780811222181
+    binding: paperback
+featured_image_path:
 _slug: the-yellow-sofa
 ---
 

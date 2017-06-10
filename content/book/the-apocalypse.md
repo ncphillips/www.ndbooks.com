@@ -1,8 +1,8 @@
 ---
 title: "The Apocalypse"
 draft: false
-date: 2000-10-01T05:00:28-04:00
-publication_date: 2000-10-01T05:00:28-04:00
+date: 2000-10-01T05:00:28.000Z
+publication_date: 2000-10-01T05:00:28.000Z
 subtitle:
 genre: poetry
 subgenre:
@@ -10,11 +10,13 @@ language:
 author:
 
 translator:
-  - contributor/willis-barnstone.md
+  - author/willis-barnstone.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811214469
+  - isbn: 9780811214469
+    binding: paperback
+featured_image_path:
 _slug: the-apocalypse
 ---
 

@@ -1,22 +1,25 @@
 ---
 title: "Memories Look at Me"
 draft: false
-date: 2011-12-07T19:33:00-04:00
-publication_date: 2011-12-07T19:33:00-04:00
+date: 2011-12-07T19:33:00.000Z
+publication_date: 2011-12-07T19:33:00.000Z
 subtitle: "A Memoir"
 genre: nonfiction
 subgenre:
   - memoir
 language: swedish
 author:
-  - contributor/tomas-transtromer.md
+  - author/tomas-transtromer.md
 translator:
-  - contributor/robin-fulton.md
+  - author/robin-fulton.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811220187
-  - 9780811220194
+  - isbn: 9780811220187
+    binding: paperback
+  - isbn: 9780811220194
+    binding: ebook
+featured_image_path:
 _slug: memories-look-at-me
 ---
 

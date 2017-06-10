@@ -1,20 +1,22 @@
 ---
 title: "Conversations in Sicily"
 draft: false
-date: 2000-12-01T06:00:42-04:00
-publication_date: 2000-12-01T06:00:42-04:00
+date: 2000-12-01T06:00:42.000Z
+publication_date: 2000-12-01T06:00:42.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/elio-vittorini.md
+  - author/elio-vittorini.md
 translator:
-  - contributor/alane-salierno-mason.md
+  - author/alane-salierno-mason.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811214551
+  - isbn: 9780811214551
+    binding: paperback
+featured_image_path:
 _slug: conversations-in-sicily
 ---
 

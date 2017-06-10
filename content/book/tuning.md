@@ -1,19 +1,22 @@
 ---
 title: "Tuning"
 draft: false
-date: 2001-01-01T06:00:11-04:00
-publication_date: 2001-01-01T06:00:11-04:00
+date: 2001-01-01T06:00:11.000Z
+publication_date: 2001-01-01T06:00:11.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/david-antin.md
+  - author/david-antin.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811208949
+  - isbn: 9780811208949
+    binding: paperback
+featured_image_path:
 _slug: tuning
 ---
 

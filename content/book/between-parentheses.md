@@ -1,22 +1,25 @@
 ---
 title: "Between Parentheses"
 draft: false
-date: 2014-05-27T14:18:00-04:00
-publication_date: 2014-05-27T14:18:00-04:00
+date: 2014-05-27T14:18:00.000Z
+publication_date: 2014-05-27T14:18:00.000Z
 subtitle:
 genre:
 subgenre:
   - essay
 language:
 author:
-  - contributor/roberto-bolano.md
+  - author/roberto-bolano.md
 translator:
-  - contributor/natasha-wimmer.md
+  - author/natasha-wimmer.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811222723
-  - 9780811220507
+  - isbn: 9780811222723
+    binding: paperback
+  - isbn: 9780811220507
+    binding: ebook
+featured_image_path:
 _slug: between-parentheses
 ---
 

@@ -1,20 +1,22 @@
 ---
 title: "For The Fighting Spirit Of The Walnut"
 draft: false
-date: 2008-06-01T05:00:00-04:00
-publication_date: 2008-06-01T05:00:00-04:00
+date: 2008-06-01T05:00:00.000Z
+publication_date: 2008-06-01T05:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language: japanese
 author:
-  - contributor/takashi-hiraide.md
+  - author/takashi-hiraide.md
 translator:
-  - contributor/sawako-nakayasu.md
+  - author/sawako-nakayasu.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217484
+  - isbn: 9780811217484
+    binding: paperback
+featured_image_path:
 _slug: for-the-fighting-spirit-of-the-walnut
 ---
 

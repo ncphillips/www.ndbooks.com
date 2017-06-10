@@ -1,20 +1,22 @@
 ---
 title: "Three Italian Chronicles"
 draft: false
-date: 1991-02-01T06:00:41-04:00
-publication_date: 1991-02-01T06:00:41-04:00
+date: 1991-02-01T06:00:41.000Z
+publication_date: 1991-02-01T06:00:41.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/stendhal.md
+  - author/stendhal.md
 translator:
-  - contributor/c.k.-scott-moncrieff.md
+  - author/c.k.-scott-moncrieff.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811211505
+  - isbn: 9780811211505
+    binding: paperback
+featured_image_path:
 _slug: three-italian-chronicles
 ---
 

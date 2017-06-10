@@ -1,20 +1,22 @@
 ---
 title: "Levin’s Mill"
 draft: false
-date: 1996-04-01T06:00:18-04:00
-publication_date: 1996-04-01T06:00:18-04:00
+date: 1996-04-01T06:00:18.000Z
+publication_date: 1996-04-01T06:00:18.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/johannes-bobrowski.md
+  - author/johannes-bobrowski.md
 translator:
-  - contributor/janet-cropper.md
+  - author/janet-cropper.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811213295
+  - isbn: 9780811213295
+    binding: paperback
+featured_image_path:
 _slug: levins-mill
 ---
 

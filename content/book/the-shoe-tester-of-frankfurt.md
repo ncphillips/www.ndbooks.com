@@ -1,19 +1,22 @@
 ---
 title: "The Shoe Tester of Frankfurt"
 draft: false
-date: 2006-06-01T05:00:27-04:00
-publication_date: 2006-06-01T05:00:27-04:00
+date: 2006-06-01T05:00:27.000Z
+publication_date: 2006-06-01T05:00:27.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/wilhelm-genazino.md
+  - author/wilhelm-genazino.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811215831
+  - isbn: 9780811215831
+    binding: paperback
+featured_image_path:
 _slug: the-shoe-tester-of-frankfurt
 ---
 

@@ -1,19 +1,22 @@
 ---
 title: "The Real Life of Sebastian Knight"
 draft: false
-date: 2008-07-01T05:00:00-04:00
-publication_date: 2008-07-01T05:00:00-04:00
+date: 2008-07-01T05:00:00.000Z
+publication_date: 2008-07-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: russian
 author:
-  - contributor/vladimir-nabokov.md
+  - author/vladimir-nabokov.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217507
+  - isbn: 9780811217507
+    binding: paperback
+featured_image_path:
 _slug: the-real-life-of-sebastian-knight
 ---
 

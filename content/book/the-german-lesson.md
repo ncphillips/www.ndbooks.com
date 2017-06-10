@@ -1,19 +1,22 @@
 ---
 title: "The German Lesson"
 draft: false
-date: 1986-04-01T06:00:08-04:00
-publication_date: 1986-04-01T06:00:08-04:00
+date: 1986-04-01T06:00:08.000Z
+publication_date: 1986-04-01T06:00:08.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/siegfried-lenz.md
+  - author/siegfried-lenz.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811209823
+  - isbn: 9780811209823
+    binding: paperback
+featured_image_path:
 _slug: the-german-lesson
 ---
 

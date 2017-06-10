@@ -1,19 +1,22 @@
 ---
 title: "Caprice"
 draft: false
-date: 1993-04-01T06:00:37-04:00
-publication_date: 1993-04-01T06:00:37-04:00
+date: 1993-04-01T06:00:37.000Z
+publication_date: 1993-04-01T06:00:37.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/ronald-firbank.md
+  - author/ronald-firbank.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811212434
+  - isbn: 9780811212434
+    binding: paperback
+featured_image_path:
 _slug: caprice
 ---
 

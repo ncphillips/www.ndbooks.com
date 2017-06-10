@@ -1,8 +1,8 @@
 ---
 title: "The Birth-mark"
 draft: false
-date: 2015-03-20T20:34:00-04:00
-publication_date: 2015-12-07T05:00:00-04:00
+date: 2015-03-20T20:34:00.000Z
+publication_date: 2015-12-07T05:00:00.000Z
 subtitle:
 genre: nonfiction
 subgenre:
@@ -11,32 +11,38 @@ subgenre:
   - non fiction
 language:
 author:
-  - contributor/susan-howe.md
+  - author/susan-howe.md
 translator:
+
 editor:
-featured_image_path: /uploads/1426883672558/birth-mark_cover.jpg
+
 editions:
-  - 9780811224659
-  - 9780811224666
+  - isbn: 9780811224659
+    binding: paperback
+  - isbn: 9780811224666
+    binding: ebook
+featured_image_path: /uploads/1426883672558/birth-mark_cover.jpg
 _slug: the-birth-mark
 ---
 In this classic, groundbreaking exploration of early American literature, Susan Howe reads our intellectual inheritance as a series of civil wars, where each text is a wilderness in which a strange lawless author confronts interpreters and editors eager for settlement. Howe approaches Anne Hutchinson, Mary Rowlandson, Cotton Mather, Hawthorne, Emerson, Melville and Emily Dickinson as a fellow writer—her insights, fierce and original, are rooted in her seminal textural scholarship in examination of their editorial histories of landmark works. In the process, Howe uproots settled institutionalized roles of men and women as well as of poetry and prose—and of poetry and prose. _The Birth-mark_, first published in 1993, now joins the New Directions canon of a dozen Susan Howe titles. ---
 title: "Lost Words"
 draft: false
-date: 2015-03-20T19:59:00-04:00
-publication_date: 2016-01-25T05:00:00-04:00
+date: 2015-03-20T19:59:00.000Z
+publication_date: 2016-01-25T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: italian
 author:
-  - contributor/nicola-gardini.md
+  - author/nicola-gardini.md
 translator:
-  - contributor/michael-f-moore.md
+  - author/michael-f-moore.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811224772
+  - isbn: 9780811224772
+    binding: paperback
+featured_image_path:
 _slug: lost-words
 ---
 

@@ -1,22 +1,25 @@
 ---
 title: "Investigations of a Dog & Other Creatures"
 draft: false
-date: 2016-11-21T20:26:00-04:00
-publication_date: 2017-05-23T04:00:00-04:00
+date: 2016-11-21T20:26:00.000Z
+publication_date: 2017-05-23T04:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language: german
 author:
-  - contributor/franz-kafka.md
+  - author/franz-kafka.md
 translator:
-  - contributor/michael-hofmann1.md
+  - author/michael-hofmann1.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811226899
-  - 9780811226905
+  - isbn: 9780811226899
+    binding: paperback
+  - isbn: 9780811226905
+    binding: ebook
+featured_image_path:
 _slug: investigations-of-a-dog-other-creatures
 ---
 

@@ -1,19 +1,22 @@
 ---
 title: "Shadowlands: Selected Poems"
 draft: false
-date: 1994-10-01T04:59:22-04:00
-publication_date: 1994-10-01T04:59:22-04:00
+date: 1994-10-01T04:59:22.000Z
+publication_date: 1994-10-01T04:59:22.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/johannes-bobrowski.md
+  - author/johannes-bobrowski.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811212762
+  - isbn: 9780811212762
+    binding: paperback
+featured_image_path:
 _slug: shadowlands-selected-poems
 ---
 

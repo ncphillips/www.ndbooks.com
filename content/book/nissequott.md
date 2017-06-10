@@ -1,19 +1,22 @@
 ---
 title: "Nissequott"
 draft: false
-date: 1994-03-01T06:00:28-04:00
-publication_date: 1994-03-01T06:00:28-04:00
+date: 1994-03-01T06:00:28.000Z
+publication_date: 1994-03-01T06:00:28.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/margaret-dawe.md
+  - author/margaret-dawe.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811212601
+  - isbn: 9780811212601
+    binding: paperback
+featured_image_path:
 _slug: nissequott
 ---
 

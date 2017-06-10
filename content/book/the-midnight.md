@@ -1,19 +1,22 @@
 ---
 title: "The Midnight"
 draft: false
-date: 2003-06-01T05:00:00-04:00
-publication_date: 2003-06-01T05:00:00-04:00
+date: 2003-06-01T05:00:00.000Z
+publication_date: 2003-06-01T05:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language: portuguese
 author:
-  - contributor/susan-howe.md
+  - author/susan-howe.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811215381
+  - isbn: 9780811215381
+    binding: paperback
+featured_image_path:
 _slug: the-midnight
 ---
 

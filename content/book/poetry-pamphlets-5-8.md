@@ -1,22 +1,25 @@
 ---
 title: "Poetry Pamphlets 5-8"
 draft: false
-date: 2013-07-10T19:19:00-04:00
-publication_date: 2013-07-10T19:19:00-04:00
+date: 2013-07-10T19:19:00.000Z
+publication_date: 2013-07-10T19:19:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/nathaniel-tarn.md
-  - contributor/hilda-doolittle-h.-d.md
-  - contributor/alejandra-pizarnik.md
-  - contributor/forrest-gander.md
+  - author/nathaniel-tarn.md
+  - author/hilda-doolittle-h.-d.md
+  - author/alejandra-pizarnik.md
+  - author/forrest-gander.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811221221
+  - isbn: 9780811221221
+    binding: paperback
+featured_image_path:
 _slug: poetry-pamphlets-5-8
 ---
 

@@ -1,20 +1,22 @@
 ---
 title: "The Poems of Octavio Paz"
 draft: false
-date: 2012-10-23T18:54:00-04:00
-publication_date: 2012-10-23T18:54:00-04:00
+date: 2012-10-23T18:54:00.000Z
+publication_date: 2012-10-23T18:54:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language: spanish
 author:
-  - contributor/octavio-paz.md
+  - author/octavio-paz.md
 translator:
-  - contributor/eliot-weinberger.md
+  - author/eliot-weinberger.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811220439
+  - isbn: 9780811220439
+    binding: clothbound
+featured_image_path:
 _slug: the-poems-of-octavio-paz
 ---
 

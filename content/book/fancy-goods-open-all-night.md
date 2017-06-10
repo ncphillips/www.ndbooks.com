@@ -1,22 +1,25 @@
 ---
 title: "Fancy Goods/Open All Night"
 draft: false
-date: 1984-04-01T06:00:23-04:00
-publication_date: 1984-04-01T06:00:23-04:00
+date: 1984-04-01T06:00:23.000Z
+publication_date: 1984-04-01T06:00:23.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language:
 author:
-  - contributor/paul-morand.md
+  - author/paul-morand.md
 translator:
-  - contributor/ezra-pound.md
+  - author/ezra-pound.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811208895
-  - 9780811208888
+  - isbn: 9780811208895
+    binding: paperback
+  - isbn: 9780811208888
+    binding: clothbound
+featured_image_path:
 _slug: fancy-goods-open-all-night
 ---
 

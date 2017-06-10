@@ -1,19 +1,22 @@
 ---
 title: "Colonel Chabert"
 draft: false
-date: 1997-11-01T05:59:59-04:00
-publication_date: 1997-11-01T05:59:59-04:00
+date: 1997-11-01T05:59:59.000Z
+publication_date: 1997-11-01T05:59:59.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/honore-de-balzac.md
+  - author/honore-de-balzac.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811213592
+  - isbn: 9780811213592
+    binding: paperback
+featured_image_path:
 _slug: colonel-chabert
 ---
 

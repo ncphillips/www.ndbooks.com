@@ -1,20 +1,24 @@
 ---
 title: "A Far Rockaway Of The Heart"
 draft: false
-date: 1998-05-01T05:00:30-04:00
-publication_date: 1998-05-01T05:00:30-04:00
+date: 1998-05-01T05:00:30.000Z
+publication_date: 1998-05-01T05:00:30.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/lawrence-ferlinghetti.md
+  - author/lawrence-ferlinghetti.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811213981
-  - 9780811213479
+  - isbn: 9780811213981
+    binding: paperback
+  - isbn: 9780811213479
+    binding: clothbound
+featured_image_path:
 _slug: a-far-rockaway-of-the-heart
 ---
 

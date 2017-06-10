@@ -1,20 +1,24 @@
 ---
 title: "Expecting"
 draft: false
-date: 1984-05-01T05:00:35-04:00
-publication_date: 1984-05-01T05:00:35-04:00
+date: 1984-05-01T05:00:35.000Z
+publication_date: 1984-05-01T05:00:35.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/christine-lehner.md
+  - author/christine-lehner.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811208987
-  - 9780811208482
+  - isbn: 9780811208987
+    binding: paperback
+  - isbn: 9780811208482
+    binding: clothbound
+featured_image_path:
 _slug: expecting
 ---
 

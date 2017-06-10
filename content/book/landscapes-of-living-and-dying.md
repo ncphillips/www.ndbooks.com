@@ -1,19 +1,22 @@
 ---
 title: "Landscapes Of Living And Dying"
 draft: false
-date: 1979-11-01T06:00:00-04:00
-publication_date: 1979-11-01T06:00:00-04:00
+date: 1979-11-01T06:00:00.000Z
+publication_date: 1979-11-01T06:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/lawrence-ferlinghetti.md
+  - author/lawrence-ferlinghetti.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811207423
+  - isbn: 9780811207423
+    binding: paperback
+featured_image_path:
 _slug: landscapes-of-living-and-dying
 ---
 

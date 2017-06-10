@@ -1,19 +1,22 @@
 ---
 title: "The Maias"
 draft: false
-date: 2007-07-01T05:00:19-04:00
-publication_date: 2007-07-01T05:00:19-04:00
+date: 2007-07-01T05:00:19.000Z
+publication_date: 2007-07-01T05:00:19.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/jose-maria-de-eca-de-queiros.md
+  - author/jose-maria-de-eca-de-queiros.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216494
+  - isbn: 9780811216494
+    binding: paperback
+featured_image_path:
 _slug: the-maias
 ---
 

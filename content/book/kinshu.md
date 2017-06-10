@@ -1,20 +1,24 @@
 ---
 title: "Kinshu"
 draft: false
-date: 2008-02-01T06:00:02-04:00
-publication_date: 2008-02-01T06:00:02-04:00
+date: 2008-02-01T06:00:02.000Z
+publication_date: 2008-02-01T06:00:02.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/teru-miyamoto.md
+  - author/teru-miyamoto.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216753
-  - 9780811216333
+  - isbn: 9780811216753
+    binding: paperback
+  - isbn: 9780811216333
+    binding: clothbound
+featured_image_path:
 _slug: kinshu
 ---
 

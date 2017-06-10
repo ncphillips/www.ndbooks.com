@@ -1,19 +1,22 @@
 ---
 title: "Listening To The Candle"
 draft: false
-date: 1992-09-01T05:00:00-04:00
-publication_date: 1992-09-01T05:00:00-04:00
+date: 1992-09-01T05:00:00.000Z
+publication_date: 1992-09-01T05:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/peter-scott-pd.md
+  - author/peter-scott-pd.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811212144
+  - isbn: 9780811212144
+    binding: paperback
+featured_image_path:
 _slug: listening-to-the-candle
 ---
 

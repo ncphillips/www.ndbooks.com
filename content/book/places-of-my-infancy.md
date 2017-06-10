@@ -1,20 +1,22 @@
 ---
 title: "Places of My Infancy"
 draft: false
-date: 2012-11-07T16:38:00-04:00
-publication_date: 2012-11-07T16:38:00-04:00
+date: 2012-11-07T16:38:00.000Z
+publication_date: 2012-11-07T16:38:00.000Z
 subtitle:
 genre: nonfiction
 subgenre:
 language:
 author:
-  - contributor/giuseppe-tomasi-di-lampedusa.md
+  - author/giuseppe-tomasi-di-lampedusa.md
 translator:
-  - contributor/archibald-colquhoun.md
+  - author/archibald-colquhoun.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811220385
+  - isbn: 9780811220385
+    binding: paperback
+featured_image_path:
 _slug: places-of-my-infancy
 ---
 

@@ -1,20 +1,22 @@
 ---
 title: "The Bridge Over the Neroch & Other Works"
 draft: false
-date: 2013-03-27T15:37:00-04:00
-publication_date: 2013-03-27T15:37:00-04:00
+date: 2013-03-27T15:37:00.000Z
+publication_date: 2013-03-27T15:37:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: russian
 author:
-  - contributor/leonid-tsypkin.md
+  - author/leonid-tsypkin.md
 translator:
-  - contributor/jamey-gambrell.md
+  - author/jamey-gambrell.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216616
+  - isbn: 9780811216616
+    binding: paperback
+featured_image_path:
 _slug: the-bridge-over-the-neroch-other-works
 ---
 

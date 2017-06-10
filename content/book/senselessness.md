@@ -1,21 +1,24 @@
 ---
 title: "Senselessness"
 draft: false
-date: 2008-05-01T05:00:00-04:00
-publication_date: 2008-05-01T05:00:00-04:00
+date: 2008-05-01T05:00:00.000Z
+publication_date: 2008-05-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: spanish
 author:
-  - contributor/horacio-castellanos-moya.md
+  - author/horacio-castellanos-moya.md
 translator:
-  - contributor/katherine-silver.md
+  - author/katherine-silver.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217071
-  - 9780811219846
+  - isbn: 9780811217071
+    binding: paperback
+  - isbn: 9780811219846
+    binding: ebook
+featured_image_path:
 _slug: senselessness
 ---
 

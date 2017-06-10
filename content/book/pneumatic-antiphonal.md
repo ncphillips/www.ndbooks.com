@@ -1,19 +1,22 @@
 ---
 title: "Pneumatic Antiphonal"
 draft: false
-date: 2013-03-26T20:14:00-04:00
-publication_date: 2013-03-26T20:14:00-04:00
+date: 2013-03-26T20:14:00.000Z
+publication_date: 2013-03-26T20:14:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/sylvia-legris.md
+  - author/sylvia-legris.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811220408
+  - isbn: 9780811220408
+    binding: paperback
+featured_image_path:
 _slug: pneumatic-antiphonal
 ---
 

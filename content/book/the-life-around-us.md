@@ -1,20 +1,24 @@
 ---
 title: "The Life Around Us"
 draft: false
-date: 1997-05-01T05:00:42-04:00
-publication_date: 1997-05-01T05:00:42-04:00
+date: 1997-05-01T05:00:42.000Z
+publication_date: 1997-05-01T05:00:42.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/denise-levertov.md
+  - author/denise-levertov.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811213523
-  - 9780811213516
+  - isbn: 9780811213523
+    binding: paperback
+  - isbn: 9780811213516
+    binding: clothbound
+featured_image_path:
 _slug: the-life-around-us
 ---
 

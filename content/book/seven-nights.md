@@ -1,21 +1,23 @@
 ---
 title: "Seven Nights"
 draft: false
-date: 2009-07-01T05:00:00-04:00
-publication_date: 2009-07-01T05:00:00-04:00
+date: 2009-07-01T05:00:00.000Z
+publication_date: 2009-07-01T05:00:00.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - essay
 language: spanish
 author:
-  - contributor/jorge-luis-borges.md
+  - author/jorge-luis-borges.md
 translator:
-  - contributor/eliot-weinberger.md
+  - author/eliot-weinberger.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218382
+  - isbn: 9780811218382
+    binding: paperback
+featured_image_path:
 _slug: seven-nights
 ---
 

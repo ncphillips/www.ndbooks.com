@@ -1,20 +1,24 @@
 ---
 title: "Katschen & The Book of Joseph"
 draft: false
-date: 1998-05-01T05:00:00-04:00
-publication_date: 1998-05-01T05:00:00-04:00
+date: 1998-05-01T05:00:00.000Z
+publication_date: 1998-05-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/yoel-hoffmann.md
+  - author/yoel-hoffmann.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811214056
-  - 9780811213738
+  - isbn: 9780811214056
+    binding: paperback
+  - isbn: 9780811213738
+    binding: clothbound
+featured_image_path:
 _slug: katschen-the-book-of-joseph
 ---
 

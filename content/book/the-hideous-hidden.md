@@ -1,20 +1,24 @@
 ---
 title: "The Hideous Hidden "
 draft: false
-date: 2016-03-07T18:24:00-04:00
-publication_date: 2016-09-27T04:00:00-04:00
+date: 2016-03-07T18:24:00.000Z
+publication_date: 2016-09-27T04:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/sylvia-legris.md
+  - author/sylvia-legris.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811225373
-  - 9780811225380
+  - isbn: 9780811225373
+    binding: paperback
+  - isbn: 9780811225380
+    binding: ebook
+featured_image_path:
 _slug: the-hideous-hidden
 ---
 

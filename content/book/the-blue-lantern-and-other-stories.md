@@ -1,22 +1,25 @@
 ---
 title: "The Blue Lantern and Other Stories"
 draft: false
-date: 2000-05-01T05:00:00-04:00
-publication_date: 2000-05-01T05:00:00-04:00
+date: 2000-05-01T05:00:00.000Z
+publication_date: 2000-05-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language: russian
 author:
-  - contributor/victor-pelevin.md
+  - author/victor-pelevin.md
 translator:
-  - contributor/andrew-bromfield.md
+  - author/andrew-bromfield.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811214346
-  - 9780811213707
+  - isbn: 9780811214346
+    binding: paperback
+  - isbn: 9780811213707
+    binding: clothbound
+featured_image_path:
 _slug: the-blue-lantern-and-other-stories
 ---
 

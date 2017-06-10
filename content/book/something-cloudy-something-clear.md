@@ -1,20 +1,24 @@
 ---
 title: "Something Cloudy Something Clear"
 draft: false
-date: 1995-10-01T05:00:06-04:00
-publication_date: 1995-10-01T05:00:06-04:00
+date: 1995-10-01T05:00:06.000Z
+publication_date: 1995-10-01T05:00:06.000Z
 subtitle:
 genre: theater
 subgenre:
 language:
 author:
-  - contributor/tennessee-williams.md
+  - author/tennessee-williams.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811213110
-  - 9780811213103
+  - isbn: 9780811213110
+    binding: paperback
+  - isbn: 9780811213103
+    binding: clothbound
+featured_image_path:
 _slug: something-cloudy-something-clear
 ---
 

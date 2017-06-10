@@ -1,21 +1,24 @@
 ---
 title: "The Attraction of Things "
 draft: false
-date: 2016-03-07T20:23:00-04:00
-publication_date: 2016-11-01T04:00:00-04:00
+date: 2016-03-07T20:23:00.000Z
+publication_date: 2016-11-01T04:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: french
 author:
-  - contributor/roger-lewinter.md
+  - author/roger-lewinter.md
 translator:
-  - contributor/rachel-careau.md
+  - author/rachel-careau.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811225205
-  - 9780811226103
+  - isbn: 9780811225205
+    binding: paperback
+  - isbn: 9780811226103
+    binding: ebook
+featured_image_path:
 _slug: the-attraction-of-things
 ---
 

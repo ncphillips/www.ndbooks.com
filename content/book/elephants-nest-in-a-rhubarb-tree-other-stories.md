@@ -1,21 +1,25 @@
 ---
 title: "Elephant’s Nest in a Rhubarb Tree & Other Stories"
 draft: false
-date: 1989-04-01T06:00:45-04:00
-publication_date: 1989-04-01T06:00:45-04:00
+date: 1989-04-01T06:00:45.000Z
+publication_date: 1989-04-01T06:00:45.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language:
 author:
-  - contributor/h.-e.-bates.md
+  - author/h.-e.-bates.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811210881
-  - 9780811210874
+  - isbn: 9780811210881
+    binding: paperback
+  - isbn: 9780811210874
+    binding: clothbound
+featured_image_path:
 _slug: elephants-nest-in-a-rhubarb-tree-other-stories
 ---
 

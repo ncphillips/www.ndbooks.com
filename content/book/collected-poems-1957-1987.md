@@ -1,21 +1,24 @@
 ---
 title: "Collected Poems 1957-1987"
 draft: false
-date: 1991-04-01T06:00:23-04:00
-publication_date: 1991-04-01T06:00:23-04:00
+date: 1991-04-01T06:00:23.000Z
+publication_date: 1991-04-01T06:00:23.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/octavio-paz.md
+  - author/octavio-paz.md
 translator:
-  - contributor/eliot-weinberger.md
+  - author/eliot-weinberger.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811211734
-  - 9780811210379
+  - isbn: 9780811211734
+    binding: paperback
+  - isbn: 9780811210379
+    binding: clothbound
+featured_image_path:
 _slug: collected-poems-1957-1987
 ---
 

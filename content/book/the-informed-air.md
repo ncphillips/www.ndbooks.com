@@ -1,21 +1,23 @@
 ---
 title: "The Informed Air"
 draft: false
-date: 2014-04-29T16:21:00-04:00
-publication_date: 2014-04-29T16:21:00-04:00
+date: 2014-04-29T16:21:00.000Z
+publication_date: 2014-04-29T16:21:00.000Z
 subtitle: "Essays"
 genre: nonfiction
 subgenre:
   - essay
 language:
 author:
-  - contributor/muriel-spark.md
+  - author/muriel-spark.md
 translator:
+
 editor:
-  - contributor/penelope-jardin.md
-featured_image_path:
+  - author/penelope-jardin.md
 editions:
-  - 9780811221597
+  - isbn: 9780811221597
+    binding: clothbound
+featured_image_path:
 _slug: the-informed-air
 ---
 

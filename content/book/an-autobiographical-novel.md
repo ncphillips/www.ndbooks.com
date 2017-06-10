@@ -1,20 +1,23 @@
 ---
 title: "An Autobiographical Novel"
 draft: false
-date: 1991-11-01T06:00:07-04:00
-publication_date: 1991-11-01T06:00:07-04:00
+date: 1991-11-01T06:00:07.000Z
+publication_date: 1991-11-01T06:00:07.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - memoir
 language:
 author:
-  - contributor/kenneth-rexroth.md
+  - author/kenneth-rexroth.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811211796
+  - isbn: 9780811211796
+    binding: paperback
+featured_image_path:
 _slug: an-autobiographical-novel
 ---
 

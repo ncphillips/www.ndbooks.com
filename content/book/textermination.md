@@ -1,20 +1,24 @@
 ---
 title: "Textermination"
 draft: false
-date: 1992-10-01T05:00:15-04:00
-publication_date: 1992-10-01T05:00:15-04:00
+date: 1992-10-01T05:00:15.000Z
+publication_date: 1992-10-01T05:00:15.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/christine-brooke-rose.md
+  - author/christine-brooke-rose.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811212168
-  - 9780811212304
+  - isbn: 9780811212168
+    binding: paperback
+  - isbn: 9780811212304
+    binding: clothbound
+featured_image_path:
 _slug: textermination
 ---
 

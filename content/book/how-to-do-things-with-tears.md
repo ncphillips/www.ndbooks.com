@@ -1,19 +1,22 @@
 ---
 title: "How To Do Things With Tears"
 draft: false
-date: 2001-05-01T05:00:28-04:00
-publication_date: 2001-05-01T05:00:28-04:00
+date: 2001-05-01T05:00:28.000Z
+publication_date: 2001-05-01T05:00:28.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/allen-grossman.md
+  - author/allen-grossman.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811214643
+  - isbn: 9780811214643
+    binding: paperback
+featured_image_path:
 _slug: how-to-do-things-with-tears
 ---
 

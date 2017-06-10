@@ -1,19 +1,22 @@
 ---
 title: "Landscape Over Zero"
 draft: false
-date: 1996-10-01T05:00:18-04:00
-publication_date: 1996-10-01T05:00:18-04:00
+date: 1996-10-01T05:00:18.000Z
+publication_date: 1996-10-01T05:00:18.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/bei-dao.md
+  - author/bei-dao.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811213349
+  - isbn: 9780811213349
+    binding: paperback
+featured_image_path:
 _slug: landscape-over-zero
 ---
 

@@ -1,20 +1,23 @@
 ---
 title: "The Vienna Paradox"
 draft: false
-date: 2004-05-01T05:00:02-04:00
-publication_date: 2004-05-01T05:00:02-04:00
+date: 2004-05-01T05:00:02.000Z
+publication_date: 2004-05-01T05:00:02.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - memoir
 language:
 author:
-  - contributor/marjorie-perloff.md
+  - author/marjorie-perloff.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811215718
+  - isbn: 9780811215718
+    binding: paperback
+featured_image_path:
 _slug: the-vienna-paradox
 ---
 

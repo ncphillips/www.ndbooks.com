@@ -1,8 +1,8 @@
 ---
 title: "Madness in the Family"
 draft: false
-date: 1988-04-01T06:00:11-04:00
-publication_date: 1988-04-01T06:00:11-04:00
+date: 1988-04-01T06:00:11.000Z
+publication_date: 1988-04-01T06:00:11.000Z
 subtitle:
 genre: fiction
 subgenre:
@@ -11,11 +11,15 @@ language:
 author:
 
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811211291
-  - 9780811210645
+  - isbn: 9780811211291
+    binding: paperback
+  - isbn: 9780811210645
+    binding: clothbound
+featured_image_path:
 _slug: madness-in-the-family
 ---
 

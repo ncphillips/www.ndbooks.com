@@ -1,21 +1,24 @@
 ---
 title: "An Episode in the Life of a Landscape Painter"
 draft: false
-date: 2006-05-01T04:59:00-04:00
-publication_date: 2006-05-01T04:59:00-04:00
+date: 2006-05-01T04:59:00.000Z
+publication_date: 2006-05-01T04:59:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: spanish
 author:
-  - contributor/cesar-aira.md
+  - author/cesar-aira.md
 translator:
-  - contributor/chris-andrews.md
+  - author/chris-andrews.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216302
-  - 9780811219808
+  - isbn: 9780811216302
+    binding: paperback
+  - isbn: 9780811219808
+    binding: ebook
+featured_image_path:
 _slug: an-episode-in-the-life-of-a-landscape-painter
 ---
 

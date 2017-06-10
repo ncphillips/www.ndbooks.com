@@ -1,21 +1,24 @@
 ---
 title: "Ema, the Captive "
 draft: false
-date: 2016-03-07T20:34:00-04:00
-publication_date: 2016-12-06T05:00:00-04:00
+date: 2016-03-07T20:34:00.000Z
+publication_date: 2016-12-06T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: spanish
 author:
-  - contributor/cesar-aira.md
+  - author/cesar-aira.md
 translator:
-  - contributor/chris-andrews.md
+  - author/chris-andrews.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811219105
-  - 9780811226035
+  - isbn: 9780811219105
+    binding: paperback
+  - isbn: 9780811226035
+    binding: ebook
+featured_image_path:
 _slug: ema-the-captive
 ---
 

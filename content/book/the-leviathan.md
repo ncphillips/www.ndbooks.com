@@ -1,21 +1,24 @@
 ---
 title: "The Leviathan"
 draft: false
-date: 2011-06-29T14:28:00-04:00
-publication_date: 2011-06-29T14:28:00-04:00
+date: 2011-06-29T14:28:00.000Z
+publication_date: 2011-06-29T14:28:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: german
 author:
-  - contributor/joseph-roth.md
+  - author/joseph-roth.md
 translator:
-  - contributor/michael-hofmann1.md
+  - author/michael-hofmann1.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811219259
-  - 9780811219327
+  - isbn: 9780811219259
+    binding: paperback
+  - isbn: 9780811219327
+    binding: ebook
+featured_image_path:
 _slug: the-leviathan
 ---
 

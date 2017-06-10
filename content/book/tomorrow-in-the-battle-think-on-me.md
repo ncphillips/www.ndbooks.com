@@ -1,19 +1,22 @@
 ---
 title: "Tomorrow in the Battle Think on Me"
 draft: false
-date: 2001-10-01T05:00:24-04:00
-publication_date: 2001-10-01T05:00:24-04:00
+date: 2001-10-01T05:00:24.000Z
+publication_date: 2001-10-01T05:00:24.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/javier-marias.md
+  - author/javier-marias.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811214827
+  - isbn: 9780811214827
+    binding: paperback
+featured_image_path:
 _slug: tomorrow-in-the-battle-think-on-me
 ---
 

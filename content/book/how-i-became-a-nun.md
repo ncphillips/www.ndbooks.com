@@ -1,21 +1,24 @@
 ---
 title: "How I Became a Nun"
 draft: false
-date: 2008-02-01T06:00:00-04:00
-publication_date: 2008-02-01T06:00:00-04:00
+date: 2008-02-01T06:00:00.000Z
+publication_date: 2008-02-01T06:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: spanish
 author:
-  - contributor/cesar-aira.md
+  - author/cesar-aira.md
 translator:
-  - contributor/chris-andrews.md
+  - author/chris-andrews.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216319
-  - 9780811219822
+  - isbn: 9780811216319
+    binding: paperback
+  - isbn: 9780811219822
+    binding: ebook
+featured_image_path:
 _slug: how-i-became-a-nun
 ---
 

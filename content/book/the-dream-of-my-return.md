@@ -1,21 +1,24 @@
 ---
 title: "The Dream of My Return"
 draft: false
-date: 2015-03-10T14:41:00-04:00
-publication_date: 2015-03-10T14:41:00-04:00
+date: 2015-03-10T14:41:00.000Z
+publication_date: 2015-03-10T14:41:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/horacio-castellanos-moya.md
+  - author/horacio-castellanos-moya.md
 translator:
-  - contributor/katherine-silver.md
+  - author/katherine-silver.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811223430
-  - 9780811223447
+  - isbn: 9780811223430
+    binding: paperback
+  - isbn: 9780811223447
+    binding: ebook
+featured_image_path:
 _slug: the-dream-of-my-return
 ---
 

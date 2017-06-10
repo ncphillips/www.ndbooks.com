@@ -1,20 +1,24 @@
 ---
 title: "Shadowlife"
 draft: false
-date: 1991-03-01T06:00:37-04:00
-publication_date: 1991-03-01T06:00:37-04:00
+date: 1991-03-01T06:00:37.000Z
+publication_date: 1991-03-01T06:00:37.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/martin-grzimek.md
+  - author/martin-grzimek.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811211529
-  - 9780811211512
+  - isbn: 9780811211529
+    binding: paperback
+  - isbn: 9780811211512
+    binding: clothbound
+featured_image_path:
 _slug: shadowlife
 ---
 

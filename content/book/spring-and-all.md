@@ -1,20 +1,24 @@
 ---
 title: "Spring and All"
 draft: false
-date: 2011-07-13T14:28:00-04:00
-publication_date: 2011-07-13T14:28:00-04:00
+date: 2011-07-13T14:28:00.000Z
+publication_date: 2011-07-13T14:28:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/william-carlos-williams.md
+  - author/william-carlos-williams.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218917
-  - 9780811223218
+  - isbn: 9780811218917
+    binding: paperback
+  - isbn: 9780811223218
+    binding: ebook
+featured_image_path:
 _slug: spring-and-all
 ---
 

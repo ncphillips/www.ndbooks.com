@@ -1,19 +1,22 @@
 ---
 title: "The Invention of Influence"
 draft: false
-date: 2014-01-29T21:23:00-04:00
-publication_date: 2014-01-29T21:23:00-04:00
+date: 2014-01-29T21:23:00.000Z
+publication_date: 2014-01-29T21:23:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/peter-cole.md
+  - author/peter-cole.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811221726
+  - isbn: 9780811221726
+    binding: paperback
+featured_image_path:
 _slug: the-invention-of-influence
 ---
 

@@ -1,20 +1,22 @@
 ---
 title: "The Selected Poems Of Po Chu-I"
 draft: false
-date: 1999-06-01T05:00:11-04:00
-publication_date: 1999-06-01T05:00:11-04:00
+date: 1999-06-01T05:00:11.000Z
+publication_date: 1999-06-01T05:00:11.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/po-chu-i.md
+  - author/po-chu-i.md
 translator:
-  - contributor/david-hinton.md
+  - author/david-hinton.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811214124
+  - isbn: 9780811214124
+    binding: paperback
+featured_image_path:
 _slug: the-selected-poems-of-po-chu-i
 ---
 

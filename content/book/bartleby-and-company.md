@@ -1,22 +1,26 @@
 ---
 title: "Bartleby & Co."
 draft: false
-date: 2007-12-01T06:00:00-04:00
-publication_date: 2007-12-01T06:00:00-04:00
+date: 2007-12-01T06:00:00.000Z
+publication_date: 2007-12-01T06:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: spanish
 author:
-  - contributor/enrique-vila-matas.md
+  - author/enrique-vila-matas.md
 translator:
-  - contributor/jonathan-dunne.md
+  - author/jonathan-dunne.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216982
-  - 9780811215916
-  - 9780811221535
+  - isbn: 9780811216982
+    binding: paperback
+  - isbn: 9780811215916
+    binding: clothbound
+  - isbn: 9780811221535
+    binding: ebook
+featured_image_path:
 _slug: bartleby-and-company
 ---
 

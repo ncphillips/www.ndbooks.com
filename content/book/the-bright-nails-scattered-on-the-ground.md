@@ -1,19 +1,22 @@
 ---
 title: "The Bright Nails Scattered On The Ground"
 draft: false
-date: 1986-05-01T05:00:00-04:00
-publication_date: 1986-05-01T05:00:00-04:00
+date: 1986-05-01T05:00:00.000Z
+publication_date: 1986-05-01T05:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/allen-grossman.md
+  - author/allen-grossman.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811209762
+  - isbn: 9780811209762
+    binding: paperback
+featured_image_path:
 _slug: the-bright-nails-scattered-on-the-ground
 ---
 

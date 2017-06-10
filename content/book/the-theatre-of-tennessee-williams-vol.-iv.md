@@ -1,20 +1,24 @@
 ---
 title: "The Theatre Of Tennessee Williams, Vol. IV"
 draft: false
-date: 1993-11-01T06:00:47-04:00
-publication_date: 1993-11-01T06:00:47-04:00
+date: 1993-11-01T06:00:47.000Z
+publication_date: 1993-11-01T06:00:47.000Z
 subtitle:
 genre: theater
 subgenre:
 language:
 author:
-  - contributor/tennessee-williams.md
+  - author/tennessee-williams.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811212571
-  - 9780811204224
+  - isbn: 9780811212571
+    binding: paperback
+  - isbn: 9780811204224
+    binding: clothbound
+featured_image_path:
 _slug: the-theatre-of-tennessee-williams-vol.-iv
 ---
 

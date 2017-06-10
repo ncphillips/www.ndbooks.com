@@ -1,22 +1,25 @@
 ---
 title: "Mirages of the Mind"
 draft: false
-date: 2015-06-16T19:12:00-04:00
-publication_date: 2015-07-08T02:00:00-04:00
+date: 2015-06-16T19:12:00.000Z
+publication_date: 2015-07-08T02:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: urdu
 author:
-  - contributor/mushtaq-ahmed-yousufi1.md
+  - author/mushtaq-ahmed-yousufi1.md
 translator:
-  - contributor/matt-reeck.md
-  - contributor/aftab-ahmad.md
+  - author/matt-reeck.md
+  - author/aftab-ahmad.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811224130
-  - 9780811224147
+  - isbn: 9780811224130
+    binding: paperback
+  - isbn: 9780811224147
+    binding: ebook
+featured_image_path:
 _slug: mirages-of-the-mind
 ---
 

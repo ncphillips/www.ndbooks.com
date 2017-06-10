@@ -1,20 +1,24 @@
 ---
 title: "Bakkhai"
 draft: false
-date: 2017-03-10T19:40:00-04:00
-publication_date: 2017-12-21T05:00:00-04:00
+date: 2017-03-10T19:40:00.000Z
+publication_date: 2017-12-21T05:00:00.000Z
 subtitle:
 genre: theater
 subgenre:
 language: greek
 author:
-  - contributor/anne-carson.md
+  - author/anne-carson.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811227100
-  - 9780811227117
+  - isbn: 9780811227100
+    binding: clothbound
+  - isbn: 9780811227117
+    binding: ebook
+featured_image_path:
 _slug: bakkhai
 ---
 

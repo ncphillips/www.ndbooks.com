@@ -1,19 +1,22 @@
 ---
 title: "Driven to Abstraction"
 draft: false
-date: 2010-11-30T14:28:13-04:00
-publication_date: 2010-11-30T14:28:13-04:00
+date: 2010-11-30T14:28:13.000Z
+publication_date: 2010-11-30T14:28:13.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/rosmarie-waldrop.md
+  - author/rosmarie-waldrop.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218795
+  - isbn: 9780811218795
+    binding: paperback
+featured_image_path:
 _slug: driven-to-abstraction
 ---
 

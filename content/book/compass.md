@@ -1,21 +1,24 @@
 ---
 title: "Compass"
 draft: false
-date: 2016-07-11T15:10:00-04:00
-publication_date: 2017-03-28T04:00:00-04:00
+date: 2016-07-11T15:10:00.000Z
+publication_date: 2017-03-28T04:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: french
 author:
-  - contributor/mathias-énard.md
+  - author/mathias-énard.md
 translator:
-  - contributor/charlotte-mandell.md
+  - author/charlotte-mandell.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811226622
-  - 9780811226639
+  - isbn: 9780811226622
+    binding: clothbound
+  - isbn: 9780811226639
+    binding: ebook
+featured_image_path:
 _slug: compass
 ---
 

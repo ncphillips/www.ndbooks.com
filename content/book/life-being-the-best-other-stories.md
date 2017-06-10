@@ -1,20 +1,23 @@
 ---
 title: "Life Being the Best & Other Stories"
 draft: false
-date: 1988-04-01T06:00:33-04:00
-publication_date: 1988-04-01T06:00:33-04:00
+date: 1988-04-01T06:00:33.000Z
+publication_date: 1988-04-01T06:00:33.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language:
 author:
-  - contributor/kay-boyle.md
+  - author/kay-boyle.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811210539
+  - isbn: 9780811210539
+    binding: paperback
+featured_image_path:
 _slug: life-being-the-best-other-stories
 ---
 

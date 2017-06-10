@@ -1,20 +1,22 @@
 ---
 title: "All Souls"
 draft: false
-date: 2000-11-01T06:00:30-04:00
-publication_date: 2000-11-01T06:00:30-04:00
+date: 2000-11-01T06:00:30.000Z
+publication_date: 2000-11-01T06:00:30.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/javier-marias.md
+  - author/javier-marias.md
 translator:
-  - contributor/margaret-jull-costa.md
+  - author/margaret-jull-costa.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811214537
+  - isbn: 9780811214537
+    binding: paperback
+featured_image_path:
 _slug: all-souls
 ---
 

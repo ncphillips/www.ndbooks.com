@@ -1,20 +1,22 @@
 ---
 title: "Songs Of Love, Moon & Wind"
 draft: false
-date: 2009-04-01T05:00:00-04:00
-publication_date: 2009-04-01T05:00:00-04:00
+date: 2009-04-01T05:00:00.000Z
+publication_date: 2009-04-01T05:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language: portuguese
 author:
-  - contributor/kenneth-rexroth.md
+  - author/kenneth-rexroth.md
 translator:
+
 editor:
-  - contributor/eliot-weinberger.md
-featured_image_path:
+  - author/eliot-weinberger.md
 editions:
-  - 9780811218368
+  - isbn: 9780811218368
+    binding: paperback
+featured_image_path:
 _slug: songs-of-love-moon-wind
 ---
 

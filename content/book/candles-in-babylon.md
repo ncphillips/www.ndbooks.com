@@ -1,19 +1,22 @@
 ---
 title: "Candles In Babylon"
 draft: false
-date: 1982-05-01T05:00:25-04:00
-publication_date: 1982-05-01T05:00:25-04:00
+date: 1982-05-01T05:00:25.000Z
+publication_date: 1982-05-01T05:00:25.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/denise-levertov.md
+  - author/denise-levertov.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811208314
+  - isbn: 9780811208314
+    binding: paperback
+featured_image_path:
 _slug: candles-in-babylon
 ---
 

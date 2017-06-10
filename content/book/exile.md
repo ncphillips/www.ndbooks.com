@@ -1,19 +1,22 @@
 ---
 title: "Exile"
 draft: false
-date: 1979-11-01T06:00:35-04:00
-publication_date: 1979-11-01T06:00:35-04:00
+date: 1979-11-01T06:00:35.000Z
+publication_date: 1979-11-01T06:00:35.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/robert-nichols.md
+  - author/robert-nichols.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811207324
+  - isbn: 9780811207324
+    binding: paperback
+featured_image_path:
 _slug: exile
 ---
 

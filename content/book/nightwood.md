@@ -1,20 +1,24 @@
 ---
 title: "Nightwood"
 draft: false
-date: 2008-09-01T05:00:00-04:00
-publication_date: 2008-09-01T05:00:00-04:00
+date: 2008-09-01T05:00:00.000Z
+publication_date: 2008-09-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/djuna-barnes.md
+  - author/djuna-barnes.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216715
-  - 9780811221436
+  - isbn: 9780811216715
+    binding: paperback
+  - isbn: 9780811221436
+    binding: ebook
+featured_image_path:
 _slug: nightwood
 ---
 

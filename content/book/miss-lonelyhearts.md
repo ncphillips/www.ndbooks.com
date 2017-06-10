@@ -1,19 +1,22 @@
 ---
 title: "Miss Lonelyhearts"
 draft: false
-date: 2013-07-17T15:25:00-04:00
-publication_date: 2013-07-17T15:25:00-04:00
+date: 2013-07-17T15:25:00.000Z
+publication_date: 2013-07-17T15:25:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/nathanael-west-n.md
+  - author/nathanael-west-n.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811220934
+  - isbn: 9780811220934
+    binding: paperback
+featured_image_path:
 _slug: miss-lonelyhearts
 ---
 

@@ -1,22 +1,26 @@
 ---
 title: "Your Face Tomorrow Vol. 2: Dance & Dream"
 draft: false
-date: 2008-05-01T05:00:00-04:00
-publication_date: 2008-05-01T05:00:00-04:00
+date: 2008-05-01T05:00:00.000Z
+publication_date: 2008-05-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: spanish
 author:
-  - contributor/javier-marias.md
+  - author/javier-marias.md
 translator:
-  - contributor/margaret-jull-costa.md
+  - author/margaret-jull-costa.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217491
-  - 9780811216562
-  - 9780811223904
+  - isbn: 9780811217491
+    binding: paperback
+  - isbn: 9780811216562
+    binding: clothbound
+  - isbn: 9780811223904
+    binding: ebook
+featured_image_path:
 _slug: your-face-tomorrow-vol.-2-dance-dream
 ---
 

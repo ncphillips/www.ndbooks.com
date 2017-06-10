@@ -1,21 +1,25 @@
 ---
 title: "One-Way Ticket"
 draft: false
-date: 1996-11-01T06:00:50-04:00
-publication_date: 1996-11-01T06:00:50-04:00
+date: 1996-11-01T06:00:50.000Z
+publication_date: 1996-11-01T06:00:50.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language:
 author:
-  - contributor/zinovy-zinik.md
+  - author/zinovy-zinik.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217927
-  - 9780811213417
+  - isbn: 9780811217927
+    binding: paperback
+  - isbn: 9780811213417
+    binding: clothbound
+featured_image_path:
 _slug: one-way-ticket
 ---
 

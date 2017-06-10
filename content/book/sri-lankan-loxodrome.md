@@ -1,19 +1,22 @@
 ---
 title: "Sri Lankan Loxodrome"
 draft: false
-date: 2009-09-01T05:00:00-04:00
-publication_date: 2009-09-01T05:00:00-04:00
+date: 2009-09-01T05:00:00.000Z
+publication_date: 2009-09-01T05:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/will-alexander.md
+  - author/will-alexander.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218290
+  - isbn: 9780811218290
+    binding: paperback
+featured_image_path:
 _slug: sri-lankan-loxodrome
 ---
 

@@ -1,19 +1,22 @@
 ---
 title: "Judgment At Nuremberg"
 draft: false
-date: 2002-11-01T06:00:11-04:00
-publication_date: 2002-11-01T06:00:11-04:00
+date: 2002-11-01T06:00:11.000Z
+publication_date: 2002-11-01T06:00:11.000Z
 subtitle:
 genre: theater
 subgenre:
 language:
 author:
-  - contributor/abby-mann.md
+  - author/abby-mann.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811215268
+  - isbn: 9780811215268
+    binding: paperback
+featured_image_path:
 _slug: judgment-at-nuremberg
 ---
 

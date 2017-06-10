@@ -1,20 +1,24 @@
 ---
 title: "Selected Poems of Jimmy Santiago Baca"
 draft: false
-date: 2009-08-01T05:00:00-04:00
-publication_date: 2009-08-01T05:00:00-04:00
+date: 2009-08-01T05:00:00.000Z
+publication_date: 2009-08-01T05:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/jimmy-baca.md
+  - author/jimmy-baca.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218160
-  - 9780811223331
+  - isbn: 9780811218160
+    binding: paperback
+  - isbn: 9780811223331
+    binding: ebook
+featured_image_path:
 _slug: selected-poems-bilingual
 ---
 

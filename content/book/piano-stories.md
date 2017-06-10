@@ -1,21 +1,24 @@
 ---
 title: "Piano Stories"
 draft: false
-date: 2014-01-27T21:35:00-04:00
-publication_date: 2014-01-27T21:35:00-04:00
+date: 2014-01-27T21:35:00.000Z
+publication_date: 2014-01-27T21:35:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: spanish
 author:
-  - contributor/felisberto-hernandez.md
+  - author/felisberto-hernandez.md
 translator:
-  - contributor/luis-harss.md
+  - author/luis-harss.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811221801
-  - 9780811221818
+  - isbn: 9780811221801
+    binding: paperback
+  - isbn: 9780811221818
+    binding: ebook
+featured_image_path:
 _slug: piano-stories
 ---
 

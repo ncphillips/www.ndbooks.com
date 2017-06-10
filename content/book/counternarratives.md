@@ -1,22 +1,27 @@
 ---
 title: "Counternarratives"
 draft: false
-date: 2015-01-20T04:50:00-04:00
-publication_date: 2016-05-17T13:00:00-04:00
+date: 2015-01-20T04:50:00.000Z
+publication_date: 2016-05-17T13:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language:
 author:
-  - contributor/john-keene.md
+  - author/john-keene.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811225526
-  - 9780811224345
-  - 9780811224352
+  - isbn: 9780811225526
+    binding: paperback
+  - isbn: 9780811224345
+    binding: clothbound
+  - isbn: 9780811224352
+    binding: ebook
+featured_image_path:
 _slug: counternarratives
 ---
 

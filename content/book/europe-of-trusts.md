@@ -1,19 +1,22 @@
 ---
 title: "The Europe Of Trusts"
 draft: false
-date: 2002-04-01T06:00:00-04:00
-publication_date: 2002-04-01T06:00:00-04:00
+date: 2002-04-01T06:00:00.000Z
+publication_date: 2002-04-01T06:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/susan-howe.md
+  - author/susan-howe.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811215077
+  - isbn: 9780811215077
+    binding: paperback
+featured_image_path:
 _slug: europe-of-trusts
 ---
 

@@ -1,21 +1,23 @@
 ---
 title: "Love Is Like Park Avenue"
 draft: false
-date: 2009-08-01T05:00:09-04:00
-publication_date: 2009-08-01T05:00:09-04:00
+date: 2009-08-01T05:00:09.000Z
+publication_date: 2009-08-01T05:00:09.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - essay
 language:
 author:
-  - contributor/alvin-levin.md
+  - author/alvin-levin.md
 translator:
+
 editor:
-  - contributor/james-reidel.md
-featured_image_path:
+  - author/james-reidel.md
 editions:
-  - 9780811217996
+  - isbn: 9780811217996
+    binding: paperback
+featured_image_path:
 _slug: love-is-like-park-avenue
 ---
 

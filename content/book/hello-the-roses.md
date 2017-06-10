@@ -1,19 +1,22 @@
 ---
 title: "Hello, the Roses"
 draft: false
-date: 2013-04-24T14:38:00-04:00
-publication_date: 2013-04-24T14:38:00-04:00
+date: 2013-04-24T14:38:00.000Z
+publication_date: 2013-04-24T14:38:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/mei-mei-berssenbrugge.md
+  - author/mei-mei-berssenbrugge.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811220910
+  - isbn: 9780811220910
+    binding: paperback
+featured_image_path:
 _slug: hello-the-roses
 ---
 

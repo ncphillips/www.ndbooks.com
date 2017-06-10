@@ -1,19 +1,22 @@
 ---
 title: "Mountain Home"
 draft: false
-date: 2005-05-01T05:00:05-04:00
-publication_date: 2005-05-01T05:00:05-04:00
+date: 2005-05-01T05:00:05.000Z
+publication_date: 2005-05-01T05:00:05.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/david-hinton.md
+  - author/david-hinton.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216241
+  - isbn: 9780811216241
+    binding: paperback
+featured_image_path:
 _slug: mountain-home
 ---
 

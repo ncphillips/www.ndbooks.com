@@ -1,25 +1,28 @@
 ---
 title: "Professor Borges"
 draft: false
-date: 2013-07-31T18:58:00-04:00
-publication_date: 2013-07-31T18:58:00-04:00
+date: 2013-07-31T18:58:00.000Z
+publication_date: 2013-07-31T18:58:00.000Z
 subtitle: "A Course On English Literature"
 genre: nonfiction
 subgenre:
   - essay
 language: spanish
 author:
-  - contributor/jorge-luis-borges.md
+  - author/jorge-luis-borges.md
 translator:
-  - contributor/katherine-silver.md
+  - author/katherine-silver.md
 editor:
-  - contributor/martin-arias.md
-  - contributor/martin-hadis.md
-featured_image_path:
+  - author/martin-arias.md
+  - author/martin-hadis.md
 editions:
-  - 9780811222747
-  - 9780811218757
-  - 9780811221177
+  - isbn: 9780811222747
+    binding: paperback
+  - isbn: 9780811218757
+    binding: clothbound
+  - isbn: 9780811221177
+    binding: ebook
+featured_image_path:
 _slug: professor-borges
 ---
 

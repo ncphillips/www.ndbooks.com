@@ -1,19 +1,22 @@
 ---
 title: "Ground Work"
 draft: false
-date: 2006-04-01T06:00:07-04:00
-publication_date: 2006-04-01T06:00:07-04:00
+date: 2006-04-01T06:00:07.000Z
+publication_date: 2006-04-01T06:00:07.000Z
 subtitle: "Before The War / In The Dark"
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/robert-duncan.md
+  - author/robert-duncan.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216531
+  - isbn: 9780811216531
+    binding: paperback
+featured_image_path:
 _slug: ground-work-before-the-war-in-the-dark
 ---
 

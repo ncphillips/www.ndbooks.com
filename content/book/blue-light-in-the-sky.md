@@ -1,20 +1,23 @@
 ---
 title: "Blue Light in the Sky"
 draft: false
-date: 2006-06-01T05:00:00-04:00
-publication_date: 2006-06-01T05:00:00-04:00
+date: 2006-06-01T05:00:00.000Z
+publication_date: 2006-06-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language: chinese
 author:
-  - contributor/can-xue.md
+  - author/can-xue.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216487
+  - isbn: 9780811216487
+    binding: paperback
+featured_image_path:
 _slug: blue-light-in-the-sky
 ---
 

@@ -1,20 +1,24 @@
 ---
 title: "Light Up the Cave"
 draft: false
-date: 1982-01-01T06:00:52-04:00
-publication_date: 1982-01-01T06:00:52-04:00
+date: 1982-01-01T06:00:52.000Z
+publication_date: 1982-01-01T06:00:52.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/denise-levertov.md
+  - author/denise-levertov.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811208141
-  - 9780811208130
+  - isbn: 9780811208141
+    binding: paperback
+  - isbn: 9780811208130
+    binding: clothbound
+featured_image_path:
 _slug: light-up-the-cave
 ---
 

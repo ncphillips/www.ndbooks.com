@@ -1,20 +1,24 @@
 ---
 title: "This Great Unknowing"
 draft: false
-date: 2000-09-01T05:00:00-04:00
-publication_date: 2000-09-01T05:00:00-04:00
+date: 2000-09-01T05:00:00.000Z
+publication_date: 2000-09-01T05:00:00.000Z
 subtitle: "Last Poems"
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/denise-levertov.md
+  - author/denise-levertov.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811214582
-  - 9780811223195
+  - isbn: 9780811214582
+    binding: paperback
+  - isbn: 9780811223195
+    binding: ebook
+featured_image_path:
 _slug: this-great-unknowing-last-poems
 ---
 

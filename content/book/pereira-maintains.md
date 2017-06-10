@@ -1,19 +1,22 @@
 ---
 title: "Pereira Maintains "
 draft: false
-date: 2016-03-07T20:31:00-04:00
-publication_date: 2017-02-28T05:00:00-04:00
+date: 2016-03-07T20:31:00.000Z
+publication_date: 2017-02-28T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: italian
 author:
-  - contributor/antonio-tabucchi.md
+  - author/antonio-tabucchi.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811226172
+  - isbn: 9780811226172
+    binding: paperback
+featured_image_path:
 _slug: pereira-maintains
 ---
 

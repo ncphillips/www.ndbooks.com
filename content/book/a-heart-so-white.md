@@ -1,21 +1,24 @@
 ---
 title: "A Heart So White"
 draft: false
-date: 2002-05-01T05:00:08-04:00
-publication_date: 2002-05-01T05:00:08-04:00
+date: 2002-05-01T05:00:08.000Z
+publication_date: 2002-05-01T05:00:08.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/javier-marias.md
+  - author/javier-marias.md
 translator:
-  - contributor/margaret-jull-costa.md
+  - author/margaret-jull-costa.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811215053
-  - 9780811214520
+  - isbn: 9780811215053
+    binding: paperback
+  - isbn: 9780811214520
+    binding: clothbound
+featured_image_path:
 _slug: a-heart-so-white
 ---
 

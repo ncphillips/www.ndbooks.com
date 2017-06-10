@@ -1,21 +1,26 @@
 ---
 title: "Loitering with Intent"
 draft: false
-date: 2014-05-27T15:11:00-04:00
-publication_date: 2014-05-27T15:11:00-04:00
+date: 2014-05-27T15:11:00.000Z
+publication_date: 2014-05-27T15:11:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/muriel-spark.md
+  - author/muriel-spark.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811223034
-  - 9780811219754
-  - 9780811214742
+  - isbn: 9780811223034
+    binding: paperback
+  - isbn: 9780811219754
+    binding: ebook
+  - isbn: 9780811214742
+    binding: paperback
+featured_image_path:
 _slug: loitering-with-intent1
 ---
 

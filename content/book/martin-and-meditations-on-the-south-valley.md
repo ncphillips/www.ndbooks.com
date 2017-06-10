@@ -1,20 +1,24 @@
 ---
 title: "Martin And Meditations On The South Valley"
 draft: false
-date: 1987-10-01T05:00:00-04:00
-publication_date: 1987-10-01T05:00:00-04:00
+date: 1987-10-01T05:00:00.000Z
+publication_date: 1987-10-01T05:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/jimmy-baca.md
+  - author/jimmy-baca.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811210324
-  - 9780811223324
+  - isbn: 9780811210324
+    binding: paperback
+  - isbn: 9780811223324
+    binding: ebook
+featured_image_path:
 _slug: martin-and-meditations-on-the-south-valley
 ---
 

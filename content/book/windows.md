@@ -1,20 +1,24 @@
 ---
 title: "Windows"
 draft: false
-date: 1990-04-01T06:00:35-04:00
-publication_date: 1990-04-01T06:00:35-04:00
+date: 1990-04-01T06:00:35.000Z
+publication_date: 1990-04-01T06:00:35.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/robert-creeley.md
+  - author/robert-creeley.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811211239
-  - 9780811211222
+  - isbn: 9780811211239
+    binding: paperback
+  - isbn: 9780811211222
+    binding: clothbound
+featured_image_path:
 _slug: windows
 ---
 

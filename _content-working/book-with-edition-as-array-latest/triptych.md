@@ -1,0 +1,21 @@
+---
+title: "Triptych"
+draft: false
+date: 2007-06-01T05:00:37-04:00
+publication_date: 2007-06-01T05:00:37-04:00
+subtitle:
+genre: fiction
+subgenre:
+language:
+author:
+  - contributor/jerome-rothenberg.md
+translator:
+editor:
+featured_image_path:
+editions:
+  - 9780811216920
+_slug: triptych
+---
+
+For the last half of the twentieth century into the new millennium, no other American poet has been as deeply engaged in the opening of the poem (its boundaries and its possibilities) as Jerome Rothenberg. As editor, translator, essayist, performer, groundbreaking anthologist, one of the founding figures of enthnopoetics, and most significantly, as poet, Rothenberg has remapped the art against the grain of a single "great tradition." Reminiscent of H.D.’s _Trilogy_, _Triptych_ assembles three long serial poems into one multilayered sacred text. Like Kafka’s _America_, Calvino’s _Euphemia_, and Babel’s _Odessa_, Rothenberg’s _Poland in Poland/1931_, first published in 1974, is a "poland stuffed with poland / brought in the imagination." Fifteen years later, Poland materializes into _Khurbn_ (a Yiddish word meaning destruction, holocaust, human disaster), a poem summoned from the author’s visit to his ancestral town, Ostrow-Mazowiecka, and the confrontation with his family’s annihilation––including an uncle who killed himself––during World War II. "Allowing my uncle’s khurbn to speak through me..." the author writes, "the poems are the clearest message I have ever gotten about why I write poetry." And now in 2006, _The Burning Babe_ rises out of the furnace of khurbn, "reaching through the ruins / for a place to soar"....
+

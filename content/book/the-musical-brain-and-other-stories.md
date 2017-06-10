@@ -1,21 +1,24 @@
 ---
 title: "The Musical Brain"
 draft: false
-date: 2015-01-03T15:42:00-04:00
-publication_date: 2015-03-03T15:42:00-04:00
+date: 2015-01-03T15:42:00.000Z
+publication_date: 2015-03-03T15:42:00.000Z
 subtitle: "and Other Stories"
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/cesar-aira.md
+  - author/cesar-aira.md
 translator:
-  - contributor/chris-andrews.md
+  - author/chris-andrews.md
 editor:
-featured_image_path: /uploads/1423846966312_9780811220293.gif
+
 editions:
-  - 9780811220293
-  - 9780811224185
+  - isbn: 9780811220293
+    binding: clothbound
+  - isbn: 9780811224185
+    binding: ebook
+featured_image_path: /uploads/1423846966312_9780811220293.gif
 _slug: the-musical-brain-and-other-stories
 ---
 

@@ -1,19 +1,22 @@
 ---
 title: "In a Hotel Garden"
 draft: false
-date: 1995-05-01T05:00:50-04:00
-publication_date: 1995-05-01T05:00:50-04:00
+date: 1995-05-01T05:00:50.000Z
+publication_date: 1995-05-01T05:00:50.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/gabriel-josipovici.md
+  - author/gabriel-josipovici.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811212915
+  - isbn: 9780811212915
+    binding: paperback
+featured_image_path:
 _slug: in-a-hotel-garden
 ---
 

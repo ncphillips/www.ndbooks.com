@@ -1,21 +1,26 @@
 ---
 title: "Personae"
 draft: false
-date: 1990-04-01T06:00:00-04:00
-publication_date: 1990-04-01T06:00:00-04:00
+date: 1990-04-01T06:00:00.000Z
+publication_date: 1990-04-01T06:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/ezra-pound.md
+  - author/ezra-pound.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811211383
-  - 9780811211208
-  - 9780811222471
+  - isbn: 9780811211383
+    binding: paperback
+  - isbn: 9780811211208
+    binding: clothbound
+  - isbn: 9780811222471
+    binding: ebook
+featured_image_path:
 _slug: personae
 ---
 

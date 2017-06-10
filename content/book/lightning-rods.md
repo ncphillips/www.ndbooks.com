@@ -1,21 +1,26 @@
 ---
 title: "Lightning Rods"
 draft: false
-date: 2012-10-05T14:28:00-04:00
-publication_date: 2012-10-05T14:28:00-04:00
+date: 2012-10-05T14:28:00.000Z
+publication_date: 2012-10-05T14:28:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/helen-dewitt.md
+  - author/helen-dewitt.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811220347
-  - 9780811219433
-  - 9780811219525
+  - isbn: 9780811220347
+    binding: paperback
+  - isbn: 9780811219433
+    binding: clothbound
+  - isbn: 9780811219525
+    binding: ebook
+featured_image_path:
 _slug: lightning-rods
 ---
 

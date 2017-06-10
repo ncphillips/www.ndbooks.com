@@ -1,20 +1,23 @@
 ---
 title: "Active Boundaries"
 draft: false
-date: 2008-08-01T05:00:22-04:00
-publication_date: 2008-08-01T05:00:22-04:00
+date: 2008-08-01T05:00:22.000Z
+publication_date: 2008-08-01T05:00:22.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - essay
 language:
 author:
-  - contributor/michael-palmer.md
+  - author/michael-palmer.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217545
+  - isbn: 9780811217545
+    binding: paperback
+featured_image_path:
 _slug: active-boundaries
 ---
 

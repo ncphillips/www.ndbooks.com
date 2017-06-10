@@ -1,20 +1,22 @@
 ---
 title: "Tres"
 draft: false
-date: 2011-09-30T14:28:00-04:00
-publication_date: 2011-09-30T14:28:00-04:00
+date: 2011-09-30T14:28:00.000Z
+publication_date: 2011-09-30T14:28:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/roberto-bolano.md
+  - author/roberto-bolano.md
 translator:
-  - contributor/laura-healy.md
+  - author/laura-healy.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811219273
+  - isbn: 9780811219273
+    binding: clothbound
+featured_image_path:
 _slug: tres
 ---
 

@@ -1,22 +1,26 @@
 ---
 title: "Antwerp"
 draft: false
-date: 2010-04-01T05:00:00-04:00
-publication_date: 2010-04-01T05:00:00-04:00
+date: 2010-04-01T05:00:00.000Z
+publication_date: 2010-04-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: spanish
 author:
-  - contributor/roberto-bolano.md
+  - author/roberto-bolano.md
 translator:
-  - contributor/natasha-wimmer.md
+  - author/natasha-wimmer.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811219914
-  - 9780811217170
-  - 9780811220491
+  - isbn: 9780811219914
+    binding: paperback
+  - isbn: 9780811217170
+    binding: clothbound
+  - isbn: 9780811220491
+    binding: ebook
+featured_image_path:
 _slug: antwerp
 ---
 

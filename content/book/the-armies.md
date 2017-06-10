@@ -1,20 +1,22 @@
 ---
 title: "The Armies"
 draft: false
-date: 2009-09-01T05:00:00-04:00
-publication_date: 2009-09-01T05:00:00-04:00
+date: 2009-09-01T05:00:00.000Z
+publication_date: 2009-09-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: spanish
 author:
-  - contributor/evelio-rosero.md
+  - author/evelio-rosero.md
 translator:
-  - contributor/anne-mclean.md
+  - author/anne-mclean.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218641
+  - isbn: 9780811218641
+    binding: paperback
+featured_image_path:
 _slug: the-armies
 ---
 

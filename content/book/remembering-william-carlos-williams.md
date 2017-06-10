@@ -1,20 +1,23 @@
 ---
 title: "Remembering William Carlos Williams"
 draft: false
-date: 1995-10-01T05:00:08-04:00
-publication_date: 1995-10-01T05:00:08-04:00
+date: 1995-10-01T05:00:08.000Z
+publication_date: 1995-10-01T05:00:08.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - memoir
 language:
 author:
-  - contributor/james-laughlin.md
+  - author/james-laughlin.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811213073
+  - isbn: 9780811213073
+    binding: paperback
+featured_image_path:
 _slug: remembering-william-carlos-williams
 ---
 

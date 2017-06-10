@@ -1,19 +1,22 @@
 ---
 title: "The Tale of a Dog"
 draft: false
-date: 1999-01-01T06:00:21-04:00
-publication_date: 1999-01-01T06:00:21-04:00
+date: 1999-01-01T06:00:21.000Z
+publication_date: 1999-01-01T06:00:21.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/lars-gustafsson.md
+  - author/lars-gustafsson.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811213950
+  - isbn: 9780811213950
+    binding: paperback
+featured_image_path:
 _slug: the-tale-of-a-dog
 ---
 

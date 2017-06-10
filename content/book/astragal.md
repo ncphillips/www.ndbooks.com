@@ -1,20 +1,24 @@
 ---
 title: "Astragal"
 draft: false
-date: 2013-04-26T17:31:00-04:00
-publication_date: 2013-03-26T17:31:00-04:00
+date: 2013-04-26T17:31:00.000Z
+publication_date: 2013-03-26T17:31:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: french
 author:
-  - contributor/albertine-sarrazin.md
+  - author/albertine-sarrazin.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811220736
-  - 9780811220743
+  - isbn: 9780811220736
+    binding: paperback
+  - isbn: 9780811220743
+    binding: ebook
+featured_image_path:
 _slug: astragal
 ---
 

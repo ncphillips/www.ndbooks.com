@@ -1,21 +1,24 @@
 ---
 title: "Headhunter"
 draft: false
-date: 1994-01-01T06:00:33-04:00
-publication_date: 1994-01-01T06:00:33-04:00
+date: 1994-01-01T06:00:33.000Z
+publication_date: 1994-01-01T06:00:33.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/uwe-timm.md
+  - author/uwe-timm.md
 translator:
-  - contributor/peter-tegel.md
+  - author/peter-tegel.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217897
-  - 9780811212540
+  - isbn: 9780811217897
+    binding: paperback
+  - isbn: 9780811212540
+    binding: clothbound
+featured_image_path:
 _slug: headhunter
 ---
 

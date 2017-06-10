@@ -1,19 +1,22 @@
 ---
 title: "Sweet Bird Of Youth"
 draft: false
-date: 2008-10-01T05:00:19-04:00
-publication_date: 2008-10-01T05:00:19-04:00
+date: 2008-10-01T05:00:19.000Z
+publication_date: 2008-10-01T05:00:19.000Z
 subtitle:
 genre: theater
 subgenre:
 language:
 author:
-  - contributor/tennessee-williams.md
+  - author/tennessee-williams.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218078
+  - isbn: 9780811218078
+    binding: paperback
+featured_image_path:
 _slug: sweet-bird-of-youth
 ---
 

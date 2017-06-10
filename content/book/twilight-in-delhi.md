@@ -1,19 +1,22 @@
 ---
 title: "Twilight in Delhi"
 draft: false
-date: 1994-05-01T05:00:39-04:00
-publication_date: 1994-05-01T05:00:39-04:00
+date: 1994-05-01T05:00:39.000Z
+publication_date: 1994-05-01T05:00:39.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/ahmed-ali.md
+  - author/ahmed-ali.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811212670
+  - isbn: 9780811212670
+    binding: paperback
+featured_image_path:
 _slug: twilight-in-delhi
 ---
 

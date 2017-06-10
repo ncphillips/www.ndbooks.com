@@ -1,20 +1,24 @@
 ---
 title: "A Child’s Christmas in Wales"
 draft: false
-date: 2007-11-01T05:00:00-04:00
-publication_date: 2016-10-25T23:00:00-04:00
+date: 2007-11-01T05:00:00.000Z
+publication_date: 2016-10-25T23:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/dylan-thomas-d.md
+  - author/dylan-thomas-d.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811226226
-  - 9780811224703
+  - isbn: 9780811226226
+    binding: paperback
+  - isbn: 9780811224703
+    binding: ebook
+featured_image_path:
 _slug: a-childs-christmas-in-wales
 ---
 

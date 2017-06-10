@@ -1,19 +1,22 @@
 ---
 title: "Fully Empowered"
 draft: false
-date: 1995-02-01T06:00:29-04:00
-publication_date: 1995-02-01T06:00:29-04:00
+date: 1995-02-01T06:00:29.000Z
+publication_date: 1995-02-01T06:00:29.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/pablo-neruda.md
+  - author/pablo-neruda.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811212816
+  - isbn: 9780811212816
+    binding: paperback
+featured_image_path:
 _slug: fully-empowered
 ---
 

@@ -1,21 +1,24 @@
 ---
 title: "The Miracle Cures of Dr. Aira"
 draft: false
-date: 2012-10-17T16:46:00-04:00
-publication_date: 2012-10-17T16:46:00-04:00
+date: 2012-10-17T16:46:00.000Z
+publication_date: 2012-10-17T16:46:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: spanish
 author:
-  - contributor/cesar-aira.md
+  - author/cesar-aira.md
 translator:
-  - contributor/katherine-silver.md
+  - author/katherine-silver.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811219990
-  - 9780811220002
+  - isbn: 9780811219990
+    binding: paperback
+  - isbn: 9780811220002
+    binding: ebook
+featured_image_path:
 _slug: the-miracle-cures-of-dr-aira
 ---
 

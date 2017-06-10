@@ -1,22 +1,25 @@
 ---
 title: "Byways"
 draft: false
-date: 2005-02-01T06:00:16-04:00
-publication_date: 2005-02-01T06:00:16-04:00
+date: 2005-02-01T06:00:16.000Z
+publication_date: 2005-02-01T06:00:16.000Z
 subtitle:
 genre: poetry
 subgenre:
   - memoir
 language:
 author:
-  - contributor/james-laughlin.md
+  - author/james-laughlin.md
 translator:
+
 editor:
-  - contributor/peter-glassgold.md
-featured_image_path:
+  - author/peter-glassgold.md
 editions:
-  - 9780811215985
-  - 9780811216173
+  - isbn: 9780811215985
+    binding: paperback
+  - isbn: 9780811216173
+    binding: clothbound
+featured_image_path:
 _slug: byways
 ---
 

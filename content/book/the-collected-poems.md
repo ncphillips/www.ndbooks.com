@@ -1,20 +1,24 @@
 ---
 title: "The Collected Poems Of Denise Levertov"
 draft: false
-date: 2013-11-29T20:31:00-04:00
-publication_date: 2013-11-29T20:31:00-04:00
+date: 2013-11-29T20:31:00.000Z
+publication_date: 2013-11-29T20:31:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/denise-levertov.md
+  - author/denise-levertov.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811221733
-  - 9780811221740
+  - isbn: 9780811221733
+    binding: clothbound
+  - isbn: 9780811221740
+    binding: ebook
+featured_image_path:
 _slug: the-collected-poems
 ---
 

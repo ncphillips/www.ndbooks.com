@@ -1,19 +1,22 @@
 ---
 title: "Poems New and Selected of James Laughlin"
 draft: false
-date: 1998-06-01T05:00:08-04:00
-publication_date: 1998-06-01T05:00:08-04:00
+date: 1998-06-01T05:00:08.000Z
+publication_date: 1998-06-01T05:00:08.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/james-laughlin.md
+  - author/james-laughlin.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811213752
+  - isbn: 9780811213752
+    binding: paperback
+featured_image_path:
 _slug: poems-new-and-selected
 ---
 

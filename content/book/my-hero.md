@@ -1,19 +1,22 @@
 ---
 title: "My Hero"
 draft: false
-date: 2010-01-01T06:00:30-04:00
-publication_date: 2010-01-01T06:00:30-04:00
+date: 2010-01-01T06:00:30.000Z
+publication_date: 2010-01-01T06:00:30.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/maude-hutchins.md
+  - author/maude-hutchins.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218993
+  - isbn: 9780811218993
+    binding: paperback
+featured_image_path:
 _slug: my-hero
 ---
 

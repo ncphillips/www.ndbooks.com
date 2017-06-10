@@ -1,20 +1,24 @@
 ---
 title: "Americus"
 draft: false
-date: 2004-04-01T06:00:46-04:00
-publication_date: 2004-04-01T06:00:46-04:00
+date: 2004-04-01T06:00:46.000Z
+publication_date: 2004-04-01T06:00:46.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/lawrence-ferlinghetti.md
+  - author/lawrence-ferlinghetti.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216418
-  - 9780811215787
+  - isbn: 9780811216418
+    binding: paperback
+  - isbn: 9780811215787
+    binding: clothbound
+featured_image_path:
 _slug: americus
 ---
 

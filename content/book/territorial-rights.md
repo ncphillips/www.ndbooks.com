@@ -1,19 +1,22 @@
 ---
 title: "Territorial Rights"
 draft: false
-date: 2014-04-29T14:12:00-04:00
-publication_date: 2014-04-29T14:12:00-04:00
+date: 2014-04-29T14:12:00.000Z
+publication_date: 2014-04-29T14:12:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/muriel-spark.md
+  - author/muriel-spark.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811222655
+  - isbn: 9780811222655
+    binding: paperback
+featured_image_path:
 _slug: territorial-rights
 ---
 

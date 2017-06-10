@@ -1,19 +1,22 @@
 ---
 title: "Fugitive Kind"
 draft: false
-date: 2001-06-01T05:00:25-04:00
-publication_date: 2001-06-01T05:00:25-04:00
+date: 2001-06-01T05:00:25.000Z
+publication_date: 2001-06-01T05:00:25.000Z
 subtitle:
 genre: theater
 subgenre:
 language:
 author:
-  - contributor/tennessee-williams.md
+  - author/tennessee-williams.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811214728
+  - isbn: 9780811214728
+    binding: paperback
+featured_image_path:
 _slug: fugitive-kind
 ---
 

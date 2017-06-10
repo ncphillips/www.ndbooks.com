@@ -1,8 +1,8 @@
 ---
 title: "Fidelities"
 draft: false
-date: 2011-10-11T16:42:34-04:00
-publication_date: 2011-10-11T16:42:34-04:00
+date: 2011-10-11T16:42:34.000Z
+publication_date: 2011-10-11T16:42:34.000Z
 subtitle:
 genre:
 subgenre:
@@ -10,9 +10,11 @@ language:
 author:
 
 translator:
+
 editor:
-featured_image_path:
+
 editions:
+featured_image_path:
 _slug: fidelities1
 ---
 

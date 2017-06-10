@@ -1,21 +1,24 @@
 ---
 title: "Tropisms"
 draft: false
-date: 2015-04-24T20:39:00-04:00
-publication_date: 2015-11-10T05:00:00-04:00
+date: 2015-04-24T20:39:00.000Z
+publication_date: 2015-11-10T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: french
 author:
-  - contributor/nathalie-sarraute.md
+  - author/nathalie-sarraute.md
 translator:
-  - contributor/maria-jolas.md
+  - author/maria-jolas.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811222761
-  - 9780811222778
+  - isbn: 9780811222761
+    binding: paperback
+  - isbn: 9780811222778
+    binding: ebook
+featured_image_path:
 _slug: tropisms
 ---
 

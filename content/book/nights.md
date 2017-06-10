@@ -1,20 +1,24 @@
 ---
 title: "Nights"
 draft: false
-date: 1986-05-01T05:00:30-04:00
-publication_date: 1986-05-01T05:00:30-04:00
+date: 1986-05-01T05:00:30.000Z
+publication_date: 1986-05-01T05:00:30.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/hilda-doolittle-h.-d.md
+  - author/hilda-doolittle-h.-d.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811209792
-  - 9780811209793
+  - isbn: 9780811209792
+    binding: paperback
+  - isbn: 9780811209793
+    binding: clothbound
+featured_image_path:
 _slug: nights
 ---
 

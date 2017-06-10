@@ -1,8 +1,8 @@
 ---
 title: "Birds, Beasts, and Seas"
 draft: false
-date: 2011-04-29T14:28:45-04:00
-publication_date: 2011-04-29T14:28:45-04:00
+date: 2011-04-29T14:28:45.000Z
+publication_date: 2011-04-29T14:28:45.000Z
 subtitle: "Nature Poems from New Directions"
 genre: poetry
 subgenre:
@@ -11,11 +11,13 @@ language:
 author:
 
 translator:
+
 editor:
-  - contributor/jeffrey-yang-author-page.md
-featured_image_path:
+  - author/jeffrey-yang-author-page.md
 editions:
-  - 9780811219198
+  - isbn: 9780811219198
+    binding: paperback
+featured_image_path:
 _slug: birds-beasts-and-seas
 ---
 

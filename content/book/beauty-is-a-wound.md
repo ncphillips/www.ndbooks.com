@@ -1,21 +1,24 @@
 ---
 title: "Beauty Is a Wound"
 draft: false
-date: 2015-03-18T17:44:00-04:00
-publication_date: 2015-09-08T04:00:00-04:00
+date: 2015-03-18T17:44:00.000Z
+publication_date: 2015-09-08T04:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/eka-kurniawan.md
+  - author/eka-kurniawan.md
 translator:
-  - contributor/annie-tucker.md
+  - author/annie-tucker.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811223638
-  - 9780811223645
+  - isbn: 9780811223638
+    binding: paperback
+  - isbn: 9780811223645
+    binding: ebook
+featured_image_path:
 _slug: beauty-is-a-wound
 ---
 

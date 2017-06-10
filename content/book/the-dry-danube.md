@@ -1,20 +1,24 @@
 ---
 title: "The Dry Danube"
 draft: false
-date: 2000-04-01T06:00:18-04:00
-publication_date: 2000-04-01T06:00:18-04:00
+date: 2000-04-01T06:00:18.000Z
+publication_date: 2000-04-01T06:00:18.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/paul-west-p.md
+  - author/paul-west-p.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217910
-  - 9780811214322
+  - isbn: 9780811217910
+    binding: paperback
+  - isbn: 9780811214322
+    binding: clothbound
+featured_image_path:
 _slug: the-dry-danube
 ---
 

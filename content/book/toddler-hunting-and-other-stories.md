@@ -1,21 +1,25 @@
 ---
 title: "Toddler-Hunting and Other Stories"
 draft: false
-date: 1998-09-01T05:00:00-04:00
-publication_date: 1998-09-01T05:00:00-04:00
+date: 1998-09-01T05:00:00.000Z
+publication_date: 1998-09-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language: japanese
 author:
-  - contributor/taeko-kono.md
+  - author/taeko-kono.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811213912
-  - 9780811213059
+  - isbn: 9780811213912
+    binding: paperback
+  - isbn: 9780811213059
+    binding: clothbound
+featured_image_path:
 _slug: toddler-hunting-and-other-stories
 ---
 

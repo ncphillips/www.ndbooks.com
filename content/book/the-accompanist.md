@@ -1,20 +1,22 @@
 ---
 title: "The Accompanist"
 draft: false
-date: 2003-06-01T05:00:27-04:00
-publication_date: 2003-06-01T05:00:27-04:00
+date: 2003-06-01T05:00:27.000Z
+publication_date: 2003-06-01T05:00:27.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/nina-berberova.md
+  - author/nina-berberova.md
 translator:
-  - contributor/marian-schwartz.md
+  - author/marian-schwartz.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811215343
+  - isbn: 9780811215343
+    binding: paperback
+featured_image_path:
 _slug: the-accompanist
 ---
 

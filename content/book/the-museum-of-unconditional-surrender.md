@@ -1,20 +1,24 @@
 ---
 title: "The Museum of Unconditional Surrender"
 draft: false
-date: 2002-02-01T06:00:00-04:00
-publication_date: 2002-02-01T06:00:00-04:00
+date: 2002-02-01T06:00:00.000Z
+publication_date: 2002-02-01T06:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/dubravka-ugresic.md
+  - author/dubravka-ugresic.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811214933
-  - 9780811214216
+  - isbn: 9780811214933
+    binding: paperback
+  - isbn: 9780811214216
+    binding: clothbound
+featured_image_path:
 _slug: the-museum-of-unconditional-surrender
 ---
 

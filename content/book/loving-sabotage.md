@@ -1,20 +1,24 @@
 ---
 title: "Loving Sabotage"
 draft: false
-date: 2000-11-01T06:00:21-04:00
-publication_date: 2000-11-01T06:00:21-04:00
+date: 2000-11-01T06:00:21.000Z
+publication_date: 2000-11-01T06:00:21.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/amelie-nothomb.md
+  - author/amelie-nothomb.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217828
-  - 9780811214599
+  - isbn: 9780811217828
+    binding: paperback
+  - isbn: 9780811214599
+    binding: clothbound
+featured_image_path:
 _slug: loving-sabotage
 ---
 

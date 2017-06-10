@@ -1,19 +1,22 @@
 ---
 title: "Endless Life: Selected Poems"
 draft: false
-date: 1984-07-01T05:00:40-04:00
-publication_date: 1984-07-01T05:00:40-04:00
+date: 1984-07-01T05:00:40.000Z
+publication_date: 1984-07-01T05:00:40.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/lawrence-ferlinghetti.md
+  - author/lawrence-ferlinghetti.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811207973
+  - isbn: 9780811207973
+    binding: paperback
+featured_image_path:
 _slug: endless-life-selected-poems
 ---
 

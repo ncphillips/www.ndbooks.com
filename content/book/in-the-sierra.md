@@ -1,22 +1,25 @@
 ---
 title: "In the Sierra"
 draft: false
-date: 2012-04-10T15:42:00-04:00
-publication_date: 2012-04-10T15:42:00-04:00
+date: 2012-04-10T15:42:00.000Z
+publication_date: 2012-04-10T15:42:00.000Z
 subtitle: "Mountain Writings"
 genre: poetry
 subgenre:
   - anthology
 language: portuguese
 author:
-  - contributor/kenneth-rexroth.md
+  - author/kenneth-rexroth.md
 translator:
+
 editor:
-  - contributor/kim-stanley-robinson.md
-featured_image_path:
+  - author/kim-stanley-robinson.md
 editions:
-  - 9780811219020
-  - 9780811219891
+  - isbn: 9780811219020
+    binding: paperback
+  - isbn: 9780811219891
+    binding: ebook
+featured_image_path:
 _slug: in-the-sierra
 ---
 

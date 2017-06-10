@@ -1,21 +1,26 @@
 ---
 title: "The Strange Case of Rachel K"
 draft: false
-date: 2015-02-10T15:44:00-04:00
-publication_date: 2016-09-06T04:00:00-04:00
+date: 2015-02-10T15:44:00.000Z
+publication_date: 2016-09-06T04:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/rachel-kushner.md
+  - author/rachel-kushner.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811225533
-  - 9780811224215
-  - 9780811224222
+  - isbn: 9780811225533
+    binding: paperback
+  - isbn: 9780811224215
+    binding: clothbound
+  - isbn: 9780811224222
+    binding: ebook
+featured_image_path:
 _slug: the-strange-case-of-rachel-k
 ---
 

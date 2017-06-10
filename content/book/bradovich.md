@@ -1,19 +1,22 @@
 ---
 title: "Bradovich"
 draft: false
-date: 1993-06-01T05:00:38-04:00
-publication_date: 1993-06-01T05:00:38-04:00
+date: 1993-06-01T05:00:38.000Z
+publication_date: 1993-06-01T05:00:38.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/william-herrick.md
+  - author/william-herrick.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811212410
+  - isbn: 9780811212410
+    binding: paperback
+featured_image_path:
 _slug: bradovich
 ---
 

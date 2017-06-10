@@ -1,21 +1,24 @@
 ---
 title: "The King"
 draft: false
-date: 2014-09-09T14:09:00-04:00
-publication_date: 2015-10-27T14:09:00-04:00
+date: 2014-09-09T14:09:00.000Z
+publication_date: 2015-10-27T14:09:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: dutch
 author:
-  - contributor/kader-abdolah.md
+  - author/kader-abdolah.md
 translator:
-  - contributor/nancy-forest-flier.md
+  - author/nancy-forest-flier.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811223737
-  - 9780811223744
+  - isbn: 9780811223737
+    binding: paperback
+  - isbn: 9780811223744
+    binding: ebook
+featured_image_path:
 _slug: the-king
 ---
 

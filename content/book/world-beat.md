@@ -1,8 +1,8 @@
 ---
 title: "World Beat"
 draft: false
-date: 2006-04-01T06:00:28-04:00
-publication_date: 2006-04-01T06:00:28-04:00
+date: 2006-04-01T06:00:28.000Z
+publication_date: 2006-04-01T06:00:28.000Z
 subtitle: "International Poetry Now"
 genre: poetry
 subgenre:
@@ -10,11 +10,13 @@ language:
 author:
 
 translator:
+
 editor:
-  - contributor/eliot-weinberger.md
-featured_image_path:
+  - author/eliot-weinberger.md
 editions:
-  - 9780811216517
+  - isbn: 9780811216517
+    binding: paperback
+featured_image_path:
 _slug: world-beat
 ---
 

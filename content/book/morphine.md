@@ -1,21 +1,24 @@
 ---
 title: "Morphine"
 draft: false
-date: 2013-09-26T16:21:00-04:00
-publication_date: 2013-09-26T16:21:00-04:00
+date: 2013-09-26T16:21:00.000Z
+publication_date: 2013-09-26T16:21:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: russian
 author:
-  - contributor/mikhail-bulgakov.md
+  - author/mikhail-bulgakov.md
 translator:
-  - contributor/hugh-aplin.md
+  - author/hugh-aplin.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811221689
-  - 9780811221696
+  - isbn: 9780811221689
+    binding: paperback
+  - isbn: 9780811221696
+    binding: ebook
+featured_image_path:
 _slug: morphine
 ---
 

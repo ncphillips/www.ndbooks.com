@@ -1,20 +1,22 @@
 ---
 title: "The Dreamers"
 draft: false
-date: 1996-05-01T05:00:33-04:00
-publication_date: 1996-05-01T05:00:33-04:00
+date: 1996-05-01T05:00:33.000Z
+publication_date: 1996-05-01T05:00:33.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/knut-hamsun.md
+  - author/knut-hamsun.md
 translator:
-  - contributor/tom-geddes.md
+  - author/tom-geddes.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811213219
+  - isbn: 9780811213219
+    binding: paperback
+featured_image_path:
 _slug: the-dreamers
 ---
 

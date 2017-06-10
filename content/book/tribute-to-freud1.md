@@ -1,21 +1,25 @@
 ---
 title: "Tribute to Freud"
 draft: false
-date: 2012-06-12T20:39:00-04:00
-publication_date: 2012-06-12T20:39:00-04:00
+date: 2012-06-12T20:39:00.000Z
+publication_date: 2012-06-12T20:39:00.000Z
 subtitle:
 genre:
 subgenre:
   - memoir
 language:
 author:
-  - contributor/hilda-doolittle-h.-d.md
+  - author/hilda-doolittle-h.-d.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811220040
-  - 9780811220200
+  - isbn: 9780811220040
+    binding: paperback
+  - isbn: 9780811220200
+    binding: ebook
+featured_image_path:
 _slug: tribute-to-freud1
 ---
 

@@ -1,21 +1,25 @@
 ---
 title: "Curriculum Vitae: A Volume Of Autobiography"
 draft: false
-date: 2011-05-18T14:27:00-04:00
-publication_date: 2011-05-18T14:27:00-04:00
+date: 2011-05-18T14:27:00.000Z
+publication_date: 2011-05-18T14:27:00.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - memoir
 language:
 author:
-  - contributor/muriel-spark.md
+  - author/muriel-spark.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 978081121438
-  - 9780811219136
+  - isbn: 978081121438
+    binding: paperback
+  - isbn: 9780811219136
+    binding: ebook
+featured_image_path:
 _slug: curriculum-vitae-a-volume-of-autobiography
 ---
 

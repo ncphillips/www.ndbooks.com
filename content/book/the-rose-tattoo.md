@@ -1,19 +1,22 @@
 ---
 title: "The Rose Tattoo"
 draft: false
-date: 2016-06-17T15:07:00-04:00
-publication_date: 2010-04-01T04:00:00-04:00
+date: 2016-06-17T15:07:00.000Z
+publication_date: 2010-04-01T04:00:00.000Z
 subtitle:
 genre: theater
 subgenre:
 language:
 author:
-  - contributor/tennessee-williams.md
+  - author/tennessee-williams.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218825
+  - isbn: 9780811218825
+    binding: paperback
+featured_image_path:
 _slug: the-rose-tattoo
 ---
 

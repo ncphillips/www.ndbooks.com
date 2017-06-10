@@ -1,19 +1,22 @@
 ---
 title: "Paradise Of Poets"
 draft: false
-date: 1999-10-01T05:00:27-04:00
-publication_date: 1999-10-01T05:00:27-04:00
+date: 1999-10-01T05:00:27.000Z
+publication_date: 1999-10-01T05:00:27.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/jerome-rothenberg.md
+  - author/jerome-rothenberg.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811214278
+  - isbn: 9780811214278
+    binding: paperback
+featured_image_path:
 _slug: paradise-of-poets
 ---
 

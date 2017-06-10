@@ -1,22 +1,25 @@
 ---
 title: "On Christian Contemplation"
 draft: false
-date: 2012-06-20T20:04:00-04:00
-publication_date: 2012-06-20T20:04:00-04:00
+date: 2012-06-20T20:04:00.000Z
+publication_date: 2012-06-20T20:04:00.000Z
 subtitle: "A New Directions Gift Book"
 genre: poetry
 subgenre:
   - essay
 language:
 author:
-  - contributor/thomas-merton.md
+  - author/thomas-merton.md
 translator:
+
 editor:
-  - contributor/paul-m.-pearson.md
-featured_image_path:
+  - author/paul-m.-pearson.md
 editions:
-  - 9780811219969
-  - 9780811219976
+  - isbn: 9780811219969
+    binding: paperback
+  - isbn: 9780811219976
+    binding: ebook
+featured_image_path:
 _slug: on-christian-contemplation
 ---
 

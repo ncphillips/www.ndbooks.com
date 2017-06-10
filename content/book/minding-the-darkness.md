@@ -1,19 +1,22 @@
 ---
 title: "Minding The Darkness"
 draft: false
-date: 2000-10-01T05:00:47-04:00
-publication_date: 2000-10-01T05:00:47-04:00
+date: 2000-10-01T05:00:47.000Z
+publication_date: 2000-10-01T05:00:47.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/peter-scott-pd.md
+  - author/peter-scott-pd.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811214544
+  - isbn: 9780811214544
+    binding: paperback
+featured_image_path:
 _slug: minding-the-darkness
 ---
 

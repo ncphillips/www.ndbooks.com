@@ -1,21 +1,24 @@
 ---
 title: "Midsummer Night"
 draft: false
-date: 1998-05-01T05:00:06-04:00
-publication_date: 1998-05-01T05:00:06-04:00
+date: 1998-05-01T05:00:06.000Z
+publication_date: 1998-05-01T05:00:06.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/uwe-timm.md
+  - author/uwe-timm.md
 translator:
-  - contributor/peter-tegel.md
+  - author/peter-tegel.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811214209
-  - 9780811213721
+  - isbn: 9780811214209
+    binding: paperback
+  - isbn: 9780811213721
+    binding: clothbound
+featured_image_path:
 _slug: midsummer-night
 ---
 

@@ -1,21 +1,25 @@
 ---
 title: "The Way To The Labyrinth"
 draft: false
-date: 1987-05-01T05:00:10-04:00
-publication_date: 1987-05-01T05:00:10-04:00
+date: 1987-05-01T05:00:10.000Z
+publication_date: 1987-05-01T05:00:10.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - memoir
 language:
 author:
-  - contributor/alain-danielou.md
+  - author/alain-danielou.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811210157
-  - 9780811210140
+  - isbn: 9780811210157
+    binding: paperback
+  - isbn: 9780811210140
+    binding: clothbound
+featured_image_path:
 _slug: the-way-to-the-labyrinth
 ---
 

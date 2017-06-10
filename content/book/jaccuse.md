@@ -1,20 +1,22 @@
 ---
 title: "J’accuse"
 draft: false
-date: 2003-04-01T06:00:33-04:00
-publication_date: 2003-04-01T06:00:33-04:00
+date: 2003-04-01T06:00:33.000Z
+publication_date: 2003-04-01T06:00:33.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/aharon-shabtai.md
+  - author/aharon-shabtai.md
 translator:
-  - contributor/peter-cole.md
+  - author/peter-cole.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811215398
+  - isbn: 9780811215398
+    binding: paperback
+featured_image_path:
 _slug: jaccuse
 ---
 

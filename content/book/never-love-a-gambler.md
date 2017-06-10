@@ -1,21 +1,25 @@
 ---
 title: "Never Love a Gambler"
 draft: false
-date: 2014-05-27T14:08:00-04:00
-publication_date: 2014-05-27T14:08:00-04:00
+date: 2014-05-27T14:08:00.000Z
+publication_date: 2014-05-27T14:08:00.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language:
 author:
-  - contributor/keith-ridgway.md
+  - author/keith-ridgway.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811222945
-  - 9780811222952
+  - isbn: 9780811222945
+    binding: paperback
+  - isbn: 9780811222952
+    binding: ebook
+featured_image_path:
 _slug: never-love-a-gambler
 ---
 

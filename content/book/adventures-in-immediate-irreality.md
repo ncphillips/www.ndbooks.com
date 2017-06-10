@@ -1,20 +1,22 @@
 ---
 title: "Adventures in Immediate Irreality"
 draft: false
-date: 2015-02-17T15:44:00-04:00
-publication_date: 2015-02-17T15:44:00-04:00
+date: 2015-02-17T15:44:00.000Z
+publication_date: 2015-02-17T15:44:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/max-blecher.md
+  - author/max-blecher.md
 translator:
-  - contributor/michael-henry-heim.md
+  - author/michael-henry-heim.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217606
+  - isbn: 9780811217606
+    binding: paperback
+featured_image_path:
 _slug: adventures-in-immediate-irreality
 ---
 

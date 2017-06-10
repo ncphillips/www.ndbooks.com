@@ -1,19 +1,22 @@
 ---
 title: "Bird Lovers, Backyard"
 draft: false
-date: 2010-04-01T05:00:00-04:00
-publication_date: 2010-04-01T05:00:00-04:00
+date: 2010-04-01T05:00:00.000Z
+publication_date: 2010-04-01T05:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language: portuguese
 author:
-  - contributor/thalia-field.md
+  - author/thalia-field.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218405
+  - isbn: 9780811218405
+    binding: paperback
+featured_image_path:
 _slug: bird-lovers-backyard
 ---
 

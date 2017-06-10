@@ -1,21 +1,25 @@
 ---
 title: "The Ghosts of Birds"
 draft: false
-date: 2016-03-07T20:18:00-04:00
-publication_date: 2016-10-11T04:00:00-04:00
+date: 2016-03-07T20:18:00.000Z
+publication_date: 2016-10-11T04:00:00.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - essay
 language:
 author:
-  - contributor/eliot-weinberger.md
+  - author/eliot-weinberger.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811226189
-  - 9780811226196
+  - isbn: 9780811226189
+    binding: paperback
+  - isbn: 9780811226196
+    binding: ebook
+featured_image_path:
 _slug: the-ghosts-of-birds
 ---
 

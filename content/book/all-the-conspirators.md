@@ -1,20 +1,24 @@
 ---
 title: "All the Conspirators"
 draft: false
-date: 2015-10-15T17:51:00-04:00
-publication_date: 2016-01-11T05:00:00-04:00
+date: 2015-10-15T17:51:00.000Z
+publication_date: 2016-01-11T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/christopher-isherwood.md
+  - author/christopher-isherwood.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811225120
-  - 9780811222617
+  - isbn: 9780811225120
+    binding: paperback
+  - isbn: 9780811222617
+    binding: ebook
+featured_image_path:
 _slug: all-the-conspirators
 ---
 

@@ -1,20 +1,24 @@
 ---
 title: "The Ballad of Peckham Rye"
 draft: false
-date: 2014-05-27T15:10:00-04:00
-publication_date: 2014-05-27T15:10:00-04:00
+date: 2014-05-27T15:10:00.000Z
+publication_date: 2014-05-27T15:10:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/muriel-spark.md
+  - author/muriel-spark.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811222990
-  - 9780811221337
+  - isbn: 9780811222990
+    binding: paperback
+  - isbn: 9780811221337
+    binding: ebook
+featured_image_path:
 _slug: the-ballad-of-peckham-rye1
 ---
 

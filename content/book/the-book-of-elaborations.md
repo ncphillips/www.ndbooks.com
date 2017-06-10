@@ -1,21 +1,25 @@
 ---
 title: "The Book Of Elaborations"
 draft: false
-date: 1987-11-01T06:00:14-04:00
-publication_date: 1987-11-01T06:00:14-04:00
+date: 1987-11-01T06:00:14.000Z
+publication_date: 1987-11-01T06:00:14.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - essay
 language:
 author:
-  - contributor/oscar-mandel.md
+  - author/oscar-mandel.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811210232
-  - 9780811209625
+  - isbn: 9780811210232
+    binding: paperback
+  - isbn: 9780811209625
+    binding: clothbound
+featured_image_path:
 _slug: the-book-of-elaborations
 ---
 

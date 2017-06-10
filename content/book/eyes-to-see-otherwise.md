@@ -1,20 +1,22 @@
 ---
 title: "Eyes To See Otherwise"
 draft: false
-date: 2002-04-01T06:00:40-04:00
-publication_date: 2002-04-01T06:00:40-04:00
+date: 2002-04-01T06:00:40.000Z
+publication_date: 2002-04-01T06:00:40.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/homero-aridjis.md
+  - author/homero-aridjis.md
 translator:
-  - contributor/betty-ferber.md
+  - author/betty-ferber.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811215091
+  - isbn: 9780811215091
+    binding: paperback
+featured_image_path:
 _slug: eyes-to-see-otherwise
 ---
 

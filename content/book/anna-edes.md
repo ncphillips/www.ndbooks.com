@@ -1,20 +1,22 @@
 ---
 title: "Anna Edes"
 draft: false
-date: 1993-11-01T06:00:29-04:00
-publication_date: 1993-11-01T06:00:29-04:00
+date: 1993-11-01T06:00:29.000Z
+publication_date: 1993-11-01T06:00:29.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/dezs-kosztolanyi.md
+  - author/dezs-kosztolanyi.md
 translator:
-  - contributor/george-szirtes.md
+  - author/george-szirtes.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811212557
+  - isbn: 9780811212557
+    binding: paperback
+featured_image_path:
 _slug: anna-edes
 ---
 

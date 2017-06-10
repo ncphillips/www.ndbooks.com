@@ -1,22 +1,25 @@
 ---
 title: "The Tongue of Adam "
 draft: false
-date: 2016-03-07T20:26:00-04:00
-publication_date: 2016-11-22T05:00:00-04:00
+date: 2016-03-07T20:26:00.000Z
+publication_date: 2016-11-22T05:00:00.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - essay
 language: french
 author:
-  - contributor/abdelfattah-kilito.md
+  - author/abdelfattah-kilito.md
 translator:
-  - contributor/robyn-creswell.md
+  - author/robyn-creswell.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811224932
-  - 9780811224949
+  - isbn: 9780811224932
+    binding: paperback
+  - isbn: 9780811224949
+    binding: ebook
+featured_image_path:
 _slug: the-tongue-of-adam
 ---
 

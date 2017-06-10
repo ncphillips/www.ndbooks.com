@@ -1,20 +1,23 @@
 ---
 title: "Pound/Ford"
 draft: false
-date: 1982-11-01T06:00:25-04:00
-publication_date: 1982-11-01T06:00:25-04:00
+date: 1982-11-01T06:00:25.000Z
+publication_date: 1982-11-01T06:00:25.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - correspondence
 language:
 author:
-  - contributor/ezra-pound.md
+  - author/ezra-pound.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811208338
+  - isbn: 9780811208338
+    binding: clothbound
+featured_image_path:
 _slug: pound-ford
 ---
 

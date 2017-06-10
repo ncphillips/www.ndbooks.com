@@ -1,19 +1,22 @@
 ---
 title: "Stitching Porcelain"
 draft: false
-date: 1991-04-01T06:00:43-04:00
-publication_date: 1991-04-01T06:00:43-04:00
+date: 1991-04-01T06:00:43.000Z
+publication_date: 1991-04-01T06:00:43.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/deborah-larsen.md
+  - author/deborah-larsen.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811211611
+  - isbn: 9780811211611
+    binding: paperback
+featured_image_path:
 _slug: stitching-porcelain
 ---
 

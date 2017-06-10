@@ -1,21 +1,24 @@
 ---
 title: "Kornél Esti"
 draft: false
-date: 2010-01-01T06:00:00-04:00
-publication_date: 2010-01-01T06:00:00-04:00
+date: 2010-01-01T06:00:00.000Z
+publication_date: 2010-01-01T06:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: hungarian
 author:
-  - contributor/dezs-kosztolanyi.md
+  - author/dezs-kosztolanyi.md
 translator:
-  - contributor/bernard-adams.md
+  - author/bernard-adams.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218436
-  - 9780811219587
+  - isbn: 9780811218436
+    binding: paperback
+  - isbn: 9780811219587
+    binding: ebook
+featured_image_path:
 _slug: kornel-esti
 ---
 

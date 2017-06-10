@@ -1,19 +1,22 @@
 ---
 title: "Fortress Besieged"
 draft: false
-date: 2004-02-01T06:00:34-04:00
-publication_date: 2004-02-01T06:00:34-04:00
+date: 2004-02-01T06:00:34.000Z
+publication_date: 2004-02-01T06:00:34.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/qian-zhongshu.md
+  - author/qian-zhongshu.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811215527
+  - isbn: 9780811215527
+    binding: paperback
+featured_image_path:
 _slug: fortress-besieged
 ---
 

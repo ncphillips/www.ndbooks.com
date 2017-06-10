@@ -1,20 +1,24 @@
 ---
 title: "The Cantos Of Ezra Pound"
 draft: false
-date: 1996-06-01T05:00:10-04:00
-publication_date: 1996-06-01T05:00:10-04:00
+date: 1996-06-01T05:00:10.000Z
+publication_date: 1996-06-01T05:00:10.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/ezra-pound.md
+  - author/ezra-pound.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811213264
-  - 9780811203500
+  - isbn: 9780811213264
+    binding: paperback
+  - isbn: 9780811203500
+    binding: clothbound
+featured_image_path:
 _slug: the-cantos-of-ezra-pound
 ---
 

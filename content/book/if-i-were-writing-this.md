@@ -1,20 +1,24 @@
 ---
 title: "If I Were Writing This"
 draft: false
-date: 2008-08-01T05:00:42-04:00
-publication_date: 2008-08-01T05:00:42-04:00
+date: 2008-08-01T05:00:42.000Z
+publication_date: 2008-08-01T05:00:42.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/robert-creeley.md
+  - author/robert-creeley.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217569
-  - 9780811215565
+  - isbn: 9780811217569
+    binding: paperback
+  - isbn: 9780811215565
+    binding: clothbound
+featured_image_path:
 _slug: if-i-were-writing-this
 ---
 

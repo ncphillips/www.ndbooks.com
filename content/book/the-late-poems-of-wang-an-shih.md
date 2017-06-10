@@ -1,20 +1,22 @@
 ---
 title: "The Late Poems of Wang An-Shih"
 draft: false
-date: 2015-03-17T14:43:00-04:00
-publication_date: 2015-03-17T14:43:00-04:00
+date: 2015-03-17T14:43:00.000Z
+publication_date: 2015-03-17T14:43:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/wang-an-shih.md
+  - author/wang-an-shih.md
 translator:
-  - contributor/david-hinton.md
+  - author/david-hinton.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811222631
+  - isbn: 9780811222631
+    binding: clothbound
+featured_image_path:
 _slug: the-late-poems-of-wang-an-shih
 ---
 

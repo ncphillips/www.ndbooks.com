@@ -1,19 +1,22 @@
 ---
 title: "The Glass Menagerie (Centennial Edition)"
 draft: false
-date: 2011-09-27T14:28:43-04:00
-publication_date: 2011-09-27T14:28:43-04:00
+date: 2011-09-27T14:28:43.000Z
+publication_date: 2011-09-27T14:28:43.000Z
 subtitle: "Deluxe Centennial Edition"
 genre: theater
 subgenre:
 language:
 author:
-  - contributor/tennessee-williams.md
+  - author/tennessee-williams.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218948
+  - isbn: 9780811218948
+    binding: clothbound
+featured_image_path:
 _slug: the-glass-menagerie
 ---
 

@@ -1,21 +1,24 @@
 ---
 title: "On the Edge"
 draft: false
-date: 2015-08-12T20:40:00-04:00
-publication_date: 2016-01-25T05:00:00-04:00
+date: 2015-08-12T20:40:00.000Z
+publication_date: 2016-01-25T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: spanish
 author:
-  - contributor/rafael-chirbes.md
+  - author/rafael-chirbes.md
 translator:
-  - contributor/margaret-jull-costa.md
+  - author/margaret-jull-costa.md
 editor:
-featured_image_path: /uploads/1449089609092/MARSH%20.jpg
+
 editions:
-  - 9780811222846
-  - 9780811222853
+  - isbn: 9780811222846
+    binding: paperback
+  - isbn: 9780811222853
+    binding: ebook
+featured_image_path: /uploads/1449089609092/MARSH%20.jpg
 _slug: on-the-edge
 ---
 

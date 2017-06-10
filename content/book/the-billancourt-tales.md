@@ -1,22 +1,25 @@
 ---
 title: "Billancourt Tales"
 draft: false
-date: 2009-07-01T05:00:00-04:00
-publication_date: 2009-07-01T05:00:00-04:00
+date: 2009-07-01T05:00:00.000Z
+publication_date: 2009-07-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language: russian
 author:
-  - contributor/nina-berberova.md
+  - author/nina-berberova.md
 translator:
-  - contributor/marian-schwartz.md
+  - author/marian-schwartz.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218337
-  - 9780811214810
+  - isbn: 9780811218337
+    binding: paperback
+  - isbn: 9780811214810
+    binding: clothbound
+featured_image_path:
 _slug: the-billancourt-tales
 ---
 

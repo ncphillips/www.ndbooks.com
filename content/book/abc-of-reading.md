@@ -1,21 +1,25 @@
 ---
 title: "ABC of Reading"
 draft: false
-date: 2010-10-28T14:28:00-04:00
-publication_date: 2010-10-28T14:28:00-04:00
+date: 2010-10-28T14:28:00.000Z
+publication_date: 2010-10-28T14:28:00.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - essay
 language:
 author:
-  - contributor/ezra-pound.md
+  - author/ezra-pound.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218931
-  - 9780811223164
+  - isbn: 9780811218931
+    binding: paperback
+  - isbn: 9780811223164
+    binding: ebook
+featured_image_path:
 _slug: abc-of-reading
 ---
 

@@ -1,20 +1,22 @@
 ---
 title: "On the Edge of Reason"
 draft: false
-date: 1996-11-01T06:00:30-04:00
-publication_date: 1996-11-01T06:00:30-04:00
+date: 1996-11-01T06:00:30.000Z
+publication_date: 1996-11-01T06:00:30.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/miroslav-krlea.md
+  - author/miroslav-krlea.md
 translator:
-  - contributor/zora-depolo.md
+  - author/zora-depolo.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811213066
+  - isbn: 9780811213066
+    binding: paperback
+featured_image_path:
 _slug: on-the-edge-of-reason
 ---
 

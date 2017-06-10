@@ -1,21 +1,25 @@
 ---
 title: "Little Labors"
 draft: false
-date: 2016-05-06T20:11:00-04:00
-publication_date: 2016-05-17T04:00:00-04:00
+date: 2016-05-06T20:11:00.000Z
+publication_date: 2016-05-17T04:00:00.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - essay
 language:
 author:
-  - contributor/rivka-galchen.md
+  - author/rivka-galchen.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811225588
-  - 9780811222976
+  - isbn: 9780811225588
+    binding: clothbound
+  - isbn: 9780811222976
+    binding: ebook
+featured_image_path:
 _slug: little-labors
 ---
 

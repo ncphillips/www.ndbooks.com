@@ -1,23 +1,24 @@
 ---
 title: "The Rose Of Time"
 draft: false
-date: 2001-01-01T06:00:00-04:00
-publication_date: 2010-01-27T05:00:00-04:00
+date: 2001-01-01T06:00:00.000Z
+publication_date: 2010-01-27T05:00:00.000Z
 subtitle: "New & Selected Poems "
 genre: poetry
 subgenre:
 language: chinese
 author:
-  - contributor/bei-dao.md
+  - author/bei-dao.md
 translator:
-  - contributor/david-hinton.md
-  - contributor/bonnie-s.-macdougall.md
-  - contributor/eliot-weinberger.md
+  - author/david-hinton.md
+  - author/bonnie-s.-macdougall.md
+  - author/eliot-weinberger.md
 editor:
-  - contributor/eliot-weinberger.md
-featured_image_path:
+  - author/eliot-weinberger.md
 editions:
-  - 9780811218481
+  - isbn: 9780811218481
+    binding: paperback
+featured_image_path:
 _slug: in-the-rose-of-time
 ---
 

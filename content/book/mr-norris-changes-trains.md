@@ -1,20 +1,24 @@
 ---
 title: "Mr Norris Changes Trains"
 draft: false
-date: 2013-05-28T15:19:00-04:00
-publication_date: 2013-05-28T15:19:00-04:00
+date: 2013-05-28T15:19:00.000Z
+publication_date: 2013-05-28T15:19:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/christopher-isherwood.md
+  - author/christopher-isherwood.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811220262
-  - 9780811220279
+  - isbn: 9780811220262
+    binding: paperback
+  - isbn: 9780811220279
+    binding: ebook
+featured_image_path:
 _slug: mr-norris-changes-trains
 ---
 

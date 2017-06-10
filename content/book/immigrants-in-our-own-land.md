@@ -1,20 +1,24 @@
 ---
 title: "Immigrants In Our Own Land"
 draft: false
-date: 1990-11-01T06:00:00-04:00
-publication_date: 1990-11-01T06:00:00-04:00
+date: 1990-11-01T06:00:00.000Z
+publication_date: 1990-11-01T06:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/jimmy-baca.md
+  - author/jimmy-baca.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811211451
-  - 9780811223317
+  - isbn: 9780811211451
+    binding: paperback
+  - isbn: 9780811223317
+    binding: ebook
+featured_image_path:
 _slug: immigrants-in-our-own-land
 ---
 

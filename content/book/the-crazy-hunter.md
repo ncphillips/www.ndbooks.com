@@ -1,19 +1,22 @@
 ---
 title: "The Crazy Hunter"
 draft: false
-date: 1993-09-01T05:00:36-04:00
-publication_date: 1993-09-01T05:00:36-04:00
+date: 1993-09-01T05:00:36.000Z
+publication_date: 1993-09-01T05:00:36.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/kay-boyle.md
+  - author/kay-boyle.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811212335
+  - isbn: 9780811212335
+    binding: paperback
+featured_image_path:
 _slug: the-crazy-hunter
 ---
 

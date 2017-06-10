@@ -1,24 +1,25 @@
 ---
 title: "Labyrinths"
 draft: false
-date: 2007-05-01T05:00:00-04:00
-publication_date: 2007-05-01T05:00:00-04:00
+date: 2007-05-01T05:00:00.000Z
+publication_date: 2007-05-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language: spanish
 author:
-  - contributor/jorge-luis-borges.md
+  - author/jorge-luis-borges.md
 translator:
-  - contributor/donald-yates.md
-  - contributor/james-irby.md
+  - author/donald-yates.md
+  - author/james-irby.md
 editor:
-  - contributor/donald-yates.md
-  - contributor/james-irby.md
-featured_image_path:
+  - author/donald-yates.md
+  - author/james-irby.md
 editions:
-  - 9780811216999
+  - isbn: 9780811216999
+    binding: paperback
+featured_image_path:
 _slug: labyrinths
 ---
 

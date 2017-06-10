@@ -1,21 +1,24 @@
 ---
 title: "Story of Love in Solitude "
 draft: false
-date: 2016-03-07T20:20:00-04:00
-publication_date: 2016-10-25T04:00:00-04:00
+date: 2016-03-07T20:20:00.000Z
+publication_date: 2016-10-25T04:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: french
 author:
-  - contributor/roger-lewinter.md
+  - author/roger-lewinter.md
 translator:
-  - contributor/rachel-careau.md
+  - author/rachel-careau.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811225199
-  - 9780811226110
+  - isbn: 9780811225199
+    binding: paperback
+  - isbn: 9780811226110
+    binding: ebook
+featured_image_path:
 _slug: story-of-love-in-solitude
 ---
 

@@ -1,20 +1,24 @@
 ---
 title: "The Adventures of Mao on the Long March"
 draft: false
-date: 2005-10-01T05:00:00-04:00
-publication_date: 2005-10-01T05:00:00-04:00
+date: 2005-10-01T05:00:00.000Z
+publication_date: 2005-10-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/frederic-tuten.md
+  - author/frederic-tuten.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216326
-  - 9780811220231
+  - isbn: 9780811216326
+    binding: paperback
+  - isbn: 9780811220231
+    binding: ebook
+featured_image_path:
 _slug: the-adventures-of-mao-on-the-long-march
 ---
 

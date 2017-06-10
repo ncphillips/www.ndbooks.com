@@ -1,21 +1,25 @@
 ---
 title: "Ezra Pound And The Visual Arts"
 draft: false
-date: 1980-11-01T06:00:13-04:00
-publication_date: 1980-11-01T06:00:13-04:00
+date: 1980-11-01T06:00:13.000Z
+publication_date: 1980-11-01T06:00:13.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - criticism
 language:
 author:
-  - contributor/ezra-pound.md
+  - author/ezra-pound.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217835
-  - 9780811207720
+  - isbn: 9780811217835
+    binding: paperback
+  - isbn: 9780811207720
+    binding: clothbound
+featured_image_path:
 _slug: ezra-pound-and-the-visual-arts
 ---
 

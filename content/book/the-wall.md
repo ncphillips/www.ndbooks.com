@@ -1,21 +1,25 @@
 ---
 title: "The Wall"
 draft: false
-date: 2001-01-01T06:00:00-04:00
-publication_date: 2001-01-01T06:00:00-04:00
+date: 2001-01-01T06:00:00.000Z
+publication_date: 2001-01-01T06:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language: french
 author:
-  - contributor/jean-paul-sartre.md
+  - author/jean-paul-sartre.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218108
-  - 9780811219747
+  - isbn: 9780811218108
+    binding: paperback
+  - isbn: 9780811219747
+    binding: ebook
+featured_image_path:
 _slug: the-wall
 ---
 

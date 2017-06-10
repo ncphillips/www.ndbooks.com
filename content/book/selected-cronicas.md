@@ -1,19 +1,22 @@
 ---
 title: "Selected Cronicas"
 draft: false
-date: 1996-11-01T06:00:08-04:00
-publication_date: 1996-11-01T06:00:08-04:00
+date: 1996-11-01T06:00:08.000Z
+publication_date: 1996-11-01T06:00:08.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/clarice-lispector.md
+  - author/clarice-lispector.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811213400
+  - isbn: 9780811213400
+    binding: paperback
+featured_image_path:
 _slug: selected-cronicas
 ---
 

@@ -1,19 +1,22 @@
 ---
 title: "Curves To The Apple"
 draft: false
-date: 2007-09-01T05:00:14-04:00
-publication_date: 2007-09-01T05:00:14-04:00
+date: 2007-09-01T05:00:14.000Z
+publication_date: 2007-09-01T05:00:14.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/rosmarie-waldrop.md
+  - author/rosmarie-waldrop.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216739
+  - isbn: 9780811216739
+    binding: paperback
+featured_image_path:
 _slug: curves-to-the-apple
 ---
 

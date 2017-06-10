@@ -1,20 +1,24 @@
 ---
 title: "The Collected Poems Of James Laughlin 1935-1997"
 draft: false
-date: 2001-01-01T06:00:04-04:00
-publication_date: 2001-01-01T06:00:04-04:00
+date: 2001-01-01T06:00:04.000Z
+publication_date: 2001-01-01T06:00:04.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/james-laughlin.md
+  - author/james-laughlin.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218771
-  - 9780811218764
+  - isbn: 9780811218771
+    binding: paperback
+  - isbn: 9780811218764
+    binding: clothbound
+featured_image_path:
 _slug: the-collected-poems-of-james-laughlin-1935-1997
 ---
 

@@ -1,20 +1,23 @@
 ---
 title: "Tales of Desire"
 draft: false
-date: 2010-02-01T06:00:00-04:00
-publication_date: 2010-02-01T06:00:00-04:00
+date: 2010-02-01T06:00:00.000Z
+publication_date: 2010-02-01T06:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language: portuguese
 author:
-  - contributor/tennessee-williams.md
+  - author/tennessee-williams.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218566
+  - isbn: 9780811218566
+    binding: paperback
+featured_image_path:
 _slug: tales-of-desire
 ---
 

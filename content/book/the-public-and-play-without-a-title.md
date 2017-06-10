@@ -1,20 +1,24 @@
 ---
 title: "The Public And Play Without A Title"
 draft: false
-date: 1983-11-01T06:00:55-04:00
-publication_date: 1983-11-01T06:00:55-04:00
+date: 1983-11-01T06:00:55.000Z
+publication_date: 1983-11-01T06:00:55.000Z
 subtitle:
 genre: theater
 subgenre:
 language:
 author:
-  - contributor/federico-garcia-lorca.md
+  - author/federico-garcia-lorca.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811208819
-  - 9780811208802
+  - isbn: 9780811208819
+    binding: paperback
+  - isbn: 9780811208802
+    binding: clothbound
+featured_image_path:
 _slug: the-public-and-play-without-a-title
 ---
 

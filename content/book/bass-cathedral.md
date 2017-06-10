@@ -1,19 +1,22 @@
 ---
 title: "Bass Cathedral"
 draft: false
-date: 2008-01-01T06:00:00-04:00
-publication_date: 2008-01-01T06:00:00-04:00
+date: 2008-01-01T06:00:00.000Z
+publication_date: 2008-01-01T06:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: portuguese
 author:
-  - contributor/nathaniel-mackey.md
+  - author/nathaniel-mackey.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217200
+  - isbn: 9780811217200
+    binding: paperback
+featured_image_path:
 _slug: bass-cathedral
 ---
 

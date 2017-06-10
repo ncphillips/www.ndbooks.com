@@ -1,21 +1,25 @@
 ---
 title: "In Dreams Begin Responsibilities & Other Stories"
 draft: false
-date: 2012-06-14T20:29:00-04:00
-publication_date: 2012-06-14T20:29:00-04:00
+date: 2012-06-14T20:29:00.000Z
+publication_date: 2012-06-14T20:29:00.000Z
 subtitle:
 genre:
 subgenre:
   - essay
 language:
 author:
-  - contributor/delmore-schwartz.md
+  - author/delmore-schwartz.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811220033
-  - 9780811220217
+  - isbn: 9780811220033
+    binding: paperback
+  - isbn: 9780811220217
+    binding: ebook
+featured_image_path:
 _slug: in-dreams-begin-responsibilities-other-stories
 ---
 

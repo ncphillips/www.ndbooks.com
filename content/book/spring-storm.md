@@ -1,19 +1,22 @@
 ---
 title: "Spring Storm"
 draft: false
-date: 1999-12-01T06:00:38-04:00
-publication_date: 1999-12-01T06:00:38-04:00
+date: 1999-12-01T06:00:38.000Z
+publication_date: 1999-12-01T06:00:38.000Z
 subtitle:
 genre: theater
 subgenre:
 language:
 author:
-  - contributor/tennessee-williams.md
+  - author/tennessee-williams.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811214223
+  - isbn: 9780811214223
+    binding: paperback
+featured_image_path:
 _slug: spring-storm
 ---
 

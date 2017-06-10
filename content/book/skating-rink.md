@@ -1,22 +1,26 @@
 ---
 title: "The Skating Rink"
 draft: false
-date: 2001-01-09T06:00:00-04:00
-publication_date: 2001-01-09T06:00:00-04:00
+date: 2001-01-09T06:00:00.000Z
+publication_date: 2001-01-09T06:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: spanish
 author:
-  - contributor/roberto-bolano.md
+  - author/roberto-bolano.md
 translator:
-  - contributor/chris-andrews.md
+  - author/chris-andrews.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218689
-  - 9780811217132
-  - 9780811220590
+  - isbn: 9780811218689
+    binding: paperback
+  - isbn: 9780811217132
+    binding: clothbound
+  - isbn: 9780811220590
+    binding: ebook
+featured_image_path:
 _slug: skating-rink
 ---
 

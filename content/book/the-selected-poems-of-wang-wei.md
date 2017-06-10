@@ -1,20 +1,22 @@
 ---
 title: "The Selected Poems Of Wang Wei"
 draft: false
-date: 2006-06-01T05:00:10-04:00
-publication_date: 2006-06-01T05:00:10-04:00
+date: 2006-06-01T05:00:10.000Z
+publication_date: 2006-06-01T05:00:10.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/wang-wei.md
+  - author/wang-wei.md
 translator:
-  - contributor/david-hinton.md
+  - author/david-hinton.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216180
+  - isbn: 9780811216180
+    binding: paperback
+featured_image_path:
 _slug: the-selected-poems-of-wang-wei
 ---
 

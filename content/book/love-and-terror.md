@@ -1,20 +1,24 @@
 ---
 title: "Love and Terror"
 draft: false
-date: 1982-11-01T06:00:08-04:00
-publication_date: 1982-11-01T06:00:08-04:00
+date: 1982-11-01T06:00:08.000Z
+publication_date: 1982-11-01T06:00:08.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/william-herrick.md
+  - author/william-herrick.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811208413
-  - 9780811207911
+  - isbn: 9780811208413
+    binding: paperback
+  - isbn: 9780811207911
+    binding: clothbound
+featured_image_path:
 _slug: love-and-terror
 ---
 

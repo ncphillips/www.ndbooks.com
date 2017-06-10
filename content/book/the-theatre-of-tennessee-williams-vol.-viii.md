@@ -1,20 +1,24 @@
 ---
 title: "The Theatre Of Tennessee Williams, Vol. VIII"
 draft: false
-date: 2001-05-01T05:00:24-04:00
-publication_date: 2001-05-01T05:00:24-04:00
+date: 2001-05-01T05:00:24.000Z
+publication_date: 2001-05-01T05:00:24.000Z
 subtitle:
 genre: theater
 subgenre:
 language:
 author:
-  - contributor/tennessee-williams.md
+  - author/tennessee-williams.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811214759
-  - 9780811212014
+  - isbn: 9780811214759
+    binding: paperback
+  - isbn: 9780811212014
+    binding: clothbound
+featured_image_path:
 _slug: the-theatre-of-tennessee-williams-vol.-viii
 ---
 

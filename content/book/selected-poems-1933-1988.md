@@ -1,20 +1,24 @@
 ---
 title: "Selected Poems of Gavin Ewart"
 draft: false
-date: 1988-06-01T05:00:00-04:00
-publication_date: 1988-06-01T05:00:00-04:00
+date: 1988-06-01T05:00:00.000Z
+publication_date: 1988-06-01T05:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/gavin-ewart.md
+  - author/gavin-ewart.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811210553
-  - 9780811210546
+  - isbn: 9780811210553
+    binding: paperback
+  - isbn: 9780811210546
+    binding: clothbound
+featured_image_path:
 _slug: selected-poems-1933-1988
 ---
 

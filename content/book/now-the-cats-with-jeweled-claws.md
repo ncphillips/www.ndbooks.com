@@ -1,20 +1,22 @@
 ---
 title: "Now the Cats with Jeweled Claws"
 draft: false
-date: 2016-02-02T21:31:00-04:00
-publication_date: 2016-07-12T04:00:00-04:00
+date: 2016-02-02T21:31:00.000Z
+publication_date: 2016-07-12T04:00:00.000Z
 subtitle: "And Other One-Act Plays"
 genre: theater
 subgenre:
 language:
 author:
-  - contributor/tennessee-williams.md
+  - author/tennessee-williams.md
 translator:
+
 editor:
-  - contributor/thomas-keith.md
-featured_image_path:
+  - author/thomas-keith.md
 editions:
-  - 9780811225564
+  - isbn: 9780811225564
+    binding: paperback
+featured_image_path:
 _slug: now-the-cats-with-jeweled-claws
 ---
 

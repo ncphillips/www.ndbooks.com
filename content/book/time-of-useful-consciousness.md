@@ -1,19 +1,22 @@
 ---
 title: "Time of Useful Consciousness"
 draft: false
-date: 2012-10-24T14:13:17-04:00
-publication_date: 2012-10-24T14:13:17-04:00
+date: 2012-10-24T14:13:17.000Z
+publication_date: 2012-10-24T14:13:17.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/lawrence-ferlinghetti.md
+  - author/lawrence-ferlinghetti.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811220316
+  - isbn: 9780811220316
+    binding: clothbound
+featured_image_path:
 _slug: time-of-useful-consciousness
 ---
 

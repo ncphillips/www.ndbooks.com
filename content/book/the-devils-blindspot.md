@@ -1,22 +1,25 @@
 ---
 title: "The Devil's Blindspot"
 draft: false
-date: 2007-09-01T05:00:00-04:00
-publication_date: 2007-09-01T05:00:00-04:00
+date: 2007-09-01T05:00:00.000Z
+publication_date: 2007-09-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language: german
 author:
-  - contributor/alexander-kluge.md
+  - author/alexander-kluge.md
 translator:
-  - contributor/michael-hulse.md
+  - author/michael-hulse.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217361
-  - 9780811215954
+  - isbn: 9780811217361
+    binding: paperback
+  - isbn: 9780811215954
+    binding: clothbound
+featured_image_path:
 _slug: the-devils-blindspot
 ---
 

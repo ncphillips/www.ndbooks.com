@@ -1,23 +1,26 @@
 ---
 title: "The Selected Letters of Tennessee Williams Vol. II: 1946-1957"
 draft: false
-date: 2007-09-01T05:00:00-04:00
-publication_date: 2007-09-01T05:00:00-04:00
+date: 2007-09-01T05:00:00.000Z
+publication_date: 2007-09-01T05:00:00.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - correspondence
 language:
 author:
-  - contributor/tennessee-williams.md
+  - author/tennessee-williams.md
 translator:
+
 editor:
-  - contributor/albert-j.-devlin.md
-  - contributor/nancy-m.-tischler.md
-featured_image_path:
+  - author/albert-j.-devlin.md
+  - author/nancy-m.-tischler.md
 editions:
-  - 9780811217224
-  - 9780811216005
+  - isbn: 9780811217224
+    binding: paperback
+  - isbn: 9780811216005
+    binding: clothbound
+featured_image_path:
 _slug: the-selected-letters.-vol.-ii-1946-1957
 ---
 

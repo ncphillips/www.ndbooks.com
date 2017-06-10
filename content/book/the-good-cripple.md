@@ -1,20 +1,22 @@
 ---
 title: "The Good Cripple"
 draft: false
-date: 2004-05-01T05:00:00-04:00
-publication_date: 2004-05-01T05:00:00-04:00
+date: 2004-05-01T05:00:00.000Z
+publication_date: 2004-05-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: portuguese
 author:
-  - contributor/rodrigo-rey-rosa.md
+  - author/rodrigo-rey-rosa.md
 translator:
-  - contributor/esther-allen.md
+  - author/esther-allen.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811215664
+  - isbn: 9780811215664
+    binding: paperback
+featured_image_path:
 _slug: the-good-cripple
 ---
 

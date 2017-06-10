@@ -1,21 +1,24 @@
 ---
 title: "The Melancholy of Resistance"
 draft: false
-date: 2002-06-01T05:00:00-04:00
-publication_date: 2002-06-01T05:00:00-04:00
+date: 2002-06-01T05:00:00.000Z
+publication_date: 2002-06-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: hungarian
 author:
-  - contributor/laszlo-krasznahorkai.md
+  - author/laszlo-krasznahorkai.md
 translator:
-  - contributor/george-szirtes.md
+  - author/george-szirtes.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811215046
-  - 9780811220101
+  - isbn: 9780811215046
+    binding: paperback
+  - isbn: 9780811220101
+    binding: ebook
+featured_image_path:
 _slug: the-melancholy-of-resistance
 ---
 

@@ -1,19 +1,22 @@
 ---
 title: "Scenarios for a Mixed Landscape"
 draft: false
-date: 1986-09-17T16:36:00-04:00
-publication_date: 1986-09-17T16:36:00-04:00
+date: 1986-09-17T16:36:00.000Z
+publication_date: 1986-09-17T16:36:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/john-allman.md
+  - author/john-allman.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811209892
+  - isbn: 9780811209892
+    binding: paperback
+featured_image_path:
 _slug: scenarios-for-a-mixed-landscape
 ---
 

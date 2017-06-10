@@ -1,22 +1,25 @@
 ---
 title: "These Possible Lives"
 draft: false
-date: 2016-11-21T20:32:00-04:00
-publication_date: 2017-07-25T04:00:00-04:00
+date: 2016-11-21T20:32:00.000Z
+publication_date: 2017-07-25T04:00:00.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - essay
 language: italian
 author:
-  - contributor/fleur-jaeggy.md
+  - author/fleur-jaeggy.md
 translator:
-  - contributor/minna-zallman-proctor.md
+  - author/minna-zallman-proctor.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811226875
-  - 9780811226882
+  - isbn: 9780811226875
+    binding: paperback
+  - isbn: 9780811226882
+    binding: ebook
+featured_image_path:
 _slug: these-possible-lives
 ---
 

@@ -1,19 +1,22 @@
 ---
 title: "Hippolytus Temporizes & Ion"
 draft: false
-date: 2003-11-01T06:00:45-04:00
-publication_date: 2003-11-01T06:00:45-04:00
+date: 2003-11-01T06:00:45.000Z
+publication_date: 2003-11-01T06:00:45.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/hilda-doolittle-h.-d.md
+  - author/hilda-doolittle-h.-d.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811215534
+  - isbn: 9780811215534
+    binding: paperback
+featured_image_path:
 _slug: hippolytus-temporizes-and-ion
 ---
 

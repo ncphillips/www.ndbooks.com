@@ -1,22 +1,25 @@
 ---
 title: "Once and For All: The Best of Delmore Schwartz"
 draft: false
-date: 2015-10-15T18:21:00-04:00
-publication_date: 2016-05-03T04:00:00-04:00
+date: 2015-10-15T18:21:00.000Z
+publication_date: 2016-05-03T04:00:00.000Z
 subtitle:
 genre:
 subgenre:
   - selections
 language:
 author:
-  - contributor/delmore-schwartz.md
+  - author/delmore-schwartz.md
 translator:
+
 editor:
-  - contributor/craig-morgan-teicher.md
-featured_image_path:
+  - author/craig-morgan-teicher.md
 editions:
-  - 9780811224321
-  - 9780811224338
+  - isbn: 9780811224321
+    binding: paperback
+  - isbn: 9780811224338
+    binding: ebook
+featured_image_path:
 _slug: once-and-for-all-the-best-of-delmore-schwartz
 ---
 

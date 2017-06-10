@@ -1,19 +1,22 @@
 ---
 title: "Nothing / Doing"
 draft: false
-date: 2000-02-01T06:00:55-04:00
-publication_date: 2000-02-01T06:00:55-04:00
+date: 2000-02-01T06:00:55.000Z
+publication_date: 2000-02-01T06:00:55.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/cid-corman.md
+  - author/cid-corman.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811214254
+  - isbn: 9780811214254
+    binding: paperback
+featured_image_path:
 _slug: nothing-doing
 ---
 

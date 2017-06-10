@@ -1,19 +1,22 @@
 ---
 title: "Over All The Obscene Boundaries"
 draft: false
-date: 1984-09-01T04:59:00-04:00
-publication_date: 1984-09-01T04:59:00-04:00
+date: 1984-09-01T04:59:00.000Z
+publication_date: 1984-09-01T04:59:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/lawrence-ferlinghetti.md
+  - author/lawrence-ferlinghetti.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811209205
+  - isbn: 9780811209205
+    binding: paperback
+featured_image_path:
 _slug: over-all-the-obscene-boundaries
 ---
 

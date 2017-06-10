@@ -1,19 +1,22 @@
 ---
 title: "Science And Steepleflower"
 draft: false
-date: 1998-05-01T05:00:49-04:00
-publication_date: 1998-05-01T05:00:49-04:00
+date: 1998-05-01T05:00:49.000Z
+publication_date: 1998-05-01T05:00:49.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/forrest-gander.md
+  - author/forrest-gander.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811213813
+  - isbn: 9780811213813
+    binding: paperback
+featured_image_path:
 _slug: science-and-steepleflower
 ---
 

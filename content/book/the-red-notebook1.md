@@ -1,19 +1,22 @@
 ---
 title: "The Red Notebook"
 draft: false
-date: 2013-07-16T15:14:00-04:00
-publication_date: 2013-07-16T15:14:00-04:00
+date: 2013-07-16T15:14:00.000Z
+publication_date: 2013-07-16T15:14:00.000Z
 subtitle:
 genre: nonfiction
 subgenre:
 language:
 author:
-  - contributor/paul-auster.md
+  - author/paul-auster.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811220972
+  - isbn: 9780811220972
+    binding: paperback
+featured_image_path:
 _slug: the-red-notebook1
 ---
 

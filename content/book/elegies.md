@@ -1,19 +1,22 @@
 ---
 title: "Elegies"
 draft: false
-date: 2013-09-24T16:06:00-04:00
-publication_date: 2013-09-24T16:06:00-04:00
+date: 2013-09-24T16:06:00.000Z
+publication_date: 2013-09-24T16:06:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/muriel-rukeyser.md
+  - author/muriel-rukeyser.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811221061
+  - isbn: 9780811221061
+    binding: paperback
+featured_image_path:
 _slug: elegies
 ---
 

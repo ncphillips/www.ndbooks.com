@@ -1,20 +1,24 @@
 ---
 title: "Echoes"
 draft: false
-date: 1994-04-01T06:00:03-04:00
-publication_date: 1994-04-01T06:00:03-04:00
+date: 1994-04-01T06:00:03.000Z
+publication_date: 1994-04-01T06:00:03.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/robert-creeley.md
+  - author/robert-creeley.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217699
-  - 9780811212632
+  - isbn: 9780811217699
+    binding: paperback
+  - isbn: 9780811212632
+    binding: clothbound
+featured_image_path:
 _slug: echoes
 ---
 

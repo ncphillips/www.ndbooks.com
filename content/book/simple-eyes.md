@@ -1,19 +1,22 @@
 ---
 title: "Simple Eyes"
 draft: false
-date: 1994-05-01T05:00:17-04:00
-publication_date: 1994-05-01T05:00:17-04:00
+date: 1994-05-01T05:00:17.000Z
+publication_date: 1994-05-01T05:00:17.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/michael-mcclure.md
+  - author/michael-mcclure.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811212656
+  - isbn: 9780811212656
+    binding: paperback
+featured_image_path:
 _slug: simple-eyes
 ---
 

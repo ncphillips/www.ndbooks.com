@@ -1,21 +1,24 @@
 ---
 title: "Distant Star"
 draft: false
-date: 2004-12-01T06:00:00-04:00
-publication_date: 2004-12-01T06:00:00-04:00
+date: 2004-12-01T06:00:00.000Z
+publication_date: 2004-12-01T06:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: spanish
 author:
-  - contributor/roberto-bolano.md
+  - author/roberto-bolano.md
 translator:
-  - contributor/chris-andrews.md
+  - author/chris-andrews.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811215862
-  - 9780811220521
+  - isbn: 9780811215862
+    binding: paperback
+  - isbn: 9780811220521
+    binding: ebook
+featured_image_path:
 _slug: distant-star
 ---
 

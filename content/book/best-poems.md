@@ -1,19 +1,22 @@
 ---
 title: "Best Poems"
 draft: false
-date: 2013-12-11T21:19:00-04:00
-publication_date: 2013-12-11T21:19:00-04:00
+date: 2013-12-11T21:19:00.000Z
+publication_date: 2013-12-11T21:19:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/stevie-smith-s.md
+  - author/stevie-smith-s.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811221948
+  - isbn: 9780811221948
+    binding: paperback
+featured_image_path:
 _slug: best-poems
 ---
 

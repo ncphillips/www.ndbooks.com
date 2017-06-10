@@ -1,21 +1,25 @@
 ---
 title: "Works On Paper"
 draft: false
-date: 1986-11-01T06:00:00-04:00
-publication_date: 1986-11-01T06:00:00-04:00
+date: 1986-11-01T06:00:00.000Z
+publication_date: 1986-11-01T06:00:00.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - essay
 language:
 author:
-  - contributor/eliot-weinberger.md
+  - author/eliot-weinberger.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811210010
-  - 9780811210003
+  - isbn: 9780811210010
+    binding: paperback
+  - isbn: 9780811210003
+    binding: clothbound
+featured_image_path:
 _slug: works-on-paper
 ---
 

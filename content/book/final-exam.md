@@ -1,21 +1,24 @@
 ---
 title: "Final Exam"
 draft: false
-date: 2008-07-01T04:59:00-04:00
-publication_date: 2008-07-01T04:59:00-04:00
+date: 2008-07-01T04:59:00.000Z
+publication_date: 2008-07-01T04:59:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: spanish
 author:
-  - contributor/julio-cortazar.md
+  - author/julio-cortazar.md
 translator:
-  - contributor/alfred-macadam.md
+  - author/alfred-macadam.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217521
-  - 9780811214179
+  - isbn: 9780811217521
+    binding: paperback
+  - isbn: 9780811214179
+    binding: clothbound
+featured_image_path:
 _slug: final-exam
 ---
 

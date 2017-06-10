@@ -1,20 +1,24 @@
 ---
 title: "A Fifth of November"
 draft: false
-date: 2004-11-01T05:59:58-04:00
-publication_date: 2004-11-01T05:59:58-04:00
+date: 2004-11-01T05:59:58.000Z
+publication_date: 2004-11-01T05:59:58.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/paul-west-p.md
+  - author/paul-west-p.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216067
-  - 9780811214674
+  - isbn: 9780811216067
+    binding: paperback
+  - isbn: 9780811214674
+    binding: clothbound
+featured_image_path:
 _slug: a-fifth-of-november
 ---
 

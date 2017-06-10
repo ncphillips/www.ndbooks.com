@@ -1,21 +1,24 @@
 ---
 title: "Shantytown"
 draft: false
-date: 2013-11-20T17:36:00-04:00
-publication_date: 2013-11-20T17:36:00-04:00
+date: 2013-11-20T17:36:00.000Z
+publication_date: 2013-11-20T17:36:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: spanish
 author:
-  - contributor/cesar-aira.md
+  - author/cesar-aira.md
 translator:
-  - contributor/chris-andrews.md
+  - author/chris-andrews.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811219112
-  - 9780811221580
+  - isbn: 9780811219112
+    binding: paperback
+  - isbn: 9780811221580
+    binding: ebook
+featured_image_path:
 _slug: shantytown
 ---
 

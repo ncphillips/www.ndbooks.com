@@ -1,8 +1,8 @@
 ---
 title: "New Directions 44"
 draft: false
-date: 1982-06-01T05:00:47-04:00
-publication_date: 1982-06-01T05:00:47-04:00
+date: 1982-06-01T05:00:47.000Z
+publication_date: 1982-06-01T05:00:47.000Z
 subtitle:
 genre: fiction
 subgenre:
@@ -11,11 +11,15 @@ language:
 author:
 
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811208397
-  - 9780811208383
+  - isbn: 9780811208397
+    binding: paperback
+  - isbn: 9780811208383
+    binding: clothbound
+featured_image_path:
 _slug: new-directions-44
 ---
 

@@ -1,21 +1,25 @@
 ---
 title: "The Rain Came Last & Other Stories"
 draft: false
-date: 1990-04-01T06:00:39-04:00
-publication_date: 1990-04-01T06:00:39-04:00
+date: 1990-04-01T06:00:39.000Z
+publication_date: 1990-04-01T06:00:39.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language:
 author:
-  - contributor/niccolo-tucci.md
+  - author/niccolo-tucci.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811211253
-  - 9780811211246
+  - isbn: 9780811211253
+    binding: paperback
+  - isbn: 9780811211246
+    binding: clothbound
+featured_image_path:
 _slug: the-rain-came-last-other-stories
 ---
 

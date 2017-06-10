@@ -1,21 +1,25 @@
 ---
 title: "Thomas Merton In Alaska"
 draft: false
-date: 1989-03-01T06:00:43-04:00
-publication_date: 1989-03-01T06:00:43-04:00
+date: 1989-03-01T06:00:43.000Z
+publication_date: 1989-03-01T06:00:43.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - memoir
 language:
 author:
-  - contributor/thomas-merton.md
+  - author/thomas-merton.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811210386
-  - 9780811210485
+  - isbn: 9780811210386
+    binding: paperback
+  - isbn: 9780811210485
+    binding: clothbound
+featured_image_path:
 _slug: thomas-merton-in-alaska
 ---
 

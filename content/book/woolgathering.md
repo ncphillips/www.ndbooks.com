@@ -1,20 +1,23 @@
 ---
 title: "Woolgathering"
 draft: false
-date: 2011-11-28T14:28:00-04:00
-publication_date: 2011-11-28T14:28:00-04:00
+date: 2011-11-28T14:28:00.000Z
+publication_date: 2011-11-28T14:28:00.000Z
 subtitle:
 genre: fiction
 subgenre:
   - memoir
 language:
 author:
-  - contributor/patti-smith.md
+  - author/patti-smith.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811219440
+  - isbn: 9780811219440
+    binding: clothbound
+featured_image_path:
 _slug: woolgathering
 ---
 

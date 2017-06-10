@@ -1,20 +1,22 @@
 ---
 title: "New Selected Poems & Translations"
 draft: false
-date: 2010-10-29T14:28:00-04:00
-publication_date: 2010-10-29T14:28:00-04:00
+date: 2010-10-29T14:28:00.000Z
+publication_date: 2010-10-29T14:28:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/ezra-pound.md
+  - author/ezra-pound.md
 translator:
+
 editor:
-  - contributor/richard-sieburth.md
-featured_image_path:
+  - author/richard-sieburth.md
 editions:
-  - 9780811217330
+  - isbn: 9780811217330
+    binding: paperback
+featured_image_path:
 _slug: new-selected-poems-translations
 ---
 

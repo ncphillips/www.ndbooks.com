@@ -1,22 +1,25 @@
 ---
 title: "Party In The Blitz"
 draft: false
-date: 2010-02-01T06:00:00-04:00
-publication_date: 2010-02-01T06:00:00-04:00
+date: 2010-02-01T06:00:00.000Z
+publication_date: 2010-02-01T06:00:00.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - memoir
 language: german
 author:
-  - contributor/elias-canetti.md
+  - author/elias-canetti.md
 translator:
-  - contributor/michael-hofmann1.md
+  - author/michael-hofmann1.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218306
-  - 9780811216364
+  - isbn: 9780811218306
+    binding: paperback
+  - isbn: 9780811216364
+    binding: clothbound
+featured_image_path:
 _slug: party-in-the-blitz
 ---
 

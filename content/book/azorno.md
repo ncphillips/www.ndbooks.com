@@ -1,20 +1,22 @@
 ---
 title: "Azorno"
 draft: false
-date: 2009-07-01T05:00:27-04:00
-publication_date: 2009-07-01T05:00:27-04:00
+date: 2009-07-01T05:00:27.000Z
+publication_date: 2009-07-01T05:00:27.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/inger-christensen.md
+  - author/inger-christensen.md
 translator:
-  - contributor/denise-newman.md
+  - author/denise-newman.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216579
+  - isbn: 9780811216579
+    binding: paperback
+featured_image_path:
 _slug: azorno
 ---
 

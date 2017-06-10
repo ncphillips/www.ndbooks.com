@@ -1,8 +1,8 @@
 ---
 title: "Studies In Henry James"
 draft: false
-date: 1983-04-01T06:00:08-04:00
-publication_date: 1983-04-01T06:00:08-04:00
+date: 1983-04-01T06:00:08.000Z
+publication_date: 1983-04-01T06:00:08.000Z
 subtitle:
 genre: nonfiction
 subgenre:
@@ -11,11 +11,15 @@ language:
 author:
 
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811208642
-  - 9780811208635
+  - isbn: 9780811208642
+    binding: paperback
+  - isbn: 9780811208635
+    binding: clothbound
+featured_image_path:
 _slug: studies-in-henry-james
 ---
 

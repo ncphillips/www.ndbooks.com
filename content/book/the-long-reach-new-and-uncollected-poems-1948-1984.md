@@ -1,20 +1,24 @@
 ---
 title: "The Long Reach: New And Uncollected Poems 1948-1984"
 draft: false
-date: 1984-04-01T06:00:00-04:00
-publication_date: 1984-04-01T06:00:00-04:00
+date: 1984-04-01T06:00:00.000Z
+publication_date: 1984-04-01T06:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/richard-eberhart.md
+  - author/richard-eberhart.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811208864
-  - 9780811208857
+  - isbn: 9780811208864
+    binding: paperback
+  - isbn: 9780811208857
+    binding: clothbound
+featured_image_path:
 _slug: the-long-reach-new-and-uncollected-poems-1948-1984
 ---
 

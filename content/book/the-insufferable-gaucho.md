@@ -1,23 +1,27 @@
 ---
 title: "The Insufferable Gaucho"
 draft: false
-date: 2010-08-30T14:28:00-04:00
-publication_date: 2010-08-30T14:28:00-04:00
+date: 2010-08-30T14:28:00.000Z
+publication_date: 2010-08-30T14:28:00.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language: spanish
 author:
-  - contributor/roberto-bolano.md
+  - author/roberto-bolano.md
 translator:
-  - contributor/chris-andrews.md
+  - author/chris-andrews.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811219068
-  - 9780811217163
-  - 9780811220538
+  - isbn: 9780811219068
+    binding: paperback
+  - isbn: 9780811217163
+    binding: clothbound
+  - isbn: 9780811220538
+    binding: ebook
+featured_image_path:
 _slug: the-insufferable-gaucho
 ---
 

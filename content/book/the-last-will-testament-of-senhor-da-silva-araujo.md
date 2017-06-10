@@ -1,20 +1,22 @@
 ---
 title: "The Last Will & Testament of Senhor da Silva Araújo"
 draft: false
-date: 2004-07-15T17:14:37-04:00
-publication_date: 2004-07-15T17:14:37-04:00
+date: 2004-07-15T17:14:37.000Z
+publication_date: 2004-07-15T17:14:37.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/germano-almeida.md
+  - author/germano-almeida.md
 translator:
-  - contributor/sheila-faria-glaser.md
+  - author/sheila-faria-glaser.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811215657
+  - isbn: 9780811215657
+    binding: paperback
+featured_image_path:
 _slug: the-last-will-testament-of-senhor-da-silva-araujo
 ---
 

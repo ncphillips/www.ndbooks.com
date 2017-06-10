@@ -1,22 +1,25 @@
 ---
 title: "The Last Wolf & Herman"
 draft: false
-date: 2016-03-07T18:13:00-04:00
-publication_date: 2016-09-27T04:00:00-04:00
+date: 2016-03-07T18:13:00.000Z
+publication_date: 2016-09-27T04:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: hungarian
 author:
-  - contributor/laszlo-krasznahorkai.md
+  - author/laszlo-krasznahorkai.md
 translator:
-  - contributor/george-szirtes.md
-  - contributor/john-batki.md
+  - author/george-szirtes.md
+  - author/john-batki.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811226080
-  - 9780811226097
+  - isbn: 9780811226080
+    binding: clothbound
+  - isbn: 9780811226097
+    binding: ebook
+featured_image_path:
 _slug: the-last-wolf-herman
 ---
 

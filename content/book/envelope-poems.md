@@ -1,22 +1,25 @@
 ---
 title: "Envelope Poems"
 draft: false
-date: 2016-03-07T18:27:00-04:00
-publication_date: 2016-10-04T04:00:00-04:00
+date: 2016-03-07T18:27:00.000Z
+publication_date: 2016-10-04T04:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/emily-dickinson.md
+  - author/emily-dickinson.md
 translator:
+
 editor:
-  - contributor/jen-bervin.md
-  - contributor/marta-werner.md
-featured_image_path:
+  - author/jen-bervin.md
+  - author/marta-werner.md
 editions:
-  - 9780811225823
-  - 9780811225830
+  - isbn: 9780811225823
+    binding: clothbound
+  - isbn: 9780811225830
+    binding: ebook
+featured_image_path:
 _slug: envelope-poems
 ---
 

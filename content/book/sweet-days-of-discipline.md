@@ -1,20 +1,22 @@
 ---
 title: "Sweet Days of Discipline"
 draft: false
-date: 1993-05-01T05:00:00-04:00
-publication_date: 1993-05-01T05:00:00-04:00
+date: 1993-05-01T05:00:00.000Z
+publication_date: 1993-05-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: portuguese
 author:
-  - contributor/fleur-jaeggy.md
+  - author/fleur-jaeggy.md
 translator:
-  - contributor/tim-parks.md
+  - author/tim-parks.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811212359
+  - isbn: 9780811212359
+    binding: paperback
+featured_image_path:
 _slug: sweet-days-of-discipline
 ---
 

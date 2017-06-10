@@ -1,20 +1,24 @@
 ---
 title: "The Roman Spring of Mrs. Stone"
 draft: false
-date: 2013-09-01T05:00:00-04:00
-publication_date: 2013-09-01T05:00:00-04:00
+date: 2013-09-01T05:00:00.000Z
+publication_date: 2013-09-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/tennessee-williams.md
+  - author/tennessee-williams.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811212496
-  - 9780811220460
+  - isbn: 9780811212496
+    binding: paperback
+  - isbn: 9780811220460
+    binding: ebook
+featured_image_path:
 _slug: the-roman-spring-of-mrs.-stone
 ---
 

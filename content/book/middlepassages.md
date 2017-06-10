@@ -1,19 +1,22 @@
 ---
 title: "Middle Passages"
 draft: false
-date: 1993-01-01T06:00:00-04:00
-publication_date: 1993-01-01T06:00:00-04:00
+date: 1993-01-01T06:00:00.000Z
+publication_date: 1993-01-01T06:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/kamau-brathwaite.md
+  - author/kamau-brathwaite.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811212328
+  - isbn: 9780811212328
+    binding: paperback
+featured_image_path:
 _slug: middlepassages
 ---
 

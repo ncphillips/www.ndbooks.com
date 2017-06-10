@@ -1,21 +1,24 @@
 ---
 title: "Figures & Figurations"
 draft: false
-date: 2008-08-01T05:00:10-04:00
-publication_date: 2008-08-01T05:00:10-04:00
+date: 2008-08-01T05:00:10.000Z
+publication_date: 2008-08-01T05:00:10.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/octavio-paz.md
+  - author/octavio-paz.md
 translator:
-  - contributor/eliot-weinberger.md
+  - author/eliot-weinberger.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217590
-  - 9780811215244
+  - isbn: 9780811217590
+    binding: paperback
+  - isbn: 9780811215244
+    binding: clothbound
+featured_image_path:
 _slug: figures-figurations
 ---
 

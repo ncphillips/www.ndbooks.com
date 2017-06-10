@@ -1,20 +1,22 @@
 ---
 title: "Amerika"
 draft: false
-date: 2004-05-01T05:00:00-04:00
-publication_date: 2004-05-01T05:00:00-04:00
+date: 2004-05-01T05:00:00.000Z
+publication_date: 2004-05-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/franz-kafka.md
+  - author/franz-kafka.md
 translator:
-  - contributor/michael-hofmann1.md
+  - author/michael-hofmann1.md
 editor:
-featured_image_path: /uploads/1427484269190/new%20york.jpg
+
 editions:
-  - 9780811215695
+  - isbn: 9780811215695
+    binding: paperback
+featured_image_path: /uploads/1427484269190/new%20york.jpg
 _slug: amerika
 ---
 

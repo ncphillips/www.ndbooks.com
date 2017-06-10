@@ -1,20 +1,23 @@
 ---
 title: "Sextet"
 draft: false
-date: 2010-04-01T05:00:20-04:00
-publication_date: 2010-04-01T05:00:20-04:00
+date: 2010-04-01T05:00:20.000Z
+publication_date: 2010-04-01T05:00:20.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - essay
 language:
 author:
-  - contributor/henry-miller.md
+  - author/henry-miller.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218009
+  - isbn: 9780811218009
+    binding: paperback
+featured_image_path:
 _slug: sextet
 ---
 

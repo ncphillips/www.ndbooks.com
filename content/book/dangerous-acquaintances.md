@@ -1,18 +1,20 @@
 ---
 title: "Dangerous Acquaintances"
 draft: false
-date: 2011-10-19T19:54:53-04:00
-publication_date: 2011-10-19T19:54:53-04:00
+date: 2011-10-19T19:54:53.000Z
+publication_date: 2011-10-19T19:54:53.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/choderlos-laclos.md
+  - author/choderlos-laclos.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
+featured_image_path:
 _slug: dangerous-acquaintances
 ---
 

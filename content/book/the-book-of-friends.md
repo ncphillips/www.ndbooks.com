@@ -1,19 +1,22 @@
 ---
 title: "The Book Of Friends"
 draft: false
-date: 2001-01-01T06:00:16-04:00
-publication_date: 2001-01-01T06:00:16-04:00
+date: 2001-01-01T06:00:16.000Z
+publication_date: 2001-01-01T06:00:16.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - memoir
 language:
 author:
-  - contributor/henry-miller.md
+  - author/henry-miller.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218177
+  - isbn: 9780811218177
+    binding: paperback
+featured_image_path:
 _slug: the-book-of-friends
 ---

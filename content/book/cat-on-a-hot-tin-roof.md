@@ -1,20 +1,24 @@
 ---
 title: "Cat on a Hot Tin Roof"
 draft: false
-date: 2004-09-01T05:00:00-04:00
-publication_date: 2004-09-01T05:00:00-04:00
+date: 2004-09-01T05:00:00.000Z
+publication_date: 2004-09-01T05:00:00.000Z
 subtitle:
 genre: theater
 subgenre:
 language:
 author:
-  - contributor/tennessee-williams.md
+  - author/tennessee-williams.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216012
-  - 9780811220774
+  - isbn: 9780811216012
+    binding: paperback
+  - isbn: 9780811220774
+    binding: ebook
+featured_image_path:
 _slug: cat-on-a-hot-tin-roof
 ---
 

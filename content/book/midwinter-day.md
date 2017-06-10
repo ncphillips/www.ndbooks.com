@@ -1,19 +1,22 @@
 ---
 title: "Midwinter Day"
 draft: false
-date: 1999-05-01T05:00:18-04:00
-publication_date: 1999-05-01T05:00:18-04:00
+date: 1999-05-01T05:00:18.000Z
+publication_date: 1999-05-01T05:00:18.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/bernadette-mayer.md
+  - author/bernadette-mayer.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811214063
+  - isbn: 9780811214063
+    binding: paperback
+featured_image_path:
 _slug: midwinter-day
 ---
 

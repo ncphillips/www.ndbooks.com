@@ -1,20 +1,23 @@
 ---
 title: "Selected Stories of Siegfried Lenz"
 draft: false
-date: 1989-10-01T05:00:57-04:00
-publication_date: 1989-10-01T05:00:57-04:00
+date: 1989-10-01T05:00:57.000Z
+publication_date: 1989-10-01T05:00:57.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language:
 author:
-  - contributor/siegfried-lenz.md
+  - author/siegfried-lenz.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811211055
+  - isbn: 9780811211055
+    binding: clothbound
+featured_image_path:
 _slug: selected-stories
 ---
 

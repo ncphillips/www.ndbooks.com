@@ -1,20 +1,24 @@
 ---
 title: "Selected Poems of H.D."
 draft: false
-date: 1988-09-01T05:00:00-04:00
-publication_date: 1988-09-01T05:00:00-04:00
+date: 1988-09-01T05:00:00.000Z
+publication_date: 1988-09-01T05:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/hilda-doolittle-h.-d.md
+  - author/hilda-doolittle-h.-d.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811210669
-  - 9780811223690
+  - isbn: 9780811210669
+    binding: paperback
+  - isbn: 9780811223690
+    binding: ebook
+featured_image_path:
 _slug: selected-poems25
 ---
 

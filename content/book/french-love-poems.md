@@ -1,8 +1,8 @@
 ---
 title: "French Love Poems"
 draft: false
-date: 2015-10-21T18:38:00-04:00
-publication_date: 2016-06-28T23:00:00-04:00
+date: 2015-10-21T18:38:00.000Z
+publication_date: 2016-06-28T23:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
@@ -10,11 +10,15 @@ language: french
 author:
 
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811225595
-  - 9780811225601
+  - isbn: 9780811225595
+    binding: paperback
+  - isbn: 9780811225601
+    binding: ebook
+featured_image_path:
 _slug: french-love-poems
 ---
 
@@ -50,5 +54,5 @@ _As the sea sending its waves to the warm beach._
 
 (Charles Baudelaire)
 
-With poems by Guillaume Apollinaire, Charles Baudelaire, André Breton, Claude Cahun,  René Char, Andrée Chedid, Charles Cros, Robert Desnos, Marceline Desbordes-Valmore, Paul Éluard, Francis Jammes, Jean Joubert, Louise Labé, James Laughlin, Stéphane Mallarmé, Joyce Mansour, Anna de Noailles, Catherine Pozzi, Jacques Prévert, Arthur Rimbaud, Maurice Scève, Paul Valéry, Paul Verlaine, and Renée Vivien. Edited by Tynan Kogane.
+With poems by Guillaume Apollinaire, Charles Baudelaire, André Breton, Claude Cahun, <span class="redactor-invisible-space"></span> René Char, Andrée Chedid, <span class="redactor-invisible-space">Charles Cros, Robert Desnos, Marceline Desbordes-Valmore, Paul Éluard, Francis Jammes, <span class="redactor-invisible-space">Jean Joubert,</span> </span>Louise Labé, James Laughlin, <span class="redactor-invisible-space"></span>Stéphane Mallarmé, Joyce Mansour, Anna de Noailles, <span class="redactor-invisible-space"></span>Catherine Pozzi, Jacques Prévert, Arthur Rimbaud, Maurice Scève, Paul Valéry, <span class="redactor-invisible-space">Paul Verlaine, and Renée Vivien. Edited by Tynan Kogane.</span>
 

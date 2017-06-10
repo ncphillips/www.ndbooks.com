@@ -1,20 +1,22 @@
 ---
 title: "Extracting the Stone of Madness"
 draft: false
-date: 2015-01-20T16:24:00-04:00
-publication_date: 2016-05-17T04:00:00-04:00
+date: 2015-01-20T16:24:00.000Z
+publication_date: 2016-05-17T04:00:00.000Z
 subtitle: "Poems 1962–1972 "
 genre: poetry
 subgenre:
 language: spanish
 author:
-  - contributor/alejandra-pizarnik.md
+  - author/alejandra-pizarnik.md
 translator:
-  - contributor/yvette-siegert.md
+  - author/yvette-siegert.md
 editor:
-featured_image_path:
+
 editions:
-  - 978081122396
+  - isbn: 978081122396
+    binding: paperback
+featured_image_path:
 _slug: extracting-the-stone-of-madness1
 ---
 

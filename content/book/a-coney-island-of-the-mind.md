@@ -1,20 +1,24 @@
 ---
 title: "A Coney Island of The Mind (Special Edition)"
 draft: false
-date: 2001-01-01T06:00:12-04:00
-publication_date: 2001-01-01T06:00:12-04:00
+date: 2001-01-01T06:00:12.000Z
+publication_date: 2001-01-01T06:00:12.000Z
 subtitle: "50th Anniversary Edition"
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/lawrence-ferlinghetti.md
+  - author/lawrence-ferlinghetti.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811200417
-  - 9780811217477
+  - isbn: 9780811200417
+    binding: paperback
+  - isbn: 9780811217477
+    binding: clothbound
+featured_image_path:
 _slug: a-coney-island-of-the-mind
 ---
 

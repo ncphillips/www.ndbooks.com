@@ -1,21 +1,24 @@
 ---
 title: "Nausea"
 draft: false
-date: 2013-03-25T16:48:00-04:00
-publication_date: 2013-03-25T16:48:00-04:00
+date: 2013-03-25T16:48:00.000Z
+publication_date: 2013-03-25T16:48:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: french
 author:
-  - contributor/jean-paul-sartre.md
+  - author/jean-paul-sartre.md
 translator:
-  - contributor/richard-howard.md
+  - author/richard-howard.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811220309
-  - 9780811222525
+  - isbn: 9780811220309
+    binding: paperback
+  - isbn: 9780811222525
+    binding: ebook
+featured_image_path:
 _slug: nausea
 ---
 

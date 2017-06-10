@@ -1,19 +1,22 @@
 ---
 title: "Crossings"
 draft: false
-date: 2007-06-01T05:00:51-04:00
-publication_date: 2007-06-01T05:00:51-04:00
+date: 2007-06-01T05:00:51.000Z
+publication_date: 2007-06-01T05:00:51.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/chuang-hua.md
+  - author/chuang-hua.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216685
+  - isbn: 9780811216685
+    binding: paperback
+featured_image_path:
 _slug: crossings
 ---
 

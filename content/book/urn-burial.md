@@ -1,21 +1,25 @@
 ---
 title: "Urn Burial"
 draft: false
-date: 1990-10-26T14:28:00-04:00
-publication_date: 1990-10-26T14:28:00-04:00
+date: 1990-10-26T14:28:00.000Z
+publication_date: 1990-10-26T14:28:00.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - essay
 language:
 author:
-  - contributor/thomas-browne.md
+  - author/thomas-browne.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218924
-  - 9780811221542
+  - isbn: 9780811218924
+    binding: paperback
+  - isbn: 9780811221542
+    binding: ebook
+featured_image_path:
 _slug: urn-burial
 ---
 

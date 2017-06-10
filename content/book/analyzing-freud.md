@@ -1,21 +1,25 @@
 ---
 title: "Analyzing Freud"
 draft: false
-date: 2005-01-01T06:00:09-04:00
-publication_date: 2005-01-01T06:00:09-04:00
+date: 2005-01-01T06:00:09.000Z
+publication_date: 2005-01-01T06:00:09.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - memoir
 language:
 author:
-  - contributor/hilda-doolittle-h.-d.md
+  - author/hilda-doolittle-h.-d.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216036
-  - 9780811214995
+  - isbn: 9780811216036
+    binding: paperback
+  - isbn: 9780811214995
+    binding: clothbound
+featured_image_path:
 _slug: analyzing-freud
 ---
 

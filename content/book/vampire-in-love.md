@@ -1,21 +1,24 @@
 ---
 title: "Vampire in Love "
 draft: false
-date: 2016-03-07T18:22:00-04:00
-publication_date: 2016-09-27T04:00:00-04:00
+date: 2016-03-07T18:22:00.000Z
+publication_date: 2016-09-27T04:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: spanish
 author:
-  - contributor/enrique-vila-matas.md
+  - author/enrique-vila-matas.md
 translator:
-  - contributor/margaret-jull-costa.md
+  - author/margaret-jull-costa.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811223461
-  - 9780811223478
+  - isbn: 9780811223461
+    binding: paperback
+  - isbn: 9780811223478
+    binding: ebook
+featured_image_path:
 _slug: vampire-in-love
 ---
 

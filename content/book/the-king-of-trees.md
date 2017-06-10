@@ -1,20 +1,22 @@
 ---
 title: "The King of Trees"
 draft: false
-date: 2010-06-01T05:00:54-04:00
-publication_date: 2010-06-01T05:00:54-04:00
+date: 2010-06-01T05:00:54.000Z
+publication_date: 2010-06-01T05:00:54.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/ah-cheng.md
+  - author/ah-cheng.md
 translator:
-  - contributor/bonnie-s.-macdougall.md
+  - author/bonnie-s.-macdougall.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218665
+  - isbn: 9780811218665
+    binding: paperback
+featured_image_path:
 _slug: the-king-of-trees
 ---
 

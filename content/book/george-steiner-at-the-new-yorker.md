@@ -1,22 +1,25 @@
 ---
 title: "George Steiner at the New Yorker"
 draft: false
-date: 2009-01-01T06:00:00-04:00
-publication_date: 2009-01-01T06:00:00-04:00
+date: 2009-01-01T06:00:00.000Z
+publication_date: 2009-01-01T06:00:00.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - essay
 language:
 author:
-  - contributor/george-steiner-g.md
+  - author/george-steiner-g.md
 translator:
+
 editor:
-  - contributor/robert-boyers.md
-featured_image_path:
+  - author/robert-boyers.md
 editions:
-  - 9780811217040
-  - 9780811221658
+  - isbn: 9780811217040
+    binding: paperback
+  - isbn: 9780811221658
+    binding: ebook
+featured_image_path:
 _slug: george-steiner-at-the-new-yorker
 ---
 

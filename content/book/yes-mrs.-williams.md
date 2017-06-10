@@ -1,20 +1,23 @@
 ---
 title: "Yes, Mrs. Williams"
 draft: false
-date: 1982-08-01T05:00:00-04:00
-publication_date: 1982-08-01T05:00:00-04:00
+date: 1982-08-01T05:00:00.000Z
+publication_date: 1982-08-01T05:00:00.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - memoir
 language: portuguese
 author:
-  - contributor/william-carlos-williams.md
+  - author/william-carlos-williams.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811208321
+  - isbn: 9780811208321
+    binding: paperback
+featured_image_path:
 _slug: yes-mrs.-williams
 ---
 

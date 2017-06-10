@@ -1,22 +1,24 @@
 ---
 title: "A Breath of Life"
 draft: false
-date: 2012-06-13T20:03:00-04:00
-publication_date: 2012-06-13T20:03:00-04:00
+date: 2012-06-13T20:03:00.000Z
+publication_date: 2012-06-13T20:03:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/clarice-lispector.md
+  - author/clarice-lispector.md
 translator:
-  - contributor/johnny-lorenz.md
+  - author/johnny-lorenz.md
 editor:
-  - contributor/benjamin-moser.md
-featured_image_path:
+  - author/benjamin-moser.md
 editions:
-  - 9780811219624
-  - 9780811220705
+  - isbn: 9780811219624
+    binding: paperback
+  - isbn: 9780811220705
+    binding: ebook
+featured_image_path:
 _slug: a-breath-of-life
 ---
 

@@ -1,19 +1,22 @@
 ---
 title: "The Poems Of Dylan Thomas"
 draft: false
-date: 2003-04-01T06:00:46-04:00
-publication_date: 2003-04-01T06:00:46-04:00
+date: 2003-04-01T06:00:46.000Z
+publication_date: 2003-04-01T06:00:46.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/dylan-thomas-d.md
+  - author/dylan-thomas-d.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811215411
+  - isbn: 9780811215411
+    binding: clothbound
+featured_image_path:
 _slug: the-poems-of-dylan-thomas
 ---
 

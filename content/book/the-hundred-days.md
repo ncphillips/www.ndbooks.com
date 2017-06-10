@@ -1,22 +1,26 @@
 ---
 title: "The Hundred Days"
 draft: false
-date: 2014-10-07T15:03:00-04:00
-publication_date: 2016-01-12T01:00:00-04:00
+date: 2014-10-07T15:03:00.000Z
+publication_date: 2016-01-12T01:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: german
 author:
-  - contributor/joseph-roth.md
+  - author/joseph-roth.md
 translator:
-  - contributor/richard-panchyk.md
+  - author/richard-panchyk.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811225113
-  - 9780811222785
-  - 9780811222792
+  - isbn: 9780811225113
+    binding: paperback
+  - isbn: 9780811222785
+    binding: clothbound
+  - isbn: 9780811222792
+    binding: ebook
+featured_image_path:
 _slug: the-hundred-days
 ---
 

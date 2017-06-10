@@ -1,9 +1,40 @@
 {{ define "main" }}
-{{ $section :=  where .Site.RegularPages "Section" "book" }}
+{{ $books :=  sort (where (.Site.Data.editions) ".binding" "ne" "ebook") "publication_date" "desc" }}
+{{ $book :=  index (where .Site.RegularPages "Section" "book")  }}
 
-  {{ $events := where $section ".Date.Unix" "ge" now.Unix }}
-  {{ $events_past := where $section.Reverse ".Date.Unix" "<" now.Unix }}
 
+
+
+{{/* {{ $book := index (index $book).Params.editions }}
+
+{{ $book }} */}}
+
+
+{{/* {{ $book_isbn := slice ($book).Params.editions  }} */}}
+
+{{/* {{ $book_isbn }} */}}
+{{/* {{ range $book }}
+
+  <h3 class="">{{.Params.editions }}</h3>
+{{ end }} */}}
+
+{{/* {{ $book_isbn := (index $book).Params.editions }}
+
+{{ $book_isbn }} */}}
+
+
+
+  {{/* {{ $events := where $books ".Date.Unix" "ge" now.Unix }}
+  {{ $events_past := where $books.Reverse ".Date.Unix" "<" now.Unix }} */}}
+
+
+{{/*
+  {{ $staff := where .Site.RegularPages "Section" "staff" }}
+  {{ $ps := .Params.production_staff }}
+
+  {{ $b := where ($staff) ".File.BaseFileName" "in" $ps }}
+  by {{ range $i, $b := $b }}{{ if $i }}, {{ end }}<a href="{{ .URL }}" class="dim link white-90">{{ .Title }}</a>{{ end }}
+ */}}
 
 
 
@@ -17,13 +48,36 @@
 
 
 
+{{/* {{ $thebooks := slice $book.Params.editions }} */}}
+
+  {{ range first 30 $books }}
+
+  {{/* {{ range $book }}
+    {{ range .Params.editions }}
+        {{ $.Scratch.Add "edition" . }}
+    {{ end }}
+
+  {{ end }}
+
+{{ $edition := $.Scratch.Get "edition" }}
+<h2 class="">{{ $edition }}</h2> */}}
+{{/*
+{{ $related_book := where $edition .isbn }} */}}
 
 
-  {{ range first 20 $section }}
+{{/* {{ . }} */}}
 
+{{/* {{ end }} */}}
 
-<h3 class="">{{ .Title }} -  {{ .Date.Format "Jan 02, 2006" }}
+<h3 class="">
+{{/* {{ $related_book.Title  }} */}}
+{{ int .isbn }} ({{ .book_title }})
 
+  {{/* {{ $related_book := where $book_isbn .isbn }} */}}
+
+  {{/* {{ $related_book }} */}}
+ -  {{  dateFormat "Jan 02, 2006" .publication_date }}
+<img src="{{ .cover_image_path }}" class="h3" />
   {{/* {{ $pubdate := slice (index (.Params.editions) 0).publication_date }} */}}
 
 </h3>

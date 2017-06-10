@@ -1,21 +1,24 @@
 ---
 title: "Moods"
 draft: false
-date: 2015-03-26T21:19:00-04:00
-publication_date: 2015-06-09T19:43:00-04:00
+date: 2015-03-26T21:19:00.000Z
+publication_date: 2015-06-09T19:43:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: hebrew
 author:
-  - contributor/yoel-hoffmann.md
+  - author/yoel-hoffmann.md
 translator:
-  - contributor/peter-cole.md
+  - author/peter-cole.md
 editor:
-featured_image_path: /uploads/1428415904585/9780811223829.jpg
+
 editions:
-  - 9780811223829
-  - 9780811222836
+  - isbn: 9780811223829
+    binding: paperback
+  - isbn: 9780811222836
+    binding: ebook
+featured_image_path: /uploads/1428415904585/9780811223829.jpg
 _slug: moods
 ---
 

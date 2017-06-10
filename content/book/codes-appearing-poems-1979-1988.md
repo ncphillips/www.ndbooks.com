@@ -1,19 +1,22 @@
 ---
 title: "Codes Appearing: Poems 1979-1988"
 draft: false
-date: 2001-05-01T05:00:58-04:00
-publication_date: 2001-05-01T05:00:58-04:00
+date: 2001-05-01T05:00:58.000Z
+publication_date: 2001-05-01T05:00:58.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/michael-palmer.md
+  - author/michael-palmer.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811214704
+  - isbn: 9780811214704
+    binding: paperback
+featured_image_path:
 _slug: codes-appearing-poems-1979-1988
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "The Quarry"
 draft: false
-date: 2015-03-26T21:15:00-04:00
-publication_date: 2015-12-07T05:00:00-04:00
+date: 2015-03-26T21:15:00.000Z
+publication_date: 2015-12-07T05:00:00.000Z
 subtitle:
 genre: nonfiction
 subgenre:
@@ -10,13 +10,17 @@ subgenre:
   - non fiction
 language:
 author:
-  - contributor/susan-howe.md
+  - author/susan-howe.md
 translator:
+
 editor:
-featured_image_path: /uploads/1471985875696/Quarry.jpg
+
 editions:
-  - 9780811222464
-  - 9780811224543
+  - isbn: 9780811222464
+    binding:
+  - isbn: 9780811224543
+    binding: ebook
+featured_image_path: /uploads/1471985875696/Quarry.jpg
 _slug: the-quarry
 ---
 

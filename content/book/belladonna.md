@@ -1,21 +1,24 @@
 ---
 title: "Belladonna"
 draft: false
-date: 2017-03-10T19:37:00-04:00
-publication_date: 2017-09-26T04:00:00-04:00
+date: 2017-03-10T19:37:00.000Z
+publication_date: 2017-09-26T04:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/daša-drndić.md
+  - author/daša-drndić.md
 translator:
-  - contributor/celia-hawkesworth.md
+  - author/celia-hawkesworth.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811227216
-  - 9780811227223
+  - isbn: 9780811227216
+    binding: paperback
+  - isbn: 9780811227223
+    binding: ebook
+featured_image_path:
 _slug: belladonna
 ---
 

@@ -1,20 +1,24 @@
 ---
 title: "The Death of a Beekeeper"
 draft: false
-date: 1981-11-01T06:00:24-04:00
-publication_date: 1981-11-01T06:00:24-04:00
+date: 1981-11-01T06:00:24.000Z
+publication_date: 1981-11-01T06:00:24.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/lars-gustafsson.md
+  - author/lars-gustafsson.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811208109
-  - 9780811208093
+  - isbn: 9780811208109
+    binding: paperback
+  - isbn: 9780811208093
+    binding: clothbound
+featured_image_path:
 _slug: the-death-of-a-beekeeper
 ---
 

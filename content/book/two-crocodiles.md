@@ -1,22 +1,24 @@
 ---
 title: "Two Crocodiles"
 draft: false
-date: 2013-07-16T15:03:00-04:00
-publication_date: 2013-07-16T15:03:00-04:00
+date: 2013-07-16T15:03:00.000Z
+publication_date: 2013-07-16T15:03:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: russian
 author:
-  - contributor/fyodor-dostoevsky.md
-  - contributor/felisberto-hernandez.md
+  - author/fyodor-dostoevsky.md
+  - author/felisberto-hernandez.md
 translator:
-  - contributor/constance-garnett.md
-  - contributor/esther-allen.md
+  - author/constance-garnett.md
+  - author/esther-allen.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811220989
+  - isbn: 9780811220989
+    binding: paperback
+featured_image_path:
 _slug: two-crocodiles
 ---
 

@@ -1,20 +1,22 @@
 ---
 title: "Dirty Poem"
 draft: false
-date: 2015-04-07T15:13:00-04:00
-publication_date: 2015-04-07T14:38:00-04:00
+date: 2015-04-07T15:13:00.000Z
+publication_date: 2015-04-07T14:38:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/ferreira-gullar.md
+  - author/ferreira-gullar.md
 translator:
-  - contributor/leland-guyer.md
+  - author/leland-guyer.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811223959
+  - isbn: 9780811223959
+    binding: paperback
+featured_image_path:
 _slug: dirty-poem
 ---
 

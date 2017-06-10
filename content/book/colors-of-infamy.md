@@ -1,21 +1,24 @@
 ---
 title: "The Colors of Infamy"
 draft: false
-date: 2011-11-23T14:28:00-04:00
-publication_date: 2011-11-23T14:28:00-04:00
+date: 2011-11-23T14:28:00.000Z
+publication_date: 2011-11-23T14:28:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: french
 author:
-  - contributor/albert-cossery.md
+  - author/albert-cossery.md
 translator:
-  - contributor/alyson-waters.md
+  - author/alyson-waters.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217958
-  - 9780811221252
+  - isbn: 9780811217958
+    binding: paperback
+  - isbn: 9780811221252
+    binding: ebook
+featured_image_path:
 _slug: colors-of-infamy
 ---
 

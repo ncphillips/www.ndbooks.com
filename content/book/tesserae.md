@@ -1,20 +1,24 @@
 ---
 title: "Tesserae"
 draft: false
-date: 1996-04-01T06:00:00-04:00
-publication_date: 1996-04-01T06:00:00-04:00
+date: 1996-04-01T06:00:00.000Z
+publication_date: 1996-04-01T06:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/denise-levertov.md
+  - author/denise-levertov.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811213370
-  - 9780811212922
+  - isbn: 9780811213370
+    binding: paperback
+  - isbn: 9780811212922
+    binding: clothbound
+featured_image_path:
 _slug: tesserae
 ---
 

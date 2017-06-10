@@ -1,19 +1,22 @@
 ---
 title: "Three Short Novels"
 draft: false
-date: 1991-01-01T06:00:55-04:00
-publication_date: 1991-01-01T06:00:55-04:00
+date: 1991-01-01T06:00:55.000Z
+publication_date: 1991-01-01T06:00:55.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/kay-boyle.md
+  - author/kay-boyle.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811211499
+  - isbn: 9780811211499
+    binding: paperback
+featured_image_path:
 _slug: three-short-novels
 ---
 

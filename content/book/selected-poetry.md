@@ -1,20 +1,24 @@
 ---
 title: "Selected Poetry"
 draft: false
-date: 1993-09-01T05:00:06-04:00
-publication_date: 1993-09-01T05:00:06-04:00
+date: 1993-09-01T05:00:06.000Z
+publication_date: 1993-09-01T05:00:06.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/hugh-macdiarmid.md
+  - author/hugh-macdiarmid.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217811
-  - 9780811212489
+  - isbn: 9780811217811
+    binding: paperback
+  - isbn: 9780811212489
+    binding: clothbound
+featured_image_path:
 _slug: selected-poetry
 ---
 

@@ -1,19 +1,22 @@
 ---
 title: "The Helens of Troy, New York"
 draft: false
-date: 2013-03-26T20:11:00-04:00
-publication_date: 2013-03-26T20:11:00-04:00
+date: 2013-03-26T20:11:00.000Z
+publication_date: 2013-03-26T20:11:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/bernadette-mayer.md
+  - author/bernadette-mayer.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811220422
+  - isbn: 9780811220422
+    binding: paperback
+featured_image_path:
 _slug: the-helens-of-troy-new-york
 ---
 

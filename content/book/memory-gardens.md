@@ -1,19 +1,22 @@
 ---
 title: "Memory Gardens"
 draft: false
-date: 1986-05-01T05:00:00-04:00
-publication_date: 1986-05-01T05:00:00-04:00
+date: 1986-05-01T05:00:00.000Z
+publication_date: 1986-05-01T05:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/robert-creeley.md
+  - author/robert-creeley.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811209748
+  - isbn: 9780811209748
+    binding: paperback
+featured_image_path:
 _slug: memory-gardens
 ---
 

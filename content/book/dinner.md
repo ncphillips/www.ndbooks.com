@@ -1,21 +1,24 @@
 ---
 title: "Dinner"
 draft: false
-date: 2015-03-20T19:31:00-04:00
-publication_date: 2015-10-06T04:00:00-04:00
+date: 2015-03-20T19:31:00.000Z
+publication_date: 2015-10-06T04:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: spanish
 author:
-  - contributor/cesar-aira.md
+  - author/cesar-aira.md
 translator:
-  - contributor/katherine-silver.md
+  - author/katherine-silver.md
 editor:
-featured_image_path: /uploads/1426879880334/dinner_cover.jpg
+
 editions:
-  - 9780811221085
-  - 9780811221092
+  - isbn: 9780811221085
+    binding: paperback
+  - isbn: 9780811221092
+    binding: ebook
+featured_image_path: /uploads/1426879880334/dinner_cover.jpg
 _slug: dinner
 ---
 

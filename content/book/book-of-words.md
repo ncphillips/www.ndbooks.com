@@ -1,20 +1,22 @@
 ---
 title: "The Book of Words"
 draft: false
-date: 2007-12-01T06:00:52-04:00
-publication_date: 2007-12-01T06:00:52-04:00
+date: 2007-12-01T06:00:52.000Z
+publication_date: 2007-12-01T06:00:52.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/jenny-erpenbeck.md
+  - author/jenny-erpenbeck.md
 translator:
-  - contributor/susan-bernofsky.md
+  - author/susan-bernofsky.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217064
+  - isbn: 9780811217064
+    binding: paperback
+featured_image_path:
 _slug: book-of-words
 ---
 

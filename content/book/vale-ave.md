@@ -1,19 +1,22 @@
 ---
 title: "Vale Ave"
 draft: false
-date: 2013-07-10T19:19:00-04:00
-publication_date: 2013-07-10T19:19:00-04:00
+date: 2013-07-10T19:19:00.000Z
+publication_date: 2013-07-10T19:19:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/hilda-doolittle-h.-d.md
+  - author/hilda-doolittle-h.-d.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811221078
+  - isbn: 9780811221078
+    binding: paperback
+featured_image_path:
 _slug: vale-ave
 ---
 

@@ -1,21 +1,24 @@
 ---
 title: "The Country Road"
 draft: false
-date: 2015-01-20T15:46:00-04:00
-publication_date: 2015-01-20T15:46:00-04:00
+date: 2015-01-20T15:46:00.000Z
+publication_date: 2015-01-20T15:46:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/regina-ullmann.md
+  - author/regina-ullmann.md
 translator:
-  - contributor/kurt-beals.md
+  - author/kurt-beals.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811220057
-  - 9780811220064
+  - isbn: 9780811220057
+    binding: paperback
+  - isbn: 9780811220064
+    binding: ebook
+featured_image_path:
 _slug: the-country-road
 ---
 

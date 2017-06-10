@@ -1,20 +1,23 @@
 ---
 title: "Loew’s Triboro"
 draft: false
-date: 2004-04-15T16:19:52-04:00
-publication_date: 2004-04-15T16:19:52-04:00
+date: 2004-04-15T16:19:52.000Z
+publication_date: 2004-04-15T16:19:52.000Z
 subtitle:
 genre: poetry
 subgenre:
   - selections
 language:
 author:
-  - contributor/john-allman.md
+  - author/john-allman.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811215770
+  - isbn: 9780811215770
+    binding: paperback
+featured_image_path:
 _slug: loews-triboro
 ---
 

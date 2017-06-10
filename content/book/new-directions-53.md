@@ -1,8 +1,8 @@
 ---
 title: "New Directions 53"
 draft: false
-date: 1989-10-01T05:00:08-04:00
-publication_date: 1989-10-01T05:00:08-04:00
+date: 1989-10-01T05:00:08.000Z
+publication_date: 1989-10-01T05:00:08.000Z
 subtitle:
 genre: fiction
 subgenre:
@@ -11,11 +11,15 @@ language:
 author:
 
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811211079
-  - 9780811211062
+  - isbn: 9780811211079
+    binding: paperback
+  - isbn: 9780811211062
+    binding: clothbound
+featured_image_path:
 _slug: new-directions-53
 ---
 

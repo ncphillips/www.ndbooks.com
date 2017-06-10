@@ -1,19 +1,22 @@
 ---
 title: "The Art Lover"
 draft: false
-date: 2006-06-01T05:00:25-04:00
-publication_date: 2006-06-01T05:00:25-04:00
+date: 2006-06-01T05:00:25.000Z
+publication_date: 2006-06-01T05:00:25.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/carole-maso.md
+  - author/carole-maso.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216296
+  - isbn: 9780811216296
+    binding: paperback
+featured_image_path:
 _slug: the-art-lover
 ---
 

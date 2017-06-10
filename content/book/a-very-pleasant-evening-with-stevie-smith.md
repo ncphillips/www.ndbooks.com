@@ -1,20 +1,23 @@
 ---
 title: "A Very Pleasant Evening with Stevie Smith"
 draft: false
-date: 1995-06-01T05:00:22-04:00
-publication_date: 1995-06-01T05:00:22-04:00
+date: 1995-06-01T05:00:22.000Z
+publication_date: 1995-06-01T05:00:22.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language:
 author:
-  - contributor/stevie-smith-s.md
+  - author/stevie-smith-s.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811212953
+  - isbn: 9780811212953
+    binding: paperback
+featured_image_path:
 _slug: a-very-pleasant-evening-with-stevie-smith
 ---
 

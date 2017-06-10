@@ -1,21 +1,24 @@
 ---
 title: "I Am the Brother of XX"
 draft: false
-date: 2016-11-21T20:33:00-04:00
-publication_date: 2017-07-25T04:00:00-04:00
+date: 2016-11-21T20:33:00.000Z
+publication_date: 2017-07-25T04:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: italian
 author:
-  - contributor/fleur-jaeggy.md
+  - author/fleur-jaeggy.md
 translator:
-  - contributor/gini-alhadeff.md
+  - author/gini-alhadeff.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811225984
-  - 9780811225991
+  - isbn: 9780811225984
+    binding: paperback
+  - isbn: 9780811225991
+    binding: ebook
+featured_image_path:
 _slug: i-am-the-brother-of-xx
 ---
 

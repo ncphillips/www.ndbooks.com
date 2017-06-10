@@ -1,21 +1,24 @@
 ---
 title: "New Collected Poems of George Oppen"
 draft: false
-date: 2008-11-01T05:00:00-04:00
-publication_date: 2008-11-01T05:00:00-04:00
+date: 2008-11-01T05:00:00.000Z
+publication_date: 2008-11-01T05:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/george-oppen.md
+  - author/george-oppen.md
 translator:
+
 editor:
-  - contributor/eliot-weinberger.md
-featured_image_path:
+  - author/eliot-weinberger.md
 editions:
-  - 9780811218054
-  - 9780811214889
+  - isbn: 9780811218054
+    binding: paperback
+  - isbn: 9780811214889
+    binding: clothbound
+featured_image_path:
 _slug: new-collected-poems
 ---
 

@@ -1,21 +1,24 @@
 ---
 title: "Visitation"
 draft: false
-date: 2010-09-30T14:28:00-04:00
-publication_date: 2010-09-30T14:28:00-04:00
+date: 2010-09-30T14:28:00.000Z
+publication_date: 2010-09-30T14:28:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: german
 author:
-  - contributor/jenny-erpenbeck.md
+  - author/jenny-erpenbeck.md
 translator:
-  - contributor/susan-bernofsky.md
+  - author/susan-bernofsky.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218351
-  - 9780811219310
+  - isbn: 9780811218351
+    binding: paperback
+  - isbn: 9780811219310
+    binding: ebook
+featured_image_path:
 _slug: visitation
 ---
 

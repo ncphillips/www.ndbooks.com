@@ -1,20 +1,24 @@
 ---
 title: "The Last Samurai"
 draft: false
-date: 2015-10-21T17:23:00-04:00
-publication_date: 2016-05-31T23:00:00-04:00
+date: 2015-10-21T17:23:00.000Z
+publication_date: 2016-05-31T23:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/helen-dewitt.md
+  - author/helen-dewitt.md
 translator:
+
 editor:
-featured_image_path: /uploads/1454447794549/seven%20samurai.jpg
+
 editions:
-  - 9780811225502
-  - 9780811225519
+  - isbn: 9780811225502
+    binding: paperback
+  - isbn: 9780811225519
+    binding: ebook
+featured_image_path: /uploads/1454447794549/seven%20samurai.jpg
 _slug: the-last-samurai
 ---
 

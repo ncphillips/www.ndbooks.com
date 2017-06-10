@@ -1,20 +1,24 @@
 ---
 title: "Selected Poems of William Carlos Williams"
 draft: false
-date: 1985-09-01T05:00:00-04:00
-publication_date: 1985-09-01T05:00:00-04:00
+date: 1985-09-01T05:00:00.000Z
+publication_date: 1985-09-01T05:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/william-carlos-williams.md
+  - author/william-carlos-williams.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811209588
-  - 9780811223423
+  - isbn: 9780811209588
+    binding: paperback
+  - isbn: 9780811223423
+    binding: ebook
+featured_image_path:
 _slug: selected-poems-of-william-carlos-williams
 ---
 

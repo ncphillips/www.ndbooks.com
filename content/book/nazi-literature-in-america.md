@@ -1,23 +1,27 @@
 ---
 title: "Nazi Literature in the Americas"
 draft: false
-date: 2009-05-01T05:00:00-04:00
-publication_date: 2009-05-01T05:00:00-04:00
+date: 2009-05-01T05:00:00.000Z
+publication_date: 2009-05-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language: spanish
 author:
-  - contributor/roberto-bolano.md
+  - author/roberto-bolano.md
 translator:
-  - contributor/chris-andrews.md
+  - author/chris-andrews.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217941
-  - 9780811217057
-  - 9780811220569
+  - isbn: 9780811217941
+    binding: paperback
+  - isbn: 9780811217057
+    binding: clothbound
+  - isbn: 9780811220569
+    binding: ebook
+featured_image_path:
 _slug: nazi-literature-in-america
 ---
 

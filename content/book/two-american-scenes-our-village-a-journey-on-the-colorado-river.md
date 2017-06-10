@@ -1,20 +1,23 @@
 ---
 title: "Two American Scenes"
 draft: false
-date: 2013-03-26T20:19:00-04:00
-publication_date: 2013-03-26T20:19:00-04:00
+date: 2013-03-26T20:19:00.000Z
+publication_date: 2013-03-26T20:19:00.000Z
 subtitle: "Our Village & A Journey on the Colorado River"
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/lydia-davis.md
-  - contributor/eliot-weinberger.md
+  - author/lydia-davis.md
+  - author/eliot-weinberger.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811220415
+  - isbn: 9780811220415
+    binding: paperback
+featured_image_path:
 _slug: two-american-scenes-our-village-a-journey-on-the-colorado-river
 ---
 

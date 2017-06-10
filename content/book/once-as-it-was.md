@@ -1,20 +1,23 @@
 ---
 title: "Once As It Was"
 draft: false
-date: 2008-02-01T06:00:19-04:00
-publication_date: 2008-02-01T06:00:19-04:00
+date: 2008-02-01T06:00:19.000Z
+publication_date: 2008-02-01T06:00:19.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - memoir
 language:
 author:
-  - contributor/griselda-ohannessian.md
+  - author/griselda-ohannessian.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216609
+  - isbn: 9780811216609
+    binding: paperback
+featured_image_path:
 _slug: once-as-it-was
 ---
 

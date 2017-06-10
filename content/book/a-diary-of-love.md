@@ -1,19 +1,22 @@
 ---
 title: "A Diary of Love"
 draft: false
-date: 2010-01-01T06:00:00-04:00
-publication_date: 2010-01-01T06:00:00-04:00
+date: 2010-01-01T06:00:00.000Z
+publication_date: 2010-01-01T06:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: portuguese
 author:
-  - contributor/maude-hutchins.md
+  - author/maude-hutchins.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811219006
+  - isbn: 9780811219006
+    binding: paperback
+featured_image_path:
 _slug: a-diary-of-love
 ---
 

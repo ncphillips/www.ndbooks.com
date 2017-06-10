@@ -1,21 +1,24 @@
 ---
 title: "The Tanners"
 draft: false
-date: 2010-05-01T05:00:00-04:00
-publication_date: 2010-05-01T05:00:00-04:00
+date: 2010-05-01T05:00:00.000Z
+publication_date: 2010-05-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: german
 author:
-  - contributor/robert-walser.md
+  - author/robert-walser.md
 translator:
-  - contributor/susan-bernofsky.md
+  - author/susan-bernofsky.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811215893
-  - 9780811221320
+  - isbn: 9780811215893
+    binding: paperback
+  - isbn: 9780811221320
+    binding: ebook
+featured_image_path:
 _slug: the-tanners
 ---
 

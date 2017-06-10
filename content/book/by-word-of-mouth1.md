@@ -1,8 +1,8 @@
 ---
 title: "By Word of Mouth"
 draft: false
-date: 2011-10-05T14:28:33-04:00
-publication_date: 2011-10-05T14:28:33-04:00
+date: 2011-10-05T14:28:33.000Z
+publication_date: 2011-10-05T14:28:33.000Z
 subtitle: "Poems from the Spanish, 1916–1959"
 genre: poetry
 subgenre:
@@ -11,12 +11,13 @@ language:
 author:
 
 translator:
-  - contributor/william-carlos-williams.md
+  - author/william-carlos-williams.md
 editor:
-  - contributor/jonathan-cohen.md
-featured_image_path:
+  - author/jonathan-cohen.md
 editions:
-  - 9780811218856
+  - isbn: 9780811218856
+    binding: paperback
+featured_image_path:
 _slug: by-word-of-mouth1
 ---
 

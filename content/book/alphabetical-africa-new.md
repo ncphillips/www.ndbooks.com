@@ -1,19 +1,22 @@
 ---
 title: "Alphabetical Africa (New)"
 draft: false
-date: 2016-11-21T20:29:00-04:00
-publication_date: 2017-10-24T04:00:00-04:00
+date: 2016-11-21T20:29:00.000Z
+publication_date: 2017-10-24T04:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/walter-abish.md
+  - author/walter-abish.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811222020
+  - isbn: 9780811222020
+    binding: paperback
+featured_image_path:
 _slug: alphabetical-africa-new
 ---
 

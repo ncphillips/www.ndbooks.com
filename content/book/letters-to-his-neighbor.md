@@ -1,21 +1,24 @@
 ---
 title: "Letters to His Neighbor"
 draft: false
-date: 2017-01-20T16:29:00-04:00
-publication_date: 2017-08-22T04:00:00-04:00
+date: 2017-01-20T16:29:00.000Z
+publication_date: 2017-08-22T04:00:00.000Z
 subtitle:
 genre: nonfiction
 subgenre:
 language: french
 author:
-  - contributor/marcel-proust.md
+  - author/marcel-proust.md
 translator:
-  - contributor/lydia-davis.md
+  - author/lydia-davis.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811224116
-  - 9780811224123
+  - isbn: 9780811224116
+    binding: clothbound
+  - isbn: 9780811224123
+    binding: ebook
+featured_image_path:
 _slug: letters-to-his-neighbor
 ---
 

@@ -1,22 +1,25 @@
 ---
 title: "An Empty Room"
 draft: false
-date: 2011-05-23T14:28:00-04:00
-publication_date: 2011-05-23T14:28:00-04:00
+date: 2011-05-23T14:28:00.000Z
+publication_date: 2011-05-23T14:28:00.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language: chinese
 author:
-  - contributor/mu-xin.md
+  - author/mu-xin.md
 translator:
-  - contributor/toming-jun-liu.md
+  - author/toming-jun-liu.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811219228
-  - 9780811219662
+  - isbn: 9780811219228
+    binding: paperback
+  - isbn: 9780811219662
+    binding: ebook
+featured_image_path:
 _slug: an-empty-room
 ---
 

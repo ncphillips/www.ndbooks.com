@@ -1,20 +1,24 @@
 ---
 title: "The Ether Dome"
 draft: false
-date: 1991-10-01T05:00:57-04:00
-publication_date: 1991-10-01T05:00:57-04:00
+date: 1991-10-01T05:00:57.000Z
+publication_date: 1991-10-01T05:00:57.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/allen-grossman.md
+  - author/allen-grossman.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811211772
-  - 9780811211840
+  - isbn: 9780811211772
+    binding: paperback
+  - isbn: 9780811211840
+    binding: clothbound
+featured_image_path:
 _slug: the-ether-dome
 ---
 

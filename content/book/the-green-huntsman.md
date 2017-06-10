@@ -1,20 +1,22 @@
 ---
 title: "The Green Huntsman"
 draft: false
-date: 2001-01-01T06:00:28-04:00
-publication_date: 2001-01-01T06:00:28-04:00
+date: 2001-01-01T06:00:28.000Z
+publication_date: 2001-01-01T06:00:28.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/stendhal.md
+  - author/stendhal.md
 translator:
-  - contributor/louise-varese.md
+  - author/louise-varese.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218955
+  - isbn: 9780811218955
+    binding: paperback
+featured_image_path:
 _slug: the-green-huntsman
 ---
 

@@ -1,20 +1,24 @@
 ---
 title: "Sigismund"
 draft: false
-date: 1985-02-01T06:00:14-04:00
-publication_date: 1985-02-01T06:00:14-04:00
+date: 1985-02-01T06:00:14.000Z
+publication_date: 1985-02-01T06:00:14.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/lars-gustafsson.md
+  - author/lars-gustafsson.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811209243
-  - 9780811209236
+  - isbn: 9780811209243
+    binding: paperback
+  - isbn: 9780811209236
+    binding: clothbound
+featured_image_path:
 _slug: sigismund
 ---
 

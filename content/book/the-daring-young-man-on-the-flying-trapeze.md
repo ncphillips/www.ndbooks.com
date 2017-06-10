@@ -1,19 +1,22 @@
 ---
 title: "The Daring Young Man on the Flying Trapeze"
 draft: false
-date: 1997-10-01T05:00:23-04:00
-publication_date: 1997-10-01T05:00:23-04:00
+date: 1997-10-01T05:00:23.000Z
+publication_date: 1997-10-01T05:00:23.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/william-saroyan.md
+  - author/william-saroyan.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811213653
+  - isbn: 9780811213653
+    binding: paperback
+featured_image_path:
 _slug: the-daring-young-man-on-the-flying-trapeze
 ---
 

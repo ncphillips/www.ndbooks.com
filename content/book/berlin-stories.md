@@ -1,20 +1,24 @@
 ---
 title: "The Berlin Stories"
 draft: false
-date: 2008-09-01T05:00:00-04:00
-publication_date: 2008-09-01T05:00:00-04:00
+date: 2008-09-01T05:00:00.000Z
+publication_date: 2008-09-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/christopher-isherwood.md
+  - author/christopher-isherwood.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218047
-  - 9780811220286
+  - isbn: 9780811218047
+    binding: paperback
+  - isbn: 9780811220286
+    binding: ebook
+featured_image_path:
 _slug: berlin-stories
 ---
 

@@ -1,20 +1,22 @@
 ---
 title: "Devils in Daylight"
 draft: false
-date: 2016-07-11T14:56:00-04:00
-publication_date: 2017-04-25T23:00:00-04:00
+date: 2016-07-11T14:56:00.000Z
+publication_date: 2017-04-25T23:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: japanese
 author:
-  - contributor/junichiro-tanizaki.md
+  - author/junichiro-tanizaki.md
 translator:
-  - contributor/j-keith-vincent.md
+  - author/j-keith-vincent.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811224918
+  - isbn: 9780811224918
+    binding: clothbound
+featured_image_path:
 _slug: devils-in-daylight
 ---
 

@@ -1,20 +1,23 @@
 ---
 title: "Love In Vain"
 draft: false
-date: 2001-05-01T05:00:00-04:00
-publication_date: 2001-05-01T05:00:00-04:00
+date: 2001-05-01T05:00:00.000Z
+publication_date: 2001-05-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language: italian
 author:
-  - contributor/federigo-tozzi.md
+  - author/federigo-tozzi.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811214711
+  - isbn: 9780811214711
+    binding: paperback
+featured_image_path:
 _slug: love-in-vain
 ---
 

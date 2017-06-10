@@ -1,20 +1,24 @@
 ---
 title: "A Streetcar Named Desire"
 draft: false
-date: 2004-09-01T05:00:00-04:00
-publication_date: 2004-09-01T05:00:00-04:00
+date: 2004-09-01T05:00:00.000Z
+publication_date: 2004-09-01T05:00:00.000Z
 subtitle:
 genre: theater
 subgenre:
 language:
 author:
-  - contributor/tennessee-williams.md
+  - author/tennessee-williams.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216029
-  - 9780811220767
+  - isbn: 9780811216029
+    binding: paperback
+  - isbn: 9780811220767
+    binding: ebook
+featured_image_path:
 _slug: a-streetcar-named-desire
 ---
 

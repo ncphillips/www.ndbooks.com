@@ -1,20 +1,22 @@
 ---
 title: "A Tree Within"
 draft: false
-date: 1988-11-01T06:00:00-04:00
-publication_date: 1988-11-01T06:00:00-04:00
+date: 1988-11-01T06:00:00.000Z
+publication_date: 1988-11-01T06:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language: spanish
 author:
-  - contributor/octavio-paz.md
+  - author/octavio-paz.md
 translator:
-  - contributor/eliot-weinberger.md
+  - author/eliot-weinberger.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811210713
+  - isbn: 9780811210713
+    binding: paperback
+featured_image_path:
 _slug: a-tree-within
 ---
 

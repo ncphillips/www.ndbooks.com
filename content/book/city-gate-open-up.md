@@ -1,22 +1,25 @@
 ---
 title: "City Gate, Open Up"
 draft: false
-date: 2016-07-07T20:12:00-04:00
-publication_date: 2017-04-25T04:00:00-04:00
+date: 2016-07-07T20:12:00.000Z
+publication_date: 2017-04-25T04:00:00.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - memoir
 language: chinese
 author:
-  - contributor/bei-dao.md
+  - author/bei-dao.md
 translator:
-  - contributor/jeffrey-yang-author-page.md
+  - author/jeffrey-yang-author-page.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811226431
-  - 9780811226448
+  - isbn: 9780811226431
+    binding: paperback
+  - isbn: 9780811226448
+    binding: ebook
+featured_image_path:
 _slug: city-gate-open-up
 ---
 

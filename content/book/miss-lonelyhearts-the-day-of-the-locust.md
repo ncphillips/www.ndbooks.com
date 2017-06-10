@@ -1,20 +1,24 @@
 ---
 title: "Miss Lonelyhearts & The Day of the Locust"
 draft: false
-date: 2009-06-01T05:00:00-04:00
-publication_date: 2009-06-01T05:00:00-04:00
+date: 2009-06-01T05:00:00.000Z
+publication_date: 2009-06-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/nathanael-west-n.md
+  - author/nathanael-west-n.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218221
-  - 9780811219389
+  - isbn: 9780811218221
+    binding: paperback
+  - isbn: 9780811219389
+    binding: ebook
+featured_image_path:
 _slug: miss-lonelyhearts-the-day-of-the-locust
 ---
 

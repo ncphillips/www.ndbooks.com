@@ -1,19 +1,22 @@
 ---
 title: "Breathing The Water"
 draft: false
-date: 1987-03-01T06:00:00-04:00
-publication_date: 1987-03-01T06:00:00-04:00
+date: 1987-03-01T06:00:00.000Z
+publication_date: 1987-03-01T06:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/denise-levertov.md
+  - author/denise-levertov.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811210270
+  - isbn: 9780811210270
+    binding: paperback
+featured_image_path:
 _slug: breathing-the-water
 ---
 

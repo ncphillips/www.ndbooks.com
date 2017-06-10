@@ -1,21 +1,25 @@
 ---
 title: "A Table of Green Fields"
 draft: false
-date: 1993-11-01T06:00:35-04:00
-publication_date: 1993-11-01T06:00:35-04:00
+date: 1993-11-01T06:00:35.000Z
+publication_date: 1993-11-01T06:00:35.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language:
 author:
-  - contributor/guy-davenport.md
+  - author/guy-davenport.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217712
-  - 9780811212519
+  - isbn: 9780811217712
+    binding: paperback
+  - isbn: 9780811212519
+    binding: clothbound
+featured_image_path:
 _slug: table-of-green-fields
 ---
 

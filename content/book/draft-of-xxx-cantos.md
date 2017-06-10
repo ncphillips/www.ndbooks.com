@@ -1,19 +1,22 @@
 ---
 title: "A Draft Of XXX Cantos"
 draft: false
-date: 1990-05-01T05:00:00-04:00
-publication_date: 1990-05-01T05:00:00-04:00
+date: 1990-05-01T05:00:00.000Z
+publication_date: 1990-05-01T05:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language: portuguese
 author:
-  - contributor/ezra-pound.md
+  - author/ezra-pound.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811211284
+  - isbn: 9780811211284
+    binding: paperback
+featured_image_path:
 _slug: draft-of-xxx-cantos
 ---
 

@@ -1,19 +1,22 @@
 ---
 title: "Selected Poems of George Oppen"
 draft: false
-date: 2003-09-01T05:00:23-04:00
-publication_date: 2003-09-01T05:00:23-04:00
+date: 2003-09-01T05:00:00.000Z
+publication_date: 2003-09-01T05:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/george-oppen.md
+  - author/george-oppen.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811215572
+  - isbn: 9780811215572
+    binding: paperback
+featured_image_path:
 _slug: selected-poems42
 ---
 

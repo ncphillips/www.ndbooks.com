@@ -1,20 +1,23 @@
 ---
 title: "Fabricating Lives"
 draft: false
-date: 1991-06-01T05:00:24-04:00
-publication_date: 1991-06-01T05:00:24-04:00
+date: 1991-06-01T05:00:24.000Z
+publication_date: 1991-06-01T05:00:24.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - essay
 language:
 author:
-  - contributor/herbert-leibowitz.md
+  - author/herbert-leibowitz.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811211680
+  - isbn: 9780811211680
+    binding: paperback
+featured_image_path:
 _slug: fabricating-lives
 ---
 

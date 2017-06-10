@@ -1,19 +1,22 @@
 ---
 title: "Ancestors"
 draft: false
-date: 2001-06-01T05:00:14-04:00
-publication_date: 2001-06-01T05:00:14-04:00
+date: 2001-06-01T05:00:14.000Z
+publication_date: 2001-06-01T05:00:14.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/kamau-brathwaite.md
+  - author/kamau-brathwaite.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811214483
+  - isbn: 9780811214483
+    binding: paperback
+featured_image_path:
 _slug: ancestors
 ---
 

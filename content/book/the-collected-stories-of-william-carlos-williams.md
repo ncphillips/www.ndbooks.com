@@ -1,20 +1,23 @@
 ---
 title: "The Collected Stories of William Carlos Williams"
 draft: false
-date: 1996-09-01T05:00:15-04:00
-publication_date: 1996-09-01T05:00:15-04:00
+date: 1996-09-01T05:00:15.000Z
+publication_date: 1996-09-01T05:00:15.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language:
 author:
-  - contributor/william-carlos-williams.md
+  - author/william-carlos-williams.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811213288
+  - isbn: 9780811213288
+    binding: paperback
+featured_image_path:
 _slug: the-collected-stories-of-william-carlos-williams
 ---
 

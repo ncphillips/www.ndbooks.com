@@ -1,19 +1,22 @@
 ---
 title: "In Search of Duende"
 draft: false
-date: 2010-03-01T06:00:00-04:00
-publication_date: 2010-03-01T06:00:00-04:00
+date: 2010-03-01T06:00:00.000Z
+publication_date: 2010-03-01T06:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: spanish
 author:
-  - contributor/federico-garcia-lorca.md
+  - author/federico-garcia-lorca.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218559
+  - isbn: 9780811218559
+    binding: paperback
+featured_image_path:
 _slug: in-search-of-duende
 ---
 

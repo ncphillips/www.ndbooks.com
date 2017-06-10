@@ -1,20 +1,24 @@
 ---
-title: "Mrs. Caliban"
+title: "Mrs. Caliban "
 draft: false
-date: 2017-03-10T19:40:00-04:00
-publication_date: 2017-11-17T05:00:00-04:00
+date: 2017-03-10T19:40:00.000Z
+publication_date: 2017-11-17T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/rachel-ingalls.md
+  - author/rachel-ingalls.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811226691
-  - 9780811227094
+  - isbn: 9780811226691
+    binding: paperback
+  - isbn: 9780811227094
+    binding: ebook
+featured_image_path:
 _slug: mrs-caliban
 ---
 

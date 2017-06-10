@@ -1,20 +1,23 @@
 ---
 title: "New Selected Essays: Where I Live"
 draft: false
-date: 2009-04-01T05:00:00-04:00
-publication_date: 2009-04-01T05:00:00-04:00
+date: 2009-04-01T05:00:00.000Z
+publication_date: 2009-04-01T05:00:00.000Z
 subtitle: "New Selected Essays of Tennessee Williams"
 genre: nonfiction
 subgenre:
   - essay
 language:
 author:
-  - contributor/tennessee-williams.md
+  - author/tennessee-williams.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217286
+  - isbn: 9780811217286
+    binding: paperback
+featured_image_path:
 _slug: new-selected-essays-where-i-live
 ---
 

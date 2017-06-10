@@ -1,20 +1,24 @@
 ---
 title: "If This Be Treason"
 draft: false
-date: 2007-09-01T05:00:36-04:00
-publication_date: 2007-09-01T05:00:36-04:00
+date: 2007-09-01T05:00:36.000Z
+publication_date: 2007-09-01T05:00:36.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/gregory-rabassa.md
+  - author/gregory-rabassa.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216654
-  - 9780811216197
+  - isbn: 9780811216654
+    binding: paperback
+  - isbn: 9780811216197
+    binding: clothbound
+featured_image_path:
 _slug: if-this-be-treason
 ---
 

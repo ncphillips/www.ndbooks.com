@@ -1,19 +1,22 @@
 ---
 title: "Beyond The Mountains"
 draft: false
-date: 2001-01-01T06:00:58-04:00
-publication_date: 2001-01-01T06:00:58-04:00
+date: 2001-01-01T06:00:58.000Z
+publication_date: 2001-01-01T06:00:58.000Z
 subtitle:
 genre: theater
 subgenre:
 language:
 author:
-  - contributor/kenneth-rexroth.md
+  - author/kenneth-rexroth.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811205528
+  - isbn: 9780811205528
+    binding: paperback
+featured_image_path:
 _slug: beyond-the-mountains
 ---
 

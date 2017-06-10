@@ -1,20 +1,23 @@
 ---
 title: "Da Vinci’s Bicycle"
 draft: false
-date: 1997-05-01T05:00:16-04:00
-publication_date: 1997-05-01T05:00:16-04:00
+date: 1997-05-01T05:00:16.000Z
+publication_date: 1997-05-01T05:00:16.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language:
 author:
-  - contributor/guy-davenport.md
+  - author/guy-davenport.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811213509
+  - isbn: 9780811213509
+    binding: paperback
+featured_image_path:
 _slug: da-vincis-bicycle
 ---
 

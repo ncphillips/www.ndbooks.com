@@ -1,21 +1,24 @@
 ---
 title: "Conversations"
 draft: false
-date: 2014-06-26T14:09:00-04:00
-publication_date: 2014-06-26T14:09:00-04:00
+date: 2014-06-26T14:09:00.000Z
+publication_date: 2014-06-26T14:09:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: spanish
 author:
-  - contributor/cesar-aira.md
+  - author/cesar-aira.md
 translator:
-  - contributor/katherine-silver.md
+  - author/katherine-silver.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811221108
-  - 9780811221115
+  - isbn: 9780811221108
+    binding: paperback
+  - isbn: 9780811221115
+    binding: ebook
+featured_image_path:
 _slug: conversations
 ---
 

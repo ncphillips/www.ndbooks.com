@@ -1,20 +1,23 @@
 ---
 title: "Memoirs"
 draft: false
-date: 2007-10-01T05:00:00-04:00
-publication_date: 2007-10-01T05:00:00-04:00
+date: 2007-10-01T05:00:00.000Z
+publication_date: 2007-10-01T05:00:00.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - memoir
 language:
 author:
-  - contributor/tennessee-williams.md
+  - author/tennessee-williams.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216692
+  - isbn: 9780811216692
+    binding: paperback
+featured_image_path:
 _slug: memoirs
 ---
 

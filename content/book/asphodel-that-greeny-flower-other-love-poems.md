@@ -1,19 +1,22 @@
 ---
 title: "Asphodel, That Greeny Flower & Other Love Poems"
 draft: false
-date: 1994-11-01T06:00:00-04:00
-publication_date: 1994-11-01T06:00:00-04:00
+date: 1994-11-01T06:00:00.000Z
+publication_date: 1994-11-01T06:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language: portuguese
 author:
-  - contributor/william-carlos-williams.md
+  - author/william-carlos-williams.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811212830
+  - isbn: 9780811212830
+    binding: paperback
+featured_image_path:
 _slug: asphodel-that-greeny-flower-other-love-poems
 ---
 

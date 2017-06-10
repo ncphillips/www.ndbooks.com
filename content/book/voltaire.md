@@ -1,21 +1,25 @@
 ---
 title: "Voltaire"
 draft: false
-date: 1981-06-01T05:00:56-04:00
-publication_date: 1981-06-01T05:00:56-04:00
+date: 1981-06-01T05:00:56.000Z
+publication_date: 1981-06-01T05:00:56.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - study
 language:
 author:
-  - contributor/wayne-andrews.md
+  - author/wayne-andrews.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811208024
-  - 9780811208000
+  - isbn: 9780811208024
+    binding: paperback
+  - isbn: 9780811208000
+    binding: clothbound
+featured_image_path:
 _slug: voltaire
 ---
 

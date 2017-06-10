@@ -1,21 +1,24 @@
 ---
 title: "Omon Ra"
 draft: false
-date: 1998-02-01T06:00:00-04:00
-publication_date: 1998-02-01T06:00:00-04:00
+date: 1998-02-01T06:00:00.000Z
+publication_date: 1998-02-01T06:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: russian
 author:
-  - contributor/victor-pelevin.md
+  - author/victor-pelevin.md
 translator:
-  - contributor/andrew-bromfield.md
+  - author/andrew-bromfield.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811213646
-  - 9780811221245
+  - isbn: 9780811213646
+    binding: paperback
+  - isbn: 9780811221245
+    binding: ebook
+featured_image_path:
 _slug: omon-ra
 ---
 

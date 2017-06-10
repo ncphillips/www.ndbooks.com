@@ -1,21 +1,24 @@
 ---
 title: "The Guest Cat"
 draft: false
-date: 2014-01-28T21:27:00-04:00
-publication_date: 2014-01-28T21:27:00-04:00
+date: 2014-01-28T21:27:00.000Z
+publication_date: 2014-01-28T21:27:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: japanese
 author:
-  - contributor/takashi-hiraide.md
+  - author/takashi-hiraide.md
 translator:
-  - contributor/eric-selland.md
+  - author/eric-selland.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811221504
-  - 9780811221504
+  - isbn: 9780811221504
+    binding: paperback
+  - isbn: 9780811221504
+    binding: ebook
+featured_image_path:
 _slug: the-guest-cat
 ---
 

@@ -1,20 +1,22 @@
 ---
 title: "The Three Fates"
 draft: false
-date: 2010-06-01T05:00:08-04:00
-publication_date: 2010-06-01T05:00:08-04:00
+date: 2010-06-01T05:00:08.000Z
+publication_date: 2010-06-01T05:00:08.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/linda-le.md
+  - author/linda-le.md
 translator:
-  - contributor/mark-polizzotti.md
+  - author/mark-polizzotti.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216104
+  - isbn: 9780811216104
+    binding: paperback
+featured_image_path:
 _slug: the-three-fates
 ---
 

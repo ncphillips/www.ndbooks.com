@@ -1,21 +1,24 @@
 ---
 title: "The Sinistra Zone"
 draft: false
-date: 2013-08-26T15:47:00-04:00
-publication_date: 2013-08-26T15:47:00-04:00
+date: 2013-08-26T15:47:00.000Z
+publication_date: 2013-08-26T15:47:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: hungarian
 author:
-  - contributor/adam-bodor.md
+  - author/adam-bodor.md
 translator:
-  - contributor/paul-olchvary.md
+  - author/paul-olchvary.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811219785
-  - 9780811219792
+  - isbn: 9780811219785
+    binding: paperback
+  - isbn: 9780811219792
+    binding: ebook
+featured_image_path:
 _slug: the-sinistra-zone
 ---
 

@@ -1,21 +1,25 @@
 ---
 title: "The Third Kind Of Knowledge"
 draft: false
-date: 1993-02-01T06:00:10-04:00
-publication_date: 1993-02-01T06:00:10-04:00
+date: 1993-02-01T06:00:10.000Z
+publication_date: 1993-02-01T06:00:10.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - essay
 language:
 author:
-  - contributor/robert-fitzgerald.md
+  - author/robert-fitzgerald.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217743
-  - 9780811210560
+  - isbn: 9780811217743
+    binding: paperback
+  - isbn: 9780811210560
+    binding: clothbound
+featured_image_path:
 _slug: the-third-kind-of-knowledge
 ---
 

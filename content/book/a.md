@@ -1,19 +1,22 @@
 ---
 title: "‘‘A’’"
 draft: false
-date: 2011-01-01T06:00:00-04:00
-publication_date: 2011-01-01T06:00:00-04:00
+date: 2011-01-01T06:00:00.000Z
+publication_date: 2011-01-01T06:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/louis-zukofsky.md
+  - author/louis-zukofsky.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218719
+  - isbn: 9780811218719
+    binding: paperback
+featured_image_path:
 _slug: a
 ---
 

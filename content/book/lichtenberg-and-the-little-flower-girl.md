@@ -1,21 +1,24 @@
 ---
 title: "Lichtenberg and the Little Flower Girl"
 draft: false
-date: 2004-05-01T05:00:50-04:00
-publication_date: 2004-05-01T05:00:50-04:00
+date: 2004-05-01T05:00:50.000Z
+publication_date: 2004-05-01T05:00:50.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/gert-hofmann.md
+  - author/gert-hofmann.md
 translator:
-  - contributor/michael-hofmann1.md
+  - author/michael-hofmann1.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216951
-  - 9780811215688
+  - isbn: 9780811216951
+    binding: paperback
+  - isbn: 9780811215688
+    binding: clothbound
+featured_image_path:
 _slug: lichtenberg-and-the-little-flower-girl
 ---
 

@@ -1,22 +1,25 @@
 ---
 title: "A Werewolf Problem in Central Russia"
 draft: false
-date: 2003-05-01T05:00:00-04:00
-publication_date: 2003-05-01T05:00:00-04:00
+date: 2003-05-01T05:00:00.000Z
+publication_date: 2003-05-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language: russian
 author:
-  - contributor/victor-pelevin.md
+  - author/victor-pelevin.md
 translator:
-  - contributor/andrew-bromfield.md
+  - author/andrew-bromfield.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811215435
-  - 9780811213943
+  - isbn: 9780811215435
+    binding: paperback
+  - isbn: 9780811213943
+    binding: clothbound
+featured_image_path:
 _slug: a-werewolf-problem-in-central-russia
 ---
 

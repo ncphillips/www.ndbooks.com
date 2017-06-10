@@ -1,22 +1,25 @@
 ---
 title: "Time of Gratitude"
 draft: false
-date: 2017-03-10T19:41:00-04:00
-publication_date: 2017-12-22T05:00:00-04:00
+date: 2017-03-10T19:41:00.000Z
+publication_date: 2017-12-22T05:00:00.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - essay
 language: russian
 author:
-  - contributor/gennady-aygi.md
+  - author/gennady-aygi.md
 translator:
-  - contributor/peter-france.md
+  - author/peter-france.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811227193
-  - 9780811227209
+  - isbn: 9780811227193
+    binding: paperback
+  - isbn: 9780811227209
+    binding: ebook
+featured_image_path:
 _slug: time-of-gratitude
 ---
 

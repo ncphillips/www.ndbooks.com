@@ -1,19 +1,22 @@
 ---
 title: "Rebel Lions"
 draft: false
-date: 1991-05-01T05:00:27-04:00
-publication_date: 1991-05-01T05:00:27-04:00
+date: 1991-05-01T05:00:27.000Z
+publication_date: 1991-05-01T05:00:27.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/michael-mcclure.md
+  - author/michael-mcclure.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811211642
+  - isbn: 9780811211642
+    binding: paperback
+featured_image_path:
 _slug: rebel-lions
 ---
 

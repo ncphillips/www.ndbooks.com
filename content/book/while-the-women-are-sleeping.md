@@ -1,23 +1,27 @@
 ---
 title: "While the Women Are Sleeping"
 draft: false
-date: 2012-11-29T05:00:00-04:00
-publication_date: 2012-11-29T05:00:00-04:00
+date: 2012-11-29T05:00:00.000Z
+publication_date: 2012-11-29T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language: spanish
 author:
-  - contributor/javier-marias.md
+  - author/javier-marias.md
 translator:
-  - contributor/margaret-jull-costa.md
+  - author/margaret-jull-costa.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811219143
-  - 9780811216630
-  - 9780811219358
+  - isbn: 9780811219143
+    binding: paperback
+  - isbn: 9780811216630
+    binding: clothbound
+  - isbn: 9780811219358
+    binding: ebook
+featured_image_path:
 _slug: while-the-women-are-sleeping
 ---
 

@@ -1,21 +1,24 @@
 ---
 title: "A Season in Hell & The Drunken Boat"
 draft: false
-date: 2011-10-05T14:28:00-04:00
-publication_date: 2011-10-05T14:28:00-04:00
+date: 2011-10-05T14:28:00.000Z
+publication_date: 2011-10-05T14:28:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: french
 author:
-  - contributor/arthur-rimbaud.md
+  - author/arthur-rimbaud.md
 translator:
-  - contributor/louise-varese.md
+  - author/louise-varese.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811201858
-  - 9780811221030
+  - isbn: 9780811201858
+    binding: paperback
+  - isbn: 9780811221030
+    binding: ebook
+featured_image_path:
 _slug: a-season-in-hell-the-drunken-boat
 ---
 

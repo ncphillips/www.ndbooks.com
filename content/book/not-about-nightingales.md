@@ -1,19 +1,22 @@
 ---
 title: "Not About Nightingales"
 draft: false
-date: 1998-06-01T05:00:26-04:00
-publication_date: 1998-06-01T05:00:26-04:00
+date: 1998-06-01T05:00:26.000Z
+publication_date: 1998-06-01T05:00:26.000Z
 subtitle:
 genre: theater
 subgenre:
 language:
 author:
-  - contributor/tennessee-williams.md
+  - author/tennessee-williams.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811213806
+  - isbn: 9780811213806
+    binding: paperback
+featured_image_path:
 _slug: not-about-nightingales
 ---
 

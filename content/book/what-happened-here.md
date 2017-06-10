@@ -1,20 +1,23 @@
 ---
 title: "What Happened Here"
 draft: false
-date: 2005-09-01T05:00:57-04:00
-publication_date: 2005-09-01T05:00:57-04:00
+date: 2005-09-01T05:00:57.000Z
+publication_date: 2005-09-01T05:00:57.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - essay
 language:
 author:
-  - contributor/eliot-weinberger.md
+  - author/eliot-weinberger.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216388
+  - isbn: 9780811216388
+    binding: paperback
+featured_image_path:
 _slug: what-happened-here
 ---
 

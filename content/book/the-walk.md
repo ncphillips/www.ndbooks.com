@@ -1,22 +1,24 @@
 ---
 title: "The Walk"
 draft: false
-date: 2012-06-05T20:04:00-04:00
-publication_date: 2012-06-05T20:04:00-04:00
+date: 2012-06-05T20:04:00.000Z
+publication_date: 2012-06-05T20:04:00.000Z
 subtitle: "A New Directions Pearl"
 genre:
 subgenre:
   - essay
 language: german
 author:
-  - contributor/robert-walser.md
+  - author/robert-walser.md
 translator:
-  - contributor/susan-bernofsky.md
-  - contributor/christopher-middleton.md
+  - author/susan-bernofsky.md
+  - author/christopher-middleton.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811219921
+  - isbn: 9780811219921
+    binding: paperback
+featured_image_path:
 _slug: the-walk
 ---
 

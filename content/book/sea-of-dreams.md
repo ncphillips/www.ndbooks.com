@@ -1,19 +1,22 @@
 ---
 title: "Sea Of Dreams"
 draft: false
-date: 2005-07-01T05:00:29-04:00
-publication_date: 2005-07-01T05:00:29-04:00
+date: 2005-07-01T05:00:29.000Z
+publication_date: 2005-07-01T05:00:29.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/gu-cheng.md
+  - author/gu-cheng.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811215879
+  - isbn: 9780811215879
+    binding: paperback
+featured_image_path:
 _slug: sea-of-dreams
 ---
 

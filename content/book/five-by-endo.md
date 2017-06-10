@@ -1,20 +1,23 @@
 ---
 title: "Five by Endo"
 draft: false
-date: 2000-06-01T05:00:00-04:00
-publication_date: 2000-06-01T05:00:00-04:00
+date: 2000-06-01T05:00:00.000Z
+publication_date: 2000-06-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language: japanese
 author:
-  - contributor/shusaku-endo.md
+  - author/shusaku-endo.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811214391
+  - isbn: 9780811214391
+    binding: paperback
+featured_image_path:
 _slug: five-by-endo
 ---
 

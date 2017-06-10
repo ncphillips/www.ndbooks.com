@@ -1,19 +1,22 @@
 ---
 title: "Quetzalcoatl"
 draft: false
-date: 1998-05-01T05:00:44-04:00
-publication_date: 1998-05-01T05:00:44-04:00
+date: 1998-05-01T05:00:44.000Z
+publication_date: 1998-05-01T05:00:44.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/d.-h.-lawrence.md
+  - author/d.-h.-lawrence.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811213851
+  - isbn: 9780811213851
+    binding: paperback
+featured_image_path:
 _slug: quetzalcoatl
 ---
 

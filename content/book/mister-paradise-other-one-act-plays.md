@@ -1,21 +1,23 @@
 ---
 title: "Mister Paradise & Other One Act Plays"
 draft: false
-date: 2005-04-01T06:00:00-04:00
-publication_date: 2005-04-01T06:00:00-04:00
+date: 2005-04-01T06:00:00.000Z
+publication_date: 2005-04-01T06:00:00.000Z
 subtitle:
 genre: theater
 subgenre:
 language:
 author:
-  - contributor/tennessee-williams.md
+  - author/tennessee-williams.md
 translator:
+
 editor:
-  - contributor/nicholas-moschovakis.md
-  - contributor/david-roessel.md
-featured_image_path:
+  - author/nicholas-moschovakis.md
+  - author/david-roessel.md
 editions:
-  - 9780811216203
+  - isbn: 9780811216203
+    binding: paperback
+featured_image_path:
 _slug: mister-paradise-other-one-act-plays
 ---
 

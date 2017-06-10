@@ -1,20 +1,24 @@
 ---
 title: "A Selected Prose"
 draft: false
-date: 1995-04-01T06:00:30-04:00
-publication_date: 1995-04-01T06:00:30-04:00
+date: 1995-04-01T06:00:30.000Z
+publication_date: 1995-04-01T06:00:30.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/robert-duncan.md
+  - author/robert-duncan.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217729
-  - 9780811212786
+  - isbn: 9780811217729
+    binding: paperback
+  - isbn: 9780811212786
+    binding: clothbound
+featured_image_path:
 _slug: a-selected-prose
 ---
 

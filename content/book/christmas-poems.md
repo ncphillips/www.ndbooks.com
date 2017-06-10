@@ -1,19 +1,22 @@
 ---
 title: "Christmas Poems"
 draft: false
-date: 2008-11-01T05:00:15-04:00
-publication_date: 2008-11-01T05:00:15-04:00
+date: 2008-11-01T05:00:15.000Z
+publication_date: 2008-11-01T05:00:15.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/james-laughlin.md
+  - author/james-laughlin.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218085
+  - isbn: 9780811218085
+    binding: paperback
+featured_image_path:
 _slug: christmas-poems
 ---
 

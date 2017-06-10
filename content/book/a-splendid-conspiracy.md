@@ -1,21 +1,24 @@
 ---
 title: "A Splendid Conspiracy"
 draft: false
-date: 2010-05-01T05:00:00-04:00
-publication_date: 2010-05-01T05:00:00-04:00
+date: 2010-05-01T05:00:00.000Z
+publication_date: 2010-05-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: french
 author:
-  - contributor/albert-cossery.md
+  - author/albert-cossery.md
 translator:
-  - contributor/alyson-waters.md
+  - author/alyson-waters.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217798
-  - 9780811221269
+  - isbn: 9780811217798
+    binding: paperback
+  - isbn: 9780811221269
+    binding: ebook
+featured_image_path:
 _slug: a-splendid-conspiracy
 ---
 

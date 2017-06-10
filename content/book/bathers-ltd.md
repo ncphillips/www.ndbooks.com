@@ -1,20 +1,24 @@
 ---
 title: "Bathers"
 draft: false
-date: 1980-04-01T06:00:13-04:00
-publication_date: 1980-04-01T06:00:13-04:00
+date: 1980-04-01T06:00:13.000Z
+publication_date: 1980-04-01T06:00:13.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/robert-steiner-r.md
+  - author/robert-steiner-r.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811207539
-  - 9780811207522
+  - isbn: 9780811207539
+    binding: paperback
+  - isbn: 9780811207522
+    binding: clothbound
+featured_image_path:
 _slug: bathers-ltd
 ---
 

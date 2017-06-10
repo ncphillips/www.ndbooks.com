@@ -1,20 +1,22 @@
 ---
 title: "Shards: Fragments of Verses"
 draft: false
-date: 2015-03-18T19:12:00-04:00
-publication_date: 2015-09-08T04:00:00-04:00
+date: 2015-03-18T19:12:00.000Z
+publication_date: 2015-09-08T04:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language: italian
 author:
-  - contributor/lorenzo-chiera.md
+  - author/lorenzo-chiera.md
 translator:
-  - contributor/lawrence-ferlinghetti.md
+  - author/lawrence-ferlinghetti.md
 editor:
-featured_image_path: /uploads/1426705816883/Wenceslas_Hollar_-_Roman_ruins_(State_1).jpg
+
 editions:
-  - 9780811224758
+  - isbn: 9780811224758
+    binding: clothbound
+featured_image_path: /uploads/1426705816883/Wenceslas_Hollar_-_Roman_ruins_(State_1).jpg
 _slug: shards-fragments-of-verses
 ---
 

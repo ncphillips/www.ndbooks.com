@@ -1,21 +1,25 @@
 ---
 title: "Strangers"
 draft: false
-date: 2003-06-01T05:00:56-04:00
-publication_date: 2003-06-01T05:00:56-04:00
+date: 2003-06-01T05:00:56.000Z
+publication_date: 2003-06-01T05:00:56.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - memoir
 language:
 author:
-  - contributor/emma-tennant.md
+  - author/emma-tennant.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811215305
-  - 9780811214094
+  - isbn: 9780811215305
+    binding: paperback
+  - isbn: 9780811214094
+    binding: clothbound
+featured_image_path:
 _slug: strangers
 ---
 

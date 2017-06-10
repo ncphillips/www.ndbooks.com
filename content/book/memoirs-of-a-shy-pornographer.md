@@ -1,19 +1,22 @@
 ---
 title: "Memoirs of a Shy Pornographer"
 draft: false
-date: 1999-06-01T05:00:41-04:00
-publication_date: 1999-06-01T05:00:41-04:00
+date: 1999-06-01T05:00:41.000Z
+publication_date: 1999-06-01T05:00:41.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/kenneth-patchen.md
+  - author/kenneth-patchen.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811214117
+  - isbn: 9780811214117
+    binding: paperback
+featured_image_path:
 _slug: memoirs-of-a-shy-pornographer
 ---
 

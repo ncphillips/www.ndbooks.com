@@ -1,21 +1,23 @@
 ---
 title: "Cinema Stories"
 draft: false
-date: 2007-09-01T05:00:12-04:00
-publication_date: 2007-09-01T05:00:12-04:00
+date: 2007-09-01T05:00:12.000Z
+publication_date: 2007-09-01T05:00:12.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language:
 author:
-  - contributor/alexander-kluge.md
+  - author/alexander-kluge.md
 translator:
-  - contributor/martin-brady.md
+  - author/martin-brady.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217354
+  - isbn: 9780811217354
+    binding: paperback
+featured_image_path:
 _slug: cinema-stories
 ---
 

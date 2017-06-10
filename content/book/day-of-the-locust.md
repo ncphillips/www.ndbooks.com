@@ -1,20 +1,24 @@
 ---
 title: "Day Of The Locust"
 draft: false
-date: 2015-05-05T16:45:00-04:00
-publication_date: 2015-05-28T04:00:00-04:00
+date: 2015-05-05T16:45:00.000Z
+publication_date: 2015-05-28T04:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/nathanael-west-n.md
+  - author/nathanael-west-n.md
 translator:
+
 editor:
-featured_image_path: /uploads/1430768195743/west.jpg
+
 editions:
-  - 9780811224611
-  - 9780811224628
+  - isbn: 9780811224611
+    binding: paperback
+  - isbn: 9780811224628
+    binding: ebook
+featured_image_path: /uploads/1430768195743/west.jpg
 _slug: day-of-the-locust
 ---
 

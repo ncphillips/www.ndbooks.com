@@ -1,21 +1,24 @@
 ---
 title: "Go, Went, Gone"
 draft: false
-date: 2017-03-10T19:07:00-04:00
-publication_date: 2017-09-15T04:00:00-04:00
+date: 2017-03-10T19:07:00.000Z
+publication_date: 2017-09-15T04:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: german
 author:
-  - contributor/jenny-erpenbeck.md
+  - author/jenny-erpenbeck.md
 translator:
-  - contributor/susan-bernofsky.md
+  - author/susan-bernofsky.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811225946
-  - 9780811225953
+  - isbn: 9780811225946
+    binding: paperback
+  - isbn: 9780811225953
+    binding: ebook
+featured_image_path:
 _slug: go-went-gone
 ---
 

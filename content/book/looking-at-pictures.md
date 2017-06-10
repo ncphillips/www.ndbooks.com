@@ -1,23 +1,25 @@
 ---
 title: "Looking at Pictures "
 draft: false
-date: 2015-03-20T19:51:00-04:00
-publication_date: 2015-11-09T05:00:00-04:00
+date: 2015-03-20T19:51:00.000Z
+publication_date: 2015-11-09T05:00:00.000Z
 subtitle:
 genre:
 subgenre:
   - essay
 language: german
 author:
-  - contributor/robert-walser.md
+  - author/robert-walser.md
 translator:
-  - contributor/susan-bernofsky.md
-  - contributor/lydia-davis.md
-  - contributor/christopher-middleton.md
+  - author/susan-bernofsky.md
+  - author/lydia-davis.md
+  - author/christopher-middleton.md
 editor:
-featured_image_path: /uploads/1441140531314/AA349675.tif
+
 editions:
-  - 9780811224246
+  - isbn: 9780811224246
+    binding: clothbound
+featured_image_path: /uploads/1441140531314/AA349675.tif
 _slug: looking-at-pictures
 ---
 

@@ -1,19 +1,22 @@
 ---
 title: "October Light"
 draft: false
-date: 2005-10-01T05:00:21-04:00
-publication_date: 2005-10-01T05:00:21-04:00
+date: 2005-10-01T05:00:21.000Z
+publication_date: 2005-10-01T05:00:21.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/john-gardner.md
+  - author/john-gardner.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216371
+  - isbn: 9780811216371
+    binding: paperback
+featured_image_path:
 _slug: october-light
 ---
 

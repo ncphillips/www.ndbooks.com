@@ -1,19 +1,22 @@
 ---
 title: "Georgiana"
 draft: false
-date: 2010-01-01T06:00:12-04:00
-publication_date: 2010-01-01T06:00:12-04:00
+date: 2010-01-01T06:00:12.000Z
+publication_date: 2010-01-01T06:00:12.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/maude-hutchins.md
+  - author/maude-hutchins.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218986
+  - isbn: 9780811218986
+    binding: paperback
+featured_image_path:
 _slug: georgiana
 ---
 

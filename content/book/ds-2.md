@@ -1,20 +1,24 @@
 ---
 title: "Ds (2)"
 draft: false
-date: 2007-04-01T05:00:00-04:00
-publication_date: 2007-04-01T05:00:00-04:00
+date: 2007-04-01T05:00:00.000Z
+publication_date: 2007-04-01T05:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language: portuguese
 author:
-  - contributor/kamau-brathwaite.md
+  - author/kamau-brathwaite.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216937
-  - 9780811216432
+  - isbn: 9780811216937
+    binding: paperback
+  - isbn: 9780811216432
+    binding: clothbound
+featured_image_path:
 _slug: ds-2
 ---
 

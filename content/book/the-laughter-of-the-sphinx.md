@@ -1,20 +1,24 @@
 ---
 title: "The Laughter of the Sphinx"
 draft: false
-date: 2015-10-21T18:15:00-04:00
-publication_date: 2016-06-28T04:00:00-04:00
+date: 2015-10-21T18:15:00.000Z
+publication_date: 2016-06-28T04:00:00.000Z
 subtitle:
 genre:
 subgenre:
 language:
 author:
-  - contributor/michael-palmer.md
+  - author/michael-palmer.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811225540
-  - 9780811225557
+  - isbn: 9780811225540
+    binding: paperback
+  - isbn: 9780811225557
+    binding: ebook
+featured_image_path:
 _slug: the-laughter-of-the-sphinx
 ---
 

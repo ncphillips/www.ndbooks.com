@@ -1,20 +1,24 @@
 ---
 title: "It's Getting Later All the Time"
 draft: false
-date: 2006-05-01T05:00:00-04:00
-publication_date: 2006-05-01T05:00:00-04:00
+date: 2006-05-01T05:00:00.000Z
+publication_date: 2006-05-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: italian
 author:
-  - contributor/antonio-tabucchi.md
+  - author/antonio-tabucchi.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811215466
-  - 9780811222624
+  - isbn: 9780811215466
+    binding: paperback
+  - isbn: 9780811222624
+    binding: ebook
+featured_image_path:
 _slug: its-getting-later-all-the-time
 ---
 

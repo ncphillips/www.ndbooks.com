@@ -1,19 +1,22 @@
 ---
 title: "The Cricket Sings"
 draft: false
-date: 1980-10-01T05:00:00-04:00
-publication_date: 1980-10-01T05:00:00-04:00
+date: 1980-10-01T05:00:00.000Z
+publication_date: 1980-10-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/federico-garcia-lorca.md
+  - author/federico-garcia-lorca.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811207348
+  - isbn: 9780811207348
+    binding: paperback
+featured_image_path:
 _slug: the-cricket-sings
 ---
 

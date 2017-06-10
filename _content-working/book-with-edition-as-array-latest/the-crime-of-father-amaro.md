@@ -1,0 +1,22 @@
+---
+title: "The Crime of Father Amaro"
+draft: false
+date: 2003-05-01T05:00:30-04:00
+publication_date: 2003-05-01T05:00:30-04:00
+subtitle:
+genre: fiction
+subgenre:
+language:
+author:
+  - contributor/jose-maria-de-eca-de-queiros.md
+translator:
+  - contributor/margaret-jull-costa.md
+editor:
+featured_image_path:
+editions:
+  - 9780811215329
+_slug: the-crime-of-father-amaro
+---
+
+A priest explodes after a fish supper while guests at a neighbor’s birthday party are wildly dancing a polka. So begins José Maria Eça de Queirós’s _The Crime of Father Amaro_––a sparkling, lucid satire of clerical corruption set in Leira, a small city in Portugal, during the 1870s. Young, virile Father Amaro (whose name means "bitter" in Portuguese) arrives in Leira and is taken in as a lodger by São Joaneira. Her budding, devout, dewy-lipped daughter Amelia is soon lusted after by the young priest. What ensues is a secret love affair amidst a host of compelling minor characters: Canon Dias, a priest, glutton, and São Joaneira’s lover; Dona Maria da Assunção, a wealthy widow with a roomful of religious relics, agog at any hint of sex; João Eduardo, repressed atheist, free-thinker, and suitor to Amelia. Eça’s incisive critique flies like a shattering mirror, jabbing everything from the hypocrisy of a rich and powerful Church, to the provincialism of Portuguese society of the tinte. Haunting _The Crime of Father Amaro_ is the ghost of a forgotten religion of tolerance, wisdom, and equality. Margaret Jull Costa has rendered an exquisite translation and provides an informative Introduction to a story that truly spans all ages. _The Crime of Father Amaro_ inspired a series of magnificent paintings by the Portuguese artist Paula Rego, one of which graces the cover of this edition. The novel was also made into a controversial film, _El Crimen del Padre Amaro_, by Mexican director Carlos Carrera in 2002.
+

@@ -1,19 +1,22 @@
 ---
 title: "Fresco"
 draft: false
-date: 2002-04-01T06:00:49-04:00
-publication_date: 2002-04-01T06:00:49-04:00
+date: 2002-04-01T06:00:49.000Z
+publication_date: 2002-04-01T06:00:49.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/luljeta-lleshanaku.md
+  - author/luljeta-lleshanaku.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811215114
+  - isbn: 9780811215114
+    binding: paperback
+featured_image_path:
 _slug: fresco
 ---
 

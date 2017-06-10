@@ -1,22 +1,25 @@
 ---
 title: "A Simple Story"
 draft: false
-date: 2016-07-11T14:48:00-04:00
-publication_date: 2017-02-07T05:00:00-04:00
+date: 2016-07-11T14:48:00.000Z
+publication_date: 2017-02-07T05:00:00.000Z
 subtitle: "The Last Malambo"
 genre: nonfiction
 subgenre:
   - non fiction
 language: spanish
 author:
-  - contributor/leila-guerriero.md
+  - author/leila-guerriero.md
 translator:
-  - contributor/frances-riddle.md
+  - author/frances-riddle.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811226004
-  - 9780811226011
+  - isbn: 9780811226004
+    binding: paperback
+  - isbn: 9780811226011
+    binding: ebook
+featured_image_path:
 _slug: a-simple-story
 ---
 

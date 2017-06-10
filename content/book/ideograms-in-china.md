@@ -1,20 +1,22 @@
 ---
 title: "Ideograms in China"
 draft: false
-date: 2002-02-01T06:00:00-04:00
-publication_date: 2002-02-01T06:00:00-04:00
+date: 2002-02-01T06:00:00.000Z
+publication_date: 2002-02-01T06:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: chinese
 author:
-  - contributor/henri-michaux.md
+  - author/henri-michaux.md
 translator:
-  - contributor/gustaf-sobin.md
+  - author/gustaf-sobin.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811214902
+  - isbn: 9780811214902
+    binding: paperback
+featured_image_path:
 _slug: ideograms-in-china
 ---
 

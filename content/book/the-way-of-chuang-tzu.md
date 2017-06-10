@@ -1,21 +1,25 @@
 ---
 title: "The Way of Chuang Tzu"
 draft: false
-date: 2010-03-01T06:00:00-04:00
-publication_date: 2010-03-01T06:00:00-04:00
+date: 2010-03-01T06:00:00.000Z
+publication_date: 2010-03-01T06:00:00.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - study
 language:
 author:
-  - contributor/thomas-merton.md
+  - author/thomas-merton.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218511
-  - 9780811223072
+  - isbn: 9780811218511
+    binding: paperback
+  - isbn: 9780811223072
+    binding: ebook
+featured_image_path:
 _slug: the-way-of-chuang-tzu
 ---
 

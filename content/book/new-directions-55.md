@@ -1,21 +1,25 @@
 ---
 title: "New Directions 55"
 draft: false
-date: 2001-01-01T06:00:10-04:00
-publication_date: 2001-01-01T06:00:10-04:00
+date: 2001-01-01T06:00:10.000Z
+publication_date: 2001-01-01T06:00:10.000Z
 subtitle:
 genre: fiction
 subgenre:
   - anthology
 language:
 author:
-  - contributor/david-antin.md
+  - author/david-antin.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811211802
-  - 9780811211802
+  - isbn: 9780811211802
+    binding: paperback
+  - isbn: 9780811211802
+    binding: clothbound
+featured_image_path:
 _slug: new-directions-55
 ---
 

@@ -1,22 +1,26 @@
 ---
 title: "A Little Lumpen Novelita"
 draft: false
-date: 2014-09-16T18:43:00-04:00
-publication_date: 2016-03-21T04:00:00-04:00
+date: 2014-09-16T18:43:00.000Z
+publication_date: 2016-03-21T04:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: spanish
 author:
-  - contributor/roberto-bolano.md
+  - author/roberto-bolano.md
 translator:
-  - contributor/natasha-wimmer.md
+  - author/natasha-wimmer.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811225151
-  - 9780811223355
-  - 9780811223362
+  - isbn: 9780811225151
+    binding: paperback
+  - isbn: 9780811223355
+    binding: clothbound
+  - isbn: 9780811223362
+    binding: ebook
+featured_image_path:
 _slug: a-little-lumpen-novelita
 ---
 

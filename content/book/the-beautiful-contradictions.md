@@ -1,19 +1,22 @@
 ---
 title: "The Beautiful Contradictions"
 draft: false
-date: 2013-07-10T19:19:00-04:00
-publication_date: 2013-07-10T19:19:00-04:00
+date: 2013-07-10T19:19:00.000Z
+publication_date: 2013-07-10T19:19:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/nathaniel-tarn.md
+  - author/nathaniel-tarn.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811220958
+  - isbn: 9780811220958
+    binding: paperback
+featured_image_path:
 _slug: the-beautiful-contradictions
 ---
 

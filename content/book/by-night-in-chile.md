@@ -1,21 +1,24 @@
 ---
 title: "By Night in Chile"
 draft: false
-date: 2003-12-01T06:00:00-04:00
-publication_date: 2003-12-01T06:00:00-04:00
+date: 2003-12-01T06:00:00.000Z
+publication_date: 2003-12-01T06:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: spanish
 author:
-  - contributor/roberto-bolano.md
+  - author/roberto-bolano.md
 translator:
-  - contributor/chris-andrews.md
+  - author/chris-andrews.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811215473
-  - 9780811220514
+  - isbn: 9780811215473
+    binding: paperback
+  - isbn: 9780811220514
+    binding: ebook
+featured_image_path:
 _slug: by-night-in-chile
 ---
 

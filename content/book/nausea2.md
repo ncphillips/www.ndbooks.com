@@ -1,20 +1,24 @@
 ---
 title: "Nausea (2007 edition)"
 draft: false
-date: 2007-05-01T05:00:00-04:00
-publication_date: 2007-05-01T05:00:00-04:00
+date: 2007-05-01T05:00:00.000Z
+publication_date: 2007-05-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: portuguese
 author:
-  - contributor/jean-paul-sartre.md
+  - author/jean-paul-sartre.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217002
-  - 9780811219730
+  - isbn: 9780811217002
+    binding: paperback
+  - isbn: 9780811219730
+    binding: ebook
+featured_image_path:
 _slug: nausea2
 ---
 

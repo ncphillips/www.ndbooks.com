@@ -1,20 +1,22 @@
 ---
 title: "The City and the Mountains"
 draft: false
-date: 2008-09-01T05:00:20-04:00
-publication_date: 2008-09-01T05:00:20-04:00
+date: 2008-09-01T05:00:20.000Z
+publication_date: 2008-09-01T05:00:20.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/jose-maria-de-eca-de-queiros.md
+  - author/jose-maria-de-eca-de-queiros.md
 translator:
-  - contributor/margaret-jull-costa.md
+  - author/margaret-jull-costa.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217019
+  - isbn: 9780811217019
+    binding: paperback
+featured_image_path:
 _slug: the-city-and-the-mountains
 ---
 

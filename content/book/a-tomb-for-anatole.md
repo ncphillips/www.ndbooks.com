@@ -1,20 +1,22 @@
 ---
 title: "A Tomb For Anatole"
 draft: false
-date: 2005-06-01T05:00:06-04:00
-publication_date: 2005-06-01T05:00:06-04:00
+date: 2005-06-01T05:00:06.000Z
+publication_date: 2005-06-01T05:00:06.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/stephane-mallarme.md
+  - author/stephane-mallarme.md
 translator:
-  - contributor/paul-auster.md
+  - author/paul-auster.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811215930
+  - isbn: 9780811215930
+    binding: paperback
+featured_image_path:
 _slug: a-tomb-for-anatole
 ---
 

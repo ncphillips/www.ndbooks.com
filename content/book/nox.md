@@ -1,19 +1,22 @@
 ---
 title: "Nox"
 draft: false
-date: 2009-04-01T05:00:00-04:00
-publication_date: 2009-04-01T05:00:00-04:00
+date: 2009-04-01T05:00:00.000Z
+publication_date: 2009-04-01T05:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/anne-carson.md
+  - author/anne-carson.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218702
+  - isbn: 9780811218702
+    binding: clothbound
+featured_image_path:
 _slug: nox
 ---
 

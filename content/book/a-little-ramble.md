@@ -1,21 +1,23 @@
 ---
 title: "A Little Ramble"
 draft: false
-date: 2013-04-25T17:56:00-04:00
-publication_date: 2013-04-25T17:56:00-04:00
+date: 2013-04-25T17:56:00.000Z
+publication_date: 2013-04-25T17:56:00.000Z
 subtitle: "In the Spirit of Robert Walser"
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/robert-walser.md
+  - author/robert-walser.md
 translator:
-  - contributor/christopher-middleton.md
-  - contributor/susan-bernofsky.md
+  - author/christopher-middleton.md
+  - author/susan-bernofsky.md
 editor:
-featured_image_path: /uploads/1427481259874/Klat_Rodney_Graham_Sunday_Sun_1937.jpg
+
 editions:
-  - 9780811220996
+  - isbn: 9780811220996
+    binding: clothbound
+featured_image_path: /uploads/1427481259874/Klat_Rodney_Graham_Sunday_Sun_1937.jpg
 _slug: a-little-ramble
 ---
 

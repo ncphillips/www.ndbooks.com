@@ -1,20 +1,22 @@
 ---
 title: "The Emigrants"
 draft: false
-date: 2016-03-07T21:12:00-04:00
-publication_date: 2016-11-08T05:00:00-04:00
+date: 2016-03-07T21:12:00.000Z
+publication_date: 2016-11-08T05:00:00.000Z
 subtitle:
 genre:
 subgenre:
 language: german
 author:
-  - contributor/W._G._Sebald.md
+  - author/W._G._Sebald.md
 translator:
-  - contributor/michael-hulse.md
+  - author/michael-hulse.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811226141
+  - isbn: 9780811226141
+    binding: paperback
+featured_image_path:
 _slug: the-emigrants
 ---
 

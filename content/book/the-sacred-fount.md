@@ -1,19 +1,22 @@
 ---
 title: "The Sacred Fount"
 draft: false
-date: 1995-01-01T06:00:37-04:00
-publication_date: 1995-01-01T06:00:37-04:00
+date: 1995-01-01T06:00:37.000Z
+publication_date: 1995-01-01T06:00:37.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/henry-james.md
+  - author/henry-james.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811212793
+  - isbn: 9780811212793
+    binding: paperback
+featured_image_path:
 _slug: the-sacred-fount
 ---
 

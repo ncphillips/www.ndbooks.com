@@ -1,19 +1,22 @@
 ---
 title: "Hermit's Guide to Home Economics"
 draft: false
-date: 2015-04-07T15:11:00-04:00
-publication_date: 2015-04-07T14:52:00-04:00
+date: 2015-04-07T15:11:00.000Z
+publication_date: 2015-04-07T14:52:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/robert-lax.md
+  - author/robert-lax.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811223294
+  - isbn: 9780811223294
+    binding: paperback
+featured_image_path:
 _slug: hermits-guide-to-home-economics
 ---
 

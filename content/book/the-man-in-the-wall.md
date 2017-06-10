@@ -1,20 +1,24 @@
 ---
 title: "The Man In The Wall"
 draft: false
-date: 1993-06-01T05:00:43-04:00
-publication_date: 1993-06-01T05:00:43-04:00
+date: 1993-06-01T05:00:43.000Z
+publication_date: 1993-06-01T05:00:43.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/james-laughlin.md
+  - author/james-laughlin.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811212373
-  - 9780811212366
+  - isbn: 9780811212373
+    binding: paperback
+  - isbn: 9780811212366
+    binding: clothbound
+featured_image_path:
 _slug: the-man-in-the-wall
 ---
 

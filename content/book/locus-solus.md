@@ -1,21 +1,24 @@
 ---
 title: "Locus Solus"
 draft: false
-date: 2016-07-11T15:09:00-04:00
-publication_date: 2017-03-28T04:00:00-04:00
+date: 2016-07-11T15:09:00.000Z
+publication_date: 2017-03-28T04:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: french
 author:
-  - contributor/raymond-roussel.md
+  - author/raymond-roussel.md
 translator:
-  - contributor/rupert-copeland-cunningham.md
+  - author/rupert-copeland-cunningham.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811226455
-  - 9780811226462
+  - isbn: 9780811226455
+    binding: paperback
+  - isbn: 9780811226462
+    binding: ebook
+featured_image_path:
 _slug: locus-solus
 ---
 

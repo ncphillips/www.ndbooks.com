@@ -1,22 +1,24 @@
 ---
 title: "The Book of Disquiet (The Complete Edition)"
 draft: false
-date: 2017-04-05T20:12:00-04:00
-publication_date: 2017-08-29T04:00:00-04:00
+date: 2017-04-05T20:12:00.000Z
+publication_date: 2017-08-29T04:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: portuguese
 author:
-  - contributor/fernando-pessoa.md
+  - author/fernando-pessoa.md
 translator:
-  - contributor/margaret-jull-costa.md
+  - author/margaret-jull-costa.md
 editor:
-  - contributor/jerónimo-pizarro.md
-featured_image_path: /uploads/1477494587380/Pessoa%20(1).tif
+  - author/jerónimo-pizarro.md
 editions:
-  - 9780811226936
-  - 9780811226943
+  - isbn: 9780811226936
+    binding: clothbound
+  - isbn: 9780811226943
+    binding: ebook
+featured_image_path: /uploads/1477494587380/Pessoa%20(1).tif
 _slug: the-book-of-disquiet-the-complete-edition
 ---
 

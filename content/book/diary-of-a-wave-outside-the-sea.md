@@ -1,20 +1,22 @@
 ---
 title: "Diary Of A Wave Outside The Sea"
 draft: false
-date: 2009-04-01T05:00:35-04:00
-publication_date: 2009-04-01T05:00:35-04:00
+date: 2009-04-01T05:00:35.000Z
+publication_date: 2009-04-01T05:00:35.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/dunya-mikhail.md
+  - author/dunya-mikhail.md
 translator:
-  - contributor/elizabeth-winslow.md
+  - author/elizabeth-winslow.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218313
+  - isbn: 9780811218313
+    binding: paperback
+featured_image_path:
 _slug: diary-of-a-wave-outside-the-sea
 ---
 

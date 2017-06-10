@@ -1,21 +1,24 @@
 ---
 title: "Satantango"
 draft: false
-date: 2012-03-05T14:31:00-04:00
-publication_date: 2012-03-05T14:31:00-04:00
+date: 2012-03-05T14:31:00.000Z
+publication_date: 2012-03-05T14:31:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: hungarian
 author:
-  - contributor/laszlo-krasznahorkai.md
+  - author/laszlo-krasznahorkai.md
 translator:
-  - contributor/george-szirtes.md
+  - author/george-szirtes.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811220897
-  - 9780811219563
+  - isbn: 9780811220897
+    binding: paperback
+  - isbn: 9780811219563
+    binding: ebook
+featured_image_path:
 _slug: satantango
 ---
 

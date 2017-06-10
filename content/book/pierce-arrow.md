@@ -1,19 +1,22 @@
 ---
 title: "Pierce-Arrow"
 draft: false
-date: 1999-06-01T05:00:00-04:00
-publication_date: 1999-06-01T05:00:00-04:00
+date: 1999-06-01T05:00:00.000Z
+publication_date: 1999-06-01T05:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language: portuguese
 author:
-  - contributor/susan-howe.md
+  - author/susan-howe.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811214100
+  - isbn: 9780811214100
+    binding: paperback
+featured_image_path:
 _slug: pierce-arrow
 ---
 

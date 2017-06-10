@@ -1,20 +1,23 @@
 ---
 title: "All the Stories of Muriel Spark"
 draft: false
-date: 2001-11-01T06:00:00-04:00
-publication_date: 2001-11-01T06:00:00-04:00
+date: 2001-11-01T06:00:00.000Z
+publication_date: 2001-11-01T06:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language:
 author:
-  - contributor/muriel-spark.md
+  - author/muriel-spark.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811214940
+  - isbn: 9780811214940
+    binding: paperback
+featured_image_path:
 _slug: all-the-stories-of-muriel-spark
 ---
 

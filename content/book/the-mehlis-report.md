@@ -1,21 +1,24 @@
 ---
 title: "The Mehlis Report"
 draft: false
-date: 2013-06-27T14:20:00-04:00
-publication_date: 2013-06-27T14:20:00-04:00
+date: 2013-06-27T14:20:00.000Z
+publication_date: 2013-06-27T14:20:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: arabic
 author:
-  - contributor/rabee-jaber.md
+  - author/rabee-jaber.md
 translator:
-  - contributor/kareem-james-abu-zeid.md
+  - author/kareem-james-abu-zeid.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811220644
-  - 9780811221184
+  - isbn: 9780811220644
+    binding: paperback
+  - isbn: 9780811221184
+    binding: ebook
+featured_image_path:
 _slug: the-mehlis-report
 ---
 

@@ -1,20 +1,23 @@
 ---
 title: "The Collected Stories of Tennessee Williams"
 draft: false
-date: 1994-04-01T06:00:00-04:00
-publication_date: 1994-04-01T06:00:00-04:00
+date: 1994-04-01T06:00:00.000Z
+publication_date: 1994-04-01T06:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language:
 author:
-  - contributor/tennessee-williams.md
+  - author/tennessee-williams.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811212694
+  - isbn: 9780811212694
+    binding: paperback
+featured_image_path:
 _slug: the-collected-stories-of-tennessee-williams
 ---
 

@@ -1,20 +1,22 @@
 ---
 title: "The Traveling Companion & Other Plays"
 draft: false
-date: 2008-04-01T05:00:00-04:00
-publication_date: 2008-04-01T05:00:00-04:00
+date: 2008-04-01T05:00:00.000Z
+publication_date: 2008-04-01T05:00:00.000Z
 subtitle:
 genre: theater
 subgenre:
 language:
 author:
-  - contributor/tennessee-williams.md
+  - author/tennessee-williams.md
 translator:
+
 editor:
-  - contributor/annette-j.-saddick.md
-featured_image_path:
+  - author/annette-j.-saddick.md
 editions:
-  - 9780811217088
+  - isbn: 9780811217088
+    binding: paperback
+featured_image_path:
 _slug: traveling-companion
 ---
 

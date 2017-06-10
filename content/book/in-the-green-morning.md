@@ -1,21 +1,25 @@
 ---
 title: "In The Green Morning"
 draft: false
-date: 2001-01-01T06:00:03-04:00
-publication_date: 2001-01-01T06:00:03-04:00
+date: 2001-01-01T06:00:03.000Z
+publication_date: 2001-01-01T06:00:03.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - memoir
 language:
 author:
-  - contributor/federico-garcia-lorca.md
+  - author/federico-garcia-lorca.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811209700
-  - 9780811209694
+  - isbn: 9780811209700
+    binding: paperback
+  - isbn: 9780811209694
+    binding: clothbound
+featured_image_path:
 _slug: in-the-green-morning
 ---
 

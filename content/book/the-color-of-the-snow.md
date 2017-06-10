@@ -1,21 +1,24 @@
 ---
 title: "The Color of the Snow"
 draft: false
-date: 1992-04-01T06:00:30-04:00
-publication_date: 1992-04-01T06:00:30-04:00
+date: 1992-04-01T06:00:30.000Z
+publication_date: 1992-04-01T06:00:30.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/ruediger-kremer.md
+  - author/ruediger-kremer.md
 translator:
-  - contributor/breon-mitchell.md
+  - author/breon-mitchell.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811212083
-  - 9780811212007
+  - isbn: 9780811212083
+    binding: paperback
+  - isbn: 9780811212007
+    binding: clothbound
+featured_image_path:
 _slug: the-color-of-the-snow
 ---
 

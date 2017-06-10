@@ -1,19 +1,22 @@
 ---
 title: "Time of Useful Consciousness: Limited Edition"
 draft: false
-date: 2012-11-28T15:50:54-04:00
-publication_date: 2012-11-28T15:50:54-04:00
+date: 2012-11-28T15:50:54.000Z
+publication_date: 2012-11-28T15:50:54.000Z
 subtitle:
 genre:
 subgenre:
 language:
 author:
-  - contributor/lawrence-ferlinghetti.md
+  - author/lawrence-ferlinghetti.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811220651
+  - isbn: 9780811220651
+    binding: clothbound
+featured_image_path:
 _slug: time-of-useful-consciousness1
 ---
 

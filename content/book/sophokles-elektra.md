@@ -1,8 +1,8 @@
 ---
 title: "Sophokles Elektra"
 draft: false
-date: 1990-06-01T05:00:41-04:00
-publication_date: 1990-06-01T05:00:41-04:00
+date: 1990-06-01T05:00:41.000Z
+publication_date: 1990-06-01T05:00:41.000Z
 subtitle:
 genre: theater
 subgenre:
@@ -10,10 +10,13 @@ language:
 author:
 
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811211147
+  - isbn: 9780811211147
+    binding: paperback
+featured_image_path:
 _slug: sophokles-elektra
 ---
 

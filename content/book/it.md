@@ -1,20 +1,22 @@
 ---
 title: "it"
 draft: false
-date: 2007-11-01T05:00:51-04:00
-publication_date: 2007-11-01T05:00:51-04:00
+date: 2007-11-01T05:00:51.000Z
+publication_date: 2007-11-01T05:00:51.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/inger-christensen.md
+  - author/inger-christensen.md
 translator:
-  - contributor/susanna-nied.md
+  - author/susanna-nied.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811215947
+  - isbn: 9780811215947
+    binding: paperback
+featured_image_path:
 _slug: it
 ---
 

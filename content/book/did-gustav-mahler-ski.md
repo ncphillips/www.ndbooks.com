@@ -1,21 +1,25 @@
 ---
 title: "Did Gustav Mahler Ski?"
 draft: false
-date: 1991-04-01T06:00:53-04:00
-publication_date: 1991-04-01T06:00:53-04:00
+date: 1991-04-01T06:00:53.000Z
+publication_date: 1991-04-01T06:00:53.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language:
 author:
-  - contributor/judy-gahagan.md
+  - author/judy-gahagan.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811211635
-  - 9780811211628
+  - isbn: 9780811211635
+    binding: paperback
+  - isbn: 9780811211628
+    binding: clothbound
+featured_image_path:
 _slug: did-gustav-mahler-ski
 ---
 

@@ -1,20 +1,24 @@
 ---
 title: "All The Poems of Muriel Spark"
 draft: false
-date: 2004-04-01T06:00:00-04:00
-publication_date: 2004-04-01T06:00:00-04:00
+date: 2004-04-01T06:00:00.000Z
+publication_date: 2004-04-01T06:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/muriel-spark.md
+  - author/muriel-spark.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811215763
-  - 9780811221573
+  - isbn: 9780811215763
+    binding: paperback
+  - isbn: 9780811221573
+    binding: ebook
+featured_image_path:
 _slug: all-the-poems-of-muriel-spark
 ---
 

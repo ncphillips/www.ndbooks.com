@@ -1,19 +1,22 @@
 ---
 title: "Brocade Valley"
 draft: false
-date: 1992-11-01T06:00:42-04:00
-publication_date: 1992-11-01T06:00:42-04:00
+date: 1992-11-01T06:00:42.000Z
+publication_date: 1992-11-01T06:00:42.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/anyi-wang.md
+  - author/anyi-wang.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811212243
+  - isbn: 9780811212243
+    binding: clothbound
+featured_image_path:
 _slug: brocade-valley
 ---
 

@@ -1,20 +1,24 @@
 ---
 title: "The Edge of the Horizon"
 draft: false
-date: 2001-01-01T06:00:00-04:00
-publication_date: 2015-08-27T04:00:00-04:00
+date: 2001-01-01T06:00:00.000Z
+publication_date: 2015-08-27T04:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: italian
 author:
-  - contributor/antonio-tabucchi.md
+  - author/antonio-tabucchi.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811224512
-  - 9780811211123
+  - isbn: 9780811224512
+    binding: paperback
+  - isbn: 9780811211123
+    binding: clothbound
+featured_image_path:
 _slug: the-edge-of-the-horizon
 ---
 

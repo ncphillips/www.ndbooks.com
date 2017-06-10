@@ -1,20 +1,23 @@
 ---
 title: "Absent Friends"
 draft: false
-date: 1991-11-01T06:00:12-04:00
-publication_date: 1991-11-01T06:00:12-04:00
+date: 1991-11-01T06:00:12.000Z
+publication_date: 1991-11-01T06:00:12.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language:
 author:
-  - contributor/frederick-busch.md
+  - author/frederick-busch.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811211758
+  - isbn: 9780811211758
+    binding: paperback
+featured_image_path:
 _slug: absent-friends
 ---
 

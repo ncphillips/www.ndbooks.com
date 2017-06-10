@@ -1,21 +1,26 @@
 ---
 title: "The Bachelors"
 draft: false
-date: 2014-05-27T15:11:00-04:00
-publication_date: 2014-05-27T15:11:00-04:00
+date: 2014-05-27T15:11:00.000Z
+publication_date: 2014-05-27T15:11:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/muriel-spark.md
+  - author/muriel-spark.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811222983
-  - 9780811221344
-  - 9780811214247
+  - isbn: 9780811222983
+    binding: paperback
+  - isbn: 9780811221344
+    binding: ebook
+  - isbn: 9780811214247
+    binding: paperback
+featured_image_path:
 _slug: the-bachelors1
 ---
 

@@ -1,20 +1,22 @@
 ---
 title: "A Barbarian in Asia"
 draft: false
-date: 1986-09-01T05:00:00-04:00
-publication_date: 2016-05-31T04:00:00-04:00
+date: 1986-09-01T05:00:00.000Z
+publication_date: 2016-05-31T04:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: french
 author:
-  - contributor/henri-michaux.md
+  - author/henri-michaux.md
 translator:
-  - contributor/sylvia-beach.md
+  - author/sylvia-beach.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811222136
+  - isbn: 9780811222136
+    binding: paperback
+featured_image_path:
 _slug: a-barbarian-in-asia
 ---
 

@@ -1,20 +1,24 @@
 ---
 title: "The Collected Poems: Volume II, 1939-1962"
 draft: false
-date: 1988-06-01T05:00:00-04:00
-publication_date: 1988-06-01T05:00:00-04:00
+date: 1988-06-01T05:00:00.000Z
+publication_date: 1988-06-01T05:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/william-carlos-williams.md
+  - author/william-carlos-williams.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811211888
-  - 9780811210638
+  - isbn: 9780811211888
+    binding: paperback
+  - isbn: 9780811210638
+    binding: clothbound
+featured_image_path:
 _slug: the-collected-poems-volume-ii-1939-1962
 ---
 

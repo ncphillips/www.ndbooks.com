@@ -1,20 +1,24 @@
 ---
 title: "Fidelities"
 draft: false
-date: 1996-09-01T06:00:28-04:00
-publication_date: 1996-09-01T06:00:28-04:00
+date: 1996-09-01T06:00:28.000Z
+publication_date: 1996-09-01T06:00:28.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/vernon-watkins.md
+  - author/vernon-watkins.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217903
-  - 9780811204040
+  - isbn: 9780811217903
+    binding: paperback
+  - isbn: 9780811204040
+    binding: clothbound
+featured_image_path:
 _slug: fidelities
 ---
 

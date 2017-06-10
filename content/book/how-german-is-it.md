@@ -1,19 +1,22 @@
 ---
 title: "How German Is It"
 draft: false
-date: 1980-11-01T06:00:45-04:00
-publication_date: 1980-11-01T06:00:45-04:00
+date: 1980-11-01T06:00:45.000Z
+publication_date: 1980-11-01T06:00:45.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/walter-abish.md
+  - author/walter-abish.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811207768
+  - isbn: 9780811207768
+    binding: paperback
+featured_image_path:
 _slug: how-german-is-it
 ---
 

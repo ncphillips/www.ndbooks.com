@@ -1,21 +1,24 @@
 ---
 title: "Walks with Walser"
 draft: false
-date: 2016-07-11T15:20:00-04:00
-publication_date: 2017-04-25T04:00:00-04:00
+date: 2016-07-11T15:20:00.000Z
+publication_date: 2017-04-25T04:00:00.000Z
 subtitle:
 genre: nonfiction
 subgenre:
 language: german
 author:
-  - contributor/carl-seelig.md
+  - author/carl-seelig.md
 translator:
-  - contributor/anne-posten.md
+  - author/anne-posten.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811221399
-  - 9780811221405
+  - isbn: 9780811221399
+    binding: paperback
+  - isbn: 9780811221405
+    binding: ebook
+featured_image_path:
 _slug: walks-with-walser
 ---
 

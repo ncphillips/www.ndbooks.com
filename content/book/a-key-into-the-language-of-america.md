@@ -1,19 +1,22 @@
 ---
 title: "A Key Into The Language Of America"
 draft: false
-date: 1994-10-01T05:00:58-04:00
-publication_date: 1994-10-01T05:00:58-04:00
+date: 1994-10-01T05:00:58.000Z
+publication_date: 1994-10-01T05:00:58.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/rosmarie-waldrop.md
+  - author/rosmarie-waldrop.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811212878
+  - isbn: 9780811212878
+    binding: paperback
+featured_image_path:
 _slug: a-key-into-the-language-of-america
 ---
 

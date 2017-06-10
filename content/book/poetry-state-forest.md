@@ -1,19 +1,22 @@
 ---
 title: "Poetry State Forest"
 draft: false
-date: 2008-11-01T05:00:09-04:00
-publication_date: 2008-11-01T05:00:09-04:00
+date: 2008-11-01T05:00:09.000Z
+publication_date: 2008-11-01T05:00:09.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/bernadette-mayer.md
+  - author/bernadette-mayer.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217231
+  - isbn: 9780811217231
+    binding: paperback
+featured_image_path:
 _slug: poetry-state-forest
 ---
 

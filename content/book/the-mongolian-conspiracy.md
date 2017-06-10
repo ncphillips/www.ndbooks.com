@@ -1,21 +1,24 @@
 ---
 title: "The Mongolian Conspiracy"
 draft: false
-date: 2013-11-25T16:34:00-04:00
-publication_date: 2013-11-25T16:34:00-04:00
+date: 2013-11-25T16:34:00.000Z
+publication_date: 2013-11-25T16:34:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: spanish
 author:
-  - contributor/rafael-bernal.md
+  - author/rafael-bernal.md
 translator:
-  - contributor/katherine-silver.md
+  - author/katherine-silver.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811220668
-  - 9780811221955
+  - isbn: 9780811220668
+    binding: paperback
+  - isbn: 9780811221955
+    binding: ebook
+featured_image_path:
 _slug: the-mongolian-conspiracy
 ---
 

@@ -1,19 +1,22 @@
 ---
 title: "The Philosopher’s Window"
 draft: false
-date: 1995-09-01T05:00:29-04:00
-publication_date: 1995-09-01T05:00:29-04:00
+date: 1995-09-01T05:00:29.000Z
+publication_date: 1995-09-01T05:00:29.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/allen-grossman.md
+  - author/allen-grossman.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811213004
+  - isbn: 9780811213004
+    binding: paperback
+featured_image_path:
 _slug: the-philosophers-window
 ---
 

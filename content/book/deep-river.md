@@ -1,21 +1,24 @@
 ---
 title: "Deep River"
 draft: false
-date: 1996-06-01T05:00:00-04:00
-publication_date: 1996-06-01T05:00:00-04:00
+date: 1996-06-01T05:00:00.000Z
+publication_date: 1996-06-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/shusaku-endo.md
+  - author/shusaku-endo.md
 translator:
-  - contributor/van-c.-gessel.md
+  - author/van-c.-gessel.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811213202
-  - 9780811212892
+  - isbn: 9780811213202
+    binding: paperback
+  - isbn: 9780811212892
+    binding: clothbound
+featured_image_path:
 _slug: deep-river
 ---
 

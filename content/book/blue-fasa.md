@@ -1,20 +1,24 @@
 ---
 title: "Blue Fasa"
 draft: false
-date: 2015-03-26T21:23:00-04:00
-publication_date: 2015-05-05T13:00:00-04:00
+date: 2015-03-26T21:23:00.000Z
+publication_date: 2015-05-05T13:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/nathaniel-mackey.md
+  - author/nathaniel-mackey.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811224451
-  - 9780811224468
+  - isbn: 9780811224451
+    binding: paperback
+  - isbn: 9780811224468
+    binding: ebook
+featured_image_path:
 _slug: blue-fasa
 ---
 

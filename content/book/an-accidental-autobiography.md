@@ -1,20 +1,23 @@
 ---
 title: "An Accidental Autobiography"
 draft: false
-date: 2003-04-01T05:59:33-04:00
-publication_date: 2003-04-01T05:59:33-04:00
+date: 2003-04-01T05:59:33.000Z
+publication_date: 2003-04-01T05:59:33.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - memoir
 language:
 author:
-  - contributor/gregory-corso.md
+  - author/gregory-corso.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811215350
+  - isbn: 9780811215350
+    binding: paperback
+featured_image_path:
 _slug: an-accidental-autobiography
 ---
 

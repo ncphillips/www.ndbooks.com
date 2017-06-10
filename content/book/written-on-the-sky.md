@@ -1,21 +1,24 @@
 ---
 title: "Written On The Sky"
 draft: false
-date: 2009-04-01T05:00:00-04:00
-publication_date: 2009-04-01T05:00:00-04:00
+date: 2009-04-01T05:00:00.000Z
+publication_date: 2009-04-01T05:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language: japanese
 author:
-  - contributor/kenneth-rexroth.md
+  - author/kenneth-rexroth.md
 translator:
+
 editor:
-  - contributor/eliot-weinberger.md
-featured_image_path:
+  - author/eliot-weinberger.md
 editions:
-  - 9780811218375
-  - 9780811223942
+  - isbn: 9780811218375
+    binding: paperback
+  - isbn: 9780811223942
+    binding: ebook
+featured_image_path:
 _slug: written-on-the-sky
 ---
 

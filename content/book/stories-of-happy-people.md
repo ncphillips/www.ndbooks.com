@@ -1,21 +1,25 @@
 ---
 title: "Stories of Happy People"
 draft: false
-date: 1986-06-01T05:00:04-04:00
-publication_date: 1986-06-01T05:00:04-04:00
+date: 1986-06-01T05:00:04.000Z
+publication_date: 1986-06-01T05:00:04.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language:
 author:
-  - contributor/lars-gustafsson.md
+  - author/lars-gustafsson.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811209786
-  - 9780811209779
+  - isbn: 9780811209786
+    binding: paperback
+  - isbn: 9780811209779
+    binding: clothbound
+featured_image_path:
 _slug: stories-of-happy-people
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "To Touch The Sky"
 draft: false
-date: 1999-02-01T06:00:09-04:00
-publication_date: 1999-02-01T06:00:09-04:00
+date: 1999-02-01T06:00:09.000Z
+publication_date: 1999-02-01T06:00:09.000Z
 subtitle:
 genre: poetry
 subgenre:
@@ -10,11 +10,13 @@ language:
 author:
 
 translator:
-  - contributor/willis-barnstone.md
+  - author/willis-barnstone.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811213967
+  - isbn: 9780811213967
+    binding: paperback
+featured_image_path:
 _slug: to-touch-the-sky
 ---
 

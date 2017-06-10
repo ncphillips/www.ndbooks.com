@@ -1,20 +1,24 @@
 ---
 title: "The Glass Menagerie"
 draft: false
-date: 1999-10-14T14:36:00-04:00
-publication_date: 1999-10-14T14:36:00-04:00
+date: 1999-10-14T14:36:00.000Z
+publication_date: 1999-10-14T14:36:00.000Z
 subtitle:
 genre: theater
 subgenre:
 language:
 author:
-  - contributor/tennessee-williams.md
+  - author/tennessee-williams.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811214049
-  - 9780811220750
+  - isbn: 9780811214049
+    binding: paperback
+  - isbn: 9780811220750
+    binding: ebook
+featured_image_path:
 _slug: the-glass-menagerie4
 ---
 

@@ -1,20 +1,24 @@
 ---
 title: "The Secret Room"
 draft: false
-date: 1997-04-01T06:00:02-04:00
-publication_date: 1997-04-01T06:00:02-04:00
+date: 1997-04-01T06:00:02.000Z
+publication_date: 1997-04-01T06:00:02.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/james-laughlin.md
+  - author/james-laughlin.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811213448
-  - 9780811213431
+  - isbn: 9780811213448
+    binding: paperback
+  - isbn: 9780811213431
+    binding: clothbound
+featured_image_path:
 _slug: the-secret-room
 ---
 

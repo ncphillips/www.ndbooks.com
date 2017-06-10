@@ -1,19 +1,22 @@
 ---
 title: "Poor White"
 draft: false
-date: 1993-05-01T05:00:04-04:00
-publication_date: 1993-05-01T05:00:04-04:00
+date: 1993-05-01T05:00:04.000Z
+publication_date: 1993-05-01T05:00:04.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/sherwood-anderson.md
+  - author/sherwood-anderson.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811212427
+  - isbn: 9780811212427
+    binding: paperback
+featured_image_path:
 _slug: poor-white
 ---
 

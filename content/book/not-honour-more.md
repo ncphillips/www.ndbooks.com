@@ -1,19 +1,22 @@
 ---
 title: "Not Honour More"
 draft: false
-date: 1985-09-01T05:00:13-04:00
-publication_date: 1985-09-01T05:00:13-04:00
+date: 1985-09-01T05:00:13.000Z
+publication_date: 1985-09-01T05:00:13.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/joyce-cary.md
+  - author/joyce-cary.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811209663
+  - isbn: 9780811209663
+    binding: paperback
+featured_image_path:
 _slug: not-honour-more
 ---
 

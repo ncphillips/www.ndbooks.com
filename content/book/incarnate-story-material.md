@@ -1,20 +1,23 @@
 ---
 title: "Incarnate: Story Material"
 draft: false
-date: 2004-09-01T05:00:00-04:00
-publication_date: 2004-09-01T05:00:00-04:00
+date: 2004-09-01T05:00:00.000Z
+publication_date: 2004-09-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language:
 author:
-  - contributor/thalia-field.md
+  - author/thalia-field.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811215992
+  - isbn: 9780811215992
+    binding: paperback
+featured_image_path:
 _slug: incarnate-story-material
 ---
 

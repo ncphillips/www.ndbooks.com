@@ -1,20 +1,24 @@
 ---
 title: "A House in Istria"
 draft: false
-date: 2007-06-01T05:00:26-04:00
-publication_date: 2007-06-01T05:00:26-04:00
+date: 2007-06-01T05:00:26.000Z
+publication_date: 2007-06-01T05:00:26.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/richard-swartz.md
+  - author/richard-swartz.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216975
-  - 9780811215015
+  - isbn: 9780811216975
+    binding: paperback
+  - isbn: 9780811215015
+    binding: clothbound
+featured_image_path:
 _slug: a-house-in-istria
 ---
 

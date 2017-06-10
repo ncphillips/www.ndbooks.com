@@ -1,21 +1,25 @@
 ---
 title: "Louis-Ferdinand Céline (biography)"
 draft: false
-date: 1980-02-01T06:00:43-04:00
-publication_date: 1980-02-01T06:00:43-04:00
+date: 1980-02-01T06:00:43.000Z
+publication_date: 1980-02-01T06:00:43.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - study
 language:
 author:
-  - contributor/merlin-thomas-m.md
+  - author/merlin-thomas-m.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217880
-  - 9780811207546
+  - isbn: 9780811217880
+    binding: paperback
+  - isbn: 9780811207546
+    binding: clothbound
+featured_image_path:
 _slug: louis-ferdinand-celine
 ---
 

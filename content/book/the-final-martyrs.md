@@ -1,21 +1,25 @@
 ---
 title: "The Final Martyrs"
 draft: false
-date: 2009-01-01T06:00:00-04:00
-publication_date: 2009-01-01T06:00:00-04:00
+date: 2009-01-01T06:00:00.000Z
+publication_date: 2009-01-01T06:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language: japanese
 author:
-  - contributor/shusaku-endo.md
+  - author/shusaku-endo.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218115
-  - 9780811212724
+  - isbn: 9780811218115
+    binding: paperback
+  - isbn: 9780811212724
+    binding: clothbound
+featured_image_path:
 _slug: the-final-martyrs
 ---
 

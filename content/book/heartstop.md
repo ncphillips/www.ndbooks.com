@@ -1,21 +1,25 @@
 ---
 title: "Heartstop"
 draft: false
-date: 1984-11-01T06:00:24-04:00
-publication_date: 1984-11-01T06:00:24-04:00
+date: 1984-11-01T06:00:24.000Z
+publication_date: 1984-11-01T06:00:24.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language:
 author:
-  - contributor/martin-grzimek.md
+  - author/martin-grzimek.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811209229
-  - 9780811209212
+  - isbn: 9780811209229
+    binding: paperback
+  - isbn: 9780811209212
+    binding: clothbound
+featured_image_path:
 _slug: heartstop
 ---
 

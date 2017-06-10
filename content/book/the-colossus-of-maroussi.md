@@ -1,21 +1,25 @@
 ---
 title: "The Colossus Of Maroussi"
 draft: false
-date: 2010-04-01T05:00:00-04:00
-publication_date: 2010-04-01T05:00:00-04:00
+date: 2010-04-01T05:00:00.000Z
+publication_date: 2010-04-01T05:00:00.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - essay
 language:
 author:
-  - contributor/henry-miller.md
+  - author/henry-miller.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218573
-  - 9780811219150
+  - isbn: 9780811218573
+    binding: paperback
+  - isbn: 9780811219150
+    binding: ebook
+featured_image_path:
 _slug: the-colossus-of-maroussi
 ---
 

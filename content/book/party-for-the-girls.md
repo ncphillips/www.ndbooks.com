@@ -1,21 +1,25 @@
 ---
 title: "A Party for the Girls"
 draft: false
-date: 1988-04-01T06:00:00-04:00
-publication_date: 1988-04-01T06:00:00-04:00
+date: 1988-04-01T06:00:00.000Z
+publication_date: 1988-04-01T06:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language:
 author:
-  - contributor/h.-e.-bates.md
+  - author/h.-e.-bates.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811210515
-  - 9780811210508
+  - isbn: 9780811210515
+    binding: paperback
+  - isbn: 9780811210508
+    binding: clothbound
+featured_image_path:
 _slug: party-for-the-girls
 ---
 

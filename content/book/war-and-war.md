@@ -1,20 +1,24 @@
 ---
 title: "War & War"
 draft: false
-date: 2006-04-01T06:00:00-04:00
-publication_date: 2006-04-01T06:00:00-04:00
+date: 2006-04-01T06:00:00.000Z
+publication_date: 2006-04-01T06:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: hungarian
 author:
-  - contributor/laszlo-krasznahorkai.md
+  - author/laszlo-krasznahorkai.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216098
-  - 9780811220118
+  - isbn: 9780811216098
+    binding: paperback
+  - isbn: 9780811220118
+    binding: ebook
+featured_image_path:
 _slug: war-and-war
 ---
 

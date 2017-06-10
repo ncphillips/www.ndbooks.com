@@ -1,21 +1,24 @@
 ---
 title: "Luck"
 draft: false
-date: 2004-11-01T06:00:40-04:00
-publication_date: 2004-11-01T06:00:40-04:00
+date: 2004-11-01T06:00:40.000Z
+publication_date: 2004-11-01T06:00:40.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/gert-hofmann.md
+  - author/gert-hofmann.md
 translator:
-  - contributor/michael-hofmann1.md
+  - author/michael-hofmann1.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216074
-  - 9780811215022
+  - isbn: 9780811216074
+    binding: paperback
+  - isbn: 9780811215022
+    binding: clothbound
+featured_image_path:
 _slug: luck
 ---
 

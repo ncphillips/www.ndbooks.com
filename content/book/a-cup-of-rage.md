@@ -1,21 +1,24 @@
 ---
 title: "A Cup of Rage"
 draft: false
-date: 2016-07-11T14:51:00-04:00
-publication_date: 2017-02-01T00:00:00-04:00
+date: 2016-07-11T14:51:00.000Z
+publication_date: 2017-02-01T00:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: portuguese
 author:
-  - contributor/raduan-nassar.md
+  - author/raduan-nassar.md
 translator:
-  - contributor/stefan-tobler.md
+  - author/stefan-tobler.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811226585
-  - 9780811226592
+  - isbn: 9780811226585
+    binding: paperback
+  - isbn: 9780811226592
+    binding: ebook
+featured_image_path:
 _slug: a-cup-of-rage
 ---
 

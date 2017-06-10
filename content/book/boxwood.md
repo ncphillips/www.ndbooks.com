@@ -1,21 +1,24 @@
 ---
 title: "Boxwood"
 draft: false
-date: 2008-06-01T05:00:00-04:00
-publication_date: 2008-06-01T05:00:00-04:00
+date: 2008-06-01T05:00:00.000Z
+publication_date: 2008-06-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: spanish
 author:
-  - contributor/camilo-jose-cela.md
+  - author/camilo-jose-cela.md
 translator:
-  - contributor/patricia-haugaard.md
+  - author/patricia-haugaard.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217514
-  - 9780811214971
+  - isbn: 9780811217514
+    binding: paperback
+  - isbn: 9780811214971
+    binding: clothbound
+featured_image_path:
 _slug: boxwood
 ---
 

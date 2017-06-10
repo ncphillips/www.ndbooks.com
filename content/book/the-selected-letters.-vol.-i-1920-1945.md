@@ -1,23 +1,26 @@
 ---
 title: "The Selected Letters of Tennessee Williams Vol. I: 1920-1945"
 draft: false
-date: 2002-09-01T05:00:00-04:00
-publication_date: 2002-09-01T05:00:00-04:00
+date: 2002-09-01T05:00:00.000Z
+publication_date: 2002-09-01T05:00:00.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - correspondence
 language:
 author:
-  - contributor/tennessee-williams.md
+  - author/tennessee-williams.md
 translator:
+
 editor:
-  - contributor/albert-j.-devlin.md
-  - contributor/nancy-m.-tischler.md
-featured_image_path:
+  - author/albert-j.-devlin.md
+  - author/nancy-m.-tischler.md
 editions:
-  - 9780811215275
-  - 9780811214452
+  - isbn: 9780811215275
+    binding: paperback
+  - isbn: 9780811214452
+    binding: clothbound
+featured_image_path:
 _slug: the-selected-letters.-vol.-i-1920-1945
 ---
 

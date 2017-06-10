@@ -1,20 +1,23 @@
 ---
 title: "Selected Poetry And Prose"
 draft: false
-date: 1982-04-01T06:00:00-04:00
-publication_date: 1982-04-01T06:00:00-04:00
+date: 1982-04-01T06:00:00.000Z
+publication_date: 1982-04-01T06:00:00.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - selections
 language:
 author:
-  - contributor/stephane-mallarme.md
+  - author/stephane-mallarme.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811208239
+  - isbn: 9780811208239
+    binding: paperback
+featured_image_path:
 _slug: selected-poetry-and-prose
 ---
 

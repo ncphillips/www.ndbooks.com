@@ -1,20 +1,22 @@
 ---
 title: "Borges and the Eternal Orangutans"
 draft: false
-date: 2005-05-01T05:00:50-04:00
-publication_date: 2005-05-01T05:00:50-04:00
+date: 2005-05-01T05:00:50.000Z
+publication_date: 2005-05-01T05:00:50.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/luis-verissimo.md
+  - author/luis-verissimo.md
 translator:
-  - contributor/margaret-jull-costa.md
+  - author/margaret-jull-costa.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811215923
+  - isbn: 9780811215923
+    binding: paperback
+featured_image_path:
 _slug: borges-and-the-eternal-orangutans
 ---
 

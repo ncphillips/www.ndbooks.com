@@ -1,20 +1,22 @@
 ---
 title: "Firefly Under The Tongue"
 draft: false
-date: 2008-04-01T05:00:31-04:00
-publication_date: 2008-04-01T05:00:31-04:00
+date: 2008-04-01T05:00:31.000Z
+publication_date: 2008-04-01T05:00:31.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/coral-bracho.md
+  - author/coral-bracho.md
 translator:
-  - contributor/forrest-gander.md
+  - author/forrest-gander.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216845
+  - isbn: 9780811216845
+    binding: paperback
+featured_image_path:
 _slug: firefly-under-the-tongue
 ---
 

@@ -1,19 +1,22 @@
 ---
 title: "The Hedgehog"
 draft: false
-date: 1988-09-01T05:00:57-04:00
-publication_date: 1988-09-01T05:00:57-04:00
+date: 1988-09-01T05:00:57.000Z
+publication_date: 1988-09-01T05:00:57.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/hilda-doolittle-h.-d.md
+  - author/hilda-doolittle-h.-d.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811210690
+  - isbn: 9780811210690
+    binding: clothbound
+featured_image_path:
 _slug: the-hedgehog
 ---
 

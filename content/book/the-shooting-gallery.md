@@ -1,21 +1,23 @@
 ---
 title: "The Shooting Gallery"
 draft: false
-date: 1997-05-01T05:00:00-04:00
-publication_date: 1997-05-01T05:00:00-04:00
+date: 1997-05-01T05:00:00.000Z
+publication_date: 1997-05-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language:
 author:
-  - contributor/yuko-tsushima.md
+  - author/yuko-tsushima.md
 translator:
-  - contributor/geraldine-harcourt.md
+  - author/geraldine-harcourt.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811213561
+  - isbn: 9780811213561
+    binding: paperback
+featured_image_path:
 _slug: the-shooting-gallery
 ---
 

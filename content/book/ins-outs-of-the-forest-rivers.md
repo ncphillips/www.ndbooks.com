@@ -1,19 +1,22 @@
 ---
 title: "Ins & Outs Of The Forest Rivers"
 draft: false
-date: 2008-09-01T05:00:32-04:00
-publication_date: 2008-09-01T05:00:32-04:00
+date: 2008-09-01T05:00:32.000Z
+publication_date: 2008-09-01T05:00:32.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/nathaniel-tarn.md
+  - author/nathaniel-tarn.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217989
+  - isbn: 9780811217989
+    binding: paperback
+featured_image_path:
 _slug: ins-outs-of-the-forest-rivers
 ---
 

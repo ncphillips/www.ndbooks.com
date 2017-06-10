@@ -1,19 +1,22 @@
 ---
 title: "Blasts Cries Laughter"
 draft: false
-date: 2014-01-27T19:45:00-04:00
-publication_date: 2014-01-27T19:45:00-04:00
+date: 2014-01-27T19:45:00.000Z
+publication_date: 2014-01-27T19:45:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/lawrence-ferlinghetti.md
+  - author/lawrence-ferlinghetti.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811221788
+  - isbn: 9780811221788
+    binding: paperback
+featured_image_path:
 _slug: blasts-cries-laughter
 ---
 

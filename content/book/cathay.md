@@ -1,19 +1,22 @@
 ---
 title: "Cathay"
 draft: false
-date: 2015-05-07T20:24:00-04:00
-publication_date: 2016-01-04T05:00:00-04:00
+date: 2015-05-07T20:24:00.000Z
+publication_date: 2016-01-04T05:00:00.000Z
 subtitle: "Centennial Edition"
 genre:
 subgenre:
 language: chinese
 author:
-  - contributor/ezra-pound.md
+  - author/ezra-pound.md
 translator:
+
 editor:
-featured_image_path: /uploads/1431030395963/unnamed.jpg
+
 editions:
-  - 9780811223522
+  - isbn: 9780811223522
+    binding:
+featured_image_path: /uploads/1431030395963/unnamed.jpg
 _slug: cathay
 ---
 

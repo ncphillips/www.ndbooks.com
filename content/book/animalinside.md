@@ -1,20 +1,22 @@
 ---
 title: "Animalinside"
 draft: false
-date: 2011-06-16T14:28:00-04:00
-publication_date: 2011-06-16T14:28:00-04:00
+date: 2011-06-16T14:28:00.000Z
+publication_date: 2011-06-16T14:28:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: portuguese
 author:
-  - contributor/laszlo-krasznahorkai.md
+  - author/laszlo-krasznahorkai.md
 translator:
-  - contributor/ottilie-mulzet.md
+  - author/ottilie-mulzet.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811219167
+  - isbn: 9780811219167
+    binding: clothbound
+featured_image_path:
 _slug: animalinside
 ---
 

@@ -1,20 +1,23 @@
 ---
 title: "Terrestrial Intelligence"
 draft: false
-date: 2006-04-01T06:00:28-04:00
-publication_date: 2006-04-01T06:00:28-04:00
+date: 2006-04-01T06:00:28.000Z
+publication_date: 2006-04-01T06:00:28.000Z
 subtitle:
 genre: fiction
 subgenre:
   - anthology
 language:
 author:
-  - contributor/barbara-epler.md
+  - author/barbara-epler.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216500
+  - isbn: 9780811216500
+    binding: paperback
+featured_image_path:
 _slug: terrestrial-intelligence
 ---
 

@@ -1,20 +1,24 @@
 ---
 title: "Memento Mori"
 draft: false
-date: 2000-06-01T05:00:00-04:00
-publication_date: 2000-06-01T05:00:00-04:00
+date: 2000-06-01T05:00:00.000Z
+publication_date: 2000-06-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/muriel-spark.md
+  - author/muriel-spark.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811214384
-  - 9780811219372
+  - isbn: 9780811214384
+    binding: paperback
+  - isbn: 9780811219372
+    binding: ebook
+featured_image_path:
 _slug: memento-mori
 ---
 

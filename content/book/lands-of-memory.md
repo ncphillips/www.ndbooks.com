@@ -1,21 +1,23 @@
 ---
 title: "Lands of Memory"
 draft: false
-date: 2008-07-01T05:00:00-04:00
-publication_date: 2008-07-01T05:00:00-04:00
+date: 2008-07-01T05:00:00.000Z
+publication_date: 2008-07-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language: spanish
 author:
-  - contributor/felisberto-hernandez.md
+  - author/felisberto-hernandez.md
 translator:
-  - contributor/esther-allen.md
+  - author/esther-allen.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217538
+  - isbn: 9780811217538
+    binding: paperback
+featured_image_path:
 _slug: lands-of-memory
 ---
 

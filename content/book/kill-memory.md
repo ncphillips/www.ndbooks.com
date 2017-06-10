@@ -1,20 +1,24 @@
 ---
 title: "Kill Memory"
 draft: false
-date: 1983-10-01T05:00:15-04:00
-publication_date: 1983-10-01T05:00:15-04:00
+date: 1983-10-01T05:00:15.000Z
+publication_date: 1983-10-01T05:00:15.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/william-herrick.md
+  - author/william-herrick.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811208758
-  - 9780811208741
+  - isbn: 9780811208758
+    binding: paperback
+  - isbn: 9780811208741
+    binding: clothbound
+featured_image_path:
 _slug: kill-memory
 ---
 

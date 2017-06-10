@@ -1,19 +1,22 @@
 ---
 title: "From a Broken Bottle Traces of Perfume Still Emanate"
 draft: false
-date: 2010-07-30T14:28:09-04:00
-publication_date: 2010-07-30T14:28:09-04:00
+date: 2010-07-30T14:28:09.000Z
+publication_date: 2010-07-30T14:28:09.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/nathaniel-mackey.md
+  - author/nathaniel-mackey.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218443
+  - isbn: 9780811218443
+    binding: paperback
+featured_image_path:
 _slug: from-a-broken-bottle
 ---
 

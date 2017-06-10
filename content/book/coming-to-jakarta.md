@@ -1,20 +1,24 @@
 ---
 title: "Coming To Jakarta"
 draft: false
-date: 1989-04-01T06:00:00-04:00
-publication_date: 1989-04-01T06:00:00-04:00
+date: 1989-04-01T06:00:00.000Z
+publication_date: 1989-04-01T06:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/peter-scott-pd.md
+  - author/peter-scott-pd.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811210959
-  - 9780811210942
+  - isbn: 9780811210959
+    binding: paperback
+  - isbn: 9780811210942
+    binding: clothbound
+featured_image_path:
 _slug: coming-to-jakarta
 ---
 

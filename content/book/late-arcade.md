@@ -1,20 +1,24 @@
 ---
 title: "Late Arcade"
 draft: false
-date: 2016-07-11T15:03:00-04:00
-publication_date: 2017-02-28T05:00:00-04:00
+date: 2016-07-11T15:03:00.000Z
+publication_date: 2017-02-28T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/nathaniel-mackey.md
+  - author/nathaniel-mackey.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811226608
-  - 9780811226615
+  - isbn: 9780811226608
+    binding: paperback
+  - isbn: 9780811226615
+    binding: ebook
+featured_image_path:
 _slug: late-arcade
 ---
 

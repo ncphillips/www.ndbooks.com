@@ -1,21 +1,25 @@
 ---
 title: "Rasa"
 draft: false
-date: 1982-02-01T06:00:24-04:00
-publication_date: 1982-02-01T06:00:24-04:00
+date: 1982-02-01T06:00:24.000Z
+publication_date: 1982-02-01T06:00:24.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - essay
 language:
 author:
-  - contributor/rene-daumal.md
+  - author/rene-daumal.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811208253
-  - 9780811208246
+  - isbn: 9780811208253
+    binding: paperback
+  - isbn: 9780811208246
+    binding: clothbound
+featured_image_path:
 _slug: rasa
 ---
 

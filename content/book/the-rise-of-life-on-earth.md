@@ -1,20 +1,24 @@
 ---
 title: "The Rise of Life on Earth"
 draft: false
-date: 1992-09-01T05:00:32-04:00
-publication_date: 1992-09-01T05:00:32-04:00
+date: 1992-09-01T05:00:32.000Z
+publication_date: 1992-09-01T05:00:32.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/joyce-carol-oates.md
+  - author/joyce-carol-oates.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811212137
-  - 9780811211710
+  - isbn: 9780811212137
+    binding: paperback
+  - isbn: 9780811211710
+    binding: clothbound
+featured_image_path:
 _slug: the-rise-of-life-on-earth
 ---
 

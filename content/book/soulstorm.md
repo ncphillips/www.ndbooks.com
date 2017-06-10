@@ -1,20 +1,24 @@
 ---
 title: "Soulstorm"
 draft: false
-date: 1989-06-01T05:00:00-04:00
-publication_date: 1989-06-01T05:00:00-04:00
+date: 1989-06-01T05:00:00.000Z
+publication_date: 1989-06-01T05:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language: portugese
 author:
-  - contributor/clarice-lispector.md
+  - author/clarice-lispector.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811210911
-  - 9780811210904
+  - isbn: 9780811210911
+    binding: paperback
+  - isbn: 9780811210904
+    binding: clothbound
+featured_image_path:
 _slug: soulstorm
 ---
 

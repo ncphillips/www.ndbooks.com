@@ -1,21 +1,24 @@
 ---
 title: "Never Any End to Paris"
 draft: false
-date: 2011-05-24T14:28:00-04:00
-publication_date: 2011-05-24T14:28:00-04:00
+date: 2011-05-24T14:28:00.000Z
+publication_date: 2011-05-24T14:28:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: spanish
 author:
-  - contributor/enrique-vila-matas.md
+  - author/enrique-vila-matas.md
 translator:
-  - contributor/anne-mclean.md
+  - author/anne-mclean.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218139
-  - 9780811220163
+  - isbn: 9780811218139
+    binding: paperback
+  - isbn: 9780811220163
+    binding: ebook
+featured_image_path:
 _slug: never-any-end-to-paris
 ---
 

@@ -1,19 +1,22 @@
 ---
 title: "At Passages"
 draft: false
-date: 1995-04-01T06:00:41-04:00
-publication_date: 1995-04-01T06:00:41-04:00
+date: 1995-04-01T06:00:41.000Z
+publication_date: 1995-04-01T06:00:41.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/michael-palmer.md
+  - author/michael-palmer.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811212946
+  - isbn: 9780811212946
+    binding: paperback
+featured_image_path:
 _slug: at-passages
 ---
 

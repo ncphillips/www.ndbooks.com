@@ -1,21 +1,24 @@
 ---
 title: "The Hotel Years"
 draft: false
-date: 2015-03-18T19:00:00-04:00
-publication_date: 2015-09-29T04:00:00-04:00
+date: 2015-03-18T19:00:00.000Z
+publication_date: 2015-09-29T04:00:00.000Z
 subtitle:
 genre:
 subgenre:
 language:
 author:
-  - contributor/joseph-roth.md
+  - author/joseph-roth.md
 translator:
-  - contributor/michael-hofmann1.md
+  - author/michael-hofmann1.md
 editor:
-featured_image_path: /uploads/1441136977216/Roth-People-on-Sunday-1200.jpg
+
 editions:
-  - 978081122487
-  - 9780811224888
+  - isbn: 978081122487
+    binding: paperback
+  - isbn: 9780811224888
+    binding: ebook
+featured_image_path: /uploads/1441136977216/Roth-People-on-Sunday-1200.jpg
 _slug: the-hotel-years
 ---
 

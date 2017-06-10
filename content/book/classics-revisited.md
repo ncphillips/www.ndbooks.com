@@ -1,21 +1,25 @@
 ---
 title: "Classics Revisited"
 draft: false
-date: 1986-05-01T05:00:53-04:00
-publication_date: 1986-05-01T05:00:53-04:00
+date: 1986-05-01T05:00:53.000Z
+publication_date: 1986-05-01T05:00:53.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - essay
 language:
 author:
-  - contributor/kenneth-rexroth.md
+  - author/kenneth-rexroth.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811209885
-  - 9780811209878
+  - isbn: 9780811209885
+    binding: paperback
+  - isbn: 9780811209878
+    binding: clothbound
+featured_image_path:
 _slug: classics-revisited
 ---
 

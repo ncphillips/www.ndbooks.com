@@ -1,19 +1,22 @@
 ---
 title: "Let Those Who Appear"
 draft: false
-date: 2002-04-01T06:00:24-04:00
-publication_date: 2002-04-01T06:00:24-04:00
+date: 2002-04-01T06:00:24.000Z
+publication_date: 2002-04-01T06:00:24.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/kazuko-shiraishi.md
+  - author/kazuko-shiraishi.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811215107
+  - isbn: 9780811215107
+    binding: paperback
+featured_image_path:
 _slug: let-those-who-appear
 ---
 

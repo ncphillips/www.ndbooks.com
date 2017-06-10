@@ -1,19 +1,22 @@
 ---
 title: "Josephine: The Mouse Singer"
 draft: false
-date: 1980-03-01T06:00:00-04:00
-publication_date: 1980-03-01T06:00:00-04:00
+date: 1980-03-01T06:00:00.000Z
+publication_date: 1980-03-01T06:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/michael-mcclure.md
+  - author/michael-mcclure.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811207553
+  - isbn: 9780811207553
+    binding: paperback
+featured_image_path:
 _slug: josephine-the-mouse-singer
 ---
 

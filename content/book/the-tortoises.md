@@ -1,20 +1,24 @@
 ---
 title: "The Tortoises"
 draft: false
-date: 2007-06-01T05:00:36-04:00
-publication_date: 2007-06-01T05:00:36-04:00
+date: 2007-06-01T05:00:36.000Z
+publication_date: 2007-06-01T05:00:36.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/veza-canetti.md
+  - author/veza-canetti.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216968
-  - 9780811214681
+  - isbn: 9780811216968
+    binding: paperback
+  - isbn: 9780811214681
+    binding: clothbound
+featured_image_path:
 _slug: the-tortoises
 ---
 

@@ -1,19 +1,22 @@
 ---
 title: "Core Samples from the World"
 draft: false
-date: 2011-06-08T14:28:54-04:00
-publication_date: 2011-06-08T14:28:54-04:00
+date: 2011-06-08T14:28:54.000Z
+publication_date: 2011-06-08T14:28:54.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/forrest-gander.md
+  - author/forrest-gander.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218870
+  - isbn: 9780811218870
+    binding: paperback
+featured_image_path:
 _slug: core-samples-from-the-world
 ---
 

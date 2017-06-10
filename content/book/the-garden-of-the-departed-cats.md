@@ -1,19 +1,22 @@
 ---
 title: "The Garden of Departed Cats"
 draft: false
-date: 2003-10-01T05:00:45-04:00
-publication_date: 2003-10-01T05:00:45-04:00
+date: 2003-10-01T05:00:45.000Z
+publication_date: 2003-10-01T05:00:45.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/bilge-karasu.md
+  - author/bilge-karasu.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811215510
+  - isbn: 9780811215510
+    binding: paperback
+featured_image_path:
 _slug: the-garden-of-the-departed-cats
 ---
 

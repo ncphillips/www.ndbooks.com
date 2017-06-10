@@ -20,14 +20,14 @@
 
     <div class="striped--light-silver">
       {{ range  $section }}
-        {{ $related_authors := .Params.authors }}
+        {{ $related_authors := .Params.author }}
         {{ $b := where ($authors) ".File.Path" "in" $related_authors }}
         <div class="flex flex-wrap striped--light-gray w-100 pv2">
           <div class="w-100 w-40-l">{{- .Title -}}</div>
           <div class="w-100 w-20-l">{{ range $i, $b := $b }}{{ if $i }}, {{ end }}<a href="{{ .URL }}" class="dim link black">{{ .Title }}</a>{{ end }}
           </div>
           <div class="w-100 w-20-l">{{ .Date.Format "Jan 02, 2006" }}</div>
-          <div class="w-100 w-20-l">{{ .Params.genre }}</div>
+          <div class="w-100 w-20-l">{{ humanize .Params.genre }}</div>
         </div>
       {{ end }}
     </div>

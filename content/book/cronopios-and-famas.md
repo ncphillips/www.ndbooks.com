@@ -1,20 +1,24 @@
 ---
 title: "Cronopios and Famas"
 draft: false
-date: 1999-04-01T06:00:00-04:00
-publication_date: 1999-04-01T06:00:00-04:00
+date: 1999-04-01T06:00:00.000Z
+publication_date: 1999-04-01T06:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: spanish
 author:
-  - contributor/julio-cortazar.md
+  - author/julio-cortazar.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811214025
-  - 9780811221467
+  - isbn: 9780811214025
+    binding: paperback
+  - isbn: 9780811221467
+    binding: ebook
+featured_image_path:
 _slug: cronopios-and-famas
 ---
 

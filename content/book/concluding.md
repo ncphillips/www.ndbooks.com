@@ -1,20 +1,24 @@
 ---
 title: "Concluding"
 draft: false
-date: 2017-03-10T19:39:00-04:00
-publication_date: 2017-10-27T04:00:00-04:00
+date: 2017-03-10T19:39:00.000Z
+publication_date: 2017-10-27T04:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/henry-green.md
+  - author/henry-green.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811227001
-  - 9780811227018
+  - isbn: 9780811227001
+    binding: paperback
+  - isbn: 9780811227018
+    binding: ebook
+featured_image_path:
 _slug: concluding
 ---
 

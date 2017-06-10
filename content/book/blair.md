@@ -1,19 +1,22 @@
 ---
 title: "Blair"
 draft: false
-date: 1989-10-01T05:00:12-04:00
-publication_date: 1989-10-01T05:00:12-04:00
+date: 1989-10-01T05:00:12.000Z
+publication_date: 1989-10-01T05:00:12.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/john-scott-j.md
+  - author/john-scott-j.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811211161
+  - isbn: 9780811211161
+    binding: clothbound
+featured_image_path:
 _slug: blair
 ---
 

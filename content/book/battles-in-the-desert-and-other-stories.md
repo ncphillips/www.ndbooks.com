@@ -1,22 +1,25 @@
 ---
 title: "Battles in the Desert and Other Stories"
 draft: false
-date: 1987-05-01T05:00:48-04:00
-publication_date: 1987-05-01T05:00:48-04:00
+date: 1987-05-01T05:00:48.000Z
+publication_date: 1987-05-01T05:00:48.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language:
 author:
-  - contributor/jose-pacheco.md
+  - author/jose-pacheco.md
 translator:
-  - contributor/katherine-silver.md
+  - author/katherine-silver.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811210201
-  - 9780811210195
+  - isbn: 9780811210201
+    binding: paperback
+  - isbn: 9780811210195
+    binding: clothbound
+featured_image_path:
 _slug: battles-in-the-desert-and-other-stories
 ---
 

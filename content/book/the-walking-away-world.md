@@ -1,19 +1,22 @@
 ---
 title: "The Walking Away World"
 draft: false
-date: 2008-07-01T05:00:43-04:00
-publication_date: 2008-07-01T05:00:43-04:00
+date: 2008-07-01T05:00:43.000Z
+publication_date: 2008-07-01T05:00:43.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/kenneth-patchen.md
+  - author/kenneth-patchen.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217576
+  - isbn: 9780811217576
+    binding: paperback
+featured_image_path:
 _slug: the-walking-away-world
 ---
 

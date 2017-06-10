@@ -1,21 +1,24 @@
 ---
 title: "The Literary Conference"
 draft: false
-date: 2010-05-01T05:00:00-04:00
-publication_date: 2010-05-01T05:00:00-04:00
+date: 2010-05-01T05:00:00.000Z
+publication_date: 2010-05-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: spanish
 author:
-  - contributor/cesar-aira.md
+  - author/cesar-aira.md
 translator:
-  - contributor/katherine-silver.md
+  - author/katherine-silver.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218788
-  - 9780811219839
+  - isbn: 9780811218788
+    binding: paperback
+  - isbn: 9780811219839
+    binding: ebook
+featured_image_path:
 _slug: the-literary-conference
 ---
 

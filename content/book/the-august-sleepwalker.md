@@ -1,20 +1,24 @@
 ---
 title: "The August Sleepwalker"
 draft: false
-date: 1990-04-01T06:00:54-04:00
-publication_date: 1990-04-01T06:00:54-04:00
+date: 1990-04-01T06:00:54.000Z
+publication_date: 1990-04-01T06:00:54.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/bei-dao.md
+  - author/bei-dao.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811211321
-  - 9780811211314
+  - isbn: 9780811211321
+    binding: paperback
+  - isbn: 9780811211314
+    binding: clothbound
+featured_image_path:
 _slug: the-august-sleepwalker
 ---
 

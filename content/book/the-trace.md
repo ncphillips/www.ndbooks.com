@@ -1,21 +1,26 @@
 ---
 title: "The Trace"
 draft: false
-date: 2014-11-11T19:33:00-04:00
-publication_date: 2015-10-27T18:33:00-04:00
+date: 2014-11-11T19:33:00.000Z
+publication_date: 2015-10-27T18:33:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/forrest-gander.md
+  - author/forrest-gander.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811224864
-  - 9780811223713
-  - 9780811223720
+  - isbn: 9780811224864
+    binding: paperback
+  - isbn: 9780811223713
+    binding: clothbound
+  - isbn: 9780811223720
+    binding: ebook
+featured_image_path:
 _slug: the-trace
 ---
 

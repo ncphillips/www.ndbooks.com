@@ -1,21 +1,24 @@
 ---
 title: "Seiobo There Below"
 draft: false
-date: 2013-09-24T16:26:00-04:00
-publication_date: 2013-09-24T16:26:00-04:00
+date: 2013-09-24T16:26:00.000Z
+publication_date: 2013-09-24T16:26:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: hungarian
 author:
-  - contributor/laszlo-krasznahorkai.md
+  - author/laszlo-krasznahorkai.md
 translator:
-  - contributor/ottilie-mulzet.md
+  - author/ottilie-mulzet.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811219679
-  - 9780811221191
+  - isbn: 9780811219679
+    binding: paperback
+  - isbn: 9780811221191
+    binding: ebook
+featured_image_path:
 _slug: seiobo-there-below
 ---
 

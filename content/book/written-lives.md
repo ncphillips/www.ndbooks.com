@@ -1,22 +1,27 @@
 ---
 title: "Written Lives"
 draft: false
-date: 2006-02-01T06:00:00-04:00
-publication_date: 2006-02-01T06:00:00-04:00
+date: 2006-02-01T06:00:00.000Z
+publication_date: 2006-02-01T06:00:00.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - essay
 language: spanish
 author:
-  - contributor/javier-marias.md
+  - author/javier-marias.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216890
-  - 9780811216111
-  - 9780811219365
+  - isbn: 9780811216890
+    binding: paperback
+  - isbn: 9780811216111
+    binding: clothbound
+  - isbn: 9780811219365
+    binding: ebook
+featured_image_path:
 _slug: written-lives
 ---
 

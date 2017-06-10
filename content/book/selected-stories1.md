@@ -1,21 +1,23 @@
 ---
 title: "Selected Stories of Adolfo Bioy Casares"
 draft: false
-date: 1994-10-01T05:00:15-04:00
-publication_date: 1994-10-01T05:00:15-04:00
+date: 1994-10-01T05:00:15.000Z
+publication_date: 1994-10-01T05:00:15.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language:
 author:
-  - contributor/adolfo-bioy-casares.md
+  - author/adolfo-bioy-casares.md
 translator:
-  - contributor/suzanne-jill-levine.md
+  - author/suzanne-jill-levine.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811212755
+  - isbn: 9780811212755
+    binding: clothbound
+featured_image_path:
 _slug: selected-stories1
 ---
 

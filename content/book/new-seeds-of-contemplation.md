@@ -1,21 +1,25 @@
 ---
 title: "New Seeds of Contemplation"
 draft: false
-date: 2007-11-01T05:00:00-04:00
-publication_date: 2007-11-01T05:00:00-04:00
+date: 2007-11-01T05:00:00.000Z
+publication_date: 2007-11-01T05:00:00.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - essay
 language:
 author:
-  - contributor/thomas-merton.md
+  - author/thomas-merton.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217248
-  - 9780811219655
+  - isbn: 9780811217248
+    binding: paperback
+  - isbn: 9780811219655
+    binding: ebook
+featured_image_path:
 _slug: new-seeds-of-contemplation
 ---
 

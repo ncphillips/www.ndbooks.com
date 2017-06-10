@@ -1,20 +1,23 @@
 ---
 title: "Foreign Mud"
 draft: false
-date: 2002-06-01T05:00:02-04:00
-publication_date: 2002-06-01T05:00:02-04:00
+date: 2002-06-01T05:00:02.000Z
+publication_date: 2002-06-01T05:00:02.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - study
 language:
 author:
-  - contributor/maurice-collis.md
+  - author/maurice-collis.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811215060
+  - isbn: 9780811215060
+    binding: paperback
+featured_image_path:
 _slug: foreign-mud
 ---
 

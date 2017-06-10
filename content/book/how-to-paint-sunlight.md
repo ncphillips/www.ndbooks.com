@@ -1,20 +1,24 @@
 ---
 title: "How To Paint Sunlight"
 draft: false
-date: 2002-09-01T05:00:28-04:00
-publication_date: 2002-09-01T05:00:28-04:00
+date: 2002-09-01T05:00:28.000Z
+publication_date: 2002-09-01T05:00:28.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/lawrence-ferlinghetti.md
+  - author/lawrence-ferlinghetti.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811215213
-  - 9780811214636
+  - isbn: 9780811215213
+    binding: paperback
+  - isbn: 9780811214636
+    binding: clothbound
+featured_image_path:
 _slug: how-to-paint-sunlight
 ---
 

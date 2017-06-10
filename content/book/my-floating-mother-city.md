@@ -1,19 +1,22 @@
 ---
 title: "My Floating Mother, City"
 draft: false
-date: 2009-01-01T06:00:00-04:00
-publication_date: 2009-01-01T06:00:00-04:00
+date: 2009-01-01T06:00:00.000Z
+publication_date: 2009-01-01T06:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language: portuguese
 author:
-  - contributor/kazuko-shiraishi.md
+  - author/kazuko-shiraishi.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217965
+  - isbn: 9780811217965
+    binding: paperback
+featured_image_path:
 _slug: my-floating-mother-city
 ---
 

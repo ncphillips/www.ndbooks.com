@@ -1,20 +1,24 @@
 ---
 title: "Trilogy"
 draft: false
-date: 1998-09-01T05:00:00-04:00
-publication_date: 1998-09-01T05:00:00-04:00
+date: 1998-09-01T05:00:00.000Z
+publication_date: 1998-09-01T05:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/hilda-doolittle-h.-d.md
+  - author/hilda-doolittle-h.-d.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811213998
-  - 9780811222662
+  - isbn: 9780811213998
+    binding: paperback
+  - isbn: 9780811222662
+    binding: ebook
+featured_image_path:
 _slug: trilogy
 ---
 

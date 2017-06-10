@@ -1,8 +1,8 @@
 ---
 title: "Fresno Stories"
 draft: false
-date: 1994-11-01T06:00:13-04:00
-publication_date: 1994-11-01T06:00:13-04:00
+date: 1994-11-01T06:00:13.000Z
+publication_date: 1994-11-01T06:00:13.000Z
 subtitle:
 genre: fiction
 subgenre:
@@ -11,10 +11,13 @@ language:
 author:
 
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811212823
+  - isbn: 9780811212823
+    binding: paperback
+featured_image_path:
 _slug: fresno-stories
 ---
 

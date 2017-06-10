@@ -1,20 +1,24 @@
 ---
 title: "Moise and the World of Reason"
 draft: false
-date: 2015-10-21T19:31:00-04:00
-publication_date: 2016-07-12T23:00:00-04:00
+date: 2015-10-21T19:31:00.000Z
+publication_date: 2016-07-12T23:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/tennessee-williams.md
+  - author/tennessee-williams.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811225618
-  - 9780811225625
+  - isbn: 9780811225618
+    binding: paperback
+  - isbn: 9780811225625
+    binding: ebook
+featured_image_path:
 _slug: moise-and-the-world-of-reason
 ---
 

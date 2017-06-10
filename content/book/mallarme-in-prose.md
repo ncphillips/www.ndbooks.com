@@ -1,20 +1,23 @@
 ---
 title: "Mallarme In Prose"
 draft: false
-date: 2001-02-01T06:00:00-04:00
-publication_date: 2001-02-01T06:00:00-04:00
+date: 2001-02-01T06:00:00.000Z
+publication_date: 2001-02-01T06:00:00.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - selections
 language:
 author:
-  - contributor/stephane-mallarme.md
+  - author/stephane-mallarme.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811214513
+  - isbn: 9780811214513
+    binding: paperback
+featured_image_path:
 _slug: mallarme-in-prose
 ---
 

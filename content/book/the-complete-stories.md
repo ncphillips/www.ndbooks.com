@@ -1,22 +1,25 @@
 ---
 title: "The Complete Stories"
 draft: false
-date: 2014-12-04T15:00:00-04:00
-publication_date: 2015-08-04T04:00:00-04:00
+date: 2014-12-04T15:00:00.000Z
+publication_date: 2015-08-04T04:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language:
 author:
-  - contributor/clarice-lispector.md
+  - author/clarice-lispector.md
 translator:
-  - contributor/katrina-dodson.md
+  - author/katrina-dodson.md
 editor:
-featured_image_path: /uploads/1427229590413/lispector_collected_stories_for_web.jpg
+
 editions:
-  - 9780811219631
-  - 9780811224536
+  - isbn: 9780811219631
+    binding: clothbound
+  - isbn: 9780811224536
+    binding: ebook
+featured_image_path: /uploads/1427229590413/lispector_collected_stories_for_web.jpg
 _slug: the-complete-stories
 ---
 

@@ -1,22 +1,25 @@
 ---
 title: "On Eastern Meditation"
 draft: false
-date: 2012-06-20T20:03:00-04:00
-publication_date: 2012-06-20T20:03:00-04:00
+date: 2012-06-20T20:03:00.000Z
+publication_date: 2012-06-20T20:03:00.000Z
 subtitle: "A New Directions Gift Book"
 genre: nonfiction
 subgenre:
   - essay
 language:
 author:
-  - contributor/thomas-merton.md
+  - author/thomas-merton.md
 translator:
+
 editor:
-  - contributor/bonnie-thurston.md
-featured_image_path:
+  - author/bonnie-thurston.md
 editions:
-  - 9780811219945
-  - 9780811219952
+  - isbn: 9780811219945
+    binding: paperback
+  - isbn: 9780811219952
+    binding: ebook
+featured_image_path:
 _slug: on-eastern-meditation
 ---
 

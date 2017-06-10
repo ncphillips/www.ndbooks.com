@@ -1,20 +1,22 @@
 ---
 title: "Pilate’s Wife"
 draft: false
-date: 2000-07-01T05:00:39-04:00
-publication_date: 2000-07-01T05:00:39-04:00
+date: 2000-07-01T05:00:39.000Z
+publication_date: 2000-07-01T05:00:39.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/hilda-doolittle-h.-d.md
+  - author/hilda-doolittle-h.-d.md
 translator:
-  - contributor/joan-burke.md
+  - author/joan-burke.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811214339
+  - isbn: 9780811214339
+    binding: paperback
+featured_image_path:
 _slug: pilates-wife
 ---
 

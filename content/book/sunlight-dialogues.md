@@ -1,19 +1,22 @@
 ---
 title: "The Sunlight Dialogues"
 draft: false
-date: 2007-11-01T05:00:51-04:00
-publication_date: 2007-11-01T05:00:51-04:00
+date: 2007-11-01T05:00:51.000Z
+publication_date: 2007-11-01T05:00:51.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/john-gardner.md
+  - author/john-gardner.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216708
+  - isbn: 9780811216708
+    binding: paperback
+featured_image_path:
 _slug: sunlight-dialogues
 ---
 

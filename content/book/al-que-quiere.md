@@ -1,21 +1,24 @@
 ---
 title: "Al Que Quiere!"
 draft: false
-date: 2017-03-10T19:37:00-04:00
-publication_date: 2017-10-18T04:00:00-04:00
+date: 2017-03-10T19:37:00.000Z
+publication_date: 2017-10-18T04:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/william-carlos-williams.md
+  - author/william-carlos-williams.md
 translator:
+
 editor:
-  - contributor/jonathan-cohen.md
-featured_image_path:
+  - author/jonathan-cohen.md
 editions:
-  - 9780811226660
-  - 9780811226677
+  - isbn: 9780811226660
+    binding: paperback
+  - isbn: 9780811226677
+    binding: ebook
+featured_image_path:
 _slug: al-que-quiere
 ---
 

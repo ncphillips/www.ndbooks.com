@@ -1,21 +1,24 @@
 ---
 title: "Laziness in the Fertile Valley"
 draft: false
-date: 2013-11-19T18:06:00-04:00
-publication_date: 2013-11-19T18:06:00-04:00
+date: 2013-11-19T18:06:00.000Z
+publication_date: 2013-11-19T18:06:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: french
 author:
-  - contributor/albert-cossery.md
+  - author/albert-cossery.md
 translator:
-  - contributor/william-goyen.md
+  - author/william-goyen.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218740
-  - 9780811219938
+  - isbn: 9780811218740
+    binding: paperback
+  - isbn: 9780811219938
+    binding: ebook
+featured_image_path:
 _slug: laziness-in-the-fertile-valley
 ---
 

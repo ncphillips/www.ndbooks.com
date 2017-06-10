@@ -1,19 +1,22 @@
 ---
 title: "Nod House"
 draft: false
-date: 2011-11-21T16:52:00-04:00
-publication_date: 2011-11-21T16:52:00-04:00
+date: 2011-11-21T16:52:00.000Z
+publication_date: 2011-11-21T16:52:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language: portuguese
 author:
-  - contributor/nathaniel-mackey.md
+  - author/nathaniel-mackey.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811219464
+  - isbn: 9780811219464
+    binding: paperback
+featured_image_path:
 _slug: nod-house
 ---
 

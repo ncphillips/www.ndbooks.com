@@ -1,21 +1,24 @@
 ---
 title: "The Man of Feeling"
 draft: false
-date: 2008-02-01T06:00:00-04:00
-publication_date: 2008-02-01T06:00:00-04:00
+date: 2008-02-01T06:00:00.000Z
+publication_date: 2008-02-01T06:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: spanish
 author:
-  - contributor/javier-marias.md
+  - author/javier-marias.md
 translator:
-  - contributor/margaret-jull-costa.md
+  - author/margaret-jull-costa.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216777
-  - 9780811215312
+  - isbn: 9780811216777
+    binding: paperback
+  - isbn: 9780811215312
+    binding: clothbound
+featured_image_path:
 _slug: the-man-of-feeling
 ---
 

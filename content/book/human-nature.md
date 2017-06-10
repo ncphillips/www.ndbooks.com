@@ -1,19 +1,22 @@
 ---
 title: "Human Nature"
 draft: false
-date: 2000-04-01T06:00:00-04:00
-publication_date: 2000-04-01T06:00:00-04:00
+date: 2000-04-01T06:00:00.000Z
+publication_date: 2000-04-01T06:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language: portuguese
 author:
-  - contributor/toby-olson.md
+  - author/toby-olson.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811214407
+  - isbn: 9780811214407
+    binding: paperback
+featured_image_path:
 _slug: human-nature
 ---
 

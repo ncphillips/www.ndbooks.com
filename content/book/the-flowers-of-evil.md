@@ -1,21 +1,23 @@
 ---
 title: "The Flowers of Evil"
 draft: false
-date: 1989-10-01T05:00:00-04:00
-publication_date: 1989-10-01T05:00:00-04:00
+date: 1989-10-01T05:00:00.000Z
+publication_date: 1989-10-01T05:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language: french
 author:
-  - contributor/charles-baudelaire.md
+  - author/charles-baudelaire.md
 translator:
+
 editor:
-  - contributor/jackson-mathews.md
-  - contributor/marthiel-mathews.md
-featured_image_path:
+  - author/jackson-mathews.md
+  - author/marthiel-mathews.md
 editions:
-  - 9780811211178
+  - isbn: 9780811211178
+    binding: paperback
+featured_image_path:
 _slug: the-flowers-of-evil
 ---
 

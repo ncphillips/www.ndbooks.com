@@ -1,19 +1,22 @@
 ---
 title: "Eiko & Koma"
 draft: false
-date: 2013-07-10T19:19:00-04:00
-publication_date: 2013-07-10T19:19:00-04:00
+date: 2013-07-10T19:19:00.000Z
+publication_date: 2013-07-10T19:19:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/forrest-gander.md
+  - author/forrest-gander.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811220941
+  - isbn: 9780811220941
+    binding: paperback
+featured_image_path:
 _slug: eiko-koma
 ---
 

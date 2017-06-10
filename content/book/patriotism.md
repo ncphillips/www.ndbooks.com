@@ -1,20 +1,22 @@
 ---
 title: "Patriotism"
 draft: false
-date: 2010-02-01T06:00:00-04:00
-publication_date: 2010-02-01T06:00:00-04:00
+date: 2010-02-01T06:00:00.000Z
+publication_date: 2010-02-01T06:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: japanese
 author:
-  - contributor/yukio-mishima.md
+  - author/yukio-mishima.md
 translator:
-  - contributor/geoffrey-w.-sargent.md
+  - author/geoffrey-w.-sargent.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218542
+  - isbn: 9780811218542
+    binding: paperback
+featured_image_path:
 _slug: patriotism
 ---
 

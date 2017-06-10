@@ -1,21 +1,25 @@
 ---
 title: "Facing the Bridge"
 draft: false
-date: 2007-05-01T05:00:00-04:00
-publication_date: 2007-05-01T05:00:00-04:00
+date: 2007-05-01T05:00:00.000Z
+publication_date: 2007-05-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language: japanese
 author:
-  - contributor/yoko-tawada.md
+  - author/yoko-tawada.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216906
-  - 9780811223492
+  - isbn: 9780811216906
+    binding: paperback
+  - isbn: 9780811223492
+    binding: ebook
+featured_image_path:
 _slug: facing-the-bridge
 ---
 

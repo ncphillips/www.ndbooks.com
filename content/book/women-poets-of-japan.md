@@ -1,21 +1,25 @@
 ---
 title: "Women Poets Of Japan"
 draft: false
-date: 1982-02-01T06:00:00-04:00
-publication_date: 1982-02-01T06:00:00-04:00
+date: 1982-02-01T06:00:00.000Z
+publication_date: 1982-02-01T06:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
   - anthology
 language: japanese
 author:
-  - contributor/kenneth-rexroth.md
+  - author/kenneth-rexroth.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811208208
-  - 9780811223874
+  - isbn: 9780811208208
+    binding: paperback
+  - isbn: 9780811223874
+    binding: ebook
+featured_image_path:
 _slug: women-poets-of-japan
 ---
 

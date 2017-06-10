@@ -1,19 +1,22 @@
 ---
 title: "Torn Awake"
 draft: false
-date: 2001-09-01T05:00:20-04:00
-publication_date: 2001-09-01T05:00:20-04:00
+date: 2001-09-01T05:00:20.000Z
+publication_date: 2001-09-01T05:00:20.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/forrest-gander.md
+  - author/forrest-gander.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811214865
+  - isbn: 9780811214865
+    binding: paperback
+featured_image_path:
 _slug: torn-awake
 ---
 

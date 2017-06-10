@@ -1,20 +1,24 @@
 ---
 title: "Mistaken Identity"
 draft: false
-date: 1992-06-01T05:00:45-04:00
-publication_date: 1992-06-01T05:00:45-04:00
+date: 1992-06-01T05:00:45.000Z
+publication_date: 1992-06-01T05:00:45.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/nayantara-sahgal.md
+  - author/nayantara-sahgal.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811212076
-  - 9780811210935
+  - isbn: 9780811212076
+    binding: paperback
+  - isbn: 9780811210935
+    binding: clothbound
+featured_image_path:
 _slug: mistaken-identity
 ---
 

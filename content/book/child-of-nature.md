@@ -1,19 +1,22 @@
 ---
 title: "Child Of Nature"
 draft: false
-date: 2010-02-01T06:00:00-04:00
-publication_date: 2010-02-01T06:00:00-04:00
+date: 2010-02-01T06:00:00.000Z
+publication_date: 2010-02-01T06:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language: albanian
 author:
-  - contributor/luljeta-lleshanaku.md
+  - author/luljeta-lleshanaku.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218474
+  - isbn: 9780811218474
+    binding: paperback
+featured_image_path:
 _slug: child-of-nature
 ---
 

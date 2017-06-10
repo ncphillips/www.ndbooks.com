@@ -1,8 +1,8 @@
 ---
 title: "New Directions 46"
 draft: false
-date: 1983-06-01T05:00:41-04:00
-publication_date: 1983-06-01T05:00:41-04:00
+date: 1983-06-01T05:00:41.000Z
+publication_date: 1983-06-01T05:00:41.000Z
 subtitle:
 genre: fiction
 subgenre:
@@ -11,11 +11,15 @@ language:
 author:
 
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811208664
-  - 9780811208659
+  - isbn: 9780811208664
+    binding: paperback
+  - isbn: 9780811208659
+    binding: clothbound
+featured_image_path:
 _slug: new-directions-46
 ---
 

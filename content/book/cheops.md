@@ -1,20 +1,24 @@
 ---
 title: "Cheops"
 draft: false
-date: 2002-10-01T05:00:53-04:00
-publication_date: 2002-10-01T05:00:53-04:00
+date: 2002-10-01T05:00:53.000Z
+publication_date: 2002-10-01T05:00:53.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/paul-west-p.md
+  - author/paul-west-p.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218191
-  - 9780811215190
+  - isbn: 9780811218191
+    binding: paperback
+  - isbn: 9780811215190
+    binding: clothbound
+featured_image_path:
 _slug: cheops
 ---
 

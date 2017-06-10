@@ -1,20 +1,24 @@
 ---
 title: "Collected Poems of Dylan Thomas: The Original"
 draft: false
-date: 2010-04-01T05:00:00-04:00
-publication_date: 2010-04-01T05:00:00-04:00
+date: 2010-04-01T05:00:00.000Z
+publication_date: 2010-04-01T05:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/dylan-thomas-d.md
+  - author/dylan-thomas-d.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218818
-  - 9780811223089
+  - isbn: 9780811218818
+    binding: paperback
+  - isbn: 9780811223089
+    binding: ebook
+featured_image_path:
 _slug: collected-poems-the-original
 ---
 

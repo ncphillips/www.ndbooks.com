@@ -1,19 +1,22 @@
 ---
 title: "Scarlet Tanager"
 draft: false
-date: 2005-06-01T05:00:14-04:00
-publication_date: 2005-06-01T05:00:14-04:00
+date: 2005-06-01T05:00:14.000Z
+publication_date: 2005-06-01T05:00:14.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/bernadette-mayer.md
+  - author/bernadette-mayer.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811215824
+  - isbn: 9780811215824
+    binding: paperback
+featured_image_path:
 _slug: scarlet-tanager
 ---
 

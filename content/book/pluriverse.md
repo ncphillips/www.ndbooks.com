@@ -1,20 +1,22 @@
 ---
 title: "Pluriverse"
 draft: false
-date: 2009-01-01T06:00:00-04:00
-publication_date: 2009-01-01T06:00:00-04:00
+date: 2009-01-01T06:00:00.000Z
+publication_date: 2009-01-01T06:00:00.000Z
 subtitle: "New and Selected Poems"
 genre: poetry
 subgenre:
 language: spanish
 author:
-  - contributor/ernesto-cardenal.md
+  - author/ernesto-cardenal.md
 translator:
+
 editor:
-  - contributor/jonathan-cohen.md
-featured_image_path:
+  - author/jonathan-cohen.md
 editions:
-  - 9780811218092
+  - isbn: 9780811218092
+    binding: paperback
+featured_image_path:
 _slug: pluriverse
 ---
 

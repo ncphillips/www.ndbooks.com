@@ -1,21 +1,24 @@
 ---
 title: "Annam"
 draft: false
-date: 1996-09-01T05:00:39-04:00
-publication_date: 1996-09-01T05:00:39-04:00
+date: 1996-09-01T05:00:39.000Z
+publication_date: 1996-09-01T05:00:39.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/christophe-bataille.md
+  - author/christophe-bataille.md
 translator:
-  - contributor/richard-howard.md
+  - author/richard-howard.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217637
-  - 9780811213301
+  - isbn: 9780811217637
+    binding: paperback
+  - isbn: 9780811213301
+    binding: clothbound
+featured_image_path:
 _slug: annam
 ---
 

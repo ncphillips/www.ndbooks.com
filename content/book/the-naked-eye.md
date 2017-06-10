@@ -1,21 +1,24 @@
 ---
 title: "The Naked Eye"
 draft: false
-date: 2009-05-01T05:00:00-04:00
-publication_date: 2009-05-01T05:00:00-04:00
+date: 2009-05-01T05:00:00.000Z
+publication_date: 2009-05-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: german
 author:
-  - contributor/yoko-tawada.md
+  - author/yoko-tawada.md
 translator:
-  - contributor/susan-bernofsky.md
+  - author/susan-bernofsky.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217392
-  - 9780811223508
+  - isbn: 9780811217392
+    binding: paperback
+  - isbn: 9780811223508
+    binding: ebook
+featured_image_path:
 _slug: the-naked-eye
 ---
 

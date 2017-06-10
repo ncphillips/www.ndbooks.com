@@ -1,19 +1,22 @@
 ---
 title: "One Moonlit Night"
 draft: false
-date: 1997-02-01T06:00:17-04:00
-publication_date: 1997-02-01T06:00:17-04:00
+date: 1997-02-01T06:00:17.000Z
+publication_date: 1997-02-01T06:00:17.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/caradog-prichard.md
+  - author/caradog-prichard.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811213424
+  - isbn: 9780811213424
+    binding: paperback
+featured_image_path:
 _slug: one-moonlit-night
 ---
 

@@ -1,20 +1,23 @@
 ---
 title: "Descending Fire & Other Stories"
 draft: false
-date: 1994-09-17T06:00:36-04:00
-publication_date: 1994-09-17T06:00:36-04:00
+date: 1994-09-17T06:00:36.000Z
+publication_date: 1994-09-17T06:00:36.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language:
 author:
-  - contributor/john-allman.md
+  - author/john-allman.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811212
+  - isbn: 9780811212
+    binding: clothbound
+featured_image_path:
 _slug: descending-fire-other-stories
 ---
 

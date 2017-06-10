@@ -1,23 +1,26 @@
 ---
 title: "Exercises in Style: 65th Anniversary Edition"
 draft: false
-date: 2013-01-31T19:21:00-04:00
-publication_date: 2013-01-31T19:21:00-04:00
+date: 2013-01-31T19:21:00.000Z
+publication_date: 2013-01-31T19:21:00.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language: french
 author:
-  - contributor/raymond-queneau.md
+  - author/raymond-queneau.md
 translator:
-  - contributor/barbara-wright.md
-  - contributor/chris-clarke.md
+  - author/barbara-wright.md
+  - author/chris-clarke.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811220354
-  - 9780811220880
+  - isbn: 9780811220354
+    binding: paperback
+  - isbn: 9780811220880
+    binding: ebook
+featured_image_path:
 _slug: exercises-in-style-anniversary
 ---
 

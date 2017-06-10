@@ -1,20 +1,24 @@
 ---
 title: "The Promises Of Glass"
 draft: false
-date: 2001-05-01T05:00:20-04:00
-publication_date: 2001-05-01T05:00:20-04:00
+date: 2001-05-01T05:00:20.000Z
+publication_date: 2001-05-01T05:00:20.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/michael-palmer.md
+  - author/michael-palmer.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811214797
-  - 9780811214438
+  - isbn: 9780811214797
+    binding: paperback
+  - isbn: 9780811214438
+    binding: clothbound
+featured_image_path:
 _slug: the-promises-of-glass
 ---
 

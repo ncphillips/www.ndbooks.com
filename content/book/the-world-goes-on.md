@@ -1,24 +1,27 @@
 ---
 title: "The World Goes On"
 draft: false
-date: 2017-03-10T19:39:00-04:00
-publication_date: 2017-11-15T05:00:00-04:00
+date: 2017-03-10T19:39:00.000Z
+publication_date: 2017-11-15T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language: hungarian
 author:
-  - contributor/laszlo-krasznahorkai.md
+  - author/laszlo-krasznahorkai.md
 translator:
-  - contributor/john-batki.md
-  - contributor/ottilie-mulzet.md
-  - contributor/george-szirtes.md
+  - author/john-batki.md
+  - author/ottilie-mulzet.md
+  - author/george-szirtes.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811224192
-  - 9780811224208
+  - isbn: 9780811224192
+    binding: clothbound
+  - isbn: 9780811224208
+    binding: ebook
+featured_image_path:
 _slug: the-world-goes-on
 ---
 

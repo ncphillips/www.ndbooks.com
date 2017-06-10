@@ -1,19 +1,22 @@
 ---
 title: "Making Peace"
 draft: false
-date: 2006-02-01T06:00:43-04:00
-publication_date: 2006-02-01T06:00:43-04:00
+date: 2006-02-01T06:00:43.000Z
+publication_date: 2006-02-01T06:00:43.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/denise-levertov.md
+  - author/denise-levertov.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216401
+  - isbn: 9780811216401
+    binding: paperback
+featured_image_path:
 _slug: making-peace
 ---
 

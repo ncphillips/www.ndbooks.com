@@ -1,20 +1,23 @@
 ---
 title: "An American Dad"
 draft: false
-date: 2010-05-01T05:00:00-04:00
-publication_date: 2010-05-01T05:00:00-04:00
+date: 2010-05-01T05:00:00.000Z
+publication_date: 2010-05-01T05:00:00.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - memoir
 language:
 author:
-  - contributor/william-eric-williams.md
+  - author/william-eric-williams.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216166
+  - isbn: 9780811216166
+    binding: paperback
+featured_image_path:
 _slug: an-american-dad
 ---
 

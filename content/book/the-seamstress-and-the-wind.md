@@ -1,21 +1,24 @@
 ---
 title: "The Seamstress and the Wind"
 draft: false
-date: 2011-06-30T14:28:00-04:00
-publication_date: 2011-06-30T14:28:00-04:00
+date: 2011-06-30T14:28:00.000Z
+publication_date: 2011-06-30T14:28:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: spanish
 author:
-  - contributor/cesar-aira.md
+  - author/cesar-aira.md
 translator:
-  - contributor/rosalie-knecht.md
+  - author/rosalie-knecht.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811219129
-  - 9780811219341
+  - isbn: 9780811219129
+    binding: paperback
+  - isbn: 9780811219341
+    binding: ebook
+featured_image_path:
 _slug: the-seamstress-and-the-wind
 ---
 

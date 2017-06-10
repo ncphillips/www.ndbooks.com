@@ -1,20 +1,24 @@
 ---
 title: "Oreo"
 draft: false
-date: 2014-12-31T15:00:00-04:00
-publication_date: 2015-07-07T14:00:00-04:00
+date: 2014-12-31T15:00:00.000Z
+publication_date: 2015-07-07T14:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/fran-ross.md
+  - author/fran-ross.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811223225
-  - 9780811223232
+  - isbn: 9780811223225
+    binding: paperback
+  - isbn: 9780811223232
+    binding: ebook
+featured_image_path:
 _slug: oreo
 ---
 

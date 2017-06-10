@@ -1,20 +1,24 @@
 ---
 title: "The Red Devil Battery Sign"
 draft: false
-date: 1988-05-01T05:00:27-04:00
-publication_date: 1988-05-01T05:00:27-04:00
+date: 1988-05-01T05:00:27.000Z
+publication_date: 1988-05-01T05:00:27.000Z
 subtitle:
 genre: theater
 subgenre:
 language:
 author:
-  - contributor/tennessee-williams.md
+  - author/tennessee-williams.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811210478
-  - 9780811210461
+  - isbn: 9780811210478
+    binding: paperback
+  - isbn: 9780811210461
+    binding: clothbound
+featured_image_path:
 _slug: the-red-devil-battery-sign
 ---
 

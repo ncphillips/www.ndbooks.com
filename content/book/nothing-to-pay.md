@@ -1,19 +1,22 @@
 ---
 title: "Nothing To Pay"
 draft: false
-date: 1995-06-01T05:00:36-04:00
-publication_date: 1995-06-01T05:00:36-04:00
+date: 1995-06-01T05:00:36.000Z
+publication_date: 1995-06-01T05:00:36.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/caradoc-evans.md
+  - author/caradoc-evans.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811212908
+  - isbn: 9780811212908
+    binding: paperback
+featured_image_path:
 _slug: nothing-to-pay
 ---
 

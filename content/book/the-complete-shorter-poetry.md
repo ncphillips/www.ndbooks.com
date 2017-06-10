@@ -1,19 +1,22 @@
 ---
 title: "Anew"
 draft: false
-date: 2001-01-01T06:00:57-04:00
-publication_date: 2001-01-01T06:00:57-04:00
+date: 2001-01-01T06:00:57.000Z
+publication_date: 2001-01-01T06:00:57.000Z
 subtitle: "Complete Shorter Poetry"
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/louis-zukofsky.md
+  - author/louis-zukofsky.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218726
+  - isbn: 9780811218726
+    binding: paperback
+featured_image_path:
 _slug: the-complete-shorter-poetry
 ---
 

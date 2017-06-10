@@ -1,20 +1,23 @@
 ---
 title: "Early Sorrows"
 draft: false
-date: 1998-10-01T05:00:52-04:00
-publication_date: 1998-10-01T05:00:52-04:00
+date: 1998-10-01T05:00:52.000Z
+publication_date: 1998-10-01T05:00:52.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language:
 author:
-  - contributor/danilo-ki.md
+  - author/danilo-ki.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811213905
+  - isbn: 9780811213905
+    binding: clothbound
+featured_image_path:
 _slug: early-sorrows
 ---
 

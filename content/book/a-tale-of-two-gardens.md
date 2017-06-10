@@ -1,21 +1,22 @@
 ---
 title: "A Tale Of Two Gardens"
 draft: false
-date: 1997-04-01T06:00:00-04:00
-publication_date: 1997-04-01T06:00:00-04:00
+date: 1997-04-01T06:00:00.000Z
+publication_date: 1997-04-01T06:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/octavio-paz.md
+  - author/octavio-paz.md
 translator:
-  - contributor/eliot-weinberger.md
+  - author/eliot-weinberger.md
 editor:
-  - contributor/eliot-weinberger.md
-featured_image_path:
+  - author/eliot-weinberger.md
 editions:
-  - 9780811213493
+  - isbn: 9780811213493
+    binding: paperback
+featured_image_path:
 _slug: a-tale-of-two-gardens
 ---
 

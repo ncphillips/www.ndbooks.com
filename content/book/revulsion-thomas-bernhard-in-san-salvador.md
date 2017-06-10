@@ -1,21 +1,24 @@
 ---
 title: "Revulsion: Thomas Bernhard in San Salvador"
 draft: false
-date: 2015-10-21T19:17:00-04:00
-publication_date: 2016-07-26T23:00:00-04:00
+date: 2015-10-21T19:17:00.000Z
+publication_date: 2016-07-26T23:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: spanish
 author:
-  - contributor/horacio-castellanos-moya.md
+  - author/horacio-castellanos-moya.md
 translator:
-  - contributor/lee-klein.md
+  - author/lee-klein.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811225397
-  - 9780811225403
+  - isbn: 9780811225397
+    binding: paperback
+  - isbn: 9780811225403
+    binding: ebook
+featured_image_path:
 _slug: revulsion-thomas-bernhard-in-san-salvador
 ---
 

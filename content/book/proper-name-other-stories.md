@@ -1,20 +1,23 @@
 ---
 title: "Proper Name & Other Stories"
 draft: false
-date: 1996-06-01T05:00:36-04:00
-publication_date: 1996-06-01T05:00:36-04:00
+date: 1996-06-01T05:00:36.000Z
+publication_date: 1996-06-01T05:00:36.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language:
 author:
-  - contributor/bernadette-mayer.md
+  - author/bernadette-mayer.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811213257
+  - isbn: 9780811213257
+    binding: paperback
+featured_image_path:
 _slug: proper-name-other-stories
 ---
 

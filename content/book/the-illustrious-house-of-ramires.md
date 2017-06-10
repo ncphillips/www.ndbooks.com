@@ -1,20 +1,22 @@
 ---
 title: "The Illustrious House of Ramires"
 draft: false
-date: 1994-05-01T05:00:14-04:00
-publication_date: 1994-05-01T05:00:14-04:00
+date: 1994-05-01T05:00:14.000Z
+publication_date: 1994-05-01T05:00:14.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/jose-maria-de-eca-de-queiros.md
+  - author/jose-maria-de-eca-de-queiros.md
 translator:
-  - contributor/ann-stevens.md
+  - author/ann-stevens.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811212649
+  - isbn: 9780811212649
+    binding: paperback
+featured_image_path:
 _slug: the-illustrious-house-of-ramires
 ---
 

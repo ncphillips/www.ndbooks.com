@@ -1,22 +1,26 @@
 ---
 title: "The Missing Head of Damasceno Monteiro"
 draft: false
-date: 2005-01-01T06:00:00-04:00
-publication_date: 2005-01-01T06:00:00-04:00
+date: 2005-01-01T06:00:00.000Z
+publication_date: 2005-01-01T06:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: italian
 author:
-  - contributor/antonio-tabucchi.md
+  - author/antonio-tabucchi.md
 translator:
-  - contributor/j.-c.-patrick.md
+  - author/j.-c.-patrick.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216043
-  - 9780811213936
-  - 9780811222457
+  - isbn: 9780811216043
+    binding: paperback
+  - isbn: 9780811213936
+    binding: clothbound
+  - isbn: 9780811222457
+    binding: ebook
+featured_image_path:
 _slug: the-missing-head
 ---
 

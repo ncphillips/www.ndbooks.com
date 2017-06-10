@@ -1,20 +1,24 @@
 ---
 title: "The Selected Poetry Of Vicente Huidobro"
 draft: false
-date: 1982-01-01T06:00:00-04:00
-publication_date: 1982-01-01T06:00:00-04:00
+date: 1982-01-01T06:00:00.000Z
+publication_date: 1982-01-01T06:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language: spanish
 author:
-  - contributor/vicente-huidobro.md
+  - author/vicente-huidobro.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811208055
-  - 9780811208048
+  - isbn: 9780811208055
+    binding: paperback
+  - isbn: 9780811208048
+    binding: clothbound
+featured_image_path:
 _slug: the-selected-poetry-of-vicente-huidobro
 ---
 

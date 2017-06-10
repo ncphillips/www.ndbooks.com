@@ -1,21 +1,24 @@
 ---
 title: "The Unknown University"
 draft: false
-date: 2013-07-11T15:42:00-04:00
-publication_date: 2013-07-11T15:42:00-04:00
+date: 2013-07-11T15:42:00.000Z
+publication_date: 2013-07-11T15:42:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language: spanish
 author:
-  - contributor/roberto-bolano.md
+  - author/roberto-bolano.md
 translator:
-  - contributor/laura-healy.md
+  - author/laura-healy.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811219280
-  - 9780811222532
+  - isbn: 9780811219280
+    binding: clothbound
+  - isbn: 9780811222532
+    binding: ebook
+featured_image_path:
 _slug: the-unknown-university
 ---
 

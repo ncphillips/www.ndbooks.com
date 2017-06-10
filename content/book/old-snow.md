@@ -1,20 +1,24 @@
 ---
 title: "Old Snow"
 draft: false
-date: 1991-11-01T06:00:48-04:00
-publication_date: 1991-11-01T06:00:48-04:00
+date: 1991-11-01T06:00:48.000Z
+publication_date: 1991-11-01T06:00:48.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/bei-dao.md
+  - author/bei-dao.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811211833
-  - 9780811211826
+  - isbn: 9780811211833
+    binding: paperback
+  - isbn: 9780811211826
+    binding: clothbound
+featured_image_path:
 _slug: old-snow
 ---
 

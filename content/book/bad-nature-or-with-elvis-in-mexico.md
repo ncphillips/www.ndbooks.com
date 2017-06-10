@@ -1,21 +1,24 @@
 ---
 title: "Bad Nature, or with Elvis in Mexico"
 draft: false
-date: 2010-02-01T06:00:00-04:00
-publication_date: 2010-02-01T06:00:00-04:00
+date: 2010-02-01T06:00:00.000Z
+publication_date: 2010-02-01T06:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: spanish
 author:
-  - contributor/javier-marias.md
+  - author/javier-marias.md
 translator:
-  - contributor/esther-allen.md
+  - author/esther-allen.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218580
-  - 9780811219648
+  - isbn: 9780811218580
+    binding: paperback
+  - isbn: 9780811219648
+    binding: ebook
+featured_image_path:
 _slug: bad-nature-or-with-elvis-in-mexico
 ---
 

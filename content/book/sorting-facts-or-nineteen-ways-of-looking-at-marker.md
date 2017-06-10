@@ -1,20 +1,23 @@
 ---
 title: "Sorting Facts, or Nineteen Ways of Looking at Marker"
 draft: false
-date: 2013-03-26T20:07:00-04:00
-publication_date: 2013-03-26T20:07:00-04:00
+date: 2013-03-26T20:07:00.000Z
+publication_date: 2013-03-26T20:07:00.000Z
 subtitle:
 genre:
 subgenre:
   - essay
 language:
 author:
-  - contributor/susan-howe.md
+  - author/susan-howe.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811220392
+  - isbn: 9780811220392
+    binding: paperback
+featured_image_path:
 _slug: sorting-facts-or-nineteen-ways-of-looking-at-marker
 ---
 

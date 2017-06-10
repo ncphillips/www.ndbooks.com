@@ -1,21 +1,23 @@
 ---
 title: "Hospital Series"
 draft: false
-date: 2015-04-07T15:09:00-04:00
-publication_date: 2015-04-07T14:32:00-04:00
+date: 2015-04-07T15:09:00.000Z
+publication_date: 2015-04-07T14:32:00.000Z
 subtitle:
 genre:
 subgenre:
 language:
 author:
-  - contributor/amelia-rosselli.md
+  - author/amelia-rosselli.md
 translator:
-  - contributor/deborah-woodard.md
-  - contributor/giuseppe-leporace.md
+  - author/deborah-woodard.md
+  - author/giuseppe-leporace.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811223973
+  - isbn: 9780811223973
+    binding: paperback
+featured_image_path:
 _slug: hospital-poems
 ---
 

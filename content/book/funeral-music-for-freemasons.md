@@ -1,21 +1,24 @@
 ---
 title: "Funeral Music for Freemasons"
 draft: false
-date: 1987-05-01T05:00:58-04:00
-publication_date: 1987-05-01T05:00:58-04:00
+date: 1987-05-01T05:00:58.000Z
+publication_date: 1987-05-01T05:00:58.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/lars-gustafsson.md
+  - author/lars-gustafsson.md
 translator:
-  - contributor/yvonne-l.-sandstroem.md
+  - author/yvonne-l.-sandstroem.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811210188
-  - 9780811210171
+  - isbn: 9780811210188
+    binding: paperback
+  - isbn: 9780811210171
+    binding: clothbound
+featured_image_path:
 _slug: funeral-music-for-freemasons
 ---
 

@@ -1,19 +1,22 @@
 ---
 title: "Kora And Ka"
 draft: false
-date: 1996-04-01T06:00:37-04:00
-publication_date: 1996-04-01T06:00:37-04:00
+date: 1996-04-01T06:00:37.000Z
+publication_date: 1996-04-01T06:00:37.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/hilda-doolittle-h.-d.md
+  - author/hilda-doolittle-h.-d.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811213172
+  - isbn: 9780811213172
+    binding: paperback
+featured_image_path:
 _slug: kora-and-ka
 ---
 

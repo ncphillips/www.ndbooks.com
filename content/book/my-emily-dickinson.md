@@ -1,20 +1,24 @@
 ---
 title: "My Emily Dickinson"
 draft: false
-date: 2007-11-01T05:00:00-04:00
-publication_date: 2007-11-01T05:00:00-04:00
+date: 2007-11-01T05:00:00.000Z
+publication_date: 2007-11-01T05:00:00.000Z
 subtitle:
 genre: nonfiction
 subgenre:
 language: portuguese
 author:
-  - contributor/susan-howe.md
+  - author/susan-howe.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216838
-  - 9780811223348
+  - isbn: 9780811216838
+    binding: paperback
+  - isbn: 9780811223348
+    binding: ebook
+featured_image_path:
 _slug: my-emily-dickinson
 ---
 

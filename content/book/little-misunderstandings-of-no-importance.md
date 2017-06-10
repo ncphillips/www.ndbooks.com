@@ -1,23 +1,27 @@
 ---
 title: "Little Misunderstandings of No Importance"
 draft: false
-date: 1987-09-01T05:00:00-04:00
-publication_date: 1987-09-01T05:00:00-04:00
+date: 1987-09-01T05:00:00.000Z
+publication_date: 1987-09-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language: italian
 author:
-  - contributor/antonio-tabucchi.md
+  - author/antonio-tabucchi.md
 translator:
-  - contributor/frances-frenaye.md
+  - author/frances-frenaye.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811211116
-  - 9780811210294
-  - 9780811222440
+  - isbn: 9780811211116
+    binding: paperback
+  - isbn: 9780811210294
+    binding: clothbound
+  - isbn: 9780811222440
+    binding: ebook
+featured_image_path:
 _slug: little-misunderstandings-of-no-importance
 ---
 

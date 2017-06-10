@@ -1,19 +1,22 @@
 ---
 title: "Annotations"
 draft: false
-date: 1995-10-01T05:00:40-04:00
-publication_date: 1995-10-01T05:00:40-04:00
+date: 1995-10-01T05:00:00.000Z
+publication_date: 1995-10-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/john-keene.md
+  - author/john-keene.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811213042
+  - isbn: 9780811213042
+    binding: paperback
+featured_image_path:
 _slug: annotations
 ---
 

@@ -1,22 +1,24 @@
 ---
 title: "Near to the Wild Heart"
 draft: false
-date: 2012-06-13T20:04:00-04:00
-publication_date: 2012-06-13T20:04:00-04:00
+date: 2012-06-13T20:04:00.000Z
+publication_date: 2012-06-13T20:04:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/clarice-lispector.md
+  - author/clarice-lispector.md
 translator:
-  - contributor/alison-entrekin.md
+  - author/alison-entrekin.md
 editor:
-  - contributor/benjamin-moser.md
-featured_image_path:
+  - author/benjamin-moser.md
 editions:
-  - 9780811220026
-  - 9780811220712
+  - isbn: 9780811220026
+    binding: paperback
+  - isbn: 9780811220712
+    binding: ebook
+featured_image_path:
 _slug: near-to-the-wild-heart1
 ---
 

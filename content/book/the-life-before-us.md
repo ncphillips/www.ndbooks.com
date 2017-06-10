@@ -1,20 +1,22 @@
 ---
 title: "The Life Before Us"
 draft: false
-date: 1986-02-01T06:00:56-04:00
-publication_date: 1986-02-01T06:00:56-04:00
+date: 1986-02-01T06:00:56.000Z
+publication_date: 1986-02-01T06:00:56.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/romain-gary.md
+  - author/romain-gary.md
 translator:
-  - contributor/ralph-manheim.md
+  - author/ralph-manheim.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811209618
+  - isbn: 9780811209618
+    binding: paperback
+featured_image_path:
 _slug: the-life-before-us
 ---
 

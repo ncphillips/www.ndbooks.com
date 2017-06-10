@@ -1,20 +1,23 @@
 ---
 title: "Fifty Stories"
 draft: false
-date: 1992-06-01T05:00:24-04:00
-publication_date: 1992-06-01T05:00:24-04:00
+date: 1992-06-01T05:00:24.000Z
+publication_date: 1992-06-01T05:00:24.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language:
 author:
-  - contributor/kay-boyle.md
+  - author/kay-boyle.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811212069
+  - isbn: 9780811212069
+    binding: paperback
+featured_image_path:
 _slug: fifty-stories
 ---
 

@@ -1,20 +1,22 @@
 ---
 title: "S. S. Proleterka"
 draft: false
-date: 2003-11-01T06:00:49-04:00
-publication_date: 2003-11-01T06:00:49-04:00
+date: 2003-11-01T06:00:49.000Z
+publication_date: 2003-11-01T06:00:49.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/fleur-jaeggy.md
+  - author/fleur-jaeggy.md
 translator:
-  - contributor/alastair-mcewen.md
+  - author/alastair-mcewen.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811215503
+  - isbn: 9780811215503
+    binding: paperback
+featured_image_path:
 _slug: s.-s.-proleterka
 ---
 

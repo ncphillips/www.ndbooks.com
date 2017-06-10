@@ -1,22 +1,25 @@
 ---
 title: "The Collected Poems Of Tennessee Williams"
 draft: false
-date: 2007-04-01T05:00:00-04:00
-publication_date: 2007-04-01T05:00:00-04:00
+date: 2007-04-01T05:00:00.000Z
+publication_date: 2007-04-01T05:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/tennessee-williams.md
+  - author/tennessee-williams.md
 translator:
+
 editor:
-  - contributor/david-roessel.md
-  - contributor/nicholas-moschovakis.md
-featured_image_path:
+  - author/david-roessel.md
+  - author/nicholas-moschovakis.md
 editions:
-  - 9780811216913
-  - 9780811215084
+  - isbn: 9780811216913
+    binding: paperback
+  - isbn: 9780811215084
+    binding: clothbound
+featured_image_path:
 _slug: the-collected-poems-of-tennessee-williams
 ---
 

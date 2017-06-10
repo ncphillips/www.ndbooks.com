@@ -1,20 +1,22 @@
 ---
 title: "Thirty Poems"
 draft: false
-date: 2012-06-28T15:54:00-04:00
-publication_date: 2012-06-28T15:54:00-04:00
+date: 2012-06-28T15:54:00.000Z
+publication_date: 2012-06-28T15:54:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language: german
 author:
-  - contributor/robert-walser.md
+  - author/robert-walser.md
 translator:
-  - contributor/christopher-middleton.md
+  - author/christopher-middleton.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811220019
+  - isbn: 9780811220019
+    binding: clothbound
+featured_image_path:
 _slug: thirty-poems
 ---
 

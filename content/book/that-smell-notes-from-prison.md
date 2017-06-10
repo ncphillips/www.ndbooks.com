@@ -1,22 +1,24 @@
 ---
 title: "That Smell & Notes from Prison"
 draft: false
-date: 2013-03-22T16:48:00-04:00
-publication_date: 2013-03-22T16:48:00-04:00
+date: 2013-03-22T16:48:00.000Z
+publication_date: 2013-03-22T16:48:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: arabic
 author:
-  - contributor/sonallah-ibrahim.md
+  - author/sonallah-ibrahim.md
 translator:
-  - contributor/robyn-creswell.md
+  - author/robyn-creswell.md
 editor:
-  - contributor/robyn-creswell.md
-featured_image_path:
+  - author/robyn-creswell.md
 editions:
-  - 9780811220361
-  - 9780811220620
+  - isbn: 9780811220361
+    binding: paperback
+  - isbn: 9780811220620
+    binding: ebook
+featured_image_path:
 _slug: that-smell-notes-from-prison
 ---
 

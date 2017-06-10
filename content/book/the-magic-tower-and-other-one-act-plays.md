@@ -1,20 +1,22 @@
 ---
 title: "The Magic Tower And Other One-Act Plays"
 draft: false
-date: 2011-04-25T14:28:23-04:00
-publication_date: 2011-04-25T14:28:23-04:00
+date: 2011-04-25T14:28:23.000Z
+publication_date: 2011-04-25T14:28:23.000Z
 subtitle:
 genre: theater
 subgenre:
 language:
 author:
-  - contributor/tennessee-williams.md
+  - author/tennessee-williams.md
 translator:
+
 editor:
-  - contributor/thomas-keith.md
-featured_image_path:
+  - author/thomas-keith.md
 editions:
-  - 9780811219204
+  - isbn: 9780811219204
+    binding: paperback
+featured_image_path:
 _slug: the-magic-tower-and-other-one-act-plays
 ---
 

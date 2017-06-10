@@ -1,8 +1,8 @@
 ---
 title: "New Directions 42"
 draft: false
-date: 1981-05-01T05:00:10-04:00
-publication_date: 1981-05-01T05:00:10-04:00
+date: 1981-05-01T05:00:10.000Z
+publication_date: 1981-05-01T05:00:10.000Z
 subtitle:
 genre: fiction
 subgenre:
@@ -11,11 +11,15 @@ language:
 author:
 
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811207846
-  - 9780811207836
+  - isbn: 9780811207846
+    binding: paperback
+  - isbn: 9780811207836
+    binding: clothbound
+featured_image_path:
 _slug: new-directions-42
 ---
 

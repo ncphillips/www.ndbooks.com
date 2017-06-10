@@ -1,21 +1,24 @@
 ---
 title: "The Hall of the Singing Caryatids"
 draft: false
-date: 2011-10-27T14:28:00-04:00
-publication_date: 2011-10-27T14:28:00-04:00
+date: 2011-10-27T14:28:00.000Z
+publication_date: 2011-10-27T14:28:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: russian
 author:
-  - contributor/victor-pelevin.md
+  - author/victor-pelevin.md
 translator:
-  - contributor/andrew-bromfield.md
+  - author/andrew-bromfield.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811219426
-  - 9780811219532
+  - isbn: 9780811219426
+    binding: paperback
+  - isbn: 9780811219532
+    binding: ebook
+featured_image_path:
 _slug: the-hall-of-the-singing-caryatids
 ---
 

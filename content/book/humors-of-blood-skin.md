@@ -1,20 +1,23 @@
 ---
 title: "Humors Of Blood & Skin"
 draft: false
-date: 1984-11-01T06:00:06-04:00
-publication_date: 1984-11-01T06:00:06-04:00
+date: 1984-11-01T06:00:06.000Z
+publication_date: 1984-11-01T06:00:06.000Z
 subtitle:
 genre: fiction
 subgenre:
   - anthology
 language:
 author:
-  - contributor/john-hawkes.md
+  - author/john-hawkes.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811209076
+  - isbn: 9780811209076
+    binding: paperback
+featured_image_path:
 _slug: humors-of-blood-skin
 ---
 

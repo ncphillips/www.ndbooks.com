@@ -1,8 +1,8 @@
 ---
 title: "The New Directions Anthology Of Classical Chinese Poetry"
 draft: false
-date: 2003-04-01T06:00:31-04:00
-publication_date: 2003-04-01T06:00:31-04:00
+date: 2003-04-01T06:00:31.000Z
+publication_date: 2003-04-01T06:00:31.000Z
 subtitle:
 genre: poetry
 subgenre:
@@ -11,17 +11,19 @@ language:
 author:
 
 translator:
-  - contributor/david-hinton.md
-  - contributor/kenneth-rexroth.md
-  - contributor/ezra-pound.md
-  - contributor/gary-snyder.md
-  - contributor/william-carlos-williams.md
+  - author/david-hinton.md
+  - author/kenneth-rexroth.md
+  - author/ezra-pound.md
+  - author/gary-snyder.md
+  - author/william-carlos-williams.md
 editor:
-  - contributor/eliot-weinberger.md
-featured_image_path:
+  - author/eliot-weinberger.md
 editions:
-  - 9780811216050
-  - 9780811215404
+  - isbn: 9780811216050
+    binding: paperback
+  - isbn: 9780811215404
+    binding: clothbound
+featured_image_path:
 _slug: the-new-directions-anthology-of-classical-chinese-poetry
 ---
 

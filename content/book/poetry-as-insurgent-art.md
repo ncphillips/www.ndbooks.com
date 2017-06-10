@@ -1,21 +1,25 @@
 ---
 title: "Poetry As Insurgent Art"
 draft: false
-date: 2007-09-01T17:35:00-04:00
-publication_date: 2007-09-01T17:35:00-04:00
+date: 2007-09-01T17:35:00.000Z
+publication_date: 2007-09-01T17:35:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/lawrence-ferlinghetti.md
-  - contributor/adam-phillips.md
+  - author/lawrence-ferlinghetti.md
+  - author/adam-phillips.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  -
-  - 9780811217194
+  - isbn:
+    binding: paperback
+  - isbn: 9780811217194
+    binding: clothbound
+featured_image_path:
 _slug: poetry-as-insurgent-art
 ---
 

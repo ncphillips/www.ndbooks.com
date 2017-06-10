@@ -1,21 +1,24 @@
 ---
 title: "Moral Tales"
 draft: false
-date: 1985-05-01T05:00:49-04:00
-publication_date: 1985-05-01T05:00:49-04:00
+date: 1985-05-01T05:00:49.000Z
+publication_date: 1985-05-01T05:00:49.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/jules-laforgue.md
+  - author/jules-laforgue.md
 translator:
-  - contributor/william-jay-smith.md
+  - author/william-jay-smith.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811209434
-  - 9780811209427
+  - isbn: 9780811209434
+    binding: paperback
+  - isbn: 9780811209427
+    binding: clothbound
+featured_image_path:
 _slug: moral-tales
 ---
 

@@ -1,20 +1,22 @@
 ---
 title: "A Musical Hell"
 draft: false
-date: 2013-07-10T19:19:00-04:00
-publication_date: 2013-07-10T19:19:00-04:00
+date: 2013-07-10T19:19:00.000Z
+publication_date: 2013-07-10T19:19:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language: spanish
 author:
-  - contributor/alejandra-pizarnik.md
+  - author/alejandra-pizarnik.md
 translator:
-  - contributor/yvette-siegert.md
+  - author/yvette-siegert.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811220965
+  - isbn: 9780811220965
+    binding: paperback
+featured_image_path:
 _slug: a-musical-hell
 ---
 

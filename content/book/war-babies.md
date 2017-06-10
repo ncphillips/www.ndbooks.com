@@ -1,20 +1,24 @@
 ---
 title: "War Babies"
 draft: false
-date: 2001-06-01T05:00:38-04:00
-publication_date: 2001-06-01T05:00:38-04:00
+date: 2001-06-01T05:00:38.000Z
+publication_date: 2001-06-01T05:00:38.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/frederick-busch.md
+  - author/frederick-busch.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811214766
-  - 9780811211031
+  - isbn: 9780811214766
+    binding: paperback
+  - isbn: 9780811211031
+    binding: clothbound
+featured_image_path:
 _slug: war-babies
 ---
 

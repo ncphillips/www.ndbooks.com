@@ -1,20 +1,24 @@
 ---
 title: "The Novel"
 draft: false
-date: 1990-11-01T06:00:47-04:00
-publication_date: 1990-11-01T06:00:47-04:00
+date: 1990-11-01T06:00:47.000Z
+publication_date: 1990-11-01T06:00:47.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/paul-hoover.md
+  - author/paul-hoover.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811211536
-  - 9780811211482
+  - isbn: 9780811211536
+    binding: paperback
+  - isbn: 9780811211482
+    binding: clothbound
+featured_image_path:
 _slug: the-novel
 ---
 

@@ -1,20 +1,24 @@
 ---
 title: "Goodbye to Berlin"
 draft: false
-date: 2012-09-27T17:37:36-04:00
-publication_date: 2012-09-27T17:37:36-04:00
+date: 2012-09-27T17:37:36.000Z
+publication_date: 2012-09-27T17:37:36.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/christopher-isherwood.md
+  - author/christopher-isherwood.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811220248
-  - 9780811220255
+  - isbn: 9780811220248
+    binding: paperback
+  - isbn: 9780811220255
+    binding: ebook
+featured_image_path:
 _slug: goodbye-to-berlin
 ---
 

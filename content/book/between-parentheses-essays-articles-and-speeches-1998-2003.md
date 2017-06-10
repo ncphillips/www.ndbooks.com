@@ -1,22 +1,25 @@
 ---
 title: "Between Parentheses"
 draft: false
-date: 2011-05-30T14:28:00-04:00
-publication_date: 2011-05-30T14:28:00-04:00
+date: 2011-05-30T14:28:00.000Z
+publication_date: 2011-05-30T14:28:00.000Z
 subtitle: " Essays, Articles And Speeches, 1998-2003"
 genre: nonfiction
 subgenre:
   - essay
 language: spanish
 author:
-  - contributor/roberto-bolano.md
+  - author/roberto-bolano.md
 translator:
-  - contributor/natasha-wimmer.md
+  - author/natasha-wimmer.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218146
-  - 9780811220507
+  - isbn: 9780811218146
+    binding: clothbound
+  - isbn: 9780811220507
+    binding: ebook
+featured_image_path:
 _slug: between-parentheses-essays-articles-and-speeches-1998-2003
 ---
 

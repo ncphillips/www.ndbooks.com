@@ -1,19 +1,22 @@
 ---
 title: "Camino Real"
 draft: false
-date: 2008-10-01T04:59:00-04:00
-publication_date: 2008-10-01T04:59:00-04:00
+date: 2008-10-01T04:59:00.000Z
+publication_date: 2008-10-01T04:59:00.000Z
 subtitle:
 genre: theater
 subgenre:
 language: portuguese
 author:
-  - contributor/tennessee-williams.md
+  - author/tennessee-williams.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218061
+  - isbn: 9780811218061
+    binding: paperback
+featured_image_path:
 _slug: camino-real
 ---
 

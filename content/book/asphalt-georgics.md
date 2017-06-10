@@ -1,20 +1,24 @@
 ---
 title: "Asphalt Georgics"
 draft: false
-date: 1985-04-01T06:00:00-04:00
-publication_date: 1985-04-01T06:00:00-04:00
+date: 1985-04-01T06:00:00.000Z
+publication_date: 1985-04-01T06:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/hayden-carruth.md
+  - author/hayden-carruth.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811209380
-  - 9780811209373
+  - isbn: 9780811209380
+    binding: paperback
+  - isbn: 9780811209373
+    binding: clothbound
+featured_image_path:
 _slug: asphalt-georgics
 ---
 

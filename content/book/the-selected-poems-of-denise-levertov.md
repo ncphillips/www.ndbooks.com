@@ -1,21 +1,26 @@
 ---
 title: "Selected Poems of Denise Levertov"
 draft: false
-date: 2002-09-01T05:00:00-04:00
-publication_date: 2002-09-01T05:00:00-04:00
+date: 2002-09-01T05:00:00.000Z
+publication_date: 2002-09-01T05:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/denise-levertov.md
+  - author/denise-levertov.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811215541
-  - 9780811215206
-  - 9780811222396
+  - isbn: 9780811215541
+    binding: paperback
+  - isbn: 9780811215206
+    binding: clothbound
+  - isbn: 9780811222396
+    binding: ebook
+featured_image_path:
 _slug: the-selected-poems-of-denise-levertov
 ---
 

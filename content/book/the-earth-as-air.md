@@ -1,20 +1,24 @@
 ---
 title: "The Earth As Air"
 draft: false
-date: 1984-04-01T06:00:00-04:00
-publication_date: 1984-04-01T06:00:00-04:00
+date: 1984-04-01T06:00:00.000Z
+publication_date: 1984-04-01T06:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/gustaf-sobin.md
+  - author/gustaf-sobin.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811208932
-  - 9780811208925
+  - isbn: 9780811208932
+    binding: paperback
+  - isbn: 9780811208925
+    binding: clothbound
+featured_image_path:
 _slug: the-earth-as-air
 ---
 

@@ -1,21 +1,25 @@
 ---
 title: "Confessions Of A Literary Archaeologist"
 draft: false
-date: 1990-06-01T05:00:13-04:00
-publication_date: 1990-06-01T05:00:13-04:00
+date: 1990-06-01T05:00:13.000Z
+publication_date: 1990-06-01T05:00:13.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - memoir
 language:
 author:
-  - contributor/carlton-lake.md
+  - author/carlton-lake.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217781
-  - 9780811211307
+  - isbn: 9780811217781
+    binding: paperback
+  - isbn: 9780811211307
+    binding: clothbound
+featured_image_path:
 _slug: the-confessions-of-a-literary-archaeologist
 ---
 

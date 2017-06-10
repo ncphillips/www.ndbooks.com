@@ -1,19 +1,22 @@
 ---
 title: "Fireflies in the Mist"
 draft: false
-date: 2010-11-29T14:27:59-04:00
-publication_date: 2010-11-29T14:27:59-04:00
+date: 2010-11-29T14:27:59.000Z
+publication_date: 2010-11-29T14:27:59.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/qurratulain-hyder.md
+  - author/qurratulain-hyder.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218658
+  - isbn: 9780811218658
+    binding: paperback
+featured_image_path:
 _slug: fireflies-in-the-mist
 ---
 

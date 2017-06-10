@@ -1,22 +1,25 @@
 ---
 title: "Voyage Around My Room"
 draft: false
-date: 1994-11-01T06:00:00-04:00
-publication_date: 2016-03-21T04:00:00-04:00
+date: 1994-11-01T06:00:00.000Z
+publication_date: 2016-03-21T04:00:00.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - memoir
 language: french
 author:
-  - contributor/xavier-de-maistre.md
+  - author/xavier-de-maistre.md
 translator:
-  - contributor/stephen-sartarelli.md
+  - author/stephen-sartarelli.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811212809
-  - 9780811222341
+  - isbn: 9780811212809
+    binding: paperback
+  - isbn: 9780811222341
+    binding: ebook
+featured_image_path:
 _slug: voyage-around-my-room
 ---
 

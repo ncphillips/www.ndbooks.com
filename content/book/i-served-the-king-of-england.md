@@ -1,20 +1,24 @@
 ---
 title: "I Served the King of England"
 draft: false
-date: 2007-05-01T05:00:00-04:00
-publication_date: 2007-05-01T05:00:00-04:00
+date: 2007-05-01T05:00:00.000Z
+publication_date: 2007-05-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: czech
 author:
-  - contributor/bohumil-hrabal.md
+  - author/bohumil-hrabal.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216876
-  - 9780811220088
+  - isbn: 9780811216876
+    binding: paperback
+  - isbn: 9780811220088
+    binding: ebook
+featured_image_path:
 _slug: i-served-the-king-of-england
 ---
 

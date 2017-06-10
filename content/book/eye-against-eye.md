@@ -1,19 +1,22 @@
 ---
 title: "Eye Against Eye"
 draft: false
-date: 2005-09-01T05:00:08-04:00
-publication_date: 2005-09-01T05:00:08-04:00
+date: 2005-09-01T05:00:08.000Z
+publication_date: 2005-09-01T05:00:08.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/forrest-gander.md
+  - author/forrest-gander.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216357
+  - isbn: 9780811216357
+    binding: paperback
+featured_image_path:
 _slug: eye-against-eye
 ---
 

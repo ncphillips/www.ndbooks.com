@@ -1,19 +1,22 @@
 ---
 title: "Reluctant Gravities"
 draft: false
-date: 1999-10-01T05:00:00-04:00
-publication_date: 1999-10-01T05:00:00-04:00
+date: 1999-10-01T05:00:00.000Z
+publication_date: 1999-10-01T05:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/rosmarie-waldrop.md
+  - author/rosmarie-waldrop.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811214285
+  - isbn: 9780811214285
+    binding: paperback
+featured_image_path:
 _slug: reluctant-gravities
 ---
 

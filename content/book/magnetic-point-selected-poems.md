@@ -1,20 +1,24 @@
 ---
 title: "Magnetic Point: Selected Poems "
 draft: false
-date: 2017-03-10T19:08:00-04:00
-publication_date: 2017-09-19T04:00:00-04:00
+date: 2017-03-10T19:08:00.000Z
+publication_date: 2017-09-19T04:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language: polish
 author:
-
+  - author/ryszard-krynicki.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811225007
-  - 9780811225014
+  - isbn: 9780811225007
+    binding: paperback
+  - isbn: 9780811225014
+    binding: ebook
+featured_image_path:
 _slug: magnetic-point-selected-poems
 ---
 

@@ -1,19 +1,22 @@
 ---
 title: "We Meet"
 draft: false
-date: 2009-07-01T05:00:19-04:00
-publication_date: 2009-07-01T05:00:19-04:00
+date: 2009-07-01T05:00:19.000Z
+publication_date: 2009-07-01T05:00:19.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/kenneth-patchen.md
+  - author/kenneth-patchen.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217583
+  - isbn: 9780811217583
+    binding: paperback
+featured_image_path:
 _slug: we-meet
 ---
 

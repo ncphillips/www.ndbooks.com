@@ -1,21 +1,25 @@
 ---
 title: "The Doctor Stories"
 draft: false
-date: 1984-10-01T05:00:00-04:00
-publication_date: 1984-10-01T05:00:00-04:00
+date: 1984-10-01T05:00:00.000Z
+publication_date: 1984-10-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language:
 author:
-  - contributor/william-carlos-williams.md
+  - author/william-carlos-williams.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811209267
-  - 9780811220156
+  - isbn: 9780811209267
+    binding: paperback
+  - isbn: 9780811220156
+    binding: ebook
+featured_image_path:
 _slug: the-doctor-stories
 ---
 

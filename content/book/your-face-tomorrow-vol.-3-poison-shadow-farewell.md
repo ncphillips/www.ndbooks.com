@@ -1,22 +1,26 @@
 ---
 title: "Your Face Tomorrow Vol. 3: Poison, Shadow, & Farewell"
 draft: false
-date: 2009-11-01T05:00:00-04:00
-publication_date: 2009-11-01T05:00:00-04:00
+date: 2009-11-01T05:00:00.000Z
+publication_date: 2009-11-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: spanish
 author:
-  - contributor/javier-marias.md
+  - author/javier-marias.md
 translator:
-  - contributor/margaret-jull-costa.md
+  - author/margaret-jull-costa.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811219242
-  - 9780811218122
-  - 9780811223911
+  - isbn: 9780811219242
+    binding: paperback
+  - isbn: 9780811218122
+    binding: clothbound
+  - isbn: 9780811223911
+    binding: ebook
+featured_image_path:
 _slug: your-face-tomorrow-vol.-3-poison-shadow-farewell
 ---
 

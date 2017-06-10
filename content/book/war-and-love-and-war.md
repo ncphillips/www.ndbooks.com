@@ -1,20 +1,22 @@
 ---
 title: "War & Love, Love & War"
 draft: false
-date: 2010-10-29T14:28:00-04:00
-publication_date: 2010-10-29T14:28:00-04:00
+date: 2010-10-29T14:28:00.000Z
+publication_date: 2010-10-29T14:28:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language: hebrew
 author:
-  - contributor/aharon-shabtai.md
+  - author/aharon-shabtai.md
 translator:
-  - contributor/peter-cole.md
+  - author/peter-cole.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218900
+  - isbn: 9780811218900
+    binding: paperback
+featured_image_path:
 _slug: war-and-love-and-war
 ---
 

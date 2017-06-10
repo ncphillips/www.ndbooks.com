@@ -1,21 +1,25 @@
 ---
 title: "Woodpecker Point & Other Stories"
 draft: false
-date: 1988-10-01T05:00:04-04:00
-publication_date: 1988-10-01T05:00:04-04:00
+date: 1988-10-01T05:00:04.000Z
+publication_date: 1988-10-01T05:00:04.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language:
 author:
-  - contributor/carmel-bird.md
+  - author/carmel-bird.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811210737
-  - 9780811210720
+  - isbn: 9780811210737
+    binding: paperback
+  - isbn: 9780811210720
+    binding: clothbound
+featured_image_path:
 _slug: woodpecker-point-other-stories
 ---
 

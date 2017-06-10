@@ -1,21 +1,24 @@
 ---
 title: "Memoirs of a Polar Bear "
 draft: false
-date: 2016-03-07T20:29:00-04:00
-publication_date: 2016-11-08T05:00:00-04:00
+date: 2016-03-07T20:29:00.000Z
+publication_date: 2016-11-08T05:00:00.000Z
 subtitle:
 genre:
 subgenre:
 language: german
 author:
-  - contributor/yoko-tawada.md
+  - author/yoko-tawada.md
 translator:
-  - contributor/susan-bernofsky.md
+  - author/susan-bernofsky.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811225786
-  - 9780811225793
+  - isbn: 9780811225786
+    binding: paperback
+  - isbn: 9780811225793
+    binding: ebook
+featured_image_path:
 _slug: memoirs-of-a-polar-bear
 ---
 

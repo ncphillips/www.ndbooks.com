@@ -1,19 +1,22 @@
 ---
 title: "Thread"
 draft: false
-date: 2011-05-27T14:28:40-04:00
-publication_date: 2011-05-27T14:28:40-04:00
+date: 2011-05-27T14:28:40.000Z
+publication_date: 2011-05-27T14:28:40.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/michael-palmer.md
+  - author/michael-palmer.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811219211
+  - isbn: 9780811219211
+    binding: paperback
+featured_image_path:
 _slug: thread
 ---
 

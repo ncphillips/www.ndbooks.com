@@ -1,20 +1,22 @@
 ---
 title: "Complete Poems"
 draft: false
-date: 2003-12-01T06:00:00-04:00
-publication_date: 2003-12-01T06:00:00-04:00
+date: 2003-12-01T06:00:00.000Z
+publication_date: 2003-12-01T06:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/basil-bunting.md
+  - author/basil-bunting.md
 translator:
-  - contributor/richard-caddell.md
+  - author/richard-caddell.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811215633
+  - isbn: 9780811215633
+    binding: paperback
+featured_image_path:
 _slug: complete-poems
 ---
 

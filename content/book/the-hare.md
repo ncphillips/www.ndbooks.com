@@ -1,21 +1,24 @@
 ---
 title: "The Hare"
 draft: false
-date: 2013-07-25T14:52:00-04:00
-publication_date: 2013-07-25T14:52:00-04:00
+date: 2013-07-25T14:52:00.000Z
+publication_date: 2013-07-25T14:52:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: spanish
 author:
-  - contributor/cesar-aira.md
+  - author/cesar-aira.md
 translator:
-  - contributor/nick-caistor.md
+  - author/nick-caistor.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811220903
-  - 9780811221207
+  - isbn: 9780811220903
+    binding: paperback
+  - isbn: 9780811221207
+    binding: ebook
+featured_image_path:
 _slug: the-hare
 ---
 

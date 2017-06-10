@@ -1,20 +1,24 @@
 ---
 title: "The Selected Poems Of Li Po"
 draft: false
-date: 1996-05-01T05:00:00-04:00
-publication_date: 1996-05-01T05:00:00-04:00
+date: 1996-05-01T05:00:00.000Z
+publication_date: 1996-05-01T05:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language: chinese
 author:
-  - contributor/li-po.md
+  - author/li-po.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811213233
-  - 9780811223621
+  - isbn: 9780811213233
+    binding: paperback
+  - isbn: 9780811223621
+    binding: ebook
+featured_image_path:
 _slug: the-selected-poems-of-li-po
 ---
 

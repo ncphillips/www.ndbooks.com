@@ -1,20 +1,24 @@
 ---
 title: "A Far Cry from Kensington"
 draft: false
-date: 2000-09-01T05:00:00-04:00
-publication_date: 2000-09-01T05:00:00-04:00
+date: 2000-09-01T05:00:00.000Z
+publication_date: 2000-09-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/muriel-spark.md
+  - author/muriel-spark.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811214575
-  - 9780811220149
+  - isbn: 9780811214575
+    binding: paperback
+  - isbn: 9780811220149
+    binding: ebook
+featured_image_path:
 _slug: a-far-cry-from-kensington
 ---
 

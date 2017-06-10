@@ -1,21 +1,23 @@
 ---
 title: "Fairy Tales"
 draft: false
-date: 2015-03-26T19:37:00-04:00
-publication_date: 2015-04-20T14:53:00-04:00
+date: 2015-03-26T19:37:00.000Z
+publication_date: 2015-04-20T14:53:00.000Z
 subtitle: "Dramolettes"
 genre: theater
 subgenre:
 language: german
 author:
-  - contributor/robert-walser.md
+  - author/robert-walser.md
 translator:
-  - contributor/james-reidel.md
-  - contributor/daniele-pantano.md
+  - author/james-reidel.md
+  - author/daniele-pantano.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811223980
+  - isbn: 9780811223980
+    binding: paperback
+featured_image_path:
 _slug: fairy-tales
 ---
 

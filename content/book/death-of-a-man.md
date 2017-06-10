@@ -1,19 +1,22 @@
 ---
 title: "Death of a Man"
 draft: false
-date: 1989-04-01T06:00:20-04:00
-publication_date: 1989-04-01T06:00:20-04:00
+date: 1989-04-01T06:00:20.000Z
+publication_date: 1989-04-01T06:00:20.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/kay-boyle.md
+  - author/kay-boyle.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811210898
+  - isbn: 9780811210898
+    binding: paperback
+featured_image_path:
 _slug: death-of-a-man
 ---
 

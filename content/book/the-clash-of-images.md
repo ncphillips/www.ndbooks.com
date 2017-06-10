@@ -1,21 +1,23 @@
 ---
 title: "The Clash of Images"
 draft: false
-date: 2010-09-29T14:28:00-04:00
-publication_date: 2010-09-29T14:28:00-04:00
+date: 2010-09-29T14:28:00.000Z
+publication_date: 2010-09-29T14:28:00.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language: arabic
 author:
-  - contributor/abdelfattah-kilito.md
+  - author/abdelfattah-kilito.md
 translator:
-  - contributor/robyn-creswell.md
+  - author/robyn-creswell.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218863
+  - isbn: 9780811218863
+    binding: paperback
+featured_image_path:
 _slug: the-clash-of-images
 ---
 

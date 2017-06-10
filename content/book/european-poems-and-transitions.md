@@ -1,19 +1,22 @@
 ---
 title: "European Poems And Transitions"
 draft: false
-date: 1988-12-01T06:00:00-04:00
-publication_date: 1988-12-01T06:00:00-04:00
+date: 1988-12-01T06:00:00.000Z
+publication_date: 1988-12-01T06:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/lawrence-ferlinghetti.md
+  - author/lawrence-ferlinghetti.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811210843
+  - isbn: 9780811210843
+    binding: paperback
+featured_image_path:
 _slug: european-poems-and-transitions
 ---
 

@@ -1,21 +1,26 @@
 ---
 title: "Paterson"
 draft: false
-date: 1992-11-01T06:00:00-04:00
-publication_date: 1992-11-01T06:00:00-04:00
+date: 1992-11-01T06:00:00.000Z
+publication_date: 1992-11-01T06:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/william-carlos-williams.md
+  - author/william-carlos-williams.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811212984
-  - 9780811212250
-  - 9780811223416
+  - isbn: 9780811212984
+    binding: paperback
+  - isbn: 9780811212250
+    binding: clothbound
+  - isbn: 9780811223416
+    binding: ebook
+featured_image_path:
 _slug: paterson
 ---
 

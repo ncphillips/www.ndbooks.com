@@ -1,20 +1,22 @@
 ---
 title: "Poems to Read on a Streetcar"
 draft: false
-date: 2014-01-27T20:27:00-04:00
-publication_date: 2014-01-27T20:27:00-04:00
+date: 2014-01-27T20:27:00.000Z
+publication_date: 2014-01-27T20:27:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language: spanish
 author:
-  - contributor/oliverio-girondo.md
+  - author/oliverio-girondo.md
 translator:
-  - contributor/heather-cleary.md
+  - author/heather-cleary.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811221771
+  - isbn: 9780811221771
+    binding: paperback
+featured_image_path:
 _slug: poems-to-read-on-a-streetcar
 ---
 

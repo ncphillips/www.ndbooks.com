@@ -1,20 +1,24 @@
 ---
 title: "Bernard Foy’s Third Castling"
 draft: false
-date: 1989-04-01T06:00:15-04:00
-publication_date: 1989-04-01T06:00:15-04:00
+date: 1989-04-01T06:00:15.000Z
+publication_date: 1989-04-01T06:00:15.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/lars-gustafsson.md
+  - author/lars-gustafsson.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217750
-  - 9780811210867
+  - isbn: 9780811217750
+    binding: paperback
+  - isbn: 9780811210867
+    binding: clothbound
+featured_image_path:
 _slug: bernard-foys-third-castling
 ---
 

@@ -1,20 +1,22 @@
 ---
 title: "The Green Child"
 draft: false
-date: 2013-10-16T15:16:00-04:00
-publication_date: 2013-10-16T15:16:00-04:00
+date: 2013-10-16T15:16:00.000Z
+publication_date: 2013-10-16T15:16:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/herbert-read.md
+  - author/herbert-read.md
 translator:
-  - contributor/adam-phillips.md
+  - author/adam-phillips.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811221825
+  - isbn: 9780811221825
+    binding: paperback
+featured_image_path:
 _slug: the-green-child1
 ---
 

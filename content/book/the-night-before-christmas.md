@@ -1,21 +1,24 @@
 ---
 title: "The Night Before Christmas"
 draft: false
-date: 2011-10-28T14:28:00-04:00
-publication_date: 2011-10-28T14:28:00-04:00
+date: 2011-10-28T14:28:00.000Z
+publication_date: 2011-10-28T14:28:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: russian
 author:
-  - contributor/nikolai-gogol.md
+  - author/nikolai-gogol.md
 translator:
-  - contributor/constance-garnett.md
+  - author/constance-garnett.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811219471
-  - 9780811219693
+  - isbn: 9780811219471
+    binding: paperback
+  - isbn: 9780811219693
+    binding: ebook
+featured_image_path:
 _slug: the-night-before-christmas
 ---
 

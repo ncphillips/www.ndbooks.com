@@ -1,21 +1,24 @@
 ---
 title: "Cape of Storms"
 draft: false
-date: 1999-11-01T06:00:37-04:00
-publication_date: 1999-11-01T06:00:37-04:00
+date: 1999-11-01T06:00:37.000Z
+publication_date: 1999-11-01T06:00:37.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/nina-berberova.md
+  - author/nina-berberova.md
 translator:
-  - contributor/marian-schwartz.md
+  - author/marian-schwartz.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217651
-  - 9780811214162
+  - isbn: 9780811217651
+    binding: paperback
+  - isbn: 9780811214162
+    binding: clothbound
+featured_image_path:
 _slug: the-cape-of-storms
 ---
 

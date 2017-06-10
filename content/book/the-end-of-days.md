@@ -1,22 +1,26 @@
 ---
 title: "The End of Days"
 draft: false
-date: 2014-11-11T15:49:00-04:00
-publication_date: 2016-02-08T05:00:00-04:00
+date: 2014-11-11T15:49:00.000Z
+publication_date: 2016-02-08T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: german
 author:
-  - contributor/jenny-erpenbeck.md
+  - author/jenny-erpenbeck.md
 translator:
-  - contributor/susan-bernofsky.md
+  - author/susan-bernofsky.md
 editor:
-featured_image_path: /uploads/1422650752115_mountains-1600w.jpg
+
 editions:
-  - 9780811225137
-  - 9780811221924
-  - 9780811221931
+  - isbn: 9780811225137
+    binding: paperback
+  - isbn: 9780811221924
+    binding: clothbound
+  - isbn: 9780811221931
+    binding: ebook
+featured_image_path: /uploads/1422650752115_mountains-1600w.jpg
 _slug: the-end-of-days
 ---
 

@@ -1,21 +1,22 @@
 ---
 title: "The Shunra and the Schmetterling"
 draft: false
-date: 2004-05-01T05:00:07-04:00
-publication_date: 2004-05-01T05:00:07-04:00
+date: 2004-05-01T05:00:07.000Z
+publication_date: 2004-05-01T05:00:07.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/yoel-hoffmann.md
+  - author/yoel-hoffmann.md
 translator:
-  - contributor/peter-cole.md
+  - author/peter-cole.md
 editor:
-  - contributor/adam-phillips.md
-featured_image_path:
+  - author/adam-phillips.md
 editions:
-  - 9780811215671
+  - isbn: 9780811215671
+    binding: paperback
+featured_image_path:
 _slug: the-shunra-and-the-schmetterling
 ---
 

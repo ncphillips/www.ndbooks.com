@@ -1,22 +1,25 @@
 ---
 title: "Mr. Kafka and Other Tales from the Time of the Cult"
 draft: false
-date: 2015-03-19T20:51:00-04:00
-publication_date: 2015-10-27T04:00:00-04:00
+date: 2015-03-19T20:51:00.000Z
+publication_date: 2015-10-27T04:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language: czech
 author:
-  - contributor/bohumil-hrabal.md
+  - author/bohumil-hrabal.md
 translator:
-  - contributor/paul-wilson.md
+  - author/paul-wilson.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811224802
-  - 9780811224819
+  - isbn: 9780811224802
+    binding: paperback
+  - isbn: 9780811224819
+    binding: ebook
+featured_image_path:
 _slug: mr-kafka-and-other-tales-from-the-time-of-the-cult
 ---
 

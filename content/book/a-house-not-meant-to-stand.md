@@ -1,20 +1,22 @@
 ---
 title: "A House Not Meant To Stand"
 draft: false
-date: 2008-04-01T05:00:08-04:00
-publication_date: 2008-04-01T05:00:08-04:00
+date: 2008-04-01T05:00:08.000Z
+publication_date: 2008-04-01T05:00:08.000Z
 subtitle:
 genre: theater
 subgenre:
 language:
 author:
-  - contributor/tennessee-williams.md
+  - author/tennessee-williams.md
 translator:
+
 editor:
-  - contributor/thomas-keith.md
-featured_image_path:
+  - author/thomas-keith.md
 editions:
-  - 9780811217095
+  - isbn: 9780811217095
+    binding: paperback
+featured_image_path:
 _slug: a-house-not-meant-to-stand
 ---
 

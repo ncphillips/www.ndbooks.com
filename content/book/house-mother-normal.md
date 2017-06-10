@@ -1,21 +1,26 @@
 ---
 title: "House Mother Normal"
 draft: false
-date: 1986-04-01T06:00:00-04:00
-publication_date: 2016-08-23T23:00:00-04:00
+date: 1986-04-01T06:00:00.000Z
+publication_date: 2016-08-23T23:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/b.-s.-johnson.md
+  - author/b.-s.-johnson.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811222143
-  - 9780811209816
-  - 9780811209809
+  - isbn: 9780811222143
+    binding: paperback
+  - isbn: 9780811209816
+    binding: paperback
+  - isbn: 9780811209809
+    binding: clothbound
+featured_image_path:
 _slug: house-mother-normal
 ---
 

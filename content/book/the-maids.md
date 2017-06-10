@@ -1,20 +1,22 @@
 ---
 title: "The Maids"
 draft: false
-date: 2016-07-11T15:01:00-04:00
-publication_date: 2017-04-25T23:00:00-04:00
+date: 2016-07-11T15:01:00.000Z
+publication_date: 2017-04-25T23:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: japanese
 author:
-  - contributor/junichiro-tanizaki.md
+  - author/junichiro-tanizaki.md
 translator:
-  - contributor/michael-p-cronin.md
+  - author/michael-p-cronin.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811224925
+  - isbn: 9780811224925
+    binding: clothbound
+featured_image_path:
 _slug: the-maids
 ---
 

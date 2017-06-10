@@ -1,20 +1,24 @@
 ---
 title: "The Princess Of 72nd Street"
 draft: false
-date: 1979-11-01T06:00:14-04:00
-publication_date: 1979-11-01T06:00:14-04:00
+date: 1979-11-01T06:00:14.000Z
+publication_date: 1979-11-01T06:00:14.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/elaine-kraf.md
+  - author/elaine-kraf.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 978081120748X
-  - 9780811207492
+  - isbn: 978081120748X
+    binding: paperback
+  - isbn: 9780811207492
+    binding: clothbound
+featured_image_path:
 _slug: the-princess-of-72nd-street
 ---
 

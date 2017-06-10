@@ -1,19 +1,22 @@
 ---
 title: "A Commonplace Book Of Pentastichs"
 draft: false
-date: 1998-11-01T06:00:46-04:00
-publication_date: 1998-11-01T06:00:46-04:00
+date: 1998-11-01T06:00:46.000Z
+publication_date: 1998-11-01T06:00:46.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/james-laughlin.md
+  - author/james-laughlin.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811213868
+  - isbn: 9780811213868
+    binding: clothbound
+featured_image_path:
 _slug: a-commonplace-book-of-pentastichs
 ---
 

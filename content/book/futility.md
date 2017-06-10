@@ -1,19 +1,22 @@
 ---
 title: "Futility"
 draft: false
-date: 1991-09-01T05:00:55-04:00
-publication_date: 1991-09-01T05:00:55-04:00
+date: 1991-09-01T05:00:55.000Z
+publication_date: 1991-09-01T05:00:55.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/william-gerhardie.md
+  - author/william-gerhardie.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811211765
+  - isbn: 9780811211765
+    binding: paperback
+featured_image_path:
 _slug: futility
 ---
 

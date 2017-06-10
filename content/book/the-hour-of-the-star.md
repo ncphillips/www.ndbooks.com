@@ -1,21 +1,24 @@
 ---
 title: "The Hour of the Star"
 draft: false
-date: 2011-11-09T14:28:00-04:00
-publication_date: 2011-11-09T14:28:00-04:00
+date: 2011-11-09T14:28:00.000Z
+publication_date: 2011-11-09T14:28:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: portugese
 author:
-  - contributor/clarice-lispector.md
+  - author/clarice-lispector.md
 translator:
-  - contributor/benjamin-moser.md
+  - author/benjamin-moser.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811219495
-  - 9780811219600
+  - isbn: 9780811219495
+    binding: paperback
+  - isbn: 9780811219600
+    binding: ebook
+featured_image_path:
 _slug: the-hour-of-the-star
 ---
 

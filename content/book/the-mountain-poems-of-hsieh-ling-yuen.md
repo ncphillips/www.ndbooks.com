@@ -1,20 +1,22 @@
 ---
 title: "The Mountain Poems Of Hsieh Ling-Yün"
 draft: false
-date: 2001-11-01T06:00:50-04:00
-publication_date: 2001-11-01T06:00:50-04:00
+date: 2001-11-01T06:00:50.000Z
+publication_date: 2001-11-01T06:00:50.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/hsieh-ling-yuen.md
+  - author/hsieh-ling-yuen.md
 translator:
-  - contributor/david-hinton.md
+  - author/david-hinton.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811214896
+  - isbn: 9780811214896
+    binding: paperback
+featured_image_path:
 _slug: the-mountain-poems-of-hsieh-ling-yuen
 ---
 

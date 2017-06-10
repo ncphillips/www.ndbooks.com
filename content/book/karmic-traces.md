@@ -1,20 +1,23 @@
 ---
 title: "Karmic Traces"
 draft: false
-date: 2000-11-01T06:00:51-04:00
-publication_date: 2000-11-01T06:00:51-04:00
+date: 2000-11-01T06:00:51.000Z
+publication_date: 2000-11-01T06:00:51.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - essay
 language:
 author:
-  - contributor/eliot-weinberger.md
+  - author/eliot-weinberger.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811214568
+  - isbn: 9780811214568
+    binding: paperback
+featured_image_path:
 _slug: karmic-traces
 ---
 

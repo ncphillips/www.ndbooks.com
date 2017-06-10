@@ -1,19 +1,22 @@
 ---
 title: "Tell Me Again How The White Heron Rises ....."
 draft: false
-date: 1989-09-01T05:00:00-04:00
-publication_date: 1989-09-01T05:00:00-04:00
+date: 1989-09-01T05:00:00.000Z
+publication_date: 1989-09-01T05:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/hayden-carruth.md
+  - author/hayden-carruth.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811211048
+  - isbn: 9780811211048
+    binding: paperback
+featured_image_path:
 _slug: tell-me-again-how-the-white-heron-rises
 ---
 

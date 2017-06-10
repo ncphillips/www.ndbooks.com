@@ -1,19 +1,22 @@
 ---
 title: "Mysteriosos"
 draft: false
-date: 2010-04-01T05:00:35-04:00
-publication_date: 2010-04-01T05:00:35-04:00
+date: 2010-04-01T05:00:35.000Z
+publication_date: 2010-04-01T05:00:35.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/michael-mcclure.md
+  - author/michael-mcclure.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218429
+  - isbn: 9780811218429
+    binding: paperback
+featured_image_path:
 _slug: mysteriosos
 ---
 

@@ -1,21 +1,25 @@
 ---
 title: "On The Air With Dylan Thomas: The Broadcasts"
 draft: false
-date: 1992-04-01T06:00:46-04:00
-publication_date: 1992-04-01T06:00:46-04:00
+date: 1992-04-01T06:00:46.000Z
+publication_date: 1992-04-01T06:00:46.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - study
 language:
 author:
-  - contributor/dylan-thomas-d.md
+  - author/dylan-thomas-d.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217873
-  - 9780811212090
+  - isbn: 9780811217873
+    binding: paperback
+  - isbn: 9780811212090
+    binding: clothbound
+featured_image_path:
 _slug: on-the-air-with-dylan-thomas-the-broadcasts
 ---
 

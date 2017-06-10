@@ -1,21 +1,24 @@
 ---
 title: "Borges at Eighty"
 draft: false
-date: 2013-06-26T16:20:00-04:00
-publication_date: 2013-06-26T16:20:00-04:00
+date: 2013-06-26T16:20:00.000Z
+publication_date: 2013-06-26T16:20:00.000Z
 subtitle: "Conversations"
 genre: nonfiction
 subgenre:
 language: spanish
 author:
-  - contributor/jorge-luis-borges.md
+  - author/jorge-luis-borges.md
 translator:
-  - contributor/willis-barnstone.md
+  - author/willis-barnstone.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811221214
-  - 9780811223249
+  - isbn: 9780811221214
+    binding: paperback
+  - isbn: 9780811223249
+    binding: ebook
+featured_image_path:
 _slug: borges-at-eighty
 ---
 

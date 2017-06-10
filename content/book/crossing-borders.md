@@ -1,19 +1,22 @@
 ---
 title: "Crossing Borders"
 draft: false
-date: 1994-11-01T06:00:10-04:00
-publication_date: 1994-11-01T06:00:10-04:00
+date: 1994-11-01T06:00:10.000Z
+publication_date: 1994-11-01T06:00:10.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/peter-scott-pd.md
+  - author/peter-scott-pd.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811212847
+  - isbn: 9780811212847
+    binding: paperback
+featured_image_path:
 _slug: crossing-borders
 ---
 

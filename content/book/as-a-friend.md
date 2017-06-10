@@ -1,20 +1,24 @@
 ---
 title: "As a Friend"
 draft: false
-date: 2008-09-01T05:00:00-04:00
-publication_date: 2008-09-01T05:00:00-04:00
+date: 2008-09-01T05:00:00.000Z
+publication_date: 2008-09-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/forrest-gander.md
+  - author/forrest-gander.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217453
-  - 9780811223188
+  - isbn: 9780811217453
+    binding: paperback
+  - isbn: 9780811223188
+    binding: ebook
+featured_image_path:
 _slug: as-a-friend
 ---
 

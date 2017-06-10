@@ -1,20 +1,24 @@
 ---
 title: "Baby Doll & Tiger Tail"
 draft: false
-date: 1991-05-01T05:00:20-04:00
-publication_date: 1991-05-01T05:00:20-04:00
+date: 1991-05-01T05:00:20.000Z
+publication_date: 1991-05-01T05:00:20.000Z
 subtitle:
 genre: theater
 subgenre:
 language:
 author:
-  - contributor/tennessee-williams.md
+  - author/tennessee-williams.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811211673
-  - 9780811211666
+  - isbn: 9780811211673
+    binding: paperback
+  - isbn: 9780811211666
+    binding: clothbound
+featured_image_path:
 _slug: baby-doll-tiger-tail
 ---
 

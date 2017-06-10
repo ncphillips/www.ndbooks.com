@@ -1,21 +1,24 @@
 ---
 title: "The Halfway House"
 draft: false
-date: 2009-05-01T05:00:00-04:00
-publication_date: 2009-05-01T05:00:00-04:00
+date: 2009-05-01T05:00:00.000Z
+publication_date: 2009-05-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: spanish
 author:
-  - contributor/guillermo-rosales.md
+  - author/guillermo-rosales.md
 translator:
-  - contributor/anna-kushner.md
+  - author/anna-kushner.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218023
-  - 9780811223263
+  - isbn: 9780811218023
+    binding: paperback
+  - isbn: 9780811223263
+    binding: ebook
+featured_image_path:
 _slug: the-halfway-house
 ---
 

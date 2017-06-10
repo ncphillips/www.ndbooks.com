@@ -1,20 +1,22 @@
 ---
 title: "The Collected Poems of James Laughlin"
 draft: false
-date: 2014-10-14T14:55:00-04:00
-publication_date: 2014-10-14T14:55:00-04:00
+date: 2014-10-14T14:55:00.000Z
+publication_date: 2014-10-14T14:55:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/james-laughlin.md
+  - author/james-laughlin.md
 translator:
+
 editor:
-  - contributor/peter-glassgold.md
-featured_image_path:
+  - author/peter-glassgold.md
 editions:
-  - 9780811218764
+  - isbn: 9780811218764
+    binding: clothbound
+featured_image_path:
 _slug: the-collected-poems-of-james-laughlin
 ---
 

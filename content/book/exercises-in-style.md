@@ -1,20 +1,22 @@
 ---
 title: "Exercises In Style"
 draft: false
-date: 1981-02-01T06:00:00-04:00
-publication_date: 1981-02-01T06:00:00-04:00
+date: 1981-02-01T06:00:00.000Z
+publication_date: 1981-02-01T06:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/raymond-queneau.md
+  - author/raymond-queneau.md
 translator:
-  - contributor/barbara-wright.md
+  - author/barbara-wright.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811207898
+  - isbn: 9780811207898
+    binding: paperback
+featured_image_path:
 _slug: exercises-in-style
 ---
 

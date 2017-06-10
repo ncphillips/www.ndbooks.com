@@ -1,19 +1,22 @@
 ---
 title: "The Dancing Girl"
 draft: false
-date: 1993-11-01T06:00:14-04:00
-publication_date: 1993-11-01T06:00:14-04:00
+date: 1993-11-01T06:00:14.000Z
+publication_date: 1993-11-01T06:00:14.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/hasan-shah.md
+  - author/hasan-shah.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811212564
+  - isbn: 9780811212564
+    binding: paperback
+featured_image_path:
 _slug: the-dancing-girl
 ---
 

@@ -1,21 +1,25 @@
 ---
 title: "Hawthorn & Child"
 draft: false
-date: 2013-09-23T15:05:00-04:00
-publication_date: 2013-09-23T15:05:00-04:00
+date: 2013-09-23T15:05:00.000Z
+publication_date: 2013-09-23T15:05:00.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language:
 author:
-  - contributor/keith-ridgway.md
+  - author/keith-ridgway.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811221665
-  - 9780811221672
+  - isbn: 9780811221665
+    binding: paperback
+  - isbn: 9780811221672
+    binding: ebook
+featured_image_path:
 _slug: hawthorn-child
 ---
 

@@ -1,21 +1,24 @@
 ---
 title: "The Bridegroom Was a Dog"
 draft: false
-date: 2012-11-07T16:16:00-04:00
-publication_date: 2012-11-07T16:16:00-04:00
+date: 2012-11-07T16:16:00.000Z
+publication_date: 2012-11-07T16:16:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: japanese
 author:
-  - contributor/yoko-tawada.md
+  - author/yoko-tawada.md
 translator:
-  - contributor/margaret-mitsutani.md
+  - author/margaret-mitsutani.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811220378
-  - 9780811220606
+  - isbn: 9780811220378
+    binding: paperback
+  - isbn: 9780811220606
+    binding: ebook
+featured_image_path:
 _slug: the-bridegroom-was-a-dog
 ---
 

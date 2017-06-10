@@ -1,8 +1,8 @@
 ---
 title: "Fifteen Iraqi Poets"
 draft: false
-date: 2013-11-29T20:44:00-04:00
-publication_date: 2013-11-29T20:44:00-04:00
+date: 2013-11-29T20:44:00.000Z
+publication_date: 2013-11-29T20:44:00.000Z
 subtitle:
 genre: poetry
 subgenre:
@@ -10,11 +10,13 @@ language: arabic
 author:
 
 translator:
+
 editor:
-  - contributor/dunya-mikhail.md
-featured_image_path:
+  - author/dunya-mikhail.md
 editions:
-  - 9780811221795
+  - isbn: 9780811221795
+    binding: paperback
+featured_image_path:
 _slug: fifteen-iraqi-poets
 ---
 

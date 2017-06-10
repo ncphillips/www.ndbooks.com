@@ -1,20 +1,24 @@
 ---
 title: "The Theatre Of Tennessee Williams, Vol. I"
 draft: false
-date: 1990-09-01T05:00:21-04:00
-publication_date: 1990-09-01T05:00:21-04:00
+date: 1990-09-01T05:00:21.000Z
+publication_date: 1990-09-01T05:00:21.000Z
 subtitle:
 genre: theater
 subgenre:
 language:
 author:
-  - contributor/tennessee-williams.md
+  - author/tennessee-williams.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811211352
-  - 9780811204170
+  - isbn: 9780811211352
+    binding: paperback
+  - isbn: 9780811204170
+    binding: clothbound
+featured_image_path:
 _slug: the-theatre-of-tennessee-williams-vol.-i
 ---
 

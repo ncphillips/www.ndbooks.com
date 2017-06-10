@@ -1,22 +1,25 @@
 ---
 title: "The Noonday Cemetery"
 draft: false
-date: 2003-05-01T05:00:00-04:00
-publication_date: 2003-05-01T05:00:00-04:00
+date: 2003-05-01T05:00:00.000Z
+publication_date: 2003-05-01T05:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language: polish
 author:
-  - contributor/gustaw-herling-grudzinski.md
+  - author/gustaw-herling-grudzinski.md
 translator:
-  - contributor/bill-johnston.md
+  - author/bill-johnston.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216395
-  - 9780811215299
+  - isbn: 9780811216395
+    binding: paperback
+  - isbn: 9780811215299
+    binding: clothbound
+featured_image_path:
 _slug: the-noonday-cemetery
 ---
 

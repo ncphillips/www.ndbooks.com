@@ -1,20 +1,24 @@
 ---
 title: "The Christ of Fish"
 draft: false
-date: 2006-11-01T06:00:26-04:00
-publication_date: 2006-11-01T06:00:26-04:00
+date: 2006-11-01T06:00:26.000Z
+publication_date: 2006-11-01T06:00:26.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/yoel-hoffmann.md
+  - author/yoel-hoffmann.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216814
-  - 9780811214193
+  - isbn: 9780811216814
+    binding: paperback
+  - isbn: 9780811214193
+    binding: clothbound
+featured_image_path:
 _slug: the-christ-of-fish
 ---
 

@@ -1,20 +1,24 @@
 ---
 title: "Spring Poems Along The Rio Grande"
 draft: false
-date: 2007-04-01T05:00:00-04:00
-publication_date: 2007-04-01T05:00:00-04:00
+date: 2007-04-01T05:00:00.000Z
+publication_date: 2007-04-01T05:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/jimmy-baca.md
+  - author/jimmy-baca.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216852
-  - 9780811223393
+  - isbn: 9780811216852
+    binding: paperback
+  - isbn: 9780811223393
+    binding: ebook
+featured_image_path:
 _slug: spring-poems-along-the-rio-grande
 ---
 

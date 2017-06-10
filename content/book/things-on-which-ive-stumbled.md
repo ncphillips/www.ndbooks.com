@@ -1,19 +1,22 @@
 ---
 title: "Things On Which I’ve Stumbled"
 draft: false
-date: 2008-09-01T05:00:16-04:00
-publication_date: 2008-09-01T05:00:16-04:00
+date: 2008-09-01T05:00:16.000Z
+publication_date: 2008-09-01T05:00:16.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/peter-cole.md
+  - author/peter-cole.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218030
+  - isbn: 9780811218030
+    binding: paperback
+featured_image_path:
 _slug: things-on-which-ive-stumbled
 ---
 

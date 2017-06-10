@@ -1,22 +1,24 @@
 ---
 title: "The Passion According to G.H."
 draft: false
-date: 2012-06-13T20:01:00-04:00
-publication_date: 2012-06-13T20:01:00-04:00
+date: 2012-06-13T20:01:00.000Z
+publication_date: 2012-06-13T20:01:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/clarice-lispector.md
+  - author/clarice-lispector.md
 translator:
-  - contributor/idra-novey.md
+  - author/idra-novey.md
 editor:
-  - contributor/benjamin-moser.md
-featured_image_path: /uploads/1427060437257/four_lispectors.jpg
+  - author/benjamin-moser.md
 editions:
-  - 9780811219686
-  - 9780811220699
+  - isbn: 9780811219686
+    binding: paperback
+  - isbn: 9780811220699
+    binding: ebook
+featured_image_path: /uploads/1427060437257/four_lispectors.jpg
 _slug: the-passion-according-to-g.h
 ---
 

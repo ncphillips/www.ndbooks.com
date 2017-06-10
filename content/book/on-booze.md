@@ -1,21 +1,25 @@
 ---
 title: "On Booze"
 draft: false
-date: 2011-06-29T14:51:00-04:00
-publication_date: 2011-06-29T14:51:00-04:00
+date: 2011-06-29T14:51:00.000Z
+publication_date: 2011-06-29T14:51:00.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - essay
 language:
 author:
-  - contributor/f-scott-fitzgerald.md
+  - author/f-scott-fitzgerald.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811219266
-  - 9780811219334
+  - isbn: 9780811219266
+    binding: paperback
+  - isbn: 9780811219334
+    binding: ebook
+featured_image_path:
 _slug: on-booze
 ---
 

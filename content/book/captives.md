@@ -1,20 +1,22 @@
 ---
 title: "Captives"
 draft: false
-date: 2014-12-11T15:48:00-04:00
-publication_date: 2014-12-11T15:48:00-04:00
+date: 2014-12-11T15:48:00.000Z
+publication_date: 2014-12-11T15:48:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/norman-manea.md
+  - author/norman-manea.md
 translator:
-  - contributor/jean-harris.md
+  - author/jean-harris.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811220477
+  - isbn: 9780811220477
+    binding: paperback
+featured_image_path:
 _slug: captives
 ---
 

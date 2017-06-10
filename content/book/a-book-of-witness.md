@@ -1,19 +1,22 @@
 ---
 title: "A Book Of Witness"
 draft: false
-date: 2003-04-01T06:00:36-04:00
-publication_date: 2003-04-01T06:00:36-04:00
+date: 2003-04-01T06:00:36.000Z
+publication_date: 2003-04-01T06:00:36.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/jerome-rothenberg.md
+  - author/jerome-rothenberg.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811215374
+  - isbn: 9780811215374
+    binding: paperback
+featured_image_path:
 _slug: a-book-of-witness
 ---
 

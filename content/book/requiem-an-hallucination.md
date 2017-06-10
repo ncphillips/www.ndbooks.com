@@ -1,22 +1,26 @@
 ---
 title: "Requiem: An Hallucination"
 draft: false
-date: 2002-11-01T06:00:00-04:00
-publication_date: 2002-11-01T06:00:00-04:00
+date: 2002-11-01T06:00:00.000Z
+publication_date: 2002-11-01T06:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: italian
 author:
-  - contributor/antonio-tabucchi.md
+  - author/antonio-tabucchi.md
 translator:
-  - contributor/margaret-jull-costa.md
+  - author/margaret-jull-costa.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811215176
-  - 9780811212700
-  - 9780811222495
+  - isbn: 9780811215176
+    binding: paperback
+  - isbn: 9780811212700
+    binding: clothbound
+  - isbn: 9780811222495
+    binding: ebook
+featured_image_path:
 _slug: requiem-an-hallucination
 ---
 

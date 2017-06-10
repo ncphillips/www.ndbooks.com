@@ -1,20 +1,24 @@
 ---
 title: "In The Dark Before Dawn"
 draft: false
-date: 2005-04-01T06:00:00-04:00
-publication_date: 2005-04-01T06:00:00-04:00
+date: 2005-04-01T06:00:00.000Z
+publication_date: 2005-04-01T06:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/thomas-merton.md
+  - author/thomas-merton.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216135
-  - 9780811223102
+  - isbn: 9780811216135
+    binding: paperback
+  - isbn: 9780811223102
+    binding: ebook
+featured_image_path:
 _slug: in-the-dark-before-dawn
 ---
 

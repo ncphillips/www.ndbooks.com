@@ -1,22 +1,25 @@
 ---
 title: "The Teeth of the Comb & Other Stories"
 draft: false
-date: 2016-07-11T15:13:00-04:00
-publication_date: 2017-04-25T04:00:00-04:00
+date: 2016-07-11T15:13:00.000Z
+publication_date: 2017-04-25T04:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: arabic
 author:
-  - contributor/osama-alomar.md
+  - author/osama-alomar.md
 translator:
-  - contributor/osama-alomar.md
-  - contributor/c.-j.-collins.md
+  - author/osama-alomar.md
+  - author/c.-j.-collins.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811226073
-  - 9780811225830
+  - isbn: 9780811226073
+    binding: paperback
+  - isbn: 9780811225830
+    binding: ebook
+featured_image_path:
 _slug: the-teeth-of-the-comb-other-stories
 ---
 

@@ -1,20 +1,22 @@
 ---
 title: "Romantic Dogs"
 draft: false
-date: 2008-11-01T05:00:00-04:00
-publication_date: 2008-11-01T05:00:00-04:00
+date: 2008-11-01T05:00:00.000Z
+publication_date: 2008-11-01T05:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language: spanish
 author:
-  - contributor/roberto-bolano.md
+  - author/roberto-bolano.md
 translator:
-  - contributor/laura-healy.md
+  - author/laura-healy.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811218016
+  - isbn: 9780811218016
+    binding: paperback
+featured_image_path:
 _slug: romantic-dogs
 ---
 

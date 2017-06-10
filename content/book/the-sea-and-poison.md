@@ -1,20 +1,22 @@
 ---
 title: "The Sea and Poison"
 draft: false
-date: 1992-04-01T06:00:38-04:00
-publication_date: 1992-04-01T06:00:38-04:00
+date: 1992-04-01T06:00:38.000Z
+publication_date: 1992-04-01T06:00:38.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/shusaku-endo.md
+  - author/shusaku-endo.md
 translator:
-  - contributor/michael-gallagher.md
+  - author/michael-gallagher.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811211987
+  - isbn: 9780811211987
+    binding: paperback
+featured_image_path:
 _slug: the-sea-and-poison
 ---
 

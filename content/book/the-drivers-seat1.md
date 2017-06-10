@@ -1,20 +1,24 @@
 ---
 title: "The Driver’s Seat"
 draft: false
-date: 2014-04-29T14:11:00-04:00
-publication_date: 2014-04-29T14:11:00-04:00
+date: 2014-04-29T14:11:00.000Z
+publication_date: 2014-04-29T14:11:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: portuguese
 author:
-  - contributor/muriel-spark.md
+  - author/muriel-spark.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811223010
-  - 9780811221368
+  - isbn: 9780811223010
+    binding: paperback
+  - isbn: 9780811221368
+    binding: ebook
+featured_image_path:
 _slug: the-drivers-seat1
 ---
 

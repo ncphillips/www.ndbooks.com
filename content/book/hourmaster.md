@@ -1,21 +1,24 @@
 ---
 title: "Hourmaster"
 draft: false
-date: 1998-04-01T06:00:39-04:00
-publication_date: 1998-04-01T06:00:39-04:00
+date: 1998-04-01T06:00:39.000Z
+publication_date: 1998-04-01T06:00:39.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/christophe-bataille.md
+  - author/christophe-bataille.md
 translator:
-  - contributor/richard-howard.md
+  - author/richard-howard.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217644
-  - 9780811213578
+  - isbn: 9780811217644
+    binding: paperback
+  - isbn: 9780811213578
+    binding: clothbound
+featured_image_path:
 _slug: hourmaster
 ---
 

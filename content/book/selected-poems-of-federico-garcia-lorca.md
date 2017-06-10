@@ -1,19 +1,22 @@
 ---
 title: "Selected Poems of Federico García Lorca"
 draft: false
-date: 2013-06-12T14:31:00-04:00
-publication_date: 2013-06-12T14:31:00-04:00
+date: 2013-06-12T14:31:00.000Z
+publication_date: 2013-06-12T14:31:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language: spanish
 author:
-  - contributor/federico-garcia-lorca.md
+  - author/federico-garcia-lorca.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811221627
+  - isbn: 9780811221627
+    binding: paperback
+featured_image_path:
 _slug: selected-poems-of-federico-garcia-lorca
 ---
 

@@ -1,21 +1,25 @@
 ---
 title: "Fictive Certainties"
 draft: false
-date: 1985-11-01T06:00:43-04:00
-publication_date: 1985-11-01T06:00:43-04:00
+date: 1985-11-01T06:00:43.000Z
+publication_date: 1985-11-01T06:00:43.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - essay
 language:
 author:
-  - contributor/robert-duncan.md
+  - author/robert-duncan.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811209496
-  - 9780811209441
+  - isbn: 9780811209496
+    binding: paperback
+  - isbn: 9780811209441
+    binding: clothbound
+featured_image_path:
 _slug: fictive-certainties
 ---
 

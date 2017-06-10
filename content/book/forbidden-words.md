@@ -1,20 +1,22 @@
 ---
 title: "Forbidden Words"
 draft: false
-date: 2003-02-01T06:00:48-04:00
-publication_date: 2003-02-01T06:00:48-04:00
+date: 2003-02-01T06:00:48.000Z
+publication_date: 2003-02-01T06:00:48.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/eugenio-de-andrade.md
+  - author/eugenio-de-andrade.md
 translator:
-  - contributor/alexis-levitin.md
+  - author/alexis-levitin.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811215237
+  - isbn: 9780811215237
+    binding: paperback
+featured_image_path:
 _slug: forbidden-words
 ---
 

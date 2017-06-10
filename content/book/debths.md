@@ -1,20 +1,24 @@
 ---
 title: "Debths"
 draft: false
-date: 2016-11-21T20:30:00-04:00
-publication_date: 2017-06-27T04:00:00-04:00
+date: 2016-11-21T20:30:00.000Z
+publication_date: 2017-06-27T04:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/susan-howe.md
+  - author/susan-howe.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811226851
-  - 9780811226868
+  - isbn: 9780811226851
+    binding: paperback
+  - isbn: 9780811226868
+    binding: ebook
+featured_image_path:
 _slug: debths
 ---
 

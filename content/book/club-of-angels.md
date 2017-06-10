@@ -1,21 +1,24 @@
 ---
 title: "The Club of Angels"
 draft: false
-date: 2008-06-01T05:00:55-04:00
-publication_date: 2008-06-01T05:00:55-04:00
+date: 2008-06-01T05:00:55.000Z
+publication_date: 2008-06-01T05:00:55.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/luis-verissimo.md
+  - author/luis-verissimo.md
 translator:
-  - contributor/margaret-jull-costa.md
+  - author/margaret-jull-costa.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217552
-  - 9780811215008
+  - isbn: 9780811217552
+    binding: paperback
+  - isbn: 9780811215008
+    binding: clothbound
+featured_image_path:
 _slug: club-of-angels
 ---
 

@@ -1,19 +1,22 @@
 ---
 title: "The Infinite Moment"
 draft: false
-date: 1992-04-01T06:00:00-04:00
-publication_date: 1992-04-01T06:00:00-04:00
+date: 1992-04-01T06:00:00.000Z
+publication_date: 1992-04-01T06:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language: japanese
 author:
-  - contributor/sam-hamill.md
+  - author/sam-hamill.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811211994
+  - isbn: 9780811211994
+    binding: paperback
+featured_image_path:
 _slug: the-infinite-moment
 ---
 

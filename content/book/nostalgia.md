@@ -1,20 +1,22 @@
 ---
 title: "Nostalgia"
 draft: false
-date: 2005-11-01T06:00:00-04:00
-publication_date: 2005-11-01T06:00:00-04:00
+date: 2005-11-01T06:00:00.000Z
+publication_date: 2005-11-01T06:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
 language: portuguese
 author:
-  - contributor/mircea-cartarescu.md
+  - author/mircea-cartarescu.md
 translator:
-  - contributor/julian-semilian.md
+  - author/julian-semilian.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811215886
+  - isbn: 9780811215886
+    binding: paperback
+featured_image_path:
 _slug: nostalgia
 ---
 

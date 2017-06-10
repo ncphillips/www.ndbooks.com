@@ -1,20 +1,24 @@
 ---
 title: "Rebecca’s Daughters"
 draft: false
-date: 1983-10-01T05:00:55-04:00
-publication_date: 1983-10-01T05:00:55-04:00
+date: 1983-10-01T05:00:55.000Z
+publication_date: 1983-10-01T05:00:55.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/dylan-thomas-d.md
+  - author/dylan-thomas-d.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811208840
-  - 9780811208529
+  - isbn: 9780811208840
+    binding: paperback
+  - isbn: 9780811208529
+    binding: clothbound
+featured_image_path:
 _slug: rebeccas-daughters
 ---
 

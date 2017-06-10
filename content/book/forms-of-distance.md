@@ -1,20 +1,22 @@
 ---
 title: "Forms Of Distance"
 draft: false
-date: 1994-06-01T05:00:58-04:00
-publication_date: 1994-06-01T05:00:58-04:00
+date: 1994-06-01T05:00:58.000Z
+publication_date: 1994-06-01T05:00:58.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/bei-dao.md
+  - author/bei-dao.md
 translator:
-  - contributor/david-hinton.md
+  - author/david-hinton.md
 editor:
-featured_image_path:
+
 editions:
-  - 9780811212663
+  - isbn: 9780811212663
+    binding: clothbound
+featured_image_path:
 _slug: forms-of-distance
 ---
 

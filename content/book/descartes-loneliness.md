@@ -1,20 +1,23 @@
 ---
 title: "Descartes’ Loneliness"
 draft: false
-date: 2007-12-01T06:00:00-04:00
-publication_date: 2007-12-01T06:00:00-04:00
+date: 2007-12-01T06:00:00.000Z
+publication_date: 2007-12-01T06:00:00.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language:
 author:
-  - contributor/allen-grossman.md
+  - author/allen-grossman.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217118
+  - isbn: 9780811217118
+    binding: paperback
+featured_image_path:
 _slug: descartes-loneliness
 ---
 

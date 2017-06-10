@@ -1,8 +1,8 @@
 ---
 title: "New Directions 35"
 draft: false
-date: 2001-01-01T05:59:59-04:00
-publication_date: 2001-01-01T05:59:59-04:00
+date: 2001-01-01T05:59:59.000Z
+publication_date: 2001-01-01T05:59:59.000Z
 subtitle:
 genre: fiction
 subgenre:
@@ -11,10 +11,13 @@ language:
 author:
 
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811206563
+  - isbn: 9780811206563
+    binding: clothbound
+featured_image_path:
 _slug: new-directions-35
 ---
 

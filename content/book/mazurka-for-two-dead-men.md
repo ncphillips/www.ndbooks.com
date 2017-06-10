@@ -1,20 +1,24 @@
 ---
 title: "Mazurka for Two Dead Men"
 draft: false
-date: 1994-09-01T05:00:11-04:00
-publication_date: 1994-09-01T05:00:11-04:00
+date: 1994-09-01T05:00:11.000Z
+publication_date: 1994-09-01T05:00:11.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/camilo-jose-cela.md
+  - author/camilo-jose-cela.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811212779
-  - 9780811212229
+  - isbn: 9780811212779
+    binding: paperback
+  - isbn: 9780811212229
+    binding: clothbound
+featured_image_path:
 _slug: mazurka-for-two-dead-men
 ---
 

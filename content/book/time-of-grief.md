@@ -1,19 +1,22 @@
 ---
 title: "Time of Grief"
 draft: false
-date: 2013-02-21T17:21:00-04:00
-publication_date: 2013-02-21T17:21:00-04:00
+date: 2013-02-21T17:21:00.000Z
+publication_date: 2013-02-21T17:21:00.000Z
 subtitle: "Mourning Poems"
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/jeffrey-yang-author-page.md
+  - author/jeffrey-yang-author-page.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811220323
+  - isbn: 9780811220323
+    binding: paperback
+featured_image_path:
 _slug: time-of-grief
 ---
 

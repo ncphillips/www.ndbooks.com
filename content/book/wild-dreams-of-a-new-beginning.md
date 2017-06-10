@@ -1,19 +1,22 @@
 ---
 title: "Wild Dreams Of A New Beginning"
 draft: false
-date: 1988-12-01T06:00:00-04:00
-publication_date: 1988-12-01T06:00:00-04:00
+date: 1988-12-01T06:00:00.000Z
+publication_date: 1988-12-01T06:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/lawrence-ferlinghetti.md
+  - author/lawrence-ferlinghetti.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811210751
+  - isbn: 9780811210751
+    binding: paperback
+featured_image_path:
 _slug: wild-dreams-of-a-new-beginning
 ---
 

@@ -1,19 +1,22 @@
 ---
 title: "Works and Days "
 draft: false
-date: 2015-10-21T17:33:00-04:00
-publication_date: 2016-06-28T04:00:00-04:00
+date: 2015-10-21T17:33:00.000Z
+publication_date: 2016-06-28T04:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language:
 author:
-  - contributor/bernadette-mayer.md
+  - author/bernadette-mayer.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811225175
+  - isbn: 9780811225175
+    binding: paperback
+featured_image_path:
 _slug: works-and-days
 ---
 

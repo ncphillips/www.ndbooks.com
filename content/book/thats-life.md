@@ -1,20 +1,24 @@
 ---
 title: "That’s Life"
 draft: false
-date: 1985-04-01T06:00:26-04:00
-publication_date: 1985-04-01T06:00:26-04:00
+date: 1985-04-01T06:00:26.000Z
+publication_date: 1985-04-01T06:00:26.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/william-herrick.md
+  - author/william-herrick.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811209472
-  - 9780811209465
+  - isbn: 9780811209472
+    binding: paperback
+  - isbn: 9780811209465
+    binding: clothbound
+featured_image_path:
 _slug: thats-life
 ---
 

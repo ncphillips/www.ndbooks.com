@@ -1,21 +1,25 @@
 ---
 title: "The Cardiff Team"
 draft: false
-date: 1996-11-01T06:00:23-04:00
-publication_date: 1996-11-01T06:00:23-04:00
+date: 1996-11-01T06:00:23.000Z
+publication_date: 1996-11-01T06:00:23.000Z
 subtitle:
 genre: fiction
 subgenre:
   - stories
 language:
 author:
-  - contributor/guy-davenport.md
+  - author/guy-davenport.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811217705
-  - 9780811213356
+  - isbn: 9780811217705
+    binding: paperback
+  - isbn: 9780811213356
+    binding: clothbound
+featured_image_path:
 _slug: the-cardiff-team
 ---
 

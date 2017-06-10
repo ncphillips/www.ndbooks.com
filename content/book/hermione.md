@@ -1,19 +1,22 @@
 ---
 title: "HERmione"
 draft: false
-date: 1981-11-01T06:00:53-04:00
-publication_date: 1981-11-01T06:00:53-04:00
+date: 1981-11-01T06:00:53.000Z
+publication_date: 1981-11-01T06:00:53.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/hilda-doolittle-h.-d.md
+  - author/hilda-doolittle-h.-d.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811208178
+  - isbn: 9780811208178
+    binding: paperback
+featured_image_path:
 _slug: hermione
 ---
 

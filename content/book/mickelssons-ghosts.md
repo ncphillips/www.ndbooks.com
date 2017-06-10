@@ -1,19 +1,22 @@
 ---
 title: "Mickelsson’s Ghosts"
 draft: false
-date: 2008-09-01T05:00:24-04:00
-publication_date: 2008-09-01T05:00:24-04:00
+date: 2008-09-01T05:00:24.000Z
+publication_date: 2008-09-01T05:00:24.000Z
 subtitle:
 genre: fiction
 subgenre:
 language:
 author:
-  - contributor/john-gardner.md
+  - author/john-gardner.md
 translator:
+
 editor:
-featured_image_path:
+
 editions:
-  - 9780811216791
+  - isbn: 9780811216791
+    binding: paperback
+featured_image_path:
 _slug: mickelssons-ghosts
 ---
 

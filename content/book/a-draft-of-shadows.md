@@ -1,22 +1,24 @@
 ---
 title: "A Draft Of Shadows"
 draft: false
-date: 1980-02-01T06:00:00-04:00
-publication_date: 1980-02-01T06:00:00-04:00
+date: 1980-02-01T06:00:00.000Z
+publication_date: 1980-02-01T06:00:00.000Z
 subtitle:
 genre: poetry
 subgenre:
 language: spanish
 author:
-  - contributor/octavio-paz.md
+  - author/octavio-paz.md
 translator:
-  - contributor/eliot-weinberger.md
+  - author/eliot-weinberger.md
 editor:
-  - contributor/eliot-weinberger.md
-featured_image_path:
+  - author/eliot-weinberger.md
 editions:
-  - 9780811207386
-  - 9780811207379
+  - isbn: 9780811207386
+    binding: paperback
+  - isbn: 9780811207379
+    binding: clothbound
+featured_image_path:
 _slug: a-draft-of-shadows
 ---
 

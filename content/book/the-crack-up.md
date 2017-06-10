@@ -1,22 +1,25 @@
 ---
 title: "The Crack-Up"
 draft: false
-date: 2009-02-01T06:00:00-04:00
-publication_date: 2009-02-01T06:00:00-04:00
+date: 2009-02-01T06:00:00.000Z
+publication_date: 2009-02-01T06:00:00.000Z
 subtitle:
 genre: nonfiction
 subgenre:
   - essay
 language:
 author:
-  - contributor/f-scott-fitzgerald.md
+  - author/f-scott-fitzgerald.md
 translator:
+
 editor:
-  - contributor/edmund-wilson.md
-featured_image_path:
+  - author/edmund-wilson.md
 editions:
-  - 9780811218207
-  - 9780811219716
+  - isbn: 9780811218207
+    binding: paperback
+  - isbn: 9780811219716
+    binding: ebook
+featured_image_path:
 _slug: the-crack-up
 ---
 
