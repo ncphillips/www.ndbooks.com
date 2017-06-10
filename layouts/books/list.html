@@ -1,41 +1,6 @@
 {{ define "main" }}
 {{ $books :=  sort (where (.Site.Data.editions) ".binding" "ne" "ebook") "publication_date" "desc" }}
-{{ $book :=  index (where .Site.RegularPages "Section" "book")  }}
-
-
-
-
-{{/* {{ $book := index (index $book).Params.editions }}
-
-{{ $book }} */}}
-
-
-{{/* {{ $book_isbn := slice ($book).Params.editions  }} */}}
-
-{{/* {{ $book_isbn }} */}}
-{{/* {{ range $book }}
-
-  <h3 class="">{{.Params.editions }}</h3>
-{{ end }} */}}
-
-{{/* {{ $book_isbn := (index $book).Params.editions }}
-
-{{ $book_isbn }} */}}
-
-
-
-  {{/* {{ $events := where $books ".Date.Unix" "ge" now.Unix }}
-  {{ $events_past := where $books.Reverse ".Date.Unix" "<" now.Unix }} */}}
-
-
-{{/*
-  {{ $staff := where .Site.RegularPages "Section" "staff" }}
-  {{ $ps := .Params.production_staff }}
-
-  {{ $b := where ($staff) ".File.BaseFileName" "in" $ps }}
-  by {{ range $i, $b := $b }}{{ if $i }}, {{ end }}<a href="{{ .URL }}" class="dim link white-90">{{ .Title }}</a>{{ end }}
- */}}
-
+{{ $book := where .Site.RegularPages "Section" "book" }}
 
 
 
@@ -46,34 +11,33 @@
   {{ partial "page-content.html" . }}
 
 
-
-
-{{/* {{ $thebooks := slice $book.Params.editions }} */}}
-
   {{ range first 30 $books }}
 
-  {{/* {{ range $book }}
-    {{ range .Params.editions }}
-        {{ $.Scratch.Add "edition" . }}
-    {{ end }}
 
+  {{ range $book }}
+
+    {{ range .Params.editions }}
+    {{/* {{ $isbneach := $.Param ".isbn" }} */}}
+      {{ $.Scratch.Set "isbn" .isbn }}
+
+
+    {{ end }}
   {{ end }}
 
-{{ $edition := $.Scratch.Get "edition" }}
-<h2 class="">{{ $edition }}</h2> */}}
-{{/*
-{{ $related_book := where $edition .isbn }} */}}
-
-
-{{/* {{ . }} */}}
-
-{{/* {{ end }} */}}
 
 <h3 class="">
-{{/* {{ $related_book.Title  }} */}}
+
 {{ int .isbn }} ({{ .book_title }})
 
-  {{/* {{ $related_book := where $book_isbn .isbn }} */}}
+  {{ $book_isbn := $.Scratch.Get "isbn" }}
+
+
+[{{ $book_isbn }}]
+  {{/* {{ $related_book := index (where ($book) $book_isbn "eq" "9780811227193" ) 0 }} */}}
+
+
+
+  {{/* {{ $related_book.Title }} */}}
 
   {{/* {{ $related_book }} */}}
  -  {{  dateFormat "Jan 02, 2006" .publication_date }}
