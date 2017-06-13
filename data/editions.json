@@ -21,27 +21,6 @@
     "description": ""
   },
   {
-    "isbn": "000001111",
-    "title": "new editino",
-    "binding": "",
-    "publication_date": "2017-06-12T12:48:36+00:00",
-    "show_in_forthcoming": false,
-    "contributors": [
-
-    ],
-    "cover_image": "",
-    "price": {
-      "forsale": false,
-      "saleprice": "",
-      "shipping_charge": "",
-      "price_us": "",
-      "price_cn": ""
-    },
-    "trim_size": "",
-    "page_count": "",
-    "description": ""
-  },
-  {
     "isbn": 9780811226936,
     "title": "The Book of Disquiet (The Complete Edition)",
     "binding": "clothbound",
