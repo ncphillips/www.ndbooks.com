@@ -1,26 +1,5 @@
 [
   {
-    "isbn": "000001111",
-    "title": "new editino",
-    "binding": "",
-    "publication_date": "2017-06-12T12:48:36+00:00",
-    "show_in_forthcoming": false,
-    "contributors": [
-
-    ],
-    "cover_image": "",
-    "price": {
-      "forsale": false,
-      "saleprice": "",
-      "shipping_charge": "",
-      "price_us": "",
-      "price_cn": ""
-    },
-    "trim_size": "",
-    "page_count": "",
-    "description": ""
-  },
-  {
     "isbn": 9780811208994,
     "title": "Selected Poems of Octavio Paz",
     "binding": "paperback",
@@ -35,6 +14,27 @@
       "saleprice": "",
       "shipping_charge": "",
       "price_us": 15.95,
+      "price_cn": ""
+    },
+    "trim_size": "",
+    "page_count": "",
+    "description": ""
+  },
+  {
+    "isbn": "000001111",
+    "title": "new editino",
+    "binding": "",
+    "publication_date": "2017-06-12T12:48:36+00:00",
+    "show_in_forthcoming": false,
+    "contributors": [
+
+    ],
+    "cover_image": "",
+    "price": {
+      "forsale": false,
+      "saleprice": "",
+      "shipping_charge": "",
+      "price_us": "",
       "price_cn": ""
     },
     "trim_size": "",
